@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "과장님!",
+      "ENGLISH": "Manager!",
+      "CHINESE_SIMPLIFIED": "科长",
+      "CHINESE_TRADITIONAL": "科長",
+      "JAPANESE": "課長！",
+      "INDONESIAN": "Manajer!",
+      "PORTUGUESE": "Gerente!",
+      "RUSSIAN": "Менеджер!",
+      "FRENCH": "Manager !",
+      "THAI": "ผู้จัดการ!",
+      "PERSIAN": "Manager!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "바닥도 한번 찾아볼까요?",
+      "ENGLISH": "Should we check the floor too?",
+      "CHINESE_SIMPLIFIED": "您要不要看看地板上有没有啊?",
+      "CHINESE_TRADITIONAL": "您要不要看看地板上有沒有啊?",
+      "JAPANESE": "一度、下の側も探してみましょうか？",
+      "INDONESIAN": "Haruskah kita cek lantainya juga?",
+      "PORTUGUESE": "Devemos verificar o chão também?",
+      "RUSSIAN": "Может, проверим на полу?",
+      "FRENCH": "On devrait vérifier par terre aussi ?",
+      "THAI": "เราควรเช็กพื้นด้วยไหม?",
+      "PERSIAN": "باید کف را هم بررسی کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그게 왜 바닥에 있어!",
+      "ENGLISH": "Why would it be on the floor?",
+      "CHINESE_SIMPLIFIED": "怎么可能会在地板上?",
+      "CHINESE_TRADITIONAL": "怎麼可能會在地板上?",
+      "JAPANESE": "そんたところにあるはずないじゃない！",
+      "INDONESIAN": "Kenapa harus ada di lantai?",
+      "PORTUGUESE": "Por que estaria no chão?",
+      "RUSSIAN": "Почему он должен быть на полу?",
+      "FRENCH": "Pourquoi il serait par terre ?",
+      "THAI": "มันจะไปอยู่บนพื้นได้ไง?",
+      "PERSIAN": "چرا باید روی زمین باشد؟"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 다른 거 만지다가",
+      "ENGLISH": "Maybe it fell",
+      "CHINESE_SIMPLIFIED": "因为拿别的东西的时候有",
+      "CHINESE_TRADITIONAL": "因爲拿別的東西的時候有",
+      "JAPANESE": "他の物を触っている時間に",
+      "INDONESIAN": "Mungkin jatuh",
+      "PORTUGUESE": "Talvez tenha caído",
+      "RUSSIAN": "Может, он упал,",
+      "FRENCH": "Peut-être qu’il est tombé",
+      "THAI": "บางทีมันอาจจะตกลงมา",
+      "PERSIAN": "شاید افتاد"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "바닥에 떨어졌을 수도 있으니까..",
+      "ENGLISH": "While we were moving things around...",
+      "CHINESE_SIMPLIFIED": "可能会掉到地板上啊…",
+      "CHINESE_TRADITIONAL": "可能會掉到地板上啊…",
+      "JAPANESE": "床に落ちたかもしれないじゃないですか…",
+      "INDONESIAN": "Waktu kita mindahin barang-barang...",
+      "PORTUGUESE": "Enquanto movíamos as coisas...",
+      "RUSSIAN": "пока мы двигали вещи...",
+      "FRENCH": "quand on bougeait des affaires...",
+      "THAI": "ตอนที่เราขยับของ...",
+      "PERSIAN": "وقتی داشتیم وسایل رو جابجا میکردیم..."
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 알았어.",
+      "ENGLISH": "Alright, fine.",
+      "CHINESE_SIMPLIFIED": "我看看",
+      "CHINESE_TRADITIONAL": "我看看",
+      "JAPANESE": "分かったわ。",
+      "INDONESIAN": "Oke, deh.",
+      "PORTUGUESE": "Certo, tudo bem.",
+      "RUSSIAN": "Ладно, хорошо.",
+      "FRENCH": "Bon, d’accord.",
+      "THAI": "โอเค ๆ.",
+      "PERSIAN": "باشه خوبه"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "哦！",
+      "CHINESE_TRADITIONAL": "哦！",
+      "JAPANESE": "おっ！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 여기 있네?",
+      "ENGLISH": "It’s actually here!",
+      "CHINESE_SIMPLIFIED": "真的在这!",
+      "CHINESE_TRADITIONAL": "真的在這!",
+      "JAPANESE": "本当にここにあったのね。",
+      "INDONESIAN": "Beneran di sini?!",
+      "PORTUGUESE": "Tá mesmo aqui?!",
+      "RUSSIAN": "Он действительно здесь!",
+      "FRENCH": "Il est vraiment là !",
+      "THAI": "มันอยู่ตรงนี้จริง ๆ!",
+      "PERSIAN": "در واقع اینجاست!"
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "거봐요! 내 말 맞죠?",
+      "ENGLISH": "See? I told you so!",
+      "CHINESE_SIMPLIFIED": "您看，我就说嘛~",
+      "CHINESE_TRADITIONAL": "您看，我就說嘛~",
+      "JAPANESE": "ほら！僕の言った通りでしょ？",
+      "INDONESIAN": "Tuh kan! Aku udah bilang!",
+      "PORTUGUESE": "Viu? Eu te falei!",
+      "RUSSIAN": "Видишь? Я же говорил(а)!",
+      "FRENCH": "Tu vois ? Je te l’avais dit !",
+      "THAI": "เห็นไหม! บอกแล้วไง!",
+      "PERSIAN": "ببینید؟ من به شما گفتم!"
+    },
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 26.0
+    }
+  }
+]

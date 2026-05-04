@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~",
+      "ENGLISH": "Hello everyone!",
+      "CHINESE_SIMPLIFIED": "大家好~",
+      "CHINESE_TRADITIONAL": "大家好~",
+      "JAPANESE": "こんにちは～",
+      "INDONESIAN": "Halo semuanya!",
+      "PORTUGUESE": "Olá a todos!",
+      "RUSSIAN": "Всем привет!",
+      "FRENCH": "Bonjour à tous !",
+      "THAI": "สวัสดีทุกคน!"
+    },
+    "TIME": {
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저는 <하숙생이 전부 미녀입니다만?>에서",
+      "ENGLISH": "I’m Jo Seung-yi, playing the role of ‘Seung-yi’ ",
+      "CHINESE_SIMPLIFIED": "我是在《阿西,美女室友竟然...》中",
+      "CHINESE_TRADITIONAL": "我是在《阿西,美女室友竟然...》中",
+      "JAPANESE": "私は <まさか！下宿生が美女ですって？>で",
+      "INDONESIAN": "Aku Jo Seung-yi, memerankan karakter ‘Seung-yi’",
+      "PORTUGUESE": "Eu sou Jo Seung-yi, interpretando a personagem ‘Seung-yi’",
+      "RUSSIAN": "Я Джо Сын-и, играю роль Сын-и",
+      "FRENCH": "Je suis Jo Seung-yi, et j’interprète le rôle de ‘Seung-yi’",
+      "THAI": "ฉันคือโจ ซึงอี รับบทเป็น ‘ซึงอี’"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "'조승이' 역할을 맡은 조승이 입니다. ",
+      "ENGLISH": "in Five Hearts Under One Roof.",
+      "CHINESE_SIMPLIFIED": "扮演\"曹圣依\"的曹圣依",
+      "CHINESE_TRADITIONAL": "扮演\"曹聖依\"的曹聖依",
+      "JAPANESE": "チョ・スンイ役を演じたチョ・スンイと申します。",
+      "INDONESIAN": "di Five Hearts Under One Roof.",
+      "PORTUGUESE": "em Five Hearts Under One Roof.",
+      "RUSSIAN": "в сериале «Пять сердец под одной крышей».",
+      "FRENCH": "dans Cinq cœurs sous un même toit.",
+      "THAI": "ในเรื่องห้าหัวใจใต้หลังคาเดียวกัน"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이번에 제가 맡은 캐릭터는",
+      "ENGLISH": "My character has a pretty intense backstory.",
+      "CHINESE_SIMPLIFIED": "这次我饰演的角色是",
+      "CHINESE_TRADITIONAL": "這次我飾演的角色是",
+      "JAPANESE": "今回、私が演じたキャラクターは",
+      "INDONESIAN": "Karakterku punya latar belakang yang cukup berat.",
+      "PORTUGUESE": "Minha personagem tem uma história bem intensa.",
+      "RUSSIAN": "У моей героини довольно непростая предыстория.",
+      "FRENCH": "Mon personnage a une histoire assez intense.",
+      "THAI": "ตัวละครของฉันมีอดีตที่ค่อนข้างหนัก"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어렸을 때, 사람에게 엄청 크게 상처를 받고",
+      "ENGLISH": "She was deeply hurt by someone when she was young, ",
+      "CHINESE_SIMPLIFIED": "小时候，被人伤害过",
+      "CHINESE_TRADITIONAL": "小時候，被人傷害過",
+      "JAPANESE": "幼い頃に人にひどく傷つけられ",
+      "INDONESIAN": "Dia pernah terluka parah oleh seseorang saat masih kecil,",
+      "PORTUGUESE": "Ela foi profundamente machucada por alguém quando era jovem,",
+      "RUSSIAN": "В детстве кто-то сильно её обидел,",
+      "FRENCH": "Elle a été profondément blessée par quelqu’un dans son enfance,",
+      "THAI": "เธอเคยถูกทำร้ายอย่างรุนแรงเมื่อตอนเด็ก"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "방황을 하다가",
+      "ENGLISH": "which made her withdraw from the world.",
+      "CHINESE_SIMPLIFIED": "在彷徨中",
+      "CHINESE_TRADITIONAL": "在彷徨中",
+      "JAPANESE": "家出をし、ひとりでいたところ",
+      "INDONESIAN": "yang membuatnya menarik diri dari dunia luar.",
+      "PORTUGUESE": "o que a fez se afastar do mundo.",
+      "RUSSIAN": "и это заставило её замкнуться в себе.",
+      "FRENCH": "ce qui l’a poussée à se retirer du monde.",
+      "THAI": "ซึ่งทำให้เธอปิดกั้นตัวเองจากโลกภายนอก"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "우연한 기회로 남자 주인공(유만)의 부모님을 만나게 되어서",
+      "ENGLISH": "But through a twist of fate, she meets the parents of the male lead, Yuman, ",
+      "CHINESE_SIMPLIFIED": "偶然的机会遇到了男主人公（宥万）的父母",
+      "CHINESE_TRADITIONAL": "偶然的機會遇到了男主人公（宥萬）的父母",
+      "JAPANESE": "偶然、主人公（ユマン）の両親に出会い",
+      "INDONESIAN": "Tapi melalui sebuah takdir, dia bertemu dengan orang tua tokoh utama pria, Yuman,",
+      "PORTUGUESE": "Mas, por um golpe do destino, ela conhece os pais do protagonista masculino, Yuman,",
+      "RUSSIAN": "Но по воле судьбы она встречает родителей главного героя Юмана",
+      "FRENCH": "Mais grâce à un coup du destin, elle rencontre les parents du personnage principal, Yuman,",
+      "THAI": "แต่ด้วยโชคชะตานำพาให้เธอได้พบกับพ่อแม่ของยูมัน"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "하숙집에서 생활을 하게 되는 히키코모리(은둔형 외톨이)입니다.",
+      "ENGLISH": "and ends up living at their boarding house.",
+      "CHINESE_SIMPLIFIED": "寄宿于合租房的孤僻宅女",
+      "CHINESE_TRADITIONAL": "寄宿於合租房的孤僻宅女",
+      "JAPANESE": "下宿先で引きこもり生活を始めます。",
+      "INDONESIAN": "dan akhirnya tinggal di rumah kos mereka.",
+      "PORTUGUESE": "e acaba morando na pensão deles.",
+      "RUSSIAN": "и оказывается в их пансионате.",
+      "FRENCH": "et finit par vivre dans leur pension.",
+      "THAI": "และเธอได้มาอาศัยอยู่ที่บ้านพักของพวกเขา"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "남자 주인공인 우유만 님에게",
+      "ENGLISH": "Seung-yi is a hikikomori—a recluse—but with Yuman’s support, ",
+      "CHINESE_SIMPLIFIED": "在主人公吴宥万的帮助下",
+      "CHINESE_TRADITIONAL": "在主人公吳宥萬的幫助下",
+      "JAPANESE": "主人公のユマンさんによって",
+      "INDONESIAN": "Seung-yi adalah seorang hikikomori—penyendiri—tapi dengan dukungan Yuman,",
+      "PORTUGUESE": "Seung-yi é uma hikikomori—uma reclusa—mas, com o apoio de Yuman,",
+      "RUSSIAN": "Сын-и — хикикомори, она почти не выходит из дома, но с поддержкой Юмана",
+      "FRENCH": "Seung-yi est une hikikomori—une recluse—mais avec le soutien de Yuman,",
+      "THAI": "ซึงอีเป็นฮิกิโคโมริ—คือคนที่เก็บตัวไม่ออกจากบ้าน—แต่ด้วยการสนับสนุนของยูมัน"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 24.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "구원을 받아가지고, 넓은 세상을 깨달아가는!",
+      "ENGLISH": "she starts to come out of her shell",
+      "CHINESE_SIMPLIFIED": "得到救赎，走向广阔天地的！",
+      "CHINESE_TRADITIONAL": "得到救贖，走向廣闊天地的！",
+      "JAPANESE": "救われ、広い世界を知り",
+      "INDONESIAN": "dia mulai keluar dari cangkangnya",
+      "PORTUGUESE": "ela começa a sair da sua concha",
+      "RUSSIAN": "она начинает выходить из своей скорлупы",
+      "FRENCH": "elle commence à sortir de sa coquille",
+      "THAI": "เธอเริ่มออกมาจากเปลือกของตัวเอง"
+    },
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 27.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "알아가는 캐릭터입니다. ",
+      "ENGLISH": "and experience the world she’s been hiding from.",
+      "CHINESE_SIMPLIFIED": "逐渐成长的角色",
+      "CHINESE_TRADITIONAL": "逐漸成長的角色",
+      "JAPANESE": "学んでいくキャラクターです。",
+      "INDONESIAN": "dan menjelajahi dunia yang selama ini dia jauhi.",
+      "PORTUGUESE": "e a experimentar o mundo do qual se escondeu por tanto tempo.",
+      "RUSSIAN": "и познавать мир, от которого долгое время скрывалась.",
+      "FRENCH": "et à découvrir le monde dont elle s’était isolée.",
+      "THAI": "และได้สัมผัสโลกภายนอกที่เธอเคยหลีกหนีมาตลอด"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 29.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "\"우유만! 빨리 일어나야지!\"",
+      "ENGLISH": "\"Yuman! Come on, you’ve got to get up already!\"",
+      "CHINESE_SIMPLIFIED": "“吴宥万！快起床啦”",
+      "CHINESE_TRADITIONAL": "“吳宥萬！快起牀啦”",
+      "JAPANESE": "「ユマンさん、早く起きないと！」",
+      "INDONESIAN": "\"Yuman! Ayo, kamu harus bangun!\"",
+      "PORTUGUESE": "\"Yuman! Anda, você precisa levantar já!\"",
+      "RUSSIAN": "«Юман! Ну же, вставай уже!»",
+      "FRENCH": "« Yuman ! Allez, il faut que tu te lèves ! »",
+      "THAI": "“ยูมัน! ตื่นเถอะ!”"
+    },
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "\"유만 님 부모님이 방을 내줘서... ",
+      "ENGLISH": "\"Your parents let me stay here... I’m really thankful.\"",
+      "CHINESE_SIMPLIFIED": "“是宥万您的父母让我住在这的”",
+      "CHINESE_TRADITIONAL": "“是宥萬您的父母讓我住在這的”",
+      "JAPANESE": "「ユマンさんのご両親が部屋を貸してくれて…」",
+      "INDONESIAN": "\"Orang tuamu izinin aku tinggal di sini... Aku benar-benar berterima kasih.\"",
+      "PORTUGUESE": "\"Seus pais me deixaram ficar aqui... Eu sou muito grata.\"",
+      "RUSSIAN": "«Твои родители разрешили мне остаться здесь... Я очень благодарна».",
+      "FRENCH": "« Tes parents m’ont laissé rester ici... Je suis vraiment reconnaissante. »",
+      "THAI": "“พ่อแม่ของเธอให้ฉันอยู่ที่นี่... ฉันรู้สึกขอบคุณจริงๆ”"
+    },
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 37.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "\"감사합니다...\"",
+      "ENGLISH": "\"Thank you...\"",
+      "CHINESE_SIMPLIFIED": "“谢谢您...“”",
+      "CHINESE_TRADITIONAL": "“謝謝您...“”",
+      "JAPANESE": "「ありがとうございます…」",
+      "INDONESIAN": "\"Terima kasih...\"",
+      "PORTUGUESE": "\"Obrigada...\"",
+      "RUSSIAN": "«Спасибо...»",
+      "FRENCH": "« Merci... »",
+      "THAI": "“ขอบคุณนะ...”"
+    },
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 38.3
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "\"덕분에 배가 좀 찼어요\"",
+      "ENGLISH": "\"Thanks to you... I feel like I’ve got some energy back.\"",
+      "CHINESE_SIMPLIFIED": "“托您的福，肚子有点饱了“”",
+      "CHINESE_TRADITIONAL": "“託您的福，肚子有點飽了“”",
+      "JAPANESE": "「おかげでお腹が少し満たされました」",
+      "INDONESIAN": "\"Berkat kamu... rasanya aku punya energi lagi.\"",
+      "PORTUGUESE": "\"Graças a você... sinto que recuperei um pouco da minha energia.\"",
+      "RUSSIAN": "«Благодаря тебе... у меня будто появилась энергия».",
+      "FRENCH": "« Grâce à toi... j’ai l’impression de retrouver un peu d’énergie. »",
+      "THAI": "“เพราะเธอ... ฉันรู้สึกเหมือนพอจะมีแรงกลับมาอีกครั้ง”"
+    },
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 41.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "\"저한테 소중한 거예요, 건드리지 마세요!\"",
+      "ENGLISH": "\"This is really important to me. Please don’t touch it!\"",
+      "CHINESE_SIMPLIFIED": "“这些对我来说很珍贵，不要碰！”",
+      "CHINESE_TRADITIONAL": "“這些對我來說很珍貴，不要碰！”",
+      "JAPANESE": "「私にとって大事なものです、触らないでください！」",
+      "INDONESIAN": "\"Ini penting banget buatku. Tolong jangan sentuh!\"",
+      "PORTUGUESE": "\"Isto é muito importante para mim. Por favor, não toque!\"",
+      "RUSSIAN": "«Это очень важно для меня. Пожалуйста, не трогай!»",
+      "FRENCH": "« C’est vraiment important pour moi. Ne le touche pas, s’il te plaît ! »",
+      "THAI": "“นี่สำคัญมากสำหรับฉันนะ ได้โปรดอย่าจับมัน!”"
+    },
+    "TIME": {
+      "SHOW": 41.3,
+      "HIDE": 44.4
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "\"주세요 소중한 거예요!\"",
+      "ENGLISH": "\"Give it back, it’s precious to me!\"",
+      "CHINESE_SIMPLIFIED": "“请还给我，这些是我的宝物！”",
+      "CHINESE_TRADITIONAL": "“請還給我，這些是我的寶物！”",
+      "JAPANESE": "「返してください、大事なものなんです！」",
+      "INDONESIAN": "\"Kembalikan, ini berharga buatku!\"",
+      "PORTUGUESE": "\"Devolve, isso é precioso pra mim!\"",
+      "RUSSIAN": "«Отдай обратно, это для меня драгоценно!»",
+      "FRENCH": "« Rends-le-moi, c’est précieux pour moi ! »",
+      "THAI": "“คืนมานะ มันมีค่ากับฉันมาก!”"
+    },
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 46.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "\"많이 놀라게 해서 죄송해요\"",
+      "ENGLISH": "\"I’m sorry if I scared you.\"",
+      "CHINESE_SIMPLIFIED": "“很抱歉吓到您了“”",
+      "CHINESE_TRADITIONAL": "“很抱歉嚇到您了“”",
+      "JAPANESE": "「驚かせてしまってごめんなさい」",
+      "INDONESIAN": "\"Maaf kalau aku bikin kamu takut.\"",
+      "PORTUGUESE": "\"Desculpa se te assustei.\"",
+      "RUSSIAN": "«Извини, если я тебя напугала».",
+      "FRENCH": "« Je suis désolée si je t’ai fait peur ».",
+      "THAI": "“ขอโทษนะถ้าฉันทำให้เธอตกใจ”"
+    },
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 50.7
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "\"저 많이 어렸을 때부터... 많이 놀라셨죠?\"",
+      "ENGLISH": "\"I’ve been like this since I was a kid... You must’ve been shocked, right?\"",
+      "CHINESE_SIMPLIFIED": "“我从小就... 很惊讶吧？”",
+      "CHINESE_TRADITIONAL": "“我從小就... 很驚訝吧？”",
+      "JAPANESE": "「私、幼い頃から…驚かせてしまいましたよね？」",
+      "INDONESIAN": "\"Aku udah kayak gini sejak kecil... Kamu pasti kaget, kan?\"",
+      "PORTUGUESE": "\"Eu sou assim desde pequena... Você deve ter ficado chocado, né?\"",
+      "RUSSIAN": "«Я такой с детства... Ты, должно быть, была шокирована, правда?»",
+      "FRENCH": "« Je suis comme ça depuis que je suis petite... Ça a dû te choquer, non ? »",
+      "THAI": "“ฉันเป็นแบบนี้มาตั้งแต่เด็ก... เธอต้องตกใจมากใช่ไหม?”"
+    },
+    "TIME": {
+      "SHOW": 51.3,
+      "HIDE": 55.2
+    }
+  }
+]

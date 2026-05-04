@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아이~ 오늘은 안 됩니다.",
+      "ENGLISH": "Ah~ not today.",
+      "CHINESE_SIMPLIFIED": "今天不行",
+      "CHINESE_TRADITIONAL": "今天不行",
+      "JAPANESE": "ああ～今日はダメです。",
+      "INDONESIAN": "Ah~ nggak hari ini.",
+      "PORTUGUESE": "Ah~ hoje não.",
+      "RUSSIAN": "Ах~ не сегодня.",
+      "FRENCH": "Ah~ pas aujourd’hui.",
+      "THAI": "อ๊า~ ไม่ใช่วันนี้.",
+      "PERSIAN": "آه ~ امروز نه"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "에?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "당신이 뭔데요.",
+      "ENGLISH": "Who do you think you are?",
+      "CHINESE_SIMPLIFIED": "你谁啊?",
+      "CHINESE_TRADITIONAL": "你誰啊?",
+      "JAPANESE": "あなた、何様ですか？",
+      "INDONESIAN": "Kamu pikir kamu siapa?",
+      "PORTUGUESE": "Quem você pensa que é?",
+      "RUSSIAN": "Кем ты себя возомнил?",
+      "FRENCH": "Tu te prends pour qui ?",
+      "THAI": "คิดว่านายเป็นใครกัน?",
+      "PERSIAN": "فکر میکنی کی هستی؟"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저... 저 매니전데요?",
+      "ENGLISH": "I’m... I’m the manager!",
+      "CHINESE_SIMPLIFIED": "我…我是她经纪人",
+      "CHINESE_TRADITIONAL": "我…我是她經紀人",
+      "JAPANESE": "えっと…僕、マネージャーですけど？",
+      "INDONESIAN": "Aku... aku manajer!",
+      "PORTUGUESE": "Eu... eu sou o gerente!",
+      "RUSSIAN": "Я... я менеджер!",
+      "FRENCH": "Je... je suis le manager !",
+      "THAI": "ฉะ...ฉันเป็นผู้จัดการ!",
+      "PERSIAN": "من... من مدیر هستم!"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아닌데...",
+      "ENGLISH": "No...",
+      "CHINESE_SIMPLIFIED": "不是啊...",
+      "CHINESE_TRADITIONAL": "不是啊...",
+      "JAPANESE": "違うと思うけど…",
+      "INDONESIAN": "Nggak...",
+      "PORTUGUESE": "Não...",
+      "RUSSIAN": "Нет...",
+      "FRENCH": "Non...",
+      "THAI": "ไม่...",
+      "PERSIAN": "نه..."
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "매니저 아닌데....",
+      "ENGLISH": "You're not...",
+      "CHINESE_SIMPLIFIED": "你看着可不像经纪人…",
+      "CHINESE_TRADITIONAL": "你看着可不像經紀人…",
+      "JAPANESE": "マネージャーじゃないだろ…",
+      "INDONESIAN": "Bukan kamu...",
+      "PORTUGUESE": "Você não é...",
+      "RUSSIAN": "Ты не менеджер...",
+      "FRENCH": "T’es pas le manager...",
+      "THAI": "นายไม่ใช่ผู้จัดการ...",
+      "PERSIAN": "تو نیستی..."
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 안 된다고!!!",
+      "ENGLISH": "I said no!!!",
+      "CHINESE_SIMPLIFIED": "我说了不行！！！",
+      "CHINESE_TRADITIONAL": "我說了不行！！！",
+      "JAPANESE": "あ、ダメだって言ってんだろ！！！",
+      "INDONESIAN": "Aku bilang nggak!!!",
+      "PORTUGUESE": "Eu disse que não!!!",
+      "RUSSIAN": "Я сказала, нет!!!",
+      "FRENCH": "J’ai dit non !!!",
+      "THAI": "ฉันบอกว่า ไม่!!!",
+      "PERSIAN": "گفتم نه!!!"
+    },
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아씨...",
+      "ENGLISH": "Ugh...",
+      "CHINESE_SIMPLIFIED": "我擦…",
+      "CHINESE_TRADITIONAL": "我擦…",
+      "JAPANESE": "ちっ…",
+      "INDONESIAN": "Ugh...",
+      "PORTUGUESE": "Ugh...",
+      "RUSSIAN": "Ух...",
+      "FRENCH": "Ouf...",
+      "THAI": "อุ๊ย...",
+      "PERSIAN": "Ugh..."
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "목 괜찮아요?",
+      "ENGLISH": "Is your neck okay?",
+      "CHINESE_SIMPLIFIED": "你的嗓子还好吗?",
+      "CHINESE_TRADITIONAL": "你的嗓子還好嗎?",
+      "JAPANESE": "喉、大丈夫ですか？",
+      "INDONESIAN": "Leher kamu nggak apa-apa?",
+      "PORTUGUESE": "Seu pescoço tá bem?",
+      "RUSSIAN": "У тебя всё в порядке с шеей?",
+      "FRENCH": "Ça va, ton cou ?",
+      "THAI": "คอของนายโอเคไหม?",
+      "PERSIAN": "گردنت خوبه؟"
+    },
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "네! 괜찮아요!",
+      "ENGLISH": "Yes, I’m fine!",
+      "CHINESE_SIMPLIFIED": "我没事",
+      "CHINESE_TRADITIONAL": "我沒事",
+      "JAPANESE": "はい！大丈夫です！",
+      "INDONESIAN": "Iya, aku baik-baik aja!",
+      "PORTUGUESE": "Sim, estou bem!",
+      "RUSSIAN": "Да, всё нормально!",
+      "FRENCH": "Oui, ça va !",
+      "THAI": "โอเค สบายดี!",
+      "PERSIAN": "بله، من خوبم!"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "우리 빨리 카페 가요!",
+      "ENGLISH": "Let’s hurry",
+      "CHINESE_SIMPLIFIED": "我们快点去咖啡店吧!",
+      "CHINESE_TRADITIONAL": "我們快點去咖啡店吧!",
+      "JAPANESE": "早くカフェ行きましょう！",
+      "INDONESIAN": "Ayo cepat",
+      "PORTUGUESE": "Vamos logo",
+      "RUSSIAN": "Пошли быстрее,",
+      "FRENCH": "Dépêchons-nous,",
+      "THAI": "รีบไปกันเถอะ,",
+      "PERSIAN": "عجله کنیم"
+    },
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "카페 가요!",
+      "ENGLISH": "Go cafe!",
+      "CHINESE_SIMPLIFIED": "去咖啡店吧!",
+      "CHINESE_TRADITIONAL": "去咖啡店吧!",
+      "JAPANESE": "行きましょう！",
+      "INDONESIAN": "Ke kafe!",
+      "PORTUGUESE": "Pro café!",
+      "RUSSIAN": "в кафе!",
+      "FRENCH": "au café !",
+      "THAI": "ไปคาเฟ่!",
+      "PERSIAN": "برو کافه!"
+    },
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 24.9
+    }
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "차로 오니까",
+      "ENGLISH": "Driving here makes",
+      "CHINESE_SIMPLIFIED": "开车来公司就是快啊",
+      "CHINESE_TRADITIONAL": "開車來公司就是快啊",
+      "JAPANESE": "車だと",
+      "INDONESIAN": "Nyetir ke sini bikin",
+      "PORTUGUESE": "Dirigir até aqui",
+      "RUSSIAN": "Ездить сюда на машине",
+      "FRENCH": "Venir ici en voiture",
+      "THAI": "ขับรถมาที่นี่",
+      "PERSIAN": "رانندگی در اینجا باعث می شود"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "회사까지 금방 오네요...",
+      "ENGLISH": "The commute so quick...",
+      "CHINESE_SIMPLIFIED": "一眨眼的功夫就到了…",
+      "CHINESE_TRADITIONAL": "一眨眼的功夫就到了…",
+      "JAPANESE": "会社まであっという間だね…",
+      "INDONESIAN": "Perjalanan jadi cepat banget...",
+      "PORTUGUESE": "Deixa a viagem tão rápida...",
+      "RUSSIAN": "очень ускоряет дорогу...",
+      "FRENCH": "rend le trajet tellement plus rapide...",
+      "THAI": "ทำให้เดินทางเร็วขึ้นเยอะเลย...",
+      "PERSIAN": "رفت و آمد خیلی سریع..."
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 깜짝이야!",
+      "ENGLISH": "Oh, jeez!",
+      "CHINESE_SIMPLIFIED": "啊!吓我一跳!",
+      "CHINESE_TRADITIONAL": "啊!嚇我一跳!",
+      "JAPANESE": "あ、びっくりした！",
+      "INDONESIAN": "Aduh!",
+      "PORTUGUESE": "Ah, caramba!",
+      "RUSSIAN": "О, чёрт!",
+      "FRENCH": "Oh, putain !",
+      "THAI": "เฮ้ย!",
+      "PERSIAN": "اوه، جیز!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저 새끼가 진짜!",
+      "ENGLISH": "What the hell!",
+      "CHINESE_SIMPLIFIED": "这个神经病真的是!",
+      "CHINESE_TRADITIONAL": "這個神經病真的是!",
+      "JAPANESE": "あのバカヤロウ、ほんとに！",
+      "INDONESIAN": "Apa-apaan ini!",
+      "PORTUGUESE": "Que diabos!",
+      "RUSSIAN": "Что за хрень?!",
+      "FRENCH": "C’est quoi ce bordel ?!",
+      "THAI": "อะไรกันเนี่ย?!",
+      "PERSIAN": "چه جهنمی!"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네? 저요?",
+      "ENGLISH": "Huh? Me?",
+      "CHINESE_SIMPLIFIED": "啊？我吗?",
+      "CHINESE_TRADITIONAL": "啊？我嗎?",
+      "JAPANESE": "え？僕ですか？",
+      "INDONESIAN": "Hah? Aku?",
+      "PORTUGUESE": "Hã? Eu?",
+      "RUSSIAN": "А? Я?",
+      "FRENCH": "Hein ? Moi ?",
+      "THAI": "ห๊ะ? ฉันเหรอ?",
+      "PERSIAN": "Huh? Me?"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "누구야! 저 사람!",
+      "ENGLISH": "Who is he? That guy!",
+      "CHINESE_SIMPLIFIED": "那个人是谁啊?",
+      "CHINESE_TRADITIONAL": "那個人是誰啊?",
+      "JAPANESE": "あの人、誰だ？",
+      "INDONESIAN": "Itu siapa? Orang itu!",
+      "PORTUGUESE": "Quem é ele? Aquele cara!",
+      "RUSSIAN": "Кто он? Этот парень!",
+      "FRENCH": "C’est qui, lui ? Ce type !",
+      "THAI": "เขาเป็นใคร? ไอ้หมอนั่น!",
+      "PERSIAN": "او کیه؟ اون مرد!"
+    },
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저게 여기가 어디라고 와!",
+      "ENGLISH": "What is he doing here! / [As*hole]",
+      "CHINESE_SIMPLIFIED": "狗崽子居然敢跑来这里!",
+      "CHINESE_TRADITIONAL": "他居然敢跑來這裏! ",
+      "JAPANESE": "ここがどこだと思ってるのよ！",
+      "INDONESIAN": "Ngapain dia di sini! / [Kurang ajar]",
+      "PORTUGUESE": "O que ele tá fazendo aqui! / [Idiota]",
+      "RUSSIAN": "Что он здесь делает?! / [Ур*д]",
+      "FRENCH": "Qu’est-ce qu’il fait ici ? / [Enfoiré]",
+      "THAI": "เขามาทำอะไรที่นี่?! / [ไอ้เวร]",
+      "PERSIAN": "اینجا چیکار میکنه! / [به عنوان*سوراخ]"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Эм?",
+      "FRENCH": "Euh ?",
+      "THAI": "เอ่อ...?",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아씨..",
+      "ENGLISH": "Crap...",
+      "CHINESE_SIMPLIFIED": "那个…",
+      "CHINESE_TRADITIONAL": "那個…",
+      "JAPANESE": "おい…",
+      "INDONESIAN": "Sial...",
+      "PORTUGUESE": "Droga...",
+      "RUSSIAN": "Чёрт...",
+      "FRENCH": "Merde...",
+      "THAI": "แย่ละ...",
+      "PERSIAN": "مزخرف..."
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "왜 이렇게 전화를 안 받아?",
+      "ENGLISH": "Why aren’t you answering my calls?",
+      "CHINESE_SIMPLIFIED": "你为什么不接电话?",
+      "CHINESE_TRADITIONAL": "你爲什麼不接電話?",
+      "JAPANESE": "何で電話に出ないんだよ？",
+      "INDONESIAN": "Kenapa kamu nggak angkat teleponku?",
+      "PORTUGUESE": "Por que você não atendeu minhas ligações?",
+      "RUSSIAN": "Почему ты не отвечаешь на мои звонки?",
+      "FRENCH": "Pourquoi tu réponds pas à mes appels ?",
+      "THAI": "ทำไมไม่รับสายฉัน?",
+      "PERSIAN": "چرا به تماس های من پاسخ نمی دهید؟"
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 28.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "너 같으면 받겠니?",
+      "ENGLISH": "Would you answer if you were me?",
+      "CHINESE_SIMPLIFIED": "换做是你你会接吗?",
+      "CHINESE_TRADITIONAL": "換做是你你會接嗎?",
+      "JAPANESE": "何で出ないといけないのよ！",
+      "INDONESIAN": "Kalau kamu jadi aku, bakal jawab?",
+      "PORTUGUESE": "Você atenderia se fosse eu?",
+      "RUSSIAN": "Ты бы ответила, если бы была на моём месте?",
+      "FRENCH": "T’aurais répondu à ma place, toi ?",
+      "THAI": "ถ้านายเป็นฉัน นายจะรับไหมล่ะ?",
+      "PERSIAN": "اگه جای من بودی جواب میدی؟"
+    },
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "여기가 어디라고 찾아 와?",
+      "ENGLISH": "Why are you here?",
+      "CHINESE_SIMPLIFIED": "谁给你的胆子来这?",
+      "CHINESE_TRADITIONAL": "誰給你的膽子來這?",
+      "JAPANESE": "ここがどこだと思ってるのよ！",
+      "INDONESIAN": "Ngapain kamu di sini?",
+      "PORTUGUESE": "Por que você tá aqui?",
+      "RUSSIAN": "Зачем ты здесь?",
+      "FRENCH": "Qu’est-ce que tu fais ici ?",
+      "THAI": "นายมาทำอะไรที่นี่?",
+      "PERSIAN": "Why are you here?"
+    },
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 31.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "전화만 제때 받았으면",
+      "ENGLISH": "If you had answered",
+      "CHINESE_SIMPLIFIED": "但凡你接我电话",
+      "CHINESE_TRADITIONAL": "但凡你接我電話",
+      "JAPANESE": "電話さえちゃんと出てたら、",
+      "INDONESIAN": "Kalau kamu jawab,",
+      "PORTUGUESE": "Se você tivesse atendido,",
+      "RUSSIAN": "Если бы ты отвечала,",
+      "FRENCH": "Si tu m’avais répondu,",
+      "THAI": "ถ้านายรับสายฉัน",
+      "PERSIAN": "اگر جواب داده بودید"
+    },
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나 여기까지 안 왔어.",
+      "ENGLISH": "I wouldn’t have had to come here.",
+      "CHINESE_SIMPLIFIED": "我也不会跑到这来",
+      "CHINESE_TRADITIONAL": "我也不會跑到這來",
+      "JAPANESE": "ここまで来なかった。",
+      "INDONESIAN": "Aku nggak perlu datang ke sini.",
+      "PORTUGUESE": "Eu não precisaria vir aqui.",
+      "RUSSIAN": "мне бы не пришлось сюда приходить.",
+      "FRENCH": "je n’aurais pas eu besoin de venir.",
+      "THAI": "ฉันก็คงไม่ต้องมา.",
+      "PERSIAN": "من مجبور نبودم به اینجا بیایم."
+    },
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네가 날 이렇게 병신 취급하는데",
+      "ENGLISH": "You treat me like crap and expect me",
+      "CHINESE_SIMPLIFIED": "还有，你都把我当成神经病了",
+      "CHINESE_TRADITIONAL": "還有，你都把我當成神經病了",
+      "JAPANESE": "お前が俺をこんなバカ扱いするのに、",
+      "INDONESIAN": "Kamu perlakukan aku kayak sampah dan berharap",
+      "PORTUGUESE": "Você me trata como lixo e espera",
+      "RUSSIAN": "Ты относишься ко мне как к мусору и ждёшь,",
+      "FRENCH": "Tu меня méprises et tu t’attends",
+      "THAI": "นายทำเหมือนฉันไร้ค่า แล้วคิดว่า",
+      "PERSIAN": "تو با من مثل احمق رفتار می کنی و از من انتظار داری"
+    },
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "내가 안 돌아?",
+      "ENGLISH": "Not to show up?",
+      "CHINESE_SIMPLIFIED": "我能不着急吗?",
+      "CHINESE_TRADITIONAL": "我能不着急嗎?",
+      "JAPANESE": "俺が戻らないとでも？",
+      "INDONESIAN": "Aku nggak muncul?",
+      "PORTUGUESE": "Que eu não apareça?",
+      "RUSSIAN": "что я не приду?",
+      "FRENCH": "à ce que je reste loin ?",
+      "THAI": "ฉันจะไม่มาเหรอ?",
+      "PERSIAN": "ظاهر نشدن؟"
+    },
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 38.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "이거 놓고 말해!",
+      "ENGLISH": "Put that down and talk!",
+      "CHINESE_SIMPLIFIED": "你把手放开再说!",
+      "CHINESE_TRADITIONAL": "你把手放開再說!",
+      "JAPANESE": "これ置いて話して！",
+      "INDONESIAN": "Turunin itu dan kita ngomong!",
+      "PORTUGUESE": "Larga isso e vamos conversar!",
+      "RUSSIAN": "Положи это и поговори со мной!",
+      "FRENCH": "Pose ça et parle-moi !",
+      "THAI": "วางนั่นลงแล้วคุยกับฉัน!",
+      "PERSIAN": "اونو زمین بگذار و صحبت کن!"
+    },
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 40.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "그때 그건 실수라고!",
+      "ENGLISH": "That was a mistake back then!",
+      "CHINESE_SIMPLIFIED": "那次真的是不是故意的!",
+      "CHINESE_TRADITIONAL": "那次真的是不是故意的!",
+      "JAPANESE": "あの時は、誤解だったんだって！",
+      "INDONESIAN": "Itu cuma kesalahan waktu itu!",
+      "PORTUGUESE": "Foi um erro naquela vez!",
+      "RUSSIAN": "Это была ошибка тогда!",
+      "FRENCH": "C’était une erreur à l’époque !",
+      "THAI": "ที่ผ่านมามันเป็นความผิดพลาด!",
+      "PERSIAN": "اونموقع اشتباه بود!"
+    },
+    "TIME": {
+      "SHOW": 40.8,
+      "HIDE": 42.6
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "어?!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "哦?!",
+      "CHINESE_TRADITIONAL": "哦?!",
+      "JAPANESE": "何ですって？！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!",
+      "PERSIAN": "Hey!"
+    },
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 43.3
+    }
+  }
+]

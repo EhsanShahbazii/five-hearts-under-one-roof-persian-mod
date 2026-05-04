@@ -1,0 +1,262 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만!!!!",
+      "ENGLISH": "Hey, Yuman!!!!",
+      "CHINESE_SIMPLIFIED": "吴宥万!",
+      "CHINESE_TRADITIONAL": "吳宥萬!",
+      "JAPANESE": "おーい、ユマン！！",
+      "INDONESIAN": "Hei, Yuman!!!!",
+      "PORTUGUESE": "Ei, Yuman!!!!",
+      "RUSSIAN": "Эй, Юман!!!!",
+      "FRENCH": "Hé, Yuman !!!!",
+      "THAI": "เฮ้ ยูมัน!!!!",
+      "PERSIAN": "هی یومان!!!!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우유만!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "吴宥万!",
+      "CHINESE_TRADITIONAL": "吳宥萬!",
+      "JAPANESE": "ユマン！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "RUSSIAN": "Юман!",
+      "FRENCH": "Yuman !",
+      "THAI": "ยูมัน!",
+      "PERSIAN": "آقای یومان!"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오~ 뭐야?",
+      "ENGLISH": "Oh~ what’s this?",
+      "CHINESE_SIMPLIFIED": "他还没回来吗?",
+      "CHINESE_TRADITIONAL": "他還沒回來嗎?",
+      "JAPANESE": "おお～何？",
+      "INDONESIAN": "Oh~ apa ini?",
+      "PORTUGUESE": "Oh~ o que é isso?",
+      "RUSSIAN": "О~ что это у нас тут?",
+      "FRENCH": "Oh~ qu’est-ce que c’est ?",
+      "THAI": "โอ๊ะ~ นี่อะไรเนี่ย?",
+      "PERSIAN": "اوه ~ این چیه"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "취직했다고 바로 야근하는 거야?",
+      "ENGLISH": "Got a job and already working overtime?",
+      "CHINESE_SIMPLIFIED": "不会是刚上班就加班了吧?",
+      "CHINESE_TRADITIONAL": "不會是剛上班就加班了吧?",
+      "JAPANESE": "就職して早速残業？",
+      "INDONESIAN": "Baru dapet kerja udah lembur aja?",
+      "PORTUGUESE": "Conseguiu um emprego e já está fazendo hora extra?",
+      "RUSSIAN": "Устроился на работу и уже перерабатываешь?",
+      "FRENCH": "T’as trouvé un boulot et tu fais déjà des heures sup ?",
+      "THAI": "เพิ่งได้งานก็ทำโอทีแล้วเหรอ?",
+      "PERSIAN": "شغلی پیدا کرده اید و در حال حاضر اضافه کار می کنید؟"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 어릴 땐 진짜 귀여웠는데...",
+      "ENGLISH": "You were so cute when you were little... ",
+      "CHINESE_SIMPLIFIED": "吴宥万小时候真的很可爱来着…",
+      "CHINESE_TRADITIONAL": "吳宥萬小時候真的很可愛來着…",
+      "JAPANESE": "ユマン、小さい頃は本当に可愛かったのにな…",
+      "INDONESIAN": "Kamu imut banget waktu kecil...",
+      "PORTUGUESE": "Você era tão fofo quando era pequeno...",
+      "RUSSIAN": "Ты был таким милым, когда был маленьким...",
+      "FRENCH": "T’étais tellement mignon quand t’étais petit...",
+      "THAI": "ตอนเด็ก ๆ นายดูน่ารักมากเลยนะ...",
+      "PERSIAN": "وقتی کوچیک بودی خیلی ناز بودی..."
+    },
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 24.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦?",
+      "CHINESE_TRADITIONAL": "哦?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 밍밍 님~",
+      "ENGLISH": "Mingming from Milk Girls~",
+      "CHINESE_SIMPLIFIED": "致牛奶少女的敏敏",
+      "CHINESE_TRADITIONAL": "致牛奶少女的敏敏",
+      "JAPANESE": "ミルクガールズのミンミンさん。",
+      "INDONESIAN": "Mingming dari Milk Girls~",
+      "PORTUGUESE": "Mingming do Milk Girls~",
+      "RUSSIAN": "Минг-Минг из Milk Girls~",
+      "FRENCH": "Mingming des Milk Girls~",
+      "THAI": "หมิงหมิงจาก Milk Girls~",
+      "PERSIAN": "Mingming از Milk Girls~"
+    },
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이 편지를 언제 드릴 수 있을지 모르지만",
+      "ENGLISH": "I don’t know when I can give you this letter,",
+      "CHINESE_SIMPLIFIED": "虽然不知道什么时候能把这封信送给您",
+      "CHINESE_TRADITIONAL": "雖然不知道什麼時候能把這封信送給您",
+      "JAPANESE": "この手紙をいつ渡せるかはわかりませんが",
+      "INDONESIAN": "Aku nggak tahu kapan bisa kasih surat ini,",
+      "PORTUGUESE": "Eu não sei quando poderei te entregar essa carta,",
+      "RUSSIAN": "Я не знаю, когда смогу передать тебе это письмо,",
+      "FRENCH": "Je sais pas quand je pourrai te donner cette lettre,",
+      "THAI": "ฉันไม่รู้ว่าจะให้จดหมายนี้กับนายเมื่อไหร่,",
+      "PERSIAN": "نمی دانم چه زمانی می توانم این نامه را به شما بدهم،"
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "늘 품에 가지고 있는 저는",
+      "ENGLISH": "But as someone who always carries it",
+      "CHINESE_SIMPLIFIED": "但作为忠实粉丝",
+      "CHINESE_TRADITIONAL": "但作爲忠實粉絲",
+      "JAPANESE": "いつも胸に持ち歩いている僕は",
+      "INDONESIAN": "Tapi sebagai seseorang yang selalu bawa surat ini,",
+      "PORTUGUESE": "Mas, como alguém que sempre a carrega,",
+      "RUSSIAN": "но как человек, который всегда носит его с собой,",
+      "FRENCH": "mais en tant que personne qui la garde toujours sur moi,",
+      "THAI": "แต่ในฐานะคนที่พกมันติดตัวตลอด,",
+      "PERSIAN": "اما به عنوان کسی که همیشه اونو حمل می کند"
+    },
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 39.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 님의 오랜 팬입니다.",
+      "ENGLISH": "I’ve been your fan for a long time.",
+      "CHINESE_SIMPLIFIED": "我一直都把你放在心里",
+      "CHINESE_TRADITIONAL": "我一直都把你放在心裏",
+      "JAPANESE": "ミンミンさんの長年のファンです。",
+      "INDONESIAN": "Aku udah lama jadi penggemar kamu.",
+      "PORTUGUESE": "Sou sua fã há muito tempo.",
+      "RUSSIAN": "я уже давно твоя фанатка.",
+      "FRENCH": "je suis ta fan depuis longtemps.",
+      "THAI": "ฉันเป็นแฟนนายมานานแล้ว",
+      "PERSIAN": "من خیلی وقته طرفدار شما هستم"
+    },
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 42.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 님을 알게 된 6년 전부터...",
+      "ENGLISH": "Since I discovered you six years ago...",
+      "CHINESE_SIMPLIFIED": "第一次了解你是在六年前...",
+      "CHINESE_TRADITIONAL": "第一次瞭解你是在六年前...",
+      "JAPANESE": "ミンミンさんを知ってから6年が経って…",
+      "INDONESIAN": "Sejak aku temukan kamu enam tahun lalu...",
+      "PORTUGUESE": "Desde que te descobri há seis anos...",
+      "RUSSIAN": "С тех пор как я узнала о тебе шесть лет назад...",
+      "FRENCH": "Depuis que je t’ai découvert il y a six ans...",
+      "THAI": "ตั้งแต่ฉันเจอนายเมื่อหกปีก่อน...",
+      "PERSIAN": "از زمانی که شش سال پیش شما را کشف کردم ..."
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 46.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "저는 처음으로 누군가를...",
+      "ENGLISH": "You were the first person I ever...",
+      "CHINESE_SIMPLIFIED": "那时候也是我第一次对某个人…",
+      "CHINESE_TRADITIONAL": "那時候也是我第一次對某個人…",
+      "JAPANESE": "初めて誰かを…",
+      "INDONESIAN": "Kamu orang pertama yang pernah aku...",
+      "PORTUGUESE": "Você foi a primeira pessoa que eu já...",
+      "RUSSIAN": "Ты был первым человеком, которого я когда-либо...",
+      "FRENCH": "Tu es la première personne que j’ai jamais...",
+      "THAI": "นายเป็นคนแรกที่ฉันเคย...",
+      "PERSIAN": "تو اولین کسی بودی که من..."
+    },
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 50.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "어? 왔나?",
+      "ENGLISH": "Oh? Is he here?",
+      "CHINESE_SIMPLIFIED": "嗯?回来了?",
+      "CHINESE_TRADITIONAL": "嗯?回來了?",
+      "JAPANESE": "あ？帰ってきたのかな？",
+      "INDONESIAN": "Oh? Dia udah di sini?",
+      "PORTUGUESE": "Oh? Ele chegou?",
+      "RUSSIAN": "О? Он здесь?",
+      "FRENCH": "Oh ? Il est là ?",
+      "THAI": "อ๊ะ? เขามาแล้วเหรอ?",
+      "PERSIAN": "اوه؟ او اینجاست؟"
+    },
+    "TIME": {
+      "SHOW": 61.0,
+      "HIDE": 63.4
+    }
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 대박...",
+      "ENGLISH": "Wow, no way! ",
+      "CHINESE_SIMPLIFIED": "天哪,好神奇!",
+      "CHINESE_TRADITIONAL": "天哪,好神奇!",
+      "JAPANESE": "わあ、やばい…",
+      "INDONESIAN": "Wah, nggak mungkin!",
+      "PORTUGUESE": "Uau, não acredito!",
+      "RUSSIAN": "Вау, не может быть!",
+      "FRENCH": "Wow, c’est pas vrai !",
+      "THAI": "ว้าว ไม่จริงน่า!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 이렇게 만나요?",
+      "ENGLISH": "How did I run into you like this?",
+      "CHINESE_SIMPLIFIED": "我居然能在这种情况下遇到你!",
+      "CHINESE_TRADITIONAL": "我居然能在這種情況下遇到你!",
+      "JAPANESE": "どうしてこんなところで？",
+      "INDONESIAN": "Gimana bisa ketemu kamu begini?",
+      "PORTUGUESE": "Como que eu esbarrei com você assim?",
+      "RUSSIAN": "Как я мог так случайно на тебя наткнуться?",
+      "FRENCH": "Comment j’ai pu tomber sur toi comme ça ?",
+      "THAI": "ผมมาเจอคุณได้ไงเนี่ย?"
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저 밍밍 님 안무도 다 따고 그랬거든요!",
+      "ENGLISH": "I’ve even learned all your dance moves!",
+      "CHINESE_SIMPLIFIED": "我连你的舞蹈动作都记得很清楚!",
+      "CHINESE_TRADITIONAL": "我連你的舞蹈動作都記得很清楚!",
+      "JAPANESE": "僕、ミンミンさんのダンス、全部覚えたんですよ！",
+      "INDONESIAN": "Aku bahkan udah hafal semua gerakan dancemu!",
+      "PORTUGUESE": "Eu até aprendi todos os seus passos de dança!",
+      "RUSSIAN": "Я даже выучил все твои танцевальные движения!",
+      "FRENCH": "J’ai même appris tous tes pas de danse !",
+      "THAI": "ผมถึงกับเรียนท่าเต้นของคุณหมดเลยนะ!"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "한번 보실래요?",
+      "ENGLISH": "Want to see?",
+      "CHINESE_SIMPLIFIED": "你要看看吗?",
+      "CHINESE_TRADITIONAL": "你要看看嗎?",
+      "JAPANESE": "見てくれますか？",
+      "INDONESIAN": "Mau lihat?",
+      "PORTUGUESE": "Quer ver?",
+      "RUSSIAN": "Хочешь посмотреть?",
+      "FRENCH": "Tu veux voir ?",
+      "THAI": "อยากดูไหม?"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "무지개 핀 파란 하늘같이 녹여줘요",
+      "ENGLISH": "Like a rainbow in the blue sky, melt me away",
+      "CHINESE_SIMPLIFIED": "像挂满彩虹的蓝天一样融化我~",
+      "CHINESE_TRADITIONAL": "像掛滿彩虹的藍天一樣融化我~",
+      "JAPANESE": "虹色のピン青い空みたいに溶かしてよ",
+      "INDONESIAN": "Seperti pelangi di langit biru, lelehkan aku",
+      "PORTUGUESE": "Como um arco-íris no céu azul, me derreta",
+      "RUSSIAN": "Как радуга в синем небе, растопи меня",
+      "FRENCH": "Comme un arc-en-ciel dans le ciel bleu, fais-moi fondre",
+      "THAI": "เหมือนสายรุ้งบนฟ้า ทำให้ใจฉันละลาย"
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "달달한 Sweet Sweet 바닐라 Ice Cream Cream",
+      "ENGLISH": "Sweet sweet vanilla ice cream cream",
+      "CHINESE_SIMPLIFIED": "甜甜的香草冰淇淋~",
+      "CHINESE_TRADITIONAL": "甜甜的香草冰淇淋~",
+      "JAPANESE": "甘～い Sweet Sweet バニラ Ice Cream Cream",
+      "INDONESIAN": "Es krim krim vanilla manis manis",
+      "PORTUGUESE": "Doce doce sorvete de baunilha baunilha",
+      "RUSSIAN": "Сладкое-сладкое ванильное мороженое~",
+      "FRENCH": "Douce, douce glace à la vanille~",
+      "THAI": "ไอศกรีมวานิลลาหวานๆ~"
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "자, 잘 봤습니다...!!",
+      "ENGLISH": "Uh, thanks...!",
+      "CHINESE_SIMPLIFIED": "啊，跳得不错…!!",
+      "CHINESE_TRADITIONAL": "啊，跳得不錯…!!",
+      "JAPANESE": "あ、ありがとうございます…！",
+      "INDONESIAN": "Uh, makasih...!",
+      "PORTUGUESE": "Ah, obrigado...!",
+      "RUSSIAN": "Э-э... спасибо!",
+      "FRENCH": "Euh... merci !",
+      "THAI": "เอ่อ... ขอบคุณครับ!"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아직 안 끝났는데! 아직 안 끝났는데! 어...!",
+      "ENGLISH": "But I’m not done yet! I’m not done yet! Oh...!",
+      "CHINESE_SIMPLIFIED": "我还没跳完呢!还有呢!诶...!",
+      "CHINESE_TRADITIONAL": "我還沒跳完呢!還有呢!誒...!",
+      "JAPANESE": "まだ終わってないのに！ちょっと！あ…！",
+      "INDONESIAN": "Tapi aku belum selesai! Aku belum selesai! Oh...!",
+      "PORTUGUESE": "Mas eu ainda não terminei! Ainda não terminei! Oh...!",
+      "RUSSIAN": "Но я ещё не закончил! Ещё не закончил! Ой...!",
+      "FRENCH": "Mais j’ai pas fini ! J’ai pas fini ! Oh... !",
+      "THAI": "แต่ผมยังไม่จบนะ! ยังไม่จบเลย! โอ๊ะ...!"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "어딨지~ 아 잘 모르겠다~",
+      "ENGLISH": "Where could it be~ I don’t see it at all~",
+      "CHINESE_SIMPLIFIED": "在哪呢~啊 找不到呢~",
+      "CHINESE_TRADITIONAL": "在哪呢~啊 找不到呢~",
+      "JAPANESE": "どこにいるのかな。全然見当たらないな。",
+      "INDONESIAN": "Di mana ya~ Nggak kelihatan sama sekali~",
+      "PORTUGUESE": "Onde será que tá~? Não consigo ver nada~",
+      "RUSSIAN": "Где же оно~? Я совсем его не вижу~",
+      "FRENCH": "Où est-ce que c’est~ ? Je le vois pas du tout~",
+      "THAI": "มันอยู่ไหนกันนะ~ หาไม่เจอเลย~"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 28.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어디 갔지~",
+      "ENGLISH": "I just can’t find it~",
+      "CHINESE_SIMPLIFIED": "跑哪去了呢~",
+      "CHINESE_TRADITIONAL": "跑哪去了呢~",
+      "JAPANESE": "どこ行ったのかな。",
+      "INDONESIAN": "Aku nggak bisa nemu~",
+      "PORTUGUESE": "Eu simplesmente não acho~",
+      "RUSSIAN": "Просто не могу найти~",
+      "FRENCH": "Je n’arrive pas à le trouver~",
+      "THAI": "หาไม่เจอจริงๆ~"
+    },
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 31.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아이.. 못 찾겠다~",
+      "ENGLISH": "Where is it~",
+      "CHINESE_SIMPLIFIED": "完全看不到诶~",
+      "CHINESE_TRADITIONAL": "完全看不到誒~",
+      "JAPANESE": "あ～見つからないな。",
+      "INDONESIAN": "Di mana ya~?",
+      "PORTUGUESE": "Onde está~?",
+      "RUSSIAN": "Где же оно~?",
+      "FRENCH": "Où est-ce~ ?",
+      "THAI": "มันอยู่ตรงไหนน้า~?"
+    },
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 34.5
+    }
+  }
+]

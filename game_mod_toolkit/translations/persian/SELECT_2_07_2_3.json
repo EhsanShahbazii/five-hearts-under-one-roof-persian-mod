@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "요! 요!",
+      "ENGLISH": "Yo! Yo!",
+      "CHINESE_SIMPLIFIED": "呦！呦！",
+      "CHINESE_TRADITIONAL": "呦！呦！",
+      "JAPANESE": "ヨ！ヨ！",
+      "INDONESIAN": "Yo! Yo!",
+      "PORTUGUESE": "Yo! Yo!",
+      "RUSSIAN": "Йо! Йо!",
+      "FRENCH": "Yo ! Yo !",
+      "THAI": "โย่! โย่!",
+      "PERSIAN": "یو! یو!"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "니 얼굴 얼빵!",
+      "ENGLISH": "Your face looks dumb!",
+      "CHINESE_SIMPLIFIED": "你的脸好胖!",
+      "CHINESE_TRADITIONAL": "你的臉好胖!",
+      "JAPANESE": "あんたの顔、ダサい！",
+      "INDONESIAN": "Muka kamu kelihatan bloon!",
+      "PORTUGUESE": "Sua cara tá com cara de bobo!",
+      "RUSSIAN": "У тебя такое тупое лицо!",
+      "FRENCH": "T’as une tête trop débile !",
+      "THAI": "หน้าของนายดูโง่ชะมัด!",
+      "PERSIAN": "صورتت خنگ به نظر می رسد!"
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "니 얼굴에 죽빵!",
+      "ENGLISH": "Gonna punch you in the face!",
+      "CHINESE_SIMPLIFIED": "给你一拳“bang”!",
+      "CHINESE_TRADITIONAL": "給你一拳“bang”!",
+      "JAPANESE": "あんたの顔にパンチ！",
+      "INDONESIAN": "Mau kutonjok mukamu!",
+      "PORTUGUESE": "Vou te dar um soco na cara!",
+      "RUSSIAN": "Сейчас как дам в лицо!",
+      "FRENCH": "Je vais te coller un poing dans la tronche !",
+      "THAI": "เดี๋ยวจะต่อยหน้าให้เลย!",
+      "PERSIAN": "با مشت میزنم تو صورتت"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "내가 원하는 건 옆방!",
+      "ENGLISH": "I want that room next to your place!",
+      "CHINESE_SIMPLIFIED": "你隔壁的房间最棒!",
+      "CHINESE_TRADITIONAL": "你隔壁的房間最棒!",
+      "JAPANESE": "私が欲しいのは隣の部屋！",
+      "INDONESIAN": "Aku mau kamar di sebelah kamarmu!",
+      "PORTUGUESE": "Eu quero o quarto ao lado do seu!",
+      "RUSSIAN": "Я хочу эту комнату рядом с твоей!",
+      "FRENCH": "Je veux cette chambre à côté de la tienne !",
+      "THAI": "ฉันอยากได้ห้องข้าง ๆ ห้องนาย!",
+      "PERSIAN": "من اون اتاق کنار جای تو رو میخوام!"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "요! 스껄!",
+      "ENGLISH": "Yo! Skkrt!",
+      "CHINESE_SIMPLIFIED": "呦！Skr!",
+      "CHINESE_TRADITIONAL": "呦！Skr!",
+      "JAPANESE": "ヨ！スコール！",
+      "INDONESIAN": "Yo! Skkrt!",
+      "PORTUGUESE": "Yo! Skkrt!",
+      "RUSSIAN": "Йо! Скрт!",
+      "FRENCH": "Yo ! Skrrt !",
+      "THAI": "โย่! สเกิร์ต!",
+      "PERSIAN": "یو! اسککرت!"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너 뭐 해..?",
+      "ENGLISH": "Hey, what the...",
+      "CHINESE_SIMPLIFIED": "你想得美!",
+      "CHINESE_TRADITIONAL": "你想得美!",
+      "JAPANESE": "お前、何してんだ…？",
+      "INDONESIAN": "Hei, apa-apaan...",
+      "PORTUGUESE": "Ei, o que é isso...",
+      "RUSSIAN": "Эй, что за...",
+      "FRENCH": "Hé, quoi...",
+      "THAI": "เฮ้! อะไรของนาย...",
+      "PERSIAN": "هی، چی..."
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "미쳤어? 월 40이다.",
+      "ENGLISH": "Are you crazy? It’s 400 USD a month.",
+      "CHINESE_SIMPLIFIED": "月租2500拿来!",
+      "CHINESE_TRADITIONAL": "月租2500拿來!",
+      "JAPANESE": "頭おかしくなったのか？月4万な。",
+      "INDONESIAN": "Kamu gila? Biayanya Rp6 juta per bulan.",
+      "PORTUGUESE": "Você tá louco? São €380 por mês.",
+      "RUSSIAN": "Ты с ума сошел? Это 400 долларов в месяц.",
+      "FRENCH": "T’es fou ? C’est 400 dollars par mois.",
+      "THAI": "นายบ้าไปแล้วเหรอ? นี่มัน 400 ดอลลาร์ต่อเดือนนะ.",
+      "PERSIAN": "شما دیوانه هستید؟ 400 تومان در ماه است."
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 몰라~ 나 돈 없어!",
+      "ENGLISH": "I don’t care~ I don’t have the money!",
+      "CHINESE_SIMPLIFIED": "不管~反正我没钱!",
+      "CHINESE_TRADITIONAL": "不管~反正我沒錢!",
+      "JAPANESE": "もう知らない～お金なんてないわ！",
+      "INDONESIAN": "Aku nggak peduli~ Aku nggak punya uang!",
+      "PORTUGUESE": "Não tô nem aí~ Eu não tenho dinheiro!",
+      "RUSSIAN": "Мне всё равно~ У меня нет денег!",
+      "FRENCH": "Je m’en fiche~ J’ai pas l’argent !",
+      "THAI": "ฉันไม่สน~ ฉันไม่มีเงิน!",
+      "PERSIAN": "برام مهم نیست ~ من پول ندارم!"
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "여기가 시내랑도 가깝고 좋단 말이야.",
+      "ENGLISH": "This place is close to everything, and I really like it here.",
+      "CHINESE_SIMPLIFIED": "这里多好啊，离市中心那么近",
+      "CHINESE_TRADITIONAL": "這裏多好啊，離市中心那麼近",
+      "JAPANESE": "ここ街中にも近くて、いい場所なんだもん。",
+      "INDONESIAN": "Tempat ini deket ke mana-mana, dan aku beneran suka di sini.",
+      "PORTUGUESE": "Esse lugar é perto de tudo, e eu gosto muito daqui.",
+      "RUSSIAN": "Это место так удобно расположено, и мне здесь правда нравится.",
+      "FRENCH": "Cet endroit est pratique, et je l’aime vraiment ici.",
+      "THAI": "ที่นี่สะดวกมาก แล้วฉันก็ชอบที่นี่จริง ๆ.",
+      "PERSIAN": "این مکان به همه چیز نزدیک است و من واقعاً اینجا را دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.8
+    }
+  }
+]

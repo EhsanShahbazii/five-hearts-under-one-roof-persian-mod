@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "CHAR_CODE": 2.0,
+    "IMAGE_NAME": "char2_album",
+    "ARTICLE": [
+      {
+        "INDEX": 1100.0
+      },
+      {
+        "INDEX": 1101.0
+      },
+      {
+        "INDEX": 1102.0
+      },
+      {
+        "INDEX": 1103.0
+      },
+      {
+        "INDEX": 1104.0
+      },
+      {
+        "INDEX": 1105.0
+      },
+      {
+        "INDEX": 1106.0
+      }
+    ]
+  },
+  {
+    "INDEX": 2.0,
+    "CHAR_CODE": 3.0,
+    "IMAGE_NAME": "char3_album",
+    "ARTICLE": [
+      {
+        "INDEX": 1200.0
+      },
+      {
+        "INDEX": 1201.0
+      },
+      {
+        "INDEX": 1202.0
+      },
+      {
+        "INDEX": 1203.0
+      },
+      {
+        "INDEX": 1204.0
+      },
+      {
+        "INDEX": 1205.0
+      },
+      {
+        "INDEX": 1206.0
+      }
+    ]
+  },
+  {
+    "INDEX": 3.0,
+    "CHAR_CODE": 4.0,
+    "IMAGE_NAME": "char4_album",
+    "ARTICLE": [
+      {
+        "INDEX": 1300.0
+      },
+      {
+        "INDEX": 1301.0
+      },
+      {
+        "INDEX": 1302.0
+      },
+      {
+        "INDEX": 1303.0
+      },
+      {
+        "INDEX": 1304.0
+      },
+      {
+        "INDEX": 1305.0
+      },
+      {
+        "INDEX": 1306.0
+      }
+    ]
+  },
+  {
+    "INDEX": 4.0,
+    "CHAR_CODE": 5.0,
+    "IMAGE_NAME": "char5_album",
+    "ARTICLE": [
+      {
+        "INDEX": 1400.0
+      },
+      {
+        "INDEX": 1401.0
+      },
+      {
+        "INDEX": 1402.0
+      },
+      {
+        "INDEX": 1403.0
+      },
+      {
+        "INDEX": 1404.0
+      },
+      {
+        "INDEX": 1405.0
+      },
+      {
+        "INDEX": 1406.0
+      }
+    ]
+  },
+  {
+    "INDEX": 5.0,
+    "CHAR_CODE": 6.0,
+    "IMAGE_NAME": "char6_album",
+    "ARTICLE": [
+      {
+        "INDEX": 1500.0
+      },
+      {
+        "INDEX": 1501.0
+      },
+      {
+        "INDEX": 1502.0
+      },
+      {
+        "INDEX": 1503.0
+      },
+      {
+        "INDEX": 1504.0
+      },
+      {
+        "INDEX": 1505.0
+      },
+      {
+        "INDEX": 1506.0
+      }
+    ]
+  }
+]

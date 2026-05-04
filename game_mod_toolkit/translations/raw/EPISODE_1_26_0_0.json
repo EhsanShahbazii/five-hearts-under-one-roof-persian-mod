@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "不对啊?",
+      "CHINESE_TRADITIONAL": "不對啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Хм?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห้ะ?"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "분명 문 잠갔는데...?",
+      "ENGLISH": "I’m sure I locked the door...",
+      "CHINESE_SIMPLIFIED": "我明明锁了门的…",
+      "CHINESE_TRADITIONAL": "我明明鎖了門的…",
+      "JAPANESE": "確かに鍵をかけたはずなんだけど…？",
+      "INDONESIAN": "Aku yakin tadi sudah kunci pintunya...",
+      "PORTUGUESE": "Tenho certeza de que tranquei a porta...",
+      "RUSSIAN": "Я точно запирал дверь...",
+      "FRENCH": "Je suis sûr d’avoir fermé la porte...",
+      "THAI": "ฉันแน่ใจนะว่าล็อกประตูแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "문이 왜 열려있지?",
+      "ENGLISH": "Why is it open?",
+      "CHINESE_SIMPLIFIED": "门怎么开着?",
+      "CHINESE_TRADITIONAL": "門怎麼開着?",
+      "JAPANESE": "何で開いてるんだ？",
+      "INDONESIAN": "Kenapa kebuka?",
+      "PORTUGUESE": "Por que está aberta?",
+      "RUSSIAN": "Почему она открыта?",
+      "FRENCH": "Pourquoi elle est ouverte ?",
+      "THAI": "ทำไมมันเปิดอยู่ล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐지?",
+      "ENGLISH": "What’s going on?",
+      "CHINESE_SIMPLIFIED": "什么情况?",
+      "CHINESE_TRADITIONAL": "什麼情況?",
+      "JAPANESE": "何だ？",
+      "INDONESIAN": "Ada apa ini?",
+      "PORTUGUESE": "O que tá acontecendo?",
+      "RUSSIAN": "Что происходит?",
+      "FRENCH": "Qu’est-ce qui se passe ?",
+      "THAI": "เกิดอะไรขึ้น...?"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "빗자루다....",
+      "ENGLISH": "A broom...?",
+      "CHINESE_SIMPLIFIED": "这有扫帚…",
+      "CHINESE_TRADITIONAL": "這有掃帚…",
+      "JAPANESE": "ここにほうきがあったな…",
+      "INDONESIAN": "Sapu...?",
+      "PORTUGUESE": "Uma vassoura...?",
+      "RUSSIAN": "Метла...?",
+      "FRENCH": "Un balai...?",
+      "THAI": "ไม้กวาด...?"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.3
+    }
+  }
+]

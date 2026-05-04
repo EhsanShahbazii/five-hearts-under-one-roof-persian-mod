@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "으~ ",
+      "ENGLISH": "Finally",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "わ～",
+      "INDONESIAN": "Akhirnya",
+      "PORTUGUESE": "Finalmente",
+      "RUSSIAN": "Наконец-то",
+      "FRENCH": "Enfin",
+      "THAI": "ในที่สุด",
+      "PERSIAN": "در نهایت"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "다왔다!",
+      "ENGLISH": "We’re here!",
+      "CHINESE_SIMPLIFIED": "终于到了!",
+      "CHINESE_TRADITIONAL": "終於到了!",
+      "JAPANESE": "着いた！",
+      "INDONESIAN": "Kita sampai!",
+      "PORTUGUESE": "Chegamos!",
+      "RUSSIAN": "Мы на месте!",
+      "FRENCH": "On est arrivés !",
+      "THAI": "ถึงแล้ว!",
+      "PERSIAN": "ما اینجا هستیم!"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나 먼저 나가 있을게!",
+      "ENGLISH": "I'll get out first!",
+      "CHINESE_SIMPLIFIED": "我先下车了!",
+      "CHINESE_TRADITIONAL": "我先下車了!",
+      "JAPANESE": "先に外に出てるね！",
+      "INDONESIAN": "Aku keluar duluan!",
+      "PORTUGUESE": "Eu vou sair primeiro!",
+      "RUSSIAN": "Я выйду первой!",
+      "FRENCH": "Je descends en premier !",
+      "THAI": "ฉันจะลงก่อนนะ!",
+      "PERSIAN": "اول میرم بیرون!"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好~",
+      "CHINESE_TRADITIONAL": "好~",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Tá bom!",
+      "RUSSIAN": "Окей!",
+      "FRENCH": "D’accord !",
+      "THAI": "โอเค!",
+      "PERSIAN": "باشه، حله!"
+    },
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.5
+    }
+  }
+]

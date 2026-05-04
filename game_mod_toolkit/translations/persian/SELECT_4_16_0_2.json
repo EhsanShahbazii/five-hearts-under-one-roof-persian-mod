@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "자전거는 타 봤어요?",
+      "ENGLISH": "Have you ridden one before?",
+      "CHINESE_SIMPLIFIED": "你以前骑过自行车吗?",
+      "CHINESE_TRADITIONAL": "你以前騎過自行車嗎?",
+      "JAPANESE": "自転車、乗ったことありますか？",
+      "INDONESIAN": "Kamu pernah naik ini sebelumnya?",
+      "PORTUGUESE": "Você já andou em uma dessas antes?",
+      "RUSSIAN": "Ты когда-нибудь каталась на таком?",
+      "FRENCH": "Tu en as déjà fait ?",
+      "THAI": "เคยขี่แบบนี้มาก่อนไหม?",
+      "PERSIAN": "قبلا سوار شده اید؟"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "세발자전거 말고 이 두발자전거는 처음 타봐요.",
+      "ENGLISH": "I’ve never ridden a regular bike before, only tried the ones with training wheels.",
+      "CHINESE_SIMPLIFIED": "我只骑过3个轮子的,2个轮子的还是第一次",
+      "CHINESE_TRADITIONAL": "我只騎過3個輪子的,2個輪子的還是第一次",
+      "JAPANESE": "二輪の自転車は初めてです。",
+      "INDONESIAN": "Aku belum pernah naik sepeda biasa, cuma pernah coba yang pakai roda bantu.",
+      "PORTUGUESE": "Eu nunca andei numa bicicleta normal, só nas que têm rodinhas de apoio.",
+      "RUSSIAN": "Я никогда не ездила на обычном велосипеде, только на тех, что с дополнительными колёсами.",
+      "FRENCH": "Je n’ai jamais fait de vélo “normal”, j’ai seulement essayé ceux avec les petites roues.",
+      "THAI": "ไม่เคยขี่จักรยานธรรมดามาก่อนเลย เคยแค่ขี่แบบมีล้อพยุงเท่านั้น",
+      "PERSIAN": "من قبلاً هرگز دوچرخه معمولی سوار نشده بودم، فقط دوچرخه هایی را با چرخ های تمرینی امتحان کردم."
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아... 근데 자전거가 다 거기서 거기니까...",
+      "ENGLISH": "Ah... but a bike is a bike.",
+      "CHINESE_SIMPLIFIED": "啊…不过自行车其实都差不多…",
+      "CHINESE_TRADITIONAL": "啊…不過自行車其實都差不多…",
+      "JAPANESE": "あ…でも、自転車はどれも同じようなものだから…",
+      "INDONESIAN": "Ah... tapi sepeda ya tetap sepeda.",
+      "PORTUGUESE": "Ah... mas bicicleta é bicicleta.",
+      "RUSSIAN": "А... но велосипед есть велосипед.",
+      "FRENCH": "Ah... mais un vélo, c’est un vélo.",
+      "THAI": "อ่า... แต่จักรยานก็คือจักรยานแหละ",
+      "PERSIAN": "آه ... اما دوچرخه یک دوچرخه است."
+    },
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "제가 잘 알려줄게요!",
+      "ENGLISH": "I’ll teach you how!",
+      "CHINESE_SIMPLIFIED": "我教你怎么骑",
+      "CHINESE_TRADITIONAL": "我教你怎麼騎",
+      "JAPANESE": "僕が教えてあげます！",
+      "INDONESIAN": "Aku ajarin kamu, ya!",
+      "PORTUGUESE": "Eu vou te ensinar!",
+      "RUSSIAN": "Я научу тебя!",
+      "FRENCH": "Je vais t’apprendre !",
+      "THAI": "เดี๋ยวฉันจะสอนให้!",
+      "PERSIAN": "من به شما یاد می دهم که چگونه!"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.2
+    }
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어우, 그럼요 폰 주세요!",
+      "ENGLISH": "Sure, give me your phone!",
+      "CHINESE_SIMPLIFIED": "当然可以了,手机给我",
+      "CHINESE_TRADITIONAL": "當然可以了,手機給我",
+      "JAPANESE": "ああ、もちろんですよ！",
+      "INDONESIAN": "Tentu, kasih HP-mu!",
+      "PORTUGUESE": "Claro, me dá o seu celular!",
+      "RUSSIAN": "Конечно, давай свой телефон!",
+      "FRENCH": "Bien sûr, donne ton téléphone !",
+      "THAI": "แน่นอน เอาโทรศัพท์มาสิ!",
+      "PERSIAN": "حتما گوشیتو بده!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "사진 찍어요!",
+      "ENGLISH": "Let's take a picture!",
+      "CHINESE_SIMPLIFIED": "我帮你们拍!",
+      "CHINESE_TRADITIONAL": "我幫你們拍!",
+      "JAPANESE": "撮りましょう！",
+      "INDONESIAN": "Kita foto bareng!",
+      "PORTUGUESE": "Vamos tirar uma foto!",
+      "RUSSIAN": "Сделаем фото!",
+      "FRENCH": "Prenons une photo !",
+      "THAI": "ถ่ายรูปกัน!",
+      "PERSIAN": "بیا عکس بگیریم!"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 예.",
+      "ENGLISH": "Uh, okay.",
+      "CHINESE_SIMPLIFIED": "啊?啊好的",
+      "CHINESE_TRADITIONAL": "啊?啊好的",
+      "JAPANESE": "あ、はい。",
+      "INDONESIAN": "Uh, oke.",
+      "PORTUGUESE": "Uh, tá bom.",
+      "RUSSIAN": "Эм, хорошо.",
+      "FRENCH": "Euh, d’accord.",
+      "THAI": "เอ่อ โอเค.",
+      "PERSIAN": "اوه، باشه"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "자자, 옆에 서 주시고~",
+      "ENGLISH": "Alright, get close~",
+      "CHINESE_SIMPLIFIED": "来, 站近一点哈~",
+      "CHINESE_TRADITIONAL": "來, 站近一點哈~",
+      "JAPANESE": "じゃあ、横に立ってくださいね～",
+      "INDONESIAN": "Ayo, deketan~",
+      "PORTUGUESE": "Certo, chega mais perto~",
+      "RUSSIAN": "Давай, пододвинься ближе~",
+      "FRENCH": "Allez, rapproche-toi~",
+      "THAI": "ขยับเข้ามาใกล้ ๆ หน่อย~",
+      "PERSIAN": "باشه نزدیک شو"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Alright~",
+      "CHINESE_SIMPLIFIED": "来~",
+      "CHINESE_TRADITIONAL": "來~",
+      "JAPANESE": "はい～",
+      "INDONESIAN": "Oke~",
+      "PORTUGUESE": "Isso~",
+      "RUSSIAN": "Так~",
+      "FRENCH": "Voilà~",
+      "THAI": "โอเค~",
+      "PERSIAN": "باشه~"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "자 찍을게요!",
+      "ENGLISH": "Ready~",
+      "CHINESE_SIMPLIFIED": "我要拍了!",
+      "CHINESE_TRADITIONAL": "我要拍了!",
+      "JAPANESE": "撮りますよ！",
+      "INDONESIAN": "Siap~",
+      "PORTUGUESE": "Preparado~",
+      "RUSSIAN": "Готовы~",
+      "FRENCH": "Prêts~",
+      "THAI": "พร้อม~",
+      "PERSIAN": "Ready~"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "하나 둘 셋~ 찰칵!",
+      "ENGLISH": "One, two, three, click!",
+      "CHINESE_SIMPLIFIED": "三，二，一，茄子!",
+      "CHINESE_TRADITIONAL": "三，二，一，茄子!",
+      "JAPANESE": "いち、にの、さん！パシャ！",
+      "INDONESIAN": "Satu, dua, tiga, cekrek!",
+      "PORTUGUESE": "Um, dois, três, clique!",
+      "RUSSIAN": "Раз, два, три, щёлк!",
+      "FRENCH": "Un, deux, trois, clic !",
+      "THAI": "หนึ่ง สอง สาม แชะ!",
+      "PERSIAN": "یک، دو، سه، کلیک کنید!"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 15.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "손 한번 맞대 볼까요?",
+      "ENGLISH": "How about a hand-to-hand pose?",
+      "CHINESE_SIMPLIFIED": "手贴手拍一张吧？",
+      "CHINESE_TRADITIONAL": "手貼手拍一張吧？",
+      "JAPANESE": "手を合わせてみましょうか？",
+      "INDONESIAN": "Gimana kalau pose tangan-ke-tangan?",
+      "PORTUGUESE": "Que tal uma pose de mão com mão?",
+      "RUSSIAN": "Как насчёт позы рука к руке?",
+      "FRENCH": "Et une pose main dans la main ?",
+      "THAI": "ลองโพสจับมือกันดีไหม?",
+      "PERSIAN": "ژست دست به دست چطور؟"
+    },
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "손 한번 맞댈게요~",
+      "ENGLISH": "Let’s do it!",
+      "CHINESE_SIMPLIFIED": "来,手贴手再来一张!",
+      "CHINESE_TRADITIONAL": "來,手貼手再來一張!",
+      "JAPANESE": "手を合わせてみましょう～",
+      "INDONESIAN": "Ayo coba!",
+      "PORTUGUESE": "Vamos fazer!",
+      "RUSSIAN": "Давай попробуем!",
+      "FRENCH": "Allez, faisons-la !",
+      "THAI": "เอาสิ ลองดู!",
+      "PERSIAN": "بیایید اونو انجام دهیم!"
+    },
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "하나 둘 셋!",
+      "ENGLISH": "One, two, three!",
+      "CHINESE_SIMPLIFIED": "三，二，一!",
+      "CHINESE_TRADITIONAL": "三，二，一!",
+      "JAPANESE": "いち、にの、さん！",
+      "INDONESIAN": "Satu, dua, tiga!",
+      "PORTUGUESE": "Um, dois, três!",
+      "RUSSIAN": "Раз, два, три!",
+      "FRENCH": "Un, deux, trois !",
+      "THAI": "หนึ่ง สอง สาม!",
+      "PERSIAN": "One, two, three!"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 23.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "찰칵!",
+      "ENGLISH": "Click!",
+      "CHINESE_SIMPLIFIED": "茄子!",
+      "CHINESE_TRADITIONAL": "茄子!",
+      "JAPANESE": "パシャ！",
+      "INDONESIAN": "Cekrek!",
+      "PORTUGUESE": "Clique!",
+      "RUSSIAN": "Щёлк!",
+      "FRENCH": "Clic !",
+      "THAI": "แชะ!",
+      "PERSIAN": "کلیک کنید"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "자 마지막 하트 한번 할게요~",
+      "ENGLISH": "And a heart pose for the last one~",
+      "CHINESE_SIMPLIFIED": "来最后来一张比心的~",
+      "CHINESE_TRADITIONAL": "來最後來一張比心的~",
+      "JAPANESE": "じゃあ、最後にハート作りましょうか～",
+      "INDONESIAN": "Dan pose hati untuk yang terakhir~",
+      "PORTUGUESE": "E pra última, uma pose de coração~",
+      "RUSSIAN": "А на последнее — сердечко!",
+      "FRENCH": "Et pour la dernière, une pose en cœur !",
+      "THAI": "แล้วสุดท้าย โพสรูปหัวใจกัน~",
+      "PERSIAN": "و یک ژست قلبی برای آخرین مورد"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "하트...!",
+      "ENGLISH": "Heart...!",
+      "CHINESE_SIMPLIFIED": "比心…!",
+      "CHINESE_TRADITIONAL": "比心…!",
+      "JAPANESE": "ハート…！",
+      "INDONESIAN": "Hati...!",
+      "PORTUGUESE": "Coração...!",
+      "RUSSIAN": "Сердечко...!",
+      "FRENCH": "Cœur... !",
+      "THAI": "หัวใจ...!",
+      "PERSIAN": "دل...!"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "하트~",
+      "ENGLISH": "Heart~",
+      "CHINESE_SIMPLIFIED": "比心~ ",
+      "CHINESE_TRADITIONAL": "比心~ ",
+      "JAPANESE": "ハート～",
+      "INDONESIAN": "Hati~",
+      "PORTUGUESE": "Coração~",
+      "RUSSIAN": "Сердечко~",
+      "FRENCH": "Cœur~",
+      "THAI": "หัวใจ~",
+      "PERSIAN": "قلب~"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "하나 둘 셋!",
+      "ENGLISH": "One, two, three!",
+      "CHINESE_SIMPLIFIED": "三，二，一!",
+      "CHINESE_TRADITIONAL": "三，二，一!",
+      "JAPANESE": "いち、にの、さん！",
+      "INDONESIAN": "Satu, dua, tiga!",
+      "PORTUGUESE": "Um, dois, três!",
+      "RUSSIAN": "Раз, два, три!",
+      "FRENCH": "Un, deux, trois !",
+      "THAI": "หนึ่ง สอง สาม!",
+      "PERSIAN": "One, two, three!"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 31.9
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "찰칵!",
+      "ENGLISH": "Click!",
+      "CHINESE_SIMPLIFIED": "茄子!",
+      "CHINESE_TRADITIONAL": "茄子!",
+      "JAPANESE": "パシャ！",
+      "INDONESIAN": "Cekrek!",
+      "PORTUGUESE": "Clique!",
+      "RUSSIAN": "Щёлк!",
+      "FRENCH": "Clic !",
+      "THAI": "แชะ!",
+      "PERSIAN": "کلیک کنید"
+    },
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 32.9
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "네 잘 나온 거 같아요!",
+      "ENGLISH": "Looks good!",
+      "CHINESE_SIMPLIFIED": "效果不错!",
+      "CHINESE_TRADITIONAL": "效果不錯!",
+      "JAPANESE": "はい、いい感じに撮れましたよ！",
+      "INDONESIAN": "Bagus nih!",
+      "PORTUGUESE": "Ficou bom!",
+      "RUSSIAN": "Отлично получилось!",
+      "FRENCH": "Ça rend super bien !",
+      "THAI": "สวยมากเลย!",
+      "PERSIAN": "خوب به نظر می رسد!"
+    },
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 34.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아유 예 감사합니다... / 감사합니다!",
+      "ENGLISH": "Thank you so much... thank you!",
+      "CHINESE_SIMPLIFIED": "哎呀谢谢啊…太感谢了!",
+      "CHINESE_TRADITIONAL": "哎呀謝謝啊…太感謝了!",
+      "JAPANESE": "ああ、ありがとうございます… / ありがとうございます！",
+      "INDONESIAN": "Makasih banyak... makasih!",
+      "PORTUGUESE": "Muito obrigada... obrigada!",
+      "RUSSIAN": "Большое спасибо... спасибо!",
+      "FRENCH": "Merci beaucoup... merci !",
+      "THAI": "ขอบคุณมาก... ขอบคุณนะ!",
+      "PERSIAN": "خیلی ممنون... ممنون!"
+    },
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.3
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "민정 씨!",
+      "ENGLISH": "Min-jung!",
+      "CHINESE_SIMPLIFIED": "敏静啊!",
+      "CHINESE_TRADITIONAL": "敏靜啊!",
+      "JAPANESE": "ミンジョンさん！",
+      "INDONESIAN": "Min-jung!",
+      "PORTUGUESE": "Min-jung!",
+      "RUSSIAN": "Мин-Джон!",
+      "FRENCH": "Min-jung !",
+      "THAI": "มินจอง!",
+      "PERSIAN": "Min-jung!"
+    },
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 39.3
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "제가 또 사진을 기가 막히게 찍거든요~",
+      "ENGLISH": "I’m really good at taking photos~",
+      "CHINESE_SIMPLIFIED": "我给你照的可好看了~",
+      "CHINESE_TRADITIONAL": "我給你照的可好看了~",
+      "JAPANESE": "僕、写真をめちゃくちゃうまく撮るんですよ～",
+      "INDONESIAN": "Aku jago banget motret~",
+      "PORTUGUESE": "Eu sou muito boa tirando fotos~",
+      "RUSSIAN": "Я очень хорошо делаю фото~",
+      "FRENCH": "Je suis super bon(ne) pour prendre des photos~",
+      "THAI": "ฉันถ่ายรูปเก่งสุด ๆ เลย~",
+      "PERSIAN": "من واقعا در عکس گرفتن خوب هستم~"
+    },
+    "TIME": {
+      "SHOW": 39.3,
+      "HIDE": 41.7
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "완전 인생샷!",
+      "ENGLISH": "Total life shots!",
+      "CHINESE_SIMPLIFIED": "堪称人生照片!",
+      "CHINESE_TRADITIONAL": "堪稱人生照片!",
+      "JAPANESE": "完璧なショットでしたよ！",
+      "INDONESIAN": "Hidup banget hasilnya!",
+      "PORTUGUESE": "Fotos de vida real!",
+      "RUSSIAN": "Прямо кадры из жизни!",
+      "FRENCH": "Des clichés de vie parfaits !",
+      "THAI": "รูปชีวิตประจำวันแบบเพอร์เฟกต์!",
+      "PERSIAN": "کل عکس های زندگی!"
+    },
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 43.3
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "크~",
+      "ENGLISH": "Haha~",
+      "CHINESE_SIMPLIFIED": "呵呵~",
+      "CHINESE_TRADITIONAL": "呵呵~",
+      "JAPANESE": "くぅ～",
+      "INDONESIAN": "Haha~",
+      "PORTUGUESE": "Haha~",
+      "RUSSIAN": "Ха-ха~",
+      "FRENCH": "Haha~",
+      "THAI": "ฮ่า ๆ~",
+      "PERSIAN": "هاها~"
+    },
+    "TIME": {
+      "SHOW": 43.3,
+      "HIDE": 44.3
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "가, 같이 가요!",
+      "ENGLISH": "L-let’s go together!",
+      "CHINESE_SIMPLIFIED": "哎，一起走啊!",
+      "CHINESE_TRADITIONAL": "哎，一起走啊!",
+      "JAPANESE": "い、一緒に行きましょう！",
+      "INDONESIAN": "A-ayo bareng!",
+      "PORTUGUESE": "V-vamos juntos!",
+      "RUSSIAN": "П-пойдём вместе!",
+      "FRENCH": "A-a-attend, viens avec moi !",
+      "THAI": "ด-ไปด้วยกันสิ!",
+      "PERSIAN": "ل-با هم بریم!"
+    },
+    "TIME": {
+      "SHOW": 46.0,
+      "HIDE": 47.4
+    }
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "(Q. 내 얼굴은 10점 만점에 몇 점?) 10점 만점에...",
+      "ENGLISH": "Q: On a scale of 1 to 10, how would you rate your looks?",
+      "CHINESE_SIMPLIFIED": "Q. 给自己外貌打分，10分满分中你打几分？",
+      "CHINESE_TRADITIONAL": "Q. 給自己外貌打分，10分滿分中你打幾分？",
+      "JAPANESE": "(Q. 自分の顔は10点中何点？)10点中…\n",
+      "INDONESIAN": "Q: Dari skala 1 sampai 10, berapa kamu menilai penampilanmu?",
+      "PORTUGUESE": "Q: Em uma escala de 1 a 10, como você avalia sua aparência?",
+      "RUSSIAN": "По шкале от 1 до 10, как бы вы оценили свою внешность?",
+      "FRENCH": "Q: Sur une échelle de 1 à 10, comment évalueriez-vous votre apparence ?",
+      "THAI": "ถาม: ถ้าให้คะแนนรูปลักษณ์ตัวเองจาก 1 ถึง 10 คุณจะให้เท่าไหร่?",
+      "PERSIAN": "س: در مقیاس 1 تا 10، ظاهر خود را چگونه ارزیابی می کنید؟"
+    },
+    "TIME": {
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "7점?",
+      "ENGLISH": "7 out of 10?",
+      "CHINESE_SIMPLIFIED": "7分？",
+      "CHINESE_TRADITIONAL": "7分？",
+      "JAPANESE": "7点？",
+      "INDONESIAN": "7 dari 10?",
+      "PORTUGUESE": "7 de 10?",
+      "RUSSIAN": "7 из 10?",
+      "FRENCH": "7 sur 10 ?",
+      "THAI": "7 เต็ม 10?",
+      "PERSIAN": "7 از 10؟"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "완전 상위(점수)는 연예인이죠.",
+      "ENGLISH": "The really high scores are for celebrities.",
+      "CHINESE_SIMPLIFIED": "满分的颜值是明星吧",
+      "CHINESE_TRADITIONAL": "滿分的顏值是明星吧",
+      "JAPANESE": "上位の点数は芸能人ですからね。",
+      "INDONESIAN": "Nilai yang tinggi itu buat selebriti.",
+      "PORTUGUESE": "As notas realmente altas são para os famosos.",
+      "RUSSIAN": "Высокие баллы это для знаменитостей.",
+      "FRENCH": "Les notes vraiment élevées, c’est pour les célébrités.",
+      "THAI": "คะแนนสูงๆ แบบนั้นมันสำหรับดารานะ.",
+      "PERSIAN": "نمرات واقعا بالا برای افراد مشهور است."
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저는 7점",
+      "ENGLISH": "I’m a solid 7.",
+      "CHINESE_SIMPLIFIED": "我打7分",
+      "CHINESE_TRADITIONAL": "我打7分",
+      "JAPANESE": "なので、7点です。",
+      "INDONESIAN": "Aku ini 7 yang solid.",
+      "PORTUGUESE": "Eu sou um sólido 7.",
+      "RUSSIAN": "Я твёрдая семёрка.",
+      "FRENCH": "Moi, je suis une bonne sept.",
+      "THAI": "ผมเป็น 7 ที่มั่นคงเลย.",
+      "PERSIAN": "من 7 جامد هستم."
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 본인 얼굴로 살기 vs 10억 받고 랜덤 돌리기",
+      "ENGLISH": "Q: Would you keep your current face or take $10 million and a random new one?",
+      "CHINESE_SIMPLIFIED": "Q. 以自己的外貌生活 VS 获得10亿后随机换脸",
+      "CHINESE_TRADITIONAL": "Q. 以自己的外貌生活 VS 獲得10億後隨機換臉",
+      "JAPANESE": "(Q. 自分の顔で生きる vs 10億もらってランダムに顔を変える)",
+      "INDONESIAN": "Q: Apakah kamu akan tetap dengan wajahmu sekarang atau ambil Rp150 miliar dan wajah baru secara acak?",
+      "PORTUGUESE": "Q: Você ficaria com seu rosto atual ou aceitaria €9 milhões e um rosto novo aleatório?",
+      "RUSSIAN": "В: Оставили бы своё лицо или взяли 10 миллионов долларов и случайное новое?",
+      "FRENCH": "Q: Garderiez-vous votre visage actuel ou prendriez-vous 10 millions de dollars et un autre visage au hasard ?",
+      "THAI": "ถาม: จะเลือกเก็บใบหน้าตอนนี้ไว้ หรือรับเงิน 10 ล้านดอลลาร์แล้วสุ่มได้หน้าตาใหม่?",
+      "PERSIAN": "س: چهره فعلی خود را حفظ می کنید یا 10 میلیون دلار و یک چهره جدید تصادفی می گیرید؟"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.45
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "제 얼굴로 삽니다.",
+      "ENGLISH": "I’d stick with my face.",
+      "CHINESE_SIMPLIFIED": "我选择用以自己的外貌生活吧",
+      "CHINESE_TRADITIONAL": "我選擇用以自己的外貌生活吧",
+      "JAPANESE": "自分の顔で生きます。",
+      "INDONESIAN": "Aku tetap pilih wajahku.",
+      "PORTUGUESE": "Eu fico com meu rosto.",
+      "RUSSIAN": "Я бы оставил своё лицо.",
+      "FRENCH": "Je garde mon visage.",
+      "THAI": "ผมขอเก็บใบหน้าของผมไว้.",
+      "PERSIAN": "به صورتم می چسبیدم"
+    },
+    "TIME": {
+      "SHOW": 9.45,
+      "HIDE": 12.17
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "안 바꾸죠~",
+      "ENGLISH": "No way I’m changing it!",
+      "CHINESE_SIMPLIFIED": "不换~",
+      "CHINESE_TRADITIONAL": "不換~",
+      "JAPANESE": "変えませんよ～",
+      "INDONESIAN": "Nggak mungkin aku ganti!",
+      "PORTUGUESE": "Nem pensar em trocar!",
+      "RUSSIAN": "Ни за что не поменяю его!",
+      "FRENCH": "Hors de question que je le change !",
+      "THAI": "ไม่เปลี่ยนเด็ดขาด!",
+      "PERSIAN": "به هیچ وجه من اونو تغییر می دهم!"
+    },
+    "TIME": {
+      "SHOW": 12.17,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 나의 장점은 '얼굴 vs 몸매'",
+      "ENGLISH": "Q: What’s your best feature—your face or your body?",
+      "CHINESE_SIMPLIFIED": "Q. 我的优点是身材 vs 脸蛋",
+      "CHINESE_TRADITIONAL": "Q. 我的優點是身材 vs 臉蛋",
+      "JAPANESE": "(Q. 自分の長所は「顔 vs スタイル」)",
+      "INDONESIAN": "Q: Apa fitur terbaikmu—wajah atau tubuhmu?",
+      "PORTUGUESE": "Q: Qual é sua melhor característica—seu rosto ou seu corpo?",
+      "RUSSIAN": "В: Что в вас лучше лицо или тело?",
+      "FRENCH": "Q: Qu’est-ce qui est mieux chez vous : votre visage ou votre corps ?",
+      "THAI": "ถาม: คุณคิดว่าส่วนไหนดีกว่ากัน—หน้าตาหรือลำตัว?",
+      "PERSIAN": "س: بهترین ویژگی شما چیه - صورت یا بدن شما؟"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "당연히 얼굴!",
+      "ENGLISH": "Definitely my face!",
+      "CHINESE_SIMPLIFIED": "当然是脸！",
+      "CHINESE_TRADITIONAL": "當然是臉！",
+      "JAPANESE": "もちろん、顔です！",
+      "INDONESIAN": "Pasti wajahku!",
+      "PORTUGUESE": "Com certeza meu rosto!",
+      "RUSSIAN": "Определённо моё лицо!",
+      "FRENCH": "Définitivement mon visage !",
+      "THAI": "แน่นอนว่าต้องเป็นหน้าครับ!",
+      "PERSIAN": "قطعا صورت من!"
+    },
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "(Q. 이상형은 어떻게 되나요?) 이상형은.. 저는..",
+      "ENGLISH": "(Q: What’s your ideal type?) For me...",
+      "CHINESE_SIMPLIFIED": "Q. 你的理想型是什么样的？\n我的理想型是...",
+      "CHINESE_TRADITIONAL": "Q. 你的理想型是什麼樣的？\n我的理想型是...",
+      "JAPANESE": "(Q. 理想のタイプは？)理想のタイプは…",
+      "INDONESIAN": "Q: (Apa tipe idealmu?) Untukku...",
+      "PORTUGUESE": "Q: (Qual é o seu tipo ideal?) Para mim...",
+      "RUSSIAN": "В: (Какой у вас идеал?) Для меня...",
+      "FRENCH": "Q: (Quel est votre type idéal ?) Pour moi...",
+      "THAI": "ถาม: (แล้วสเปกในอุดมคติของคุณล่ะ?) สำหรับผม...",
+      "PERSIAN": "(س: تیپ ایده آل شما چیه؟) برای من..."
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 20.16
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "재밌는 사람 좋아합니다.",
+      "ENGLISH": "I like someone who’s fun.",
+      "CHINESE_SIMPLIFIED": "我喜欢有趣的人",
+      "CHINESE_TRADITIONAL": "我喜歡有趣的人",
+      "JAPANESE": "面白い人が好きです。",
+      "INDONESIAN": "Aku suka seseorang yang menyenangkan.",
+      "PORTUGUESE": "Eu gosto de alguém que seja divertido.",
+      "RUSSIAN": "Мне нравится кто-то весёлый.",
+      "FRENCH": "J’aime quelqu’un de fun.",
+      "THAI": "ชอบคนสนุกๆ.",
+      "PERSIAN": "من کسی را دوست دارم که سرگرم کننده است."
+    },
+    "TIME": {
+      "SHOW": 21.61,
+      "HIDE": 23.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 티키타카가 잘 되는 (대화가 잘 통하는)",
+      "ENGLISH": "Just someone I can have great banter with.",
+      "CHINESE_SIMPLIFIED": "就是那种聊天合拍、很聊得来的人",
+      "CHINESE_TRADITIONAL": "就是那種聊天合拍、很聊得來的人",
+      "JAPANESE": "単純に会話がうまく噛み合う人が好きですね。",
+      "INDONESIAN": "Pokoknya, yang bisa bikin obrolan seru.",
+      "PORTUGUESE": "Alguém com quem eu possa ter uma conversa animada.",
+      "RUSSIAN": "Просто тот, с кем можно классно общаться и шутить.",
+      "FRENCH": "Juste quelqu’un avec qui je peux avoir des échanges sympas.",
+      "THAI": "แค่คนที่คุยกันรู้เรื่อง มีมุกเล่นกันได้ก็พอ.",
+      "PERSIAN": "فقط کسی که بتونم باهاش ​​شوخی کنم"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "(Q. 10억 자산가 우유만 vs 완벽한 알거지 이상형) 알거지",
+      "ENGLISH": "Q: Who would you choose: Yuman with $10 million or the perfect broke guy?",
+      "CHINESE_SIMPLIFIED": "Q. 10亿资产的吴宥万 VS 完美但贫穷的理想型",
+      "CHINESE_TRADITIONAL": "Q. 10億資產的吳宥萬 VS 完美但貧窮的理想型",
+      "JAPANESE": "(Q. 「10億の資産家ウ・ユマン vs 完璧な無一文」理想のタイプは？)無一文。",
+      "INDONESIAN": "Q: Siapa yang akan kamu pilih: Yuman dengan Rp150 miliar atau pria sempurna tapi miskin?",
+      "PORTUGUESE": "Q: Quem você escolheria: Yuman com €9 milhões ou o cara perfeito mas sem grana?",
+      "RUSSIAN": "В: Кого бы вы выбрали: Юмана с 10 миллионами долларов или идеального, но без гроша?",
+      "FRENCH": "Q: Qui choisiriez-vous : Yuman avec 10 millions de dollars ou le mec parfait mais fauché ?",
+      "THAI": "ถาม: จะเลือกใครระหว่างยูมันที่มีเงิน 10 ล้านดอลลาร์ กับหนุ่มในฝันแต่ถังแตก?",
+      "PERSIAN": "س: چه کسی را انتخاب می کنید: یومان با 10 میلیون دلار یا یک مرد بی نقص؟"
+    },
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 27.96
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "유만이는... (웃음)",
+      "ENGLISH": "The broke guy! As for Yoo Man... (laughs)",
+      "CHINESE_SIMPLIFIED": "吴宥万... (笑)",
+      "CHINESE_TRADITIONAL": "吳宥萬... (笑)",
+      "JAPANESE": "ユマンはちょっと…（笑）",
+      "INDONESIAN": "Pria miskin! Soal Yoo Man... (tertawa)",
+      "PORTUGUESE": "O cara sem grana! Quanto ao Yoo Man... (risos)",
+      "RUSSIAN": "Бедного парня! Что касается Юмана... (смеётся)",
+      "FRENCH": "Le mec fauché ! Quant à Yoo Man... (rit)",
+      "THAI": "ผมเลือกคนถังแตก! ส่วนยูมันน่ะ... (หัวเราะ)",
+      "PERSIAN": "مرد شکسته! در مورد یو من... (می خندد)"
+    },
+    "TIME": {
+      "SHOW": 27.96,
+      "HIDE": 29.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "티키타카가 안 되는 게 ",
+      "ENGLISH": "Even with all that money,",
+      "CHINESE_SIMPLIFIED": "好像不太会聊天吧",
+      "CHINESE_TRADITIONAL": "好像不太會聊天吧",
+      "JAPANESE": "会話がうまくかみ合わないのは",
+      "INDONESIAN": "Meski punya uang sebanyak itu,",
+      "PORTUGUESE": "Mesmo com todo esse dinheiro,",
+      "RUSSIAN": "Даже с такими деньгами,",
+      "FRENCH": "Même avec tout cet argent,",
+      "THAI": "ถึงจะมีเงินเยอะขนาดนั้น,",
+      "PERSIAN": "حتی با این همه پول،"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "그 몇십억으로 커버가 되진 않아요.",
+      "ENGLISH": "if the banter’s not there, it’s just not worth it.",
+      "CHINESE_SIMPLIFIED": "这点给十亿也弥补不了",
+      "CHINESE_TRADITIONAL": "這點給十億也彌補不了",
+      "JAPANESE": "いくら、何十億持ってても解決するものじゃないので（笑）",
+      "INDONESIAN": "kalau obrolannya nggak seru, nggak ada gunanya.",
+      "PORTUGUESE": "se a conversa não fluir, não vale a pena.",
+      "RUSSIAN": "если нет весёлого общения, оно того не стоит.",
+      "FRENCH": "si le feeling n’est pas là, ça vaut pas le coup.",
+      "THAI": "ถ้าคุยกันไม่สนุก มันก็ไม่คุ้มหรอก.",
+      "PERSIAN": "اگر شوخی وجود نداشته باشد، ارزشش را ندارد."
+    },
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 36.3
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 쉬는 날은 무엇을 하시나요?",
+      "ENGLISH": "Q: What do you usually do on your days off?",
+      "CHINESE_SIMPLIFIED": "Q. 休息日的时候你一般做什么？",
+      "CHINESE_TRADITIONAL": "Q. 休息日的時候你一般做什麼？",
+      "JAPANESE": "(Q. 休日は何をしますか？)",
+      "INDONESIAN": "Q: Apa yang biasanya kamu lakukan saat libur?",
+      "PORTUGUESE": "Q: O que você costuma fazer nos dias de folga?",
+      "RUSSIAN": "В: Чем вы обычно занимаетесь в выходные?",
+      "FRENCH": "Q: Que faites-vous d’habitude pendant vos jours de repos ?",
+      "THAI": "ถาม: ปกติคุณทำอะไรในวันหยุด?",
+      "PERSIAN": "س: معمولاً در روزهای تعطیل خود چه می کنید؟"
+    },
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 37.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "저는 오로지 침대에",
+      "ENGLISH": "I pretty much just ",
+      "CHINESE_SIMPLIFIED": "我基本都",
+      "CHINESE_TRADITIONAL": "我基本都",
+      "JAPANESE": "私はとにかくベッドの上で",
+      "INDONESIAN": "Aku biasanya",
+      "PORTUGUESE": "Eu praticamente",
+      "RUSSIAN": "Честно говоря,",
+      "FRENCH": "Franchement,",
+      "THAI": "ส่วนใหญ่ผม",
+      "PERSIAN": "من تقریبا فقط"
+    },
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 39.1
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "제 몸을 맡기는데요. ",
+      "ENGLISH": "surrender my body to the bed.",
+      "CHINESE_SIMPLIFIED": "在床上躺一天",
+      "CHINESE_TRADITIONAL": "在牀上躺一天",
+      "JAPANESE": "ゴロゴロしていますね。",
+      "INDONESIAN": "menyerahkan tubuhku ke kasur.",
+      "PORTUGUESE": "me rendo à cama.",
+      "RUSSIAN": "просто отдаю своё тело кровати.",
+      "FRENCH": "je me livre complètement au lit.",
+      "THAI": "ก็ปล่อยตัวลงเตียงเลย.",
+      "PERSIAN": "بدنم را به تخت بسپارم"
+    },
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 42.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "진짜... 세상과 단절해요.",
+      "ENGLISH": "Seriously... I disconnect from the world.",
+      "CHINESE_SIMPLIFIED": "完全与世隔绝",
+      "CHINESE_TRADITIONAL": "完全與世隔絕",
+      "JAPANESE": "本当に…世界と断絶しますね。",
+      "INDONESIAN": "Seriusan... aku putus koneksi dari dunia.",
+      "PORTUGUESE": "Sério mesmo... desconecto do mundo.",
+      "RUSSIAN": "Серьёзно... полностью отключаюсь от мира.",
+      "FRENCH": "Sérieux... je coupe tout contact avec le monde.",
+      "THAI": "จริงๆ นะ... ตัดขาดจากโลกไปเลย.",
+      "PERSIAN": "جدی... من از دنیا جدا شدم."
+    },
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 45.9
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "핸드폰도 안 하고",
+      "ENGLISH": "No phone,",
+      "CHINESE_SIMPLIFIED": "也不玩手机",
+      "CHINESE_TRADITIONAL": "也不玩手機",
+      "JAPANESE": "スマホもしないで",
+      "INDONESIAN": "Nggak ada ponsel,",
+      "PORTUGUESE": "Sem celular,",
+      "RUSSIAN": "Без телефона,",
+      "FRENCH": "Pas de téléphone,",
+      "THAI": "ไม่แตะโทรศัพท์,",
+      "PERSIAN": "بدون تلفن،"
+    },
+    "TIME": {
+      "SHOW": 45.9,
+      "HIDE": 47.5
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 오로지 OTT(넷플릭스, 디즈니 플러스 등)만 봐요.",
+      "ENGLISH": "Nothing—just binge-watching stuff on Netflix or Disney+.",
+      "CHINESE_SIMPLIFIED": "就只看OTT（网飞, Disney Plus等）。",
+      "CHINESE_TRADITIONAL": "就只看OTT（網飛, Disney Plus等）。",
+      "JAPANESE": "ひたすらOTT（Netflix、Disney+など）だけを見てます。",
+      "INDONESIAN": "Nggak ada apa-apa, cuma nonton maraton di Netflix atau Disney+.",
+      "PORTUGUESE": "Sem nada, só maratonando séries no Netflix ou Disney+.",
+      "RUSSIAN": "Ничего просто смотрю сериалы на Netflix или Disney+.",
+      "FRENCH": "Rien juste du binge-watching sur Netflix ou Disney+.",
+      "THAI": "ไม่ทำอะไร นอนดู Netflix หรือ Disney+ ยาวๆ.",
+      "PERSIAN": "هیچ چیز-فقط تماشای زیاد مطالب در نتفلیکس یا دیزنی پلاس."
+    },
+    "TIME": {
+      "SHOW": 47.5,
+      "HIDE": 50.0
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 마지막으로 팬들에게 한마디",
+      "ENGLISH": "Q: Any message to your fans?",
+      "CHINESE_SIMPLIFIED": "Q. 最后对粉丝们想说的话",
+      "CHINESE_TRADITIONAL": "Q. 最後對粉絲們想說的話",
+      "JAPANESE": "(Q. 最後にファンの皆さまに一言)",
+      "INDONESIAN": "Q: Ada pesan untuk penggemar?",
+      "PORTUGUESE": "Q: Alguma mensagem para os fãs?",
+      "RUSSIAN": "В: Какое-то послание для ваших фанатов?",
+      "FRENCH": "Q: Un message pour vos fans ?",
+      "THAI": "ถาม: มีอะไรอยากบอกแฟนๆ ไหม?",
+      "PERSIAN": "س: پیامی برای طرفدارانتان دارید؟"
+    },
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 51.5
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "여러분! 끝까지 열정으로 플레이해 주시고",
+      "ENGLISH": "Guys! Play with passion until the end!",
+      "CHINESE_SIMPLIFIED": "请大家保持热情地去游玩",
+      "CHINESE_TRADITIONAL": "請大家保持熱情地去遊玩",
+      "JAPANESE": "皆さん！最後までプレイしていただき",
+      "INDONESIAN": "Guys! Main dengan penuh semangat sampai akhir!",
+      "PORTUGUESE": "Gente! Joguem com paixão até o final!",
+      "RUSSIAN": "Ребята! Играйте с душой до конца!",
+      "FRENCH": "Les gars ! Jouez à fond jusqu’au bout !",
+      "THAI": "ทุกคน! เล่นให้สุดจนถึงตอนจบ!",
+      "PERSIAN": "بچه ها! تا آخر با اشتیاق بازی کنید!"
+    },
+    "TIME": {
+      "SHOW": 51.5,
+      "HIDE": 55.3
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "저희 이제 출연하시는 배우분들",
+      "ENGLISH": "If you show some love",
+      "CHINESE_SIMPLIFIED": "用爱和真心来对待",
+      "CHINESE_TRADITIONAL": "用愛和真心來對待",
+      "JAPANESE": "そして、出演している俳優さんたちを",
+      "INDONESIAN": "Kalau kalian tunjukkan cinta",
+      "PORTUGUESE": "Se vocês mostrarem carinho",
+      "RUSSIAN": "Если проявите немного любви",
+      "FRENCH": "Si vous montrez un peu d’amour",
+      "THAI": "ถ้าพวกคุณแสดงความรัก",
+      "PERSIAN": "اگر کمی محبت نشان دهید"
+    },
+    "TIME": {
+      "SHOW": 55.3,
+      "HIDE": 58.1
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "사랑으로 플레이해 주시면은",
+      "ENGLISH": "to the actors playing these roles,",
+      "CHINESE_SIMPLIFIED": "出演的演员们",
+      "CHINESE_TRADITIONAL": "出演的演員們",
+      "JAPANESE": "愛を持ってプレイしていただければ",
+      "INDONESIAN": "ke para aktor yang memainkan peran ini,",
+      "PORTUGUESE": "pelos atores que interpretam esses papéis,",
+      "RUSSIAN": "к актёрам, которые исполняют эти роли,",
+      "FRENCH": "aux acteurs qui jouent ces rôles,",
+      "THAI": "ให้นักแสดงที่เล่นบทเหล่านี้,",
+      "PERSIAN": "به بازیگرانی که این نقش ها را بازی می کنند،"
+    },
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 60.2
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "나중에 멋진 결과!",
+      "ENGLISH": "you’ll be rewarded with an amazing ending!",
+      "CHINESE_SIMPLIFIED": "相信大家都会有圆满的结局的",
+      "CHINESE_TRADITIONAL": "相信大家都會有圓滿的結局的",
+      "JAPANESE": "素晴らしい結果！",
+      "INDONESIAN": "kalian akan dapat akhir yang luar biasa!",
+      "PORTUGUESE": "vão ser recompensados com um final incrível!",
+      "RUSSIAN": "вас ждёт потрясающая развязка!",
+      "FRENCH": "vous serez récompensés avec une fin incroyable !",
+      "THAI": "คุณจะได้เห็นฉากจบสุดเจ๋ง!",
+      "PERSIAN": "شما با یک پایان شگفت انگیز پاداش خواهید گرفت!"
+    },
+    "TIME": {
+      "SHOW": 60.2,
+      "HIDE": 62.5
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "멋진...",
+      "ENGLISH": "An amazing...",
+      "CHINESE_SIMPLIFIED": "很棒...",
+      "CHINESE_TRADITIONAL": "很棒...",
+      "JAPANESE": "素晴らしい…",
+      "INDONESIAN": "Akhir yang...",
+      "PORTUGUESE": "Um final...",
+      "RUSSIAN": "Потрясающая...",
+      "FRENCH": "Une fin incroyable...",
+      "THAI": "ฉากจบ...",
+      "PERSIAN": "یک شگفت انگیز..."
+    },
+    "TIME": {
+      "SHOW": 62.5,
+      "HIDE": 66.2
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "멋진 엔딩이 기다리고 있거든요.",
+      "ENGLISH": "Amazing ending is waiting for you!",
+      "CHINESE_SIMPLIFIED": "很美好的结局在等着你们呢",
+      "CHINESE_TRADITIONAL": "很美好的結局在等着你們呢",
+      "JAPANESE": "素晴らしいエンディングが待っているので",
+      "INDONESIAN": "Akhir luar biasa menunggu kalian!",
+      "PORTUGUESE": "Um final incrível está esperando por vocês!",
+      "RUSSIAN": "Невероятная концовка уже ждёт вас!",
+      "FRENCH": "Une fin extraordinaire vous attend !",
+      "THAI": "ที่สุดยอดรอคุณอยู่!",
+      "PERSIAN": "پایان شگفت انگیز در انتظار شماست!"
+    },
+    "TIME": {
+      "SHOW": 66.2,
+      "HIDE": 68.5
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "그 모습을 기대하면서",
+      "ENGLISH": "I really hope ",
+      "CHINESE_SIMPLIFIED": "希望大家能怀着对结局的期待",
+      "CHINESE_TRADITIONAL": "希望大家能懷着對結局的期待",
+      "JAPANESE": "その姿を期待しながら",
+      "INDONESIAN": "Aku benar-benar berharap",
+      "PORTUGUESE": "Espero muito",
+      "RUSSIAN": "Я искренне надеюсь,",
+      "FRENCH": "J’espère vraiment",
+      "THAI": "ผมหวังจริงๆ",
+      "PERSIAN": "من واقعا امیدوارم"
+    },
+    "TIME": {
+      "SHOW": 68.5,
+      "HIDE": 69.9
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "플레이해 주시면 너무너무 감사하겠습니다!",
+      "ENGLISH": "you’ll stick with it and enjoy every moment.",
+      "CHINESE_SIMPLIFIED": "游玩并享受我们的游戏",
+      "CHINESE_TRADITIONAL": "遊玩並享受我們的遊戲",
+      "JAPANESE": "プレイしていただけれると、うれしいです。",
+      "INDONESIAN": "kalian tetap ikuti dan nikmati setiap momennya.",
+      "PORTUGUESE": "que vocês acompanhem e aproveitem cada momento.",
+      "RUSSIAN": "что вы будете с нами и насладитесь каждым моментом.",
+      "FRENCH": "que vous profiterez de chaque instant.",
+      "THAI": "ว่าคุณจะอยู่กับเราจนจบและสนุกกับทุกช่วงเวลา.",
+      "PERSIAN": "شما به اون پایبند می‌شین و از هر لحظه لذت خواهید برد."
+    },
+    "TIME": {
+      "SHOW": 69.9,
+      "HIDE": 72.2
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "그리고!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "还有！",
+      "CHINESE_TRADITIONAL": "還有！",
+      "JAPANESE": "そして！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Ah!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "อ้อ!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 72.2,
+      "HIDE": 73.5
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "이 게임을 많이 사랑해 주신다면",
+      "ENGLISH": "and if you love this game,",
+      "CHINESE_SIMPLIFIED": "如果大家喜欢这款游戏的话",
+      "CHINESE_TRADITIONAL": "如果大家喜歡這款遊戲的話",
+      "JAPANESE": "このゲームをたくさんプレイしていただけると",
+      "INDONESIAN": "Dan kalau kalian suka game ini,",
+      "PORTUGUESE": "E se vocês amarem este jogo,",
+      "RUSSIAN": "И если вам понравилась эта игра,",
+      "FRENCH": "Et si vous avez aimé ce jeu,",
+      "THAI": "ถ้าคุณชอบเกมนี้,",
+      "PERSIAN": "و اگر عاشق این بازی هستید،"
+    },
+    "TIME": {
+      "SHOW": 73.5,
+      "HIDE": 75.8
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "하숙집 편 말고",
+      "ENGLISH": "we’re thinking about making another version",
+      "CHINESE_SIMPLIFIED": "不仅是合租屋篇",
+      "CHINESE_TRADITIONAL": "不僅是合租屋篇",
+      "JAPANESE": "今回の下宿編だけじゃなく",
+      "INDONESIAN": "kami sedang berpikir buat bikin versi lain,",
+      "PORTUGUESE": "estamos pensando em fazer outra versão,",
+      "RUSSIAN": "мы планируем сделать ещё одну версию —",
+      "FRENCH": "on pense à créer une nouvelle version",
+      "THAI": "เราคิดจะทำเวอร์ชันใหม่",
+      "PERSIAN": "ما به ساخت نسخه دیگری فکر می کنیم"
+    },
+    "TIME": {
+      "SHOW": 75.8,
+      "HIDE": 77.6
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "이제 다른 편도! 제작을 생각하고 있어요.",
+      "ENGLISH": "not just the boarding house story!",
+      "CHINESE_SIMPLIFIED": "我们也在考虑制作其他篇哦！",
+      "CHINESE_TRADITIONAL": "我們也在考慮製作其他篇哦！",
+      "JAPANESE": "他のバージョンも！’制作を考えていますので",
+      "INDONESIAN": "nggak cuma cerita kos-kosan ini!",
+      "PORTUGUESE": "não só essa história da pensão!",
+      "RUSSIAN": "не только историю про общежитие!",
+      "FRENCH": "pas seulement l’histoire de la pension !",
+      "THAI": "ไม่ใช่แค่เรื่องราวของบ้านพักอีกด้วย!",
+      "PERSIAN": "نه فقط داستان پانسیون!"
+    },
+    "TIME": {
+      "SHOW": 77.6,
+      "HIDE": 80.6
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "그것도 많이 많이 기대해 주시면 감사하겠습니다.",
+      "ENGLISH": "So please look forward to that too.",
+      "CHINESE_SIMPLIFIED": "希望大家多多期待 ",
+      "CHINESE_TRADITIONAL": "希望大家多多期待",
+      "JAPANESE": "ぜひぜひ、皆さんプレイしていただけると幸いです。",
+      "INDONESIAN": "Jadi tolong nantikan, ya.",
+      "PORTUGUESE": "Então, aguardem também por isso.",
+      "RUSSIAN": "Так что ждите с нетерпением.",
+      "FRENCH": "Alors restez à l’affût !",
+      "THAI": "รอติดตามนะครับ!",
+      "PERSIAN": "پس لطفا منتظر اون نیز باشید."
+    },
+    "TIME": {
+      "SHOW": 80.6,
+      "HIDE": 83.5
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "감사해요♡",
+      "ENGLISH": "Thank you so much! ♡",
+      "CHINESE_SIMPLIFIED": "谢谢♡",
+      "CHINESE_TRADITIONAL": "謝謝♡",
+      "JAPANESE": "ありがとうございます♡",
+      "INDONESIAN": "Terima kasih banyak! ♡",
+      "PORTUGUESE": "Muito obrigado! ♡",
+      "RUSSIAN": "Спасибо вам огромное! ♡",
+      "FRENCH": "Merci beaucoup ! ♡",
+      "THAI": "ขอบคุณมากครับ! ♡",
+      "PERSIAN": "خیلی ممنون! ♡"
+    },
+    "TIME": {
+      "SHOW": 83.5,
+      "HIDE": 86.0
+    }
+  }
+]

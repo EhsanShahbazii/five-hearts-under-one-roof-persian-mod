@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "천천히 마셔야죠..",
+      "ENGLISH": "Drink it slowly.",
+      "CHINESE_SIMPLIFIED": "你慢慢喝",
+      "CHINESE_TRADITIONAL": "你慢慢喝",
+      "JAPANESE": "ゆっくり飲まないと…",
+      "INDONESIAN": "Minumnya pelan-pelan.",
+      "PORTUGUESE": "Bebe devagar.",
+      "RUSSIAN": "Пей медленно.",
+      "FRENCH": "Bois doucement.",
+      "THAI": "ค่อยๆ ดื่มนะ."
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thanks...",
+      "CHINESE_SIMPLIFIED": "谢谢…",
+      "CHINESE_TRADITIONAL": "謝謝…",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih...",
+      "PORTUGUESE": "Obrigado...",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณ..."
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "다른 거 더 먹어야 하지 않아요?",
+      "ENGLISH": "Don't you need to eat something else?",
+      "CHINESE_SIMPLIFIED": "你要不要再吃点别的?",
+      "CHINESE_TRADITIONAL": "你要不要再吃點別的?",
+      "JAPANESE": "他に食べたいもの、ありますか？",
+      "INDONESIAN": "Kamu gak butuh makan yang lain?",
+      "PORTUGUESE": "Você não precisa comer mais nada?",
+      "RUSSIAN": "Тебе не нужно ещё что-нибудь поесть?",
+      "FRENCH": "Tu ne veux rien manger d’autre ?",
+      "THAI": "ไม่อยากกินอย่างอื่นหน่อยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "우유만으로 괜찮아요?",
+      "ENGLISH": "Is milk enough?",
+      "CHINESE_SIMPLIFIED": "只喝牛奶能行吗?",
+      "CHINESE_TRADITIONAL": "只喝牛奶能行嗎?",
+      "JAPANESE": "牛乳だけで大丈夫ですか？",
+      "INDONESIAN": "Susu aja cukup?",
+      "PORTUGUESE": "Leite já é suficiente?",
+      "RUSSIAN": "Молока достаточно?",
+      "FRENCH": "Le lait, ça suffit ?",
+      "THAI": "นมพอแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.7
+    }
+  }
+]

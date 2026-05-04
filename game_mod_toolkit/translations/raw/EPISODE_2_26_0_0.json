@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "...저 일단...",
+      "ENGLISH": "...Anyway...",
+      "CHINESE_SIMPLIFIED": "...首先...",
+      "CHINESE_TRADITIONAL": "...首先...",
+      "JAPANESE": "とりあえず…",
+      "INDONESIAN": "...Ngomong-ngomong...",
+      "PORTUGUESE": "...Enfim...",
+      "RUSSIAN": "...В любом случае...",
+      "FRENCH": "...Enfin bon...",
+      "THAI": "...เอาเถอะ..."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 집에 오신 걸 환영하고요...",
+      "ENGLISH": "Welcome to my place.",
+      "CHINESE_SIMPLIFIED": "欢迎二位来我家",
+      "CHINESE_TRADITIONAL": "歡迎二位來我家",
+      "JAPANESE": "我が家へようこそ…",
+      "INDONESIAN": "Selamat datang di tempatku.",
+      "PORTUGUESE": "Bem-vindo ao meu lugar.",
+      "RUSSIAN": "Добро пожаловать ко мне.",
+      "FRENCH": "Bienvenue chez moi.",
+      "THAI": "ยินดีต้อนรับสู่บ้านฉัน"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 좀 드실래요?",
+      "ENGLISH": "Would you like something to eat?",
+      "CHINESE_SIMPLIFIED": "要吃点什么吗?",
+      "CHINESE_TRADITIONAL": "要吃點什麼嗎?",
+      "JAPANESE": "何か召し上がりますか？",
+      "INDONESIAN": "Mau makan sesuatu?",
+      "PORTUGUESE": "Quer comer alguma coisa?",
+      "RUSSIAN": "Хотите что-нибудь поесть?",
+      "FRENCH": "Vous voulez manger quelque chose ?",
+      "THAI": "อยากกินอะไรหน่อยไหม?"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "밥은 무슨 밥이야?",
+      "ENGLISH": "Food~?",
+      "CHINESE_SIMPLIFIED": "吃什么吃呀!",
+      "CHINESE_TRADITIONAL": "吃什麼吃呀!",
+      "JAPANESE": "こんな時間にご飯？",
+      "INDONESIAN": "Makanan~?",
+      "PORTUGUESE": "Comida~?",
+      "RUSSIAN": "Еда~?",
+      "FRENCH": "De la nourriture~ ?",
+      "THAI": "อาหาร~?"
+    },
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 시간에 먹으면 살밖에 더 쪄?",
+      "ENGLISH": "Food? At this hour? If I eat now, I’ll just gain weight!",
+      "CHINESE_SIMPLIFIED": "这个时间吃东西百分百会长胖!",
+      "CHINESE_TRADITIONAL": "這個時間吃東西百分百會長胖!",
+      "JAPANESE": "食べたら太るだけじゃない。",
+      "INDONESIAN": "Makanan? Jam segini? Kalau aku makan sekarang, nanti malah gemuk!",
+      "PORTUGUESE": "Comida? A essa hora? Se eu comer agora, só vou ganhar peso!",
+      "RUSSIAN": "Еда? В такой час? Если я сейчас поем, только вес наберу!",
+      "FRENCH": "Manger ? À cette heure ? Si je mange maintenant, je vais juste prendre du poids !",
+      "THAI": "อาหาร? ตอนนี้เนี่ยนะ? ถ้าฉันกินตอนนี้มีหวังอ้วนแน่!"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저도 체중 관리 중이라 안 먹을래요.",
+      "ENGLISH": "I’m watching my weight too, so I’ll pass.",
+      "CHINESE_SIMPLIFIED": "我在控制体重，也不吃了",
+      "CHINESE_TRADITIONAL": "我在控制體重，也不吃了",
+      "JAPANESE": "私も体重管理中だから、大丈夫です。",
+      "INDONESIAN": "Aku juga lagi jaga berat badan, jadi aku skip aja.",
+      "PORTUGUESE": "Eu também tô cuidando do peso, então vou passar.",
+      "RUSSIAN": "Я тоже слежу за весом, так что лучше воздержусь.",
+      "FRENCH": "Je fais attention à ma ligne aussi, donc je vais passer.",
+      "THAI": "ฉันก็ดูแลน้ำหนักเหมือนกัน ขอบายดีกว่า"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "(민정과 그란의 꼬르륵 소리)",
+      "ENGLISH": "(Min-jung and Gran’s stomachs growl)",
+      "CHINESE_SIMPLIFIED": "（咕噜噜~）",
+      "CHINESE_TRADITIONAL": "（咕嚕嚕~）",
+      "JAPANESE": "（ミンジョンとドン課長のお腹が鳴る音）",
+      "INDONESIAN": "(Perut Min-jung dan Gran berbunyi)",
+      "PORTUGUESE": "(Os estômagos de Min-jung e Gran roncam)",
+      "RUSSIAN": "(животы Мин-джун и Грана урчат)",
+      "FRENCH": "(les ventres de Min-jung et Gran gargouillent)",
+      "THAI": "(ท้องของมินจองกับแกรนร้องโครกคราก)"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "... 식사 하실래요?",
+      "ENGLISH": "...So, how about some food?",
+      "CHINESE_SIMPLIFIED": "…要吃饭吗?",
+      "CHINESE_TRADITIONAL": "…要吃飯嗎?",
+      "JAPANESE": "…食事にしましょうか？",
+      "INDONESIAN": "...Jadi, gimana kalau makan?",
+      "PORTUGUESE": "...Então, que tal alguma comida?",
+      "RUSSIAN": "...Ну что, может, всё-таки перекусим?",
+      "FRENCH": "...Alors, on mange quand même ?",
+      "THAI": "...ว่าไง เอาอะไรมาให้กินดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 26.15
+    }
+  }
+]

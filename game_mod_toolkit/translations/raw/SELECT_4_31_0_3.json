@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 너 힘세서 좋아!",
+      "ENGLISH": "I like you because you're strong!",
+      "CHINESE_SIMPLIFIED": "我喜欢你力气大!",
+      "CHINESE_TRADITIONAL": "我喜歡你力氣大!",
+      "JAPANESE": "お前は力があっていいと思うな。",
+      "INDONESIAN": "Aku suka kamu karena kamu kuat!",
+      "PORTUGUESE": "Eu gosto de você porque você é forte!",
+      "RUSSIAN": "Ты мне нравишься, потому что ты сильная!",
+      "FRENCH": "Je t’aime parce que t’es forte !",
+      "THAI": "ฉันชอบเธอเพราะเธอแข็งแรง!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "가끔 너랑 펀치 기계 내기할 때마다... 나 떠는 거 모르지?",
+      "ENGLISH": "You don’t know I get nervous when we play punch machine, do you?",
+      "CHINESE_SIMPLIFIED": "和你一起玩拳击游戏的时候，我偶会还会紧张",
+      "CHINESE_TRADITIONAL": "和你一起玩拳擊遊戲的時候，我偶會還會緊張",
+      "JAPANESE": "たまに君とパンチングマシーンで勝負する時、俺が震えてるの知らないだろ？",
+      "INDONESIAN": "Kamu gak tahu aku deg-degan tiap kali kita main mesin tinju, kan?",
+      "PORTUGUESE": "Você nem sabe que eu fico nervoso toda vez que jogamos no soco-máquina, né?",
+      "RUSSIAN": "Ты даже не знаешь, что я нервничаю, когда мы играем в силу удара, да?",
+      "FRENCH": "Tu sais même pas que je stresse quand on joue à la machine à taper, hein ?",
+      "THAI": "เธอไม่รู้หรอกว่าฉันประหม่าเวลาที่เราเล่นเครื่องทุบกำลังมือกัน"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진심이야?",
+      "ENGLISH": "Are you serious?",
+      "CHINESE_SIMPLIFIED": "真的假的?",
+      "CHINESE_TRADITIONAL": "真的假的?",
+      "JAPANESE": "ほんと？",
+      "INDONESIAN": "Seriusan?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Ты серьёзно?",
+      "FRENCH": "Tu es sérieuse ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "말 나온 김에 팔 씨름 고?",
+      "ENGLISH": "Since we’re talking about it, arm wrestling, go?",
+      "CHINESE_SIMPLIFIED": "说到这了,我们要不要掰手腕?",
+      "CHINESE_TRADITIONAL": "說到這了,我們要不要掰手腕?",
+      "JAPANESE": "腕相撲してみようか？",
+      "INDONESIAN": "Mumpung ngomongin ini, panco, yuk?",
+      "PORTUGUESE": "Já que estamos falando disso, queda de braço, bora?",
+      "RUSSIAN": "Раз уж говорим об этом, армрестлинг, готова?",
+      "FRENCH": "Puisqu’on en parle, un bras de fer, ça te dit ?",
+      "THAI": "ไหนๆ ก็พูดแล้ว งั้นมางัดข้อกันไหม?"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "고!",
+      "ENGLISH": "Go!",
+      "CHINESE_SIMPLIFIED": "GO！",
+      "CHINESE_TRADITIONAL": "GO！",
+      "JAPANESE": "いいよ！",
+      "INDONESIAN": "Ayo!",
+      "PORTUGUESE": "Bora!",
+      "RUSSIAN": "Готова!",
+      "FRENCH": "Prête !",
+      "THAI": "มาเลย!"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.0
+    }
+  }
+]

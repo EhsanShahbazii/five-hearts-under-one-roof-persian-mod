@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오 고말숙 새 신발~",
+      "ENGLISH": "Oh, new shoes, Go Mal-sook!",
+      "CHINESE_SIMPLIFIED": "哇~高末淑买新鞋了~",
+      "CHINESE_TRADITIONAL": "哇~高末淑買新鞋了~",
+      "JAPANESE": "マルスクの新しい靴～",
+      "INDONESIAN": "Oh, sepatu baru, Go Mal-sook!",
+      "PORTUGUESE": "Oh, sapatos novos, Go Mal-sook!",
+      "RUSSIAN": "О, новые туфли, Го Мал-Сук!",
+      "FRENCH": "Oh, nouvelles chaussures, Go Mal-sook !",
+      "THAI": "โอ้ รองเท้าคู่ใหม่เหรอ โก มัลซุก!",
+      "PERSIAN": "آه، کفش های نو، برو مال‌سوک!"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "새 신발 아니야... ",
+      "ENGLISH": "They're not new...",
+      "CHINESE_SIMPLIFIED": "不是新鞋…",
+      "CHINESE_TRADITIONAL": "不是新鞋…",
+      "JAPANESE": "新しいのじゃないわよ…",
+      "INDONESIAN": "Ini bukan baru…",
+      "PORTUGUESE": "Não são novos…",
+      "RUSSIAN": "Они не новые...",
+      "FRENCH": "Elles ne sont pas neuves...",
+      "THAI": "มันไม่ใช่คู่ใหม่นะ...",
+      "PERSIAN": "تازه نیستن..."
+    },
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "빨아야겠다...",
+      "ENGLISH": "they need washing.",
+      "CHINESE_SIMPLIFIED": "又得刷一下了…",
+      "CHINESE_TRADITIONAL": "又得刷一下了…",
+      "JAPANESE": "洗わなきゃ…",
+      "INDONESIAN": "butuh dicuci aja.",
+      "PORTUGUESE": "só precisam de uma lavagem.",
+      "RUSSIAN": "их нужно постирать.",
+      "FRENCH": "elles ont besoin d’un lavage.",
+      "THAI": "ต้องเอาไปซักแล้ว",
+      "PERSIAN": "نیاز به شستشو دارند"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 고말숙~ 왜 이렇게 기운이 없어...",
+      "ENGLISH": "Hey, Go Mal-sook, why do you look so down?",
+      "CHINESE_SIMPLIFIED": "高末淑你怎么无精打采的…",
+      "CHINESE_TRADITIONAL": "高末淑你怎麼無精打采的…",
+      "JAPANESE": "何だよ、マルスク、何か、元気ないな…",
+      "INDONESIAN": "Hey, Go Mal-sook, kenapa kelihatan murung?",
+      "PORTUGUESE": "Ei, Go Mal-sook, por que parece tão pra baixo?",
+      "RUSSIAN": "Эй, Го Мал-Сук, почему ты выглядишь такой подавленной?",
+      "FRENCH": "Hé, Go Mal-sook, pourquoi tu as l’air si abattue ?",
+      "THAI": "เฮ้ โก มัลซุก ทำไมเธอดูเศร้าจัง?",
+      "PERSIAN": "هی برو مال‌سوک چرا اینقدر پایین نگاه می کنی؟"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "됐어~ ",
+      "ENGLISH": "I told you, it's nothing.",
+      "CHINESE_SIMPLIFIED": "没事~",
+      "CHINESE_TRADITIONAL": "沒事~",
+      "JAPANESE": "もういいから～",
+      "INDONESIAN": "Aku sudah bilang, nggak ada apa-apa.",
+      "PORTUGUESE": "Eu já disse, não é nada.",
+      "RUSSIAN": "Я же сказала, ничего.",
+      "FRENCH": "Je t’ai dit que c’est rien.",
+      "THAI": "ฉันบอกแล้วว่าไม่มีอะไร",
+      "PERSIAN": "بهت گفتم چیزی نیست"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "프린트하러 온 거지? 그거나 줘.",
+      "ENGLISH": "I'm just here to print something. Just give it to me.",
+      "CHINESE_SIMPLIFIED": "你不是过来打印的吗? 给我吧",
+      "CHINESE_TRADITIONAL": "你不是過來打印的嗎? 給我吧",
+      "JAPANESE": "プリントしに来たんでしょ？ちょうだい。",
+      "INDONESIAN": "Aku cuma mau cetak sesuatu. Berikan saja.",
+      "PORTUGUESE": "Só vim imprimir algo. Me dá logo.",
+      "RUSSIAN": "Я просто пришла что-то распечатать. Просто дай сюда.",
+      "FRENCH": "Je suis juste venue pour imprimer quelque chose. Passe-moi ça.",
+      "THAI": "ฉันแค่มาปริ๊นต์เอกสาร ยื่นมานี่",
+      "PERSIAN": "من اینجا هستم تا چیزی چاپ کنم. فقط به من بده"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "자.",
+      "ENGLISH": "Here!",
+      "CHINESE_SIMPLIFIED": "给",
+      "CHINESE_TRADITIONAL": "給",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Ini!",
+      "PORTUGUESE": "Aqui está!",
+      "RUSSIAN": "Вот!",
+      "FRENCH": "Tiens !",
+      "THAI": "นี่!",
+      "PERSIAN": "بیا اینم شیر!"
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.1
+    }
+  }
+]

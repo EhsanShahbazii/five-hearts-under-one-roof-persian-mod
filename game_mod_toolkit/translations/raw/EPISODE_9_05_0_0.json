@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그분 어디가 그렇게 좋던가요?",
+      "ENGLISH": "What do you like about them?",
+      "CHINESE_SIMPLIFIED": "那你都喜欢她什么呢?",
+      "CHINESE_TRADITIONAL": "那你都喜歡她什麼呢?",
+      "JAPANESE": "ドン課長のどこがにいいんですか？",
+      "INDONESIAN": "Apa yang kamu suka dari mereka?",
+      "PORTUGUESE": "O que você gosta neles?",
+      "RUSSIAN": "Что тебе в нём нравится?",
+      "FRENCH": "Qu’est-ce que tu aimes chez lui ?",
+      "THAI": "คุณชอบอะไรในตัวเขาล่ะ?"
+    },
+    "TIME": {
+      "HIDE": 1.7
+    }
+  }
+]

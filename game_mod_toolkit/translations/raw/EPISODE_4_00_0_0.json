@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저기요...!",
+      "ENGLISH": "Hey...!",
+      "CHINESE_SIMPLIFIED": "等下！",
+      "CHINESE_TRADITIONAL": "等下！",
+      "JAPANESE": "あの…！",
+      "INDONESIAN": "Hey...!",
+      "PORTUGUESE": "Ei...!",
+      "RUSSIAN": "Эй…!",
+      "FRENCH": "Hé… !",
+      "THAI": "เฮ้…!"
+    },
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "你等一下！！",
+      "CHINESE_TRADITIONAL": "你等一下！！",
+      "JAPANESE": "すみません！",
+      "INDONESIAN": "Permisi!",
+      "PORTUGUESE": "Com licença!",
+      "RUSSIAN": "Извините!",
+      "FRENCH": "Excusez-moi !",
+      "THAI": "ขอโทษครับ!"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "你等一下！！",
+      "CHINESE_TRADITIONAL": "你等一下！！",
+      "JAPANESE": "ちょっと待ってください！",
+      "INDONESIAN": "Permisi!",
+      "PORTUGUESE": "Com licença!",
+      "RUSSIAN": "Извините!",
+      "FRENCH": "Excusez-moi !",
+      "THAI": "ขอโทษครับ!"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.0
+    }
+  }
+]

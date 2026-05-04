@@ -1,0 +1,286 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이 작은 몸에 때릴 데가 어딨다고...",
+      "ENGLISH": "With such a small body, where could you even hit...",
+      "CHINESE_SIMPLIFIED": "这么小的宝贝，怎么忍心打她呢…",
+      "CHINESE_TRADITIONAL": "這麼小的寶貝，怎麼忍心打她呢…",
+      "JAPANESE": "こんな小さな体に、何てことを…",
+      "INDONESIAN": "Dengan badan sekecil ini, kamu bisa mukul di mana sih...",
+      "PORTUGUESE": "Com um corpo tão pequeno, onde você poderia bater...?",
+      "RUSSIAN": "С таким маленьким телом, куда бы ты вообще смогла ударить...",
+      "FRENCH": "Avec un si petit corps, tu pourrais frapper où exactement...",
+      "THAI": "ตัวเล็กขนาดนี้ เธอจะตีตรงไหนได้บ้างล่ะ..."
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "친구는 이름이 뭐야?",
+      "ENGLISH": "What’s your friend’s name?",
+      "CHINESE_SIMPLIFIED": "小朋友，你叫什么名字啊?",
+      "CHINESE_TRADITIONAL": "小朋友，你叫什麼名字啊?",
+      "JAPANESE": "名前は何て言うの？",
+      "INDONESIAN": "Siapa nama temanmu?",
+      "PORTUGUESE": "Qual é o nome do seu amigo?",
+      "RUSSIAN": "Как зовут твою подругу?",
+      "FRENCH": "Comment s’appelle ton amie ?",
+      "THAI": "เพื่อนเธอชื่ออะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "조승이요...",
+      "ENGLISH": "Jo Seung-yi...",
+      "CHINESE_SIMPLIFIED": "我叫圣依…",
+      "CHINESE_TRADITIONAL": "我叫聖依…",
+      "JAPANESE": "チョ・スンイです…",
+      "INDONESIAN": "Jo Seung-yi...",
+      "PORTUGUESE": "Jo Seung-yi...",
+      "RUSSIAN": "Джо Сын-и...",
+      "FRENCH": "Jo Seung-yi...",
+      "THAI": "โจ ซึงอี..."
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "몸에 이런 건...",
+      "ENGLISH": "Did...",
+      "CHINESE_SIMPLIFIED": "你身上的伤",
+      "CHINESE_TRADITIONAL": "你身上的傷",
+      "JAPANESE": "体にあるこれは…",
+      "INDONESIAN": "Apa...",
+      "PORTUGUESE": "Foi...",
+      "RUSSIAN": "Это...",
+      "FRENCH": "C’est...",
+      "THAI": "นี่..."
+    },
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 엄마 아빠가 그런 거니?",
+      "ENGLISH": "Your mom or dad do this to you?",
+      "CHINESE_SIMPLIFIED": "是爸爸妈妈弄的吗?",
+      "CHINESE_TRADITIONAL": "是爸爸媽媽弄的嗎?",
+      "JAPANESE": "もしかして、ママとパパがやったの？",
+      "INDONESIAN": "Ibumu atau ayahmu yang melakukan ini padamu?",
+      "PORTUGUESE": "Sua mãe ou seu pai que fez isso com você?",
+      "RUSSIAN": "Твоя мама или папа сделали это с тобой?",
+      "FRENCH": "Ta mère ou ton père qui t’ont fait ça ?",
+      "THAI": "แม่หรือพ่อเธอทำเรื่องนี้กับเธอเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "...",
+      "ENGLISH": "...",
+      "CHINESE_SIMPLIFIED": "…",
+      "CHINESE_TRADITIONAL": "…",
+      "JAPANESE": "…",
+      "INDONESIAN": "...",
+      "PORTUGUESE": "...",
+      "RUSSIAN": "...",
+      "FRENCH": "...",
+      "THAI": "..."
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "승이야",
+      "ENGLISH": "Seung-yi",
+      "CHINESE_SIMPLIFIED": "圣依",
+      "CHINESE_TRADITIONAL": "聖依",
+      "JAPANESE": "スンイ。",
+      "INDONESIAN": "Seung-yi",
+      "PORTUGUESE": "Seung-yi",
+      "RUSSIAN": "Сын-и",
+      "FRENCH": "Seung-yi",
+      "THAI": "ซึงอี"
+    },
+    "TIME": {
+      "SHOW": 16.57,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "일단",
+      "ENGLISH": "Let's",
+      "CHINESE_SIMPLIFIED": "我们",
+      "CHINESE_TRADITIONAL": "我們",
+      "JAPANESE": "とりあえず",
+      "INDONESIAN": "Ayo",
+      "PORTUGUESE": "Vamos",
+      "RUSSIAN": "Давай",
+      "FRENCH": "Mettons",
+      "THAI": "เรา"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "우리 이거로 갈아입어볼까?",
+      "ENGLISH": "Change into these clothes for now.",
+      "CHINESE_SIMPLIFIED": "先把这个换上好不好?",
+      "CHINESE_TRADITIONAL": "先把這個換上好不好?",
+      "JAPANESE": "これに着替えてみようか？",
+      "INDONESIAN": "Ganti baju dulu pakai ini, ya.",
+      "PORTUGUESE": "Trocar de roupa por enquanto.",
+      "RUSSIAN": "переоденемся в эту одежду пока что.",
+      "FRENCH": "ces vêtements pour l’instant.",
+      "THAI": "มาเปลี่ยนเป็นเสื้อผ้านี่กันก่อนนะ"
+    },
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아이고",
+      "ENGLISH": "Oh",
+      "CHINESE_SIMPLIFIED": "哎呀",
+      "CHINESE_TRADITIONAL": "哎呀",
+      "JAPANESE": "あらまあ",
+      "INDONESIAN": "Oh",
+      "PORTUGUESE": "Ah",
+      "RUSSIAN": "Ой",
+      "FRENCH": "Oh",
+      "THAI": "โอ้"
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "옷이 너무 크네...!",
+      "ENGLISH": "The clothes are a bit big...!",
+      "CHINESE_SIMPLIFIED": "不过这衣服有点大啊…!",
+      "CHINESE_TRADITIONAL": "不過這衣服有點大啊…!",
+      "JAPANESE": "服がちょっと大きいな…！",
+      "INDONESIAN": "Bajunya agak kebesaran...!",
+      "PORTUGUESE": "A roupa tá meio grande...!",
+      "RUSSIAN": "Одежда немного великовата...!",
+      "FRENCH": "Les vêtements sont un peu grands...!",
+      "THAI": "เสื้อผ้าตัวใหญ่ไปหน่อยนะ...!"
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아줌마가 데운 우유인데",
+      "ENGLISH": "I’ve heated up some milk",
+      "CHINESE_SIMPLIFIED": "阿姨给你热一杯牛奶",
+      "CHINESE_TRADITIONAL": "阿姨給你熱一杯牛奶",
+      "JAPANESE": "これ、暖かい牛乳",
+      "INDONESIAN": "Aku udah angetin susu,",
+      "PORTUGUESE": "Eu esquentei um pouco de leite,",
+      "RUSSIAN": "Я подогрел молоко,",
+      "FRENCH": "J’ai chauffé du lait,",
+      "THAI": "ฉันอุ่นนมไว้ให้แล้ว"
+    },
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 32.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "천천히 마시고",
+      "ENGLISH": "Drink it slowly",
+      "CHINESE_SIMPLIFIED": "你喝完之后今天就睡在这里",
+      "CHINESE_TRADITIONAL": "你喝完之後今天就睡在這裏",
+      "JAPANESE": "ゆっくり飲んで",
+      "INDONESIAN": "Minumnya pelan-pelan.",
+      "PORTUGUESE": "Bebe devagar.",
+      "RUSSIAN": "пей медленно.",
+      "FRENCH": "bois doucement.",
+      "THAI": "ค่อยๆ ดื่มนะ"
+    },
+    "TIME": {
+      "SHOW": 33.2,
+      "HIDE": 34.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 여기서 자자?",
+      "ENGLISH": "And let's sleep in this room tonight, okay?",
+      "CHINESE_SIMPLIFIED": "好吗?",
+      "CHINESE_TRADITIONAL": "好嗎?",
+      "JAPANESE": "今日はここで寝ようか？",
+      "INDONESIAN": "Dan malam ini kita tidur di kamar ini aja, ya?",
+      "PORTUGUESE": "E vamos dormir neste quarto hoje à noite, tá bom?",
+      "RUSSIAN": "И давай переночуем в этой комнате, хорошо?",
+      "FRENCH": "Et on dort dans cette pièce ce soir, d’accord ?",
+      "THAI": "แล้วคืนนี้เรานอนในห้องนี้ด้วยกันนะ โอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 35.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "ENGLISH": "(Yuman)",
+      "CHINESE_SIMPLIFIED": "(吴宥万)",
+      "CHINESE_TRADITIONAL": "(吳宥萬)",
+      "JAPANESE": "（ウ・ユマン）",
+      "INDONESIAN": "(Yuman)",
+      "PORTUGUESE": "(Yuman)",
+      "RUSSIAN": "(Юман)",
+      "FRENCH": "(Yuman)",
+      "THAI": "(ยูมัน)"
+    },
+    "TIME": {
+      "SHOW": 47.7,
+      "HIDE": 49.0
+    }
+  }
+]

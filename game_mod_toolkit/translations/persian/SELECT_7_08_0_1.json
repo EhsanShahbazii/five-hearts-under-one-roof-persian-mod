@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bise",
+      "THAI": "จุ๊บ",
+      "PERSIAN": "*پیک*"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어쭈!",
+      "ENGLISH": "Oh,",
+      "CHINESE_SIMPLIFIED": "喂!",
+      "CHINESE_TRADITIONAL": "喂!",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Oh,",
+      "PORTUGUESE": "Oh,",
+      "RUSSIAN": "О,",
+      "FRENCH": "Oh,",
+      "THAI": "โอ้,",
+      "PERSIAN": "اوه،"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나도 해버린다?",
+      "ENGLISH": "You're provoking me?",
+      "CHINESE_SIMPLIFIED": "你再这样我就要反击了!",
+      "CHINESE_TRADITIONAL": "你再這樣我就要反擊了!",
+      "JAPANESE": "私もするけど、いいの？",
+      "INDONESIAN": "Kamu lagi mancing aku, ya?",
+      "PORTUGUESE": "Está me provocando?",
+      "RUSSIAN": "Ты меня провоцируешь?",
+      "FRENCH": "Tu me provoques ?",
+      "THAI": "เธอกำลังยั่วฉันเหรอ?",
+      "PERSIAN": "داری تحریکم میکنی؟"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.0
+    }
+  }
+]

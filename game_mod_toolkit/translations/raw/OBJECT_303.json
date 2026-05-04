@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얘도 우리 같이 찍은 사진 가지고 있었네?",
+      "ENGLISH": "She still has the photo we took together?",
+      "CHINESE_SIMPLIFIED": "她居然还留着我们的合照?",
+      "CHINESE_TRADITIONAL": "她居然還留着我們的合照?",
+      "JAPANESE": "俺たち、一緒に撮った写真、マルスクも持ってたんだ...",
+      "INDONESIAN": "Dia masih simpan foto yang kita ambil bareng?",
+      "PORTUGUESE": "Ela ainda tem a foto que tiramos juntos?",
+      "RUSSIAN": "У неё всё ещё есть фотография, которую мы сделали вместе?",
+      "FRENCH": "Elle a encore la photo qu’on a prise ensemble ?",
+      "THAI": "เธอยังเก็บรูปที่เราถ่ายด้วยกันไว้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 4.0
+    }
+  }
+]

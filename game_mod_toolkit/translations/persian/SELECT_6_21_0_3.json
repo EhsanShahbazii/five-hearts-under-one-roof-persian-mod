@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "에이 고백하라 그래!",
+      "ENGLISH": "She should confess!",
+      "CHINESE_SIMPLIFIED": "让她直接表白啊!",
+      "CHINESE_TRADITIONAL": "讓她直接表白啊!",
+      "JAPANESE": "告白しちゃえば？",
+      "INDONESIAN": "Dia harus mengungkapkan perasaannya!",
+      "PORTUGUESE": "Ela devia se declarar!",
+      "RUSSIAN": "Ей нужно признаться!",
+      "FRENCH": "Elle devrait se confesser !",
+      "THAI": "เธอควรจะสารภาพออกไป!",
+      "PERSIAN": "او باید اعتراف کند!"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么?",
+      "CHINESE_TRADITIONAL": "爲什麼?",
+      "JAPANESE": "どうして？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมล่ะ?",
+      "PERSIAN": "Why?"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "할까 말까 할 땐",
+      "ENGLISH": "When you're unsure",
+      "CHINESE_SIMPLIFIED": "犹豫不决的时候就大胆去做",
+      "CHINESE_TRADITIONAL": "猶豫不決的時候就大膽去做",
+      "JAPANESE": "迷ってるくらいなら",
+      "INDONESIAN": "Kalau masih ragu,",
+      "PORTUGUESE": "Quando você tá em dúvida,",
+      "RUSSIAN": "Когда ты не уверен,",
+      "FRENCH": "Quand tu n’es pas sûr,",
+      "THAI": "เวลาที่เธอไม่แน่ใจ",
+      "PERSIAN": "وقتی مطمئن نیستی"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "하는 게 후회를 덜 하더라고.",
+      "ENGLISH": "It's better to do it and not regret it later.",
+      "CHINESE_SIMPLIFIED": "起码以后不会太后悔",
+      "CHINESE_TRADITIONAL": "起碼以後不會太后悔",
+      "JAPANESE": "しないよりかは後悔ないし。",
+      "INDONESIAN": "lebih baik diungkapkan aja, daripada menyesal nanti.",
+      "PORTUGUESE": "é melhor fazer do que se arrepender depois.",
+      "RUSSIAN": "лучше сделать это и потом не жалеть.",
+      "FRENCH": "c’est mieux de le faire pour ne pas regretter plus tard.",
+      "THAI": "มันดีกว่าที่จะทำแล้วไม่เสียใจทีหลัง",
+      "PERSIAN": "بهتر است این کار را انجام دهید و بعداً پشیمان نشوید."
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "오!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "嗯!",
+      "CHINESE_TRADITIONAL": "嗯!",
+      "JAPANESE": "おお！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "맞아!",
+      "ENGLISH": "Right!",
+      "CHINESE_SIMPLIFIED": "你说得对!",
+      "CHINESE_TRADITIONAL": "你說得對!",
+      "JAPANESE": "そうね！",
+      "INDONESIAN": "Benar juga!",
+      "PORTUGUESE": "Verdade!",
+      "RUSSIAN": "Точно!",
+      "FRENCH": "Exactement !",
+      "THAI": "ใช่เลย!",
+      "PERSIAN": "Right!"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그래야지!",
+      "ENGLISH": "I should encourage myself",
+      "CHINESE_SIMPLIFIED": "就该这样!",
+      "CHINESE_TRADITIONAL": "就該這樣!",
+      "JAPANESE": "やっぱり、そうよね！",
+      "INDONESIAN": "Aku harus semangatin diriku",
+      "PORTUGUESE": "Eu devia me encorajar",
+      "RUSSIAN": "Надо себя подбодрить,",
+      "FRENCH": "Je devrais m’encourager",
+      "THAI": "ฉันควรจะให้กำลังใจตัวเอง",
+      "PERSIAN": "من باید خودم را تشویق کنم"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "다시 화이팅 해야지!",
+      "ENGLISH": "to go for it!",
+      "CHINESE_SIMPLIFIED": "得重新加油振作起来！",
+      "CHINESE_TRADITIONAL": "得重新加油振作起來！",
+      "JAPANESE": "もう一回、頑張ってみないと！",
+      "INDONESIAN": "buat melakukannya!",
+      "PORTUGUESE": "a ir em frente!",
+      "RUSSIAN": "чтобы сделать это!",
+      "FRENCH": "à y aller !",
+      "THAI": "เพื่อทำมัน!",
+      "PERSIAN": "برای رفتن به اون!"
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "너가 왜... 화이팅해?",
+      "ENGLISH": "Why are you...?",
+      "CHINESE_SIMPLIFIED": "你为什么要加油...?",
+      "CHINESE_TRADITIONAL": "你爲什麼要加油...?",
+      "JAPANESE": "何で、お前が頑張るんだよ。",
+      "INDONESIAN": "Kenapa kamu…?",
+      "PORTUGUESE": "Por que você…?",
+      "RUSSIAN": "Почему ты...?",
+      "FRENCH": "Pourquoi tu...?",
+      "THAI": "ทำไมเธอ...?",
+      "PERSIAN": "تو چرا...؟"
+    },
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "หือ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아... 아니",
+      "ENGLISH": "Uh... I mean",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "いや...",
+      "INDONESIAN": "Uh… maksudku,",
+      "PORTUGUESE": "Ah… quero dizer,",
+      "RUSSIAN": "Эм... я имею в виду",
+      "FRENCH": "Euh... je veux dire",
+      "THAI": "เอ่อ... ฉันหมายถึง",
+      "PERSIAN": "اوه... یعنی"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "다시 화이팅... 해보라고",
+      "ENGLISH": "I should",
+      "CHINESE_SIMPLIFIED": "我是说重新加油…",
+      "CHINESE_TRADITIONAL": "我是說重新加油…",
+      "JAPANESE": "もう一回、頑張ってみなって",
+      "INDONESIAN": "Aku harus",
+      "PORTUGUESE": "eu devia",
+      "RUSSIAN": "мне стоит",
+      "FRENCH": "je devrais",
+      "THAI": "ฉันควรจะ",
+      "PERSIAN": "من باید"
+    },
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "친구한테 말해준다는 거지...",
+      "ENGLISH": "Tell my friend to go for it...",
+      "CHINESE_SIMPLIFIED": "这句话我会转告给朋友的...",
+      "CHINESE_TRADITIONAL": "這句話我會轉告給朋友的...",
+      "JAPANESE": "その友達に言ってあげようと思って。",
+      "INDONESIAN": "bilang ke temanku untuk maju terus…",
+      "PORTUGUESE": "dizer pra minha amiga ir em frente…",
+      "RUSSIAN": "сказать подруге, чтобы она сделала это...",
+      "FRENCH": "dire à mon amie d’y aller...",
+      "THAI": "บอกเพื่อนฉันให้ทำมัน...",
+      "PERSIAN": "به دوستم بگو دنبالش برود..."
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 22.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우리 이제 집에 가자!",
+      "ENGLISH": "Let's go home.",
+      "CHINESE_SIMPLIFIED": "那我们回家吧!",
+      "CHINESE_TRADITIONAL": "那我們回家吧!",
+      "JAPANESE": "私たち、そろそろ家帰ろうか？",
+      "INDONESIAN": "Ayo pulang.",
+      "PORTUGUESE": "Vamos pra casa.",
+      "RUSSIAN": "Пойдём домой.",
+      "FRENCH": "Rentrons à la maison.",
+      "THAI": "กลับบ้านกันเถอะ",
+      "PERSIAN": "بریم خونه"
+    },
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.5
+    }
+  }
+]

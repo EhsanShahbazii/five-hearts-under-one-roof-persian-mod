@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 너가 나 블랙이라고 했던 거?",
+      "ENGLISH": "Are you talking about when I called you a 'black mark' and told you to leave?",
+      "CHINESE_SIMPLIFIED": "你说你把我列入黑名单的那次?",
+      "CHINESE_TRADITIONAL": "你說你把我列入黑名單的那次?",
+      "JAPANESE": "あ、俺のことブラック客だって言ってたやつ？",
+      "INDONESIAN": "Kamu maksud waktu aku menyebutmu ‘noda hitam’ dan menyuruhmu pergi?",
+      "PORTUGUESE": "Você está falando daquela vez que eu te chamei de ‘mancha negra’ e mandei você ir embora?",
+      "RUSSIAN": "Ты о том, как я называл(а) тебя «чёрным пятном» и говорил(а) тебе уйти?",
+      "FRENCH": "Tu parles du moment où je t’ai traité(e) de « tâche noire » et que je t’ai dit de partir ?",
+      "THAI": "เธอกำลังพูดถึงตอนที่ฉันเรียกเธอว่า ‘จุดด่างดำ’ แล้วบอกให้เธอไปใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "내가 그랬나?",
+      "ENGLISH": "Did I say that?",
+      "CHINESE_SIMPLIFIED": "我有那么说过吗?",
+      "CHINESE_TRADITIONAL": "我有那麼說過嗎?",
+      "JAPANESE": "私、そんなこと言ったっけ？",
+      "INDONESIAN": "Aku bilang begitu?",
+      "PORTUGUESE": "Eu disse isso?",
+      "RUSSIAN": "Я так говорил(а)?",
+      "FRENCH": "J’ai dit ça ?",
+      "THAI": "ฉันพูดแบบนั้นเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그래~ 기억 안 나?",
+      "ENGLISH": "Yeah, don't remember?",
+      "CHINESE_SIMPLIFIED": "这么快就忘了?",
+      "CHINESE_TRADITIONAL": "這麼快就忘了?",
+      "JAPANESE": "お前、覚えてないのか？",
+      "INDONESIAN": "Iya, nggak ingat?",
+      "PORTUGUESE": "Sim, não se lembra?",
+      "RUSSIAN": "Да, не помнишь?",
+      "FRENCH": "Oui, tu te souviens pas ?",
+      "THAI": "ใช่ จำไม่ได้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "막 블랙이니까 꺼지라고 그랬잖아 네가.",
+      "ENGLISH": "You told me to get lost because I was a 'black mark.'",
+      "CHINESE_SIMPLIFIED": "你说拒绝接待我还让我滚来着~",
+      "CHINESE_TRADITIONAL": "你說拒絕接待我還讓我滾來着~",
+      "JAPANESE": "「ブラックだから消えろ」って言ってただろ？",
+      "INDONESIAN": "Kamu menyuruhku pergi karena aku ‘noda hitam.’",
+      "PORTUGUESE": "Você me mandou cair fora porque eu era uma ‘mancha negra.’",
+      "RUSSIAN": "Ты велел(а) мне проваливать, потому что я был(а) «чёрным пятном».",
+      "FRENCH": "Tu m’as dit de dégager parce que j’étais une « tâche noire ».",
+      "THAI": "เธอบอกให้ฉันไปให้พ้นเพราะฉันเป็น ‘จุดด่างดำ’"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "잘 아네~",
+      "ENGLISH": "You remember well.",
+      "CHINESE_SIMPLIFIED": "记忆力可真好",
+      "CHINESE_TRADITIONAL": "記憶力可真好",
+      "JAPANESE": "よく覚えてるね。",
+      "INDONESIAN": "Kamu ingat dengan baik.",
+      "PORTUGUESE": "Você se lembra bem.",
+      "RUSSIAN": "Ты хорошо всё помнишь.",
+      "FRENCH": "Tu te souviens bien.",
+      "THAI": "เธอจำได้ดีนะ"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그니까 네 그 잘난 기억력... 앞으로 나한테만 쓰지?",
+      "ENGLISH": "So why don’t you use that sharp memory... to remember our anniversaries?",
+      "CHINESE_SIMPLIFIED": "你这过目不忘的记忆力能不能用在我身上啊?",
+      "CHINESE_TRADITIONAL": "你這過目不忘的記憶力能不能用在我身上啊?",
+      "JAPANESE": "だったら、その抜群の記憶力を、これからは私だけに使ってよね。",
+      "INDONESIAN": "Jadi kenapa nggak pakai ingatan tajam itu... untuk ingat hari jadi kita?",
+      "PORTUGUESE": "Então por que não usa essa memória afiada... para lembrar dos nossos aniversários?",
+      "RUSSIAN": "Так почему бы тебе не использовать эту острую память... чтобы помнить наши годовщины?",
+      "FRENCH": "Alors pourquoi tu n’utilises pas cette mémoire vive... pour te rappeler nos anniversaires ?",
+      "THAI": "แล้วทำไมไม่ใช้ความจำดีๆ แบบนั้น... จำวันครบรอบของเราล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "난 그 기념일 같은 거 안 잊어먹고 챙겨주는 거 좋아하거든.",
+      "ENGLISH": "I like it when you don’t forget and make an effort.",
+      "CHINESE_SIMPLIFIED": "我...喜欢每个纪念日都不忘记用心准备的人",
+      "CHINESE_TRADITIONAL": "我...喜歡每個紀念日都不忘記用心準備的人",
+      "JAPANESE": "私、記念日とか忘れずにちゃんと覚えてくれる人、好きなんだよね。",
+      "INDONESIAN": "Aku suka kalau kamu nggak lupa dan merayakan hal-hal seperti hari jadi.",
+      "PORTUGUESE": "Eu gosto quando você não esquece e comemora essas datas especiais.",
+      "RUSSIAN": "Мне нравится, когда ты не забываешь и стараешься.",
+      "FRENCH": "J’aime bien quand tu n’oublies pas et que tu fais des efforts.",
+      "THAI": "ฉันชอบเวลาที่เธอไม่ลืมและพยายาม"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 18.4
+    }
+  }
+]

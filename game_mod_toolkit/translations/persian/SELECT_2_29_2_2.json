@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "INTP가 아니라고요?",
+      "ENGLISH": "You're not an INTP?",
+      "CHINESE_SIMPLIFIED": "你居然不是INTP?",
+      "CHINESE_TRADITIONAL": "你居然不是INTP?",
+      "JAPANESE": "INTPじゃないって？",
+      "INDONESIAN": "Kamu bukan INTP?",
+      "PORTUGUESE": "Você não é INTP?",
+      "RUSSIAN": "Ты не INTP?",
+      "FRENCH": "T’es pas INTP ?",
+      "THAI": "นายไม่ใช่ INTP เหรอ?",
+      "PERSIAN": "شما یک INTP نیستید؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼요!",
+      "ENGLISH": "That’s impossible!",
+      "CHINESE_SIMPLIFIED": "不会吧?",
+      "CHINESE_TRADITIONAL": "不會吧?",
+      "JAPANESE": "ありえない！",
+      "INDONESIAN": "Itu mustahil!",
+      "PORTUGUESE": "Isso é impossível!",
+      "RUSSIAN": "Это просто невозможно!",
+      "FRENCH": "C’est pas possible !",
+      "THAI": "เป็นไปไม่ได้เด็ดขาด!",
+      "PERSIAN": "این غیر ممکنه!"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.3
+    }
+  }
+]

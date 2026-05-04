@@ -1,0 +1,262 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음",
+      "ENGLISH": "Ugh!",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "あ～",
+      "INDONESIAN": "Ugh!",
+      "PORTUGUESE": "Ugh!",
+      "RUSSIAN": "Эх!",
+      "FRENCH": "Pff !",
+      "THAI": "เฮ้อ!",
+      "PERSIAN": "Ugh!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어우, 잘잤다",
+      "ENGLISH": "That was a good nap.",
+      "CHINESE_SIMPLIFIED": "啊~睡得真饱",
+      "CHINESE_TRADITIONAL": "啊~睡得真飽",
+      "JAPANESE": "よく寝た。",
+      "INDONESIAN": "Tidurnya enak banget.",
+      "PORTUGUESE": "Que soneca boa.",
+      "RUSSIAN": "Какой хороший был сон.",
+      "FRENCH": "Quelle bonne sieste.",
+      "THAI": "งีบได้ดีจริงๆ",
+      "PERSIAN": "چرت خوبی بود"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만!",
+      "ENGLISH": "Hey, Yuman!",
+      "CHINESE_SIMPLIFIED": "喂!吴宥万!",
+      "CHINESE_TRADITIONAL": "喂!吳宥萬!",
+      "JAPANESE": "ちょっと、ユマン！",
+      "INDONESIAN": "Hei, Yuman!",
+      "PORTUGUESE": "Ei, Yuman!",
+      "RUSSIAN": "Эй, Юман!",
+      "FRENCH": "Hé, Yuman !",
+      "THAI": "เฮ้ ยูมัน!",
+      "PERSIAN": "Hey, Yuman!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어우",
+      "ENGLISH": "Oh, my",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Astaga",
+      "PORTUGUESE": "Ai, meu Deus",
+      "RUSSIAN": "Ой,",
+      "FRENCH": "Oh là là,",
+      "THAI": "โอ้ ตายแล้ว",
+      "PERSIAN": "اوه من"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어! 이게 뭐야!",
+      "ENGLISH": "Oh! What's this?",
+      "CHINESE_SIMPLIFIED": "啊!这什么啊?",
+      "CHINESE_TRADITIONAL": "啊!這什麼啊?",
+      "JAPANESE": "わ！これ何！？",
+      "INDONESIAN": "Oh! Ini apa?",
+      "PORTUGUESE": "Oh! O que é isso?",
+      "RUSSIAN": "Ой! Это что такое?",
+      "FRENCH": "Oh ! C’est quoi ça ?",
+      "THAI": "โอ้! นี่มันอะไรเนี่ย?",
+      "PERSIAN": "اوه! این چیه؟"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어우, 뭐야 이거!",
+      "ENGLISH": "Seriously, what is this?!",
+      "CHINESE_SIMPLIFIED": "啊，这是什么啊",
+      "CHINESE_TRADITIONAL": "啊，這是什麼啊",
+      "JAPANESE": "何だ、これ！？",
+      "INDONESIAN": "Serius, ini apa sih?!",
+      "PORTUGUESE": "Sério, o que é isso?!",
+      "RUSSIAN": "Серьёзно, что это?!",
+      "FRENCH": "Sérieusement, c’est quoi ça ?!",
+      "THAI": "จริงจังนะ นี่มันอะไรกัน?!",
+      "PERSIAN": "جدی این چیه؟!"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "내가 빨래 어떻게 하라 했지?",
+      "ENGLISH": "How did I tell you to do the laundry?",
+      "CHINESE_SIMPLIFIED": "关于洗衣服的事我是怎么和你说的?",
+      "CHINESE_TRADITIONAL": "關於洗衣服的事我是怎麼和你說的?",
+      "JAPANESE": "洗濯どうしろって言ったけ？",
+      "INDONESIAN": "Gimana aku bilang cara cuci baju?",
+      "PORTUGUESE": "Como eu te falei pra lavar a roupa?",
+      "RUSSIAN": "Как я тебе говорила стирать?",
+      "FRENCH": "Comment je t’avais dit de faire la lessive ?",
+      "THAI": "ฉันบอกให้เธอซักผ้ายังไงนะ?",
+      "PERSIAN": "چطوری بهت گفتم لباسشو بشویی؟"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아... 세탁망에 넣어서?",
+      "ENGLISH": "Uh... put it in the laundry net?",
+      "CHINESE_SIMPLIFIED": "啊…要放进护洗袋里?",
+      "CHINESE_TRADITIONAL": "啊…要放進護洗袋裏?",
+      "JAPANESE": "えっと…ネットに入れて？",
+      "INDONESIAN": "Uh... taruh di jaring laundry?",
+      "PORTUGUESE": "Uh... colocar na redinha de lavagem?",
+      "RUSSIAN": "Эм... положить в сетку для белья?",
+      "FRENCH": "Euh... la mettre dans le filet à linge ?",
+      "THAI": "เอ่อ... ใส่ในถุงตาข่าย?",
+      "PERSIAN": "اوه... بذارمش تو تور لباسشویی؟"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 돌려서 다 망가졌잖아!",
+      "ENGLISH": "You just threw it in, and now it's all ruined!",
+      "CHINESE_SIMPLIFIED": "像你这样直接洗都洗烂了!",
+      "CHINESE_TRADITIONAL": "像你這樣直接洗都洗爛了!",
+      "JAPANESE": "あんたがそのまま回したから全部ダメになったじゃない！",
+      "INDONESIAN": "Kamu asal masukin, dan sekarang semuanya rusak!",
+      "PORTUGUESE": "Você só jogou lá dentro, e agora tá tudo estragado!",
+      "RUSSIAN": "Ты просто кинул всё внутрь, и теперь всё испорчено!",
+      "FRENCH": "Tu as juste tout jeté dedans, et maintenant tout est abîmé !",
+      "THAI": "เธอแค่โยนมันเข้าไป แล้วตอนนี้มันพังหมดแล้ว!",
+      "PERSIAN": "همین الان انداختی داخلش و الان همش خرابه!"
+    },
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아 죄송해요...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "啊…对不起啊…",
+      "CHINESE_TRADITIONAL": "啊…對不起啊…",
+      "JAPANESE": "す、すいません…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Извини...",
+      "FRENCH": "Désolé...",
+      "THAI": "ขอโทษนะ...",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "더운데 짜증나게 할래?",
+      "ENGLISH": "It’s hot, and now you’re making me even more annoyed!",
+      "CHINESE_SIMPLIFIED": "大热天的非得惹我生气",
+      "CHINESE_TRADITIONAL": "大熱天的非得惹我生氣",
+      "JAPANESE": "暑いのに、イライラさせる気？",
+      "INDONESIAN": "Panas banget, dan kamu malah bikin aku makin kesal!",
+      "PORTUGUESE": "Tá calor, e você tá me deixando ainda mais irritada!",
+      "RUSSIAN": "На улице жарко, а ты меня ещё больше раздражаешь!",
+      "FRENCH": "Il fait chaud, et tu me rends encore plus agacée !",
+      "THAI": "อากาศก็ร้อน แล้วเธอก็ยิ่งทำให้ฉันหงุดหงิดเข้าไปอีก!",
+      "PERSIAN": "داغ است و حالا تو مرا بیشتر اذیت می کنی!"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 나와서 빨래나 개.",
+      "ENGLISH": "Hurry up and get out here to fold the laundry!",
+      "CHINESE_SIMPLIFIED": "赶紧出来洗衣服!",
+      "CHINESE_TRADITIONAL": "趕緊出來洗衣服!",
+      "JAPANESE": "早く、洗濯物たたんできて。",
+      "INDONESIAN": "Cepat keluar dan bantu lipat bajunya!",
+      "PORTUGUESE": "Anda logo e vem dobrar a roupa!",
+      "RUSSIAN": "Быстро выходи сюда и складывай бельё!",
+      "FRENCH": "Viens vite ici pour plier le linge !",
+      "THAI": "รีบออกมาช่วยพับผ้าซะที!",
+      "PERSIAN": "عجله کنید و از اینجا بیرون بروید تا لباس‌ها را تا کنید!"
+    },
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.7
+    }
+  }
+]

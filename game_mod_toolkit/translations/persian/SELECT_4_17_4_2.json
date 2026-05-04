@@ -1,0 +1,342 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "페달을 이렇게 계속 밟으면 돼요!",
+      "ENGLISH": "You pedal like this!",
+      "CHINESE_SIMPLIFIED": "像这样踩踏板就行!",
+      "CHINESE_TRADITIONAL": "像這樣踩踏板就行!",
+      "JAPANESE": "ペダルをこうやって踏むだけで進むんですよ！",
+      "INDONESIAN": "Kamu ngayuhnya begini!",
+      "PORTUGUESE": "Você pedala assim!",
+      "RUSSIAN": "Педали крути вот так!",
+      "FRENCH": "Tu pédales comme ça !",
+      "THAI": "เธอต้องปั่นแบบนี้!",
+      "PERSIAN": "اینجوری رکاب میزنی!"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Oh~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "あ～",
+      "INDONESIAN": "Oh~",
+      "PORTUGUESE": "Oh~",
+      "RUSSIAN": "О~",
+      "FRENCH": "Oh~",
+      "THAI": "โอ~",
+      "PERSIAN": "اوه~ پس بیشتر خریدی؟"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "자전거 같네요!",
+      "ENGLISH": "It’s like a bicycle!",
+      "CHINESE_SIMPLIFIED": "就和骑自行车一样!",
+      "CHINESE_TRADITIONAL": "就和騎自行車一樣!",
+      "JAPANESE": "自転車みたいですね！",
+      "INDONESIAN": "Kayak sepeda!",
+      "PORTUGUESE": "É como uma bicicleta!",
+      "RUSSIAN": "Как на велосипеде!",
+      "FRENCH": "C’est comme un vélo !",
+      "THAI": "เหมือนจักรยานเลย!",
+      "PERSIAN": "مثل دوچرخه است!"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "자전거보다는 조금 위험해요.",
+      "ENGLISH": "It’s actually a bit more dangerous than that.",
+      "CHINESE_SIMPLIFIED": "不过这可比自行车危险",
+      "CHINESE_TRADITIONAL": "不過這可比自行車危險",
+      "JAPANESE": "自転車より少し危ないかも。",
+      "INDONESIAN": "Tapi ini sebenarnya sedikit lebih berbahaya.",
+      "PORTUGUESE": "Na verdade, é um pouco mais perigoso que isso.",
+      "RUSSIAN": "На самом деле, это немного опаснее.",
+      "FRENCH": "C’est en fait un peu plus dangereux qu’un vélo.",
+      "THAI": "แต่มันอันตรายกว่านิดหน่อยนะ",
+      "PERSIAN": "در واقع کمی خطرناک تر از این است."
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么呀? ",
+      "CHINESE_TRADITIONAL": "爲什麼呀?",
+      "JAPANESE": "何ですか？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมล่ะ?",
+      "PERSIAN": "Why?"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "한강에 괴물 살거든요.",
+      "ENGLISH": "Because there’s a monster living in the Han River.",
+      "CHINESE_SIMPLIFIED": "因为汉江里有怪物",
+      "CHINESE_TRADITIONAL": "因爲漢江裏有怪物",
+      "JAPANESE": "漢江には怪物が住んでるから。",
+      "INDONESIAN": "Karena ada monster yang tinggal di Sungai Han.",
+      "PORTUGUESE": "Porque tem um monstro que vive no Rio Han.",
+      "RUSSIAN": "Потому что в реке Хан живёт монстр.",
+      "FRENCH": "Parce qu’il y a un monstre qui vit dans la rivière Han.",
+      "THAI": "เพราะมีสัตว์ประหลาดอยู่ในแม่น้ำฮันน่ะสิ",
+      "PERSIAN": "زیرا یک هیولا در رودخانه هان زندگی می کند."
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "괴물이요?",
+      "ENGLISH": "A monster?",
+      "CHINESE_SIMPLIFIED": "怪物?",
+      "CHINESE_TRADITIONAL": "怪物?",
+      "JAPANESE": "怪物？",
+      "INDONESIAN": "Monster?",
+      "PORTUGUESE": "Um monstro?",
+      "RUSSIAN": "Монстр?",
+      "FRENCH": "Un monstre ?",
+      "THAI": "สัตว์ประหลาด?",
+      "PERSIAN": "یک هیولا؟"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 괴물이요?",
+      "ENGLISH": "What kind of monster?",
+      "CHINESE_SIMPLIFIED": "什么怪物?",
+      "CHINESE_TRADITIONAL": "什麼怪物?",
+      "JAPANESE": "どんな怪物ですか？",
+      "INDONESIAN": "Monster kayak gimana?",
+      "PORTUGUESE": "Que tipo de monstro?",
+      "RUSSIAN": "Какой монстр?",
+      "FRENCH": "Quel genre de monstre ?",
+      "THAI": "สัตว์ประหลาดแบบไหน?",
+      "PERSIAN": "چه نوع هیولایی؟"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "사람 잡아먹는 괴물이요.",
+      "ENGLISH": "A monster that eats people.",
+      "CHINESE_SIMPLIFIED": "吃人的怪物",
+      "CHINESE_TRADITIONAL": "吃人的怪物",
+      "JAPANESE": "人を食べる怪物だよ。",
+      "INDONESIAN": "Monster yang makan orang.",
+      "PORTUGUESE": "Um monstro que come pessoas.",
+      "RUSSIAN": "Монстр, который ест людей.",
+      "FRENCH": "Un monstre qui mange les gens.",
+      "THAI": "สัตว์ประหลาดที่กินคน",
+      "PERSIAN": "هیولایی که مردم را می خورد."
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "What??",
+      "CHINESE_SIMPLIFIED": "啊??",
+      "CHINESE_TRADITIONAL": "啊??",
+      "JAPANESE": "え？？",
+      "INDONESIAN": "Apa??",
+      "PORTUGUESE": "O quê??",
+      "RUSSIAN": "Что??",
+      "FRENCH": "Quoi ??",
+      "THAI": "อะไรนะ??",
+      "PERSIAN": "What??"
+    },
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "사람을 잡아먹는다고요?",
+      "ENGLISH": "It eats people?",
+      "CHINESE_SIMPLIFIED": "吃人的怪物?",
+      "CHINESE_TRADITIONAL": "吃人的怪物?",
+      "JAPANESE": "人を食べる怪物ですか？",
+      "INDONESIAN": "Makan orang?",
+      "PORTUGUESE": "Come pessoas?",
+      "RUSSIAN": "Он ест людей?",
+      "FRENCH": "Il mange des gens ?",
+      "THAI": "มันกินคนเหรอ?",
+      "PERSIAN": "مردم را می خورد؟"
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "네, 근데 그 괴물이...... ",
+      "ENGLISH": "Yeah, but that monster is…",
+      "CHINESE_SIMPLIFIED": "嗯，而且据说这只怪物…",
+      "CHINESE_TRADITIONAL": "嗯，而且據說這隻怪物…",
+      "JAPANESE": "はい、でもその怪物は……",
+      "INDONESIAN": "Iya, tapi monsternya itu...",
+      "PORTUGUESE": "Sim, mas esse monstro é...",
+      "RUSSIAN": "Да, но этот монстр…",
+      "FRENCH": "Ouais, mais ce monstre est...",
+      "THAI": "ใช่ แต่สัตว์ประหลาดนั้นคือ...",
+      "PERSIAN": "بله، اما اون هیولا…"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어어, 괴물이다!!! 괴물이다!!",
+      "ENGLISH": "Oh no, there it is! A monster!!!",
+      "CHINESE_SIMPLIFIED": "啊！就在那!!",
+      "CHINESE_TRADITIONAL": "啊！就在那!!",
+      "JAPANESE": "ああ、怪物だ！！！怪物だ！！",
+      "INDONESIAN": "Oh tidak, itu dia! Monster!!!",
+      "PORTUGUESE": "Ah não, lá está ele! Um monstro!!!",
+      "RUSSIAN": "О нет, вон он! Монстр!!!",
+      "FRENCH": "Oh non, le voilà ! Un monstre !!!",
+      "THAI": "โอ้ไม่ มันอยู่นั่นแล้ว! สัตว์ประหลาด!!!",
+      "PERSIAN": "اوه نه، آنجاست! یک هیولا!!!"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "(승이의 비명)",
+      "ENGLISH": "(Seung-yi's scream)",
+      "CHINESE_SIMPLIFIED": "啊!!!",
+      "CHINESE_TRADITIONAL": "啊!!!",
+      "JAPANESE": "（スンイの悲鳴）",
+      "INDONESIAN": "(Teriakan Seung-yi)",
+      "PORTUGUESE": "(Grito da Seung-yi)",
+      "RUSSIAN": "(Крик Сын-и)",
+      "FRENCH": "(Cri de Seung-yi)",
+      "THAI": "(เสียงซึงอีร้อง)",
+      "PERSIAN": "(فریاد سونگ یی)"
+    },
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "저희 빨리 돌아가요!",
+      "ENGLISH": "Let’s get back quickly!",
+      "CHINESE_SIMPLIFIED": "我们赶快回去吧!",
+      "CHINESE_TRADITIONAL": "我們趕快回去吧!",
+      "JAPANESE": "私たち、早く戻りましょう！",
+      "INDONESIAN": "Ayo cepat balik!",
+      "PORTUGUESE": "Vamos voltar rápido!",
+      "RUSSIAN": "Давай скорее вернёмся!",
+      "FRENCH": "Rentrons vite !",
+      "THAI": "รีบกลับกันเถอะ!",
+      "PERSIAN": "سریع برگردیم!"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "농담이에요...!",
+      "ENGLISH": "I’m just joking...!",
+      "CHINESE_SIMPLIFIED": "我逗你玩的…!",
+      "CHINESE_TRADITIONAL": "我逗你玩的…!",
+      "JAPANESE": "冗談ですよ…！",
+      "INDONESIAN": "Aku cuma bercanda...!",
+      "PORTUGUESE": "Eu só tô brincando...!",
+      "RUSSIAN": "Я просто шучу...!",
+      "FRENCH": "Je plaisante...!",
+      "THAI": "ฉันแค่ล้อเล่นน่า...!",
+      "PERSIAN": "من فقط شوخی میکنم...!"
+    },
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 31.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐예요~",
+      "ENGLISH": "What’s with you~",
+      "CHINESE_SIMPLIFIED": "啊!什么嘛~",
+      "CHINESE_TRADITIONAL": "啊!什麼嘛~",
+      "JAPANESE": "うわ、びっくりした～！",
+      "INDONESIAN": "Apa-apaan sih kamu~",
+      "PORTUGUESE": "Qual é o seu problema~",
+      "RUSSIAN": "Ну что ты такой~",
+      "FRENCH": "Mais t’es pas possible~",
+      "THAI": "อะไรกันเธอเนี่ย~",
+      "PERSIAN": "چه با تو ~"
+    },
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 33.9
+    }
+  }
+]

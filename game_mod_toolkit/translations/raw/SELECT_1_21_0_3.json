@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 대박!",
+      "ENGLISH": "Whoa, amazing!",
+      "CHINESE_SIMPLIFIED": "天哪!",
+      "CHINESE_TRADITIONAL": "天哪!",
+      "JAPANESE": "わあ、やばい！",
+      "INDONESIAN": "Wah, keren banget!",
+      "PORTUGUESE": "Uau, incrível!",
+      "RUSSIAN": "Вау, потрясающе!",
+      "FRENCH": "Waouh, incroyable !",
+      "THAI": "โห สุดยอดไปเลย!"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 0.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 !",
+      "ENGLISH": "Ming-Ming!",
+      "CHINESE_SIMPLIFIED": "敏敏!",
+      "CHINESE_TRADITIONAL": "敏敏!",
+      "JAPANESE": "ミンミンだ！",
+      "INDONESIAN": "Ming-Ming!",
+      "PORTUGUESE": "Ming-Ming!",
+      "RUSSIAN": "Минг-Минг!",
+      "FRENCH": "Ming-Ming !",
+      "THAI": "มิงมิง!"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 대박! 저 완전 최애 멤버인데!",
+      "ENGLISH": "This is so cool! You’re my favorite member!",
+      "CHINESE_SIMPLIFIED": "运气太好了吧!我最喜欢的就是你!",
+      "CHINESE_TRADITIONAL": "運氣太好了吧!我最喜歡的就是你!",
+      "JAPANESE": "僕、ミンミン推しメンなんです！",
+      "INDONESIAN": "Ini gila keren! Kamu member favoritku!",
+      "PORTUGUESE": "Isso é tão legal! Você é minha integrante favorita!",
+      "RUSSIAN": "Это так круто! Ты моя любимая участница!",
+      "FRENCH": "C’est trop cool ! Tu es ma membre préférée !",
+      "THAI": "นี่มันเจ๋งมาก! คุณคือสมาชิกที่ผมชอบที่สุด!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저 팬티에 사인해 주세요 !",
+      "ENGLISH": "Can you sign my underwear?",
+      "CHINESE_SIMPLIFIED": "你能在我内裤上签个名吗?",
+      "CHINESE_TRADITIONAL": "你能在我內褲上籤個名嗎?",
+      "JAPANESE": "よかったら、パンツにサインしてください！",
+      "INDONESIAN": "Bisa tanda tangan di celana dalamku nggak?",
+      "PORTUGUESE": "Pode autografar minha cueca?",
+      "RUSSIAN": "Подпишешь мои трусы?",
+      "FRENCH": "Tu peux signer mon sous-vêtement ?",
+      "THAI": "ช่วยเซ็นบนกางเกงในผมหน่อยได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "꺄아아아악!!!",
+      "ENGLISH": "Aaaah!!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊!!!!!",
+      "CHINESE_TRADITIONAL": "啊啊啊!!!!!",
+      "JAPANESE": "キャー！！！",
+      "INDONESIAN": "Aaaah!!!",
+      "PORTUGUESE": "Aaaah!!!",
+      "RUSSIAN": "Аааа!!!",
+      "FRENCH": "Aaaaah !!!",
+      "THAI": "กรี๊ดดด!!!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "朴敏静!",
+      "CHINESE_TRADITIONAL": "樸敏靜!",
+      "JAPANESE": "あの…！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 10.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "사랑해요 박민정!",
+      "ENGLISH": "I love you Park Min-jung!",
+      "CHINESE_SIMPLIFIED": "我爱你!",
+      "CHINESE_TRADITIONAL": "我愛你!",
+      "JAPANESE": "愛してます、パク・ミンジョン！",
+      "INDONESIAN": "Aku cinta kamu, Park Min-jung!",
+      "PORTUGUESE": "Eu te amo, Park Min-jung!",
+      "RUSSIAN": "Я люблю тебя, Пак Мин-джун!",
+      "FRENCH": "Je t’aime, Park Min-jung !",
+      "THAI": "ผมรักคุณ ปาร์ค มินจอง!"
+    },
+    "TIME": {
+      "SHOW": 11.13,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "당신 없인 못 살아!",
+      "ENGLISH": "Can’t live without you!",
+      "CHINESE_SIMPLIFIED": "就像老鼠爱大米!",
+      "CHINESE_TRADITIONAL": "就像老鼠愛大米!",
+      "JAPANESE": "あなたがいないと生きていけない！",
+      "INDONESIAN": "Aku nggak bisa hidup tanpa kamu!",
+      "PORTUGUESE": "Não consigo viver sem você!",
+      "RUSSIAN": "Не могу без тебя жить!",
+      "FRENCH": "Je peux pas vivre sans toi !",
+      "THAI": "อยู่ไม่ได้ถ้าไม่มีคุณ!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "살려주세요..!!",
+      "ENGLISH": "Help me!",
+      "CHINESE_SIMPLIFIED": "谁来救救我...!!",
+      "CHINESE_TRADITIONAL": "誰來救救我...!!",
+      "JAPANESE": "助けて…！！",
+      "INDONESIAN": "Tolong aku!",
+      "PORTUGUESE": "Me ajuda!",
+      "RUSSIAN": "Помогите мне!",
+      "FRENCH": "À l’aide !",
+      "THAI": "ช่วยด้วย!"
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.7
+    }
+  }
+]

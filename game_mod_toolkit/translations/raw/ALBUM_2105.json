@@ -1,0 +1,496 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요! 저는 유만이의 '20년지기 여사친' 고말숙 입니다. ",
+      "ENGLISH": "Hi there! I’m Go Mal-sook, Yuman’s ‘friend of 20 years.",
+      "CHINESE_SIMPLIFIED": "大家好，我是和吴宥万相识20年的青梅竹马高末淑~",
+      "CHINESE_TRADITIONAL": "大家好，我是和吳宥萬相識20年的青梅竹馬高末淑~",
+      "JAPANESE": "こんにちは！私はユマンの「20年来の幼なじみ」コ・マルスクです。",
+      "INDONESIAN": "Hai semuanya! Aku Go Mal-sook, ‘teman 20 tahun’ Yuman.",
+      "PORTUGUESE": "Oi pessoal! Sou Go Mal-sook, a ‘amiga de 20 anos’ do Yuman.",
+      "RUSSIAN": "Привет! Я Го Мал-сук, друг Юмана уже 20 лет.",
+      "FRENCH": "Salut ! Je suis Go Mal-sook, l'amie de Yuman depuis 20 ans.",
+      "THAI": "สวัสดี! ฉันคือ โก มัลซุก เพื่อนของยูมันมา 20 ปี"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~",
+      "ENGLISH": "Hello~",
+      "CHINESE_SIMPLIFIED": "大家好",
+      "CHINESE_TRADITIONAL": "大家好",
+      "JAPANESE": "こんにちは〜",
+      "INDONESIAN": "Halo~",
+      "PORTUGUESE": "Oi~",
+      "RUSSIAN": "Приветик~",
+      "FRENCH": "Coucou~",
+      "THAI": "สวัสดีค่า~"
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저는 <하숙생이 전부 미녀입니다만?>에서",
+      "ENGLISH": "I play the role of Yuman’s childhood friend,",
+      "CHINESE_SIMPLIFIED": "我在《阿西,美女室友竟然...》中扮演",
+      "CHINESE_TRADITIONAL": "我在《阿西,美女室友竟然...》中扮演",
+      "JAPANESE": "私は＜まさか！下宿生が美女ですって？＞",
+      "INDONESIAN": "Aku memainkan peran sebagai teman masa kecil Yuman,",
+      "PORTUGUESE": "Eu interpreto a amiga de infância do Yuman,",
+      "RUSSIAN": "Я играю роль его подруги детства ",
+      "FRENCH": "Je joue le rôle de son amie d’enfance ",
+      "THAI": "ฉันรับบทเป็น เพื่อนสมัยเด็กของยูมัน ใน "
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "유만이의 어렸을 때부터 동네 친구인",
+      "ENGLISH": "in Five Hearts Under One Roof",
+      "CHINESE_SIMPLIFIED": "从小就和宥万认识的",
+      "CHINESE_TRADITIONAL": "從小就和宥萬認識的",
+      "JAPANESE": "幼い頃からのユマンの幼なじみである",
+      "INDONESIAN": "di Five Hearts Under One Roof,",
+      "PORTUGUESE": "em Five Hearts Under One Roof,",
+      "RUSSIAN": "в «Пять сердец под одной крышей»,",
+      "FRENCH": "dans Cinq cœurs sous un même toit,",
+      "THAI": "ห้าดวงใจใต้หลังคาเดียวกัน,"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "여.사.친(여자 사람 친구)을 맡고 있고요.",
+      "ENGLISH": "his girl friend (but just a friend!).",
+      "CHINESE_SIMPLIFIED": "青梅竹马的女.性.朋.友.",
+      "CHINESE_TRADITIONAL": "青梅竹馬的女.性.朋.友.",
+      "JAPANESE": "女友達役を務めてさせていただきました。",
+      "INDONESIAN": "teman cewek (tapi cuma teman aja!).",
+      "PORTUGUESE": "sua amiga (mas só amiga mesmo!).",
+      "RUSSIAN": "его девушки (но только подруги!).",
+      "FRENCH": "sa petite amie (mais juste amie !).",
+      "THAI": "แฟนสาว (แต่แค่เพื่อนเท่านั้นนะ!)"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "제 원래 성격이 약간 까칠하지만",
+      "ENGLISH": "My character’s personality is a little sharp and feisty,",
+      "CHINESE_SIMPLIFIED": "性格上虽然有点傲娇",
+      "CHINESE_TRADITIONAL": "性格上雖然有點傲嬌",
+      "JAPANESE": "私の性格が元々、少しキツイ方なんですか",
+      "INDONESIAN": "Kepribadianku sedikit tajam dan galak,",
+      "PORTUGUESE": "Minha personagem tem uma personalidade meio afiada e temperamental,",
+      "RUSSIAN": "Мой персонаж немного резкий и дерзкий,",
+      "FRENCH": "Mon personnage a un caractère un peu piquant et vif,",
+      "THAI": "ตัวละครของฉันเป็นคน ค่อนข้างซ่าและขี้บ่น"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "또 챙겨 줄 때는 챙겨주는",
+      "ENGLISH": "but she still looks out for him when it counts.",
+      "CHINESE_SIMPLIFIED": "但在需要关心的时候也会照顾别人",
+      "CHINESE_TRADITIONAL": "但在需要關心的時候也會照顧別人",
+      "JAPANESE": "気を遣う時は、積極的に助けてくれる",
+      "INDONESIAN": "tapi tetap peduli sama dia saat dibutuhkan.",
+      "PORTUGUESE": "mas ainda cuida dele quando necessário.",
+      "RUSSIAN": "но она всегда заботится о нём, когда это важно.",
+      "FRENCH": "mais elle veille toujours sur lui quand il le faut.",
+      "THAI": "แต่ก็ยัง คอยดูแลเขาเสมอในเวลาสำคัญ"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그런... 모습을 게임에 그대로 녹여냈습니다.",
+      "ENGLISH": "We’ve kept those traits true to life in the game.",
+      "CHINESE_SIMPLIFIED": "这些特点都在游戏里体现出来了",
+      "CHINESE_TRADITIONAL": "這些特點都在遊戲裏體現出來了",
+      "JAPANESE": "そんな...姿をそのままゲームに落とし込んでいます。",
+      "INDONESIAN": "Sifat-sifat itu tetap kami pertahankan di game ini.",
+      "PORTUGUESE": "Essas características mantivemos bem reais no jogo.",
+      "RUSSIAN": "Мы сохранили эти черты в игре, чтобы они чувствовались естественно.",
+      "FRENCH": "Nous avons bien conservé ces traits dans le jeu pour qu’ils restent authentiques.",
+      "THAI": "เราเก็บคาแรกเตอร์พวกนี้ไว้ในเกมอย่างสมจริง"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 중간중간 설레는 포인트들도 많이 있고!",
+      "ENGLISH": "There are also plenty of moments that’ll make your heart flutter, ",
+      "CHINESE_SIMPLIFIED": "而且游戏里有很多让人心动的瞬间",
+      "CHINESE_TRADITIONAL": "而且遊戲裏有很多讓人心動的瞬間",
+      "JAPANESE": "また、ゲームの中にはドキドキするポイントもたくさんあって！",
+      "INDONESIAN": "Ada juga banyak momen yang bikin hati kalian berdebar,",
+      "PORTUGUESE": "Também tem muitos momentos que vão fazer seu coração disparar,",
+      "RUSSIAN": "Здесь также полно моментов, от которых у вас замирает сердце,",
+      "FRENCH": "Il y a aussi plein de moments où votre cœur va battre la chamade,",
+      "THAI": "มีหลายช่วงที่ ทำให้ใจเต้นไม่เป็นจังหวะ"
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "과감한 스킨십들도 좀 있거든요!",
+      "ENGLISH": "and even some bold physical interactions!",
+      "CHINESE_SIMPLIFIED": "和一些大胆的亲密接触",
+      "CHINESE_TRADITIONAL": "和一些大膽的親密接觸",
+      "JAPANESE": "過激なスキンシップなどもあります！",
+      "INDONESIAN": "bahkan beberapa interaksi fisik yang cukup berani!",
+      "PORTUGUESE": "e até algumas interações físicas ousadas!",
+      "RUSSIAN": "и даже несколько смелых физических взаимодействий!",
+      "FRENCH": "et même quelques interactions physiques audacieuses !",
+      "THAI": "และมี ฉากแตะเนื้อต้องตัวที่ค่อนข้างกล้าด้วย!"
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "조금 부끄럽지만...",
+      "ENGLISH": "It’s a little embarrassing,",
+      "CHINESE_SIMPLIFIED": "虽然有点害羞...",
+      "CHINESE_TRADITIONAL": "雖然有點害羞...",
+      "JAPANESE": "ちょっと恥ずかしいですが...（笑）",
+      "INDONESIAN": "Rasanya agak malu,",
+      "PORTUGUESE": "É meio constrangedor,",
+      "RUSSIAN": "Это немного неловко,",
+      "FRENCH": "C’est un peu gênant,",
+      "THAI": "แอบอายนิดหน่อย"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "많이 많이 플레이 해주시고",
+      "ENGLISH": "but I hope you play a lot ",
+      "CHINESE_SIMPLIFIED": "希望大家多多玩游戏",
+      "CHINESE_TRADITIONAL": "希望大家多多玩遊戲",
+      "JAPANESE": "たくさんプレイしていただき",
+      "INDONESIAN": "tapi semoga kalian main banyak",
+      "PORTUGUESE": "mas espero que joguem bastante",
+      "RUSSIAN": "но я надеюсь, что вы много поиграете",
+      "FRENCH": "mais j’espère que vous allez beaucoup jouer",
+      "THAI": "แต่ก็หวังว่าทุกคนจะเล่นเยอะๆ"
+    },
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "좋은 후기 많이 부탁드릴게요!",
+      "ENGLISH": "and leave lots of good reviews!",
+      "CHINESE_SIMPLIFIED": "记得给我们好评哦~！",
+      "CHINESE_TRADITIONAL": "記得給我們好評哦~！",
+      "JAPANESE": "たくさんのレビューお待ちしております。",
+      "INDONESIAN": "dan kasih ulasan yang bagus!",
+      "PORTUGUESE": "e deixem muitas boas avaliações!",
+      "RUSSIAN": "и оставите побольше хороших отзывов!",
+      "FRENCH": "et laisser plein de bons avis !",
+      "THAI": "และ เขียนรีวิวดีๆ กันเยอะๆ ด้วยนะ!"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 32.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "\"뭐냐... 우유만?\"",
+      "ENGLISH": "What’s up, Yuman?",
+      "CHINESE_SIMPLIFIED": "“什么嘛... 吴宥万？”",
+      "CHINESE_TRADITIONAL": "“什麼嘛... 吳宥萬？”",
+      "JAPANESE": "「あんた、何よ... 」",
+      "INDONESIAN": "Ada apa, Yuman?",
+      "PORTUGUESE": "E aí, Yuman?",
+      "RUSSIAN": "Ну что, Юман?",
+      "FRENCH": "Quoi de neuf, Yuman ?",
+      "THAI": "เป็นไงบ้าง ยูมัน?"
+    },
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 33.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "\"아, 왜 그래~!\"",
+      "ENGLISH": "Ugh, why are you like this!",
+      "CHINESE_SIMPLIFIED": "“啊，干嘛呀~！”",
+      "CHINESE_TRADITIONAL": "“啊，幹嘛呀~！”",
+      "JAPANESE": "「あ、何なのよ～」",
+      "INDONESIAN": "Ih, kenapa sih kamu begini!",
+      "PORTUGUESE": "Ugh, por que você é assim!",
+      "RUSSIAN": "Ох, почему ты такой?",
+      "FRENCH": "Ugh, pourquoi t’es comme ça ?",
+      "THAI": "เฮ้อ ทำไมต้องเป็นแบบนี้ด้วย!"
+    },
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.1
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "\"어떤 스타일이 네 스타일인데?\"",
+      "ENGLISH": "So, what’s your type, anyway?",
+      "CHINESE_SIMPLIFIED": "“你喜欢什么类型？”",
+      "CHINESE_TRADITIONAL": "“你喜歡什麼類型？”",
+      "JAPANESE": "「あんたはどんなスタイルが好きなの？」",
+      "INDONESIAN": "Jadi, tipe kamu itu kayak apa, sih?",
+      "PORTUGUESE": "Então, qual é o seu tipo, afinal?",
+      "RUSSIAN": "Так какой у тебя тип?",
+      "FRENCH": "Alors, c’est quoi ton type, au juste ?",
+      "THAI": "ว่าแต่นายชอบคนแบบไหน?"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "\"네 앨범은 볼 때마다 웃겨\"",
+      "ENGLISH": "Every time I see your photo album, it cracks me up.",
+      "CHINESE_SIMPLIFIED": "“每次看你的相册都觉得搞笑”",
+      "CHINESE_TRADITIONAL": "“每次看你的相冊都覺得搞笑”",
+      "JAPANESE": "「アルバムは見るたび、ウケるわ」",
+      "INDONESIAN": "Setiap kali aku lihat album fotomu, pasti bikin aku ngakak.",
+      "PORTUGUESE": "Toda vez que vejo o seu álbum de fotos, não consigo parar de rir.",
+      "RUSSIAN": "Каждый раз, когда смотрю твой фотоальбом, просто умираю от смеха.",
+      "FRENCH": "À chaque fois que je regarde ton album photo, je me marre tellement !",
+      "THAI": "ฉันดูอัลบั้มรูปของนายทีไร ขำทุกทีเลย!"
+    },
+    "TIME": {
+      "SHOW": 39.9,
+      "HIDE": 41.6
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "\"그건 그렇지~\"",
+      "ENGLISH": "Yeah, I get that~",
+      "CHINESE_SIMPLIFIED": "“那倒是~”",
+      "CHINESE_TRADITIONAL": "“那倒是~”",
+      "JAPANESE": "「それは、そうかも」",
+      "INDONESIAN": "Iya, aku ngerti kok~",
+      "PORTUGUESE": "Sim, entendi~",
+      "RUSSIAN": "Да, понимаю тебя~",
+      "FRENCH": "Ouais, je vois bien pourquoi~",
+      "THAI": "ใช่ ฉันเข้าใจนะ~"
+    },
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 42.9
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "\"왜.. 이따위로 컸을까?\"",
+      "ENGLISH": "How did you end up like this?",
+      "CHINESE_SIMPLIFIED": "“怎么... 长成这样了呢？”",
+      "CHINESE_TRADITIONAL": "“怎麼... 長成這樣了呢？”",
+      "JAPANESE": "「何で...こんな風になったんだろう？」",
+      "INDONESIAN": "Kok kamu bisa jadi begini, sih?",
+      "PORTUGUESE": "Como você acabou assim?",
+      "RUSSIAN": "Как ты вообще докатился до такого?",
+      "FRENCH": "Comment t’en es arrivé là ?",
+      "THAI": "นายปล่อยตัวเองให้กลายเป็นแบบนี้ได้ยังไง?"
+    },
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 44.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "\"아! 땀 냄새!!\"",
+      "ENGLISH": "Ew! You reek of sweat!",
+      "CHINESE_SIMPLIFIED": "“啊！汗味儿！！”",
+      "CHINESE_TRADITIONAL": "“啊！汗味兒！！”",
+      "JAPANESE": "「あ！汗臭い!!!」",
+      "INDONESIAN": "Ih! Bau keringat!",
+      "PORTUGUESE": "Ai, que nojo! Você está fedendo a suor!",
+      "RUSSIAN": "Фу! Ты весь воняешь потом!",
+      "FRENCH": "Pouah ! Tu pues la sueur !",
+      "THAI": "ยี้! ตัวนายเหม็นเหงื่อมาก!"
+    },
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 46.0
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "\"너 오늘은 진짜 씻고 자라\"",
+      "ENGLISH": "Seriously, take a shower before bed tonight!",
+      "CHINESE_SIMPLIFIED": "“今天一定要洗了再睡”",
+      "CHINESE_TRADITIONAL": "“今天一定要洗了再睡”",
+      "JAPANESE": "「今日はちゃんと洗って寝なさいよ」",
+      "INDONESIAN": "Serius deh, mandi dulu sebelum tidur malam ini!",
+      "PORTUGUESE": "Sério, toma um banho antes de dormir hoje!",
+      "RUSSIAN": "Честно, сходи в душ перед сном!",
+      "FRENCH": "Sérieux, prends une douche avant de te coucher !",
+      "THAI": "ไปอาบน้ำก่อนนอนหน่อยเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 46.0,
+      "HIDE": 47.7
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "\"너가 안 씻고 누우니깐, 방에서 이상한 냄새 나는 거 아니야~\"",
+      "ENGLISH": "I bet the weird smell in your room is because you never shower.",
+      "CHINESE_SIMPLIFIED": "“你不洗澡就睡觉，房间才有奇怪的味道吧~”",
+      "CHINESE_TRADITIONAL": "“你不洗澡就睡覺，房間纔有奇怪的味道吧~”",
+      "JAPANESE": "「洗わずに寝るから、部屋から変な匂いするんだよ」",
+      "INDONESIAN": "Aku yakin bau aneh di kamarmu itu karena kamu nggak pernah mandi.",
+      "PORTUGUESE": "Aposto que o cheiro estranho no seu quarto é porque você nunca toma banho.",
+      "RUSSIAN": "Наверняка эта странная вонь в комнате из-за того, что ты никогда не моешься.",
+      "FRENCH": "J’suis sûre que cette odeur bizarre dans ta chambre, c’est parce que tu te laves jamais.",
+      "THAI": "กลิ่นแปลกๆ ในห้องนายเนี่ย เพราะนายไม่เคยอาบน้ำรึเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 47.7,
+      "HIDE": 51.0
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "\"나 여기서 지내게 해주면... 내 거 빨 때 네 것도 같이 빨게 해줄게. 어때?\"",
+      "ENGLISH": "If you let me stay here, I’ll do your laundry with mine. How’s that sound?",
+      "CHINESE_SIMPLIFIED": "“要是让我住这儿... 洗我衣服的时候，顺便帮你也洗了，怎么样？”",
+      "CHINESE_TRADITIONAL": "“要是讓我住這兒... 洗我衣服的時候，順便幫你也洗了，怎麼樣？”",
+      "JAPANESE": "「ここに泊めてくれるなら、洗濯あんたのもしてあげるけど、どう？」",
+      "INDONESIAN": "Kalau kamu izinkan aku tinggal di sini, aku bisa cuci bajumu sekalian punyaku. Gimana?",
+      "PORTUGUESE": "Se me deixar ficar aqui, eu posso lavar suas roupas junto com as minhas. Que tal?",
+      "RUSSIAN": "Если пустишь меня переночевать, я постираю твоё бельё вместе со своим. Как тебе?",
+      "FRENCH": "Si tu me laisses rester ici, je laverai ton linge avec le mien. Ça te dit ?",
+      "THAI": "ถ้านายให้ฉันอยู่ด้วย ฉันจะซักผ้าให้นายพร้อมของฉันเอง ดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 55.5
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "\" 3, 2, 1!\"",
+      "ENGLISH": "3, 2, 1!",
+      "CHINESE_SIMPLIFIED": "“3, 2, 1！”",
+      "CHINESE_TRADITIONAL": "“3, 2, 1！”",
+      "JAPANESE": "「3、2、1！」",
+      "INDONESIAN": "3, 2, 1!",
+      "PORTUGUESE": "3, 2, 1!",
+      "RUSSIAN": "3, 2, 1!",
+      "FRENCH": "3, 2, 1 !",
+      "THAI": "3, 2, 1!"
+    },
+    "TIME": {
+      "SHOW": 55.6,
+      "HIDE": 59.0
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "\"왜?... 막 설레?\"",
+      "ENGLISH": "What’s wrong?... Getting butterflies?",
+      "CHINESE_SIMPLIFIED": "“怎么了？... 心动了吗？”",
+      "CHINESE_TRADITIONAL": "“怎麼了？... 心動了嗎？”",
+      "JAPANESE": "「何で...？興奮してるの？",
+      "INDONESIAN": "Ada apa?... Deg-degan ya?",
+      "PORTUGUESE": "O que foi?... Ficou com frio na barriga?",
+      "RUSSIAN": "Что такое? …Бабочки в животе?",
+      "FRENCH": "Qu’est-ce qui t’arrive ? ...Tu ressens des papillons ?",
+      "THAI": "เป็นอะไรไป...? รู้สึกเขินเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 59.0,
+      "HIDE": 61.4
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "\"너가 나 아니면... 볼 일 있겠어?\"",
+      "ENGLISH": "Without me, you think anyone else would even look at you?",
+      "CHINESE_SIMPLIFIED": "“除了我... 还有谁会让你看这个？”",
+      "CHINESE_TRADITIONAL": "“除了我... 還有誰會讓你看這個？”",
+      "JAPANESE": "「あんたが私じゃないと...何か用があるのか？",
+      "INDONESIAN": "Tanpa aku, menurutmu ada orang lain yang mau ngelirik kamu?",
+      "PORTUGUESE": "Sem mim, acha que alguém mais iria sequer olhar pra você?",
+      "RUSSIAN": "Без меня, думаешь, кто-нибудь на тебя вообще посмотрел бы?",
+      "FRENCH": "Sans moi, tu crois vraiment que quelqu’un d’autre te regarderait même une seconde ?",
+      "THAI": "ถ้าไม่มีฉัน นายคิดว่าจะมีใครหันมามองนายบ้างมั้ย?"
+    },
+    "TIME": {
+      "SHOW": 61.4,
+      "HIDE": 63.3
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "What’s this?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "何だ？",
+      "INDONESIAN": "Apa ini?",
+      "PORTUGUESE": "O que é isso?",
+      "RUSSIAN": "Что это?",
+      "FRENCH": "C’est quoi, ça ?",
+      "THAI": "นี่มันอะไรกัน?",
+      "PERSIAN": "What’s this?"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아무도 없는 거야?",
+      "ENGLISH": "Is no one here?",
+      "CHINESE_SIMPLIFIED": "明明没人啊?",
+      "CHINESE_TRADITIONAL": "明明沒人啊?",
+      "JAPANESE": "誰もいないのか？",
+      "INDONESIAN": "Apa ada orang di sini?",
+      "PORTUGUESE": "Não tem ninguém aqui, não é?",
+      "RUSSIAN": "Никого нет?",
+      "FRENCH": "Y’a personne ?",
+      "THAI": "ไม่มีใครอยู่เหรอ?",
+      "PERSIAN": "کسی اینجا نیست؟"
+    },
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.7
+    }
+  }
+]

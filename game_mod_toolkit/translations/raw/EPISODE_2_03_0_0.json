@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 하숙한다고 방 바꿨더라?",
+      "ENGLISH": "Hey, you rearranged your room for the boarding house?",
+      "CHINESE_SIMPLIFIED": "不过你搞个合租房怎么还把房间给换了?",
+      "CHINESE_TRADITIONAL": "不過你搞個合租房怎麼還把房間給換了?",
+      "JAPANESE": "下宿するために部屋変えるって言ってなかたっけ？",
+      "INDONESIAN": "Hei, kamu atur ulang kamarmu buat rumah kos?",
+      "PORTUGUESE": "Ei, você rearrumou seu quarto pra pensão?",
+      "RUSSIAN": "Эй, ты переставил комнату для съемщиков?",
+      "FRENCH": "Hé, t’as réorganisé ta chambre pour la pension ?",
+      "THAI": "เฮ้ นายจัดห้องใหม่เพราะจะเปิดเป็นบ้านพักหรอ?"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아... 침대에서 맥주 먹지 말라고...",
+      "ENGLISH": "Don’t drink beer on the bed...",
+      "CHINESE_SIMPLIFIED": "喂，别在床上喝啤酒啊…",
+      "CHINESE_TRADITIONAL": "喂，別在牀上喝啤酒啊…",
+      "JAPANESE": "ああ…ベッドでビール飲むなって何回言わすんだよ…",
+      "INDONESIAN": "Jangan minum bir di atas kasur...",
+      "PORTUGUESE": "Não beba cerveja na cama...",
+      "RUSSIAN": "Не пей пиво на кровати...",
+      "FRENCH": "Ne bois pas de bière sur le lit...",
+      "THAI": "อย่าดื่มเบียร์บนเตียงสิ..."
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 근데 어떡하냐.",
+      "ENGLISH": "What are you going to do now?",
+      "CHINESE_SIMPLIFIED": "不过你该怎么办啊？",
+      "CHINESE_TRADITIONAL": "不過你該怎麼辦啊？",
+      "JAPANESE": "あんた、どうする気？",
+      "INDONESIAN": "Sekarang kamu mau ngapain?",
+      "PORTUGUESE": "O que você vai fazer agora?",
+      "RUSSIAN": "Что теперь собираешься делать?",
+      "FRENCH": "Et maintenant, qu’est-ce que tu vas faire ?",
+      "THAI": "แล้วตอนนี้จะทำไงต่อ?"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이제 엄마 집에 안 계셔가지고 방에서 다시 쉰내 나는 거 아니야?",
+      "ENGLISH": "With your mom not around, isn’t your room going to start smelling again?",
+      "CHINESE_SIMPLIFIED": "妈妈不在家，房间里不会又要馊了吧?",
+      "CHINESE_TRADITIONAL": "媽媽不在家，房間裏不會又要餿了吧?",
+      "JAPANESE": "今、お母さんが家にいないから、その間また部屋が臭くなるんじゃないの？",
+      "INDONESIAN": "Tanpa mamamu di sini, kayaknya kamar kamu bakal bau lagi deh?",
+      "PORTUGUESE": "Sem sua mãe por perto, seu quarto não vai começar a feder de novo?",
+      "RUSSIAN": "Без мамы твоя комната снова начнет вонять, да?",
+      "FRENCH": "Sans ta mère, ta chambre va pas recommencer à puer ?",
+      "THAI": "ไม่มีแม่อยู่ด้วย ห้องนายคงเริ่มเหม็นอีกแน่เลยใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "하긴 뭐 빨래는 내 거 돌릴 때 같이 돌리면 되니까.",
+      "ENGLISH": "Well, you can throw my laundry in with yours when you do it.",
+      "CHINESE_SIMPLIFIED": "不过没关系，我洗衣服的时候把你的也一起洗了不就行了",
+      "CHINESE_TRADITIONAL": "不過沒關係，我洗衣服的時候把你的也一起洗了不就行了",
+      "JAPANESE": "まあでも、私が洗濯する時に、あんたのも一緒に回せばいいか。",
+      "INDONESIAN": "Iya, kamu bisa campurin cucianku sama cucianmu kalau lagi nyuci.",
+      "PORTUGUESE": "Bom, você pode jogar minhas roupas pra lavar junto com as suas.",
+      "RUSSIAN": "Ну, можешь заодно и мое белье постирать.",
+      "FRENCH": "Au fait, tu peux laver mon linge avec le tien quand t’y penses.",
+      "THAI": "เออ เธอซักผ้าฉันไปพร้อมกับของเธอด้วยละกัน"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭘 같이 돌린다고?",
+      "ENGLISH": "Throw in your laundry with mine?",
+      "CHINESE_SIMPLIFIED": "什么一起洗?",
+      "CHINESE_TRADITIONAL": "什麼一起洗?",
+      "JAPANESE": "何を一緒に回すって？",
+      "INDONESIAN": "Campurin cucianku sama cucianmu?",
+      "PORTUGUESE": "Lavar minhas roupas junto com as suas?",
+      "RUSSIAN": "Постирать свое белье вместе с моим?",
+      "FRENCH": "Laver ton linge avec le mien ?",
+      "THAI": "จะให้ซักผ้าของนายกับของฉันด้วยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "우리 그러지 말고 앨범이나 같이 보자!",
+      "ENGLISH": "Forget that, let’s check out the album!",
+      "CHINESE_SIMPLIFIED": "别说这个啦，我们还是看相册吧!",
+      "CHINESE_TRADITIONAL": "別說這個啦，我們還是看相冊吧!",
+      "JAPANESE": "それはそうと、アルバムでも一緒に見ようか！",
+      "INDONESIAN": "Lupain deh, yuk cek albumnya aja!",
+      "PORTUGUESE": "Esquece isso, vamos conferir o álbum!",
+      "RUSSIAN": "Забудь об этом, давай лучше посмотрим альбом!",
+      "FRENCH": "Laisse tomber, on regarde l’album à la place !",
+      "THAI": "ช่างมันเถอะ ไปดูอัลบั้มกันดีกว่า!"
+    },
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 22.4
+    }
+  }
+]

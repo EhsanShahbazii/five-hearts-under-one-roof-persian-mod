@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "과일 드세요.",
+      "ENGLISH": "Have some fruit.",
+      "CHINESE_SIMPLIFIED": "吃水果吧",
+      "CHINESE_TRADITIONAL": "吃水果吧",
+      "JAPANESE": "果物どうぞ。",
+      "INDONESIAN": "Ambil buah, nih.",
+      "PORTUGUESE": "Pega um pouco de fruta.",
+      "RUSSIAN": "Возьми немного фруктов.",
+      "FRENCH": "Prends un peu de fruits.",
+      "THAI": "กินผลไม้หน่อยสิ"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만~",
+      "ENGLISH": "Hey, Yuman.",
+      "CHINESE_SIMPLIFIED": "呀~吴宥万~",
+      "CHINESE_TRADITIONAL": "呀~吳宥萬~",
+      "JAPANESE": "ユマン～",
+      "INDONESIAN": "Hei, Yuman.",
+      "PORTUGUESE": "Ei, Yuman.",
+      "RUSSIAN": "Эй, Юман.",
+      "FRENCH": "Hé, Yuman.",
+      "THAI": "เฮ้ ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "누가 또 와?",
+      "ENGLISH": "Who's coming now?",
+      "CHINESE_SIMPLIFIED": "还有人要来吗?",
+      "CHINESE_TRADITIONAL": "還有人要來嗎?",
+      "JAPANESE": "また誰か来たの？",
+      "INDONESIAN": "Siapa yang datang sekarang?",
+      "PORTUGUESE": "Quem está chegando agora?",
+      "RUSSIAN": "Кто это ещё пришёл?",
+      "FRENCH": "Qui arrive maintenant ?",
+      "THAI": "ใครมาอีกล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "...이 사람들 다 누구야?",
+      "ENGLISH": "...Who are these people?",
+      "CHINESE_SIMPLIFIED": "…她们都是谁啊?",
+      "CHINESE_TRADITIONAL": "…她們都是誰啊?",
+      "JAPANESE": "…この人たち、誰？",
+      "INDONESIAN": "...Siapa mereka?",
+      "PORTUGUESE": "...Quem são essas pessoas?",
+      "RUSSIAN": "...Кто все эти люди?",
+      "FRENCH": "...C’est qui, ces gens ?",
+      "THAI": "...พวกนี้เป็นใครน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 14.9
+    }
+  }
+]

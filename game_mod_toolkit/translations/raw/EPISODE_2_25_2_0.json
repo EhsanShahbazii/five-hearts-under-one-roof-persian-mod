@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "What...",
+      "CHINESE_SIMPLIFIED": "嗯... ",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うん…？",
+      "INDONESIAN": "Apa...",
+      "PORTUGUESE": "O quê...",
+      "RUSSIAN": "Что...",
+      "FRENCH": "Quoi...",
+      "THAI": "อะไรนะ..."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 님? ...동 과장님?",
+      "ENGLISH": "Ming-ming?... Manager Dong?",
+      "CHINESE_SIMPLIFIED": "敏敏?... 佟科长?",
+      "CHINESE_TRADITIONAL": "敏敏?... 佟科長?",
+      "JAPANESE": "ミンミンさん？…ドン課長？",
+      "INDONESIAN": "Mingming?... Manajer Dong?",
+      "PORTUGUESE": "Mingming?... Gerente Dong?",
+      "RUSSIAN": "Минг-Минг?... Менеджер Донг?",
+      "FRENCH": "Ming-Ming ?... Manager Dong ?",
+      "THAI": "หมิง-หมิง?... ผู้จัดการดง?"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야? 우유만 씨도 여기 살아?",
+      "ENGLISH": "Wait, Yuman, do you live here too?",
+      "CHINESE_SIMPLIFIED": "什么情况?吴宥万你也在这住?",
+      "CHINESE_TRADITIONAL": "什麼情況?吳宥萬你也在這住?",
+      "JAPANESE": "何？ユマンさんもここに住んでるの？",
+      "INDONESIAN": "Tunggu, Yuman, kamu tinggal di sini juga?",
+      "PORTUGUESE": "Espera, Yuman, você também mora aqui?",
+      "RUSSIAN": "Погоди, Юман, ты тоже здесь живёшь?",
+      "FRENCH": "Attends, Yuman, tu vis ici aussi ?",
+      "THAI": "เดี๋ยวนะ ยูมัน นายก็อยู่ที่นี่ด้วยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네 여기가 제 집인데...",
+      "ENGLISH": "Yeah, this is my place.",
+      "CHINESE_SIMPLIFIED": "这是我家…",
+      "CHINESE_TRADITIONAL": "這是我家…",
+      "JAPANESE": "はい、ここが僕の家ですけど…",
+      "INDONESIAN": "Iya, ini tempatku.",
+      "PORTUGUESE": "Sim, este é meu lugar.",
+      "RUSSIAN": "Да, это мой дом.",
+      "FRENCH": "Oui, c’est chez moi.",
+      "THAI": "ใช่ นี่บ้านของฉันเอง"
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "전 이거 보고 왔는데요?",
+      "ENGLISH": "I came because of this.",
+      "CHINESE_SIMPLIFIED": "我是看了这个找过来的",
+      "CHINESE_TRADITIONAL": "我是看了這個找過來的",
+      "JAPANESE": "私、これを見て来たんですけど？",
+      "INDONESIAN": "Aku datang karena ini.",
+      "PORTUGUESE": "Vim por causa disso.",
+      "RUSSIAN": "Я пришёл из-за этого.",
+      "FRENCH": "Je suis venu à cause de ça.",
+      "THAI": "ฉันมาเพราะนี่ไง"
+    },
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Wait...",
+      "CHINESE_SIMPLIFIED": "恩？",
+      "CHINESE_TRADITIONAL": "恩？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Tunggu...",
+      "PORTUGUESE": "Espera...",
+      "RUSSIAN": "Постой...",
+      "FRENCH": "Attends...",
+      "THAI": "เดี๋ยวก่อน..."
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 그게... 이게 좀 오해가 있는 건데.",
+      "ENGLISH": "There’s been a misunderstanding.",
+      "CHINESE_SIMPLIFIED": "啊...这里好像有点误会",
+      "CHINESE_TRADITIONAL": "啊...這裏好像有點誤會",
+      "JAPANESE": "あ、それが…ちょっと誤解がありまして。",
+      "INDONESIAN": "Ada kesalahpahaman.",
+      "PORTUGUESE": "Houve um mal-entendido.",
+      "RUSSIAN": "Произошло недоразумение.",
+      "FRENCH": "Il y a eu un malentendu.",
+      "THAI": "มันเป็นเรื่องเข้าใจผิดน่ะ"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "원래는 그게 아니라 다른 걸 드리려고 한 건데요!",
+      "ENGLISH": "I meant to give you something else!",
+      "CHINESE_SIMPLIFIED": "本来我想给你的不是这个来着…",
+      "CHINESE_TRADITIONAL": "本來我想給你的不是這個來着…",
+      "JAPANESE": "本当は違うものを渡そうと思ってたんですけど…",
+      "INDONESIAN": "Aku sebenarnya mau kasih kamu sesuatu yang lain!",
+      "PORTUGUESE": "Eu queria te dar outra coisa!",
+      "RUSSIAN": "Я хотел дать тебе кое-что другое!",
+      "FRENCH": "Je voulais te donner autre chose !",
+      "THAI": "ฉันตั้งใจจะให้ของอย่างอื่น!"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아니 그래서 우유만 씨가 여기 하숙집 운영한다는 거야?",
+      "ENGLISH": "So, Yuman, you run this share house?",
+      "CHINESE_SIMPLIFIED": "所以这个合租房是宥万你在管理吗?",
+      "CHINESE_TRADITIONAL": "所以這個合租房是宥萬你在管理嗎?",
+      "JAPANESE": "じゃあ、ユマンさんがこの下宿を運営してるってこと？",
+      "INDONESIAN": "Jadi, Yuman, kamu yang kelola rumah kos ini?",
+      "PORTUGUESE": "Então, Yuman, você administra esta casa compartilhada?",
+      "RUSSIAN": "Так, Юман, ты управляешь этим домом на двоих?",
+      "FRENCH": "Alors, Yuman, c’est toi qui gères cette coloc ?",
+      "THAI": "ว่าไง ยูมัน นายเป็นคนดูแลบ้านแชร์นี้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 28.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네에.. 맞는데요..?",
+      "ENGLISH": "Yes...but why?",
+      "CHINESE_SIMPLIFIED": "对...是我",
+      "CHINESE_TRADITIONAL": "對...是我",
+      "JAPANESE": "はい、そうですけど...",
+      "INDONESIAN": "Iya... tapi kenapa?",
+      "PORTUGUESE": "Sim... mas por quê?",
+      "RUSSIAN": "Да... но почему?",
+      "FRENCH": "Oui... mais pourquoi ?",
+      "THAI": "ใช่... แต่ว่าทำไมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.4
+    }
+  }
+]

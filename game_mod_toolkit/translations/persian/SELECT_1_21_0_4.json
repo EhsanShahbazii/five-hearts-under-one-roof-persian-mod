@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어? 밀크걸스 밍밍...?",
+      "ENGLISH": "Wait, Ming-Ming from Milk Girls...? ",
+      "CHINESE_SIMPLIFIED": "哦！ 牛奶少女的敏敏…",
+      "CHINESE_TRADITIONAL": "哦！ 牛奶少女的敏敏…",
+      "JAPANESE": "え？ミルクガールズのミンミン…？",
+      "INDONESIAN": "Tunggu, Ming-Ming dari Milk Girls...?",
+      "PORTUGUESE": "Espera, Ming-Ming das Milk Girls...?",
+      "RUSSIAN": "Подожди, Минг-Минг из Milk Girls...?",
+      "FRENCH": "Attends, Ming-Ming des Milk Girls...?",
+      "THAI": "เดี๋ยวนะ มิงมิงจาก Milk Girls เหรอ...?",
+      "PERSIAN": "صبر کن، مینگ مینگ از Milk Girls...؟"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "...한테는 이거 사인 언제 받으신 거예요?",
+      "ENGLISH": "When did you get this signed?",
+      "CHINESE_SIMPLIFIED": "的亲签你是什么时候拿到的呀？",
+      "CHINESE_TRADITIONAL": "的親籤你是什麼時候拿到的呀？",
+      "JAPANESE": "…からサインはいつもらったんですか？",
+      "INDONESIAN": "Kapan kamu dapet tanda tangan ini?",
+      "PORTUGUESE": "Quando você conseguiu esse autógrafo?",
+      "RUSSIAN": "Когда ты успел взять этот автограф?",
+      "FRENCH": "Quand est-ce que tu as eu cet autographe ?",
+      "THAI": "นายไปเอาลายเซ็นนี้มาตอนไหนเนี่ย?",
+      "PERSIAN": "چه زمانی اینو امضا کردید؟"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아... 음 좀 됐어요!",
+      "ENGLISH": "Oh... it’s been a while!",
+      "CHINESE_SIMPLIFIED": "啊…有一段时间了",
+      "CHINESE_TRADITIONAL": "啊…有一段時間了",
+      "JAPANESE": "あ…うん、ちょっと前にもらったんですよ！",
+      "INDONESIAN": "Oh... udah lama!",
+      "PORTUGUESE": "Ah... faz tempo!",
+      "RUSSIAN": "О... это было уже давно!",
+      "FRENCH": "Oh... ça fait déjà un moment !",
+      "THAI": "โอ้... สักพักแล้วล่ะ!",
+      "PERSIAN": "اوه... مدتی گذشت!"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 그러시구나!",
+      "ENGLISH": "I see! Anyway",
+      "CHINESE_SIMPLIFIED": "哦 这样啊",
+      "CHINESE_TRADITIONAL": "哦 這樣啊",
+      "JAPANESE": "ああ、そうなんですね！",
+      "INDONESIAN": "Gitu ya! Pokoknya",
+      "PORTUGUESE": "Entendi! Enfim",
+      "RUSSIAN": "Понятно! В любом случае,",
+      "FRENCH": "Je vois ! Quoi qu’il en soit,",
+      "THAI": "เข้าใจละ! ยังไงก็",
+      "PERSIAN": "می بینم! به هر حال"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아무튼 앨범 감사합니다...!",
+      "ENGLISH": "Thanks for the album...!",
+      "CHINESE_SIMPLIFIED": "亲签专辑谢谢啦",
+      "CHINESE_TRADITIONAL": "親籤專輯謝謝啦",
+      "JAPANESE": "とにかくアルバム、ありがとうございます…！",
+      "INDONESIAN": "Makasih buat albumnya...!",
+      "PORTUGUESE": "Obrigado pelo álbum...!",
+      "RUSSIAN": "Спасибо за альбом...!",
+      "FRENCH": "Merci pour l’album...!",
+      "THAI": "ขอบคุณสำหรับอัลบั้มนะ...!",
+      "PERSIAN": "ممنون بابت آلبوم...!"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "안녕히 가세요!",
+      "ENGLISH": "Goodbye!",
+      "CHINESE_SIMPLIFIED": "我先走啦",
+      "CHINESE_TRADITIONAL": "我先走啦",
+      "JAPANESE": "それじゃ、失礼します！",
+      "INDONESIAN": "Sampai jumpa!",
+      "PORTUGUESE": "Tchau!",
+      "RUSSIAN": "Пока!",
+      "FRENCH": "Au revoir !",
+      "THAI": "ลาก่อน!",
+      "PERSIAN": "فعلاً، خدافظ"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "와 대박~ 밍밍 닮은 팬한테 사인CD 받았다~",
+      "ENGLISH": "Wow, I got a signed CD from a fan who looks like Ming-Ming~",
+      "CHINESE_SIMPLIFIED": "哇~好幸运~居然从长得像敏敏的粉丝那里买到了专辑",
+      "CHINESE_TRADITIONAL": "哇~好幸運~居然從長得像敏敏的粉絲那裏買到了專輯",
+      "JAPANESE": "わあ、やばい～ミンミンそっくりさんのファンからサイン入りCDもらっちゃった～",
+      "INDONESIAN": "Wah, aku dapet CD bertanda tangan dari penggemar yang mirip Ming-Ming~",
+      "PORTUGUESE": "Uau, ganhei um CD autografado de uma fã que parece a Ming-Ming~",
+      "RUSSIAN": "Вау, я получил подписанный диск от фаната, который выглядит как Минг-Минг~",
+      "FRENCH": "Waouh, j’ai eu un CD signé par un fan qui ressemble à Ming-Ming~",
+      "THAI": "ว้าว~ ฉันได้ซีดีพร้อมลายเซ็นจากแฟนคลับที่เหมือนมิงมิงเลย~",
+      "PERSIAN": "وای، من یک سی دی امضا شده از طرفداری که شبیه مینگ مینگ است گرفتم"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "와 대박이다~ 와~",
+      "ENGLISH": "This is amazing~ Wow~",
+      "CHINESE_SIMPLIFIED": "哇 太不可思议了~哇",
+      "CHINESE_TRADITIONAL": "哇 太不可思議了~哇",
+      "JAPANESE": "わあ、すごいな～わあ～！",
+      "INDONESIAN": "Ini luar biasa~ Wah~",
+      "PORTUGUESE": "Isso é incrível~ Uau~",
+      "RUSSIAN": "Это невероятно~ Вау~",
+      "FRENCH": "C’est incroyable~ Waouh~",
+      "THAI": "สุดยอดไปเลย~ ว้าว~",
+      "PERSIAN": "این شگفت انگیز است~ وای~"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.0
+    }
+  }
+]

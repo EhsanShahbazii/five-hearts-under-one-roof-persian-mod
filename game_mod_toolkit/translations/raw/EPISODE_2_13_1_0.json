@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "땀 흘리시는 것 좀 봐..",
+      "ENGLISH": "Look at you sweating...",
+      "CHINESE_SIMPLIFIED": "看你满头大汗的…",
+      "CHINESE_TRADITIONAL": "看你滿頭大汗的…",
+      "JAPANESE": "ちょっと、汗かいてるじゃないですか…",
+      "INDONESIAN": "Lihat kamu sampai keringetan...",
+      "PORTUGUESE": "Olha só, você tá todo suado...",
+      "RUSSIAN": "Посмотри на себя, весь вспотел...",
+      "FRENCH": "Regarde-toi, t’es en sueur...",
+      "THAI": "ดูสิ เหงื่อโชกเลย..."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thanks...",
+      "CHINESE_SIMPLIFIED": "谢谢你啊…",
+      "CHINESE_TRADITIONAL": "謝謝你啊…",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih...",
+      "PORTUGUESE": "Obrigado...",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณนะ..."
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어? 밍밍?!",
+      "ENGLISH": "Wait, Ming-Ming?!",
+      "CHINESE_SIMPLIFIED": "嗯?敏敏?!",
+      "CHINESE_TRADITIONAL": "嗯?敏敏?!",
+      "JAPANESE": "お？ミンミン？！",
+      "INDONESIAN": "Tunggu, Ming-Ming?!",
+      "PORTUGUESE": "Espera, Ming-Ming?!",
+      "RUSSIAN": "Погоди, Мин-Мин?!",
+      "FRENCH": "Attends, Ming-Ming ?!",
+      "THAI": "เดี๋ยว... หมิงๆ?!"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어제 그 토마토??",
+      "ENGLISH": "You’re that tomato market from yesterday??",
+      "CHINESE_SIMPLIFIED": "昨天二手交易的那位?",
+      "CHINESE_TRADITIONAL": "昨天二手交易的那位?",
+      "JAPANESE": "あ、昨日のトマト？！",
+      "INDONESIAN": "Kamu yang dari tomato market kemarin??",
+      "PORTUGUESE": "Você é do mercado de tomate de ontem??",
+      "RUSSIAN": "Ты же тот продавец помидоров со вчера?!",
+      "FRENCH": "C’est toi, le vendeur de tomates d’hier ?!",
+      "THAI": "นายคือคนขายมะเขือเทศเมื่อวานเหรอ?!"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "와 이틀 연속! 실물 영접 대박!",
+      "ENGLISH": "Wow, two days in a row! Amazing to see you in person!",
+      "CHINESE_SIMPLIFIED": "天哪!我居然能连着两天见到你本人!",
+      "CHINESE_TRADITIONAL": "天哪!我居然能連着兩天見到你本人!",
+      "JAPANESE": "わあ、2日連続、実物に会うなんて！やば！",
+      "INDONESIAN": "Wah, dua hari berturut-turut! Keren banget bisa ketemu kamu langsung!",
+      "PORTUGUESE": "Uau, dois dias seguidos! Incrível te ver pessoalmente!",
+      "RUSSIAN": "Вау, два дня подряд! Удивительно встретить тебя лично!",
+      "FRENCH": "Wow, deux jours de suite ! Incroyable de te voir en vrai !",
+      "THAI": "ว้าว สองวันติดเลย! ดีใจจังที่ได้เจอตัวจริง!"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 님! 여기서 일하세요?",
+      "ENGLISH": "Ming-Ming! Do you work here?",
+      "CHINESE_SIMPLIFIED": "敏敏，你在这里上班吗?",
+      "CHINESE_TRADITIONAL": "敏敏，你在這裏上班嗎?",
+      "JAPANESE": "ミンミンさん！ここで働いてるんですか？",
+      "INDONESIAN": "Ming-Ming! Kamu kerja di sini?",
+      "PORTUGUESE": "Ming-Ming! Você trabalha aqui?",
+      "RUSSIAN": "Мин-Мин! Ты здесь работаешь?",
+      "FRENCH": "Ming-Ming ! Tu travailles ici ?",
+      "THAI": "หมิงๆ! นายทำงานที่นี่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저 근데 좀... 조용히 좀 해주시면 안 될까요?",
+      "ENGLISH": "Uh, could you please keep it down?",
+      "CHINESE_SIMPLIFIED": "啊，不好意思，可以请你小声一点吗?",
+      "CHINESE_TRADITIONAL": "啊，不好意思，可以請你小聲一點嗎?",
+      "JAPANESE": "あの、すいませんが、少し静かにしてもらっていいですか？",
+      "INDONESIAN": "Uh, bisa pelanin suaramu?",
+      "PORTUGUESE": "Ah, pode falar mais baixo?",
+      "RUSSIAN": "Эй, можешь говорить потише?",
+      "FRENCH": "Euh, tu pourrais baisser un peu le ton ?",
+      "THAI": "เอ่อ ช่วยพูดเบาๆ หน่อยได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 19.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 죄송해요...",
+      "ENGLISH": "Oh, sorry....",
+      "CHINESE_SIMPLIFIED": "啊，抱歉…",
+      "CHINESE_TRADITIONAL": "啊，抱歉…",
+      "JAPANESE": "あ、すいません…",
+      "INDONESIAN": "Oh, maaf....",
+      "PORTUGUESE": "Ah, desculpa....",
+      "RUSSIAN": "Ой, извини...",
+      "FRENCH": "Ah, désolé...",
+      "THAI": "อ๊ะ ขอโทษที..."
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 19.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "대신 음료 드시러 온 거 같은데 제가 서비스로 해드릴게요!",
+      "ENGLISH": "Since you’re here for a drink, I’ll give you a free one.",
+      "CHINESE_SIMPLIFIED": "谢谢配合，那今天的饮料就我请吧~",
+      "CHINESE_TRADITIONAL": "謝謝配合，那今天的飲料就我請吧~",
+      "JAPANESE": "その代わり、飲み物買いに来られたみたいなので、私がサービスしますよ！",
+      "INDONESIAN": "Karena kamu di sini buat minum, aku kasih satu gratis.",
+      "PORTUGUESE": "Já que você veio tomar algo, eu te dou uma bebida grátis.",
+      "RUSSIAN": "Раз ты зашел за напитком, угощу тебя бесплатно.",
+      "FRENCH": "Puisque t’es là pour une boisson, je t’en offre une gratuitement.",
+      "THAI": "ไหนๆ ก็มาหาเครื่องดื่มแล้ว เดี๋ยวฉันให้ฟรีเลย"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 25.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "헉 아니에요! 아니에요!",
+      "ENGLISH": "Oh no, that’s not necessary!",
+      "CHINESE_SIMPLIFIED": "啊，不用不用!",
+      "CHINESE_TRADITIONAL": "啊，不用不用!",
+      "JAPANESE": "えっ、いやいや！大丈夫です！",
+      "INDONESIAN": "Oh nggak, nggak perlu!",
+      "PORTUGUESE": "Ah não, não precisa!",
+      "RUSSIAN": "О нет, не стоит!",
+      "FRENCH": "Oh non, ce n’est pas nécessaire !",
+      "THAI": "โอ้ ไม่ต้องหรอก!"
+    },
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "회사에 청구하는 거라 안 그래도 돼요!",
+      "ENGLISH": "It’s charged to the company, so no need!",
+      "CHINESE_SIMPLIFIED": "你不用破费，这些公司会报销的!",
+      "CHINESE_TRADITIONAL": "你不用破費，這些公司會報銷的!",
+      "JAPANESE": "会社に請求するので、そこまでしてもらわなくても大丈夫です！",
+      "INDONESIAN": "Ini ditanggung perusahaan, jadi tenang aja!",
+      "PORTUGUESE": "É por conta da empresa, então relaxa!",
+      "RUSSIAN": "Это за счет компании, так что всё нормально!",
+      "FRENCH": "C’est sur le compte de la boîte, t’en fais pas !",
+      "THAI": "นี่บริษัทจ่ายให้ ไม่ต้องกังวล!"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 29.5
+    }
+  }
+]

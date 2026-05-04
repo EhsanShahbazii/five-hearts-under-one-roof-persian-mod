@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "정말 기회를 아무리 줘도 멍청한 건 고쳐지지가 않네?",
+      "ENGLISH": "No matter how many chances I give, stupidity can't be fixed, can it?",
+      "CHINESE_SIMPLIFIED": "给了你多少机会？蠢东西真是一点也改不了",
+      "CHINESE_TRADITIONAL": "給了你多少機會？蠢東西真是一點也改不了",
+      "JAPANESE": "いくらチャンスを与えても、バカは治らないみいね。",
+      "INDONESIAN": "Berapa pun kesempatan yang kuberikan, kebodohan memang nggak bisa diubah, ya?",
+      "PORTUGUESE": "Não importa quantas chances eu dê, a estupidez não pode ser consertada, pode?",
+      "RUSSIAN": "Сколько бы я ни давал шансов, глупость исправить нельзя, так ведь?",
+      "FRENCH": "Peu importe combien de chances je donne, la stupidité ne se corrige pas, n'est-ce pas ?",
+      "THAI": "ไม่ว่าจะให้โอกาสกี่ครั้ง ความโง่ก็แก้ไม่หายใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "죄송합니다...",
+      "ENGLISH": "I'm sorry...",
+      "CHINESE_SIMPLIFIED": "对不起…",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "すいませんでした…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Me desculpe...",
+      "RUSSIAN": "Мне жаль...",
+      "FRENCH": "Je suis désolé...",
+      "THAI": "ผมขอโทษครับ..."
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "죄송할 필요 없어.",
+      "ENGLISH": "There's no need to apologize.",
+      "CHINESE_SIMPLIFIED": "你不用道歉",
+      "CHINESE_TRADITIONAL": "你不用道歉",
+      "JAPANESE": "謝る必要なんてないわ。",
+      "INDONESIAN": "Nggak perlu minta maaf.",
+      "PORTUGUESE": "Não há necessidade de se desculpar.",
+      "RUSSIAN": "Извиняться не нужно.",
+      "FRENCH": "Il n’y a pas besoin de t’excuser.",
+      "THAI": "ไม่ต้องขอโทษหรอก"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 내로 짐 싸서 나가세요.",
+      "ENGLISH": "Pack your things and leave by today.",
+      "CHINESE_SIMPLIFIED": "收拾东西滚蛋吧",
+      "CHINESE_TRADITIONAL": "收拾東西滾蛋吧",
+      "JAPANESE": "今日中に荷物をまとめて出て行って。",
+      "INDONESIAN": "Bereskan barang-barangmu dan pergi hari ini juga.",
+      "PORTUGUESE": "Empacote suas coisas e saia hoje mesmo.",
+      "RUSSIAN": "Собирай свои вещи и уходи сегодня же.",
+      "FRENCH": "Rassemble tes affaires et pars aujourd’hui même.",
+      "THAI": "เก็บของของคุณแล้วออกไปวันนี้เลย"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네? ",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저 한 번만, 한 번만 더 기회를 주세요....!",
+      "ENGLISH": "Just give me one more chance...!",
+      "CHINESE_SIMPLIFIED": "请再给我一次机会!就一次…!",
+      "CHINESE_TRADITIONAL": "請再給我一次機會!就一次…!",
+      "JAPANESE": "お願いです、もう一度だけチャンスをください…！",
+      "INDONESIAN": "Beri aku satu kesempatan lagi...!",
+      "PORTUGUESE": "Só me dê mais uma chance...!",
+      "RUSSIAN": "Пожалуйста, дайте мне ещё один шанс...!",
+      "FRENCH": "Donne-moi juste une chance de plus... !",
+      "THAI": "ขอโอกาสอีกครั้งเถอะ...!"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 19.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "회사에서 지낸 모든 순간이 내가 준 기회라는 거 몰랐어?",
+      "ENGLISH": "Didn't you realize that every moment in this company was a chance I gave you?",
+      "CHINESE_SIMPLIFIED": "你在这公司的每分每秒都是我给你的机会，你心里没数吗?",
+      "CHINESE_TRADITIONAL": "你在這公司的每分每秒都是我給你的機會，你心裏沒數嗎?",
+      "JAPANESE": "会社で過ごしたすべてが、私が与えてあげたチャンスだったこと、分からなかったの？",
+      "INDONESIAN": "Kamu nggak sadar bahwa setiap momen di perusahaan ini adalah kesempatan yang kuberikan padamu?",
+      "PORTUGUESE": "Você não percebeu que cada momento nesta empresa foi uma chance que eu te dei?",
+      "RUSSIAN": "Ты не понял, что каждый момент в этой компании был шансом, который я тебе давал?",
+      "FRENCH": "Tu n’as pas compris que chaque instant passé dans cette entreprise était une chance que je t’ai donnée ?",
+      "THAI": "คุณไม่รู้เหรอว่าทุกนาทีที่คุณอยู่ในบริษัทนี้คือโอกาสที่ผมให้?"
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 24.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "놓고 가서 기어들어 올 일 없게, 다 챙겨가세요!",
+      "ENGLISH": "Take everything with you and don't come crawling back!",
+      "CHINESE_SIMPLIFIED": "带好你所有的东西，别让我再看见你",
+      "CHINESE_TRADITIONAL": "帶好你所有的東西，別讓我再看見你",
+      "JAPANESE": "もう、二度と戻ってこないでね！",
+      "INDONESIAN": "Bawa semuanya dan jangan datang mengemis kembali!",
+      "PORTUGUESE": "Leve tudo com você e não volte rastejando!",
+      "RUSSIAN": "Собери всё и даже не вздумай возвращаться на коленях!",
+      "FRENCH": "Prends tout avec toi et ne reviens pas en rampant !",
+      "THAI": "เก็บทุกอย่างไปด้วย แล้วอย่ากลับมาคลานขอโอกาสอีก!"
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 29.0
+    }
+  }
+]

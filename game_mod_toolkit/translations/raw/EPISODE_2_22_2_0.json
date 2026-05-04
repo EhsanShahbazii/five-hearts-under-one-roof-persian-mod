@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "자 모두 오늘 고생 많았고!",
+      "ENGLISH": "Great job today, everyone!",
+      "CHINESE_SIMPLIFIED": "今天大家也辛苦了!",
+      "CHINESE_TRADITIONAL": "今天大家也辛苦了!",
+      "JAPANESE": "みんな今日はお疲れ様！",
+      "INDONESIAN": "Kerja bagus hari ini, semuanya!",
+      "PORTUGUESE": "Ótimo trabalho hoje, pessoal!",
+      "RUSSIAN": "Отличная работа сегодня, всем!",
+      "FRENCH": "Super boulot aujourd’hui, tout le monde !",
+      "THAI": "ทุกคน ทำได้ดีมากวันนี้!"
+    },
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 30.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "퇴근하도록!",
+      "ENGLISH": "Let's call it a day!",
+      "CHINESE_SIMPLIFIED": "都下班吧! ",
+      "CHINESE_TRADITIONAL": "都下班吧! ",
+      "JAPANESE": "退勤しよう！",
+      "INDONESIAN": "Ayo kita akhiri hari ini!",
+      "PORTUGUESE": "Vamos encerrar por hoje!",
+      "RUSSIAN": "На этом закончим!",
+      "FRENCH": "On s’arrête là !",
+      "THAI": "เลิกงานกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 31.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네 수고 하셨습니다!!!",
+      "ENGLISH": "Thank you, sir!",
+      "CHINESE_SIMPLIFIED": "辛苦啦!!",
+      "CHINESE_TRADITIONAL": "辛苦啦!!",
+      "JAPANESE": "はい、お疲れ様でした！！！",
+      "INDONESIAN": "Terima kasih, Pak!",
+      "PORTUGUESE": "Obrigado, senhor!",
+      "RUSSIAN": "Спасибо, босс!",
+      "FRENCH": "Merci, chef !",
+      "THAI": "ขอบคุณครับ/ค่ะ เจ้านาย!"
+    },
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 34.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "재빨라?",
+      "ENGLISH": "You guys are quick!",
+      "CHINESE_SIMPLIFIED": "这么快？",
+      "CHINESE_TRADITIONAL": "這麼快？",
+      "JAPANESE": "すごい早いな？",
+      "INDONESIAN": "Kalian cepat banget!",
+      "PORTUGUESE": "Vocês são rápidos!",
+      "RUSSIAN": "Ого, вы ребята быстро справились!",
+      "FRENCH": "Wow, vous êtes rapides !",
+      "THAI": "โห พวกนายทำเสร็จเร็วจริง ๆ!"
+    },
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "고고싱!",
+      "ENGLISH": "Go! Go!",
+      "CHINESE_SIMPLIFIED": "Let's Go!",
+      "CHINESE_TRADITIONAL": "Let's Go!",
+      "JAPANESE": "ゴーゴーシング！",
+      "INDONESIAN": "Ayo! Ayo!",
+      "PORTUGUESE": "Vamos! Vamos!",
+      "RUSSIAN": "Пошли отсюда! Давайте-давайте!",
+      "FRENCH": "Allez, on file ! Go, go !",
+      "THAI": "ไปกันเลย! ไป! ไป!"
+    },
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 38.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "고생하셨습니다!",
+      "ENGLISH": "Thanks for your hard work!",
+      "CHINESE_SIMPLIFIED": "大家辛苦了!",
+      "CHINESE_TRADITIONAL": "大家辛苦了!",
+      "JAPANESE": "お疲れ様でした！",
+      "INDONESIAN": "Terima kasih atas kerja keras kalian!",
+      "PORTUGUESE": "Obrigado pelo esforço de vocês!",
+      "RUSSIAN": "Спасибо за вашу работу!",
+      "FRENCH": "Merci pour votre travail !",
+      "THAI": "ขอบคุณสำหรับความตั้งใจนะทุกคน!"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 40.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야! 올이 언제 나갔지? 아씨...",
+      "ENGLISH": "Wait, when did I get another run in my stockings? Damn it..",
+      "CHINESE_SIMPLIFIED": "什么啊，丝袜什么时候又开线了?",
+      "CHINESE_TRADITIONAL": "什麼啊，絲襪什麼時候又開線了?",
+      "JAPANESE": "あ！いつまたストッキングがやぶれたのかしら…",
+      "INDONESIAN": "Tunggu, kapan stokingku robek lagi? Sial...",
+      "PORTUGUESE": "Espera, quando foi que minha meia-calça rasgou de novo? Droga...",
+      "RUSSIAN": "Подождите, когда я успела посадить ещё одну стрелку на чулках? Чёрт...",
+      "FRENCH": "Attends, depuis quand j’ai encore filé mes bas ? Merde...",
+      "THAI": "เดี๋ยวนะ ถุงน่องขาดอีกแล้วเหรอเนี่ย? โธ่เว้ย..."
+    },
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 49.0
+    }
+  }
+]

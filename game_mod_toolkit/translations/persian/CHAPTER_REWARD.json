@@ -1,0 +1,534 @@
+[
+  {
+    "INDEX": 1.0,
+    "CHAPTER_INDEX": 1.0,
+    "IF": 13.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2104.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 2.0,
+    "CHAPTER_INDEX": 1.0,
+    "IF": 25.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 3.0,
+    "CHAPTER_INDEX": 1.0,
+    "IF": 38.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2105.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 4.0,
+    "CHAPTER_INDEX": 1.0,
+    "IF": 50.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 5.0,
+    "CHAPTER_INDEX": 2.0,
+    "IF": 19.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2206.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 6.0,
+    "CHAPTER_INDEX": 2.0,
+    "IF": 38.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 7.0,
+    "CHAPTER_INDEX": 2.0,
+    "IF": 57.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2207.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 8.0,
+    "CHAPTER_INDEX": 2.0,
+    "IF": 76.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 9.0,
+    "CHAPTER_INDEX": 3.0,
+    "IF": 17.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2404.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 10.0,
+    "CHAPTER_INDEX": 3.0,
+    "IF": 34.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 11.0,
+    "CHAPTER_INDEX": 3.0,
+    "IF": 51.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2405.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 12.0,
+    "CHAPTER_INDEX": 3.0,
+    "IF": 68.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 13.0,
+    "CHAPTER_INDEX": 4.0,
+    "IF": 21.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2503.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 14.0,
+    "CHAPTER_INDEX": 4.0,
+    "IF": 42.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 15.0,
+    "CHAPTER_INDEX": 4.0,
+    "IF": 63.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2504.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 16.0,
+    "CHAPTER_INDEX": 4.0,
+    "IF": 84.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 17.0,
+    "CHAPTER_INDEX": 5.0,
+    "IF": 14.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2305.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 18.0,
+    "CHAPTER_INDEX": 5.0,
+    "IF": 28.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 19.0,
+    "CHAPTER_INDEX": 5.0,
+    "IF": 42.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2306.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 20.0,
+    "CHAPTER_INDEX": 5.0,
+    "IF": 56.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 21.0,
+    "CHAPTER_INDEX": 6.0,
+    "IF": 14.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2006.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 22.0,
+    "CHAPTER_INDEX": 6.0,
+    "IF": 27.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 23.0,
+    "CHAPTER_INDEX": 6.0,
+    "IF": 40.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 1.0
+      },
+      {
+        "ITEM_CODE": 2007.0,
+        "QTY": 1.0
+      }
+    ]
+  },
+  {
+    "INDEX": 24.0,
+    "CHAPTER_INDEX": 6.0,
+    "IF": 53.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 25.0,
+    "CHAPTER_INDEX": 7.0,
+    "IF": 5.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 26.0,
+    "CHAPTER_INDEX": 7.0,
+    "IF": 9.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 27.0,
+    "CHAPTER_INDEX": 7.0,
+    "IF": 13.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 28.0,
+    "CHAPTER_INDEX": 7.0,
+    "IF": 17.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 29.0,
+    "CHAPTER_INDEX": 8.0,
+    "IF": 5.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 30.0,
+    "CHAPTER_INDEX": 8.0,
+    "IF": 10.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 31.0,
+    "CHAPTER_INDEX": 8.0,
+    "IF": 15.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 32.0,
+    "CHAPTER_INDEX": 8.0,
+    "IF": 19.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 33.0,
+    "CHAPTER_INDEX": 9.0,
+    "IF": 6.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 34.0,
+    "CHAPTER_INDEX": 9.0,
+    "IF": 11.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 35.0,
+    "CHAPTER_INDEX": 9.0,
+    "IF": 16.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 36.0,
+    "CHAPTER_INDEX": 9.0,
+    "IF": 21.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 37.0,
+    "CHAPTER_INDEX": 10.0,
+    "IF": 4.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 38.0,
+    "CHAPTER_INDEX": 10.0,
+    "IF": 8.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 39.0,
+    "CHAPTER_INDEX": 10.0,
+    "IF": 12.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 40.0,
+    "CHAPTER_INDEX": 10.0,
+    "IF": 16.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 41.0,
+    "CHAPTER_INDEX": 11.0,
+    "IF": 5.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 42.0,
+    "CHAPTER_INDEX": 11.0,
+    "IF": 10.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 43.0,
+    "CHAPTER_INDEX": 11.0,
+    "IF": 15.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  },
+  {
+    "INDEX": 44.0,
+    "CHAPTER_INDEX": 11.0,
+    "IF": 20.0,
+    "REWARD": [
+      {
+        "ITEM_CODE": 50.0,
+        "QTY": 2.0
+      }
+    ]
+  }
+]

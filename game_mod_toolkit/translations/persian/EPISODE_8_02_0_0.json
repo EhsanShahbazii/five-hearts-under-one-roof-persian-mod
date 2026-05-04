@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "준비됐어요?",
+      "ENGLISH": "Are you ready?",
+      "CHINESE_SIMPLIFIED": "你准备好了吗?",
+      "CHINESE_TRADITIONAL": "你準備好了嗎?",
+      "JAPANESE": "準備できましたか？",
+      "INDONESIAN": "Udah siap?",
+      "PORTUGUESE": "Está pronto?",
+      "RUSSIAN": "Ты готов(а)?",
+      "FRENCH": "Tu es prêt(e) ?",
+      "THAI": "พร้อมหรือยัง?",
+      "PERSIAN": "Are you ready?"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어때요...?",
+      "ENGLISH": "What do you think?",
+      "CHINESE_SIMPLIFIED": "怎么样...?",
+      "CHINESE_TRADITIONAL": "怎麼樣...?",
+      "JAPANESE": "どう…ですか？",
+      "INDONESIAN": "Menurutmu gimana?",
+      "PORTUGUESE": "O que você acha?",
+      "RUSSIAN": "Как думаешь?",
+      "FRENCH": "Qu’est-ce que tu en penses ?",
+      "THAI": "ว่าไงล่ะ?",
+      "PERSIAN": "نظر شما چیه؟"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.3
+    }
+  }
+]

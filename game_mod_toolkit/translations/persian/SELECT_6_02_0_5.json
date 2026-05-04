@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "전 빛이요!",
+      "ENGLISH": "It's light!",
+      "CHINESE_SIMPLIFIED": "我觉得光最重要!",
+      "CHINESE_TRADITIONAL": "我覺得光最重要!",
+      "JAPANESE": "私は光です！",
+      "INDONESIAN": "Aku pilih cahaya!",
+      "PORTUGUESE": "Eu escolho a luz!",
+      "RUSSIAN": "Это свет!",
+      "FRENCH": "C’est de la lumière !",
+      "THAI": "นี่คือแสง!",
+      "PERSIAN": "نور است!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.8
+    }
+  }
+]

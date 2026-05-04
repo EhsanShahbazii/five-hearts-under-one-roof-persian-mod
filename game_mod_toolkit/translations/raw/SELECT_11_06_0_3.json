@@ -1,0 +1,115 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 그거!",
+      "ENGLISH": "Ah~ That is!",
+      "CHINESE_SIMPLIFIED": "啊~那是!",
+      "CHINESE_TRADITIONAL": "啊~那是!",
+      "JAPANESE": "あー、あれですか？",
+      "INDONESIAN": "Ah~ Itu dia!",
+      "PORTUGUESE": "Ah~ É isso!",
+      "RUSSIAN": "Ах~ Вот именно!",
+      "FRENCH": "Ah~ Voilà !",
+      "THAI": "อา~ นั่นแหละ!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너무 깊게 생각 안 해도 돼요~",
+      "ENGLISH": "You don’t need to think too much about it.",
+      "CHINESE_SIMPLIFIED": "你不用想太多",
+      "CHINESE_TRADITIONAL": "你不用想太多",
+      "JAPANESE": "そんなに深く考えなくて大丈夫ですよ。",
+      "INDONESIAN": "Kamu nggak perlu terlalu memikirkannya.",
+      "PORTUGUESE": "Você não precisa pensar muito sobre isso.",
+      "RUSSIAN": "Не нужно слишком много думать об этом.",
+      "FRENCH": "Ne te prends pas trop la tête.",
+      "THAI": "คุณไม่ต้องคิดมากไปหรอก"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제 천성이 이런 거라...",
+      "ENGLISH": "It’s just in my nature to say things like that.",
+      "CHINESE_SIMPLIFIED": "我这人就这样",
+      "CHINESE_TRADITIONAL": "我這人就這樣",
+      "JAPANESE": "僕、もともとそういう性格なので",
+      "INDONESIAN": "Memang sudah sifatku mengatakan hal-hal seperti itu.",
+      "PORTUGUESE": "É da minha natureza dizer coisas assim.",
+      "RUSSIAN": "Просто это у меня в крови — говорить такие вещи.",
+      "FRENCH": "C’est juste dans ma nature de dire des choses comme ça.",
+      "THAI": "มันเป็นนิสัยของฉันที่จะพูดอะไรแบบนั้น"
+    },
+    "TIME": {
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "제가 원래 이런 거 있으면, 그냥 못 지나쳐요~",
+      "ENGLISH": "I can’t help myself when I feel something.",
+      "CHINESE_SIMPLIFIED": "看到需要帮助的人，我没办法坐视不理的",
+      "CHINESE_TRADITIONAL": "看到需要幫助的人，我沒辦法坐視不理的",
+      "JAPANESE": "気になって、何もせずにはいられないんですよね～",
+      "INDONESIAN": "Aku nggak bisa menahan diri saat merasakan sesuatu.",
+      "PORTUGUESE": "Não consigo me segurar quando sinto algo.",
+      "RUSSIAN": "Я ничего не могу с собой поделать, когда что-то чувствую.",
+      "FRENCH": "Je ne peux pas m’empêcher quand je ressens quelque chose.",
+      "THAI": "ฉันอดไม่ได้เวลารู้สึกอะไรขึ้นมา"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 그러시구나.",
+      "ENGLISH": "Oh, I see...",
+      "CHINESE_SIMPLIFIED": "原来是这样…",
+      "CHINESE_TRADITIONAL": "原來是這樣…",
+      "JAPANESE": "ああ、そうなんですね。",
+      "INDONESIAN": "Oh, begitu...",
+      "PORTUGUESE": "Ah, entendi...",
+      "RUSSIAN": "А, понятно...",
+      "FRENCH": "Oh, je vois...",
+      "THAI": "อ้อ เข้าใจละ..."
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "역시...",
+      "ENGLISH": "That’s just how you are.",
+      "CHINESE_SIMPLIFIED": "果然...",
+      "CHINESE_TRADITIONAL": "果然...",
+      "JAPANESE": "さすが…。",
+      "INDONESIAN": "Memang kamu seperti itu.",
+      "PORTUGUESE": "É só como você é.",
+      "RUSSIAN": "Таков(а) ты есть.",
+      "FRENCH": "C’est juste comme ça que tu es.",
+      "THAI": "ก็เป็นคุณแบบนี้แหละ"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.9
+    }
+  }
+]

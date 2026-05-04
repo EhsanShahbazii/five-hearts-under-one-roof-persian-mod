@@ -1,0 +1,640 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어, 은비야 깼어...?",
+      "ENGLISH": "Oh, Eun-bi, you’re awake?",
+      "CHINESE_SIMPLIFIED": "恩妃你醒了?",
+      "CHINESE_TRADITIONAL": "恩妃你醒了?",
+      "JAPANESE": "あ、ウンビ、起きた…？",
+      "INDONESIAN": "Oh, Eun-bi, kamu udah bangun?",
+      "PORTUGUESE": "Oh, Eun-bi, você está acordada?",
+      "RUSSIAN": "О, Ын-би, ты не спишь?",
+      "FRENCH": "Oh, Eun-bi, tu es réveillée ?",
+      "THAI": "อึนบี เธอตื่นแล้วเหรอ?",
+      "PERSIAN": "اوه، یون بی، تو بیداری؟"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "응.",
+      "ENGLISH": "Yes.",
+      "CHINESE_SIMPLIFIED": "嗯 。",
+      "CHINESE_TRADITIONAL": "嗯 。",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "RUSSIAN": "Да.",
+      "FRENCH": "Oui.",
+      "THAI": "ใช่",
+      "PERSIAN": "Yes."
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.85
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 안 자고 뭐 해?",
+      "ENGLISH": "Oppa, what are you doing not sleeping?",
+      "CHINESE_SIMPLIFIED": "哥哥你怎么不睡觉?",
+      "CHINESE_TRADITIONAL": "哥哥你怎麼不睡覺?",
+      "JAPANESE": "お兄ちゃん、寝ないで何してるの？",
+      "INDONESIAN": "Oppa, kenapa belum tidur?",
+      "PORTUGUESE": "Oppa, por que você não está dormindo?",
+      "RUSSIAN": "Оппа, а ты почему не спишь?",
+      "FRENCH": "Oppa, pourquoi tu ne dors pas ?",
+      "THAI": "พี่ทำไมไม่ไปนอนล่ะ?",
+      "PERSIAN": "یومان چیکار میکنی که نمیخوابی؟"
+    },
+    "TIME": {
+      "SHOW": 2.85,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "일단 안으로 들어올까?",
+      "ENGLISH": "Shall we go inside?",
+      "CHINESE_SIMPLIFIED": "要不你先进来再说?",
+      "CHINESE_TRADITIONAL": "要不你先進來再說?",
+      "JAPANESE": "とりあえず中に入ろうか？",
+      "INDONESIAN": "Masuk yuk?",
+      "PORTUGUESE": "Vamos entrar?",
+      "RUSSIAN": "Пойдем внутрь?",
+      "FRENCH": "On rentre ?",
+      "THAI": "เข้าไปข้างในกันไหม?",
+      "PERSIAN": "بریم داخل؟"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "웅.",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Tá bom.",
+      "RUSSIAN": "Хорошо.",
+      "FRENCH": "D’accord.",
+      "THAI": "โอเค",
+      "PERSIAN": "Okay."
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you alright?",
+      "CHINESE_SIMPLIFIED": "你还好吗?",
+      "CHINESE_TRADITIONAL": "你還好嗎?",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu gak apa-apa?",
+      "PORTUGUESE": "Você está bem?",
+      "RUSSIAN": "Ты в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "เธอโอเคไหม?",
+      "PERSIAN": "حالت خوبه؟"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "抱歉...",
+      "CHINESE_TRADITIONAL": "抱歉...",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Извини… ",
+      "FRENCH": "Désolée...",
+      "THAI": "ขอโทษนะ… ",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "제가 사람을 좀 무서워해서...",
+      "ENGLISH": "I get a bit nervous around people...",
+      "CHINESE_SIMPLIFIED": "我有点怕人…",
+      "CHINESE_TRADITIONAL": "我有點怕人…",
+      "JAPANESE": "私、人がちょっと怖くて…",
+      "INDONESIAN": "Aku agak gugup kalau di sekitar orang...",
+      "PORTUGUESE": "Eu fico meio nervosa perto das pessoas...",
+      "RUSSIAN": "Я немного нервничаю в компании людей...",
+      "FRENCH": "Je suis un peu nerveuse quand il y a du monde...",
+      "THAI": "ฉันประหม่าเวลามีคนเยอะๆ น่ะ...",
+      "PERSIAN": "من در اطراف مردم کمی عصبی می شوم ..."
+    },
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "ああ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ...",
+      "PERSIAN": "Oh..."
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "근데 집에 이런 사람이 있었나?",
+      "ENGLISH": "Was there someone like you at home?",
+      "CHINESE_SIMPLIFIED": "家里还有这么个人?",
+      "CHINESE_TRADITIONAL": "家裏還有這麼個人?",
+      "JAPANESE": "家にこんな人いたっけ？",
+      "INDONESIAN": "Ada orang seperti kamu di rumah?",
+      "PORTUGUESE": "Tinha alguém como você em casa?",
+      "RUSSIAN": "У тебя дома был кто-то похожий?",
+      "FRENCH": "Y avait-il quelqu’un comme toi chez toi ?",
+      "THAI": "ที่บ้านเธอมีใครแบบนี้ไหม?",
+      "PERSIAN": "کسی مثل شما در خونه بود؟"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "이름이 뭐예요?",
+      "ENGLISH": "What's your name?",
+      "CHINESE_SIMPLIFIED": "你叫什么啊?",
+      "CHINESE_TRADITIONAL": "你叫什麼啊?",
+      "JAPANESE": "名前は何て言うの？",
+      "INDONESIAN": "Siapa namamu?",
+      "PORTUGUESE": "Qual é o seu nome?",
+      "RUSSIAN": "Как тебя зовут?",
+      "FRENCH": "Comment tu t’appelles ?",
+      "THAI": "ชื่ออะไร?",
+      "PERSIAN": "اسمت چیه؟"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 말을 안 해?",
+      "ENGLISH": "Why aren’t you speaking?",
+      "CHINESE_SIMPLIFIED": "你怎么不说话?",
+      "CHINESE_TRADITIONAL": "你怎麼不說話?",
+      "JAPANESE": "何で何も言わないの？",
+      "INDONESIAN": "Kenapa gak ngomong?",
+      "PORTUGUESE": "Por que não fala nada?",
+      "RUSSIAN": "Почему ты молчишь?",
+      "FRENCH": "Pourquoi tu ne parles pas ?",
+      "THAI": "ทำไมไม่พูดล่ะ?",
+      "PERSIAN": "چرا حرف نمیزنی؟"
+    },
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 26.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아까 술 파티엔 왜 안 왔어요?",
+      "ENGLISH": "Why didn’t you come to the party earlier?",
+      "CHINESE_SIMPLIFIED": "刚才的酒局又为什么不参加?",
+      "CHINESE_TRADITIONAL": "剛纔的酒局又爲什麼不參加?",
+      "JAPANESE": "さっきの飲み会には何で来なかったの？",
+      "INDONESIAN": "Kenapa kamu gak datang ke pesta tadi?",
+      "PORTUGUESE": "Por que você não foi à festa antes?",
+      "RUSSIAN": "Почему ты не пришла на вечеринку раньше?",
+      "FRENCH": "Pourquoi tu n’es pas venue plus tôt à la fête ?",
+      "THAI": "แล้วทำไมไม่มางานปาร์ตี้ก่อนหน้านี้?",
+      "PERSIAN": "چرا زودتر به مهمانی نیامدی؟"
+    },
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 이 사람 누구야?",
+      "ENGLISH": "Oppa, who is this person?",
+      "CHINESE_SIMPLIFIED": "哥哥，她是谁?",
+      "CHINESE_TRADITIONAL": "哥哥，她是誰?",
+      "JAPANESE": "お兄ちゃん、この人誰？",
+      "INDONESIAN": "Oppa, siapa orang ini?",
+      "PORTUGUESE": "Oppa, quem é essa pessoa?",
+      "RUSSIAN": "Оппа, кто это?",
+      "FRENCH": "Oppa, c’est qui cette personne ?",
+      "THAI": "พี่ คนนี้ใครเหรอ?",
+      "PERSIAN": "یومان، این شخص کیه؟"
+    },
+    "TIME": {
+      "SHOW": 30.36,
+      "HIDE": 32.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "저 은비야, 일단 조용히 다시 자러 가면",
+      "ENGLISH": "Eunbi, go back to sleep",
+      "CHINESE_SIMPLIFIED": "那个恩妃啊，你先回去接着睡吧",
+      "CHINESE_TRADITIONAL": "那個恩妃啊，你先回去接着睡吧",
+      "JAPANESE": "えっと、ウンビ、ひとまず今日は寝てから",
+      "INDONESIAN": "Eun-bi, tidur lagi sana.",
+      "PORTUGUESE": "Eun-bi, volta a dormir.",
+      "RUSSIAN": "Ын-би, иди спать,",
+      "FRENCH": "Eun-bi, retourne te coucher, ",
+      "THAI": "อึนบี กลับไปนอนเถอะ พรุ่งนี้พี่จะอธิบายให้ฟัง",
+      "PERSIAN": "یونبی برگرد بخواب"
+    },
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 35.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "오빠가 내일 설명해줄게.",
+      "ENGLISH": "And I’ll explain tomorrow.",
+      "CHINESE_SIMPLIFIED": "我明天解释给你听好不好?",
+      "CHINESE_TRADITIONAL": "我明天解釋給你聽好不好?",
+      "JAPANESE": "明日、説明するよ。",
+      "INDONESIAN": "Besok aku jelasin.",
+      "PORTUGUESE": "Eu explico amanhã.",
+      "RUSSIAN": " а я всё объясню завтра.",
+      "FRENCH": "je t’expliquerai demain.",
+      "PERSIAN": "و فردا توضیح میدم"
+    },
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 37.6
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么",
+      "CHINESE_TRADITIONAL": "爲什麼",
+      "JAPANESE": "何で？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему? ",
+      "FRENCH": "Pourquoi ? ",
+      "THAI": "ทำไมล่ะ? ",
+      "PERSIAN": "Why?"
+    },
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 38.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 말해주면 안 돼?",
+      "ENGLISH": "Can’t you tell me now?",
+      "CHINESE_SIMPLIFIED": "不能今天说?",
+      "CHINESE_TRADITIONAL": "不能今天說?",
+      "JAPANESE": "今日はダメなの？",
+      "INDONESIAN": "Gak bisa bilang sekarang?",
+      "PORTUGUESE": "Não pode me dizer agora?",
+      "RUSSIAN": "Ты не можешь рассказать мне сейчас?",
+      "FRENCH": "Tu ne peux pas me le dire maintenant ?",
+      "THAI": "พี่บอกฉันตอนนี้ไม่ได้เหรอ?",
+      "PERSIAN": "الان نمیتونی بهم بگی؟"
+    },
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 39.64
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 여자친구?",
+      "ENGLISH": "Is she your girlfriend?",
+      "CHINESE_SIMPLIFIED": "该不会是你女朋友吧?",
+      "CHINESE_TRADITIONAL": "該不會是你女朋友吧?",
+      "JAPANESE": "もしかして、彼女？",
+      "INDONESIAN": "Dia pacarmu, ya?",
+      "PORTUGUESE": "Ela é sua namorada?",
+      "RUSSIAN": "Она твоя девушка?",
+      "FRENCH": "C’est ta copine ?",
+      "THAI": "เธอเป็นแฟนพี่เหรอ?",
+      "PERSIAN": "او دوست دختر شماست؟"
+    },
+    "TIME": {
+      "SHOW": 40.02,
+      "HIDE": 41.4
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "그런 건 아니고...",
+      "ENGLISH": "She’s not...",
+      "CHINESE_SIMPLIFIED": "哎呀不是…",
+      "CHINESE_TRADITIONAL": "哎呀不是…",
+      "JAPANESE": "そうじゃなくて…",
+      "INDONESIAN": "Bukan...",
+      "PORTUGUESE": "Não é...",
+      "RUSSIAN": "Нет, она не...",
+      "FRENCH": "Elle n’est pas...",
+      "THAI": "ไม่ใช่...",
+      "PERSIAN": "او نیست..."
+    },
+    "TIME": {
+      "SHOW": 41.8,
+      "HIDE": 42.9
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "일단 나갈까?",
+      "ENGLISH": "Let’s go out for now.",
+      "CHINESE_SIMPLIFIED": "不如你先回去?",
+      "CHINESE_TRADITIONAL": "不如你先回去?",
+      "JAPANESE": "とりあえずここから出ようか？",
+      "INDONESIAN": "Yuk, kita keluar dulu.",
+      "PORTUGUESE": "Vamos sair por enquanto.",
+      "RUSSIAN": "Давай выйдем на улицу.",
+      "FRENCH": "Allons faire un tour dehors.",
+      "THAI": "ออกไปคุยกันข้างนอกก่อนดีกว่า",
+      "PERSIAN": "فعلا بریم بیرون"
+    },
+    "TIME": {
+      "SHOW": 42.9,
+      "HIDE": 44.25
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "일단 여자친구는 아니라는 거지?",
+      "ENGLISH": "She’s not your girlfriend, right?",
+      "CHINESE_SIMPLIFIED": "你确定不是你女朋友对吧?",
+      "CHINESE_TRADITIONAL": "你確定不是你女朋友對吧?",
+      "JAPANESE": "ひとまず、彼女じゃないってことね？",
+      "INDONESIAN": "Dia bukan pacarmu, kan?",
+      "PORTUGUESE": "Ela não é sua namorada, né?",
+      "RUSSIAN": "Так она не твоя девушка, да?",
+      "FRENCH": "Alors ce n’est pas ta copine, hein ?",
+      "THAI": "ไม่ใช่แฟนพี่ใช่ไหม?",
+      "PERSIAN": "او دوست دختر شما نیست، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 44.9,
+      "HIDE": 46.9
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "아니라니까.",
+      "ENGLISH": "No.",
+      "CHINESE_SIMPLIFIED": "都说了不是了",
+      "CHINESE_TRADITIONAL": "都說了不是了",
+      "JAPANESE": "そうだって！",
+      "INDONESIAN": "Enggak.",
+      "PORTUGUESE": "Não.",
+      "RUSSIAN": "Нет. ",
+      "FRENCH": "Non. ",
+      "THAI": "ไม่ใช่ แต่ช่วยเก็บเป็นความลับนะ",
+      "PERSIAN": "No."
+    },
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 48.4
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "근데 일단 사람들한테는 비밀로 해 줘.",
+      "ENGLISH": "But please keep it a secret from everyone.",
+      "CHINESE_SIMPLIFIED": "不过这个事先对大家保密吧。",
+      "CHINESE_TRADITIONAL": "不過這個事先對大家保密吧。",
+      "JAPANESE": "でも、みんなには内緒にしておいて。",
+      "INDONESIAN": "Tapi tolong jangan bilang siapa-siapa, ya.",
+      "PORTUGUESE": "Mas por favor, não conte a ninguém.",
+      "RUSSIAN": "Но, пожалуйста, никому не рассказывай.",
+      "FRENCH": "Mais s’il te plaît, garde-le pour toi.",
+      "PERSIAN": "اما لطفا اونو از همه مخفی نگه دارید."
+    },
+    "TIME": {
+      "SHOW": 48.57,
+      "HIDE": 50.8
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "비밀?",
+      "ENGLISH": "A secret? ",
+      "CHINESE_SIMPLIFIED": "保密?",
+      "CHINESE_TRADITIONAL": "保密?",
+      "JAPANESE": "内緒？",
+      "INDONESIAN": "Rahasia?",
+      "PORTUGUESE": "Um segredo?",
+      "RUSSIAN": "Секрет?",
+      "FRENCH": "Un secret ?",
+      "THAI": "ความลับเหรอ?",
+      "PERSIAN": "یک راز؟"
+    },
+    "TIME": {
+      "SHOW": 51.38,
+      "HIDE": 52.25
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 내가 비밀로 해줄테니까",
+      "ENGLISH": "If I keep it",
+      "CHINESE_SIMPLIFIED": "我帮你保密的话",
+      "CHINESE_TRADITIONAL": "我幫你保密的話",
+      "JAPANESE": "じゃあ、内緒にしてあげる代わりに、",
+      "INDONESIAN": "Kalau aku jaga rahasia ini,",
+      "PORTUGUESE": "Se eu guardar,",
+      "RUSSIAN": "Если ты его сохранишь...",
+      "FRENCH": "Si tu le gardes...",
+      "THAI": "ถ้าฉันเก็บไว้…",
+      "PERSIAN": "اگه نگهش دارم"
+    },
+    "TIME": {
+      "SHOW": 52.6,
+      "HIDE": 54.38
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 줘!",
+      "ENGLISH": "What will you give me?",
+      "CHINESE_SIMPLIFIED": "你能给我什么?",
+      "CHINESE_TRADITIONAL": "你能給我什麼?",
+      "JAPANESE": "何かちょうだい！",
+      "INDONESIAN": "Kamu kasih aku apa?",
+      "PORTUGUESE": "O que você vai me dar?",
+      "RUSSIAN": "Что я за это получу?",
+      "FRENCH": "Qu’est-ce que tu me donneras ?",
+      "THAI": "ฉันจะได้อะไรล่ะ?",
+      "PERSIAN": "چه چیزی به من خواهی داد؟"
+    },
+    "TIME": {
+      "SHOW": 54.38,
+      "HIDE": 55.44
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "그래그래 뭐 줄까?",
+      "ENGLISH": "Okay, okay, what do you want?",
+      "CHINESE_SIMPLIFIED": "嗯…给你什么好呢?",
+      "CHINESE_TRADITIONAL": "嗯…給你什麼好呢?",
+      "JAPANESE": "何が欲しい？",
+      "INDONESIAN": "Oke, oke, kamu mau apa?",
+      "PORTUGUESE": "Tá bom, tá bom, o que você quer?",
+      "RUSSIAN": "Хорошо, хорошо, что ты хочешь?",
+      "FRENCH": "Bon, bon, qu’est-ce que tu veux ?",
+      "THAI": "โอเคๆ อยากได้อะไร?",
+      "PERSIAN": "باشه، باشه، چی میخوای؟"
+    },
+    "TIME": {
+      "SHOW": 56.0,
+      "HIDE": 57.7
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "나 소원권 하나 줘!",
+      "ENGLISH": "I want a wish coupon!",
+      "CHINESE_SIMPLIFIED": "你给我一张愿望券吧!",
+      "CHINESE_TRADITIONAL": "你給我一張願望券吧!",
+      "JAPANESE": "私、願い事券が欲しい！",
+      "INDONESIAN": "Aku mau kupon permintaan!",
+      "PORTUGUESE": "Eu quero um cupom de desejo!",
+      "RUSSIAN": "Я хочу купон на желание! ",
+      "FRENCH": "Je veux un coupon de vœu ! ",
+      "THAI": "ฉันอยากได้คูปองพร! ",
+      "PERSIAN": "من یک کوپن آرزو می خواهم!"
+    },
+    "TIME": {
+      "SHOW": 57.7,
+      "HIDE": 59.0
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 이용권!",
+      "ENGLISH": "Just like a Yuman-coupon!",
+      "CHINESE_SIMPLIFIED": "吴宥万愿望券!",
+      "CHINESE_TRADITIONAL": "吳宥萬願望券!",
+      "JAPANESE": "ウ・ユマン利用券！",
+      "INDONESIAN": "Kayak kupon Yuman!",
+      "PORTUGUESE": "Igual um cupom do Yuman!",
+      "RUSSIAN": "Как купон от Юмана!",
+      "FRENCH": "Comme un coupon Yuman !",
+      "THAI": "แบบคูปองของยูมัน!",
+      "PERSIAN": "درست مثل کوپن یومان!"
+    },
+    "TIME": {
+      "SHOW": 59.0,
+      "HIDE": 60.0
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "어어 소원권 줄게! 소원권! 어!",
+      "ENGLISH": "Alright, I’ll give you a wish coupon! Wish coupon! Okay!",
+      "CHINESE_SIMPLIFIED": "好好!那就给你愿望券!",
+      "CHINESE_TRADITIONAL": "好好!那就給你願望券!",
+      "JAPANESE": "ああ、分かったよ。あげるよ、願い事券！",
+      "INDONESIAN": "Baiklah, aku kasih kamu kupon permintaan! Kupon permintaan! Oke!",
+      "PORTUGUESE": "Tá certo, eu te dou um cupom de desejo! Cupom de desejo! Combinado!",
+      "RUSSIAN": "Ладно, дам тебе купон на желание! Купон на желание! Всё!",
+      "FRENCH": "D’accord, je te donne un coupon de vœu ! Coupon de vœu ! C’est bon !",
+      "THAI": "โอเค จะให้คูปองพร! คูปองพร โอเค!",
+      "PERSIAN": "خوب، من به شما یک کوپن آرزو می دهم! کوپن آرزو! باشه!"
+    },
+    "TIME": {
+      "SHOW": 60.0,
+      "HIDE": 62.6
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "예스!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好耶!",
+      "CHINESE_TRADITIONAL": "好耶!",
+      "JAPANESE": "やった！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Ура!",
+      "FRENCH": "Oui !",
+      "THAI": "เย้!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 62.6,
+      "HIDE": 63.7
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 하지 마~",
+      "ENGLISH": "Ah, stop! Heehee, it really tickles!",
+      "CHINESE_SIMPLIFIED": "哎呀别闹了~",
+      "CHINESE_TRADITIONAL": "哎呀別鬧了~",
+      "JAPANESE": "やめてってば～",
+      "INDONESIAN": "Ah, berhenti! Hehehe, geli banget!",
+      "PORTUGUESE": "Ah, para! Hehehe, faz muita cócega!",
+      "RUSSIAN": "Ах, хватит! Хи-хи, щекотно!",
+      "FRENCH": "Ah, arrête ! Hi-hi, ça chatouille vraiment !",
+      "THAI": "อา หยุดนะ! ฮิฮิ มันจั๊กจี้มาก!"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "고말숙 왜 이렇게 기운이 없어...",
+      "ENGLISH": "Hey, why are you so low-energy today, Mal-sook?",
+      "CHINESE_SIMPLIFIED": "高末淑你怎么无精打采的…",
+      "CHINESE_TRADITIONAL": "高末淑你怎麼無精打采的…",
+      "JAPANESE": "何だよ、マルスク。何か、元気ないな…",
+      "INDONESIAN": "Hey, kenapa lemes banget hari ini, Mal-sook?",
+      "PORTUGUESE": "Ei, por que tá tão desanimada hoje, Mal-sook?",
+      "RUSSIAN": "Эй, почему ты сегодня такая без энергии, Мал-Сук?",
+      "FRENCH": "Hé, pourquoi tu es si à plat aujourd’hui, Mal-sook ?",
+      "THAI": "เฮ้ ทำไมวันนี้เธอดูหมดพลังจัง มัลซุก?"
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 됐어~",
+      "ENGLISH": "I'm fine...",
+      "CHINESE_SIMPLIFIED": "没事",
+      "CHINESE_TRADITIONAL": "沒事",
+      "JAPANESE": "もういいって～",
+      "INDONESIAN": "Aku baik-baik saja…",
+      "PORTUGUESE": "Tô bem…",
+      "RUSSIAN": "Я в порядке...",
+      "FRENCH": "Je vais bien...",
+      "THAI": "ฉันสบายดี..."
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너 어차피 프린트하러 온 거잖아. 그거나 줘.",
+      "ENGLISH": "C'mon, you just came here to print something, didn’t you? Let’s get to that.",
+      "CHINESE_SIMPLIFIED": "你不是过来打印的嘛? 给我吧",
+      "CHINESE_TRADITIONAL": "你不是過來打印的嘛? 給我吧",
+      "JAPANESE": "どうせ、プリントしに来たんでしょ？ちょうだい。",
+      "INDONESIAN": "Ayolah, kamu cuma ke sini buat cetak sesuatu, kan? Berikan padaku.",
+      "PORTUGUESE": "Vamos lá, você só veio aqui pra imprimir algo, né? Me dá aqui.",
+      "RUSSIAN": "Ну же, ты ведь пришла только что-то распечатать, правда? Давай сделаем это.",
+      "FRENCH": "Allez, tu es venue juste pour imprimer un truc, non ? Faisons ça.",
+      "THAI": "เอาน่า เธอแค่มาปริ๊นต์อะไรใช่ไหม? งั้นไปทำกันเถอะ"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "자.",
+      "ENGLISH": "Here!",
+      "CHINESE_SIMPLIFIED": "给",
+      "CHINESE_TRADITIONAL": "給",
+      "JAPANESE": "はい。",
+      "INDONESIAN": "Ini!",
+      "PORTUGUESE": "Aqui está!",
+      "RUSSIAN": "Вот!",
+      "FRENCH": "Tiens !",
+      "THAI": "นี่!"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 15.8
+    }
+  }
+]

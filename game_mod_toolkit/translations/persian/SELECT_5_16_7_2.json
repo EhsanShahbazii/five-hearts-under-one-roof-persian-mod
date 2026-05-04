@@ -1,0 +1,682 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아니 다들 뭐하는 거예요!",
+      "ENGLISH": "What is everyone doing?!",
+      "CHINESE_SIMPLIFIED": "你们都在干什么？",
+      "CHINESE_TRADITIONAL": "你們都在幹什麼？",
+      "JAPANESE": "ちょっと、みんな何してるんですか！",
+      "INDONESIAN": "Apa yang kalian semua lakukan?!",
+      "PORTUGUESE": "O que vocês estão fazendo?!",
+      "RUSSIAN": "Что все делают?!",
+      "FRENCH": "Qu’est-ce que tout le monde fait ?!",
+      "THAI": "ทุกคนทำอะไรกัน?!",
+      "PERSIAN": "همه چیکار میکنن؟!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠가 확실하게 말해줘요.",
+      "ENGLISH": "Can you say something and sort this out?",
+      "CHINESE_SIMPLIFIED": "哥哥, 给我们一个明确的答复",
+      "CHINESE_TRADITIONAL": "哥哥, 給我們一個明確的答覆",
+      "JAPANESE": "ユマンさん、はっきり言ってくださいよ。",
+      "INDONESIAN": "Bisakah kalian ngomong sesuatu dan selesaikan ini?",
+      "PORTUGUESE": "Vocês podem dizer algo e resolver isso?",
+      "RUSSIAN": "Может, кто-нибудь что-то скажет и разрулит это?",
+      "FRENCH": "Est-ce que quelqu’un peut dire quelque chose et arranger ça ?",
+      "THAI": "มีใครจะพูดอะไรหน่อยแล้วจัดการเรื่องนี้ได้ไหม?",
+      "PERSIAN": "میشه یه چیزی بگی و اینو حل کنی؟"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니 난 뭐가 됐든",
+      "ENGLISH": "Look, no matter what,",
+      "CHINESE_SIMPLIFIED": "我不管是什么",
+      "CHINESE_TRADITIONAL": "我不管是什麼",
+      "JAPANESE": "僕は、どうでもいいですけど",
+      "INDONESIAN": "Dengar, apa pun itu,",
+      "PORTUGUESE": "Olha, seja o que for,",
+      "RUSSIAN": "Слушайте, что бы ни случилось,",
+      "FRENCH": "Écoutez, quoi qu’il arrive,",
+      "THAI": "ดูนะ ไม่ว่ายังไง",
+      "PERSIAN": "ببین، مهم نیست که"
+    },
+    "TIME": {
+      "SHOW": 4.54,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "서로 사과 안 하면",
+      "ENGLISH": "if you don’t all apologize,",
+      "CHINESE_SIMPLIFIED": "如果你们不互相道歉",
+      "CHINESE_TRADITIONAL": "如果你們不互相道歉",
+      "JAPANESE": "お互いに謝らないと",
+      "INDONESIAN": "kalau kalian semua gak minta maaf,",
+      "PORTUGUESE": "se vocês todos não pedirem desculpa,",
+      "RUSSIAN": "если вы все не извинитесь,",
+      "FRENCH": "si vous ne vous excusez pas tous,",
+      "THAI": "ถ้าพวกเธอไม่ขอโทษกันหมด",
+      "PERSIAN": "اگر همه عذرخواهی نکنید،"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "대답 안 할 거예요.",
+      "ENGLISH": "I’m not saying a word.",
+      "CHINESE_SIMPLIFIED": "我就不回答",
+      "CHINESE_TRADITIONAL": "我就不回答",
+      "JAPANESE": "答えませんからね。",
+      "INDONESIAN": "aku gak bakal ngomong apa-apa.",
+      "PORTUGUESE": "eu não vou dizer uma palavra.",
+      "RUSSIAN": "я не скажу ни слова.",
+      "FRENCH": "je ne dirai rien.",
+      "THAI": "ฉันจะไม่พูดอะไรเลย",
+      "PERSIAN": "من یک کلمه نمی گویم."
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.12
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 먼저 시작한건 말숙 씨 아닌가요?",
+      "ENGLISH": "Honestly, wasn’t it Mal-sook who started this?",
+      "CHINESE_SIMPLIFIED": "老实说，不是末淑先开始的吗？",
+      "CHINESE_TRADITIONAL": "老實說，不是末淑先開始的嗎？",
+      "JAPANESE": "正直、最初に言い出したのって、マルスクさんじゃないですか？",
+      "INDONESIAN": "Jujur, bukannya Mal-sook yang mulai duluan?",
+      "PORTUGUESE": "Sinceramente, não foi a Mal-sook que começou isso?",
+      "RUSSIAN": "Честно, разве не Мал-Сук это всё начала?",
+      "FRENCH": "Honnêtement, ce n’était pas Mal-sook qui avait commencé ?",
+      "THAI": "เอาจริงๆ นะ ไม่ใช่ว่ามัลซุกเริ่มก่อนเหรอ?",
+      "PERSIAN": "راستش، این مال‌سوک نبود که این کار را شروع کرد؟"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 11.15
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니.. 다들 가만히 있는데 제가 미쳤다고 그랬겠어요?",
+      "ENGLISH": "Wait, would I really have done that if everyone was just sitting quietly?!",
+      "CHINESE_SIMPLIFIED": "不是，为什么不说别人只说我啊？",
+      "CHINESE_TRADITIONAL": "不是，爲什麼不說別人只說我啊？",
+      "JAPANESE": "みんな黙ってたのに、私がいきなりそんなことするわけないでしょ？",
+      "INDONESIAN": "Tunggu, apa aku beneran bakal gitu kalau semuanya duduk diam?!",
+      "PORTUGUESE": "Espera, eu realmente faria isso se todo mundo estivesse sentado quieto?!",
+      "RUSSIAN": "Подождите, разве я бы так сделала, если бы все просто сидели тихо?!",
+      "FRENCH": "Attendez, j’aurais vraiment fait ça si tout le monde était resté assis tranquillement ?!",
+      "THAI": "เดี๋ยวนะ ฉันจะทำแบบนั้นจริงๆ เหรอ ถ้าทุกคนนั่งเงียบๆ กันอยู่?!",
+      "PERSIAN": "صبر کن، اگر همه ساکت می نشستند واقعاً این کار را می کردم؟!"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "왜 우리언니한테 뭐라 그래요?",
+      "ENGLISH": "Why are you picking on my sister?",
+      "CHINESE_SIMPLIFIED": "干嘛要这么说我姐姐？",
+      "CHINESE_TRADITIONAL": "幹嘛要這麼說我姐姐？",
+      "JAPANESE": "何で、お姉ちゃんに文句言うんですか？",
+      "INDONESIAN": "Kenapa kamu ganggu adikku?",
+      "PORTUGUESE": "Por que você tá implicando com minha irmã?",
+      "RUSSIAN": "Почему ты нападаешь на мою сестру?",
+      "FRENCH": "Pourquoi tu t’en prends à ma sœur ?",
+      "THAI": "ทำไมเธอต้องมาว่าพี่สาวฉันด้วย?",
+      "PERSIAN": "چرا داری خواهر من رو انتخاب میکنی؟"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 우리 서로 사과하고 끝내죠",
+      "ENGLISH": "Come on, let’s just apologize and be done with it.",
+      "CHINESE_SIMPLIFIED": "我们还是互相道歉算了吧",
+      "CHINESE_TRADITIONAL": "我們還是互相道歉算了吧",
+      "JAPANESE": "もう、お互いに謝って終わりにしましょうよ。",
+      "INDONESIAN": "Ayo, minta maaf aja biar cepet selesai.",
+      "PORTUGUESE": "Vamos, é só pedir desculpa e pronto.",
+      "RUSSIAN": "Давайте просто извинимся и покончим с этим.",
+      "FRENCH": "Allez, on s’excuse et on passe à autre chose.",
+      "THAI": "มาเถอะ ขอโทษกันแล้วจบๆ ไปเถอะ",
+      "PERSIAN": "بیا، فقط عذرخواهی کنیم و کار را تمام کنیم."
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 그니깐! 뭘 사과하냐구요~",
+      "ENGLISH": "Ugh, but for what?! What exactly am I apologizing for?!",
+      "CHINESE_SIMPLIFIED": "不是，我们道什么歉啊？",
+      "CHINESE_TRADITIONAL": "不是，我們道什麼歉啊？",
+      "JAPANESE": "いや、だから！何を謝るって言うのよ～",
+      "INDONESIAN": "Ugh, tapi minta maaf buat apa?! Aku minta maaf buat apa?!",
+      "PORTUGUESE": "Ugh, mas por quê?! Pelo que eu tô pedindo desculpa?!",
+      "RUSSIAN": "Ох, но за что?! За что именно я должна извиняться?!",
+      "FRENCH": "Pff, mais pour quoi ?! Pour quoi exactement je devrais m’excuser ?!",
+      "THAI": "อืม แต่ขอโทษเรื่องอะไรล่ะ?! ฉันต้องขอโทษเรื่องอะไรแน่ๆ?!",
+      "PERSIAN": "اوه، اما واسه چی؟! دقیقا برای چی معذرت میخوام؟!"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "저기...",
+      "ENGLISH": "Um...",
+      "CHINESE_SIMPLIFIED": "那个...",
+      "CHINESE_TRADITIONAL": "那個...",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Um...",
+      "PORTUGUESE": "Hum...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ...",
+      "PERSIAN": "Um..."
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "누구도 잘못한 사람은 없는 것 같은데..",
+      "ENGLISH": "I don’t think anyone really did anything wrong...",
+      "CHINESE_SIMPLIFIED": "我觉得大家都没做错任何事...",
+      "CHINESE_TRADITIONAL": "我覺得大家都沒做錯任何事...",
+      "JAPANESE": "誰も悪くないと思うんですけど…",
+      "INDONESIAN": "Aku rasa gak ada yang beneran salah...",
+      "PORTUGUESE": "Eu acho que ninguém fez nada de errado...",
+      "RUSSIAN": "Не думаю, что кто-то действительно что-то плохое сделал...",
+      "FRENCH": "Je ne pense pas que quelqu’un ait vraiment fait quelque chose de mal...",
+      "THAI": "ฉันไม่คิดว่าใครทำอะไรผิดจริงๆ นะ...",
+      "PERSIAN": "فکر نمی کنم کسی واقعاً کار اشتباهی کرده باشد ..."
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 가위바위보로 사과하는 순서 정하는거 어때요?",
+      "ENGLISH": "How about we settle this with rock-paper-scissors and whoever loses apologizes first?",
+      "CHINESE_SIMPLIFIED": "不然用猜拳来决定道歉的顺序吧？",
+      "CHINESE_TRADITIONAL": "不然用猜拳來決定道歉的順序吧？",
+      "JAPANESE": "じゃあ、謝る順番をじゃんけんで決るのはどう？",
+      "INDONESIAN": "Gimana kalau kita selesaikan pakai suit, yang kalah minta maaf duluan?",
+      "PORTUGUESE": "Que tal resolvermos com pedra, papel e tesoura, e quem perder pede desculpa primeiro?",
+      "RUSSIAN": "Как насчёт того, чтобы решить это на \"камень, ножницы, бумага\", и кто проиграет, извиняется первым?",
+      "FRENCH": "Et si on réglait ça avec \"pierre, feuille, ciseaux\", et celui qui perd s’excuse en premier ?",
+      "THAI": "งั้นเรามาตัดสินกันด้วยการเล่นเป่ายิ้งฉุบดีไหม ใครแพ้ขอโทษก่อน",
+      "PERSIAN": "چطور می شود که این موضوع را با قیچی سنگ و کاغذ حل کنیم و هرکس شکست خورد اول عذرخواهی کند؟"
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 28.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "어렸을 때, 가위바위보로 순서 정하고 그랬던 것 같은데...",
+      "ENGLISH": "I remember settling things that way when we were kids.",
+      "CHINESE_SIMPLIFIED": "我小时候经常玩石头剪刀布...",
+      "CHINESE_TRADITIONAL": "我小時候經常玩石頭剪刀布...",
+      "JAPANESE": "子供の頃、じゃんけんで順番決めたりしてたはず...",
+      "INDONESIAN": "Ingat waktu kecil, kita selesaikan masalah gini.",
+      "PORTUGUESE": "Quando éramos crianças, resolvíamos assim.",
+      "RUSSIAN": "Я помню, как мы решали так, когда были детьми.",
+      "FRENCH": "Je me souviens qu’on réglait les choses comme ça quand on était enfants.",
+      "THAI": "ฉันจำได้ว่าเราเคยใช้วิธีนี้ตอนเด็กๆ",
+      "PERSIAN": "یادم می‌آید که وقتی بچه بودیم مسائل را به این شکل حل می‌کردیم."
+    },
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 32.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "안 내면 진거!",
+      "ENGLISH": "If you don't pay, you lose!",
+      "CHINESE_SIMPLIFIED": "谁不出谁输",
+      "CHINESE_TRADITIONAL": "誰不出誰輸",
+      "JAPANESE": "出さな負けよ",
+      "INDONESIAN": "Kalau gak bayar, kalah!",
+      "PORTUGUESE": "Se não pagar, você perde!",
+      "RUSSIAN": "Кто не платит — тот проигрывает!",
+      "FRENCH": "Si tu ne paies pas, tu perds !",
+      "THAI": "ถ้าเธอไม่จ่าย เธอแพ้!",
+      "PERSIAN": "اگر پرداخت نکنید، ضرر می کنید!"
+    },
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 38.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "가위바위보!",
+      "ENGLISH": "Rock, paper, scissors!",
+      "CHINESE_SIMPLIFIED": "石头 剪刀 布",
+      "CHINESE_TRADITIONAL": "石頭 剪刀 布",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Gunting, batu, kertas!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень, ножницы, бумага!",
+      "FRENCH": "Pierre, feuille, ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ، کاغذ، قیچی!"
+    },
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 39.5
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "가위바위보!",
+      "ENGLISH": "Rock, paper, scissors!",
+      "CHINESE_SIMPLIFIED": "石头 剪刀 布",
+      "CHINESE_TRADITIONAL": "石頭 剪刀 布",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Gunting, batu, kertas!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень, ножницы, бумага!",
+      "FRENCH": "Pierre, feuille, ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ، کاغذ، قیچی!"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 41.3
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "가위바위보!",
+      "ENGLISH": "Rock, paper, scissors!",
+      "CHINESE_SIMPLIFIED": "石头 剪刀 布",
+      "CHINESE_TRADITIONAL": "石頭 剪刀 布",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Gunting, batu, kertas!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень, ножницы, бумага!",
+      "FRENCH": "Pierre, feuille, ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ، کاغذ، قیچی!"
+    },
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 42.3
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "제일 좋아하는 색! 하나 둘 셋",
+      "ENGLISH": "Alright, favorite color! One, two, three!",
+      "CHINESE_SIMPLIFIED": "最喜欢的颜色 一 二 三",
+      "CHINESE_TRADITIONAL": "最喜歡的顏色 一 二 三",
+      "JAPANESE": "一番好きな色は！せーの！",
+      "INDONESIAN": "Oke, warna favorit! Satu, dua, tiga!",
+      "PORTUGUESE": "Certo, cor favorita! Um, dois, três!",
+      "RUSSIAN": "Ладно, любимый цвет! Раз, два, три!",
+      "FRENCH": "Bon, couleur préférée ! Un, deux, trois !",
+      "THAI": "โอเค สีที่ชอบที่สุด! หนึ่ง สอง สาม!",
+      "PERSIAN": "خوب، رنگ مورد علاقه! یک، دو، سه!"
+    },
+    "TIME": {
+      "SHOW": 45.5,
+      "HIDE": 47.4
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "하늘색!",
+      "ENGLISH": "Sky blue!",
+      "CHINESE_SIMPLIFIED": "天蓝色",
+      "CHINESE_TRADITIONAL": "天藍色",
+      "JAPANESE": "水色！",
+      "INDONESIAN": "Biru langit!",
+      "PORTUGUESE": "Azul celeste!",
+      "RUSSIAN": "Небесно-голубой!",
+      "FRENCH": "Bleu ciel !",
+      "THAI": "ฟ้าอ่อน!",
+      "PERSIAN": "آبی آسمانی!"
+    },
+    "TIME": {
+      "SHOW": 47.4,
+      "HIDE": 48.0
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "여기서 제일 예쁘다고 생각하는 사람!",
+      "ENGLISH": "Now, who do you think is the prettiest here? ",
+      "CHINESE_SIMPLIFIED": "这里谁最漂亮？",
+      "CHINESE_TRADITIONAL": "這裏誰最漂亮？",
+      "JAPANESE": "この中で一番可愛いと思う人！せーの！",
+      "INDONESIAN": "Sekarang, siapa yang paling cantik di sini?",
+      "PORTUGUESE": "Agora, quem vocês acham que é a mais bonita aqui?",
+      "RUSSIAN": "Теперь, кто, по-твоему, самая красивая здесь?",
+      "FRENCH": "Et maintenant, qui est la plus belle ici ?",
+      "THAI": "แล้วคิดว่าใครสวยที่สุดในนี้ล่ะ?",
+      "PERSIAN": "حالا به نظر شما زیباترین اینجا کیه؟"
+    },
+    "TIME": {
+      "SHOW": 50.5,
+      "HIDE": 52.3
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "하나 둘 셋",
+      "ENGLISH": "One, two, three!",
+      "CHINESE_SIMPLIFIED": "一 二 三",
+      "CHINESE_TRADITIONAL": "一 二 三",
+      "JAPANESE": "せーの",
+      "INDONESIAN": "Satu, dua, tiga!",
+      "PORTUGUESE": "Um, dois, três!",
+      "RUSSIAN": "Раз, два, три!",
+      "FRENCH": "Un, deux, trois !",
+      "THAI": "หนึ่ง สอง สาม!",
+      "PERSIAN": "One, two, three!"
+    },
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.1
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "나!",
+      "ENGLISH": "Me!",
+      "CHINESE_SIMPLIFIED": "我",
+      "CHINESE_TRADITIONAL": "我",
+      "JAPANESE": "私！",
+      "INDONESIAN": "Aku!",
+      "PORTUGUESE": "Eu!",
+      "RUSSIAN": "Я!",
+      "FRENCH": "Moi !",
+      "THAI": "ฉัน!",
+      "PERSIAN": "من!"
+    },
+    "TIME": {
+      "SHOW": 53.1,
+      "HIDE": 53.8
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "나.. / 뭐야?",
+      "ENGLISH": "Me...? / Wait, what?",
+      "CHINESE_SIMPLIFIED": "我",
+      "CHINESE_TRADITIONAL": "我",
+      "JAPANESE": "私… / え？",
+      "INDONESIAN": "Aku...? / Tunggu, apa?",
+      "PORTUGUESE": "Eu...? / Espera, quê?",
+      "RUSSIAN": "Я...? / Подождите, что?",
+      "FRENCH": "Moi...? / Attendez, quoi ?",
+      "THAI": "ฉัน...? / เดี๋ยวนะ อะไรนะ?",
+      "PERSIAN": "من...؟ / صبر کن چی؟"
+    },
+    "TIME": {
+      "SHOW": 54.0,
+      "HIDE": 55.9
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야? 우리 왜이렇게 잘 맞아?",
+      "ENGLISH": "What is this? Why are we so in sync today?",
+      "CHINESE_SIMPLIFIED": "怎么这么默契？",
+      "CHINESE_TRADITIONAL": "怎麼這麼默契？",
+      "JAPANESE": "え、何で？私たち、めっちゃ息合ってない？",
+      "INDONESIAN": "Apa ini? Kok kita kompak banget hari ini?",
+      "PORTUGUESE": "O que é isso? Por que estamos tão em sintonia hoje?",
+      "RUSSIAN": "Что это? Почему мы сегодня так синхронны?",
+      "FRENCH": "C’est quoi ça ? Pourquoi on est tellement synchronisés aujourd’hui ?",
+      "THAI": "นี่มันอะไรกัน? ทำไมพวกเราถึงเข้าขากันขนาดนี้วันนี้?",
+      "PERSIAN": "این چیه؟ چرا امروز اینقدر هماهنگ هستیم؟"
+    },
+    "TIME": {
+      "SHOW": 56.7,
+      "HIDE": 58.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "목도 마르고 한데, 술이나 한 잔 할까요?",
+      "ENGLISH": "I’m thirsty... how about we grab some drinks?",
+      "CHINESE_SIMPLIFIED": "有点渴了, 咱们喝一杯吧？",
+      "CHINESE_TRADITIONAL": "有點渴了, 咱們喝一杯吧？",
+      "JAPANESE": "喉乾いたし、みんなでお酒でも飲む？",
+      "INDONESIAN": "Aku haus... gimana kalau kita ambil minum?",
+      "PORTUGUESE": "Tô com sede... que tal pegarmos umas bebidas?",
+      "RUSSIAN": "Я хочу пить... как насчёт того, чтобы взять что-нибудь выпить?",
+      "FRENCH": "J’ai soif... et si on allait boire un coup ?",
+      "THAI": "ฉันหิวน้ำ... ไปหาอะไรกินกันไหม?",
+      "PERSIAN": "من تشنه ام... چطور می شود نوشیدنی بخوریم؟"
+    },
+    "TIME": {
+      "SHOW": 60.0,
+      "HIDE": 62.5
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "그럴까?",
+      "ENGLISH": "Sounds good to me!",
+      "CHINESE_SIMPLIFIED": "走吧？",
+      "CHINESE_TRADITIONAL": "走吧？",
+      "JAPANESE": "そうしようか？",
+      "INDONESIAN": "Setuju banget!",
+      "PORTUGUESE": "Boa ideia!",
+      "RUSSIAN": "Отличная идея!",
+      "FRENCH": "Ça me va !",
+      "THAI": "ดีเลย!",
+      "PERSIAN": "به نظر من خوب است!"
+    },
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 64.0
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "테라스?",
+      "ENGLISH": "The terrace?",
+      "CHINESE_SIMPLIFIED": "露台？",
+      "CHINESE_TRADITIONAL": "露臺？",
+      "JAPANESE": "テラスで？",
+      "INDONESIAN": "Di teras?",
+      "PORTUGUESE": "No terraço?",
+      "RUSSIAN": "На террасу?",
+      "FRENCH": "Sur la terrasse ?",
+      "THAI": "ระเบียง?",
+      "PERSIAN": "تراس؟"
+    },
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 65.0
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "좋아요!",
+      "ENGLISH": "Perfect!",
+      "CHINESE_SIMPLIFIED": "好呀！",
+      "CHINESE_TRADITIONAL": "好呀！",
+      "JAPANESE": "いいね！",
+      "INDONESIAN": "Pas banget!",
+      "PORTUGUESE": "Perfeito!",
+      "RUSSIAN": "Идеально!",
+      "FRENCH": "Parfait !",
+      "THAI": "สมบูรณ์แบบ!",
+      "PERSIAN": "کامل!"
+    },
+    "TIME": {
+      "SHOW": 65.0,
+      "HIDE": 65.9
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "야. 넌 3잔만 마셔.",
+      "ENGLISH": "Hey, you’re only having three drinks.",
+      "CHINESE_SIMPLIFIED": "喂, 你只能喝三杯",
+      "CHINESE_TRADITIONAL": "喂, 你只能喝三杯",
+      "JAPANESE": "ちょっと、あんたは3杯までにしなさいよ。",
+      "INDONESIAN": "Hei, kamu minum tiga gelas saja.",
+      "PORTUGUESE": "Ei, são só três bebidas, tá?",
+      "RUSSIAN": "Эй, только три напитка.",
+      "FRENCH": "Hé, seulement trois boissons.",
+      "THAI": "เฮ้ แค่สามแก้วเท่านั้นนะ",
+      "PERSIAN": "هی، شما فقط سه نوشیدنی می خورید."
+    },
+    "TIME": {
+      "SHOW": 65.9,
+      "HIDE": 67.3
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "아.. 왜~",
+      "ENGLISH": "Oh... why?",
+      "CHINESE_SIMPLIFIED": "哼...为什么？",
+      "CHINESE_TRADITIONAL": "哼...爲什麼？",
+      "JAPANESE": "え～、なんで～",
+      "INDONESIAN": "Oh... kenapa?",
+      "PORTUGUESE": "Ah... por quê?",
+      "RUSSIAN": "О... почему?",
+      "FRENCH": "Oh... pourquoi ?",
+      "THAI": "โอ้... ทำไมล่ะ?",
+      "PERSIAN": "اوه... چرا؟"
+    },
+    "TIME": {
+      "SHOW": 67.3,
+      "HIDE": 68.6
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "뭔데...?",
+      "ENGLISH": "Ah, come on, why?",
+      "CHINESE_SIMPLIFIED": "搞什么...？",
+      "CHINESE_TRADITIONAL": "搞什麼...？",
+      "JAPANESE": "何だ…？",
+      "INDONESIAN": "Ah, ayolah, kenapa?",
+      "PORTUGUESE": "Ah, vamos, por quê?",
+      "RUSSIAN": "Ах, ну да ладно, почему?",
+      "FRENCH": "Ah, mais pourquoi ?",
+      "THAI": "โอ๊ย ทำไมล่ะ?",
+      "PERSIAN": "آه، بیا، چرا؟"
+    },
+    "TIME": {
+      "SHOW": 69.0,
+      "HIDE": 69.6
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 술 배워볼래요?",
+      "ENGLISH": "Want to learn how to handle your drinks tonight?",
+      "CHINESE_SIMPLIFIED": "你今天想学喝酒吗？",
+      "CHINESE_TRADITIONAL": "你今天想學喝酒嗎？",
+      "JAPANESE": "今日、お酒の飲み方を教えてあげますね。",
+      "INDONESIAN": "Kamu mau belajar cara minum malam ini?",
+      "PORTUGUESE": "Quer aprender a segurar sua bebida hoje?",
+      "RUSSIAN": "Хочешь научиться держать алкоголь сегодня вечером?",
+      "FRENCH": "Tu veux apprendre à tenir l’alcool ce soir ?",
+      "THAI": "อยากเรียนรู้วิธีดื่มเก่งๆ คืนนี้ไหมล่ะ?",
+      "PERSIAN": "می خواهید یاد بگیرید که چگونه نوشیدنی های خود را امشب مدیریت کنید؟"
+    },
+    "TIME": {
+      "SHOW": 70.1,
+      "HIDE": 71.7
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "밖에 추우니깐 점퍼나 하나 걸치고 나오자.",
+      "ENGLISH": "It’s cold out, let’s grab a jacket and head out.",
+      "CHINESE_SIMPLIFIED": "外面有点冷去拿个毯子吧",
+      "CHINESE_TRADITIONAL": "外面有點冷去拿個毯子吧",
+      "JAPANESE": "寒いから、ジャケット羽織って外出よう。",
+      "INDONESIAN": "Di luar dingin, ayo ambil jaket dulu terus keluar.",
+      "PORTUGUESE": "Tá frio lá fora, vamos pegar um casaco e sair.",
+      "RUSSIAN": "Холодно, возьмём куртку и выйдем.",
+      "FRENCH": "Il fait froid, prenons une veste et sortons.",
+      "THAI": "อากาศหนาว เอาเสื้อแจ็คเก็ตไปด้วยแล้วออกไปกันเถอะ",
+      "PERSIAN": "بیرون سرد است، بیایید یک ژاکت برداریم و برویم بیرون."
+    },
+    "TIME": {
+      "SHOW": 73.5,
+      "HIDE": 76.2
+    }
+  }
+]

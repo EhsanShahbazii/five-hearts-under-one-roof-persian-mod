@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Uh...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ...",
+      "PERSIAN": "Uh..."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "엉덩이?",
+      "ENGLISH": "Your butt?",
+      "CHINESE_SIMPLIFIED": "屁股?",
+      "CHINESE_TRADITIONAL": "屁股?",
+      "JAPANESE": "お尻？",
+      "INDONESIAN": "Bokong kamu?",
+      "PORTUGUESE": "Seu bumbum?",
+      "RUSSIAN": "На попе?",
+      "FRENCH": "Sur tes fesses ?",
+      "THAI": "ตรงก้นเหรอ?",
+      "PERSIAN": "باسنت؟"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "맞아! 역시 오빠 날 기억하고 있었어!",
+      "ENGLISH": "Right! See, oppa remembers!",
+      "CHINESE_SIMPLIFIED": "对!我就知道哥哥你肯定记得!",
+      "CHINESE_TRADITIONAL": "對!我就知道哥哥你肯定記得!",
+      "JAPANESE": "そうそう！やっぱりお兄ちゃん、さすがだわ！",
+      "INDONESIAN": "Benar! Tuh kan, oppa masih ingat!",
+      "PORTUGUESE": "Isso mesmo! Tá vendo, oppa lembra!",
+      "RUSSIAN": "Точно! Видишь, оппа помнит!",
+      "FRENCH": "Exactement ! Tu vois, oppa s’en souvient !",
+      "THAI": "ใช่เลย! เห็นไหม อปป้าจำได้!",
+      "PERSIAN": "درسته! ببین یومان یادش میاد!"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.7
+    }
+  }
+]

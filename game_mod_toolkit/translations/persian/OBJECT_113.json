@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍...",
+      "ENGLISH": "Ming-Ming...",
+      "CHINESE_SIMPLIFIED": "敏敏",
+      "CHINESE_TRADITIONAL": "敏敏",
+      "JAPANESE": "ミンミン…",
+      "INDONESIAN": "Ming-Ming...",
+      "PORTUGUESE": "Ming-Ming...",
+      "RUSSIAN": "Мин-Мин... ",
+      "FRENCH": "Ming-Ming...",
+      "THAI": "หมิง-หมิง...",
+      "PERSIAN": "مینگ مینگ..."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 면접...",
+      "ENGLISH": "Cheer me on",
+      "CHINESE_SIMPLIFIED": "今天面试",
+      "CHINESE_TRADITIONAL": "今天面試",
+      "JAPANESE": "今日の面接…",
+      "INDONESIAN": "Semangatin aku, dong",
+      "PORTUGUESE": "Me dá uma força",
+      "RUSSIAN": "Поддержи меня,",
+      "FRENCH": "Encourage-moi,",
+      "THAI": "ช่วยเชียร์หน่อย",
+      "PERSIAN": "تشویقم کن"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "잘 볼 수 있게..",
+      "ENGLISH": "So I can do well",
+      "CHINESE_SIMPLIFIED": "祝我",
+      "CHINESE_TRADITIONAL": "祝我",
+      "JAPANESE": "うまくいくように…",
+      "INDONESIAN": "Biar aku bisa lancar",
+      "PORTUGUESE": "Pra eu mandar bem",
+      "RUSSIAN": "чтобы я хорошо справился",
+      "FRENCH": "pour que je réussisse",
+      "THAI": "ฉันจะได้ทำได้ดี",
+      "PERSIAN": "بنابراین من می توانم به خوبی انجام دهم"
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "꼭! 응원해줘!",
+      "ENGLISH": "In the interview",
+      "CHINESE_SIMPLIFIED": "好运吧！",
+      "CHINESE_TRADITIONAL": "好運吧！",
+      "JAPANESE": "応援してね！",
+      "INDONESIAN": "Waktu wawancara nanti",
+      "PORTUGUESE": "Na entrevista",
+      "RUSSIAN": "на интервью.",
+      "FRENCH": "mon entretien.",
+      "THAI": "ในการสัมภาษณ์",
+      "PERSIAN": "در مصاحبه"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.8
+    }
+  }
+]

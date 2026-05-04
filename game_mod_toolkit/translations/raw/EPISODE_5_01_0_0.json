@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "원래 하숙하면 주인이 다 하는 거야!",
+      "ENGLISH": "When you stay at a boarding house, the owner does everything!",
+      "CHINESE_SIMPLIFIED": "本来这些事都是合租房主人负责的!",
+      "CHINESE_TRADITIONAL": "本來這些事都是合租房主人負責的!",
+      "JAPANESE": "普通は、下宿だと家事は全部オーナーがやるのが当たり前でしょ？",
+      "INDONESIAN": "Kalau tinggal di rumah kos, pemilik yang ngurus semuanya!",
+      "PORTUGUESE": "Quando você fica em uma pensão, o dono faz tudo!",
+      "RUSSIAN": "Когда живёшь в пансионате, хозяин делает всё!",
+      "FRENCH": "Quand on est en pension, le propriétaire fait tout !",
+      "THAI": "ถ้าอยู่บ้านพัก เจ้าของจะทำทุกอย่าง!"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 내는 돈에 다 포함되어있는 거라니까?",
+      "ENGLISH": "That's included in the rent we pay!",
+      "CHINESE_SIMPLIFIED": "这都包含在房租里的!",
+      "CHINESE_TRADITIONAL": "這都包含在房租裏的!",
+      "JAPANESE": "私たちが払ってる金に全部含まれてるのよ。",
+      "INDONESIAN": "Itu sudah termasuk dalam biaya sewa!",
+      "PORTUGUESE": "Isso já tá incluído no aluguel!",
+      "RUSSIAN": "Это входит в стоимость, которую мы платим!",
+      "FRENCH": "C’est inclus dans le loyer qu’on paie !",
+      "THAI": "รวมอยู่ในค่าเช่าที่เราจ่าย!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "다시 말하지만, 넌 돈을 안 냈잖아...",
+      "ENGLISH": "Just to remind you, you didn’t pay anything...",
+      "CHINESE_SIMPLIFIED": "提醒一下，你可没交房租…",
+      "CHINESE_TRADITIONAL": "提醒一下，你可沒交房租…",
+      "JAPANESE": "もう一度言うけど、お前はその金払ってないよな…",
+      "INDONESIAN": "Sekadar ngingetin, kamu gak bayar apa-apa...",
+      "PORTUGUESE": "Só pra te lembrar, você não pagou nada...",
+      "RUSSIAN": "Напоминаю, ты ничего не платил...",
+      "FRENCH": "Pour rappel, toi, tu n’as rien payé...",
+      "THAI": "เตือนหน่อยว่า เธอยังไม่ได้จ่ายอะไรเลยนะ..."
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "일단 얘네부터 다 개어놔.",
+      "ENGLISH": "Start by folding these.",
+      "CHINESE_SIMPLIFIED": "先把这些叠起来吧",
+      "CHINESE_TRADITIONAL": "先把這些疊起來吧",
+      "JAPANESE": "とりあえず、これ全部たたんどけよ。",
+      "INDONESIAN": "Mulai dari lipat baju ini.",
+      "PORTUGUESE": "Começa dobrando essas roupas.",
+      "RUSSIAN": "Начни с того, что сложи это.",
+      "FRENCH": "Commence par plier ça.",
+      "THAI": "เริ่มจากพับพวกนี้ก่อน"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.2
+    }
+  }
+]

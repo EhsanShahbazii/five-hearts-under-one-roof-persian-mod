@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "빠세~",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "走你!",
+      "CHINESE_TRADITIONAL": "走你!",
+      "JAPANESE": "バシッ！",
+      "INDONESIAN": "Oke, sip!",
+      "PORTUGUESE": "Entendi!",
+      "RUSSIAN": "Поняла!",
+      "FRENCH": "C’est bon !",
+      "THAI": "เข้าใจแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 고말숙~ 왜 이렇게 기운이 없어...",
+      "ENGLISH": "Hey, Go Mal-sook, why do you look so down?",
+      "CHINESE_SIMPLIFIED": "高末淑你怎么无精打采的…",
+      "CHINESE_TRADITIONAL": "高末淑你怎麼無精打采的…",
+      "JAPANESE": "あれ？マルスク。何か、元気ないな…",
+      "INDONESIAN": "Hey, Go Mal-sook, kenapa kelihatan murung?",
+      "PORTUGUESE": "Ei, Go Mal-sook, por que parece tão pra baixo?",
+      "RUSSIAN": "Эй, Го Мал-Сук, почему ты выглядишь такой подавленной?",
+      "FRENCH": "Hé, Go Mal-sook, pourquoi tu as l’air si abattue ?",
+      "THAI": "เฮ้ โก มัลซุก ทำไมเธอดูเศร้าจัง?"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "됐어~ ",
+      "ENGLISH": "I said it's nothing.",
+      "CHINESE_SIMPLIFIED": "没事~",
+      "CHINESE_TRADITIONAL": "沒事~",
+      "JAPANESE": "別に。",
+      "INDONESIAN": "Aku bilang nggak ada apa-apa.",
+      "PORTUGUESE": "Eu já disse, não é nada.",
+      "RUSSIAN": "Я же сказала, ничего.",
+      "FRENCH": "J’ai dit que c’est rien.",
+      "THAI": "ฉันบอกว่าไม่มีอะไร"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "프린트하러 온 거잖아. 그거나 줘.",
+      "ENGLISH": "I'm just here to print something. Hand it over.",
+      "CHINESE_SIMPLIFIED": "你不是过来打印的吗? 给我吧",
+      "CHINESE_TRADITIONAL": "你不是過來打印的嗎? 給我吧",
+      "JAPANESE": "プリントしに来たんでしょ？ちょうだい。",
+      "INDONESIAN": "Aku cuma mau cetak sesuatu. Berikan sini.",
+      "PORTUGUESE": "Só vim imprimir algo. Me dá aqui.",
+      "RUSSIAN": "Я просто пришла что-то распечатать. Дай сюда.",
+      "FRENCH": "Je suis juste venue pour imprimer quelque chose. Passe-moi ça.",
+      "THAI": "ฉันแค่มาปริ๊นต์เอกสาร ยื่นมาสิ"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "자.",
+      "ENGLISH": "Here!",
+      "CHINESE_SIMPLIFIED": "给",
+      "CHINESE_TRADITIONAL": "給",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Ini!",
+      "PORTUGUESE": "Aqui está!",
+      "RUSSIAN": "Вот!",
+      "FRENCH": "Tiens !",
+      "THAI": "นี่!"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.6
+    }
+  }
+]

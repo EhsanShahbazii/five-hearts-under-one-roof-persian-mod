@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 솔직하게요?",
+      "ENGLISH": "Honestly?",
+      "CHINESE_SIMPLIFIED": "您真想知道?",
+      "CHINESE_TRADITIONAL": "您真想知道?",
+      "JAPANESE": "本当に、正直に言いますけど",
+      "INDONESIAN": "Jujur?",
+      "PORTUGUESE": "Sinceramente?",
+      "RUSSIAN": "Честно?",
+      "FRENCH": "Honnêtement ?",
+      "THAI": "จริงๆ นะ?",
+      "PERSIAN": "راستش؟"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아니 난 한낱 경비일 뿐인데 말 못 할 게 뭡니까.",
+      "ENGLISH": "Come on, I'm just a security guard. You can tell me.",
+      "CHINESE_SIMPLIFIED": "我就是一保安，有什么不能说的",
+      "CHINESE_TRADITIONAL": "我就是一保安，有什麼不能說的",
+      "JAPANESE": "この会社の警備員なんだから、隠さず話してくださいよ！",
+      "INDONESIAN": "Ayolah, aku kan cuma satpam. Kamu bisa cerita.",
+      "PORTUGUESE": "Vamos lá, sou só um segurança. Você pode me contar.",
+      "RUSSIAN": "Да ладно, я ведь просто охранник. Ты можешь мне сказать.",
+      "FRENCH": "Allez, je ne suis qu’un simple agent de sécurité. Tu peux tout me dire.",
+      "THAI": "เฮ้ ผมเป็นแค่ รปภ. เอง คุณบอกผมได้",
+      "PERSIAN": "بیا، من فقط یک نگهبان هستم. می توانید به من بگویید."
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "전... 동 과장님 몸매가...",
+      "ENGLISH": "It's... Manager Dong's figure...",
+      "CHINESE_SIMPLIFIED": "要我说，佟科长的身材…实在是…",
+      "CHINESE_TRADITIONAL": "要我說，佟科長的身材…實在是…",
+      "JAPANESE": "ドン課長のスタイルが…",
+      "INDONESIAN": "Itu... postur tubuh Manajer Dong...",
+      "PORTUGUESE": "É que... a forma do Gerente Dong...",
+      "RUSSIAN": "Это... фигура Менеджера Дона...",
+      "FRENCH": "C’est... la silhouette de Manager Dong...",
+      "THAI": "ก็... หุ่นของผู้จัดการดงน่ะสิ...",
+      "PERSIAN": "این ... شکل مدیر دونگ ..."
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 장난 아니거든요.",
+      "ENGLISH": "It's really something.",
+      "CHINESE_SIMPLIFIED": "真不是盖的!",
+      "CHINESE_TRADITIONAL": "真不是蓋的!",
+      "JAPANESE": "結構、すごいんですよ。",
+      "INDONESIAN": "Benar-benar luar biasa.",
+      "PORTUGUESE": "É realmente algo.",
+      "RUSSIAN": "Она просто впечатляет.",
+      "FRENCH": "Elle est vraiment impressionnante.",
+      "THAI": "มันน่าทึ่งจริงๆ",
+      "PERSIAN": "این واقعا چیزی است."
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아... / 맨날 봐도 깜짝깜짝 놀랍니다.",
+      "ENGLISH": "Oh... / I'm always surprised, no matter how often I see them.",
+      "CHINESE_SIMPLIFIED": "呵… / 我每次看都会忍不住感叹!",
+      "CHINESE_TRADITIONAL": "呵… / 我每次看都會忍不住感嘆!",
+      "JAPANESE": "ああ… / いつもびっくりします。",
+      "INDONESIAN": "Oh... / Aku selalu terkejut, berapa kali pun aku melihatnya.",
+      "PORTUGUESE": "Oh... / Sempre me surpreendo, não importa quantas vezes eu veja.",
+      "RUSSIAN": "Ох... / Я каждый раз удивляюсь, сколько бы раз ни видел(а).",
+      "FRENCH": "Oh... / Ça me surprend toujours, même après l’avoir vue souvent.",
+      "THAI": "โอ้... / เห็นกี่ครั้งก็ยังตกใจตลอดเลย",
+      "PERSIAN": "آه... / من همیشه تعجب می کنم، مهم نیست هر چند وقت یکبار اونا رو می بینم."
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "알겠어요.",
+      "ENGLISH": "Alright, alright.",
+      "CHINESE_SIMPLIFIED": "行了别说了",
+      "CHINESE_TRADITIONAL": "行了別說了",
+      "JAPANESE": "あ、そうなんだね。",
+      "INDONESIAN": "Oke, oke.",
+      "PORTUGUESE": "Certo, certo.",
+      "RUSSIAN": "Ладно-ладно.",
+      "FRENCH": "Bon, bon.",
+      "THAI": "โอเคๆ",
+      "PERSIAN": "باشه، باشه"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "거 동 과장 부모가 들으면 기분 나쁘겠구만",
+      "ENGLISH": "Let's stop here, it wouldn't be polite",
+      "CHINESE_SIMPLIFIED": "这话要是让佟科长父母",
+      "CHINESE_TRADITIONAL": "這話要是讓佟科長父母",
+      "JAPANESE": "これ、ドン課長のご両親が聞いたら怒られるだろうね。",
+      "INDONESIAN": "Kita berhenti sampai di sini, nggak sopan kalau",
+      "PORTUGUESE": "Vamos parar por aqui, não seria educado",
+      "RUSSIAN": "Давай на этом остановимся, будет невежливо,",
+      "FRENCH": "Arrêtons-nous là, ce ne serait pas très poli",
+      "THAI": "พอแค่นี้ดีกว่า เดี๋ยวไม่สุภาพ",
+      "PERSIAN": "بیایید در اینجا توقف کنیم، این مودبانه نخواهد بود"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그만 얘기하세요.",
+      "ENGLISH": "If their parents overheard.",
+      "CHINESE_SIMPLIFIED": "听见肯定会觉得被冒犯",
+      "CHINESE_TRADITIONAL": "聽見肯定會覺得被冒犯",
+      "JAPANESE": "この話はもう終わり！",
+      "INDONESIAN": "Orang tua mereka mendengarnya.",
+      "PORTUGUESE": "Se os pais deles ouvissem.",
+      "RUSSIAN": "если родители это услышат.",
+      "FRENCH": "si ses parents entendaient ça.",
+      "THAI": "ถ้าพ่อแม่ของเธอได้ยินเข้า",
+      "PERSIAN": "اگر پدر و مادرشان شنیدند."
+    },
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.5
+    }
+  }
+]

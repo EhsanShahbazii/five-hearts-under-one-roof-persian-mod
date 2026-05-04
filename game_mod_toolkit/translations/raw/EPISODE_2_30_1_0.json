@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 그 반응은?",
+      "ENGLISH": "What’s with that reaction?",
+      "CHINESE_SIMPLIFIED": "你什么意思?",
+      "CHINESE_TRADITIONAL": "你什麼意思?",
+      "JAPANESE": "何その反応？",
+      "INDONESIAN": "Kenapa reaksimu gitu?",
+      "PORTUGUESE": "O que foi essa reação?",
+      "RUSSIAN": "Что с такой реакцией?",
+      "FRENCH": "Pourquoi tu réagis comme ça ?",
+      "THAI": "ทำไมต้องทำหน้าแบบนั้น?"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨아뇨...",
+      "ENGLISH": "No, no, no...",
+      "CHINESE_SIMPLIFIED": "啊，不是...",
+      "CHINESE_TRADITIONAL": "啊，不是...",
+      "JAPANESE": "いやいや…",
+      "INDONESIAN": "Nggak, nggak, nggak...",
+      "PORTUGUESE": "Não, não, não...",
+      "RUSSIAN": "Нет-нет...",
+      "FRENCH": "Non, non...",
+      "THAI": "ไม่ ๆ..."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "근데 저 사실 잘 몰라요!",
+      "ENGLISH": "Actually, I don't really get MBTI.",
+      "CHINESE_SIMPLIFIED": "我其实也不太了解MBTI。",
+      "CHINESE_TRADITIONAL": "我其實也不太瞭解MBTI。",
+      "JAPANESE": "実は、僕あんまり詳しくないんですよ！",
+      "INDONESIAN": "Sebenarnya, aku nggak terlalu paham soal MBTI.",
+      "PORTUGUESE": "Na verdade, eu não entendo muito sobre MBTI.",
+      "RUSSIAN": "На самом деле я не особо понимаю MBTI.",
+      "FRENCH": "En fait, je comprends pas vraiment le MBTI.",
+      "THAI": "จริง ๆ แล้ว ฉันไม่ค่อยเข้าใจเรื่อง MBTI หรอก"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "들어도 모를 거 MBTI 얘기는 왜 꺼낸 거야?",
+      "ENGLISH": "Then why’d you bring it up if you don’t get it?",
+      "CHINESE_SIMPLIFIED": "不了解你提这茬干吗?",
+      "CHINESE_TRADITIONAL": "不瞭解你提這茬幹嗎?",
+      "JAPANESE": "知らないくせに何でMBTIの話を振ったの？",
+      "INDONESIAN": "Terus kenapa kamu bawa-bawa kalau nggak paham?",
+      "PORTUGUESE": "Então por que trouxe isso se você não entende?",
+      "RUSSIAN": "Так зачем ты его вообще упомянул, если не разбираешься?",
+      "FRENCH": "Alors pourquoi t’en parles si tu comprends pas ?",
+      "THAI": "แล้วพูดขึ้นมาทำไมถ้าไม่เข้าใจ?"
+    },
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 어떤 걸 여쭤봐야 하나 해서요.",
+      "ENGLISH": "I was just wondering what to ask.",
+      "CHINESE_SIMPLIFIED": "我只是找个话题而已。",
+      "CHINESE_TRADITIONAL": "我只是找個話題而已。",
+      "JAPANESE": "ただ、何を聞けばいいのかなと思って。",
+      "INDONESIAN": "Aku cuma bingung mau nanya apa.",
+      "PORTUGUESE": "Eu só tava pensando no que perguntar.",
+      "RUSSIAN": "Просто думал, что спросить.",
+      "FRENCH": "Je me demandais juste quoi demander.",
+      "THAI": "ก็แค่ไม่รู้จะถามอะไรดี"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이상형은 어떻게 되세요?",
+      "ENGLISH": "What’s your ideal type?",
+      "CHINESE_SIMPLIFIED": "那您的理想型是什么样的呢?",
+      "CHINESE_TRADITIONAL": "那您的理想型是什麼樣的呢?",
+      "JAPANESE": "じゃあ、理想のタイプは何ですか？",
+      "INDONESIAN": "Tipe idealmu kayak gimana?",
+      "PORTUGUESE": "Qual é o seu tipo ideal?",
+      "RUSSIAN": "Какой у тебя идеальный тип?",
+      "FRENCH": "Quel est ton type idéal ?",
+      "THAI": "นายชอบคนแบบไหนเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이상형? ",
+      "ENGLISH": "Ideal type?",
+      "CHINESE_SIMPLIFIED": "理想型?",
+      "CHINESE_TRADITIONAL": "理想型?",
+      "JAPANESE": "理想のタイプ？",
+      "INDONESIAN": "Tipe ideal?",
+      "PORTUGUESE": "Tipo ideal?",
+      "RUSSIAN": "Идеальный тип?",
+      "FRENCH": "Type idéal ?",
+      "THAI": "ชอบแบบไหนนะ?"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨 지금 나랑 소개팅 해?",
+      "ENGLISH": "Yuman, are you trying to set me up?",
+      "CHINESE_SIMPLIFIED": "你这是在和我相亲吗?",
+      "CHINESE_TRADITIONAL": "你這是在和我相親嗎?",
+      "JAPANESE": "ユマンさん、今私とお見合いでもしてるの？",
+      "INDONESIAN": "Yuman, kamu mau jodohin aku, ya?",
+      "PORTUGUESE": "Yuman, você tá tentando me arranjar alguém?",
+      "RUSSIAN": "Юман, ты пытаешься меня с кем-то свести?",
+      "FRENCH": "Yuman, tu essaies de me caser avec quelqu’un ?",
+      "THAI": "ยูมัน นายพยายามจะหาคู่ให้ฉันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "제가 한번 맞춰 볼까요?",
+      "ENGLISH": "Let me guess!",
+      "CHINESE_SIMPLIFIED": "我来猜猜看吧？",
+      "CHINESE_TRADITIONAL": "我來猜猜看吧？",
+      "JAPANESE": "僕が当ててみましょうか？",
+      "INDONESIAN": "Biar aku tebak!",
+      "PORTUGUESE": "Deixa eu adivinhar!",
+      "RUSSIAN": "Дай угадаю!",
+      "FRENCH": "Laisse-moi deviner !",
+      "THAI": "ให้ฉันเดานะ!"
+    },
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.0
+    }
+  }
+]

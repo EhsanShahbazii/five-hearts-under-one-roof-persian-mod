@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "은비가 집에 왔어용~",
+      "ENGLISH": "Eun-bi's home~",
+      "CHINESE_SIMPLIFIED": "恩妃到家咯~",
+      "CHINESE_TRADITIONAL": "恩妃到家咯~",
+      "JAPANESE": "ウンビが帰ってきたましたよ〜！",
+      "INDONESIAN": "Eun-bi sudah pulang~",
+      "PORTUGUESE": "Eun-bi chegou em casa~",
+      "RUSSIAN": "Ын-би дома~",
+      "FRENCH": "Eun-bi est rentrée~",
+      "THAI": "อึนบีกลับบ้านแล้ว~"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 씻고 자.",
+      "ENGLISH": "Go wash up and get some rest.",
+      "CHINESE_SIMPLIFIED": "赶紧洗洗睡吧",
+      "CHINESE_TRADITIONAL": "趕緊洗洗睡吧",
+      "JAPANESE": "早くお風呂入って寝な。",
+      "INDONESIAN": "Cuci muka dulu dan istirahat, ya.",
+      "PORTUGUESE": "Vai lavar o rosto e descansa um pouco.",
+      "RUSSIAN": "Иди помойся и отдохни.",
+      "FRENCH": "Va te laver et repose-toi.",
+      "THAI": "ไปล้างตัวแล้วพักผ่อนนะ"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "웅. 나 씻는다?",
+      "ENGLISH": "Okay~ I'm going to shower.",
+      "CHINESE_SIMPLIFIED": "嗯~那我去洗澡啦",
+      "CHINESE_TRADITIONAL": "嗯~那我去洗澡啦",
+      "JAPANESE": "うん。先に入ってくるね！",
+      "INDONESIAN": "Oke~ Aku mau mandi dulu.",
+      "PORTUGUESE": "Tá bom~ Vou tomar um banho.",
+      "RUSSIAN": "Окей~ Я иду в душ.",
+      "FRENCH": "D’accord~ Je vais prendre une douche.",
+      "THAI": "โอเค~ ฉันจะไปอาบน้ำ"
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저 잠시 시간 되세요?",
+      "ENGLISH": "Do you have a moment?",
+      "CHINESE_SIMPLIFIED": "请问您现在有空吗?",
+      "CHINESE_TRADITIONAL": "請問您現在有空嗎?",
+      "JAPANESE": "ちょっと、お時間ありますか？",
+      "INDONESIAN": "Kamu ada waktu sebentar?",
+      "PORTUGUESE": "Você tem um momento?",
+      "RUSSIAN": "У тебя есть минутка?",
+      "FRENCH": "Tu as un moment ?",
+      "THAI": "เธอมีเวลาสักนิดไหม?"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "哦...",
+      "CHINESE_TRADITIONAL": "哦...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh…",
+      "PORTUGUESE": "Ah…",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "อ้อ..."
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 얘기하자고 하셨죠?",
+      "ENGLISH": "You wanted to talk today.",
+      "CHINESE_SIMPLIFIED": "你说过今天想和我谈谈对吧?",
+      "CHINESE_TRADITIONAL": "你說過今天想和我談談對吧?",
+      "JAPANESE": "今日、話そうって言ってましたよね？",
+      "INDONESIAN": "Kamu mau bicara hari ini.",
+      "PORTUGUESE": "Você queria conversar hoje.",
+      "RUSSIAN": "Ты хотела поговорить сегодня.",
+      "FRENCH": "Tu voulais parler aujourd’hui.",
+      "THAI": "เธออยากคุยวันนี้ใช่ไหม"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.4
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙, 바다 도착했어!",
+      "ENGLISH": "Hey, Mal-sook, we’re at the beach!",
+      "CHINESE_SIMPLIFIED": "喂!高末淑，到海边了!",
+      "CHINESE_TRADITIONAL": "喂!高末淑，到海邊了!",
+      "JAPANESE": "おい、マルスク、海着いたぞ！",
+      "INDONESIAN": "Hei, Mal-sook, kita udah di pantai!",
+      "PORTUGUESE": "Ei, Mal-sook, estamos na praia!",
+      "RUSSIAN": "Эй, Мал-Сук, мы на пляже!",
+      "FRENCH": "Hé, Mal-sook, on est à la plage !",
+      "THAI": "เฮ้ มัลซุก, เรามาถึงชายหาดแล้ว!",
+      "PERSIAN": "هی، مال‌سوک، ما در ساحل هستیم!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙 빨리 일어나라고!",
+      "ENGLISH": "Hey, Mal-sook, wake up!",
+      "CHINESE_SIMPLIFIED": "喂!高末淑，快起来!",
+      "CHINESE_TRADITIONAL": "喂!高末淑，快起來!",
+      "JAPANESE": "おい、マルスク、早く起きろよ！",
+      "INDONESIAN": "Hei, Mal-sook, bangun!",
+      "PORTUGUESE": "Ei, Mal-sook, acorda!",
+      "RUSSIAN": "Эй, Мал-Сук, просыпайся!",
+      "FRENCH": "Hé, Mal-sook, réveille-toi !",
+      "THAI": "เฮ้ มัลซุก, ตื่นสิ!",
+      "PERSIAN": "هی، مال‌سوک، بیدار شو!"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 뭐 하냐?",
+      "ENGLISH": "What are you doing?",
+      "CHINESE_SIMPLIFIED": "你干嘛呢?",
+      "CHINESE_TRADITIONAL": "你幹嘛呢?",
+      "JAPANESE": "何してるの？",
+      "INDONESIAN": "Kamu lagi ngapain?",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "RUSSIAN": "Ты что делаешь?",
+      "FRENCH": "Qu’est-ce que tu fais ?",
+      "THAI": "ทำอะไรอยู่น่ะ?",
+      "PERSIAN": "What are you doing?"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "다 도착했어.",
+      "ENGLISH": "We've arrived.",
+      "CHINESE_SIMPLIFIED": "已经到海边啦",
+      "CHINESE_TRADITIONAL": "已經到海邊啦",
+      "JAPANESE": "もう着いたんだから",
+      "INDONESIAN": "Kita udah sampai.",
+      "PORTUGUESE": "Chegamos.",
+      "RUSSIAN": "Мы приехали.",
+      "FRENCH": "On est arrivés.",
+      "THAI": "เรามาถึงแล้ว",
+      "PERSIAN": "ما رسیدیم"
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 나와, 이제!",
+      "ENGLISH": "Come on, get up!",
+      "CHINESE_SIMPLIFIED": "赶紧出来吧!",
+      "CHINESE_TRADITIONAL": "趕緊出來吧!",
+      "JAPANESE": "早く出て来いって！",
+      "INDONESIAN": "Ayo, bangun!",
+      "PORTUGUESE": "Vamos, levanta!",
+      "RUSSIAN": "Давай, вставай!",
+      "FRENCH": "Allez, debout !",
+      "THAI": "ลุกขึ้นมาเลย!",
+      "PERSIAN": "بیا بلند شو"
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.0
+    }
+  }
+]

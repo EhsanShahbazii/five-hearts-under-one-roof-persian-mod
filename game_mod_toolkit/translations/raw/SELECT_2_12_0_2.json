@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "주문하시겠어요?",
+      "ENGLISH": "Would you like to order?",
+      "CHINESE_SIMPLIFIED": "我来帮您点单",
+      "CHINESE_TRADITIONAL": "我來幫您點單",
+      "JAPANESE": "ご注文はお決まりですか？",
+      "INDONESIAN": "Mau pesan sesuatu?",
+      "PORTUGUESE": "Gostaria de fazer um pedido?",
+      "RUSSIAN": "Хотите сделать заказ?",
+      "FRENCH": "Vous souhaitez commander ?",
+      "THAI": "ต้องการสั่งอาหารไหมครับ?"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어? 밍밍?",
+      "ENGLISH": "Wait, Ming-Ming?",
+      "CHINESE_SIMPLIFIED": "嗯?敏敏?",
+      "CHINESE_TRADITIONAL": "嗯?敏敏?",
+      "JAPANESE": "お？ミンミン？",
+      "INDONESIAN": "Tunggu, Ming-Ming?",
+      "PORTUGUESE": "Espera, Ming-Ming?",
+      "RUSSIAN": "Подождите, Мин-Мин?",
+      "FRENCH": "Attends, Ming-Ming ?",
+      "THAI": "เดี๋ยวก่อน, หมิงหมิง?"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.7
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "제 인생에서 제일 힘들 때 민정 님이 라이브하는 걸 봤어요.",
+      "ENGLISH": "When I was going through the hardest time in my life, I watched one of your live performances.",
+      "CHINESE_SIMPLIFIED": "在我人生最困难的时期，看到了你的视频",
+      "CHINESE_TRADITIONAL": "在我人生最困難的時期，看到了你的視頻",
+      "JAPANESE": "一番辛かった時、偶然ミンジョンさんがライブしているのを見たんです。",
+      "INDONESIAN": "Waktu aku melewati masa terberat dalam hidupku, aku menonton salah satu penampilan live-mu.",
+      "PORTUGUESE": "Quando eu estava passando pelo momento mais difícil da minha vida, assisti a uma das suas apresentações ao vivo.",
+      "RUSSIAN": "Когда я переживал(а) самый тяжёлый период в своей жизни, я посмотрел(а) одно из твоих живых выступлений.",
+      "FRENCH": "Quand je traversais le moment le plus difficile de ma vie, j’ai regardé un de tes concerts en live.",
+      "THAI": "ตอนที่ฉันผ่านช่วงเวลาที่ยากที่สุดในชีวิต ฉันได้ดูการแสดงสดของเธอ",
+      "PERSIAN": "زمانی که سخت ترین دوران زندگیم را سپری می کردم، یکی از اجراهای زنده شما را تماشا کردم."
+    },
+    "TIME": {
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 음정 박자 다 안 맞는데",
+      "ENGLISH": "To be honest, you were a little off-pitch and the rhythm wasn’t perfect",
+      "CHINESE_SIMPLIFIED": "你看起来很忙却又不知道在忙些什么",
+      "CHINESE_TRADITIONAL": "你看起來很忙卻又不知道在忙些什麼",
+      "JAPANESE": "正直、音程もリズムも全然合ってなかったけど",
+      "INDONESIAN": "Jujur saja, nada kamu agak fals dan ritmenya nggak sempurna,",
+      "PORTUGUESE": "Pra ser sincero, você estava um pouco fora de tom e o ritmo não era perfeito,",
+      "RUSSIAN": "Честно говоря, ты немного фальшивила, и ритм был неидеальным,",
+      "FRENCH": "Pour être honnête, tu étais un peu fausse et le rythme n’était pas parfait,",
+      "THAI": "พูดตรงๆ เลยว่า เธอร้องเพี้ยนไปนิดหน่อย แล้วจังหวะก็ไม่ได้เป๊ะ",
+      "PERSIAN": "صادقانه بگویم، شما کمی خارج از زمین بودید و ریتم اون عالی نبود"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "웃으면서 끝까지 무대하는 모습을 보고",
+      "ENGLISH": "But you smiled through the whole thing and finished strong.",
+      "CHINESE_SIMPLIFIED": "但你还是微笑着表演到最后",
+      "CHINESE_TRADITIONAL": "但你還是微笑着表演到最後",
+      "JAPANESE": "笑顔で最後までステージをやり遂げている姿を見て",
+      "INDONESIAN": "Tapi kamu tetap tersenyum sepanjang pertunjukan dan menyelesaikannya dengan kuat.",
+      "PORTUGUESE": "Mas você sorriu o tempo todo e terminou com força.",
+      "RUSSIAN": "но ты улыбалась всё время и закончила выступление с достоинством.",
+      "FRENCH": "mais tu as souri tout le long et tu as terminé avec brio.",
+      "THAI": "แต่เธอยิ้มตลอดการแสดงแล้วก็จบอย่างสวยงาม",
+      "PERSIAN": "اما تو با تمام وجود لبخند زدی و با قدرت تمام شدی."
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저도 저렇게 단단한 사람이고 싶다고 생각했어요.",
+      "ENGLISH": "Seeing that, I thought, ‘I want to be as strong as her.’",
+      "CHINESE_SIMPLIFIED": "当时我就想，我也要像她一样做个内核稳定的人",
+      "CHINESE_TRADITIONAL": "當時我就想，我也要像她一樣做個內核穩定的人",
+      "JAPANESE": "僕もあんなに強い人になりたいと思ったんです。",
+      "INDONESIAN": "Melihat itu, aku berpikir, ‘Aku ingin sekuat dia.’",
+      "PORTUGUESE": "Ao ver isso, pensei: ‘Quero ser tão forte quanto ela.’",
+      "RUSSIAN": "Когда я это увидел(а), я подумал(а): «Я хочу быть такой же сильной, как она».",
+      "FRENCH": "En voyant ça, je me suis dit : « Je veux être aussi fort(e) qu’elle. »",
+      "THAI": "พอเห็นแบบนั้น ฉันคิดว่า ‘ฉันอยากเข้มแข็งเหมือนเธอ’",
+      "PERSIAN": "با دیدن اون، فکر کردم، \"من می خواهم به اندازه او قوی باشم.\""
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그때부터 좋아한 거 같아요.",
+      "ENGLISH": "I think that’s when I started to like you.",
+      "CHINESE_SIMPLIFIED": "所以那时候我就开始喜欢你了",
+      "CHINESE_TRADITIONAL": "所以那時候我就開始喜歡你了",
+      "JAPANESE": "それから、僕はずっとミンジョンさんのことが好きなんです。",
+      "INDONESIAN": "Aku rasa saat itulah aku mulai menyukaimu.",
+      "PORTUGUESE": "Acho que foi aí que comecei a gostar de você.",
+      "RUSSIAN": "Думаю, именно тогда я начал(а) тебя любить.",
+      "FRENCH": "Je pense que c’est à ce moment-là que j’ai commencé à t’aimer.",
+      "THAI": "ฉันคิดว่าตอนนั้นแหละ ที่ฉันเริ่มชอบเธอ",
+      "PERSIAN": "فکر می کنم اون زمان بود که من شروع به دوست داشتن شما کردم."
+    },
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.5
+    }
+  }
+]

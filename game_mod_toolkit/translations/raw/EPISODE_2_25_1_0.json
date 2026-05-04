@@ -1,0 +1,306 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어.",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어? / 헉...! ",
+      "ENGLISH": "Huh?/Whoa...! ",
+      "CHINESE_SIMPLIFIED": "嗯?/哎?",
+      "CHINESE_TRADITIONAL": "嗯?/哎?",
+      "JAPANESE": "え？ / えっ…！",
+      "INDONESIAN": "Hah? / Wah...!",
+      "PORTUGUESE": "Hã? / Uau...!",
+      "RUSSIAN": "А? / Ух ты...!",
+      "FRENCH": "Hein ? / Whoa...!",
+      "THAI": "ห๊ะ? / โห...!"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "밍.....! 아니 민정 님?",
+      "ENGLISH": "Ming... No way, Min-jung?",
+      "CHINESE_SIMPLIFIED": "敏…! 敏静?",
+      "CHINESE_TRADITIONAL": "敏…! 敏靜?",
+      "JAPANESE": "ミン…！いや、ミンジョンさん？",
+      "INDONESIAN": "Ming... Nggak mungkin, Min-jung?",
+      "PORTUGUESE": "Ming... Não pode ser, Min-jung?",
+      "RUSSIAN": "Минг... Да не может быть, Мин-джун?",
+      "FRENCH": "Ming... Sérieux ? Min-jung ?",
+      "THAI": "หมิง... จริงเหรอ? มินจอง?"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님이 어떻게 여기에...",
+      "ENGLISH": "What are you doing here?",
+      "CHINESE_SIMPLIFIED": "你怎么在这啊?",
+      "CHINESE_TRADITIONAL": "你怎麼在這啊?",
+      "JAPANESE": "ミンジョンさんがどうしてここに…",
+      "INDONESIAN": "Kamu ngapain di sini?",
+      "PORTUGUESE": "O que você tá fazendo aqui?",
+      "RUSSIAN": "Что ты здесь делаешь?",
+      "FRENCH": "Qu’est-ce que tu fais ici ?",
+      "THAI": "มาทำอะไรที่นี่?"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저 이거 보고 왔는데요?",
+      "ENGLISH": "I came because of this.",
+      "CHINESE_SIMPLIFIED": "我是看了这个找过来的",
+      "CHINESE_TRADITIONAL": "我是看了這個找過來的",
+      "JAPANESE": "私、これを見て来たんですけど？",
+      "INDONESIAN": "Aku datang karena ini.",
+      "PORTUGUESE": "Vim por causa disso.",
+      "RUSSIAN": "Я пришёл из-за этого.",
+      "FRENCH": "Je suis venu à cause de ça.",
+      "THAI": "ฉันมาเพราะนี่"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저한테 쪽지 주셨잖아요.",
+      "ENGLISH": "You left me a note.",
+      "CHINESE_SIMPLIFIED": "你不是给了我一张纸条吗",
+      "CHINESE_TRADITIONAL": "你不是給了我一張紙條嗎",
+      "JAPANESE": "私にメモを渡してくれましたよね。",
+      "INDONESIAN": "Kamu tinggalkan catatan buat aku.",
+      "PORTUGUESE": "Você deixou um bilhete pra mim.",
+      "RUSSIAN": "Ты оставил мне записку.",
+      "FRENCH": "Tu m’as laissé un mot.",
+      "THAI": "นายทิ้งโน้ตไว้ให้ฉัน"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 그게...",
+      "ENGLISH": "Oh, that...",
+      "CHINESE_SIMPLIFIED": "啊这个…",
+      "CHINESE_TRADITIONAL": "啊這個…",
+      "JAPANESE": "あ、それが…",
+      "INDONESIAN": "Oh, itu...",
+      "PORTUGUESE": "Ah, isso...",
+      "RUSSIAN": "А, это...",
+      "FRENCH": "Ah, ça...",
+      "THAI": "อ๋อ นั่น..."
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "이게 좀 오해가 있는데.",
+      "ENGLISH": "There's been a misunderstanding.",
+      "CHINESE_SIMPLIFIED": "好像误会了",
+      "CHINESE_TRADITIONAL": "好像誤會了",
+      "JAPANESE": "ちょっと誤解がありまして。",
+      "INDONESIAN": "Ada kesalahpahaman.",
+      "PORTUGUESE": "Houve um mal-entendido.",
+      "RUSSIAN": "Это какое-то недоразумение.",
+      "FRENCH": "Il y a eu un malentendu.",
+      "THAI": "มันเป็นเรื่องเข้าใจผิดน่ะ"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "원래는 그게 아니라 다른 걸 드리려고 한 건데...",
+      "ENGLISH": "I meant to give you something else...",
+      "CHINESE_SIMPLIFIED": "本来我想给你的不是这个来着…",
+      "CHINESE_TRADITIONAL": "本來我想給你的不是這個來着…",
+      "JAPANESE": "本当は違うものを渡そうと思ってたんですけど…",
+      "INDONESIAN": "Aku sebenarnya mau kasih kamu sesuatu yang lain...",
+      "PORTUGUESE": "Eu queria te dar outra coisa...",
+      "RUSSIAN": "Я хотел передать тебе кое-что другое...",
+      "FRENCH": "Je voulais te donner autre chose...",
+      "THAI": "ฉันตั้งใจจะให้ของอย่างอื่น..."
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 24.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "หา?"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "설마...",
+      "ENGLISH": "No way...",
+      "CHINESE_SIMPLIFIED": "不会吧…",
+      "CHINESE_TRADITIONAL": "不會吧…",
+      "JAPANESE": "まさか…",
+      "INDONESIAN": "Nggak mungkin...",
+      "PORTUGUESE": "Não pode ser...",
+      "RUSSIAN": "Не может быть...",
+      "FRENCH": "Pas possible...",
+      "THAI": "ไม่นะ..."
+    },
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 29.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "과장님? 가신 거 아니었어요?",
+      "ENGLISH": "Manager? You didn’t leave yet?",
+      "CHINESE_SIMPLIFIED": "科长?您不是走了吗?",
+      "CHINESE_TRADITIONAL": "科長?您不是走了嗎?",
+      "JAPANESE": "課長？もう帰られたんじゃなかったんですか？",
+      "INDONESIAN": "Manajer? Kamu belum pulang?",
+      "PORTUGUESE": "Gerente? Você ainda não foi embora?",
+      "RUSSIAN": "Менеджер? Ты ещё не ушёл?",
+      "FRENCH": "Manager ? Vous n’êtes pas encore parti ?",
+      "THAI": "ผู้จัดการ? ยังไม่กลับอีกเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 32.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨.",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ユマンさん。",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "RUSSIAN": "Юман.",
+      "FRENCH": "Yuman.",
+      "THAI": "ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "설마 이거 여기야?",
+      "ENGLISH": "Is this really the place?",
+      "CHINESE_SIMPLIFIED": "这上面说的该不会就是这里吧?",
+      "CHINESE_TRADITIONAL": "這上面說的該不會就是這裏吧?",
+      "JAPANESE": "まさか、ここ…この場所ですか？",
+      "INDONESIAN": "Ini beneran tempatnya?",
+      "PORTUGUESE": "Este é realmente o lugar?",
+      "RUSSIAN": "Это точно то самое место?",
+      "FRENCH": "C’est vraiment ici ?",
+      "THAI": "นี่มันที่ที่เราต้องมาจริง ๆ ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "어? 맞는데요?",
+      "ENGLISH": "Huh? Yeah, it is.",
+      "CHINESE_SIMPLIFIED": "哦？是这里没错啊？",
+      "CHINESE_TRADITIONAL": "哦？是這裏沒錯啊？",
+      "JAPANESE": "はい、そうですけど...",
+      "INDONESIAN": "Hah? Iya, benar.",
+      "PORTUGUESE": "Hã? Sim, é.",
+      "RUSSIAN": "А? Да, оно.",
+      "FRENCH": "Hein ? Oui, c’est ici.",
+      "THAI": "ห๊ะ? ใช่ มันตรงนี้แหละ"
+    },
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 40.0
+    }
+  }
+]

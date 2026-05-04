@@ -1,0 +1,267 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 과, 과장님!",
+      "ENGLISH": "Uhm, manager!",
+      "CHINESE_SIMPLIFIED": "那个，科长",
+      "CHINESE_TRADITIONAL": "那個，科長",
+      "JAPANESE": "あの、か、課長！",
+      "INDONESIAN": "Uhm, Manajer!",
+      "PORTUGUESE": "Uhm, Gerente!",
+      "RUSSIAN": "Эм, менеджер!",
+      "FRENCH": "Euh, Manager !",
+      "THAI": "เอ่อ ผู้จัดการ!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "What is it now?",
+      "CHINESE_SIMPLIFIED": "什么事?",
+      "CHINESE_TRADITIONAL": "什麼事?",
+      "JAPANESE": "何？",
+      "INDONESIAN": "Ada apa lagi?",
+      "PORTUGUESE": "O que foi agora?",
+      "RUSSIAN": "Что теперь?",
+      "FRENCH": "Quoi encore ?",
+      "THAI": "อะไรอีกล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "과장님 스타킹 올 나갔는데요..",
+      "ENGLISH": "Your stocking has ruin in it...",
+      "CHINESE_SIMPLIFIED": "您的丝袜破洞了…",
+      "CHINESE_TRADITIONAL": "您的絲襪破洞了…",
+      "JAPANESE": "課長、ストッキングやぶれてますよ…",
+      "INDONESIAN": "Stokingmu rusak...",
+      "PORTUGUESE": "Sua meia-calça tá rasgada...",
+      "RUSSIAN": "У вас стрелка на чулке...",
+      "FRENCH": "Ton bas est filé...",
+      "THAI": "ถุงน่องของคุณขาด..."
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "헉! 아 뭐야!",
+      "ENGLISH": "What? Oh, come on!",
+      "CHINESE_SIMPLIFIED": "啊!真是的!",
+      "CHINESE_TRADITIONAL": "啊!真是的!",
+      "JAPANESE": "えっ！うそ！",
+      "INDONESIAN": "Apa? Aduh, masa sih!",
+      "PORTUGUESE": "O quê? Ah, não!",
+      "RUSSIAN": "Что? Да вы издеваетесь!",
+      "FRENCH": "Quoi ? Oh non, sérieux !",
+      "THAI": "หา? โธ่เอ๊ย!"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아씨 이따 발표 있는데!",
+      "ENGLISH": "I've got presentation later!",
+      "CHINESE_SIMPLIFIED": "一会儿还要开会呢！",
+      "CHINESE_TRADITIONAL": "一會兒還要開會呢！",
+      "JAPANESE": "まったく、後でプレゼンあるのに！",
+      "INDONESIAN": "Aku ada presentasi nanti!",
+      "PORTUGUESE": "Tenho uma apresentação mais tarde!",
+      "RUSSIAN": "У меня же презентация позже!",
+      "FRENCH": "J’ai une présentation tout à l’heure !",
+      "THAI": "เดี๋ยวฉันต้องพรีเซนต์งานนะ!"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 가서 스타킹 좀 사 와요.",
+      "ENGLISH": "Hey, Yuman, go buy me some stocking.",
+      "CHINESE_SIMPLIFIED": "吴宥万，去帮我买双丝袜回来",
+      "CHINESE_TRADITIONAL": "吳宥萬，去幫我買雙絲襪回來",
+      "JAPANESE": "ユマンさん、ストッキング買ってきてください。",
+      "INDONESIAN": "Hei, Yuman, tolong beliin aku stoking.",
+      "PORTUGUESE": "Ei, Yuman, vai comprar uma meia-calça pra mim.",
+      "RUSSIAN": "Эй, Юман, сбегай купи мне чулки.",
+      "FRENCH": "Hé, Yuman, va m’acheter des bas.",
+      "THAI": "ยูมัน ไปซื้อถุงน่องมาให้ฉันหน่อยสิ"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Чего?",
+      "FRENCH": "Pardon ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이따 미팅 때라도 갈아신게",
+      "ENGLISH": "Yeah, go get some stockings",
+      "CHINESE_SIMPLIFIED": "现在去买我还能",
+      "CHINESE_TRADITIONAL": "現在去買我還能",
+      "JAPANESE": "後でミーティングの時に履き替えられるように、",
+      "INDONESIAN": "Iya, pergi beli stoking",
+      "PORTUGUESE": "Sim, pega umas meias",
+      "RUSSIAN": "Да, сходи за чулками,",
+      "FRENCH": "Oui, va m’en chercher",
+      "THAI": "เออ รีบไปซื้อมาให้ฉันเปลี่ยนก่อนประชุม"
+    },
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "스타킹 좀 사 오라고요.",
+      "ENGLISH": "So I can change before the meeting.",
+      "CHINESE_SIMPLIFIED": "在开会前换上",
+      "CHINESE_TRADITIONAL": "在開會前換上",
+      "JAPANESE": "ストッキング買ってきてって言ってるんです。",
+      "INDONESIAN": "Biar aku bisa ganti sebelum rapat.",
+      "PORTUGUESE": "Pra eu trocar antes da reunião.",
+      "RUSSIAN": "чтобы я могла переодеться перед встречей.",
+      "FRENCH": "pour que je puisse me changer avant la réunion."
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Uh, alright!",
+      "CHINESE_SIMPLIFIED": "知道了…!",
+      "CHINESE_TRADITIONAL": "知道了…!",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Uh, baiklah!",
+      "PORTUGUESE": "Ah, tá bom!",
+      "RUSSIAN": "Эм... хорошо!",
+      "FRENCH": "Euh... d’accord !",
+      "THAI": "อ่า ได้ครับ!"
+    },
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.6
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "저... 과장님이 말씀하신 스타킹 사 왔는데요.",
+      "ENGLISH": "So... I got the stockings you asked, manager.",
+      "CHINESE_SIMPLIFIED": "科长，我买回来了。",
+      "CHINESE_TRADITIONAL": "科長，我買回來了。",
+      "JAPANESE": "あの…ストッキング、買ってきました。",
+      "INDONESIAN": "Jadi... Ini stoking yang kamu minta, Manajer.",
+      "PORTUGUESE": "Então... aqui estão as meias que você pediu, Gerente.",
+      "RUSSIAN": "Вот, я принёс чулки, как вы просили, менеджер.",
+      "FRENCH": "Alors... J’ai pris les bas que tu voulais, Manager.",
+      "THAI": "นี่ครับ ถุงน่องที่คุณให้ไปซื้อมา"
+    },
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 이렇게 많이 사 왔어?",
+      "ENGLISH": "Why'd you buy so many?",
+      "CHINESE_SIMPLIFIED": "你怎么买这么多啊?",
+      "CHINESE_TRADITIONAL": "你怎麼買這麼多啊?",
+      "JAPANESE": "何でこんなにたくさん？",
+      "INDONESIAN": "Kenapa kamu beli banyak banget?",
+      "PORTUGUESE": "Por que você comprou tantas?",
+      "RUSSIAN": "Зачем ты столько купил?",
+      "FRENCH": "Pourquoi t’en as acheté autant ?",
+      "THAI": "ทำไมซื้อมาเยอะขนาดนี้?"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "제가 스타킹을 잘 몰라서요.",
+      "ENGLISH": "I wasn't sure which ones to get, so I got a variety.",
+      "CHINESE_SIMPLIFIED": "我对丝袜不太了解，所以就都买了",
+      "CHINESE_TRADITIONAL": "我對絲襪不太瞭解，所以就都買了",
+      "JAPANESE": "僕ストッキングのことよく分からなくて…",
+      "INDONESIAN": "Aku nggak yakin harus beli yang mana, jadi aku pilih berbagai macam.",
+      "PORTUGUESE": "Eu não sabia qual escolher, então comprei várias.",
+      "RUSSIAN": "Я не знал, какие именно нужны, так что взял разные.",
+      "FRENCH": "Je savais pas lesquels choisir, alors j’ai pris plusieurs types.",
+      "THAI": "ผมไม่แน่ใจว่าจะเอาแบบไหน เลยซื้อมาหลายแบบ"
+    },
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "줘 봐요.",
+      "ENGLISH": "Just give them to me.",
+      "CHINESE_SIMPLIFIED": "给我吧",
+      "CHINESE_TRADITIONAL": "給我吧",
+      "JAPANESE": "ちょっと、見せて。",
+      "INDONESIAN": "Udah, kasih aja ke aku.",
+      "PORTUGUESE": "Só me dá elas logo.",
+      "RUSSIAN": "Просто отдай их мне.",
+      "FRENCH": "Donne-les-moi, juste.",
+      "THAI": "เอามาให้ฉันเถอะ"
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.0
+    }
+  }
+]

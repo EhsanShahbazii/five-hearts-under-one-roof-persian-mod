@@ -1,0 +1,221 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 날씨 진짜 좋다~ ",
+      "ENGLISH": "Wow, the weather’s perfect today…",
+      "CHINESE_SIMPLIFIED": "今天天气真好~",
+      "CHINESE_TRADITIONAL": "今天天氣真好~",
+      "JAPANESE": "今日、天気すごくいいね～",
+      "INDONESIAN": "Wah, cuacanya sempurna hari ini...",
+      "PORTUGUESE": "Uau, o tempo está perfeito hoje...",
+      "RUSSIAN": "Вау, сегодня такая чудесная погода…",
+      "FRENCH": "Waouh, le temps est parfait aujourd’hui…",
+      "THAI": "ว้าว อากาศดีสุดๆ วันนี้…",
+      "PERSIAN": "وای امروز هوا عالیه…"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 처음 만난 날에도",
+      "ENGLISH": "It was just as nice ",
+      "CHINESE_SIMPLIFIED": "我们第一次见面那天",
+      "CHINESE_TRADITIONAL": "我們第一次見面那天",
+      "JAPANESE": "私たちが初めて会った日も、",
+      "INDONESIAN": "Sama indahnya",
+      "PORTUGUESE": "Estava tão bom quanto",
+      "RUSSIAN": "В тот день, когда мы впервые встретились, ",
+      "FRENCH": "Il faisait tout aussi beau",
+      "THAI": "วันที่เราเจอกันครั้งแรกก็อากาศดีเหมือนกันใช่ไหม?",
+      "PERSIAN": "به همین خوبی بود"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "날씨 진짜 좋았는데, 기억나?",
+      "ENGLISH": "when we first met, right?",
+      "CHINESE_SIMPLIFIED": "天气也超好来着,记得吗？",
+      "CHINESE_TRADITIONAL": "天氣也超好來着,記得嗎？",
+      "JAPANESE": "天気すごく良かったよね、覚えてる？",
+      "INDONESIAN": "seperti waktu pertama kali kita bertemu, kan?",
+      "PORTUGUESE": "quando nos conhecemos pela primeira vez, certo?",
+      "RUSSIAN": "тоже было так же прекрасно, верно?",
+      "FRENCH": "quand on s’est rencontrés pour la première fois, non ?",
+      "PERSIAN": "وقتی برای اولین بار ملاقات کردیم، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "나 사실 그날 하루 종일 떨렸어.",
+      "ENGLISH": "Honestly, I was nervous all day that time. Do you remember that?",
+      "CHINESE_SIMPLIFIED": "其实我那天一整天都在紧张",
+      "CHINESE_TRADITIONAL": "其實我那天一整天都在緊張",
+      "JAPANESE": "実はあの日、一日中緊張してたんだ。",
+      "INDONESIAN": "Jujur saja, waktu itu aku gugup sepanjang hari. Kamu ingat itu?",
+      "PORTUGUESE": "Sinceramente, naquele dia eu fiquei nervoso o dia todo. Você se lembra disso?",
+      "RUSSIAN": "Честно говоря, я тогда весь день нервничал. Ты помнишь это?",
+      "FRENCH": "Honnêtement, j’étais nerveux toute la journée ce jour-là. Tu te souviens de ça ?",
+      "THAI": "พูดตรงๆ เลยนะ ตอนนั้นฉันตื่นเต้นทั้งวันเลย จำได้ไหม?",
+      "PERSIAN": "راستش را بخواهید اون زمان تمام روز عصبی بودم. اونو به خاطر دارید؟"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "티 하나도 안 났지?",
+      "ENGLISH": "Bet you couldn't tell, right?",
+      "CHINESE_SIMPLIFIED": "一点都看不出来吧?",
+      "CHINESE_TRADITIONAL": "一點都看不出來吧?",
+      "JAPANESE": "全然、そんな風に見えなかったでしょ？",
+      "INDONESIAN": "Pasti kamu nggak sadar, ya?",
+      "PORTUGUESE": "Aposto que você não percebeu, né?",
+      "RUSSIAN": "Спорю, ты даже не заметила, да?",
+      "FRENCH": "Tu paries que tu ne l’avais même pas remarqué, hein ?",
+      "THAI": "พนันได้เลยว่าคุณไม่รู้แน่ๆ ใช่ไหมล่ะ?",
+      "PERSIAN": "شرط می بندم نمی تونی بگی، درسته؟"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "떨렸어?",
+      "ENGLISH": "You were nervous?",
+      "CHINESE_SIMPLIFIED": "你紧张来着?",
+      "CHINESE_TRADITIONAL": "你緊張來着?",
+      "JAPANESE": "緊張してたの？",
+      "INDONESIAN": "Kamu gugup?",
+      "PORTUGUESE": "Você estava nervoso?",
+      "RUSSIAN": "Ты нервничал?",
+      "FRENCH": "Tu étais nerveux ?",
+      "THAI": "คุณตื่นเต้นเหรอ?",
+      "PERSIAN": "عصبی بودی؟"
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.75
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그럼~",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "对呀",
+      "CHINESE_TRADITIONAL": "對呀",
+      "JAPANESE": "もちろん～！",
+      "INDONESIAN": "Tentu saja!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "แน่นอนสิ!",
+      "PERSIAN": "الـ... البته که میشه!"
+    },
+    "TIME": {
+      "SHOW": 11.75,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "당연하지~",
+      "ENGLISH": "I was so nervous.",
+      "CHINESE_SIMPLIFIED": "我超紧张的~",
+      "CHINESE_TRADITIONAL": "我超緊張的~",
+      "JAPANESE": "当たり前じゃん～",
+      "INDONESIAN": "Aku sangat gugup.",
+      "PORTUGUESE": "Eu estava muito nervoso.",
+      "RUSSIAN": "Я так нервничал.",
+      "FRENCH": "J’étais tellement nerveux.",
+      "THAI": "ฉันตื่นเต้นมากเลย",
+      "PERSIAN": "خیلی عصبی بودم"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나 그래서 우리 오락실 갔을 때",
+      "ENGLISH": "So much so that when we hit up the arcade later.",
+      "CHINESE_SIMPLIFIED": "所以我们去游戏厅的时候",
+      "CHINESE_TRADITIONAL": "所以我們去遊戲廳的時候",
+      "JAPANESE": "だから、お兄ちゃんとゲームセンターに行った時",
+      "INDONESIAN": "Sampai-sampai waktu kita main di arcade nanti,",
+      "PORTUGUESE": "Tanto que, quando fomos ao arcade depois,",
+      "RUSSIAN": "Настолько, что когда мы потом пошли в игровой зал,",
+      "FRENCH": "Tellement que quand on est allés à la salle d’arcade après,",
+      "THAI": "จนตอนที่เราไปเล่นเกมที่อาเขตทีหลัง",
+      "PERSIAN": "به حدی که وقتی بعداً به آرکید رسیدیم."
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "내 실력 반의반도 못 보여줬잖아.",
+      "ENGLISH": "I couldn’t even show half my skills at the arcade.",
+      "CHINESE_SIMPLIFIED": "我的实力连四分之一都没发挥出来",
+      "CHINESE_TRADITIONAL": "我的實力連四分之一都沒發揮出來",
+      "JAPANESE": "実力の半分も見せられなかったんだから。",
+      "INDONESIAN": "Aku bahkan nggak bisa menunjukkan setengah dari kemampuanku.",
+      "PORTUGUESE": "Eu nem consegui mostrar metade das minhas habilidades lá.",
+      "RUSSIAN": "я даже не смог показать половины своих умений.",
+      "FRENCH": "je n’ai même pas pu montrer la moitié de mes talents.",
+      "THAI": "ฉันยังแสดงฝีมือออกมาได้ไม่ถึงครึ่งเลย",
+      "PERSIAN": "من حتی نمی توانستم نیمی از مهارت هایم را در آرکید نشان دهم."
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "우리 오락실 가서 뭐 했는지 기억나?",
+      "ENGLISH": "Do you remember what we did there?",
+      "CHINESE_SIMPLIFIED": "还记得我们去游戏厅都玩什么了吗?",
+      "CHINESE_TRADITIONAL": "還記得我們去遊戲廳都玩什麼了嗎?",
+      "JAPANESE": "私たち、ゲームセンターで何したか覚えてる？",
+      "INDONESIAN": "Kamu ingat apa yang kita lakukan di sana?",
+      "PORTUGUESE": "Você se lembra do que fizemos lá?",
+      "RUSSIAN": "Ты помнишь, чем мы там занимались?",
+      "FRENCH": "Tu te souviens de ce qu’on a fait là-bas ?",
+      "THAI": "คุณจำได้ไหมว่าเราทำอะไรกันที่นั่น?",
+      "PERSIAN": "یادت هست آنجا چه کردیم؟"
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.6
+    }
+  }
+]

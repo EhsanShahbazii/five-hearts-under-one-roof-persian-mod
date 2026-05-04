@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙~ 오늘은 지각 안 했어?",
+      "ENGLISH": "Hey, Go Mal-sook! Did you manage not to be late today?",
+      "CHINESE_SIMPLIFIED": "喂!高末淑~今天居然没迟到~",
+      "CHINESE_TRADITIONAL": "喂!高末淑~今天居然沒遲到~",
+      "JAPANESE": "おい、マルスク～、今日は遅刻しなかったんだ？",
+      "INDONESIAN": "Hey, ayo Go Mal-sook! Berhasil nggak telat hari ini?",
+      "PORTUGUESE": "Ei, vamos lá, Go Mal-sook! Conseguiu não se atrasar hoje?",
+      "RUSSIAN": "Эй, Го Мал-Сук! Ты сегодня не опоздала?",
+      "FRENCH": "Hé, Go Mal-sook ! T’as réussi à ne pas être en retard aujourd’hui ?",
+      "THAI": "เฮ้ โก มัลซุก! วันนี้เธอมาสายอีกหรือเปล่า?",
+      "PERSIAN": "هی، برو مال‌سوک! امروز موفق نشدی دیر نکنی؟"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왔어?",
+      "ENGLISH": "Are you here?",
+      "CHINESE_SIMPLIFIED": "来啦?",
+      "CHINESE_TRADITIONAL": "來啦?",
+      "JAPANESE": "やっほ～",
+      "INDONESIAN": "Kamu di sini?",
+      "PORTUGUESE": "Você está aqui?",
+      "RUSSIAN": "Ты здесь?",
+      "FRENCH": "Tu es là ?",
+      "THAI": "อยู่ไหมเนี่ย?",
+      "PERSIAN": "شما اینجا هستید؟"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.5
+    }
+  }
+]

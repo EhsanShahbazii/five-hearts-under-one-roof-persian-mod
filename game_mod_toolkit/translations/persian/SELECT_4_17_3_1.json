@@ -1,0 +1,262 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어? 근데 이거는 큰 우산이에요?",
+      "ENGLISH": "Huh? Is this a big umbrella?",
+      "CHINESE_SIMPLIFIED": "哎?不过这个是大雨伞吗?",
+      "CHINESE_TRADITIONAL": "哎?不過這個是大雨傘嗎?",
+      "JAPANESE": "これ、大きな傘ですか？",
+      "INDONESIAN": "Hah? Ini payung gede ya?",
+      "PORTUGUESE": "Hã? Isso é um guarda-chuva grande?",
+      "RUSSIAN": "А? Это большой зонт?",
+      "FRENCH": "Hein ? C’est un gros parapluie ?",
+      "THAI": "หืม? นี่คือล่มใหญ่ใช่ไหม?",
+      "PERSIAN": "ها؟ این یک چتر بزرگ است؟"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 이건 파라솔이라는 건데",
+      "ENGLISH": "Oh, it’s called a parasol! ",
+      "CHINESE_SIMPLIFIED": "这个叫遮阳伞",
+      "CHINESE_TRADITIONAL": "這個叫遮陽傘",
+      "JAPANESE": "あ、これはパラソルって言って",
+      "INDONESIAN": "Oh, ini namanya parasol!",
+      "PORTUGUESE": "Ah, se chama parasol!",
+      "RUSSIAN": "О, это называется зонтик!",
+      "FRENCH": "Oh, ça s’appelle un parasol !",
+      "THAI": "อ๋อ นี่เรียกว่าร่มกันแดด!",
+      "PERSIAN": "اوه، به اون می گویند چتر آفتاب!"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "비도 피하고 햇빛도 피하고.",
+      "ENGLISH": "It protects from rain and sun.",
+      "CHINESE_SIMPLIFIED": "既能遮阳又能挡雨",
+      "CHINESE_TRADITIONAL": "既能遮陽又能擋雨",
+      "JAPANESE": "雨も防げて、日差しも避けられて...",
+      "INDONESIAN": "Bisa lindungi dari hujan dan panas.",
+      "PORTUGUESE": "Ele protege da chuva e do sol.",
+      "RUSSIAN": "Он защищает от дождя и солнца.",
+      "FRENCH": "Il protège de la pluie et du soleil.",
+      "THAI": "มันป้องกันฝนและแดดได้",
+      "PERSIAN": "از بارون و آفتاب محافظت می کند."
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어! 저 근데 라면은 언제 먹어요?",
+      "ENGLISH": "Oh! When can we eat the ramen?",
+      "CHINESE_SIMPLIFIED": "啊！不过我们什么时候吃泡面呢?",
+      "CHINESE_TRADITIONAL": "啊！不過我們什麼時候吃泡麪呢?",
+      "JAPANESE": "あ！ラーメン、いつまで待てばいいですか？",
+      "INDONESIAN": "Oh! Kapan kita bisa makan ramennya?",
+      "PORTUGUESE": "Oh! Quando podemos comer o ramen?",
+      "RUSSIAN": "О! Когда мы можем есть рамэн?",
+      "FRENCH": "Oh ! Quand est-ce qu’on mange les ramens ?",
+      "THAI": "โอ้! เมื่อไหร่จะได้กินราเม็งเนี่ย?",
+      "PERSIAN": "اوه! چه زمانی می توانیم رامن بخوریم؟"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "지금 먹어도 돼요!",
+      "ENGLISH": "We can eat it now!",
+      "CHINESE_SIMPLIFIED": "现在就可以吃了!",
+      "CHINESE_TRADITIONAL": "現在就可以吃了!",
+      "JAPANESE": "あ、もう食べてもいいですよ！",
+      "INDONESIAN": "Kita bisa makan sekarang!",
+      "PORTUGUESE": "Podemos comer agora!",
+      "RUSSIAN": "Мы можем есть прямо сейчас!",
+      "FRENCH": "On peut manger maintenant !",
+      "THAI": "เรากินตอนนี้เลยก็ได้!",
+      "PERSIAN": "الان می تونیم بخوریمش!"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗?",
+      "CHINESE_TRADITIONAL": "真的嗎?",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Beneran?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?",
+      "PERSIAN": "جدی می‌گی؟"
+    },
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 먹어요!",
+      "ENGLISH": "The ramen’s getting soggy! Eat it quickly!",
+      "CHINESE_SIMPLIFIED": "快吃吧!面都要坨了!",
+      "CHINESE_TRADITIONAL": "快吃吧!面都要坨了!",
+      "JAPANESE": "早く食べてください！",
+      "INDONESIAN": "Ramennya udah mulai lembek! Cepet makan!",
+      "PORTUGUESE": "O ramen tá ficando murcho! Come rápido!",
+      "RUSSIAN": "Рамэн размокает! Ешь быстрее!",
+      "FRENCH": "Les ramens deviennent mous ! Mange vite !",
+      "THAI": "ราเม็งมันเริ่มอืดแล้วนะ! กินเร็วเข้า!",
+      "PERSIAN": "رامن خیس می شود! سریع بخور!"
+    },
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "잘 먹겠습니다!",
+      "ENGLISH": "Thank you for the food!",
+      "CHINESE_SIMPLIFIED": "我要开动啦!",
+      "CHINESE_TRADITIONAL": "我要開動啦!",
+      "JAPANESE": "いただきます！",
+      "INDONESIAN": "Makasih buat makanannya!",
+      "PORTUGUESE": "Obrigado(a) pela comida!",
+      "RUSSIAN": "Спасибо за еду!",
+      "FRENCH": "Merci pour le repas !",
+      "THAI": "ขอบคุณสำหรับอาหาร!",
+      "PERSIAN": "از شما برای غذا ممنونم!"
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "어 맵다...!",
+      "ENGLISH": "Oh, it’s spicy...!",
+      "CHINESE_SIMPLIFIED": "啊好辣…！",
+      "CHINESE_TRADITIONAL": "啊好辣…！",
+      "JAPANESE": "あ、辛い…！",
+      "INDONESIAN": "Oh, pedas...!",
+      "PORTUGUESE": "Ah, é apimentado...!",
+      "RUSSIAN": "Ой, он острый...!",
+      "FRENCH": "Oh, c’est épicé... !",
+      "THAI": "โอ้ เผ็ดจัง...!",
+      "PERSIAN": "اوه تند است...!"
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "매운 거 못 드세요?",
+      "ENGLISH": "Can’t handle spicy food?",
+      "CHINESE_SIMPLIFIED": "你吃不了辣的吗?",
+      "CHINESE_TRADITIONAL": "你吃不了辣的嗎?",
+      "JAPANESE": "もしかして、辛いもの苦手ですか？",
+      "INDONESIAN": "Gak kuat makanan pedas?",
+      "PORTUGUESE": "Não aguenta comida picante?",
+      "RUSSIAN": "Не любишь острую еду?",
+      "FRENCH": "Tu supportes pas le piquant ?",
+      "THAI": "เธอกินเผ็ดไม่ได้เหรอ?",
+      "PERSIAN": "نمی توانید غذای تند را کنترل کنید؟"
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "No!",
+      "CHINESE_SIMPLIFIED": "嗯!",
+      "CHINESE_TRADITIONAL": "嗯!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Enggak!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "ไม่ได้!",
+      "PERSIAN": "No!"
+    },
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "너무 매우면 다른 거 먹을까요?",
+      "ENGLISH": "If it’s too spicy, we can eat something else!",
+      "CHINESE_SIMPLIFIED": "太辣的话要不我们换一个吃吧!",
+      "CHINESE_TRADITIONAL": "太辣的話要不我們換一個吃吧!",
+      "JAPANESE": "辛いなら、他のものを食べにいけますか？",
+      "INDONESIAN": "Kalau terlalu pedas, kita bisa makan yang lain!",
+      "PORTUGUESE": "Se estiver muito picante, a gente pode comer outra coisa!",
+      "RUSSIAN": "Если слишком остро, мы можем съесть что-нибудь другое!",
+      "FRENCH": "Si c’est trop épicé, on peut manger autre chose !",
+      "THAI": "ถ้ามันเผ็ดเกินไป เรากินอย่างอื่นก็ได้นะ!",
+      "PERSIAN": "اگر خیلی تند است، می توانیم چیز دیگری بخوریم!"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아니에요! 이거 먹고 싶어요!",
+      "ENGLISH": "No, it’s okay! I want to eat this!",
+      "CHINESE_SIMPLIFIED": "没事!我想吃这个!",
+      "CHINESE_TRADITIONAL": "沒事!我想吃這個!",
+      "JAPANESE": "あ、大丈夫です！これが食べたいです！",
+      "INDONESIAN": "Enggak, gak apa-apa! Aku mau makan ini!",
+      "PORTUGUESE": "Não, tá tudo bem! Eu quero comer isso!",
+      "RUSSIAN": "Нет, всё нормально! Я хочу съесть это!",
+      "FRENCH": "Non, ça va ! Je veux manger ça !",
+      "THAI": "ไม่เป็นไร ฉันอยากกินนี่!",
+      "PERSIAN": "نه، اشکالی ندارد! من می خواهم اینو بخورم!"
+    },
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.9
+    }
+  }
+]

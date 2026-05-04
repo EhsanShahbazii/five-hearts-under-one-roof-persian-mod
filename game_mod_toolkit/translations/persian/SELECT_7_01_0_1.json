@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜 왔긴...",
+      "ENGLISH": "Why do you think?",
+      "CHINESE_SIMPLIFIED": "你说呢?",
+      "CHINESE_TRADITIONAL": "你說呢?",
+      "JAPANESE": "何しに来たって…",
+      "INDONESIAN": "Kenapa menurutmu?",
+      "PORTUGUESE": "Por que você acha?",
+      "RUSSIAN": "Почему ты думаешь?",
+      "FRENCH": "Pourquoi, à ton avis ?",
+      "THAI": "ทำไมคิดว่าเป็นอย่างนั้นล่ะ?",
+      "PERSIAN": "به نظر شما چرا؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "보고 싶어서 왔지.",
+      "ENGLISH": "I wanted to see you.",
+      "CHINESE_SIMPLIFIED": "我想你所以就过来了呗",
+      "CHINESE_TRADITIONAL": "我想你所以就過來了唄",
+      "JAPANESE": "会いに来たんだよ。",
+      "INDONESIAN": "Aku pengen ketemu kamu.",
+      "PORTUGUESE": "Eu queria te ver.",
+      "RUSSIAN": "Я хотел(а) тебя увидеть.",
+      "FRENCH": "Je voulais te voir.",
+      "THAI": "ฉันอยากเจอเธอ",
+      "PERSIAN": "میخواستم ببینمت"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너 보고 싶어서 왔다고.",
+      "ENGLISH": "I said, I wanted to see you.",
+      "CHINESE_SIMPLIFIED": "我说我想你了",
+      "CHINESE_TRADITIONAL": "我說我想你了",
+      "JAPANESE": "お前に会いたくて来たんだよ。",
+      "INDONESIAN": "Aku bilang, aku pengen ketemu kamu.",
+      "PORTUGUESE": "Eu disse, eu queria te ver.",
+      "RUSSIAN": "Я сказал(а), что хотел(а) тебя увидеть.",
+      "FRENCH": "J’ai dit, je voulais te voir.",
+      "THAI": "ฉันบอกว่า ฉันอยากเจอเธอ",
+      "PERSIAN": "گفتم میخواستم ببینمت"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야... ",
+      "ENGLISH": "No way...",
+      "CHINESE_SIMPLIFIED": "天哪…",
+      "CHINESE_TRADITIONAL": "天哪…",
+      "JAPANESE": "何よ…",
+      "INDONESIAN": "Gak mungkin...",
+      "PORTUGUESE": "Não acredito...",
+      "RUSSIAN": "Да ладно...",
+      "FRENCH": "Pas possible...",
+      "THAI": "ไม่นะ...",
+      "PERSIAN": "No way..."
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너 그런 말도 할 줄 알아?",
+      "ENGLISH": "You can actually say stuff like that?",
+      "CHINESE_SIMPLIFIED": "你居然还会说这种话",
+      "CHINESE_TRADITIONAL": "你居然還會說這種話",
+      "JAPANESE": "あんた、そんなことも言えるようになったんだ。",
+      "INDONESIAN": "Kamu beneran bisa ngomong gitu?",
+      "PORTUGUESE": "Você realmente consegue dizer essas coisas?",
+      "RUSSIAN": "Ты правда можешь такое сказать?",
+      "FRENCH": "Tu peux vraiment dire des trucs comme ça ?",
+      "THAI": "เธอพูดแบบนี้ได้ด้วยเหรอ?",
+      "PERSIAN": "شما واقعاً می توانید چنین چیزهایی بگویید؟"
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "너야말로 왜 나 이상하게 대해?",
+      "ENGLISH": "Why are you acting weird around me?",
+      "CHINESE_SIMPLIFIED": "不过你怎么这么不自然?",
+      "CHINESE_TRADITIONAL": "不過你怎麼這麼不自然?",
+      "JAPANESE": "お前こそ、何でそんなに’俺に冷たいんだ？",
+      "INDONESIAN": "Kenapa kamu jadi aneh di dekatku?",
+      "PORTUGUESE": "Por que você tá agindo estranho perto de mim?",
+      "RUSSIAN": "Почему ты ведёшь себя странно рядом со мной?",
+      "FRENCH": "Pourquoi tu agis bizarrement avec moi ?",
+      "THAI": "ทำไมเธอถึงทำตัวแปลกๆ เวลาอยู่กับฉัน?",
+      "PERSIAN": "چرا در اطراف من عجیب رفتار می کنید؟"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "에이... 내가 문제지~",
+      "ENGLISH": "I thought... Even if I confessed,",
+      "CHINESE_SIMPLIFIED": "哎呀,我不习惯…",
+      "CHINESE_TRADITIONAL": "哎呀,我不習慣…",
+      "JAPANESE": "いや…私悪いんだろうな。",
+      "INDONESIAN": "Aku pikir... Meski aku ngakuin perasaanku,",
+      "PORTUGUESE": "Eu pensei... Mesmo se eu confessasse,",
+      "RUSSIAN": "Я думал(а)... Даже если бы я признался(ась),",
+      "FRENCH": "Je pensais... Même si je me déclarais,",
+      "THAI": "ฉันคิดว่า... ถึงแม้ว่าฉันจะสารภาพ",
+      "PERSIAN": "فکر کردم حتی اگر اعتراف کنم"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "너한테 고백해도 예전처럼 막 장난치고 그럴 줄 알았는데...",
+      "ENGLISH": "you’d just joke around like before...",
+      "CHINESE_SIMPLIFIED": "本来以为和你表白之后也能像以前一样开玩笑来着…",
+      "CHINESE_TRADITIONAL": "本來以爲和你表白之後也能像以前一樣開玩笑來着…",
+      "JAPANESE": "あんたに告白しても、前みたいにふざけてくれると思ってたんだけど…",
+      "INDONESIAN": "kamu bakal bercanda kayak dulu...",
+      "PORTUGUESE": "você só ia brincar como antes...",
+      "RUSSIAN": "ты бы просто пошутил(а), как обычно...",
+      "FRENCH": "tu plaisanterais comme d’habitude...",
+      "THAI": "เธอก็แค่ล้อเล่นเหมือนเดิม...",
+      "PERSIAN": "مثل قبل فقط شوخی میکنی..."
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "야 그니까 좀 해봐~",
+      "ENGLISH": "Come on, just do it.",
+      "CHINESE_SIMPLIFIED": "那你就继续开玩笑呗",
+      "CHINESE_TRADITIONAL": "那你就繼續開玩笑唄",
+      "JAPANESE": "おい、だからちょっとふざけてみろって！",
+      "INDONESIAN": "Ayo, lakuin aja.",
+      "PORTUGUESE": "Vai, faz isso.",
+      "RUSSIAN": "Давай, просто скажи.",
+      "FRENCH": "Allez, fais-le juste.",
+      "THAI": "เอาน่า บอกมาเถอะ",
+      "PERSIAN": "بیا فقط انجامش بده"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "난 너가 평소에 욕해주는 거 좋았는데.",
+      "ENGLISH": "I liked it when you teased me.",
+      "CHINESE_SIMPLIFIED": "我还挺喜欢你损我的样子的",
+      "CHINESE_TRADITIONAL": "我還挺喜歡你損我的樣子的",
+      "JAPANESE": "俺、意外とお前が悪口言うの、好きだったんだよな。",
+      "INDONESIAN": "Aku suka waktu kamu godain aku.",
+      "PORTUGUESE": "Eu gostava quando você me provocava.",
+      "RUSSIAN": "Мне нравилось, когда ты меня дразнил(а).",
+      "FRENCH": "Ça me plaisait quand tu me taquinais.",
+      "THAI": "ฉันชอบตอนที่เธอล้อฉันเล่น",
+      "PERSIAN": "وقتی بهم مسخره میکردی خوشم اومد"
+    },
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야, 우유만",
+      "ENGLISH": "What, Yuman,",
+      "CHINESE_SIMPLIFIED": "什么嘛，吴宥万",
+      "CHINESE_TRADITIONAL": "什麼嘛，吳宥萬",
+      "JAPANESE": "何それ。",
+      "INDONESIAN": "Apa, Yuman,",
+      "PORTUGUESE": "O que, Yuman,",
+      "RUSSIAN": "Что, Юман,",
+      "FRENCH": "Quoi, Yuman,",
+      "THAI": "อะไรนะ ยูมัน,",
+      "PERSIAN": "چی، یومان،"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "너 그런 취향이었어?",
+      "ENGLISH": "is that your thing?",
+      "CHINESE_SIMPLIFIED": "你原来好这一口啊?",
+      "CHINESE_TRADITIONAL": "你原來好這一口啊?",
+      "JAPANESE": "そんな趣味だったの？",
+      "INDONESIAN": "itu hal yang kamu suka?",
+      "PORTUGUESE": "é isso que você gosta?",
+      "RUSSIAN": "это твоё увлечение?",
+      "FRENCH": "c’est ton truc ?",
+      "THAI": "เธอชอบแบบนี้เหรอ?",
+      "PERSIAN": "این موضوع شماست؟"
+    },
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 25.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아니~ 그런 게 아니라.",
+      "ENGLISH": "No~ That's not it!",
+      "CHINESE_SIMPLIFIED": "不是~不是你想的那种",
+      "CHINESE_TRADITIONAL": "不是~不是你想的那種",
+      "JAPANESE": "いやいや、そういう意味じゃないって。",
+      "INDONESIAN": "Enggak~ Bukan itu maksudnya!",
+      "PORTUGUESE": "Não~ Não é isso!",
+      "RUSSIAN": "Нет~ Не в этом дело!",
+      "FRENCH": "Non~ Ce n’est pas ça !",
+      "THAI": "ไม่~ ไม่ใช่อย่างนั้น!",
+      "PERSIAN": "نه ~ این نیست!"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.7
+    }
+  }
+]

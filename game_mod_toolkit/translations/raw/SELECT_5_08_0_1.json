@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 말숙이!",
+      "ENGLISH": "I'm Mal-sook!",
+      "CHINESE_SIMPLIFIED": "我选末淑",
+      "CHINESE_TRADITIONAL": "我選末淑",
+      "JAPANESE": "マルスクかな！",
+      "INDONESIAN": "Aku Mal-sook!",
+      "PORTUGUESE": "Eu sou a Mal-sook!",
+      "RUSSIAN": "Я — Мал-Сук!",
+      "FRENCH": "Je suis Mal-sook !",
+      "THAI": "ฉันคือ มัลซุก!"
+    },
+    "TIME": {
+      "HIDE": 1.0
+    }
+  }
+]

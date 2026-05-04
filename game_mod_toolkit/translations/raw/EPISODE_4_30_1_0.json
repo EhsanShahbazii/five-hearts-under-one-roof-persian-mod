@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어디가 제일 좋은데?",
+      "ENGLISH": "Where do you like the most?",
+      "CHINESE_SIMPLIFIED": "那你最喜欢我什么?",
+      "CHINESE_TRADITIONAL": "那你最喜歡我什麼?",
+      "JAPANESE": "どこが一番いいの？",
+      "INDONESIAN": "Kamu paling suka di mana?",
+      "PORTUGUESE": "De qual lugar você gosta mais?",
+      "RUSSIAN": "Какое место тебе нравится больше всего?",
+      "FRENCH": "Quel endroit tu préfères le plus ?",
+      "THAI": "ที่ไหนที่เธอชอบที่สุด?"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.2
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아니 요즘에도 무슨 저런 손님이 다 있어?",
+      "ENGLISH": "Unbelievable that there are still customers like that...",
+      "CHINESE_SIMPLIFIED": "真没想到最近还有那种客人!",
+      "CHINESE_TRADITIONAL": "真沒想到最近還有那種客人!",
+      "JAPANESE": "いや、最近になってもまだあんな客がいるのか？",
+      "INDONESIAN": "Gak nyangka masih ada pelanggan kayak gitu...",
+      "PORTUGUESE": "Inacreditável que ainda existam clientes assim...",
+      "RUSSIAN": "Невероятно, что такие клиенты ещё существуют...",
+      "FRENCH": "Incroyable qu’il y ait encore des clients comme ça...",
+      "THAI": "ไม่น่าเชื่อว่ายังมีลูกค้าแบบนี้อยู่...",
+      "PERSIAN": "باور نکردنی است که هنوز هم چنین مشتریانی وجود دارند ..."
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 그래서 어때?",
+      "ENGLISH": "So, how are you feeling lately?",
+      "CHINESE_SIMPLIFIED": "你最近觉得怎么样?",
+      "CHINESE_TRADITIONAL": "你最近覺得怎麼樣?",
+      "JAPANESE": "最近どうなの？",
+      "INDONESIAN": "Jadi, gimana perasaanmu belakangan ini?",
+      "PORTUGUESE": "Então, como você tem se sentido ultimamente?",
+      "RUSSIAN": "Ну, как ты себя чувствуешь в последнее время?",
+      "FRENCH": "Alors, comment tu te sens ces derniers temps ?",
+      "THAI": "แล้วเธอรู้สึกยังไงบ้างช่วงนี้?",
+      "PERSIAN": "خوب، اخیراً چه احساسی دارید؟"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나랑 붙어서 지내니까 좋지!",
+      "ENGLISH": "It’s nice being around me, right?",
+      "CHINESE_SIMPLIFIED": "和我住在一起感觉很好吧?",
+      "CHINESE_TRADITIONAL": "和我住在一起感覺很好吧?",
+      "JAPANESE": "私と一緒にいるから、楽しいでしょ？",
+      "INDONESIAN": "Senang kan ada di dekatku?",
+      "PORTUGUESE": "É legal ficar perto de mim, né?",
+      "RUSSIAN": "Хорошо, когда рядом со мной, правда?",
+      "FRENCH": "C’est sympa d’être avec moi, non ?",
+      "THAI": "อยู่ใกล้ๆ ฉันรู้สึกดีใช่ไหม?",
+      "PERSIAN": "بودن در کنار من خوب است، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐래...!",
+      "ENGLISH": "Ugh, what are you talking about...!",
+      "CHINESE_SIMPLIFIED": "说什么呢…!",
+      "CHINESE_TRADITIONAL": "說什麼呢…!",
+      "JAPANESE": "何言ってんだよ…！",
+      "INDONESIAN": "Ugh, kamu ngomong apa sih...!",
+      "PORTUGUESE": "Ugh, do que você tá falando...!",
+      "RUSSIAN": "Ой, ну что ты такое говоришь...!",
+      "FRENCH": "Oh là là, qu’est-ce que tu racontes... !",
+      "THAI": "อ๊ะ พูดอะไรน่ะ...!",
+      "PERSIAN": "اوه چی میگی...!"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "왜~ ",
+      "ENGLISH": "Come on~",
+      "CHINESE_SIMPLIFIED": "我说的不对吗?",
+      "CHINESE_TRADITIONAL": "我說的不對嗎?",
+      "JAPANESE": "何よ～",
+      "INDONESIAN": "Ayolah~",
+      "PORTUGUESE": "Ah, qual é~",
+      "RUSSIAN": "Ну же~",
+      "FRENCH": "Allez~",
+      "THAI": "เอาน่า~",
+      "PERSIAN": "Come on~"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "예쁜 여자들 사이에서 지내니까 좋잖아.",
+      "ENGLISH": "It’s great hanging out with pretty girls.",
+      "CHINESE_SIMPLIFIED": "一堆漂亮女生围着你不是很好吗?",
+      "CHINESE_TRADITIONAL": "一堆漂亮女生圍着你不是很好嗎?",
+      "JAPANESE": "可愛い女の子たちに囲まれて過ごせるんだから、いいじゃん。",
+      "INDONESIAN": "Asyik kan hangout bareng cewek-cewek cantik.",
+      "PORTUGUESE": "É ótimo sair com garotas bonitas.",
+      "RUSSIAN": "Классно проводить время с красивыми девушками.",
+      "FRENCH": "C’est génial de passer du temps avec de jolies filles.",
+      "THAI": "มันยอดเยี่ยมเลยนะ ที่ได้ออกไปเที่ยวกับสาวสวยๆ",
+      "PERSIAN": "معاشرت با دختران زیبا عالی است."
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 어때?",
+      "ENGLISH": "So?",
+      "CHINESE_SIMPLIFIED": "所以怎么样?",
+      "CHINESE_TRADITIONAL": "所以怎麼樣?",
+      "JAPANESE": "で、どうなの？",
+      "INDONESIAN": "Jadi?",
+      "PORTUGUESE": "E aí?",
+      "RUSSIAN": "Так?",
+      "FRENCH": "Alors ?",
+      "THAI": "แล้วไง?",
+      "PERSIAN": "So?"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "누가 제일 좋아?",
+      "ENGLISH": "Who do you like the most?",
+      "CHINESE_SIMPLIFIED": "你最喜欢谁?",
+      "CHINESE_TRADITIONAL": "你最喜歡誰?",
+      "JAPANESE": "誰が一番好き？",
+      "INDONESIAN": "Kamu paling suka sama siapa?",
+      "PORTUGUESE": "De quem você gosta mais?",
+      "RUSSIAN": "Кто тебе нравится больше всего?",
+      "FRENCH": "Qui tu préfères le plus ?",
+      "THAI": "เธอชอบใครที่สุด?",
+      "PERSIAN": "چه کسی را بیشتر دوست دارید؟"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.2
+    }
+  }
+]

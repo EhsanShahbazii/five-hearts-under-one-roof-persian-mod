@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "다들 자겠지...?",
+      "ENGLISH": "Everyone’s probably asleep...",
+      "CHINESE_SIMPLIFIED": "大家应该都睡了吧…?",
+      "CHINESE_TRADITIONAL": "大家應該都睡了吧…?",
+      "JAPANESE": "みんな、もう寝てるよね…？",
+      "INDONESIAN": "Semua orang mungkin udah tidur...",
+      "PORTUGUESE": "Todo mundo provavelmente já tá dormindo...",
+      "RUSSIAN": "Наверное, все уже спят...",
+      "FRENCH": "Tout le monde doit sûrement dormir...",
+      "THAI": "ทุกคนคงหลับกันหมดแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 먹으라고 준비했어",
+      "ENGLISH": "I made this for you to eat, oppa.",
+      "CHINESE_SIMPLIFIED": "我们给哥哥准备了好吃的!",
+      "CHINESE_TRADITIONAL": "我們給哥哥準備了好吃的!",
+      "JAPANESE": "お兄ちゃんのために用意したの。",
+      "INDONESIAN": "Aku bikinin ini buat kamu makan, oppa.",
+      "PORTUGUESE": "Eu fiz isso pra você comer, oppa.",
+      "RUSSIAN": "Я сделала это для тебя, оппа.",
+      "FRENCH": "J’ai fait ça pour toi, oppa.",
+      "THAI": "ฉันทำอันนี้มาให้พี่กินนะ"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어... 나는",
+      "ENGLISH": "Oh... well, I...",
+      "CHINESE_SIMPLIFIED": "额…我…",
+      "CHINESE_TRADITIONAL": "額…我…",
+      "JAPANESE": "え…俺は…",
+      "INDONESIAN": "Oh... yah, aku...",
+      "PORTUGUESE": "Ah... bem, eu...",
+      "RUSSIAN": "О... ну, я...",
+      "FRENCH": "Oh... eh bien, je...",
+      "THAI": "โอ... คือว่า ฉัน..."
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.3
+    }
+  }
+]

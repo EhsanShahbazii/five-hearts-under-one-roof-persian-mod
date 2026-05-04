@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "민정님 어렸을 때 사진인가?",
+      "ENGLISH": "Is this a photo of Min-jung from when she was a kid?",
+      "CHINESE_SIMPLIFIED": "是敏敏小时候的照片吗？",
+      "CHINESE_TRADITIONAL": "是敏敏小時候的照片嗎？",
+      "JAPANESE": "ミンジョンさんの子供の頃の写真かな？",
+      "INDONESIAN": "Ini foto Min-jung waktu dia masih kecil?",
+      "PORTUGUESE": "Essa é uma foto da Min-jung quando ela era criança?",
+      "RUSSIAN": "Это фото Мин-чжун в детстве?",
+      "FRENCH": "C’est une photo de Min-jung quand elle était enfant ?",
+      "THAI": "นี่รูปของมินจองตอนเด็กเหรอ?",
+      "PERSIAN": "این عکس مین‌جونگ از بچگیش هست؟"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "옆에는... ",
+      "ENGLISH": "And next to her... ",
+      "CHINESE_SIMPLIFIED": "旁边是...",
+      "CHINESE_TRADITIONAL": "旁邊是...",
+      "JAPANESE": "隣にいるのは…",
+      "INDONESIAN": "Dan di sebelahnya...",
+      "PORTUGUESE": "E ao lado dela...",
+      "RUSSIAN": "А рядом с ней...",
+      "FRENCH": "Et à côté d’elle...",
+      "THAI": "แล้วข้างๆ เธอ...",
+      "PERSIAN": "و در کنار او ..."
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아빠?",
+      "ENGLISH": "is that her dad?",
+      "CHINESE_SIMPLIFIED": "她爸爸？",
+      "CHINESE_TRADITIONAL": "她爸爸？",
+      "JAPANESE": "お父さん？",
+      "INDONESIAN": "Itu ayahnya, ya?",
+      "PORTUGUESE": "É o pai dela?",
+      "RUSSIAN": "это её отец?",
+      "FRENCH": "c’est son père ?",
+      "THAI": "นั่นพ่อของเธอหรือเปล่า?",
+      "PERSIAN": "او پدرش است؟"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.5
+    }
+  }
+]

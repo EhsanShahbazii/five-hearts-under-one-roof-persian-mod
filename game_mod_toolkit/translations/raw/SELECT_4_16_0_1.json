@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 놀이터 엄청 커요!",
+      "ENGLISH": "Wow, the playground is huge!",
+      "CHINESE_SIMPLIFIED": "哇!这个公园好大!",
+      "CHINESE_TRADITIONAL": "哇!這個公園好大!",
+      "JAPANESE": "わあ、遊具すごい大きいですね！",
+      "INDONESIAN": "Wah, taman bermainnya gede banget!",
+      "PORTUGUESE": "Uau, o parquinho é enorme!",
+      "RUSSIAN": "Вау, какая большая площадка!",
+      "FRENCH": "Waouh, le terrain de jeux est immense !",
+      "THAI": "ว้าว สนามเด็กเล่นใหญ่มาก!"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어렸을 때 보던 거랑 좀 많이 다르죠?",
+      "ENGLISH": "It’s a lot different from the ones you saw as a kid, right?",
+      "CHINESE_SIMPLIFIED": "这里和你小时候去的公园不一样吧?",
+      "CHINESE_TRADITIONAL": "這裏和你小時候去的公園不一樣吧?",
+      "JAPANESE": "子供の頃に見たのとはだいぶ違うでしょ？",
+      "INDONESIAN": "Jauh beda dari yang kamu lihat waktu kecil, kan?",
+      "PORTUGUESE": "É bem diferente dos que você via quando era criança, né?",
+      "RUSSIAN": "Она сильно отличается от тех, что ты видела в детстве, правда?",
+      "FRENCH": "C’est très différent de ceux que tu as vus quand tu étais enfant, non ?",
+      "THAI": "ต่างจากสนามที่เธอเห็นตอนเด็กๆ มากเลยใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네! ",
+      "ENGLISH": "Yes! ",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저런 것도 있네요?",
+      "ENGLISH": "They even have those things?",
+      "CHINESE_SIMPLIFIED": "这里居然还有那个!",
+      "CHINESE_TRADITIONAL": "這裏居然還有那個!",
+      "JAPANESE": "あんなのもあるんですね？",
+      "INDONESIAN": "Mereka bahkan punya yang begituan juga?",
+      "PORTUGUESE": "Eles até têm essas coisas?",
+      "RUSSIAN": "И тут даже есть такие штуки?",
+      "FRENCH": "Ils ont même ce genre de trucs ici ?",
+      "THAI": "ที่นี่มีของแบบนั้นด้วยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.26
+    }
+  }
+]

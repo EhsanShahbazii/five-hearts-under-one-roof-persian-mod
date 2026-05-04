@@ -1,0 +1,221 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "다 썼어요?",
+      "ENGLISH": "Did you finish writing?",
+      "CHINESE_SIMPLIFIED": "都写好了?",
+      "CHINESE_TRADITIONAL": "都寫好了?",
+      "JAPANESE": "全部書き終わりましたか？",
+      "INDONESIAN": "Kamu udah selesai nulis?",
+      "PORTUGUESE": "Você terminou de escrever?",
+      "RUSSIAN": "Ты закончила писать?",
+      "FRENCH": "T’as fini d’écrire ?",
+      "THAI": "เธอเขียนเสร็จหรือยัง?",
+      "PERSIAN": "نوشتن را تمام کردی؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네! 다 썼어요!",
+      "ENGLISH": "Yes! I’m done!",
+      "CHINESE_SIMPLIFIED": "嗯，我都写好了!",
+      "CHINESE_TRADITIONAL": "嗯，我都寫好了!",
+      "JAPANESE": "はい！書き終わりました！",
+      "INDONESIAN": "Iya! Udah selesai!",
+      "PORTUGUESE": "Sim! Terminei!",
+      "RUSSIAN": "Да! Готово!",
+      "FRENCH": "Oui ! C’est terminé !",
+      "THAI": "เสร็จแล้ว!",
+      "PERSIAN": "بله! من تمام کردم!"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐라고 썼어요?",
+      "ENGLISH": "What did you write?",
+      "CHINESE_SIMPLIFIED": "你写了什么?",
+      "CHINESE_TRADITIONAL": "你寫了什麼?",
+      "JAPANESE": "何て書いたんですか？",
+      "INDONESIAN": "Kamu nulis apa?",
+      "PORTUGUESE": "O que você escreveu?",
+      "RUSSIAN": "Что ты написала?",
+      "FRENCH": "Qu’est-ce que t’as écrit ?",
+      "THAI": "เขียนอะไรไว้เหรอ?",
+      "PERSIAN": "چی نوشتی"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "비밀이에요!",
+      "ENGLISH": "It’s a secret!",
+      "CHINESE_SIMPLIFIED": "保密!",
+      "CHINESE_TRADITIONAL": "保密!",
+      "JAPANESE": "秘密です！",
+      "INDONESIAN": "Rahasia!",
+      "PORTUGUESE": "É segredo!",
+      "RUSSIAN": "Это секрет!",
+      "FRENCH": "C’est un secret !",
+      "THAI": "เป็นความลับ!",
+      "PERSIAN": "این یک راز است!"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "다 했죠?",
+      "ENGLISH": "Are you finished?",
+      "CHINESE_SIMPLIFIED": "挂好了吗？",
+      "CHINESE_TRADITIONAL": "掛好了嗎？",
+      "JAPANESE": "全部できましたか？",
+      "INDONESIAN": "Kamu udah selesai?",
+      "PORTUGUESE": "Você já terminou?",
+      "RUSSIAN": "Ты всё закончила?",
+      "FRENCH": "T’as tout fini ?",
+      "THAI": "เสร็จหมดแล้วใช่ไหม?",
+      "PERSIAN": "تموم شدی؟"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "네! 다 했어요!",
+      "ENGLISH": "Yep, all set!",
+      "CHINESE_SIMPLIFIED": "嗯，挂好啦",
+      "CHINESE_TRADITIONAL": "嗯，掛好啦",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya, udah beres!",
+      "PORTUGUESE": "Sim, tudo pronto!",
+      "RUSSIAN": "Да, всё готово!",
+      "FRENCH": "Oui, tout est prêt !",
+      "THAI": "ใช่ เรียบร้อยแล้ว!",
+      "PERSIAN": "بله، همه چیز آماده است!"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "걸어 내려가야 되는데, 괜찮죠?",
+      "ENGLISH": "We have to walk back down, can you handle it?",
+      "CHINESE_SIMPLIFIED": "我们还得走着下去，你可以吗?",
+      "CHINESE_TRADITIONAL": "我們還得走着下去，你可以嗎?",
+      "JAPANESE": "歩いて降りなきゃいけないけど、大丈夫ですか？",
+      "INDONESIAN": "Kita harus jalan turun, bisa gak?",
+      "PORTUGUESE": "Temos que descer a pé, consegue?",
+      "RUSSIAN": "Нам придётся спускаться, справишься?",
+      "FRENCH": "On doit redescendre à pied, tu peux gérer ?",
+      "THAI": "เราต้องเดินกลับลงไป เธอโอเคไหม?",
+      "PERSIAN": "باید برگردیم پایین، می‌تونی اونو تحمل کنی؟"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "저는 좋아요!",
+      "ENGLISH": "I’m fine with it!",
+      "CHINESE_SIMPLIFIED": "我没关系的!",
+      "CHINESE_TRADITIONAL": "我沒關係的!",
+      "JAPANESE": "はい！大丈夫です！",
+      "INDONESIAN": "Gak masalah!",
+      "PORTUGUESE": "De boa!",
+      "RUSSIAN": "Да, мне нормально!",
+      "FRENCH": "Oui, pas de souci !",
+      "THAI": "ฉันโอเค!",
+      "PERSIAN": "من باهاش ​​خوبم!"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "가요!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "那走吧!",
+      "CHINESE_TRADITIONAL": "那走吧!",
+      "JAPANESE": "行きましょう！",
+      "INDONESIAN": "Ayo jalan!",
+      "PORTUGUESE": "Vamos!",
+      "RUSSIAN": "Пойдём!",
+      "FRENCH": "On y va !",
+      "THAI": "ไปกันเถอะ!",
+      "PERSIAN": "Let’s go!"
+    },
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Tá bom.",
+      "RUSSIAN": "Окей.",
+      "FRENCH": "D’accord.",
+      "THAI": "โอเค",
+      "PERSIAN": "Okay."
+    },
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "ENGLISH": "I'm curious...'",
+      "CHINESE_SIMPLIFIED": "‘我开始好奇了’",
+      "CHINESE_TRADITIONAL": "‘我開始好奇了’",
+      "JAPANESE": "（あなたのこと気になります...）",
+      "INDONESIAN": "Aku penasaran...",
+      "PORTUGUESE": "Tô curioso...",
+      "RUSSIAN": "Мне интересно...",
+      "FRENCH": "Je suis curieux...",
+      "THAI": "ฉันอยากรู้จัง...",
+      "PERSIAN": "کنجکاو هستم...'"
+    },
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 28.2
+    }
+  }
+]

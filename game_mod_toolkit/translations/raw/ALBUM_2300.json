@@ -1,0 +1,382 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "마지막으로 좌우명 같은 거 있나요?",
+      "ENGLISH": "Lastly, do you have a personal motto?",
+      "CHINESE_SIMPLIFIED": "最后一个问题，你有个人座右铭吗？",
+      "CHINESE_TRADITIONAL": "最後一個問題，你有個人座右銘嗎？",
+      "JAPANESE": "最後に、座右の銘みたいなものはありますか？",
+      "INDONESIAN": "Terakhir, kamu punya moto pribadi?",
+      "PORTUGUESE": "Por último, você tem um lema pessoal?",
+      "RUSSIAN": "Напоследок, у вас есть личный девиз?",
+      "FRENCH": "Pour finir, avez-vous une devise personnelle ?",
+      "THAI": "สุดท้ายนี้, คุณมีคติประจำใจไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이, 있습니다!",
+      "ENGLISH": "Yes, I do!",
+      "CHINESE_SIMPLIFIED": "有!",
+      "CHINESE_TRADITIONAL": "有!",
+      "JAPANESE": "あ、あります！",
+      "INDONESIAN": "Iya, punya!",
+      "PORTUGUESE": "Sim, tenho!",
+      "RUSSIAN": "Да, есть!",
+      "FRENCH": "Oui !",
+      "THAI": "มีครับ!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "‘적당히 하자’입니다!",
+      "ENGLISH": "It’s ‘Let’s keep it balanced’!",
+      "CHINESE_SIMPLIFIED": "我的个人座右铭是‘适可而止’。",
+      "CHINESE_TRADITIONAL": "我的個人座右銘是‘適可而止’。",
+      "JAPANESE": "「適当にやろう」です！",
+      "INDONESIAN": "Yuk, lakukan dengan seimbang!",
+      "PORTUGUESE": "Vamos fazer tudo na medida certa!",
+      "RUSSIAN": "«Держать баланс!»",
+      "FRENCH": "« Gardons l’équilibre ! »",
+      "THAI": "“รักษาสมดุลไว้!”"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그게 무슨 소리죠?",
+      "ENGLISH": "What does that mean? ",
+      "CHINESE_SIMPLIFIED": "什么意思？",
+      "CHINESE_TRADITIONAL": "什麼意思？",
+      "JAPANESE": "それは、どういう意味なんです？",
+      "INDONESIAN": "Apa maksudnya?",
+      "PORTUGUESE": "O que isso quer dizer?",
+      "RUSSIAN": "Что это значит?",
+      "FRENCH": "Qu’est-ce que ça veut dire ?",
+      "THAI": "หมายความว่ายังไง?"
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "지금 나보고 적당히 하라는 겁니까?",
+      "ENGLISH": "Are you telling me to take it easy?",
+      "CHINESE_SIMPLIFIED": "是让我面试也适可而止吗？",
+      "CHINESE_TRADITIONAL": "是讓我面試也適可而止嗎？",
+      "JAPANESE": "今、私に適当にやれって言ってるんですか？",
+      "INDONESIAN": "Kamu nyuruh aku santai-santai aja?",
+      "PORTUGUESE": "Você tá me dizendo pra pegar leve?",
+      "RUSSIAN": "Ты предлагаешь мне расслабиться?",
+      "FRENCH": "Tu veux me dire de me la couler douce ?",
+      "THAI": "คุณจะบอกให้ฉันทำตัวชิลๆ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "네? 아뇨 그건 아니고...",
+      "ENGLISH": "I didn’t mean it like that...",
+      "CHINESE_SIMPLIFIED": "我不是这个意思…",
+      "CHINESE_TRADITIONAL": "我不是這個意思…",
+      "JAPANESE": "いえ、そういうわけではなくて…",
+      "INDONESIAN": "Bukan maksudku begitu...",
+      "PORTUGUESE": "Não foi bem isso que eu quis dizer...",
+      "RUSSIAN": "Я не это имел в виду...",
+      "FRENCH": "Non, c’est pas ce que je voulais dire...",
+      "THAI": "ไม่ได้หมายความอย่างนั้น..."
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "분명 뜻이 있을 겁니다.",
+      "ENGLISH": "There must be a reason behind it.",
+      "CHINESE_SIMPLIFIED": "他肯定有自己的想法",
+      "CHINESE_TRADITIONAL": "他肯定有自己的想法",
+      "JAPANESE": "きっと、何か意味があるはずです。",
+      "INDONESIAN": "Pasti ada alasan di baliknya.",
+      "PORTUGUESE": "Deve ter uma razão por trás disso.",
+      "RUSSIAN": "За этим явно что-то стоит.",
+      "FRENCH": "Il doit y avoir une raison derrière ça.",
+      "THAI": "มันต้องมีเหตุผลอยู่เบื้องหลังแน่."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "편하게, 편하게 말해 봐요!",
+      "ENGLISH": "Go ahead, explain.",
+      "CHINESE_SIMPLIFIED": "你慢慢说。",
+      "CHINESE_TRADITIONAL": "你慢慢說。",
+      "JAPANESE": "リラックスして、話してください。",
+      "INDONESIAN": "Coba jelaskan.",
+      "PORTUGUESE": "Vai em frente, explica.",
+      "RUSSIAN": "Давай, объясни.",
+      "FRENCH": "Explique-nous.",
+      "THAI": "อธิบายหน่อยสิ."
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그게 그러니까...",
+      "ENGLISH": "Well...",
+      "CHINESE_SIMPLIFIED": "意思其实就是…",
+      "CHINESE_TRADITIONAL": "意思其實就是…",
+      "JAPANESE": "その、つまり…",
+      "INDONESIAN": "Jadi begini...",
+      "PORTUGUESE": "Então...",
+      "RUSSIAN": "Ну...",
+      "FRENCH": "Eh bien...",
+      "THAI": "เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "넘치지도 않고 적지도 않은....",
+      "ENGLISH": "It means not doing too much or too little...",
+      "CHINESE_SIMPLIFIED": "不要过犹不及的意思。",
+      "CHINESE_TRADITIONAL": "不要過猶不及的意思。",
+      "JAPANESE": "やりすぎず、やらなさすぎす…",
+      "INDONESIAN": "Itu artinya jangan terlalu banyak atau terlalu sedikit...",
+      "PORTUGUESE": "Quer dizer não fazer nem demais nem de menos...",
+      "RUSSIAN": "Это значит не делать ни слишком много, ни слишком мало...",
+      "FRENCH": "Ça signifie qu’il ne faut ni trop en faire, ni pas assez...",
+      "THAI": "มันหมายถึงการไม่ทำมากเกินไป หรือ น้อยเกินไป..."
+    },
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 23.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 일도 적당히 할 생각이신 건가요?",
+      "ENGLISH": "So you’re planning to do just enough work?",
+      "CHINESE_SIMPLIFIED": "那你工作也是适可而止的态度吗？",
+      "CHINESE_TRADITIONAL": "那你工作也是適可而止的態度嗎？",
+      "JAPANESE": "だとしたら、仕事も適当にやるつもりですか？",
+      "INDONESIAN": "Jadi rencananya kamu cuma mau kerja secukupnya?",
+      "PORTUGUESE": "Então você só pretende trabalhar o suficiente?",
+      "RUSSIAN": "То есть ты собираешься работать в меру?",
+      "FRENCH": "Donc tu comptes juste en faire assez ?",
+      "THAI": "งั้นคุณจะทำแค่พอประมาณ?"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 26.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "...예! 맞습니다!",
+      "ENGLISH": "Yes, exactly!",
+      "CHINESE_SIMPLIFIED": "是的！",
+      "CHINESE_TRADITIONAL": "是的！",
+      "JAPANESE": "…はい！そうです！",
+      "INDONESIAN": "Iya, betul!",
+      "PORTUGUESE": "Isso mesmo!",
+      "RUSSIAN": "Точно!",
+      "FRENCH": "Exactement !",
+      "THAI": "ใช่เลย!"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "‘적당히’가 가장 완벽한 거라고 생각하기 때문입니다!",
+      "ENGLISH": "I believe that balance is the key to perfection!",
+      "CHINESE_SIMPLIFIED": "因为我认为‘适可而止’是最好的。",
+      "CHINESE_TRADITIONAL": "因爲我認爲‘適可而止’是最好的。",
+      "JAPANESE": "「適当」が一番完璧だと思うんです！",
+      "INDONESIAN": "Aku percaya bahwa keseimbangan adalah kunci kesempurnaan!",
+      "PORTUGUESE": "Eu acredito que o equilíbrio é a chave para a perfeição!",
+      "RUSSIAN": "Я верю, что баланс ключ к совершенству!",
+      "FRENCH": "Je crois que l’équilibre est la clé de la perfection !",
+      "THAI": "ผมเชื่อว่าสมดุลคือกุญแจสู่ความสมบูรณ์แบบ!"
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "넘치지도, 너무 부족하지도 않게 하는",
+      "ENGLISH": "I want to be someone who keeps things in balance",
+      "CHINESE_SIMPLIFIED": "也就是说既不过度也不欠缺",
+      "CHINESE_TRADITIONAL": "也就是說既不過度也不欠缺",
+      "JAPANESE": "やりすぎず、やらなさすぎす",
+      "INDONESIAN": "Aku ingin jadi seseorang yang bisa menjaga keseimbangan",
+      "PORTUGUESE": "Quero ser alguém que mantém as coisas equilibradas",
+      "RUSSIAN": "Я хочу быть тем, кто поддерживает этот баланс —",
+      "FRENCH": "Je veux être quelqu’un qui maintient cet équilibre,",
+      "THAI": "ผมอยากเป็นคนที่รักษาสมดุลได้"
+    },
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 34.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "그런 선을 지키는 사람이 되고 싶습니다!",
+      "ENGLISH": "Neither too much nor too little.",
+      "CHINESE_SIMPLIFIED": "恰如其分地去做人。",
+      "CHINESE_TRADITIONAL": "恰如其分地去做人。",
+      "JAPANESE": "そんなバランスを取れる人になりたいです！",
+      "INDONESIAN": "Tidak terlalu banyak, tapi juga tidak terlalu sedikit.",
+      "PORTUGUESE": "Nem demais, nem de menos.",
+      "RUSSIAN": "Ни больше, ни меньше.",
+      "FRENCH": "Ni trop, ni trop peu.",
+      "THAI": "ไม่มากเกินไปและไม่น้อยเกินไป."
+    },
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 38.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "흠...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "OK…",
+      "CHINESE_TRADITIONAL": "OK…",
+      "JAPANESE": "ふむ…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хм...",
+      "FRENCH": "Hmm...",
+      "THAI": "ฮืม..."
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 43.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 면접은 여기까지 할게요.",
+      "ENGLISH": "That’s it for today’s interview.",
+      "CHINESE_SIMPLIFIED": "那今天的面试就到这里。",
+      "CHINESE_TRADITIONAL": "那今天的面試就到這裏。",
+      "JAPANESE": "今日はこれで終わりです。",
+      "INDONESIAN": "Itu saja untuk wawancara hari ini.",
+      "PORTUGUESE": "Isso é tudo para a entrevista de hoje.",
+      "RUSSIAN": "На этом всё на сегодня.",
+      "FRENCH": "C’est tout pour aujourd’hui.",
+      "THAI": "วันนี้ก็จบแค่นี้ครับ."
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 45.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "수고했어요 다들.",
+      "ENGLISH": "Thanks, everyone.",
+      "CHINESE_SIMPLIFIED": "大家都辛苦了。",
+      "CHINESE_TRADITIONAL": "大家都辛苦了。",
+      "JAPANESE": "お疲れさまでした、皆さん。",
+      "INDONESIAN": "Terima kasih, semuanya.",
+      "PORTUGUESE": "Obrigado a todos.",
+      "RUSSIAN": "Спасибо всем.",
+      "FRENCH": "Merci à tous.",
+      "THAI": "ขอบคุณทุกคน."
+    },
+    "TIME": {
+      "SHOW": 46.3,
+      "HIDE": 47.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Thank you~",
+      "CHINESE_SIMPLIFIED": "辛苦了。",
+      "CHINESE_TRADITIONAL": "辛苦了。",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Terima kasih~",
+      "PORTUGUESE": "Obrigado~",
+      "RUSSIAN": "Благодарю~",
+      "FRENCH": " Merci beaucoup~",
+      "THAI": "ขอบคุณ~"
+    },
+    "TIME": {
+      "SHOW": 47.5,
+      "HIDE": 49.0
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "수고했습니다~",
+      "ENGLISH": "Thanks~",
+      "CHINESE_SIMPLIFIED": "辛苦了~",
+      "CHINESE_TRADITIONAL": "辛苦了~",
+      "JAPANESE": "お疲れさまでした～",
+      "INDONESIAN": "Makasih~",
+      "PORTUGUESE": "Valeu~",
+      "RUSSIAN": "Спасибо~",
+      "FRENCH": "Merci~",
+      "THAI": "ขอบคุณครับ~"
+    },
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 51.0
+    }
+  }
+]

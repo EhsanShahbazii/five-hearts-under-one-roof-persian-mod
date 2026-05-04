@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "여기가 한강이에요!",
+      "ENGLISH": "This is the Han River!",
+      "CHINESE_SIMPLIFIED": "这里就是汉江!",
+      "CHINESE_TRADITIONAL": "這裏就是漢江!",
+      "JAPANESE": "ここが漢江（ハンガン）ですよ！",
+      "INDONESIAN": "Ini Sungai Han!",
+      "PORTUGUESE": "Esse é o Rio Han!",
+      "RUSSIAN": "Это река Хан!",
+      "FRENCH": "Voici la rivière Han !",
+      "THAI": "นี่คือแม่น้ำฮัน!"
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 유만 님... 근데 사람이 너무 많은 거 같은데요.",
+      "ENGLISH": "Yuman... But there are so many people.",
+      "CHINESE_SIMPLIFIED": "不过宥万… 这里人好多啊…",
+      "CHINESE_TRADITIONAL": "不過宥萬… 這裏人好多啊…",
+      "JAPANESE": "あの、ユマンさん…でも、人が多い気がするんですけど…",
+      "INDONESIAN": "Yuman... Tapi orangnya banyak banget.",
+      "PORTUGUESE": "Yuman... Mas tem tanta gente.",
+      "RUSSIAN": "Юман... Но здесь так много людей.",
+      "FRENCH": "Yuman... Mais il y a tellement de monde.",
+      "THAI": "ยูมัน... แต่คนเยอะมากเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "에이 아무도 우리 신경 안 써요!",
+      "ENGLISH": "Hey, no one’s paying attention to us! ",
+      "CHINESE_SIMPLIFIED": "哎呀没人看我们的",
+      "CHINESE_TRADITIONAL": "哎呀沒人看我們的",
+      "JAPANESE": "ええ、誰も私たちのことなんて気にしてませんよ！",
+      "INDONESIAN": "Hei, gak ada yang memperhatikan kita!",
+      "PORTUGUESE": "Ei, ninguém tá prestando atenção na gente!",
+      "RUSSIAN": "Эй, никто на нас не смотрит!",
+      "FRENCH": "Hé, personne ne fait attention à nous !",
+      "THAI": "เฮ้ ไม่มีใครสนใจพวกเราหรอก!"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 벚꽃도 엄청 예뻐요.",
+      "ENGLISH": "And look, the cherry blossoms are beautiful.",
+      "CHINESE_SIMPLIFIED": "你看这樱花多美",
+      "CHINESE_TRADITIONAL": "你看這櫻花多美",
+      "JAPANESE": "それに、桜もすごくきれいですよ。",
+      "INDONESIAN": "Dan lihat, bunga sakuranya indah banget.",
+      "PORTUGUESE": "E olha, as flores de cerejeira estão lindas.",
+      "RUSSIAN": "И смотри, какие красивые цветы сакуры.",
+      "FRENCH": "Et regarde, les cerisiers en fleurs sont magnifiques.",
+      "THAI": "ดูสิ ดอกซากุระสวยมาก"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "벚꽃이 예쁘다고요...?",
+      "ENGLISH": "Beautiful cherry blossoms...?",
+      "CHINESE_SIMPLIFIED": "樱花…?",
+      "CHINESE_TRADITIONAL": "櫻花…?",
+      "JAPANESE": "あ、桜ですか…？",
+      "INDONESIAN": "Bunga sakura yang indah...?",
+      "PORTUGUESE": "Flores de cerejeira lindas...?",
+      "RUSSIAN": "Красивые сакуры...?",
+      "FRENCH": "Des cerisiers en fleurs magnifiques...?",
+      "THAI": "ดอกซากุระสวยๆ...เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "우와...!",
+      "ENGLISH": "Wow...!",
+      "CHINESE_SIMPLIFIED": "哇…!",
+      "CHINESE_TRADITIONAL": "哇…!",
+      "JAPANESE": "わあ…！",
+      "INDONESIAN": "Wah...!",
+      "PORTUGUESE": "Uau...!",
+      "RUSSIAN": "Вау...!",
+      "FRENCH": "Waouh...!",
+      "THAI": "ว้าว...!"
+    },
+    "TIME": {
+      "SHOW": 14.87,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "한강은 처음이에요?",
+      "ENGLISH": "Is this your first time at the Han River?",
+      "CHINESE_SIMPLIFIED": "你这是第一次来汉江吧?",
+      "CHINESE_TRADITIONAL": "你這是第一次來漢江吧?",
+      "JAPANESE": "漢江は初めてですか？",
+      "INDONESIAN": "Ini pertama kalinya kamu ke Sungai Han?",
+      "PORTUGUESE": "É a sua primeira vez no Rio Han?",
+      "RUSSIAN": "Ты здесь впервые?",
+      "FRENCH": "C’est ta première fois à la rivière Han ?",
+      "THAI": "นี่เป็นครั้งแรกที่มาที่แม่น้ำฮันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "네! 한강은 처음이에요!",
+      "ENGLISH": "Yes! It’s my first time here!",
+      "CHINESE_SIMPLIFIED": "对!我第一次来这里!",
+      "CHINESE_TRADITIONAL": "對!我第一次來這裏!",
+      "JAPANESE": "はい！初めてです！",
+      "INDONESIAN": "Iya! Ini pertama kaliku di sini!",
+      "PORTUGUESE": "Sim! É minha primeira vez aqui!",
+      "RUSSIAN": "Да! Я впервые здесь!",
+      "FRENCH": "Oui ! C’est la première fois que je viens ici !",
+      "THAI": "ใช่! ที่นี่เป็นครั้งแรกเลย!"
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "여기 한강에 놀 것도 진짜 많아요!",
+      "ENGLISH": "There’s so much to do at the Han River!",
+      "CHINESE_SIMPLIFIED": "汉江好玩的地方可多了!",
+      "CHINESE_TRADITIONAL": "漢江好玩的地方可多了!",
+      "JAPANESE": "漢江には楽しいものがたくさんあるんですよ！",
+      "INDONESIAN": "Banyak banget yang bisa dilakukan di Sungai Han!",
+      "PORTUGUESE": "Tem muita coisa pra fazer no Rio Han!",
+      "RUSSIAN": "На реке Хан столько всего интересного!",
+      "FRENCH": "Il y a tellement de choses à faire à la rivière Han !",
+      "THAI": "ที่แม่น้ำฮันมีอะไรให้ทำเยอะแยะเลย!"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 23.3
+    }
+  }
+]

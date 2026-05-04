@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bise",
+      "THAI": "จุ๊บ"
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "야아...",
+      "ENGLISH": "Hey...",
+      "CHINESE_SIMPLIFIED": "呀...",
+      "CHINESE_TRADITIONAL": "呀...",
+      "JAPANESE": "ちょっと…！",
+      "INDONESIAN": "Hei...",
+      "PORTUGUESE": "Ei...",
+      "RUSSIAN": "Эй..",
+      "FRENCH": "Hé...",
+      "THAI": "เฮ้..."
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.0
+    }
+  }
+]

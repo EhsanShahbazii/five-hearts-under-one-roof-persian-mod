@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 매니저~",
+      "ENGLISH": "Uh, manager~",
+      "CHINESE_SIMPLIFIED": "啊 经纪人~",
+      "CHINESE_TRADITIONAL": "啊 經紀人~",
+      "JAPANESE": "あ～、マネージャー？",
+      "INDONESIAN": "Uh, manajer~",
+      "PORTUGUESE": "Uh, gerente~",
+      "RUSSIAN": "Эм, менеджер~",
+      "FRENCH": "Euh, manager~",
+      "THAI": "เอ่อ, ผู้จัดการ~"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그 혹시 시급은 어떻게 될까요?",
+      "ENGLISH": "By the way, what’s the hourly rate?",
+      "CHINESE_SIMPLIFIED": "时薪能给我多少啊？",
+      "CHINESE_TRADITIONAL": "時薪能給我多少啊？",
+      "JAPANESE": "時給はどうなるんでしょうか？",
+      "INDONESIAN": "Ngomong-ngomong, berapa gajinya per jam?",
+      "PORTUGUESE": "A propósito, qual é o salário por hora?",
+      "RUSSIAN": "Кстати, а какая почасовая ставка?",
+      "FRENCH": "Au fait, quel est le tarif horaire ?",
+      "THAI": "ว่าแต่ว่า ค่าจ้างรายชั่วโมงเท่าไหร่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아까 보니까 손댈 게 한두 개가 아니던데.",
+      "ENGLISH": "From what I saw earlier, there’s a lot to handle.",
+      "CHINESE_SIMPLIFIED": "刚刚试了一下发现活儿真的不少呢",
+      "CHINESE_TRADITIONAL": "剛剛試了一下發現活兒真的不少呢",
+      "JAPANESE": "さっき見たら、やることたくさんあるみたいだけど",
+      "INDONESIAN": "Dari yang kulihat tadi, banyak banget yang harus diurus.",
+      "PORTUGUESE": "Pelo que vi antes, tem muita coisa pra lidar.",
+      "RUSSIAN": "Судя по тому, что я видел раньше, тут много дел.",
+      "FRENCH": "D’après ce que j’ai vu, il y a beaucoup à gérer.",
+      "THAI": "จากที่ฉันเห็น งานเยอะมากเลยนะ."
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "로드매니저까지 하게 되면... 한...",
+      "ENGLISH": "If I’m also acting as the road manager...",
+      "CHINESE_SIMPLIFIED": "全职的话...一个月应该有...",
+      "CHINESE_TRADITIONAL": "全職的話...一個月應該有...",
+      "JAPANESE": "ロードマネージャーまでやるなら…大体…",
+      "INDONESIAN": "Kalau aku juga jadi road manager...",
+      "PORTUGUESE": "Se eu também for o road manager...",
+      "RUSSIAN": "Если я буду ещё и дорожным менеджером...",
+      "FRENCH": "Si je fais aussi le rôle de road manager...",
+      "THAI": "ถ้าฉันต้องเป็นผู้จัดการถนนด้วย..."
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "월 400?",
+      "ENGLISH": "How about 4 million won a month?",
+      "CHINESE_SIMPLIFIED": "2万4左右吧?",
+      "CHINESE_TRADITIONAL": "2萬4左右吧?",
+      "JAPANESE": "月に4万？",
+      "INDONESIAN": "Gimana kalau 45 juta rupiah per bulan?",
+      "PORTUGUESE": "Que tal 2.800 euros por mês?",
+      "RUSSIAN": "Как насчёт 4 миллиона вон в месяц?",
+      "FRENCH": "Que dirais-tu de 4 millions de wons par mois ?",
+      "THAI": "4 ล้านวอนต่อเดือนดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "Ах...",
+      "FRENCH": "Ah...",
+      "THAI": "อ่า..."
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "일단 제가 해보고! 견적을 한 번 뽑아볼게요!",
+      "ENGLISH": "Let’s try it out first and then I’ll discuss the salary!",
+      "CHINESE_SIMPLIFIED": "我再做一段时间然后给你报价吧!",
+      "CHINESE_TRADITIONAL": "我再做一段時間然後給你報價吧!",
+      "JAPANESE": "とりあえず、やってみて！見積もり、一度出してみますね！",
+      "INDONESIAN": "Coba aja dulu, nanti baru kita bahas soal gajinya!",
+      "PORTUGUESE": "Vamos tentar primeiro, depois discutimos o salário!",
+      "RUSSIAN": "Давай для начала попробуем, а потом обсудим зарплату!",
+      "FRENCH": "Essayons d’abord, et on discutera du salaire après !",
+      "THAI": "ลองทำดูก่อน แล้วค่อยคุยเรื่องเงินเดือนอีกที!"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 15.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 네...",
+      "ENGLISH": "Oh, okay...",
+      "CHINESE_SIMPLIFIED": "嗯，好吧…",
+      "CHINESE_TRADITIONAL": "嗯，好吧…",
+      "JAPANESE": "あ、はい…",
+      "INDONESIAN": "Oh, oke...",
+      "PORTUGUESE": "Ah, tá bom...",
+      "RUSSIAN": "А, ну хорошо...",
+      "FRENCH": "Ah, d’accord...",
+      "THAI": "โอเค..."
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 그리고 매니저 하면...",
+      "ENGLISH": "And if I become the manager...",
+      "CHINESE_SIMPLIFIED": "如果我一直做经纪人的话...",
+      "CHINESE_TRADITIONAL": "如果我一直做經紀人的話...",
+      "JAPANESE": "あ、それとマネージャーをやるなら、",
+      "INDONESIAN": "Dan kalau aku jadi manajer...",
+      "PORTUGUESE": "E se eu virar o gerente...",
+      "RUSSIAN": "И если я стану менеджером...",
+      "FRENCH": "Et si je deviens manager...",
+      "THAI": "แล้วถ้าฉันเป็นผู้จัดการ..."
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "계속 저 오빠로 불러주는 거죠?",
+      "ENGLISH": "You’ll keep calling me oppa, right?",
+      "CHINESE_SIMPLIFIED": "你会一直叫我哥哥吧?",
+      "CHINESE_TRADITIONAL": "你會一直叫我哥哥吧?",
+      "JAPANESE": "ずっと「お兄ちゃん」って呼んでくれるんですよね？",
+      "INDONESIAN": "Kamu tetap panggil aku oppa, kan?",
+      "PORTUGUESE": "Você vai continuar me chamando de oppa, né?",
+      "RUSSIAN": "Ты ведь продолжишь называть меня оппой, да?",
+      "FRENCH": "Tu continueras à m’appeler oppa, hein ?",
+      "THAI": "เธอจะเรียกฉันว่าอปป้าต่อไปใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "네 그럴게요...",
+      "ENGLISH": "Yes, of course... Yuman oppa...",
+      "CHINESE_SIMPLIFIED": "当…当然了...",
+      "CHINESE_TRADITIONAL": "當…當然了...",
+      "JAPANESE": "はい、そうします…",
+      "INDONESIAN": "Iya, tentu... Yuman oppa...",
+      "PORTUGUESE": "Claro... Yuman oppa...",
+      "RUSSIAN": "Да, конечно... Юман-оппа...",
+      "FRENCH": "Oui, bien sûr... Yuman oppa...",
+      "THAI": "แน่นอน... ยูมันอปป้า..."
+    },
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "유만 오빠...",
+      "ENGLISH": "Yuman... oppa...",
+      "CHINESE_SIMPLIFIED": "宥万...哥哥…",
+      "CHINESE_TRADITIONAL": "宥萬...哥哥…",
+      "JAPANESE": "ユマンお兄ちゃん…",
+      "INDONESIAN": "Yuman... oppa...",
+      "PORTUGUESE": "Yuman... oppa...",
+      "RUSSIAN": "Юман... оппа...",
+      "FRENCH": "Yuman... oppa...",
+      "THAI": "ยูมัน... อปป้า..."
+    },
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "ENGLISH": "[Mal-sook: Buy some wine when you come! Party to celebrate Eunbi's arrival]",
+      "CHINESE_SIMPLIFIED": "[高末淑:买点酒来！今晚是恩妃的欢迎派对]",
+      "CHINESE_TRADITIONAL": "[高末淑:買點酒來！今晚是恩妃的歡迎派對]",
+      "JAPANESE": "[マルスク：後でワインを買ってきて！ウンビ帰国のお祝いパーティーしようと思って。]",
+      "INDONESIAN": "[Mal-sook: Beli wine pas datang ya! Pesta buat ngerayain kedatangan Eun-bi]",
+      "PORTUGUESE": "[Mal-sook: Compra vinho quando vier! Festa pra comemorar a chegada da Eun-bi]",
+      "RUSSIAN": "[Мал-Сук: Купи вина по дороге! Вечеринка в честь приезда Ынби]",
+      "FRENCH": "[Mal-sook : Achète du vin en venant ! Fête pour fêter l’arrivée d’Eunbi]",
+      "THAI": "[มัลซุก: ซื้อไวน์มาด้วย! ปาร์ตี้ต้อนรับอึนบี]"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "이만 들어갈까요?",
+      "ENGLISH": "Shall we head in?",
+      "CHINESE_SIMPLIFIED": "那我们走吧?",
+      "CHINESE_TRADITIONAL": "那我們走吧?",
+      "JAPANESE": "そろそろ帰りましょうか？",
+      "INDONESIAN": "Kita masuk sekarang?",
+      "PORTUGUESE": "Vamos entrar?",
+      "RUSSIAN": "Ну что, пойдём?",
+      "FRENCH": "On entre ?",
+      "THAI": "เข้าไปกันไหม?"
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.0
+    }
+  }
+]

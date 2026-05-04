@@ -1,0 +1,1256 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) 이건 속옷이야 뭐야?",
+      "ENGLISH": "(Production Staff)Wait, is that... underwear or what?",
+      "CHINESE_SIMPLIFIED": "(制作组) 这是内衣还是什么？",
+      "CHINESE_TRADITIONAL": "(製作組) 這是內衣還是什麼？",
+      "JAPANESE": "(スタッフ) これは下着なの？何なの？",
+      "INDONESIAN": "(Staf Produksi) Tunggu, itu... pakaian dalam atau apa?",
+      "PORTUGUESE": "(Equipe de Produção) Espera, isso é... roupa íntima ou o quê?",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Это что, бельё или что-то ещё?",
+      "FRENCH": "(Équipe de production) Attends, c’est... des sous-vêtements ou quoi ?",
+      "THAI": "(ทีมงานฝ่ายผลิต) เดี๋ยวนะ นั่นมัน... ชุดชั้นในหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 10.27,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "\"아니, 뭐야!\" 하면서 봐야 되는 건 줄 알았는데 아닌가 봐요",
+      "ENGLISH": "I thought it was something I had to look at and say, 'What the heck!' but I guess not.",
+      "CHINESE_SIMPLIFIED": "我以为是要边看边说 \"啊，这什么啊!\" 看来不是啊",
+      "CHINESE_TRADITIONAL": "我以爲是要邊看邊說 \"啊，這什麼啊!\" 看來不是啊",
+      "JAPANESE": "リアクションしなきゃいけないのかと思ったけど、そうじゃないみたいですね。",
+      "INDONESIAN": "Kupikir itu sesuatu yang bakal bikin aku bilang, “Apa-apaan ini!” tapi ternyata nggak.",
+      "PORTUGUESE": "Achei que era algo que eu ia olhar e dizer \"Que porra é essa!\" mas acho que não.",
+      "RUSSIAN": "Я думал, что это что-то, на что я посмотрю и скажу: «Что за ерунда!», но, похоже, нет.",
+      "FRENCH": "Je pensais que c’était un truc qui me ferait dire « Mais c’est quoi ce truc ! », mais en fait, non.",
+      "THAI": "ตอนแรกคิดว่ามันจะเป็นอะไรที่ต้องดูแล้วพูดว่า ‘นี่มันบ้าอะไรกันเนี่ย!’ แต่ดูเหมือนจะไม่ใช่แฮะ"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이런거 입혀보고 싶구나?",
+      "ENGLISH": "Are you imagining putting that on?",
+      "CHINESE_SIMPLIFIED": "原来你喜欢穿这种啊？",
+      "CHINESE_TRADITIONAL": "原來你喜歡穿這種啊？",
+      "JAPANESE": "こういうの、着せてみたかったんでしょ？",
+      "INDONESIAN": "Kamu lagi membayangkan diri pakai itu, ya?",
+      "PORTUGUESE": "Você tá imaginando se usando isso, né?",
+      "RUSSIAN": "Ты представляешь себя в этом?",
+      "FRENCH": "Tu t’imagines le porter ?",
+      "THAI": "นี่คุณกำลังจินตนาการถึงตอนใส่อยู่หรือไง?"
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) 입혀 봤냐고?",
+      "ENGLISH": "(Production Staff) Have you tried it on?",
+      "CHINESE_SIMPLIFIED": "你问我有没有穿过（制作组）？",
+      "CHINESE_TRADITIONAL": "你問我有沒有穿過（製作組）？",
+      "JAPANESE": "(スタッフ) 着せてみたかった？",
+      "INDONESIAN": "(Staf Produksi) Udah coba dipakai belum?",
+      "PORTUGUESE": "(Equipe de Produção) Já experimentou?",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Ты это уже примерял(а)?",
+      "FRENCH": "(Équipe de production) Tu l’as essayé ?",
+      "THAI": "(ทีมงานฝ่ายผลิต) คุณเคยลองใส่แล้วหรือยัง?"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) \"자 다리 한 짝씩~\"",
+      "ENGLISH": "(Production Staff) Alright, one leg at a time!",
+      "CHINESE_SIMPLIFIED": "(制作组) \"来，一人穿一边~\"",
+      "CHINESE_TRADITIONAL": "(製作組) \"來，一人穿一邊~\"",
+      "JAPANESE": "(スタッフ) さあ、片足ずつ入れて〜",
+      "INDONESIAN": "(Staf Produksi) Ayo, satu kaki dulu!",
+      "PORTUGUESE": "(Equipe de Produção) Certo, uma perna de cada vez!",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Ну ладно, по одной ноге за раз!",
+      "FRENCH": "(Équipe de production) Allez, une jambe à la fois !",
+      "THAI": "(ทีมงานฝ่ายผลิต) เอาล่ะ ใส่ทีละขานะ!"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) \"아이 거기 아니지, 거기 두 개 다 들어갔잖아\"",
+      "ENGLISH": "(Production Staff) No, not like that! Both legs went into the same hole!",
+      "CHINESE_SIMPLIFIED": "(制作组) \"哎呀 不是那里，你两个腿都放进去了\"",
+      "CHINESE_TRADITIONAL": "(製作組) \"哎呀 不是那裏，你兩個腿都放進去了\"",
+      "JAPANESE": "(スタッフ) 違う違う、そこじゃない！二つ、同じところに入ってるってば！",
+      "INDONESIAN": "(Staf Produksi) Bukan begitu! Kedua kaki masuk ke lubang yang sama!",
+      "PORTUGUESE": "(Equipe de Produção) Não, não assim! As duas pernas entraram no mesmo buraco!",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Нет, не так! Оба колена в одну дырку!",
+      "FRENCH": "(Équipe de production) Non, pas comme ça ! Les deux jambes dans le même trou !",
+      "THAI": "(ทีมงานฝ่ายผลิต) ไม่ ไม่ใช่อย่างนั้น! ใส่ผิดแล้ว ขาทั้งสองข้างเข้าไปในรูเดียวกันหมด!"
+    },
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 28.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "우유만!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "吴宥万！",
+      "CHINESE_TRADITIONAL": "吳宥萬！",
+      "JAPANESE": "ユマン！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "RUSSIAN": "Юман!",
+      "FRENCH": "Yuman !",
+      "THAI": "ยูมัน!"
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 34.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "ENGLISH": "(Laughing)",
+      "CHINESE_SIMPLIFIED": "哈哈哈哈哈哈哈",
+      "CHINESE_TRADITIONAL": "哈哈哈哈哈哈哈",
+      "JAPANESE": "（笑）",
+      "INDONESIAN": "(Tertawa)",
+      "PORTUGUESE": "(Rindo)",
+      "RUSSIAN": "(Смех)",
+      "FRENCH": "(En riant)",
+      "THAI": "(หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만!",
+      "ENGLISH": "Hey, Yuman!",
+      "CHINESE_SIMPLIFIED": "喂 吴宥万！",
+      "CHINESE_TRADITIONAL": "喂 吳宥萬！",
+      "JAPANESE": "ちょっと、ユマン！",
+      "INDONESIAN": "Hey, Yuman!",
+      "PORTUGUESE": "Ei, Yuman!",
+      "RUSSIAN": "Эй, Юман!",
+      "FRENCH": "Hé, Yuman !",
+      "THAI": "เฮ้ ยูมัน!"
+    },
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 38.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "빨래 어떻게 하라고 했지?",
+      "ENGLISH": "How did I tell you to do the laundry again?",
+      "CHINESE_SIMPLIFIED": "我让你怎么洗来着？",
+      "CHINESE_TRADITIONAL": "我讓你怎麼洗來着？",
+      "JAPANESE": "洗濯どうやってしろって言ったっけ？",
+      "INDONESIAN": "Gimana aku bilang cara nyuci baju lagi?",
+      "PORTUGUESE": "Como eu te ensinei a lavar roupa mesmo?",
+      "RUSSIAN": "Как я говорила тебе стирать бельё?",
+      "FRENCH": "Comment je t’ai dit de faire la lessive ?",
+      "THAI": "ฉันบอกคุณไว้ยังไงเรื่องซักผ้า?"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 42.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "세탁망에 넣어서...",
+      "ENGLISH": "Put it in the laundry net...",
+      "CHINESE_SIMPLIFIED": "放进护洗袋里...",
+      "CHINESE_TRADITIONAL": "放進護洗袋裏...",
+      "JAPANESE": "洗濯ネットに入れて…",
+      "INDONESIAN": "Masukkan ke dalam jaring cucian…",
+      "PORTUGUESE": "Coloque na rede de lavagem…",
+      "RUSSIAN": "Клади в сетку для стирки...",
+      "FRENCH": "Mets-le dans le filet à linge...",
+      "THAI": "ใส่ลงในถุงตาข่ายซักผ้า..."
+    },
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 45.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어! 뭐야!",
+      "ENGLISH": "Wait! What the—!",
+      "CHINESE_SIMPLIFIED": "哦！这什么啊！",
+      "CHINESE_TRADITIONAL": "哦！這什麼啊！",
+      "JAPANESE": "うわ！何だ、これ！",
+      "INDONESIAN": "Tunggu! Apa—?!",
+      "PORTUGUESE": "Espera! Mas o que—!",
+      "RUSSIAN": "Подожди! Что за—!",
+      "FRENCH": "Attends ! Qu’est-ce que—!",
+      "THAI": "เดี๋ยว! อะไรเนี่ย—!"
+    },
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 46.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "잠깐만 저 너무 심장이 떨려요",
+      "ENGLISH": "Hold on, my heart’s racing.",
+      "CHINESE_SIMPLIFIED": "等一下 我的心跳的好快",
+      "CHINESE_TRADITIONAL": "等一下 我的心跳的好快",
+      "JAPANESE": "ちょっと待って、心臓がめっちゃドキドキしてる！",
+      "INDONESIAN": "Sabar, jantungku berdebar.",
+      "PORTUGUESE": "Pera, meu coração tá disparado.",
+      "RUSSIAN": "Стой, у меня сердце бьётся быстрее.",
+      "FRENCH": "Attends, mon cœur s’emballe.",
+      "THAI": "ใจฉันเต้นแรงเลย"
+    },
+    "TIME": {
+      "SHOW": 56.4,
+      "HIDE": 58.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "(심박수를 재는 민정의 나쁜 손)",
+      "ENGLISH": "(Measuring heart rate with her 'naughty' hand)",
+      "CHINESE_SIMPLIFIED": "（敏静测量心率的小坏手）",
+      "CHINESE_TRADITIONAL": "（敏靜測量心率的小壞手）",
+      "JAPANESE": "(ミンジョンが手で心拍数を測る)",
+      "INDONESIAN": "(Ngukur detak jantung pakai tangan \"nakal\")",
+      "PORTUGUESE": "(Medindo batimento com a mão “sapeca”)",
+      "RUSSIAN": "(Измеряет пульс своей «игривой» рукой)",
+      "FRENCH": "(Elle mesure son rythme cardiaque avec sa main « coquine »)",
+      "THAI": "(จับอัตราการเต้นหัวใจด้วยมือ 'แสบๆ' ของเธอ)"
+    },
+    "TIME": {
+      "SHOW": 58.3,
+      "HIDE": 61.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "야 우리 둘이 (게임 안에서) 안 친하잖아?!",
+      "ENGLISH": "Hey, we’re not even close in the game, are we?!",
+      "CHINESE_SIMPLIFIED": "喂 我们俩(在游戏里)不熟啊?!",
+      "CHINESE_TRADITIONAL": "喂 我們倆(在遊戲裏)不熟啊?!",
+      "JAPANESE": "私たち(ゲームの中では)仲良くないじゃん。",
+      "INDONESIAN": "Hey, kita bahkan belum dekat di game ini, kan?!",
+      "PORTUGUESE": "Ei, a gente nem tá próximo no jogo, né?!",
+      "RUSSIAN": "Эй, у нас ведь ещё нет близости в игре, так ведь?!",
+      "FRENCH": "Hé, on n’est même pas censés être proches dans le jeu, hein ?!",
+      "THAI": "นี่ เราไม่ได้สนิทกันเลยในเกม ใช่ไหม?!"
+    },
+    "TIME": {
+      "SHOW": 68.0,
+      "HIDE": 69.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "맞아요",
+      "ENGLISH": "Right.",
+      "CHINESE_SIMPLIFIED": "对啊",
+      "CHINESE_TRADITIONAL": "對啊",
+      "JAPANESE": "そうだね。",
+      "INDONESIAN": "Betul.",
+      "PORTUGUESE": "Exato.",
+      "RUSSIAN": "Правда.",
+      "FRENCH": "C’est vrai.",
+      "THAI": "ใช่"
+    },
+    "TIME": {
+      "SHOW": 69.3,
+      "HIDE": 69.9
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "안 친해야 되죠? 얘랑 나랑 라이벌이잖아.",
+      "ENGLISH": "Yeah, we’re not supposed to be close, right? We’re rivals.",
+      "CHINESE_SIMPLIFIED": "不能这么亲密吧？ 他和我不是情敌嘛",
+      "CHINESE_TRADITIONAL": "不能這麼親密吧？ 他和我不是情敵嘛",
+      "JAPANESE": "仲良くしちゃいけないんだよね？お互いライバルなんだから。",
+      "INDONESIAN": "Iya, kita kan nggak seharusnya dekat, kan? Kita saingan.",
+      "PORTUGUESE": "Sim, a gente não deveria ser próximos, né? Somos rivais.",
+      "RUSSIAN": "Да, мы не должны быть близки, правильно? Мы же соперники.",
+      "FRENCH": "Ouais, on n’est pas censés être proches, hein ? On est rivaux.",
+      "THAI": "ใช่ เราไม่ควรจะสนิทกัน ใช่ไหม? เราเป็นคู่แข่งกัน"
+    },
+    "TIME": {
+      "SHOW": 69.9,
+      "HIDE": 72.7
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) 라이벌은 아닌데...",
+      "ENGLISH": "(Production Staff) Well, you’re not exactly rivals…",
+      "CHINESE_SIMPLIFIED": "虽然不算是竞争对手...",
+      "CHINESE_TRADITIONAL": "雖然不算是競爭對手...",
+      "JAPANESE": "(スタッフ) ライバルではないけど…",
+      "INDONESIAN": "(Staf Produksi) Yah, kalian bukan saingan juga sih...",
+      "PORTUGUESE": "(Equipe de Produção) Bem, vocês não são exatamente rivais...",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Ну, вы не совсем соперники...",
+      "FRENCH": "(Équipe de production) Bon, vous n’êtes pas vraiment des rivaux...",
+      "THAI": "(ทีมงานฝ่ายผลิต) จริงๆ แล้วก็ไม่ได้เป็นคู่แข่งกันซะทีเดียว…"
+    },
+    "TIME": {
+      "SHOW": 72.7,
+      "HIDE": 74.1
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "우리 다 안 친한... ",
+      "ENGLISH": "We’re all just… not close.",
+      "CHINESE_SIMPLIFIED": "我们都不是很熟才对...",
+      "CHINESE_TRADITIONAL": "我們都不是很熟纔對...",
+      "JAPANESE": "みんな仲良くはない…",
+      "INDONESIAN": "Kita semua cuma… nggak dekat aja.",
+      "PORTUGUESE": "Todos nós só… não somos próximos.",
+      "RUSSIAN": "Мы все просто... не близки.",
+      "FRENCH": "On est tous juste... pas proches.",
+      "THAI": "เราทุกคนแค่… ไม่ได้สนิทกัน"
+    },
+    "TIME": {
+      "SHOW": 74.1,
+      "HIDE": 75.2
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "(모두가) 다 라이벌~ 이런!",
+      "ENGLISH": "(Everyone in unison) Everyone’s a rival, right?!",
+      "CHINESE_SIMPLIFIED": "（所有人）都是竞争对手~ 真是的！",
+      "CHINESE_TRADITIONAL": "（所有人）都是競爭對手~ 真是的！",
+      "JAPANESE": "(みんな) 全員ライバルってことね！",
+      "INDONESIAN": "(Semuanya serempak) Semua saingan, kan?!",
+      "PORTUGUESE": "(Todos juntos) Todo mundo é rival, né?!",
+      "RUSSIAN": "(Все вместе) Все соперники, да?!",
+      "FRENCH": "(Tout le monde en chœur) Tout le monde est un rival, non ?!",
+      "THAI": "(ทุกคนพร้อมเพรียง) ทุกคนเป็นคู่แข่งกัน ใช่ไหมล่ะ?!"
+    },
+    "TIME": {
+      "SHOW": 75.2,
+      "HIDE": 77.5
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "(대사를 맞춰보는 말숙과 은비)",
+      "ENGLISH": "(Mal-sook and Eun-bi practicing lines)",
+      "CHINESE_SIMPLIFIED": "(对台词的末淑和恩妃)",
+      "CHINESE_TRADITIONAL": "(對臺詞的末淑和恩妃)",
+      "JAPANESE": "(セリフを合わせるマルスクとウンビ)",
+      "INDONESIAN": "(Mal-sook dan Eun-bi latihan dialog)",
+      "PORTUGUESE": "(Mal-sook e Eun-bi ensaiando as falas)",
+      "RUSSIAN": "(Мал-Сук и Ын-би репетируют реплики)",
+      "FRENCH": "(Mal-sook et Eun-bi répètent leurs répliques)",
+      "THAI": "(มัลซุกและอึนบีกำลังซ้อมบท)"
+    },
+    "TIME": {
+      "SHOW": 83.7,
+      "HIDE": 84.2
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 까봤다가 언니 상처 받으면 어떡해~",
+      "ENGLISH": "Honestly, what if it hurts her feelings when we find out?",
+      "CHINESE_SIMPLIFIED": "真的确认(胸部大小) , 姐姐受伤了怎么办~",
+      "CHINESE_TRADITIONAL": "真的確認(胸部大小) , 姐姐受傷了怎麼辦~",
+      "JAPANESE": "見たら、姉ちゃん傷つくんじゃない？",
+      "INDONESIAN": "Serius, gimana kalau dia jadi sakit hati saat tahu kebenarannya?",
+      "PORTUGUESE": "Sério, e se ela ficar chateada quando souber?",
+      "RUSSIAN": "Честно говоря, а если это заденет её чувства, когда мы выясним?",
+      "FRENCH": "Franchement, et si ça lui faisait de la peine quand on le découvrira ?",
+      "THAI": "พูดตรงๆ เลยนะ จะทำยังไงถ้าเธอรู้สึกแย่จริงๆ ขึ้นมา?"
+    },
+    "TIME": {
+      "SHOW": 84.2,
+      "HIDE": 86.9
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "니가 할 소리는 아닌 것 같은데... (웃음)",
+      "ENGLISH": "Coming from you? You’re the last one to say that! (laughing)",
+      "CHINESE_SIMPLIFIED": "好像不是你该说的话...（笑）",
+      "CHINESE_TRADITIONAL": "好像不是你該說的話...（笑）",
+      "JAPANESE": "それ、あんたが言うセリフじゃないでしょ…(笑)",
+      "INDONESIAN": "Dari kamu? Kamu orang terakhir yang boleh ngomong gitu! (tertawa)",
+      "PORTUGUESE": "Falando sério? Você é a última pessoa que pode falar isso! (rindo)",
+      "RUSSIAN": "От тебя это слышать? Ты последняя, кто должна это говорить! (смеётся)",
+      "FRENCH": "Venant de toi ? T’es la dernière à pouvoir dire ça ! (rires)",
+      "THAI": "พูดแบบนั้นได้ไง? คุณเป็นคนสุดท้ายที่ควรพูดเลย! (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 86.9,
+      "HIDE": 88.8
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "(말숙의 욕설 애드리브)",
+      "ENGLISH": "(Mal-sook cursing adlibs)",
+      "CHINESE_SIMPLIFIED": "（末淑的脏话 即兴表演）",
+      "CHINESE_TRADITIONAL": "（末淑的髒話 即興表演）",
+      "JAPANESE": "(マルスクのアドリブの悪口)",
+      "INDONESIAN": "(Mal-sook mengumpat ala ad-lib)",
+      "PORTUGUESE": "(Mal-sook improvisando xingamento)",
+      "RUSSIAN": "(Мал-Сук ругается в импровизации)",
+      "FRENCH": "(Mal-sook qui jure en improvisant)",
+      "THAI": "(มัลซุกสบถในตอนด้นสด)"
+    },
+    "TIME": {
+      "SHOW": 88.8,
+      "HIDE": 91.8
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "너 진짜 진심으로 비웃을래?",
+      "ENGLISH": "You seriously want to mock me for real?",
+      "CHINESE_SIMPLIFIED": "你刚刚好像真心在偷笑啊",
+      "CHINESE_TRADITIONAL": "你剛剛好像真心在偷笑啊",
+      "JAPANESE": "本気で笑い飛ばしてあげようか？",
+      "INDONESIAN": "Kamu beneran mau ngeledek aku?",
+      "PORTUGUESE": "Você quer mesmo me zoar de verdade?",
+      "RUSSIAN": "Ты серьёзно хочешь издеваться надо мной по-настоящему?",
+      "FRENCH": "Tu veux vraiment te moquer de moi pour de vrai ?",
+      "THAI": "คุณอยากจะล้อเลียนฉันจริงๆ ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 93.1,
+      "HIDE": 94.8
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 아니! 대본이... (웃음)",
+      "ENGLISH": "No, no! It’s in the script! (laughing)",
+      "CHINESE_SIMPLIFIED": "不不！ 是剧本... (笑)",
+      "CHINESE_TRADITIONAL": "不不！ 是劇本... (笑)",
+      "JAPANESE": "いやいや！台本が…(笑)",
+      "INDONESIAN": "Nggak, nggak! Ini kan di naskah! (tertawa)",
+      "PORTUGUESE": "Não, não! Tá no roteiro! (rindo)",
+      "RUSSIAN": "Нет, нет! Это в сценарии! (смеётся)",
+      "FRENCH": "Non, non ! C’est dans le script ! (rires)",
+      "THAI": "ไม่ ไม่! มันอยู่ในบทต่างหาก! (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 96.6,
+      "HIDE": 99.6
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "(모니터링 중)",
+      "ENGLISH": "(During the monitoring session)",
+      "CHINESE_SIMPLIFIED": "（监视中）",
+      "CHINESE_TRADITIONAL": "（監視中）",
+      "JAPANESE": "(モニタリング中)",
+      "INDONESIAN": "(Saat sesi monitor)",
+      "PORTUGUESE": "(Durante o monitoramento)",
+      "RUSSIAN": "(Во время мониторинга)",
+      "FRENCH": "(Pendant la session de visionnage)",
+      "THAI": "(ระหว่างการดูมอนิเตอร์)"
+    },
+    "TIME": {
+      "SHOW": 101.4,
+      "HIDE": 108.5
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "이게... 뭐야? 어떻게 입는 거야?",
+      "ENGLISH": "What is this? How do you even wear this?",
+      "CHINESE_SIMPLIFIED": "这个... 什么啊？ 怎么穿啊？",
+      "CHINESE_TRADITIONAL": "這個... 什麼啊？ 怎麼穿啊？",
+      "JAPANESE": "これ…何？どうやって着るの？",
+      "INDONESIAN": "Apa ini? Gimana cara pakainya?",
+      "PORTUGUESE": "O que é isso? Como alguém usa isso?",
+      "RUSSIAN": "Что это такое? Как это вообще носить?",
+      "FRENCH": "Qu’est-ce que c’est ? Comment on porte ça ?",
+      "THAI": "นี่มันอะไรเนี่ย? ใส่ยังไงกันนะ?"
+    },
+    "TIME": {
+      "SHOW": 108.7,
+      "HIDE": 112.3
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "한번 같이 보실래요? 같이 보실래요?",
+      "ENGLISH": "Want to take a look together?",
+      "CHINESE_SIMPLIFIED": "要一起看吗？ 一起看吗？",
+      "CHINESE_TRADITIONAL": "要一起看嗎？ 一起看嗎？",
+      "JAPANESE": "一緒に見てみますか？",
+      "INDONESIAN": "Mau lihat bareng-bareng?",
+      "PORTUGUESE": "Quer dar uma olhada juntos?",
+      "RUSSIAN": "Хочешь посмотреть вместе?",
+      "FRENCH": "Tu veux qu’on regarde ensemble ?",
+      "THAI": "อยากมาดูด้วยกันไหม?"
+    },
+    "TIME": {
+      "SHOW": 121.6,
+      "HIDE": 125.2
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "귀여워~",
+      "ENGLISH": "Aww, that’s cute!",
+      "CHINESE_SIMPLIFIED": "好可爱~",
+      "CHINESE_TRADITIONAL": "好可愛~",
+      "JAPANESE": "可愛い〜",
+      "INDONESIAN": "Aww, lucu banget!",
+      "PORTUGUESE": "Aww, é fofo!",
+      "RUSSIAN": "А, это мило!",
+      "FRENCH": "Oh, c’est mignon !",
+      "THAI": "อุ๊ย น่ารักจัง!"
+    },
+    "TIME": {
+      "SHOW": 130.9,
+      "HIDE": 131.0
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "아니 근데 다들 ",
+      "ENGLISH": "Everyone’s embarrassed",
+      "CHINESE_SIMPLIFIED": "但是大家",
+      "CHINESE_TRADITIONAL": "但是大家",
+      "JAPANESE": "でもさ、みんな",
+      "INDONESIAN": "Semua malu ",
+      "PORTUGUESE": "Todos estão envergonhados",
+      "RUSSIAN": "Все смущены,",
+      "FRENCH": "Tout le monde est gêné",
+      "THAI": "ทุกคนเขิน"
+    },
+    "TIME": {
+      "SHOW": 131.0,
+      "HIDE": 132.8
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "자기 팬티가 너무 야해서 당황스러운 거 잖아요",
+      "ENGLISH": "because your underwear is way too revealing!",
+      "CHINESE_SIMPLIFIED": "因为自己的内裤太性感了很慌张",
+      "CHINESE_TRADITIONAL": "因爲自己的內褲太性感了很慌張",
+      "JAPANESE": "自分のパンツがセクシーすぎてびっくりしてるわけじゃないですか。",
+      "INDONESIAN": "karena pakaian dalammu terlalu terbuka!",
+      "PORTUGUESE": "porque sua roupa íntima é reveladora demais!",
+      "RUSSIAN": "потому что твоё бельё слишком откровенное!",
+      "FRENCH": "parce que tes sous-vêtements sont trop révélateurs !",
+      "THAI": "เพราะชุดชั้นในของคุณมันเปิดเผยเกินไป!"
+    },
+    "TIME": {
+      "SHOW": 133.0,
+      "HIDE": 135.7
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "사람들이 (자기 팬티를) 보면 안 되는데!",
+      "ENGLISH": "You’re not supposed to show everyone your panties!",
+      "CHINESE_SIMPLIFIED": "但是其实看到自己的内裤不应该慌张",
+      "CHINESE_TRADITIONAL": "但是其實看到自己的內褲不應該慌張",
+      "JAPANESE": "人に（自分のパンツを）見られたくないって感じ？",
+      "INDONESIAN": "Kamu nggak boleh tunjukin celana dalammu ke semua orang!",
+      "PORTUGUESE": "Você não deve mostrar a calcinha pra todo mundo!",
+      "RUSSIAN": "Нельзя показывать всем свои трусы!",
+      "FRENCH": "Tu n’es pas censé montrer ta culotte à tout le monde !",
+      "THAI": "คุณไม่ควรโชว์กางเกงในให้คนอื่นเห็นแบบนี้!"
+    },
+    "TIME": {
+      "SHOW": 135.7,
+      "HIDE": 137.0
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "(당황한 게 아니라 너무 해맑게 달려와서 가져가는 모습을 표현 중)",
+      "ENGLISH": "(They’re not embarrassed; they’re just running over too cheerfully to grab it!)",
+      "CHINESE_SIMPLIFIED": "(而是非常明朗地跑过来 表现自己拿走的样子)",
+      "CHINESE_TRADITIONAL": "(而是非常明朗地跑過來 表現自己拿走的樣子)",
+      "JAPANESE": "(明るく走って取りに行く様子を表現中)",
+      "INDONESIAN": "(Mereka bukan malu, tapi langsung ambil dengan riang gembira!)",
+      "PORTUGUESE": "(Eles não estão envergonhados; só correram animados pra pegar!)",
+      "RUSSIAN": "(Они не смущены; они просто радостно бегут, чтобы схватить это!)",
+      "FRENCH": "(Ils ne sont pas gênés ; ils courent juste joyeusement pour l’attraper !)",
+      "THAI": "(พวกเขาไม่ได้เขินจริงๆ แต่แค่รีบมาคว้าไปอย่างร่าเริงสุดๆ!)"
+    },
+    "TIME": {
+      "SHOW": 137.0,
+      "HIDE": 140.5
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "이런 느낌이라 ㅋㅋㅋ",
+      "ENGLISH": "It should be more like,",
+      "CHINESE_SIMPLIFIED": "就是这种感觉 呵呵呵",
+      "CHINESE_TRADITIONAL": "就是這種感覺 呵呵呵",
+      "JAPANESE": "こんな感じで（笑）",
+      "INDONESIAN": "Harusnya lebih kayak, ",
+      "PORTUGUESE": "Deveria ser mais tipo,",
+      "RUSSIAN": "Должно быть больше похоже на:",
+      "FRENCH": "Ça devrait être plus comme,",
+      "THAI": "มันควรจะเป็นแบบ"
+    },
+    "TIME": {
+      "SHOW": 140.5,
+      "HIDE": 141.7
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "\"어떡해! 나 너무 부끄러워!\" 이런 느낌으로 가야지",
+      "ENGLISH": "Oh no, I’m so embarrassed!'",
+      "CHINESE_SIMPLIFIED": "怎么办! 我好害羞! 要以这种感觉来...",
+      "CHINESE_TRADITIONAL": "怎麼辦! 我好害羞! 要以這種感覺來...",
+      "JAPANESE": "どうしよう！恥ずかしい！みたいな感じにしないと。",
+      "INDONESIAN": "Aduh, malu banget!",
+      "PORTUGUESE": "Ah não, que vergonha!",
+      "RUSSIAN": "«О нет, как же стыдно!»",
+      "FRENCH": "« Oh non, je suis tellement embarrassée ! »",
+      "THAI": "‘โอ้ ไม่นะ เขินจัง!’"
+    },
+    "TIME": {
+      "SHOW": 141.7,
+      "HIDE": 143.4
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "스타킹 길이가 모자라서 입을 수가 없어...",
+      "ENGLISH": "My stockings are too short… I can’t even get them on…",
+      "CHINESE_SIMPLIFIED": "丝袜长度不够，不能穿...",
+      "CHINESE_TRADITIONAL": "絲襪長度不夠，不能穿...",
+      "JAPANESE": "ストッキングの長さが足りなくて、履けない…",
+      "INDONESIAN": "Stockingku terlalu pendek... Susah banget dipakai...",
+      "PORTUGUESE": "Minhas meias-calças estão muito curtas... Nem consigo colocá-las...",
+      "RUSSIAN": "Мои чулки слишком короткие... Я даже не могу их надеть...",
+      "FRENCH": "Mes bas sont trop courts... Je n’arrive même pas à les enfiler...",
+      "THAI": "ถุงน่องฉันสั้นเกินไป… จะใส่ไม่เข้าเลย…"
+    },
+    "TIME": {
+      "SHOW": 160.8,
+      "HIDE": 163.2
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "찍어요! 찍어야죠!",
+      "ENGLISH": "Get this on camera! We have to shoot this!",
+      "CHINESE_SIMPLIFIED": "拍吧！当然要拍了！",
+      "CHINESE_TRADITIONAL": "拍吧！當然要拍了！",
+      "JAPANESE": "撮らないと！",
+      "INDONESIAN": "Rekam ini! Kita harus ambil ini!",
+      "PORTUGUESE": "Pega isso na câmera! Temos que gravar!",
+      "RUSSIAN": "Снимите это на камеру! Нам нужно это заснять!",
+      "FRENCH": "Filme ça ! On doit filmer ça !",
+      "THAI": "ถ่ายไว้หน่อย! ต้องถ่ายฉากนี้ให้ได้!"
+    },
+    "TIME": {
+      "SHOW": 166.3,
+      "HIDE": 167.9
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "(찍고 싶은 영상이 있는데 부끄러워하는 승이)",
+      "ENGLISH": "(Seung-yi want to shoot a video but she is way too embarrassed.)",
+      "CHINESE_SIMPLIFIED": "(有想拍的视频 但是害羞的胜伊)",
+      "CHINESE_TRADITIONAL": "(有想拍的視頻 但是害羞的勝伊)",
+      "JAPANESE": "(撮りたいけど恥ずかしいスンイ)",
+      "INDONESIAN": "(Seung-yi pengen rekam tapi terlalu malu.)",
+      "PORTUGUESE": "(Seung-yi quer gravar um vídeo mas tá morrendo de vergonha.)",
+      "RUSSIAN": "(Сын-и хочет снять видео, но ей слишком стыдно)",
+      "FRENCH": "(Seung-yi veut tourner une vidéo mais elle est trop gênée)",
+      "THAI": "(ซึงอีอยากถ่ายวิดีโอแต่เขินหนักมาก)"
+    },
+    "TIME": {
+      "SHOW": 167.9,
+      "HIDE": 172.0
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "(저희) 방으로 들어가요!",
+      "ENGLISH": "Let’s go into the room for that!",
+      "CHINESE_SIMPLIFIED": "(我们)进房间吧!",
+      "CHINESE_TRADITIONAL": "(我們)進房間吧!",
+      "JAPANESE": "(私たちの) 部屋で撮りましょう！",
+      "INDONESIAN": "Ayo masuk kamar buat yang satu ini!",
+      "PORTUGUESE": "Vamos pro quarto pra isso!",
+      "RUSSIAN": "Пойдём в комнату для этого!",
+      "FRENCH": "Allons dans la chambre pour ça !",
+      "THAI": "ไปถ่ายในห้องกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 173.4,
+      "HIDE": 175.2
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "(영상 촬영 중)",
+      "ENGLISH": "(During the shoot)",
+      "CHINESE_SIMPLIFIED": "（视频拍摄中）",
+      "CHINESE_TRADITIONAL": "（視頻拍攝中）",
+      "JAPANESE": "(動画撮影中)",
+      "INDONESIAN": "(Saat syuting)",
+      "PORTUGUESE": "(Durante a filmagem)",
+      "RUSSIAN": "(Во время съёмок)",
+      "FRENCH": "(Pendant le tournage)",
+      "THAI": "(ระหว่างถ่ายทำ)"
+    },
+    "TIME": {
+      "SHOW": 176.7,
+      "HIDE": 186.0
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "너무 잘 나왔어요! 진짜 진짜",
+      "ENGLISH": "This turned out great! ",
+      "CHINESE_SIMPLIFIED": "拍得太好了！ 真的",
+      "CHINESE_TRADITIONAL": "拍得太好了！ 真的",
+      "JAPANESE": "めっちゃよく撮れた！本当に本当に！",
+      "INDONESIAN": "Ini bagus banget!",
+      "PORTUGUESE": "Ficou ótimo!",
+      "RUSSIAN": "Получилось здорово!",
+      "FRENCH": "C’est super !",
+      "THAI": "ออกมาดีมาก! "
+    },
+    "TIME": {
+      "SHOW": 186.7,
+      "HIDE": 188.8
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "SCRIPT": {
+      "KOREAN": "너무 귀엽게 잘 나왔어요!",
+      "ENGLISH": "It’s so cute!",
+      "CHINESE_SIMPLIFIED": "拍得太可爱了！",
+      "CHINESE_TRADITIONAL": "拍得太可愛了！",
+      "JAPANESE": "可愛く撮れましたよ！",
+      "INDONESIAN": "Imut banget!",
+      "PORTUGUESE": "Ficou uma graça!",
+      "RUSSIAN": "Это так мило!",
+      "FRENCH": "C’est trop mignon !",
+      "THAI": "น่ารักสุดๆ!"
+    },
+    "TIME": {
+      "SHOW": 191.0,
+      "HIDE": 192.1
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "SCRIPT": {
+      "KOREAN": "스타킹 신으러 갑니다. 주인님~♥",
+      "ENGLISH": "I’m going to put my stockings on now, master~♥",
+      "CHINESE_SIMPLIFIED": "我去穿丝袜啦~ 主人~♥",
+      "CHINESE_TRADITIONAL": "我去穿絲襪啦~ 主人~♥",
+      "JAPANESE": "ストッキング履きに行きますよ～ご主人様〜♥",
+      "INDONESIAN": "Aku pakai stocking sekarang, master~♥",
+      "PORTUGUESE": "Vou colocar minhas meias-calças agora, mestre~♥",
+      "RUSSIAN": "Я собираюсь надеть чулки, мастер~♥",
+      "FRENCH": "Je vais mettre mes bas, maître~♥",
+      "THAI": "ฉันจะใส่ถุงน่องแล้วนะคะ คุณเจ้าของ~♥"
+    },
+    "TIME": {
+      "SHOW": 193.7,
+      "HIDE": 195.9
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "SCRIPT": {
+      "KOREAN": "엉덩이 치워라~",
+      "ENGLISH": "Move your butt!",
+      "CHINESE_SIMPLIFIED": "把屁股拿开~",
+      "CHINESE_TRADITIONAL": "把屁股拿開~",
+      "JAPANESE": "お尻どけてよ〜",
+      "INDONESIAN": "Gerakin bokongmu!",
+      "PORTUGUESE": "Mexa esse bumbum!",
+      "RUSSIAN": "Двигай свою попу!",
+      "FRENCH": "Bouge tes fesses !",
+      "THAI": "ขยับหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 199.2,
+      "HIDE": 200.2
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "SCRIPT": {
+      "KOREAN": "(그란 메이드는 사진 촬영 중!)",
+      "ENGLISH": "(Gran taking photos in maid costume)",
+      "CHINESE_SIMPLIFIED": "（女仆圆圆正在拍照！）",
+      "CHINESE_TRADITIONAL": "（女僕圓圓正在拍照！）",
+      "JAPANESE": "(メイドグランの写真撮影タイム！)",
+      "INDONESIAN": "(Gran lagi foto-foto pakai kostum maid)",
+      "PORTUGUESE": "(Gran tirando fotos com roupa de empregada)",
+      "RUSSIAN": "(Гран фотографируется в костюме горничной)",
+      "FRENCH": "(Gran prend des photos en costume de femme de ménage)",
+      "THAI": "(แกรนในชุดเมดถ่ายรูป)"
+    },
+    "TIME": {
+      "SHOW": 207.7,
+      "HIDE": 214.0
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "SCRIPT": {
+      "KOREAN": "(어린 승이를 귀여워하는 승이)",
+      "ENGLISH": "(Seung-yi admiring her childhood self)",
+      "CHINESE_SIMPLIFIED": "（疼爱小圣依的大圣依）",
+      "CHINESE_TRADITIONAL": "（疼愛小聖依的大聖依）",
+      "JAPANESE": "(幼いスンイを可愛がるスンイ)",
+      "INDONESIAN": "(Seung-yi mengagumi dirinya waktu kecil)",
+      "PORTUGUESE": "(Seung-yi admirando sua versão de infância)",
+      "RUSSIAN": "(Сын-и любуется собой в детстве)",
+      "FRENCH": "(Seung-yi admirant son moi d’enfance)",
+      "THAI": "(ซึงอีชื่นชมตัวเองตอนเด็ก)"
+    },
+    "TIME": {
+      "SHOW": 227.9,
+      "HIDE": 230.2
+    }
+  },
+  {
+    "INDEX": 48.0,
+    "SCRIPT": {
+      "KOREAN": "너무 귀여워!! 저게 나?",
+      "ENGLISH": "Wow, I was so cute back then! That was me?",
+      "CHINESE_SIMPLIFIED": "太可爱了！！ 那是我吗？",
+      "CHINESE_TRADITIONAL": "太可愛了！！ 那是我嗎？",
+      "JAPANESE": "すごく可愛い！あれが、私ですか？（笑）",
+      "INDONESIAN": "Wow, aku lucu banget dulu! Itu beneran aku?",
+      "PORTUGUESE": "Uau, eu era muito fofa! Essa era eu?",
+      "RUSSIAN": "Вау, я была такая милая тогда! Это была я?",
+      "FRENCH": "Wow, j’étais si mignonne à l’époque ! C’était moi ?",
+      "THAI": "ว้าว ตอนนั้นน่ารักมากเลย! นั่นฉันเองเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 233.8,
+      "HIDE": 236.4
+    }
+  },
+  {
+    "INDEX": 49.0,
+    "SCRIPT": {
+      "KOREAN": "엉덩이! 엉덩이 찍어줘! (장난)",
+      "ENGLISH": "Take a picture of my butt! (joking)",
+      "CHINESE_SIMPLIFIED": "屁股! 拍一下屁股! (开玩笑)",
+      "CHINESE_TRADITIONAL": "屁股! 拍一下屁股! (開玩笑)",
+      "JAPANESE": "お尻！お尻撮って！（冗談）",
+      "INDONESIAN": "Foto bokongku juga! (becanda)",
+      "PORTUGUESE": "Tira uma foto do meu bumbum! (brincando)",
+      "RUSSIAN": "Сфотографируй мою попу! (шутка)",
+      "FRENCH": "Prends une photo de mes fesses ! (en plaisantant)",
+      "THAI": "ถ่ายก้นฉันหน่อยสิ! (ล้อเล่น)"
+    },
+    "TIME": {
+      "SHOW": 247.1,
+      "HIDE": 249.6
+    }
+  },
+  {
+    "INDEX": 50.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) 지금 여기 (은비는) 1열 직관",
+      "ENGLISH": "(Production Staff) Eun-bi’s got a front-row seat here!",
+      "CHINESE_SIMPLIFIED": "(制作组) 现在这里是(恩菲)第一排视角",
+      "CHINESE_TRADITIONAL": "(製作組) 現在這裏是(恩菲)第一排視角",
+      "JAPANESE": "(スタッフ) 今ここで (ウンビが) 特等席で見てる",
+      "INDONESIAN": "(Staf Produksi) Eun-bi punya tempat VIP di sini!",
+      "PORTUGUESE": "(Equipe de Produção) Eun-bi tem um lugar na primeira fila aqui!",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Ын-би в первом ряду!",
+      "FRENCH": "(Équipe de production) Eun-bi a une place au premier rang ici !",
+      "THAI": "(ทีมงานฝ่ายผลิต) อึนบีได้ที่นั่งแถวหน้าที่นี่เลย!"
+    },
+    "TIME": {
+      "SHOW": 252.9,
+      "HIDE": 254.8
+    }
+  },
+  {
+    "INDEX": 51.0,
+    "SCRIPT": {
+      "KOREAN": "왜요?! 싫어요. 하지 마세요. (장난)",
+      "ENGLISH": "What?! No! Don’t do that! (laughing)",
+      "CHINESE_SIMPLIFIED": "为什么？！不要~",
+      "CHINESE_TRADITIONAL": "爲什麼？！不要~",
+      "JAPANESE": "えっ、何で！？やだ、やめてください！（冗談）",
+      "INDONESIAN": "Apa?! Nggak! Jangan! (tertawa)",
+      "PORTUGUESE": "O quê?! Não! Não faz isso! (rindo)",
+      "RUSSIAN": "Что?! Нет! Не делайте этого! (смеётся)",
+      "FRENCH": "Quoi ?! Non ! Ne fais pas ça ! (rires)",
+      "THAI": "อะไรนะ?! ไม่เอานะ! (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 256.5,
+      "HIDE": 259.1
+    }
+  },
+  {
+    "INDEX": 52.0,
+    "SCRIPT": {
+      "KOREAN": "(유행하는 챌린지의 춤이 뭐가 맞는지 토론 중)",
+      "ENGLISH": "(Discussing trending challenge dances)",
+      "CHINESE_SIMPLIFIED": "(正在讨论流行的Challenge舞蹈中哪个是对的)",
+      "CHINESE_TRADITIONAL": "(正在討論流行的Challenge舞蹈中哪個是對的)",
+      "JAPANESE": "(流行りのダンスチャレンジを会っているか議論中)",
+      "INDONESIAN": "(Ngobrolin tentang tantangan dance yang lagi tren)",
+      "PORTUGUESE": "(Discutindo danças de desafios que estão bombando)",
+      "RUSSIAN": "(Обсуждение популярных челленджей с танцами)",
+      "FRENCH": "(En discutant des danses des challenges tendance)",
+      "THAI": "(คุยกันเรื่องเต้นชาเลนจ์ที่กำลังฮิต)"
+    },
+    "TIME": {
+      "SHOW": 272.7,
+      "HIDE": 282.0
+    }
+  },
+  {
+    "INDEX": 53.0,
+    "SCRIPT": {
+      "KOREAN": "(그란의 다리가 너무 탄탄해 신기한 밍밍)",
+      "ENGLISH": "(Min-jung amazed by Gran’s strong legs)",
+      "CHINESE_SIMPLIFIED": "(圆圆的腿太结实了 神奇的敏敏)",
+      "CHINESE_TRADITIONAL": "(圓圓的腿太結實了 神奇的敏敏)",
+      "JAPANESE": "(グランの足がすごく鍛えられていて、びっくりするミンミン)",
+      "INDONESIAN": "(Min-jung kagum sama kaki kuat Gran)",
+      "PORTUGUESE": "(Min-jung impressionada com as pernas fortes do Gran)",
+      "RUSSIAN": "(Мин-джун поражена сильными ногами Гран)",
+      "FRENCH": "(Min-jung impressionnée par les jambes musclées de Gran)",
+      "THAI": "(มินจองตะลึงกับขาแกรนที่แข็งแรงมาก)"
+    },
+    "TIME": {
+      "SHOW": 282.8,
+      "HIDE": 288.5
+    }
+  },
+  {
+    "INDEX": 54.0,
+    "SCRIPT": {
+      "KOREAN": "동작.. 동작하는 거죠 그러면?",
+      "ENGLISH": "So we’re doing this dance, right?",
+      "CHINESE_SIMPLIFIED": "动作... 那是在做动作吧？",
+      "CHINESE_TRADITIONAL": "動作... 那是在做動作吧？",
+      "JAPANESE": "動き…動きをやるってこと？",
+      "INDONESIAN": "Jadi, kita bakal nari ini kan?",
+      "PORTUGUESE": "Então a gente vai fazer essa dança, né?",
+      "RUSSIAN": "Так мы делаем этот танец, да?",
+      "FRENCH": "Alors, on fait cette danse, hein ?",
+      "THAI": "พวกเราต้องเต้นท่านี้ ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 291.2,
+      "HIDE": 293.1
+    }
+  },
+  {
+    "INDEX": 55.0,
+    "SCRIPT": {
+      "KOREAN": "(유만과의 1:1 아이컨택 중)",
+      "ENGLISH": "(Yuman and Eun-bi have an intense 1-on-1 staring contest)",
+      "CHINESE_SIMPLIFIED": "（与宥万一对一眼神交流中）",
+      "CHINESE_TRADITIONAL": "（與宥萬一對一眼神交流中）",
+      "JAPANESE": "(ユマンと1対1でアイコンタクト中)",
+      "INDONESIAN": "(Yuman dan Eun-bi saling menatap serius satu lawan satu)",
+      "PORTUGUESE": "(Yuman e Eun-bi numa intensa competição de olhares)",
+      "RUSSIAN": "(Юман и Ын-би в напряжённой дуэли взглядов 1 на 1)",
+      "FRENCH": "(Yuman et Eun-bi ont un intense duel de regards en face-à-face)",
+      "THAI": "(ยูมันกับอึนบีแข่งจ้องตาแบบจริงจัง)"
+    },
+    "TIME": {
+      "SHOW": 305.6,
+      "HIDE": 318.5
+    }
+  },
+  {
+    "INDEX": 56.0,
+    "SCRIPT": {
+      "KOREAN": "갑분 하트 ㅋㅋㅋㅋ",
+      "ENGLISH": "Suddenly, a heart! (laughing)",
+      "CHINESE_SIMPLIFIED": "气氛突然变成Heart哈哈哈哈",
+      "CHINESE_TRADITIONAL": "氣氛突然變成Heart哈哈哈哈",
+      "JAPANESE": "急にハートが出た（笑）",
+      "INDONESIAN": "Tiba-tiba, ada hati! (tertawa)",
+      "PORTUGUESE": "De repente, um coração! (rindo)",
+      "RUSSIAN": "Вдруг появляется сердечко! (смеются)",
+      "FRENCH": "Soudain, un cœur ! (rires)",
+      "THAI": "จู่ๆ ก็มีรูปหัวใจ! (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 332.1,
+      "HIDE": 333.1
+    }
+  },
+  {
+    "INDEX": 57.0,
+    "SCRIPT": {
+      "KOREAN": "왜 최연소 양쪽에 나를 놔가지고! 내가 제일...",
+      "ENGLISH": "Why’d you put me between the youngest ones?! ",
+      "CHINESE_SIMPLIFIED": "为什么把我放在最年轻的两边！ 我最...",
+      "CHINESE_TRADITIONAL": "爲什麼把我放在最年輕的兩邊！ 我最...",
+      "JAPANESE": "何で、最年少2人の間に私を置くのよ！私が一番…",
+      "INDONESIAN": "Kenapa aku di antara yang paling muda?!",
+      "PORTUGUESE": "Por que me colocaram entre os mais novos?!",
+      "RUSSIAN": "Почему вы поставили меня между самыми младшими?!",
+      "FRENCH": "Pourquoi vous m’avez mise entre les plus jeunes ?!",
+      "THAI": "ทำไมต้องเอาฉันมาอยู่กลางพวกเด็กสุดๆ ด้วยเนี่ย?!"
+    },
+    "TIME": {
+      "SHOW": 335.0,
+      "HIDE": 338.0
+    }
+  },
+  {
+    "INDEX": 58.0,
+    "SCRIPT": {
+      "KOREAN": "난 서른 살이잖아! ",
+      "ENGLISH": "I’m the oldest here...",
+      "CHINESE_SIMPLIFIED": "我都要三十岁了！",
+      "CHINESE_TRADITIONAL": "我都要三十歲了！",
+      "JAPANESE": "私、30歳なんだから！",
+      "INDONESIAN": "Aku paling tua di sini...",
+      "PORTUGUESE": "Eu sou a mais velha aqui...",
+      "RUSSIAN": "Я здесь самая старшая...",
+      "FRENCH": "Je suis la plus âgée ici...",
+      "THAI": "ฉันอายุมากสุดแล้วนะ…"
+    },
+    "TIME": {
+      "SHOW": 338.0,
+      "HIDE": 339.4
+    }
+  },
+  {
+    "INDEX": 59.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) 서른 살 처럼 보이지가 않아요.",
+      "ENGLISH": "(Production Staff) You don’t look thirty at all!",
+      "CHINESE_SIMPLIFIED": "你看起来不像30岁",
+      "CHINESE_TRADITIONAL": "你看起來不像30歲",
+      "JAPANESE": "(スタッフ) 30歳には見えないですよ。",
+      "INDONESIAN": "(Staf Produksi) Kamu sama sekali nggak kelihatan kayak tiga puluhan!",
+      "PORTUGUESE": "(Equipe de Produção) Você nem parece ter trinta anos!",
+      "RUSSIAN": "(Сотрудники съёмочной группы) Ты вообще не выглядишь на тридцать!",
+      "FRENCH": "(Équipe de production) Tu ne fais pas du tout tes trente ans !",
+      "THAI": "(ทีมงานฝ่ายผลิต) คุณดูไม่เหมือนคนสามสิบเลย!"
+    },
+    "TIME": {
+      "SHOW": 340.5,
+      "HIDE": 342.0
+    }
+  },
+  {
+    "INDEX": 60.0,
+    "SCRIPT": {
+      "KOREAN": "이 소리 들으려고 빌드업했다.",
+      "ENGLISH": "I built up all that just to hear that line.",
+      "CHINESE_SIMPLIFIED": "我就是为了你说听这个哈哈哈",
+      "CHINESE_TRADITIONAL": "我就是爲了你說聽這個哈哈哈",
+      "JAPANESE": "このセリフを言いたかったんだね。",
+      "INDONESIAN": "Aku ngumpulin keberanian cuma buat denger kalimat itu.",
+      "PORTUGUESE": "Eu juntei tudo isso só pra ouvir essa frase.",
+      "RUSSIAN": "Я всё это наработала, чтобы услышать эту фразу.",
+      "FRENCH": "J’ai fait tout ça juste pour entendre cette phrase.",
+      "THAI": "ทั้งหมดที่ทำมาเพื่อฟังประโยคนี้ประโยคเดียว"
+    },
+    "TIME": {
+      "SHOW": 342.5,
+      "HIDE": 344.5
+    }
+  },
+  {
+    "INDEX": 61.0,
+    "SCRIPT": {
+      "KOREAN": "(하전미의 분위기 메이커 밍밍)",
+      "ENGLISH": "(Mingming the mood maker)",
+      "CHINESE_SIMPLIFIED": "阿西美女的气氛制造者敏敏",
+      "CHINESE_TRADITIONAL": "阿西美女的氣氛製造者敏敏",
+      "JAPANESE": "(場の雰囲気を明るくするミンミン)",
+      "INDONESIAN": "(Mingming si pembawa suasana)",
+      "PORTUGUESE": "(Mingming, o animador do grupo)",
+      "RUSSIAN": "(Мингминг — заводила)",
+      "FRENCH": "(Mingming, l’animatrice de l’ambiance)",
+      "THAI": "(มิงมิง ตัวสร้างบรรยากาศ)"
+    },
+    "TIME": {
+      "SHOW": 344.5,
+      "HIDE": 349.0
+    }
+  },
+  {
+    "INDEX": 62.0,
+    "SCRIPT": {
+      "KOREAN": "근데 우리가.. 다섯 명이 서야되니깐...",
+      "ENGLISH": "But we all need to stand in a line of five, right?",
+      "CHINESE_SIMPLIFIED": "但是我们... 因为要五个人站着...",
+      "CHINESE_TRADITIONAL": "但是我們... 因爲要五個人站着...",
+      "JAPANESE": "でも私たち、5人で並ばなきゃいけないから…",
+      "INDONESIAN": "Tapi kita semua harus berdiri dalam formasi lima kan?",
+      "PORTUGUESE": "Mas todos temos que ficar numa fila de cinco, certo?",
+      "RUSSIAN": "Но нам всем нужно встать в линию из пяти, да?",
+      "FRENCH": "Mais on doit se mettre en ligne de cinq, non ?",
+      "THAI": "แต่พวกเราต้องเรียงแถวห้าคน ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 379.3,
+      "HIDE": 382.2
+    }
+  },
+  {
+    "INDEX": 63.0,
+    "SCRIPT": {
+      "KOREAN": "세모로 할까?",
+      "ENGLISH": "Should we go with a triangle formation?",
+      "CHINESE_SIMPLIFIED": "要站成三角形吗？",
+      "CHINESE_TRADITIONAL": "要站成三角形嗎？",
+      "JAPANESE": "三角形にする？",
+      "INDONESIAN": "Gimana kalau kita coba formasi segitiga?",
+      "PORTUGUESE": "Que tal tentarmos uma formação em triângulo?",
+      "RUSSIAN": "Может, сделаем треугольную формацию?",
+      "FRENCH": "On devrait faire une formation en triangle ?",
+      "THAI": "หรือจะจัดเป็นรูปสามเหลี่ยมดี?"
+    },
+    "TIME": {
+      "SHOW": 382.2,
+      "HIDE": 383.5
+    }
+  },
+  {
+    "INDEX": 64.0,
+    "SCRIPT": {
+      "KOREAN": "(아까 토론하던 챌린지를 찍는 중)",
+      "ENGLISH": "(They attempt the challenge again)",
+      "CHINESE_SIMPLIFIED": "(正在拍摄刚才讨论的挑战中)",
+      "CHINESE_TRADITIONAL": "(正在拍攝剛纔討論的挑戰中)",
+      "JAPANESE": "(さっき議論していたチャレンジを撮影中)",
+      "INDONESIAN": "(Mereka coba tantangan lagi)",
+      "PORTUGUESE": "(Eles tentam o desafio de novo)",
+      "RUSSIAN": "(Они снова пытаются выполнить челлендж)",
+      "FRENCH": "(Ils essaient le challenge encore une fois)",
+      "THAI": "(พวกเขาพยายามทำชาเลนจ์อีกครั้ง)"
+    },
+    "TIME": {
+      "SHOW": 388.5,
+      "HIDE": 392.0
+    }
+  },
+  {
+    "INDEX": 65.0,
+    "SCRIPT": {
+      "KOREAN": "(2차 시도)",
+      "ENGLISH": "(2nd attempt)",
+      "CHINESE_SIMPLIFIED": "( 第二次尝试)",
+      "CHINESE_TRADITIONAL": "( 第二次嘗試)",
+      "JAPANESE": "(2回目の挑戦)",
+      "INDONESIAN": "(Usaha ke-2)",
+      "PORTUGUESE": "(2ª tentativa)",
+      "RUSSIAN": "(Вторая попытка)",
+      "FRENCH": "(2ème tentative)",
+      "THAI": "(ครั้งที่ 2)"
+    },
+    "TIME": {
+      "SHOW": 394.5,
+      "HIDE": 403.2
+    }
+  },
+  {
+    "INDEX": 66.0,
+    "SCRIPT": {
+      "KOREAN": "언제까지 해 ... ㅋㅋㅋㅋㅋㅋ",
+      "ENGLISH": "How long are we going to keep doing this?! (laughing)",
+      "CHINESE_SIMPLIFIED": "要拍到什么时候... 哈哈哈哈哈",
+      "CHINESE_TRADITIONAL": "要拍到什麼時候... 哈哈哈哈哈",
+      "JAPANESE": "いつまでやるの（笑）",
+      "INDONESIAN": "Berapa lama lagi kita bakal terus ngelakuin ini?! (tertawa)",
+      "PORTUGUESE": "Até quando vamos continuar fazendo isso?! (rindo)",
+      "RUSSIAN": "Сколько мы ещё будем это делать?! (смеются)",
+      "FRENCH": "On va continuer encore combien de temps ?! (rires)",
+      "THAI": "เราจะทำกันอีกนานแค่ไหนเนี่ย?! (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 403.2,
+      "HIDE": 404.7
+    }
+  }
+]

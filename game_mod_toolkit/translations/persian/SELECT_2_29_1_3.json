@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 ESTJ 맞아요?",
+      "ENGLISH": "You're really an ESTJ? ",
+      "CHINESE_SIMPLIFIED": "你居然是ESTJ？",
+      "CHINESE_TRADITIONAL": "你居然是ESTJ？",
+      "JAPANESE": "本当にESTJなんですか？",
+      "INDONESIAN": "Kamu beneran ESTJ?",
+      "PORTUGUESE": "Você é mesmo ESTJ?",
+      "RUSSIAN": "Ты и правда ESTJ?",
+      "FRENCH": "T’es vraiment ESTJ ?",
+      "THAI": "นายเป็น ESTJ จริงเหรอ?",
+      "PERSIAN": "شما واقعا یک ESTJ هستید؟"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼요!",
+      "ENGLISH": "No way!",
+      "CHINESE_SIMPLIFIED": "我不信!",
+      "CHINESE_TRADITIONAL": "我不信!",
+      "JAPANESE": "ありえない！",
+      "INDONESIAN": "Nggak mungkin!",
+      "PORTUGUESE": "Não pode ser!",
+      "RUSSIAN": "Да ладно!",
+      "FRENCH": "Pas possible !",
+      "THAI": "ไม่มีทาง!",
+      "PERSIAN": "No way!"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.0
+    }
+  }
+]

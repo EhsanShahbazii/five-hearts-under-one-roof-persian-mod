@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "먹여줘요.",
+      "ENGLISH": "Feed me.",
+      "CHINESE_SIMPLIFIED": "哥你喂我吃吧",
+      "CHINESE_TRADITIONAL": "哥你餵我吃吧",
+      "JAPANESE": "食べさせてください。",
+      "INDONESIAN": "Suapin aku.",
+      "PORTUGUESE": "Me dá na boca.",
+      "RUSSIAN": "Покорми меня.",
+      "FRENCH": "Nourris-moi.",
+      "THAI": "ป้อนฉันหน่อย"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh? What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah? Apa?",
+      "PORTUGUESE": "Hã? O quê?",
+      "RUSSIAN": "Что? Что?",
+      "FRENCH": "Hein ? Quoi ?",
+      "THAI": "หืม? อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "먹여 달라고요.",
+      "ENGLISH": "Feed me, bro.",
+      "CHINESE_SIMPLIFIED": "我说喂我吃",
+      "CHINESE_TRADITIONAL": "我說餵我吃",
+      "JAPANESE": "食べさせてって言ってるんですよ。",
+      "INDONESIAN": "Suapin aku, bro.",
+      "PORTUGUESE": "Me dá na boca, mano.",
+      "RUSSIAN": "Покорми меня, братишка.",
+      "FRENCH": "Nourris-moi, frérot.",
+      "THAI": "ป้อนฉันหน่อย พี่ชาย"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어어...",
+      "ENGLISH": "Uh, okay... ah...",
+      "CHINESE_SIMPLIFIED": "哦哦…",
+      "CHINESE_TRADITIONAL": "哦哦…",
+      "JAPANESE": "あ、ああ…",
+      "INDONESIAN": "Uh, oke... ah...",
+      "PORTUGUESE": "Ah, tá bom... ah...",
+      "RUSSIAN": "Эм, ладно... ааа...",
+      "FRENCH": "Euh, d’accord... ah...",
+      "THAI": "เอ่อ โอเค... อ้า..."
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "형 소시지 맛있다.",
+      "ENGLISH": "Mmm, this sausage is really good.",
+      "CHINESE_SIMPLIFIED": "哥哥的香肠真好吃",
+      "CHINESE_TRADITIONAL": "哥哥的香腸真好吃",
+      "JAPANESE": "兄さん、ソーセージ美味しいです。",
+      "INDONESIAN": "Mmm, sosisnya enak banget.",
+      "PORTUGUESE": "Mmm, essa linguiça tá muito boa.",
+      "RUSSIAN": "Ммм, эта сосиска очень вкусная.",
+      "FRENCH": "Mmm, cette saucisse est vraiment bonne.",
+      "THAI": "อืม ไส้กรอกนี้อร่อยมาก"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "...유만아....",
+      "ENGLISH": "Yuman...",
+      "CHINESE_SIMPLIFIED": "...宥万啊...",
+      "CHINESE_TRADITIONAL": "...宥萬啊...",
+      "JAPANESE": "…ユマン",
+      "INDONESIAN": "Yuman...",
+      "PORTUGUESE": "Yuman...",
+      "RUSSIAN": "Юман...",
+      "FRENCH": "Yuman...",
+      "THAI": "ยูมัน..."
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.4
+    }
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님...!",
+      "ENGLISH": "Min-jung...!",
+      "CHINESE_SIMPLIFIED": "敏静!",
+      "CHINESE_TRADITIONAL": "敏靜!",
+      "JAPANESE": "ミンジョンさん…！",
+      "INDONESIAN": "Min-jung...!",
+      "PORTUGUESE": "Min-jung...!",
+      "RUSSIAN": "Мин-чжун...!",
+      "FRENCH": "Min-jung... !",
+      "THAI": "มินจอง...!"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왔어요?",
+      "ENGLISH": "You're here?",
+      "CHINESE_SIMPLIFIED": "你来啦?",
+      "CHINESE_TRADITIONAL": "你來啦?",
+      "JAPANESE": "あ、ユマンさん！",
+      "INDONESIAN": "Kamu di sini?",
+      "PORTUGUESE": "Você está aqui?",
+      "RUSSIAN": "Ты здесь?",
+      "FRENCH": "Tu es là ?",
+      "THAI": "เธออยู่ที่นี่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 노래 듣고 있었어요?",
+      "ENGLISH": "What were you listening to?",
+      "CHINESE_SIMPLIFIED": "你在听什么歌啊?",
+      "CHINESE_TRADITIONAL": "你在聽什麼歌啊?",
+      "JAPANESE": "何の曲、聴いてたんですか？",
+      "INDONESIAN": "Kamu tadi dengerin apa?",
+      "PORTUGUESE": "O que você tava ouvindo?",
+      "RUSSIAN": "Что ты слушала?",
+      "FRENCH": "Qu’est-ce que tu écoutais ?",
+      "THAI": "เธอฟังอะไรอยู่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 별거 아니에요...!",
+      "ENGLISH": "Oh, nothing special...!",
+      "CHINESE_SIMPLIFIED": "没什么…",
+      "CHINESE_TRADITIONAL": "沒什麼…",
+      "JAPANESE": "あ、たいしたことないですよ…！",
+      "INDONESIAN": "Oh, gak ada yang spesial...!",
+      "PORTUGUESE": "Ah, nada de especial...!",
+      "RUSSIAN": "О, ничего особенного...!",
+      "FRENCH": "Oh, rien de spécial... !",
+      "THAI": "โอ้ ไม่มีอะไรพิเศษ...!"
+    },
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "안 오시길래...",
+      "ENGLISH": "I thought you weren’t coming...",
+      "CHINESE_SIMPLIFIED": "我以为你不来了呢…",
+      "CHINESE_TRADITIONAL": "我以爲你不來了呢…",
+      "JAPANESE": "なかなか、来なかったから…",
+      "INDONESIAN": "Aku kira kamu gak bakal datang...",
+      "PORTUGUESE": "Achei que você não vinha...",
+      "RUSSIAN": "Я думал, что ты не придёшь...",
+      "FRENCH": "Je pensais que tu ne viendrais pas...",
+      "THAI": "ฉันคิดว่าเธอจะไม่มาแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저 근데 민정 님...",
+      "ENGLISH": "Min-jung...",
+      "CHINESE_SIMPLIFIED": "不过你怎么总是...",
+      "CHINESE_TRADITIONAL": "不過你怎麼總是...",
+      "JAPANESE": "それより、ミンジョンさん、",
+      "INDONESIAN": "Min-jung...",
+      "PORTUGUESE": "Min-jung...",
+      "RUSSIAN": "Мин-чжун...",
+      "FRENCH": "Min-jung...",
+      "THAI": "มินจอง..."
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "왜 자꾸 제 눈을 피해요?",
+      "ENGLISH": "Why do you keep avoiding my eyes?",
+      "CHINESE_SIMPLIFIED": "回避我的视线呢?",
+      "CHINESE_TRADITIONAL": "迴避我的視線呢?",
+      "JAPANESE": "何で、そんなに僕の目を避けるんですか？",
+      "INDONESIAN": "Kenapa kamu terus menghindari tatapanku?",
+      "PORTUGUESE": "Por que você continua desviando o olhar de mim?",
+      "RUSSIAN": "Почему ты избегаешь смотреть мне в глаза?",
+      "FRENCH": "Pourquoi tu évites mon regard ?",
+      "THAI": "ทำไมเธอถึงหลบตาฉันล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หือ?"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 아까 화장실 때문에 그래요...?",
+      "ENGLISH": "Is it because of what happened in the bathroom earlier...",
+      "CHINESE_SIMPLIFIED": "不会是因为刚在卫生间…",
+      "CHINESE_TRADITIONAL": "不會是因爲剛在衛生間…",
+      "JAPANESE": "もしかして、さっきのトイレのこと気にしてます？",
+      "INDONESIAN": "Apa ini gara-gara kejadian di kamar mandi tadi...",
+      "PORTUGUESE": "É por causa do que aconteceu no banheiro mais cedo...",
+      "RUSSIAN": "Это из-за того, что случилось в ванной раньше?..",
+      "FRENCH": "C’est à cause de ce qui s’est passé dans la salle de bain tout à l’heure...",
+      "THAI": "เป็นเพราะเรื่องในห้องน้ำเมื่อกี้หรือเปล่า..."
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아니에요!",
+      "ENGLISH": "No, not at all!",
+      "CHINESE_SIMPLIFIED": "完全没有!",
+      "CHINESE_TRADITIONAL": "完全沒有!",
+      "JAPANESE": "いや、違います！",
+      "INDONESIAN": "Enggak, sama sekali enggak!",
+      "PORTUGUESE": "Não, nada disso!",
+      "RUSSIAN": "Нет, совсем нет!",
+      "FRENCH": "Non, pas du tout !",
+      "THAI": "ไม่ ไม่ใช่เรื่องนั้นเลย!"
+    },
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그건 진짜 아닌데...",
+      "ENGLISH": "That’s not it...",
+      "CHINESE_SIMPLIFIED": "不是因为那个…",
+      "CHINESE_TRADITIONAL": "不是因爲那個…",
+      "JAPANESE": "いや、違います！それは、全く関係なくて",
+      "INDONESIAN": "Bukan itu...",
+      "PORTUGUESE": "Não é isso...",
+      "RUSSIAN": "Дело не в этом...",
+      "FRENCH": "Ce n’est pas ça...",
+      "THAI": "ไม่ใช่เพราะแบบนั้นหรอก..."
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "오빠는",
+      "ENGLISH": "What do you think of me?",
+      "CHINESE_SIMPLIFIED": "哥哥你觉得",
+      "CHINESE_TRADITIONAL": "哥哥你覺得",
+      "JAPANESE": "ユマンさんは",
+      "INDONESIAN": "Apa pendapatmu tentang aku?",
+      "PORTUGUESE": "O que você acha de mim?",
+      "RUSSIAN": "Что ты обо мне думаешь?",
+      "FRENCH": "Que penses-tu de moi ?",
+      "THAI": "เธอคิดยังไงกับฉัน?"
+    },
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "나 어떻게 생각해요?",
+      "ENGLISH": "Not as MingMing",
+      "CHINESE_SIMPLIFIED": "我这个人怎么样?",
+      "CHINESE_TRADITIONAL": "我這個人怎麼樣?",
+      "JAPANESE": "私のこと、どう思ってるんですか？",
+      "INDONESIAN": "Bukan sebagai MingMing",
+      "PORTUGUESE": "Não como MingMing",
+      "RUSSIAN": "Не как о МинМин,",
+      "FRENCH": "Pas en tant que MingMing,",
+      "THAI": "ไม่ใช่ในฐานะ MingMing"
+    },
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍으로 말고요.",
+      "ENGLISH": "Just as me.",
+      "CHINESE_SIMPLIFIED": "抛开敏敏这个身份",
+      "CHINESE_TRADITIONAL": "拋開敏敏這個身份",
+      "JAPANESE": "ミンミンとしてじゃなくて、パク・ミンジョンとして。",
+      "INDONESIAN": "Tapi sebagai aku.",
+      "PORTUGUESE": "Mas como eu mesma.",
+      "RUSSIAN": "а просто обо мне.",
+      "FRENCH": "juste moi, tout simplement.",
+      "THAI": "แต่แค่เป็นฉันเอง"
+    },
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 35.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хм...",
+      "FRENCH": "Hmm...",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "우리 처음 만난 날 기억해요?",
+      "ENGLISH": "Do you remember the day we first met?",
+      "CHINESE_SIMPLIFIED": "还记得我们第一次见面的那天吗",
+      "CHINESE_TRADITIONAL": "還記得我們第一次見面的那天嗎",
+      "JAPANESE": "初めて会った日のこと、覚えてますか？",
+      "INDONESIAN": "Kamu ingat hari pertama kita ketemu?",
+      "PORTUGUESE": "Você lembra do dia em que nos conhecemos?",
+      "RUSSIAN": "Ты помнишь день, когда мы впервые встретились?",
+      "FRENCH": "Tu te souviens du jour où on s’est rencontrés pour la première fois ?",
+      "THAI": "เธอจำวันที่เราเจอกันครั้งแรกได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 39.15,
+      "HIDE": 41.9
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "나 그날 진짜 인생에서 제일 창피했는데...",
+      "ENGLISH": "It was the most embarrassing day of my life...",
+      "CHINESE_SIMPLIFIED": "那是我我人生中最丢脸的一天…",
+      "CHINESE_TRADITIONAL": "那是我我人生中最丟臉的一天…",
+      "JAPANESE": "私、あの日人生で一番恥ずかしかったんです。",
+      "INDONESIAN": "Itu hari paling memalukan dalam hidupku...",
+      "PORTUGUESE": "Foi o dia mais vergonhoso da minha vida...",
+      "RUSSIAN": "Это был самый стыдный день в моей жизни...",
+      "FRENCH": "C’était le jour le plus embarrassant de ma vie...",
+      "THAI": "มันเป็นวันที่น่าอายที่สุดในชีวิตฉัน..."
+    },
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 45.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 사람들이 알아봐 주길 바래서",
+      "ENGLISH": "Even though I strive",
+      "CHINESE_SIMPLIFIED": "为了让大家能认出我",
+      "CHINESE_TRADITIONAL": "爲了讓大家能認出我",
+      "JAPANESE": "みんなに認められるために",
+      "INDONESIAN": "Meskipun aku berusaha",
+      "PORTUGUESE": "Mesmo que eu me esforce",
+      "RUSSIAN": "Хотя я стремлюсь",
+      "FRENCH": "Même si je cherche",
+      "THAI": "ถึงแม้ว่าฉันจะมุ่งมั่น"
+    },
+    "TIME": {
+      "SHOW": 47.4,
+      "HIDE": 49.7
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "노력하고 있으면서",
+      "ENGLISH": "for recognition",
+      "CHINESE_SIMPLIFIED": "很努力地练习来着",
+      "CHINESE_TRADITIONAL": "很努力地練習來着",
+      "JAPANESE": "すごく努力してきたのに",
+      "INDONESIAN": "untuk dapat pengakuan,",
+      "PORTUGUESE": "Pra ser reconhecida,",
+      "RUSSIAN": "к признанию,",
+      "FRENCH": "la reconnaissance,",
+      "THAI": "เพื่อการยอมรับ"
+    },
+    "TIME": {
+      "SHOW": 49.7,
+      "HIDE": 51.6
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "막상 알아봐 주는 사람 있으니까",
+      "ENGLISH": "it was so embarrassing",
+      "CHINESE_SIMPLIFIED": "可当真有人认出我的时候",
+      "CHINESE_TRADITIONAL": "可當真有人認出我的時候",
+      "JAPANESE": "いざ認められると",
+      "INDONESIAN": "rasanya memalukan",
+      "PORTUGUESE": "foi muito constrangedor",
+      "RUSSIAN": "было так неловко",
+      "FRENCH": "c’était si gênant",
+      "THAI": "มันก็ยังน่าอายมาก"
+    },
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 54.5
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "너무 창피했던 거 있죠?",
+      "ENGLISH": "To be recognized.",
+      "CHINESE_SIMPLIFIED": "我却觉得丢人",
+      "CHINESE_TRADITIONAL": "我卻覺得丟人",
+      "JAPANESE": "すごく恥ずかしく",
+      "INDONESIAN": "Bisa dikenal seperti itu.",
+      "PORTUGUESE": "Ser reconhecida daquele jeito.",
+      "RUSSIAN": "быть узнанной.",
+      "FRENCH": "d’être reconnue.",
+      "THAI": "ที่ถูกจดจำได้"
+    },
+    "TIME": {
+      "SHOW": 55.1,
+      "HIDE": 56.6
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "숨고 싶고...",
+      "ENGLISH": "I wanted to hide...",
+      "CHINESE_SIMPLIFIED": "想躲起来...",
+      "CHINESE_TRADITIONAL": "想躲起來...",
+      "JAPANESE": "逃げたくて...",
+      "INDONESIAN": "Aku pengen sembunyi...",
+      "PORTUGUESE": "Eu queria me esconder...",
+      "RUSSIAN": "Хотелось спрятаться...",
+      "FRENCH": "Je voulais disparaître...",
+      "THAI": "ฉันอยากจะซ่อนตัว..."
+    },
+    "TIME": {
+      "SHOW": 56.6,
+      "HIDE": 58.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "완전 배부른 소리죠",
+      "ENGLISH": "What a spoiled complaint",
+      "CHINESE_SIMPLIFIED": "这话有点不知好歹吧?",
+      "CHINESE_TRADITIONAL": "這話有點不知好歹吧?",
+      "JAPANESE": "わがままな悩みですよね。",
+      "INDONESIAN": "Keluhan kekanak-kanakan",
+      "PORTUGUESE": "Queixa mimada",
+      "RUSSIAN": "Какая жалкая жалоба",
+      "FRENCH": "Quelle plainte gâtée",
+      "THAI": "เป็นคำบ่นแบบเด็กๆ"
+    },
+    "TIME": {
+      "SHOW": 61.5,
+      "HIDE": 62.4
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "‘망돌’ 주제에.",
+      "ENGLISH": "From a 'failed idol'.",
+      "CHINESE_SIMPLIFIED": "明明是过气偶像..",
+      "CHINESE_TRADITIONAL": "明明是過氣偶像..",
+      "JAPANESE": "「落ち目アイドル」なのに",
+      "INDONESIAN": "Dari seorang 'idol gagal'.",
+      "PORTUGUESE": "De uma 'ídolo fracassada'.",
+      "RUSSIAN": "от \"провалившейся идолки\".",
+      "FRENCH": "de la part d’une 'idole ratée'.",
+      "THAI": "จาก 'ไอดอลที่ล้มเหลว'"
+    },
+    "TIME": {
+      "SHOW": 62.4,
+      "HIDE": 64.3
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님...",
+      "ENGLISH": "Min-jung...",
+      "CHINESE_SIMPLIFIED": "敏静啊…",
+      "CHINESE_TRADITIONAL": "敏靜啊…",
+      "JAPANESE": "ミンジョンさん…",
+      "INDONESIAN": "Min-jung...",
+      "PORTUGUESE": "Min-jung...",
+      "RUSSIAN": "Мин-чжун...",
+      "FRENCH": "Min-jung...",
+      "THAI": "มินจอง..."
+    },
+    "TIME": {
+      "SHOW": 66.7,
+      "HIDE": 68.1
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "근데 오빠는",
+      "ENGLISH": "But you’ve always been there for me",
+      "CHINESE_SIMPLIFIED": "不过哥哥你",
+      "CHINESE_TRADITIONAL": "不過哥哥你",
+      "JAPANESE": "でも、ユマンさんは",
+      "INDONESIAN": "Tapi kamu selalu ada buatku",
+      "PORTUGUESE": "Mas você sempre esteve ao meu lado",
+      "RUSSIAN": "Но ты всегда была рядом со мной,",
+      "FRENCH": "Mais tu as toujours été là pour moi,",
+      "THAI": "แต่เธออยู่ข้างฉันเสมอมา"
+    },
+    "TIME": {
+      "SHOW": 70.0,
+      "HIDE": 71.2
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "그런 모습 봐도",
+      "ENGLISH": "Like a tree",
+      "CHINESE_SIMPLIFIED": "即使看到了我丢脸的那一面",
+      "CHINESE_TRADITIONAL": "即使看到了我丟臉的那一面",
+      "JAPANESE": "そんな私の姿をみても",
+      "INDONESIAN": "Seperti pohon",
+      "PORTUGUESE": "Como uma árvore",
+      "RUSSIAN": "как дерево,",
+      "FRENCH": "comme un arbre,",
+      "THAI": "เหมือนต้นไม้"
+    },
+    "TIME": {
+      "SHOW": 71.2,
+      "HIDE": 72.8
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "내 옆에서 항상 나무같이 있어 주고",
+      "ENGLISH": "Steady and reliable.",
+      "CHINESE_SIMPLIFIED": "还一直陪在我身边",
+      "CHINESE_TRADITIONAL": "還一直陪在我身邊",
+      "JAPANESE": "いつも見守ってくれて",
+      "INDONESIAN": "Yang kokoh dan bisa diandalkan.",
+      "PORTUGUESE": "Firme e confiável.",
+      "RUSSIAN": "стойкое и надёжное.",
+      "FRENCH": "solide et fiable.",
+      "THAI": "ที่มั่นคงและน่าไว้วางใจ"
+    },
+    "TIME": {
+      "SHOW": 72.8,
+      "HIDE": 76.1
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 나무 그늘 밑에서 쉬면서",
+      "ENGLISH": "Maybe I got too greedy",
+      "CHINESE_SIMPLIFIED": "这段时间受你照顾的同时",
+      "CHINESE_TRADITIONAL": "這段時間受你照顧的同時",
+      "JAPANESE": "ずっと、頼りにしすぎて",
+      "INDONESIAN": "Mungkin aku jadi terlalu serakah",
+      "PORTUGUESE": "Talvez eu tenha ficado gananciosa demais",
+      "RUSSIAN": "Может быть, я слишком сильно увлеклась,",
+      "FRENCH": "Peut-être que j’ai été trop gourmande,",
+      "THAI": "บางทีฉันอาจจะโลภเกินไป"
+    },
+    "TIME": {
+      "SHOW": 76.4,
+      "HIDE": 79.3
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "너무 욕심이 생겼나 봐요.",
+      "ENGLISH": "Resting under your shade.",
+      "CHINESE_SIMPLIFIED": "我想要的也更多了...",
+      "CHINESE_TRADITIONAL": "我想要的也更多了...",
+      "JAPANESE": "欲が出ちゃったみたいです。",
+      "INDONESIAN": "Bersandar di bawah naunganmu.",
+      "PORTUGUESE": "Descansando na sua sombra.",
+      "RUSSIAN": "находясь в твоей тени.",
+      "FRENCH": "me reposant à ton ombre.",
+      "THAI": "เมื่อพักอยู่ใต้ร่มเงาของเธอ"
+    },
+    "TIME": {
+      "SHOW": 80.6,
+      "HIDE": 83.03
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "오빠랑은",
+      "ENGLISH": "I don’t want to be",
+      "CHINESE_SIMPLIFIED": "我不想只和你",
+      "CHINESE_TRADITIONAL": "我不想只和你",
+      "JAPANESE": "ユマンさんとは",
+      "INDONESIAN": "Aku gak mau",
+      "PORTUGUESE": "Eu não quero ser",
+      "RUSSIAN": "Я не хочу быть для тебя",
+      "FRENCH": "Je ne veux pas être",
+      "THAI": "ฉันไม่อยากเป็น"
+    },
+    "TIME": {
+      "SHOW": 85.24,
+      "HIDE": 86.4
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 팬이랑 가수 사이하기 싫어요.",
+      "ENGLISH": "Just a star to you.",
+      "CHINESE_SIMPLIFIED": "做歌手和粉丝的关系…",
+      "CHINESE_TRADITIONAL": "做歌手和粉絲的關係…",
+      "JAPANESE": "ただのファンとアイドルの関係でいたくないです。",
+      "INDONESIAN": "Cuma jadi bintang buatmu.",
+      "PORTUGUESE": "Só uma estrela pra você.",
+      "RUSSIAN": "просто звездой.",
+      "FRENCH": "juste une étoile pour toi.",
+      "THAI": "แค่ดาวสำหรับเธอ"
+    },
+    "TIME": {
+      "SHOW": 87.0,
+      "HIDE": 89.4
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "아니 저는...",
+      "ENGLISH": "I...",
+      "CHINESE_SIMPLIFIED": "我…",
+      "CHINESE_TRADITIONAL": "我…",
+      "JAPANESE": "いや、僕は…",
+      "INDONESIAN": "Aku...",
+      "PORTUGUESE": "Eu...",
+      "RUSSIAN": "Я...",
+      "FRENCH": "Je...",
+      "THAI": "ฉัน..."
+    },
+    "TIME": {
+      "SHOW": 90.3,
+      "HIDE": 91.7
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "말하지 마요! ",
+      "ENGLISH": "Don’t say anything!",
+      "CHINESE_SIMPLIFIED": "你先别急着回答!",
+      "CHINESE_TRADITIONAL": "你先別急着回答!",
+      "JAPANESE": "今、答えないでください！",
+      "INDONESIAN": "Jangan bilang apa-apa!",
+      "PORTUGUESE": "Não diga nada!",
+      "RUSSIAN": "Ничего не говори!",
+      "FRENCH": "Ne dis rien !",
+      "THAI": "อย่าพูดอะไรเลย!"
+    },
+    "TIME": {
+      "SHOW": 92.6,
+      "HIDE": 93.9
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "생각해 봐요!",
+      "ENGLISH": "Just think about it!",
+      "CHINESE_SIMPLIFIED": "先仔细想想吧!",
+      "CHINESE_TRADITIONAL": "先仔細想想吧!",
+      "JAPANESE": "少し考えてから、返事ください。",
+      "INDONESIAN": "Pikirkan aja dulu!",
+      "PORTUGUESE": "Pensa sobre isso!",
+      "RUSSIAN": "Просто подумай об этом!",
+      "FRENCH": "Pense-y simplement !",
+      "THAI": "แค่คิดไว้ในใจก็พอ!"
+    },
+    "TIME": {
+      "SHOW": 94.3,
+      "HIDE": 95.8
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "나 옷 갈아입을 건데..",
+      "ENGLISH": "I need to change clothes...",
+      "CHINESE_SIMPLIFIED": "我要换衣服了",
+      "CHINESE_TRADITIONAL": "我要換衣服了",
+      "JAPANESE": "私、服着替えるですけど…",
+      "INDONESIAN": "Aku harus ganti baju...",
+      "PORTUGUESE": "Preciso trocar de roupa...",
+      "RUSSIAN": "Мне нужно переодеться...",
+      "FRENCH": "Je dois me changer...",
+      "THAI": "ฉันต้องไปเปลี่ยนเสื้อผ้าแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 97.2,
+      "HIDE": 98.0
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "안 나갈 거예요?",
+      "ENGLISH": "Are you not leaving?",
+      "CHINESE_SIMPLIFIED": "你先回去吧?",
+      "CHINESE_TRADITIONAL": "你先回去吧?",
+      "JAPANESE": "ずっと、ここにいるつもりですか？",
+      "INDONESIAN": "Kamu gak keluar?",
+      "PORTUGUESE": "Você não vai sair?",
+      "RUSSIAN": "Ты не уходишь?",
+      "FRENCH": "Tu ne pars pas ?",
+      "THAI": "เธอจะไม่ออกไปเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 98.0,
+      "HIDE": 99.8
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "아 나갈게요!",
+      "ENGLISH": "Oh, I'll go!",
+      "CHINESE_SIMPLIFIED": "噢! 那我先出去了",
+      "CHINESE_TRADITIONAL": "噢! 那我先出去了",
+      "JAPANESE": "あ、すいません！",
+      "INDONESIAN": "Oh, iya, aku pergi!",
+      "PORTUGUESE": "Ah, vou sim!",
+      "RUSSIAN": "О, да, ухожу!",
+      "FRENCH": "Oh, oui, je m’en vais !",
+      "THAI": "โอ้ เดี๋ยวฉันไป!"
+    },
+    "TIME": {
+      "SHOW": 101.5,
+      "HIDE": 102.7
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "주무세요 민정 님!",
+      "ENGLISH": "Goodnight, Min-jung!",
+      "CHINESE_SIMPLIFIED": "晚安啦 敏静",
+      "CHINESE_TRADITIONAL": "晚安啦 敏靜",
+      "JAPANESE": "おやすみなさい、ミンジョンさん！",
+      "INDONESIAN": "Selamat malam, Min-jung!",
+      "PORTUGUESE": "Boa noite, Min-jung!",
+      "RUSSIAN": "Спокойной ночи, Мин-чжун!",
+      "FRENCH": "Bonne nuit, Min-jung !",
+      "THAI": "ราตรีสวัสดิ์ มินจอง!"
+    },
+    "TIME": {
+      "SHOW": 103.3,
+      "HIDE": 104.7
+    }
+  }
+]

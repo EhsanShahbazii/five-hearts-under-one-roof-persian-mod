@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이런 게 만화방이구나!",
+      "ENGLISH": "Wow, this is what a comic book cafe looks like!",
+      "CHINESE_SIMPLIFIED": "原来这就是漫画屋啊~",
+      "CHINESE_TRADITIONAL": "原來這就是漫畫屋啊~",
+      "JAPANESE": "こういうのがマンガ喫茶って言うんだ～",
+      "INDONESIAN": "Wow, jadi begini ya tampilan kafe komik!",
+      "PORTUGUESE": "Uau, então é assim que é um café de quadrinhos!",
+      "RUSSIAN": "Вау, так вот как выглядит кафе с комиксами!",
+      "FRENCH": "Wow, c’est ça un café de mangas !",
+      "THAI": "ว้าว นี่คือคาเฟ่การ์ตูนเหรอ!",
+      "PERSIAN": "عجب کافه کتاب های مصور این شکلی است!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 처음 보는구나?",
+      "ENGLISH": "First time seeing one? ",
+      "CHINESE_SIMPLIFIED": "你是第一次来啊~",
+      "CHINESE_TRADITIONAL": "你是第一次來啊~",
+      "JAPANESE": "ああ、初めて来たのか。",
+      "INDONESIAN": "Pertama kali lihat?",
+      "PORTUGUESE": "Primeira vez vendo um?",
+      "RUSSIAN": "Впервые видишь?",
+      "FRENCH": "C’est la première fois que t’en vois un ?",
+      "THAI": "เพิ่งเคยเห็นครั้งแรกเหรอ?",
+      "PERSIAN": "اولین باری است که یکی را می بینید؟"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "얼마 전까지 취직하기 전에 말숙이랑 자주 왔었는데.",
+      "ENGLISH": "I used to come here often with Mal-sook before I started my job.",
+      "CHINESE_SIMPLIFIED": "我找到工作之前经常和末淑一起来这边玩来着",
+      "CHINESE_TRADITIONAL": "我找到工作之前經常和末淑一起來這邊玩來着",
+      "JAPANESE": "就職する前に、マルスクとよく来てたんだけど。",
+      "INDONESIAN": "Dulu aku sering ke sini sama Mal-sook sebelum mulai kerja.",
+      "PORTUGUESE": "Eu costumava vir aqui com a Mal-sook antes de começar a trabalhar.",
+      "RUSSIAN": "Раньше я часто приходил сюда с Мал-Сук, до того как устроился на работу.",
+      "FRENCH": "Je venais souvent ici avec Mal-sook avant de commencer mon travail.",
+      "THAI": "ก่อนเริ่มทำงาน ฉันเคยมากับมัลซุกบ่อย ๆ.",
+      "PERSIAN": "قبل از شروع کارم اغلب با مال‌سوک به اینجا می آمدم."
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이젠 나랑만 와.",
+      "ENGLISH": "Now you’ll only come here with me.",
+      "CHINESE_SIMPLIFIED": "以后只能和我一起来!",
+      "CHINESE_TRADITIONAL": "以後只能和我一起來!",
+      "JAPANESE": "これからは私とだけよ。",
+      "INDONESIAN": "Sekarang kamu cuma boleh ke sini sama aku.",
+      "PORTUGUESE": "Agora você só vai vir aqui comigo.",
+      "RUSSIAN": "Теперь ты будешь приходить сюда только со мной.",
+      "FRENCH": "Maintenant, tu ne viendras ici qu’avec moi.",
+      "THAI": "แต่ต่อไปนี้ นายต้องมาที่นี่กับฉันเท่านั้น.",
+      "PERSIAN": "حالا فقط با من میای اینجا"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "혼자 오고 싶을 때가 있긴 한데...",
+      "ENGLISH": "Sometimes I might want to come alone...",
+      "CHINESE_SIMPLIFIED": "我有时候也想自己一个人来…",
+      "CHINESE_TRADITIONAL": "我有時候也想自己一個人來…",
+      "JAPANESE": "たまには一人で来たいときもあるんだけど…",
+      "INDONESIAN": "Kadang aku pengen datang sendirian...",
+      "PORTUGUESE": "Às vezes eu posso querer vir sozinho...",
+      "RUSSIAN": "Иногда я, может, захочу прийти один...",
+      "FRENCH": "Parfois, j’aimerais peut-être venir seul...",
+      "THAI": "บางทีฉันอาจอยากมาคนเดียวนะ...",
+      "PERSIAN": "بعضی وقتا دلم میخواد تنها بیام..."
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 나랑만 오자고!",
+      "ENGLISH": "No, only come with me!",
+      "CHINESE_SIMPLIFIED": "只能和我一起来!",
+      "CHINESE_TRADITIONAL": "只能和我一起來!",
+      "JAPANESE": "もう、私とだけだってば！",
+      "INDONESIAN": "Nggak, cuma boleh sama aku!",
+      "PORTUGUESE": "Não, só comigo!",
+      "RUSSIAN": "Нет, только со мной!",
+      "FRENCH": "Non, seulement avec moi !",
+      "THAI": "ไม่ได้! มาด้วยกันเท่านั้น!",
+      "PERSIAN": "نه، فقط با من بیا!"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "알았어...",
+      "ENGLISH": "Alright...",
+      "CHINESE_SIMPLIFIED": "好好好…",
+      "CHINESE_TRADITIONAL": "好好好…",
+      "JAPANESE": "分かったよ…",
+      "INDONESIAN": "Baiklah...",
+      "PORTUGUESE": "Tudo bem...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "โอเค...",
+      "PERSIAN": "باشه..."
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.1
+    }
+  }
+]

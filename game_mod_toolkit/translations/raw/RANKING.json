@@ -1,0 +1,269 @@
+[
+  {
+    "CHAR_CODE": 2.0,
+    "IMAGE_NAME": "char2_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 10400.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 3.0,
+    "IMAGE_NAME": "char3_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 12000.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 4.0,
+    "IMAGE_NAME": "char4_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 10800.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 5.0,
+    "IMAGE_NAME": "char5_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 30400.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 6.0,
+    "IMAGE_NAME": "char6_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 31900.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 7.0,
+    "IMAGE_NAME": "char7_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 21700.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 8.0,
+    "IMAGE_NAME": "char8_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 11300.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 9.0,
+    "IMAGE_NAME": "char9_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 10000.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 10.0,
+    "IMAGE_NAME": "char10_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 10000.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 11.0,
+    "IMAGE_NAME": "char11_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 30200.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 12.0,
+    "IMAGE_NAME": "char12_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 12302.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 13.0,
+    "IMAGE_NAME": "char13_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 12302.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 14.0,
+    "IMAGE_NAME": "char14_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 30903.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 15.0,
+    "IMAGE_NAME": "char15_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 10300.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 16.0,
+    "IMAGE_NAME": "char16_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 80810.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 17.0,
+    "IMAGE_NAME": "char17_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 10600.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 18.0,
+    "IMAGE_NAME": "char18_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 70930.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 19.0,
+    "IMAGE_NAME": "char19_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 11300.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 20.0,
+    "IMAGE_NAME": "char20_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 11300.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 21.0,
+    "IMAGE_NAME": "char21_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 90910.0
+      },
+      {
+        "INDEX": 90920.0
+      },
+      {
+        "INDEX": 90930.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 22.0,
+    "IMAGE_NAME": "char22_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 90910.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 23.0,
+    "IMAGE_NAME": "char23_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 90910.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 24.0,
+    "IMAGE_NAME": "char24_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 61800.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 25.0,
+    "IMAGE_NAME": "char25_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 61800.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 26.0,
+    "IMAGE_NAME": "char26_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 30902.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 27.0,
+    "IMAGE_NAME": "char27_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 30902.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 28.0,
+    "IMAGE_NAME": "char28_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 42122.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 29.0,
+    "IMAGE_NAME": "char29_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 31330.0
+      }
+    ]
+  },
+  {
+    "CHAR_CODE": 30.0,
+    "IMAGE_NAME": "char30_ranking",
+    "UNLOCK": [
+      {
+        "INDEX": 42220.0
+      }
+    ]
+  }
+]

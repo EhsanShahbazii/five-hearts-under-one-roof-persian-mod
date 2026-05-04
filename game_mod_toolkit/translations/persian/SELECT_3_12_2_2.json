@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아, 이거로는 안 되겠는데...",
+      "ENGLISH": "What are you looking at!",
+      "CHINESE_SIMPLIFIED": "光用这个擦好像不太管用…",
+      "CHINESE_TRADITIONAL": "光用這個擦好像不太管用…",
+      "JAPANESE": "ああ、これじゃダメだな…",
+      "INDONESIAN": "Apa yang kamu lihat?!",
+      "PORTUGUESE": "O que você tá olhando?!",
+      "RUSSIAN": "На что ты смотришь?!",
+      "FRENCH": "Qu’est-ce que tu regardes ?!",
+      "THAI": "มองอะไรน่ะ?!",
+      "PERSIAN": "به چی نگاه میکنی!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 이거라도...",
+      "ENGLISH": "Here, take this...",
+      "CHINESE_SIMPLIFIED": "这个你拿着…",
+      "CHINESE_TRADITIONAL": "這個你拿着…",
+      "JAPANESE": "これで、拭いてください…",
+      "INDONESIAN": "Nih, ambil ini...",
+      "PORTUGUESE": "Aqui, pega isso...",
+      "RUSSIAN": "Вот, возьми это...",
+      "FRENCH": "Tiens, prends ça...",
+      "THAI": "นี่ เอาไป...",
+      "PERSIAN": "اینو بگیر..."
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "I’m sorry...",
+      "CHINESE_SIMPLIFIED": "抱歉啊…",
+      "CHINESE_TRADITIONAL": "抱歉啊…",
+      "JAPANESE": "すいません…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Извини...",
+      "FRENCH": "Désolé(e)...",
+      "THAI": "ขอโทษนะ...",
+      "PERSIAN": "واقعاً شرمنده‌ام، عذر می‌خوام..."
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 연습하는 거 구경시켜 드리려고 했는데..",
+      "ENGLISH": "I wanted to show you the practice today...",
+      "CHINESE_SIMPLIFIED": "本来今天是想给你看看练习情况的…",
+      "CHINESE_TRADITIONAL": "本來今天是想給你看看練習情況的…",
+      "JAPANESE": "練習をお見せしようと思ったんですけど…",
+      "INDONESIAN": "Aku pengen banget tunjukin latihannya ke kamu hari ini...",
+      "PORTUGUESE": "Eu queria tanto te mostrar o treino hoje...",
+      "RUSSIAN": "Я просто хотела показать тебе тренировку сегодня...",
+      "FRENCH": "Je voulais juste te montrer l’entraînement aujourd’hui...",
+      "THAI": "ฉันแค่อยากให้เธอได้ดูการซ้อมวันนี้...",
+      "PERSIAN": "می خواستم تمرین امروز را به شما نشان دهم ..."
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "죄송하기는요!",
+      "ENGLISH": "Don’t apologize!",
+      "CHINESE_SIMPLIFIED": "你不用道歉的啊!",
+      "CHINESE_TRADITIONAL": "你不用道歉的啊!",
+      "JAPANESE": "謝らないでください！",
+      "INDONESIAN": "Jangan minta maaf!",
+      "PORTUGUESE": "Não peça desculpas!",
+      "RUSSIAN": "Не извиняйся!",
+      "FRENCH": "Ne t’excuse pas !",
+      "THAI": "อย่าขอโทษเลย!",
+      "PERSIAN": "عذرخواهی نکن!"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저 사람들 원래 저래요?",
+      "ENGLISH": "Are they always like this??",
+      "CHINESE_SIMPLIFIED": "不过她们本来就是这种人吗?",
+      "CHINESE_TRADITIONAL": "不過她們本來就是這種人嗎?",
+      "JAPANESE": "あの人たち、いつもあんな感じなんですか？",
+      "INDONESIAN": "Mereka selalu kayak gini??",
+      "PORTUGUESE": "Eles sempre são assim??",
+      "RUSSIAN": "Они всегда такие?",
+      "FRENCH": "Ils sont toujours comme ça ?",
+      "THAI": "พวกเขาเป็นแบบนี้ตลอดเลยเหรอ?",
+      "PERSIAN": "همیشه اینجوری هستن؟؟"
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요. 요즘 좀 힘들어서 그런 걸 거예요...",
+      "ENGLISH": "Why? Oh..! Here...",
+      "CHINESE_SIMPLIFIED": "不是不是，她们就是最近太累了…",
+      "CHINESE_TRADITIONAL": "不是不是，她們就是最近太累了…",
+      "JAPANESE": "いや、最近ちょっと疲れてるだけだと思います…",
+      "INDONESIAN": "Kenapa? Oh..! Nih...",
+      "PORTUGUESE": "Por quê? Ah..! Aqui...",
+      "RUSSIAN": "Почему? Ох..! Вот...",
+      "FRENCH": "Pourquoi ? Oh..! Tiens...",
+      "THAI": "ทำไมเหรอ? โอ๊ย..! นี่...",
+      "PERSIAN": "چرا؟ اوه..! اینجا..."
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 21.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "저 옷만 좀 갈아입고 올게요!",
+      "ENGLISH": "I’ll just change my clothes quickly!",
+      "CHINESE_SIMPLIFIED": "我去换个衣服…",
+      "CHINESE_TRADITIONAL": "我去換個衣服…",
+      "JAPANESE": "ちょっと着替えてきますね！",
+      "INDONESIAN": "Aku ganti baju dulu, ya!",
+      "PORTUGUESE": "Vou trocar de roupa rapidinho!",
+      "RUSSIAN": "Я быстро переоденусь!",
+      "FRENCH": "Je vais vite me changer !",
+      "THAI": "ฉันจะรีบเปลี่ยนชุดเดี๋ยวนี้!",
+      "PERSIAN": "فقط سریع لباسامو عوض میکنم!"
+    },
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 24.4
+    }
+  }
+]

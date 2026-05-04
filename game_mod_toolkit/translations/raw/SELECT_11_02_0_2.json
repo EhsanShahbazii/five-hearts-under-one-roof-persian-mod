@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "미안해요.... 이성적으로는 없는 것 같아요.",
+      "ENGLISH": "I’m sorry... but, I don’t have those kinds of feelings.",
+      "CHINESE_SIMPLIFIED": "抱歉…我对你并没有对异性的感觉",
+      "CHINESE_TRADITIONAL": "抱歉…我對你並沒有對異性的感覺",
+      "JAPANESE": "ごめんなさい…異性として気持ちはないです。",
+      "INDONESIAN": "Maaf... tapi, aku nggak punya perasaan seperti itu.",
+      "PORTUGUESE": "Sinto muito... mas, eu não tenho esse tipo de sentimento.",
+      "RUSSIAN": "Извини... но у меня нет таких чувств.",
+      "FRENCH": "Je suis désolé(e)... mais je n’ai pas ce genre de sentiments.",
+      "THAI": "ขอโทษนะ... แต่ฉันไม่มีความรู้สึกแบบนั้น"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요! 미안해하지 마세요.",
+      "ENGLISH": "It’s okay! Please don’t apologize.",
+      "CHINESE_SIMPLIFIED": "没关系啦! 你不用抱歉的!",
+      "CHINESE_TRADITIONAL": "沒關係啦! 你不用抱歉的!",
+      "JAPANESE": "大丈夫ですよ！謝らないでください。",
+      "INDONESIAN": "Nggak apa-apa! Tolong jangan minta maaf.",
+      "PORTUGUESE": "Tudo bem! Por favor, não se desculpe.",
+      "RUSSIAN": "Всё нормально! Пожалуйста, не извиняйся.",
+      "FRENCH": "C’est bon ! Ne t’excuse pas, s’il te plaît.",
+      "THAI": "ไม่เป็นไร! ไม่ต้องขอโทษนะ"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저도 이제 폐 안 끼치고 혼자 잘살아 볼게요...!",
+      "ENGLISH": "I’ll try my best to live well on my own without being a burden...",
+      "CHINESE_SIMPLIFIED": "我现在也确实该学会独立了, 不能再给您添麻烦了…",
+      "CHINESE_TRADITIONAL": "我現在也確實該學會獨立了, 不能再給您添麻煩了…",
+      "JAPANESE": "もう迷惑かけずに、一人でしっかり生きて行きますから…！",
+      "INDONESIAN": "Aku akan berusaha hidup dengan baik sendiri tanpa menjadi beban...",
+      "PORTUGUESE": "Vou fazer o meu melhor para viver bem por conta própria sem ser um fardo...",
+      "RUSSIAN": "Я постараюсь жить хорошо и самостоятельно, чтобы не быть обузой...",
+      "FRENCH": "Je vais faire de mon mieux pour bien vivre sans être un fardeau...",
+      "THAI": "ฉันจะพยายามอยู่ให้ได้ด้วยตัวเองโดยไม่เป็นภาระให้ใคร..."
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 11.1
+    }
+  }
+]

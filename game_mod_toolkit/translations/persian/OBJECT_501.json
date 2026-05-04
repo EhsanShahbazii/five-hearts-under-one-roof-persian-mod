@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 동과장님, 회장님한테 결재를 받으시는구나...",
+      "ENGLISH": "Wow, Gran got approval from the president.\n(This is the business strategy proposal written by Gran.)",
+      "CHINESE_SIMPLIFIED": "哇，佟科长是得到会长的批准啊。\n(佟圆圆写的新商业策划书)",
+      "CHINESE_TRADITIONAL": "哇，佟科長是得到會長的批准啊。\n(佟圓圓寫的新商業策劃書)",
+      "JAPANESE": "わぁ、ドン課長、社長から決裁を受けてるんだ…",
+      "INDONESIAN": "Wah, Gran dapat persetujuan dari presiden.\n\n(Ini proposal strategi bisnis yang ditulis oleh Gran.)",
+      "PORTUGUESE": "Uau, o Gran conseguiu aprovação do presidente.\n\n(Esta é a proposta de estratégia de negócios escrita pelo Gran.)",
+      "RUSSIAN": "Вау, Гран получила одобрение от председателя.\n(Это бизнес-предложение, написанное Гран.)",
+      "FRENCH": "Wow, Gran a obtenu l’approbation du président.\n(Ceci est la proposition de stratégie commerciale écrite par Gran.)",
+      "THAI": "ว้าว, แกรนได้รับอนุมัติจากท่านประธานแล้ว\n(นี่คือข้อเสนอทางธุรกิจที่แกรนเขียนไว้)",
+      "PERSIAN": "وای، گرن از رئیس جمهور تاییدیه گرفت. (این پیشنهاد استراتژی تجاری است که توسط Gran نوشته شده است.)"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 9.0
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어... 왜 나예요?",
+      "ENGLISH": "Why me?",
+      "CHINESE_SIMPLIFIED": "为什么…是我呢?",
+      "CHINESE_TRADITIONAL": "爲什麼…是我呢?",
+      "JAPANESE": "あの…何で、私なんですか？",
+      "INDONESIAN": "Kenapa aku?",
+      "PORTUGUESE": "Por que eu?",
+      "RUSSIAN": "Почему я?",
+      "FRENCH": "Pourquoi moi ?",
+      "THAI": "ทำไมต้องเป็นฉันล่ะ?",
+      "PERSIAN": "چرا من؟"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 예쁘고 잘난 아이돌들 넘쳐나는데",
+      "ENGLISH": "I mean, there are so many beautiful, talented idols out there... ",
+      "CHINESE_SIMPLIFIED": "坦白说，漂亮又优秀的爱豆有很多",
+      "CHINESE_TRADITIONAL": "坦白說，漂亮又優秀的愛豆有很多",
+      "JAPANESE": "可愛くて才能あるアイドルなんて、他にたくさんいるのに",
+      "INDONESIAN": "Maksudku, ada begitu banyak idol yang cantik dan berbakat di luar sana...",
+      "PORTUGUESE": "Quer dizer, há tantas idols bonitas e talentosas por aí...",
+      "RUSSIAN": "Ну, есть столько красивых, талантливых айдолов...",
+      "FRENCH": "Je veux dire, il y a tellement d’idoles belles et talentueuses...",
+      "THAI": "ฉันหมายถึง มีไอดอลสวยๆ เก่งๆ ตั้งเยอะ...",
+      "PERSIAN": "منظورم این است که بت های زیبا و با استعداد زیادی وجود دارند..."
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "왜... 날 좋아했어요?",
+      "ENGLISH": "Why did you choose to like me?",
+      "CHINESE_SIMPLIFIED": "为什么……你会喜欢我？",
+      "CHINESE_TRADITIONAL": "爲什麼……你會喜歡我？",
+      "JAPANESE": "どうして…私を好きになったの？",
+      "INDONESIAN": "Kenapa kamu memilih untuk menyukaiku?",
+      "PORTUGUESE": "Por que você escolheu gostar de mim?",
+      "RUSSIAN": "Почему ты выбрал(а) меня?",
+      "FRENCH": "Pourquoi tu as choisi de m’aimer ?",
+      "THAI": "ทำไมเธอถึงเลือกชอบฉัน?",
+      "PERSIAN": "چرا انتخاب کردی که من را دوست داشته باشی؟"
+    },
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.8
+    }
+  }
+]

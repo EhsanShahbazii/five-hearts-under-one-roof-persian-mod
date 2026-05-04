@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 너가 제일 좋아.",
+      "ENGLISH": "You're the best!",
+      "CHINESE_SIMPLIFIED": "我最喜欢你!",
+      "CHINESE_TRADITIONAL": "我最喜歡你!",
+      "JAPANESE": "お前一番好きだよ。",
+      "INDONESIAN": "Kamu yang terbaik!",
+      "PORTUGUESE": "Você é a melhor!",
+      "RUSSIAN": "Ты лучшая!",
+      "FRENCH": "Tu es la meilleure !",
+      "THAI": "เธอเก่งที่สุด!"
+    },
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐래!",
+      "ENGLISH": "Oh, stop it!",
+      "CHINESE_SIMPLIFIED": "说什么呢~",
+      "CHINESE_TRADITIONAL": "說什麼呢~",
+      "JAPANESE": "あ、何言ってるの！",
+      "INDONESIAN": "Ah, udah deh!",
+      "PORTUGUESE": "Ah, para com isso!",
+      "RUSSIAN": "Ох, прекрати уже!",
+      "FRENCH": "Oh, arrête ça !",
+      "THAI": "โอ๊ย พอได้แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.7
+    }
+  }
+]

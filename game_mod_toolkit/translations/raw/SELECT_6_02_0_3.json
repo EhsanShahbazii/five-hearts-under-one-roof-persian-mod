@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "전 물이요!",
+      "ENGLISH": "It's water!",
+      "CHINESE_SIMPLIFIED": "我觉得水最重要!",
+      "CHINESE_TRADITIONAL": "我覺得水最重要!",
+      "JAPANESE": "私は水です！",
+      "INDONESIAN": "Aku pilih air!",
+      "PORTUGUESE": "Eu escolho água!",
+      "RUSSIAN": "Это вода!",
+      "FRENCH": "C’est de l’eau !",
+      "THAI": "นี่คือน้ำ!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    }
+  }
+]

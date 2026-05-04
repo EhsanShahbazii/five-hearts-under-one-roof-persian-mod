@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아... 나온다고 했는데...",
+      "ENGLISH": "Ah, you said you were coming, but…",
+      "CHINESE_SIMPLIFIED": "啊...说好了在这见面的...",
+      "CHINESE_TRADITIONAL": "啊...說好了在這見面的...",
+      "JAPANESE": "確かに、来るって言ってたはずなのに。",
+      "INDONESIAN": "Ah, kamu bilang kamu mau datang, tapi...",
+      "PORTUGUESE": "Ah, você disse que ia vir, mas...",
+      "RUSSIAN": "Ах, ты сказал, что придёшь, но…",
+      "FRENCH": "Ah, tu avais dit que tu viendrais, mais…",
+      "THAI": "อ้าว คุณบอกว่าจะมา แต่…",
+      "PERSIAN": "آه، گفتی که می آیی، اما…"
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "โอปป้า!",
+      "PERSIAN": "Oppa!"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야! 나 계속 보고 있었는데?",
+      "ENGLISH": "Whoa! I’ve been watching the whole time! ",
+      "CHINESE_SIMPLIFIED": "什么? 刚刚还没人的",
+      "CHINESE_TRADITIONAL": "什麼? 剛剛還沒人的",
+      "JAPANESE": "えっ！？ずっとどこにいるか探してたのに",
+      "INDONESIAN": "Wah! Aku sudah mengamatimu sejak tadi!",
+      "PORTUGUESE": "Uou! Estive te observando o tempo todo!",
+      "RUSSIAN": "Ого! Я наблюдал всё это время!",
+      "FRENCH": "Whoa ! Je t’ai observée tout ce temps !",
+      "THAI": "ว้าว! ฉันแอบดูอยู่นานแล้วนะ!",
+      "PERSIAN": "وای من تمام مدت تماشا کردم!"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어디서 내려왔어?",
+      "ENGLISH": "Where did you pop out from?",
+      "CHINESE_SIMPLIFIED": "你从哪冒出来的!",
+      "CHINESE_TRADITIONAL": "你從哪冒出來的!",
+      "JAPANESE": "どこから来たんだ？",
+      "INDONESIAN": "Dari mana kamu tiba-tiba muncul?",
+      "PORTUGUESE": "De onde você surgiu?",
+      "RUSSIAN": "Откуда ты только выскочила?",
+      "FRENCH": "D’où tu es sortie ?",
+      "THAI": "โผล่มาจากไหนเนี่ย?",
+      "PERSIAN": "از کجا بیرون آمدی؟"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "다 방법이 있지~",
+      "ENGLISH": "I’ve got my ways~",
+      "CHINESE_SIMPLIFIED": "我自有办法~",
+      "CHINESE_TRADITIONAL": "我自有辦法~",
+      "JAPANESE": "まあ、方法ってのはいろいろあるのよ～",
+      "INDONESIAN": "Aku punya caraku sendiri~",
+      "PORTUGUESE": "Tenho meus truques~",
+      "RUSSIAN": "У меня свои секреты~",
+      "FRENCH": "J’ai mes petits secrets~",
+      "THAI": "ฉันมีวิธีของฉันเอง~",
+      "PERSIAN": "من راه های خودم را دارم~"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "나 공강이라 시간 비는데",
+      "ENGLISH": "I’ve got some free time since I don’t have class today.",
+      "CHINESE_SIMPLIFIED": "我现在刚好没课",
+      "CHINESE_TRADITIONAL": "我現在剛好沒課",
+      "JAPANESE": "今、授業空きコマなんだけど",
+      "INDONESIAN": "Aku punya waktu luang karena hari ini aku nggak ada kelas.",
+      "PORTUGUESE": "Tenho um tempo livre porque hoje não tenho aula.",
+      "RUSSIAN": "У меня появилось немного свободного времени, потому что сегодня у меня нет занятий.",
+      "FRENCH": "J’ai du temps libre aujourd’hui parce que je n’ai pas cours.",
+      "THAI": "พอดีวันนี้ไม่มีเรียน ก็เลยมีเวลาว่าง",
+      "PERSIAN": "چون امروز کلاس ندارم وقت آزاد دارم."
+    },
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.95
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "우리 학교 구경시켜 줄까?",
+      "ENGLISH": "Want me to give you a tour of the campus?",
+      "CHINESE_SIMPLIFIED": "带你逛逛校园怎么样?",
+      "CHINESE_TRADITIONAL": "帶你逛逛校園怎麼樣?",
+      "JAPANESE": "学校案内してあげようか？",
+      "INDONESIAN": "Mau aku ajak tur keliling kampus?",
+      "PORTUGUESE": "Quer que eu te mostre o campus?",
+      "RUSSIAN": "Хочешь, я проведу тебе экскурсию по кампусу?",
+      "FRENCH": "Tu veux que je te fasse visiter le campus ?",
+      "THAI": "อยากให้ฉันพาทัวร์มหาวิทยาลัยไหม?",
+      "PERSIAN": "میخوای یه گشتی در پردیس بزنم؟"
+    },
+    "TIME": {
+      "SHOW": 14.95,
+      "HIDE": 16.7
+    }
+  }
+]

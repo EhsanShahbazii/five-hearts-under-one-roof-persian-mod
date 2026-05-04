@@ -1,0 +1,222 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "으~ 옷 누런 거 봐~",
+      "ENGLISH": "Ugh, look at this yellow shirt...",
+      "CHINESE_SIMPLIFIED": "咦~这衣服都变黄了~",
+      "CHINESE_TRADITIONAL": "咦~這衣服都變黃了~",
+      "JAPANESE": "うわ～、この服すごい黄ばんでるんだけど～",
+      "INDONESIAN": "Ugh, lihat deh kemeja kuning ini...",
+      "PORTUGUESE": "Ugh, olha essa camisa amarela...",
+      "RUSSIAN": "Фу, посмотри на эту желтую футболку...",
+      "FRENCH": "Berk, regarde ce t-shirt jaune...",
+      "THAI": "โอ๊ย ดูเสื้อเหลืองตัวนี้สิ...",
+      "PERSIAN": "اوه، به این پیراهن زرد نگاه کن..."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "야 뭐 해! 안 보이는 데서 갈아입으라고!",
+      "ENGLISH": "Hey, what are you doing! Change where I can’t see you!",
+      "CHINESE_SIMPLIFIED": "你干嘛呢!你去没人的地方换啊!",
+      "CHINESE_TRADITIONAL": "你幹嘛呢!你去沒人的地方換啊!",
+      "JAPANESE": "おい、何してんだ！見えないところで着替えろよ！",
+      "INDONESIAN": "Hei, kamu ngapain! Ganti bajunya di tempat yang nggak kelihatan!",
+      "PORTUGUESE": "Ei, o que você tá fazendo? Vai trocar num lugar onde eu não veja!",
+      "RUSSIAN": "Эй! Переодевайся там, где я не вижу!",
+      "FRENCH": "Hé ! Change-toi là où je peux pas te voir !",
+      "THAI": "เฮ้! ไปเปลี่ยนตรงที่ฉันไม่เห็นสิ!",
+      "PERSIAN": "هی چیکار میکنی جایی که نمی توانم تو را ببینم تغییر بده!"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "왜 막 설레? 너가 나 아니면 볼일이 어디 있다고?",
+      "ENGLISH": "What, are you getting all flustered? Who else would look at me if not you?",
+      "CHINESE_SIMPLIFIED": "怎么?你心动啦?要不是我你哪有机会大饱眼福啊~",
+      "CHINESE_TRADITIONAL": "怎麼?你心動啦?要不是我你哪有機會大飽眼福啊~",
+      "JAPANESE": "なんでドキドキしてんだ？お前、俺じゃなかったらそんな機会ないだろ？",
+      "INDONESIAN": "Kenapa, grogi ya? Emangnya siapa lagi yang bakal lihat aku kalau bukan kamu?",
+      "PORTUGUESE": "O quê, ficou todo sem jeito? Quem mais ia me olhar se não você?",
+      "RUSSIAN": "Что, опять засмущался? Кто еще на меня будет смотреть?",
+      "FRENCH": "Quoi, t’es encore gêné ? Qui d’autre va me mater ?",
+      "THAI": "อะไร? เขินอีกแล้วเหรอ? ใครจะมองฉันถ้าไม่ใช่นาย?",
+      "PERSIAN": "چی، همه ی شما گیج شده اید؟ اگر تو نبودی چه کسی به من نگاه می کرد؟"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "안 봐도 되거든?",
+      "ENGLISH": "I don’t need to see it, thanks.",
+      "CHINESE_SIMPLIFIED": "我才不需要呢!",
+      "CHINESE_TRADITIONAL": "我纔不需要呢!",
+      "JAPANESE": "見なくても平気だし！",
+      "INDONESIAN": "Aku nggak perlu lihat, makasih.",
+      "PORTUGUESE": "Não preciso ver, obrigado.",
+      "RUSSIAN": "Не-не, обойдусь.",
+      "FRENCH": "Non, vraiment, ça ira.",
+      "THAI": "ไม่ต้องเห็นก็ได้",
+      "PERSIAN": "من نیازی به دیدنش ندارم، ممنون"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어때?",
+      "ENGLISH": "How do I look?",
+      "CHINESE_SIMPLIFIED": "好看吗?",
+      "CHINESE_TRADITIONAL": "好看嗎?",
+      "JAPANESE": "どう？",
+      "INDONESIAN": "Gimana penampilanku?",
+      "PORTUGUESE": "Como eu tô?",
+      "RUSSIAN": "Ну как я выгляжу?",
+      "FRENCH": "Alors, comment je suis ?",
+      "THAI": "แล้วดูดีมั้ย?",
+      "PERSIAN": "How do I look?"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어... 괜찮아?",
+      "ENGLISH": "Uh... okay, I guess?",
+      "CHINESE_SIMPLIFIED": "额…还行吧?",
+      "CHINESE_TRADITIONAL": "額…還行吧?",
+      "JAPANESE": "え…大丈夫？",
+      "INDONESIAN": "Uh... oke, kayaknya?",
+      "PORTUGUESE": "Ah... tá, eu acho?",
+      "RUSSIAN": "Эээ... нормально, наверное?",
+      "FRENCH": "Euh... ça va, je suppose ?",
+      "THAI": "อือ... ก็โอเคมั้ง",
+      "PERSIAN": "اوه... باشه، حدس می زنم؟"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 22.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "何が？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아니야...!",
+      "ENGLISH": "Nothing...!",
+      "CHINESE_SIMPLIFIED": "没有，挺好的!",
+      "CHINESE_TRADITIONAL": "沒有，挺好的!",
+      "JAPANESE": "いや、なんでもない…！",
+      "INDONESIAN": "Nggak ada...!",
+      "PORTUGUESE": "Nada...!",
+      "RUSSIAN": "Ничего...!",
+      "FRENCH": "Rien...!",
+      "THAI": "เปล่า...!",
+      "PERSIAN": "هیچی...!"
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 24.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 나 자러 간다~",
+      "ENGLISH": "Anyway, I’m off to bed~",
+      "CHINESE_SIMPLIFIED": "那我去睡啦~",
+      "CHINESE_TRADITIONAL": "那我去睡啦~",
+      "JAPANESE": "じゃあ、私寝に行くね～",
+      "INDONESIAN": "Pokoknya, aku mau tidur~",
+      "PORTUGUESE": "Enfim, vou dormir~",
+      "RUSSIAN": "В общем, я спать~",
+      "FRENCH": "Bref, moi, je vais au lit~",
+      "THAI": "ยังไงก็เถอะ ฉันไปนอนละ~",
+      "PERSIAN": "به هر حال من به رختخواب رفتم~"
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어디서 쓰레기 냄새가 나는데? 아닌가?",
+      "ENGLISH": "Is that a trash smell? What the heck is this?",
+      "CHINESE_SIMPLIFIED": "怎么有股垃圾馊掉的味道? 哪来的味?",
+      "CHINESE_TRADITIONAL": "怎麼有股垃圾餿掉的味道? 哪來的味?",
+      "JAPANESE": "どこかでゴミの匂いがするんだけど？気のせいかな？",
+      "INDONESIAN": "Itu bau sampah, ya? Apa-apaan ini?",
+      "PORTUGUESE": "Esse é cheiro de lixo? Que coisa é essa?",
+      "RUSSIAN": "Это что, запах мусора? Что за фигня?",
+      "FRENCH": "Attends, c’est quoi cette odeur de poubelle ?!",
+      "THAI": "เห้ย นี่มันกลิ่นอะไร? เหม็นขยะปะเนี่ย?!",
+      "PERSIAN": "این بوی زباله است؟ این چه لعنتی است؟"
+    },
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그야 안 빨았으니까...",
+      "ENGLISH": "Well, it hasn’t been washed...",
+      "CHINESE_SIMPLIFIED": "因为那个还没洗…",
+      "CHINESE_TRADITIONAL": "因爲那個還沒洗…",
+      "JAPANESE": "そりゃ洗ってないからだよ…",
+      "INDONESIAN": "Iya, soalnya belum dicuci...",
+      "PORTUGUESE": "Bom, é que não foi lavada...",
+      "RUSSIAN": "Ну... не стиралась просто.",
+      "FRENCH": "Ben, il a pas été lavé, c’est tout...",
+      "THAI": "ก็มันยังไม่ได้ซัก...",
+      "PERSIAN": "خب شسته نشده..."
+    },
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 34.3
+    }
+  }
+]

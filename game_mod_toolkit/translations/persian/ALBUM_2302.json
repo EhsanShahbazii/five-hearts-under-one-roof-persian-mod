@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...!",
+      "ENGLISH": "Hello...!",
+      "CHINESE_SIMPLIFIED": "您好!",
+      "CHINESE_TRADITIONAL": "您好!",
+      "JAPANESE": "こんにちは…！",
+      "INDONESIAN": "Halo...!",
+      "PORTUGUESE": "Olá...!",
+      "RUSSIAN": "Привет...!",
+      "FRENCH": "Bonjour...!",
+      "THAI": "สวัสดี...!",
+      "PERSIAN": "سلام...!"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요.",
+      "ENGLISH": "Hello.",
+      "CHINESE_SIMPLIFIED": "您好。",
+      "CHINESE_TRADITIONAL": "您好。",
+      "JAPANESE": "こんにちは。",
+      "INDONESIAN": "Halo.",
+      "PORTUGUESE": "Olá.",
+      "RUSSIAN": "Привет.",
+      "FRENCH": "Bonjour.",
+      "THAI": "สวัสดีครับ/ค่ะ",
+      "PERSIAN": "Hello."
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오~ 면접 봤던 그 친구 아닌가?",
+      "ENGLISH": "Aren’t you the one who had the interview?",
+      "CHINESE_SIMPLIFIED": "这不是上次来面试的年轻人嘛!",
+      "CHINESE_TRADITIONAL": "這不是上次來面試的年輕人嘛!",
+      "JAPANESE": "おお～、面接受てた子じゃないか！",
+      "INDONESIAN": "Bukannya kamu yang ikut wawancara?",
+      "PORTUGUESE": "Você não é aquela pessoa da entrevista?",
+      "RUSSIAN": "Вы тот, кто проходил собеседование?",
+      "FRENCH": "C’est bien toi qui as passé l’entretien ?",
+      "THAI": "คุณคือคนที่มาสัมภาษณ์ใช่ไหม?",
+      "PERSIAN": "شما کسی نیستید که مصاحبه کردید؟"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오늘부터 다니시는 건가요?",
+      "ENGLISH": "Starting today?",
+      "CHINESE_SIMPLIFIED": "你今天开始上班啊?",
+      "CHINESE_TRADITIONAL": "你今天開始上班啊?",
+      "JAPANESE": "今日から働くんですか？",
+      "INDONESIAN": "Mulai hari ini?",
+      "PORTUGUESE": "Começa hoje?",
+      "RUSSIAN": "С сегодняшнего дня?",
+      "FRENCH": "Tu commences aujourd’hui ?",
+      "THAI": "เริ่มวันนี้เหรอ?",
+      "PERSIAN": "از امروز شروع میشه؟"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네 맞아요!",
+      "ENGLISH": "Yes, that’s right!",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "はい、そうです！",
+      "INDONESIAN": "Iya, benar!",
+      "PORTUGUESE": "Sim, isso mesmo!",
+      "RUSSIAN": "Да, верно!",
+      "FRENCH": "Oui, c’est ça !",
+      "THAI": "ใช่ครับ/ค่ะ!",
+      "PERSIAN": "بله، درست است!"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오늘부터 출근하게 됐습니다!",
+      "ENGLISH": "I’m starting today!",
+      "CHINESE_SIMPLIFIED": "今天是上班第一天!",
+      "CHINESE_TRADITIONAL": "今天是上班第一天!",
+      "JAPANESE": "今日から出勤します！",
+      "INDONESIAN": "Aku mulai hari ini!",
+      "PORTUGUESE": "Eu começo hoje!",
+      "RUSSIAN": "Я начинаю сегодня!",
+      "FRENCH": "Je commence aujourd’hui !",
+      "THAI": "ผม/ฉันเริ่มงานวันนี้!",
+      "PERSIAN": "من از امروز شروع میکنم!"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아! 이거 드시면서 하세요!",
+      "ENGLISH": "Oh! Here, have this while you work!",
+      "CHINESE_SIMPLIFIED": "啊! 这个给您喝!",
+      "CHINESE_TRADITIONAL": "啊! 這個給您喝!",
+      "JAPANESE": "あ！これ、飲みながらどうぞ！",
+      "INDONESIAN": "Oh! Ini, ambil ini buat kamu kerja!",
+      "PORTUGUESE": "Oh! Aqui, pega isso para você usar enquanto trabalha!",
+      "RUSSIAN": "О! Вот, возьмите это, чтобы перекусить во время работы!",
+      "FRENCH": "Oh ! Tiens, prends ça pour travailler !",
+      "THAI": "โอ๊ะ! นี่ เอาไว้กินระหว่างทำงานนะ!",
+      "PERSIAN": "اوه! در اینجا، اینو در حین کار داشته باشید!"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이걸 나를 줘도 돼요?",
+      "ENGLISH": "Oh, can you give this to me?",
+      "CHINESE_SIMPLIFIED": "哎呀，这合适吗?",
+      "CHINESE_TRADITIONAL": "哎呀，這合適嗎?",
+      "JAPANESE": "これ、私にくれるんですか？",
+      "INDONESIAN": "Oh, boleh aku ambil?",
+      "PORTUGUESE": "Oh, posso pegar?",
+      "RUSSIAN": "Ой, можно это мне?",
+      "FRENCH": "Oh, je peux l’avoir ?",
+      "THAI": "อ๊ะ ขอผม/ฉันได้ไหม?",
+      "PERSIAN": "اوه، می توانید اینو به من بدهید؟"
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나 주면 혼나는 거 아니에요?",
+      "ENGLISH": "Won’t you get in trouble?",
+      "CHINESE_SIMPLIFIED": "给我饮料你不会挨训吧?",
+      "CHINESE_TRADITIONAL": "給我飲料你不會挨訓吧?",
+      "JAPANESE": "私までもらったら、上司に怒られると思うけど。",
+      "INDONESIAN": "Nggak bakal bikin kamu kena masalah?",
+      "PORTUGUESE": "Não vai te causar problemas?",
+      "RUSSIAN": "Вас не будут ругать?",
+      "FRENCH": "Tu ne risques pas d’avoir des ennuis ?",
+      "THAI": "ไม่กลัวมีปัญหาเหรอ?",
+      "PERSIAN": "دچار مشکل نمی شوید؟"
+    },
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요! 아 늦었다!",
+      "ENGLISH": "No, it’s fine! Oh, I’m late!",
+      "CHINESE_SIMPLIFIED": "不会不会，我要迟到了！",
+      "CHINESE_TRADITIONAL": "不會不會，我要遲到了！",
+      "JAPANESE": "大丈夫です！あ、遅れちゃった！",
+      "INDONESIAN": "Nggak, nggak apa-apa! Wah, aku telat!",
+      "PORTUGUESE": "Não, tudo bem! Ai, estou atrasado!",
+      "RUSSIAN": "Нет, всё в порядке! Ой, я опаздываю!",
+      "FRENCH": "Non, ça va ! Oh, je suis en retard !",
+      "THAI": "ไม่เป็นไรหรอก! โอ๊ย สายแล้ว!",
+      "PERSIAN": "نه، خوب است! اوه من دیر اومدم!"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "맛있게 드세요...!",
+      "ENGLISH": "Enjoy it...!",
+      "CHINESE_SIMPLIFIED": "您拿着喝吧~",
+      "CHINESE_TRADITIONAL": "您拿着喝吧~",
+      "JAPANESE": "召し上がってください…！",
+      "INDONESIAN": "Nikmati ya...!",
+      "PORTUGUESE": "Aproveite...!",
+      "RUSSIAN": "Наслаждайтесь...!",
+      "FRENCH": "Profite bien... !",
+      "THAI": "กินให้อร่อยนะ!",
+      "PERSIAN": "لذت ببر...!"
+    },
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 친구답지 않게 참 예의 바른 청년이네.",
+      "ENGLISH": "Such a polite young man, unlike most these days.",
+      "CHINESE_SIMPLIFIED": "像他这么有礼貌的年轻人可不多了",
+      "CHINESE_TRADITIONAL": "像他這麼有禮貌的年輕人可不多了",
+      "JAPANESE": "最近の若い子とは思えないほど、礼儀正しい青年だな。",
+      "INDONESIAN": "Anak muda yang sopan, nggak kayak kebanyakan orang zaman sekarang.",
+      "PORTUGUESE": "Um jovem tão educado, diferente da maioria hoje em dia.",
+      "RUSSIAN": "Такой вежливый молодой человек, не то что большинство в наши дни.",
+      "FRENCH": "Un jeune homme aussi poli, ça se fait rare de nos jours.",
+      "THAI": "เป็นคนหนุ่มสาวที่สุภาพมาก ไม่เหมือนกับพวกสมัยนี้เลย.",
+      "PERSIAN": "چنین مرد جوان مودبی، بر خلاف بسیاری از این روزها."
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 31.3
+    }
+  }
+]

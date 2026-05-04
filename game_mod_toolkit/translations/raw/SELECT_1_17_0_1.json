@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저는 무언가를 ‘나눈다’라는 행위 자체에 의미를 두겠습니다.",
+      "ENGLISH": "I’d focus on the act of sharing itself.",
+      "CHINESE_SIMPLIFIED": "对我来说，‘分享’这一行为非常有意义",
+      "CHINESE_TRADITIONAL": "對我來說，‘分享’這一行爲非常有意義",
+      "JAPANESE": "私は何かを「分ける」という行為自体に意味があると思います。",
+      "INDONESIAN": "Aku akan menekankan pentingnya berbagi itu sendiri.",
+      "PORTUGUESE": "Eu me concentraria no ato de compartilhar em si.",
+      "RUSSIAN": "Я бы сосредоточился на самом акте дележа.",
+      "FRENCH": "Je me concentrerais sur l’acte de partager.",
+      "THAI": "ผมจะให้ความสำคัญกับการแบ่งปัน"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나눔의 미덕을 아는 그런 사람이 되겠습니다.",
+      "ENGLISH": "I'd strive to be someone who understands the virtue of sharing.",
+      "CHINESE_SIMPLIFIED": "我愿做一个懂得‘分享之道’的人。",
+      "CHINESE_TRADITIONAL": "我願做一個懂得‘分享之道’的人。",
+      "JAPANESE": "分かち合う美徳が分かる、そんな人間になりたいです。",
+      "INDONESIAN": "Aku akan berusaha menjadi seseorang yang memahami pentingnya nilai berbagi.",
+      "PORTUGUESE": "Me esforçaria para ser alguém que entende a virtude de compartilhar.",
+      "RUSSIAN": "Я стремился бы стать тем, кто понимает ценность умения делиться.",
+      "FRENCH": "J’essaierais d’être quelqu’un qui comprend la vertu du partage.",
+      "THAI": "และพยายามเป็นคนที่เข้าใจคุณค่าของการแบ่งปัน"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.0
+    }
+  }
+]

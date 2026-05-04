@@ -1,0 +1,306 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 인간 의자 만들어줘!",
+      "ENGLISH": "Make me a human chair!",
+      "CHINESE_SIMPLIFIED": "我想坐你身上！",
+      "CHINESE_TRADITIONAL": "我想坐你身上！",
+      "JAPANESE": "お前の膝に座らせてくれ！",
+      "INDONESIAN": "Buatin aku kursi manusia!",
+      "PORTUGUESE": "Faz uma cadeira humana pra mim!",
+      "RUSSIAN": "Стань моим стулом!",
+      "FRENCH": "Fais-moi une chaise !",
+      "THAI": "ทำตัวเป็นเก้าอี้ให้ฉันหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 빨리! 만들어줘~",
+      "ENGLISH": "Come on! Make me a chair!",
+      "CHINESE_SIMPLIFIED": "快点! 给我当人肉椅~",
+      "CHINESE_TRADITIONAL": "快點! 給我當人肉椅~",
+      "JAPANESE": "早く！",
+      "INDONESIAN": "Ayo dong! Buatin aku kursi!",
+      "PORTUGUESE": "Anda! Faz uma cadeira pra mim!",
+      "RUSSIAN": "Давай, сделай из себя стул!",
+      "FRENCH": "Allez ! Fais-moi une chaise !",
+      "THAI": "เร็วเข้า! ทำตัวเป็นเก้าอี้สิ!"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐 하는 거야!",
+      "ENGLISH": "What are you doing?! ",
+      "CHINESE_SIMPLIFIED": "你在搞什么鬼! ",
+      "CHINESE_TRADITIONAL": "你在搞什麼鬼!",
+      "JAPANESE": "ちょっと、何するのよ！",
+      "INDONESIAN": "Kamu ngapain sih?!",
+      "PORTUGUESE": "O que você tá fazendo?!",
+      "RUSSIAN": "Что ты творишь?!",
+      "FRENCH": "Mais qu’est-ce que tu fais ?!",
+      "THAI": "นายทำอะไรของนาย?!"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이게 미쳤나 진짜.",
+      "ENGLISH": "Have you lost it?",
+      "CHINESE_SIMPLIFIED": "有病吧?",
+      "CHINESE_TRADITIONAL": "有病吧?",
+      "JAPANESE": "頭おかしくなったんじゃないの？",
+      "INDONESIAN": "Kamu udah gila, ya?",
+      "PORTUGUESE": "Você pirou?",
+      "RUSSIAN": "Ты с ума сошел?",
+      "FRENCH": "T’as perdu la tête ou quoi ?",
+      "THAI": "เสียสติไปแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 한 번만! 만들어 줘! / 3...",
+      "ENGLISH": "Just once! Make me a chair! / 3...",
+      "CHINESE_SIMPLIFIED": "啊 就一次! 就当一次! / 3...",
+      "CHINESE_TRADITIONAL": "啊 就一次! 就當一次! / 3...",
+      "JAPANESE": "一回だけ！お願い！ / 3…",
+      "INDONESIAN": "Sekali aja! Buatin aku kursi! / 3...",
+      "PORTUGUESE": "Só uma vez! Faz uma cadeira pra mim! / 3...",
+      "RUSSIAN": "Ну один раз! Стань стулом! / 3...",
+      "FRENCH": "Juste une fois ! Fais-moi une chaise ! / 3...",
+      "THAI": "ครั้งเดียวเอง! เป็นเก้าอี้ให้หน่อย! / 3..."
+    },
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 한 번만 앉아 보자!",
+      "ENGLISH": "Just let me sit once!",
+      "CHINESE_SIMPLIFIED": "就让我坐一次吧!",
+      "CHINESE_TRADITIONAL": "就讓我坐一次吧!",
+      "JAPANESE": "一回だけだから！",
+      "INDONESIAN": "Biar aku duduk sekali aja!",
+      "PORTUGUESE": "Deixa eu sentar só uma vez!",
+      "RUSSIAN": "Позволь мне сесть, хотя бы раз!",
+      "FRENCH": "Laisse-moi m’asseoir juste une fois !",
+      "THAI": "ขอนั่งสักครั้งเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "2...",
+      "ENGLISH": "2...",
+      "CHINESE_SIMPLIFIED": "2…",
+      "CHINESE_TRADITIONAL": "2…",
+      "JAPANESE": "2…",
+      "INDONESIAN": "2...",
+      "PORTUGUESE": "2...",
+      "RUSSIAN": "2...",
+      "FRENCH": "2...",
+      "THAI": "2..."
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 빨리! / 1!",
+      "ENGLISH": "Hurry! / 1!",
+      "CHINESE_SIMPLIFIED": "快点! / 1!",
+      "CHINESE_TRADITIONAL": "快點! / 1!",
+      "JAPANESE": "早く！ / 1！",
+      "INDONESIAN": "Cepetan! / 1!",
+      "PORTUGUESE": "Depressa! / 1!",
+      "RUSSIAN": "Быстрее! / 1!",
+      "FRENCH": "Vite ! / 1 !",
+      "THAI": "เร็วเข้า! / 1!"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "... 근데 역시 의자보단 침대지~ ",
+      "ENGLISH": "... But a bed is still better than a chair~ ",
+      "CHINESE_SIMPLIFIED": "…但还是床更舒服~",
+      "CHINESE_TRADITIONAL": "…但還是牀更舒服~",
+      "JAPANESE": "…でもやっぱり膝よりベッドがいいかな～",
+      "INDONESIAN": "... Tapi kasur tetap lebih enak daripada kursi~",
+      "PORTUGUESE": "... Mas uma cama ainda é melhor que uma cadeira~",
+      "RUSSIAN": "... Но кровать все равно лучше, чем стул~",
+      "FRENCH": "... Mais un lit, c’est quand même mieux qu’une chaise~",
+      "THAI": "... แต่เตียงมันก็ดีกว่าเก้าอี้อยู่ดี~"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 20.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "음 푹신푹신...",
+      "ENGLISH": "So soft...",
+      "CHINESE_SIMPLIFIED": "松松软软的...",
+      "CHINESE_TRADITIONAL": "鬆鬆軟軟的...",
+      "JAPANESE": "ふかふかしてるし…",
+      "INDONESIAN": "Lembut banget...",
+      "PORTUGUESE": "Tão macia...",
+      "RUSSIAN": "Такая мягкая...",
+      "FRENCH": "Tellement moelleux...",
+      "THAI": "นุ่มมาก..."
+    },
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜 돌았어?",
+      "ENGLISH": "Are you crazy?",
+      "CHINESE_SIMPLIFIED": "我看你真是疯了!",
+      "CHINESE_TRADITIONAL": "我看你真是瘋了!",
+      "JAPANESE": "あんた、バカじゃないの？",
+      "INDONESIAN": "Kamu gila, ya?",
+      "PORTUGUESE": "Você tá maluco?",
+      "RUSSIAN": "Ты с ума сошел?",
+      "FRENCH": "T’es complètement fou ?",
+      "THAI": "บ้าไปแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아 맞다.",
+      "ENGLISH": "Oh right.",
+      "CHINESE_SIMPLIFIED": "哦对了",
+      "CHINESE_TRADITIONAL": "哦對了",
+      "JAPANESE": "あ、そうだ。",
+      "INDONESIAN": "Oh, iya.",
+      "PORTUGUESE": "Ah, é.",
+      "RUSSIAN": "Ах да, точно.",
+      "FRENCH": "Ah oui, au fait.",
+      "THAI": "อ้อ จริงสิ."
+    },
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "짠~",
+      "ENGLISH": "Ta-da~",
+      "CHINESE_SIMPLIFIED": "看~",
+      "CHINESE_TRADITIONAL": "看~",
+      "JAPANESE": "じゃーん！",
+      "INDONESIAN": "Ta-da~",
+      "PORTUGUESE": "Tcharam~",
+      "RUSSIAN": "Та-да~",
+      "FRENCH": "Ta-da~",
+      "THAI": "ทาด้า~"
+    },
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 27.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "어? 그거 떼어간 게 너였어?",
+      "ENGLISH": "Wait, you took that down?",
+      "CHINESE_SIMPLIFIED": "啊?原来这个是被你给拿走了啊?",
+      "CHINESE_TRADITIONAL": "啊?原來這個是被你給拿走了啊?",
+      "JAPANESE": "え？それ持ってったの、お前だったのか？",
+      "INDONESIAN": "Tunggu, kamu turunin itu?",
+      "PORTUGUESE": "Espera, você tirou isso?",
+      "RUSSIAN": "Постой, ты это убрал?",
+      "FRENCH": "Attends, t’as enlevé ça ?",
+      "THAI": "เดี๋ยวนะ นายเอามันลงไปแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "응. 나 저 옆방 엄청 탐냈던 거 알지?",
+      "ENGLISH": "Yep. You know I really wanted this room next to yours.",
+      "CHINESE_SIMPLIFIED": "嗯，你知道我一直都很想要旁边那个房间吧?",
+      "CHINESE_TRADITIONAL": "嗯，你知道我一直都很想要旁邊那個房間吧?",
+      "JAPANESE": "うん。私がこの隣の部屋すごく気に入ってるの知ってるでしょ？",
+      "INDONESIAN": "Iya. Kamu tahu aku beneran pengen kamar ini di sebelah kamarmu.",
+      "PORTUGUESE": "Sim. Sabe que eu realmente queria esse quarto ao lado do seu.",
+      "RUSSIAN": "Ага. Ты же знаешь, как сильно я хотел эту комнату рядом с твоей.",
+      "FRENCH": "Ouais. Tu sais bien que je voulais vraiment cette chambre à côté de la tienne.",
+      "THAI": "ใช่. เธอก็รู้ว่าฉันอยากได้ห้องข้าง ๆ ห้องนายแค่ไหน."
+    },
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.4
+    }
+  }
+]

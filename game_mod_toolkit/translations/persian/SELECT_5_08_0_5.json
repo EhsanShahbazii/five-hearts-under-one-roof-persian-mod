@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 승이 씨!",
+      "ENGLISH": "I'm Seung-yi!",
+      "CHINESE_SIMPLIFIED": "我选圣依",
+      "CHINESE_TRADITIONAL": "我選聖依",
+      "JAPANESE": "スンイさんかな！",
+      "INDONESIAN": "Aku Seung-yi!",
+      "PORTUGUESE": "Eu sou a Seung-yi!",
+      "RUSSIAN": "Я — Сын-и!",
+      "FRENCH": "Je suis Seung-yi !",
+      "THAI": "ฉันคือ ซึงอี!",
+      "PERSIAN": "من سونگ یی هستم!"
+    },
+    "TIME": {
+      "HIDE": 1.0
+    }
+  }
+]

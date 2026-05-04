@@ -1,0 +1,41 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "ENGLISH": "'Can we talk after you finish work? -Seung-yi-'",
+      "CHINESE_SIMPLIFIED": "'您下班后我们可以聊聊吗? -圣依-'",
+      "CHINESE_TRADITIONAL": "'您下班後我們可以聊聊嗎? -聖依-'",
+      "JAPANESE": " 仕事が終わってから話しませんか？-スンイ",
+      "INDONESIAN": "Bisa kita bicara setelah kamu selesai kerja? -Seung-yi-",
+      "PORTUGUESE": "Podemos conversar depois que você terminar o trabalho? -Seung-yi-",
+      "RUSSIAN": "«Можем поговорить после работы? -Сын-и-»",
+      "FRENCH": "«On peut parler après ton travail ? -Seung-yi-»",
+      "THAI": "เราคุยกันหลังเลิกงานได้ไหม? -ซึงอี-'",
+      "PERSIAN": "می‌تونیم بعد از اتمام کار با هم صحبت کنیم؟ -سونگ-یی-'"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아휴... 빨리 일어나야겠다.",
+      "ENGLISH": "Ugh... I really need to get up.",
+      "CHINESE_SIMPLIFIED": "哎呀...得快点起来了",
+      "CHINESE_TRADITIONAL": "哎呀...得快點起來了",
+      "JAPANESE": "ああ…早く起きなきゃ。",
+      "INDONESIAN": "Ugh... Aku benar-benar harus bangun.",
+      "PORTUGUESE": "Ugh... Eu realmente preciso levantar.",
+      "RUSSIAN": "Ух... Мне правда нужно вставать.",
+      "FRENCH": "Ouf... Il faut vraiment que je me lève.",
+      "THAI": "อ๊า... ฉันต้องลุกแล้วจริงๆ",
+      "PERSIAN": "اوه ... من واقعا باید بلند شوم."
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.1
+    }
+  }
+]

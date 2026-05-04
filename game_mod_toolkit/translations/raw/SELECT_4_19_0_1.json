@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "말숙아 오늘은 안 되겠다.",
+      "ENGLISH": "Mal-sook I can’t make it today.",
+      "CHINESE_SIMPLIFIED": "末淑，今天是不行了",
+      "CHINESE_TRADITIONAL": "末淑抱歉啊，今天是不行了",
+      "JAPANESE": "マルスク、今日は無理そう。",
+      "INDONESIAN": "Mal-sook, aku gak bisa datang hari ini.",
+      "PORTUGUESE": "Mal-sook, eu não vou conseguir ir hoje.",
+      "RUSSIAN": "Мал-Сук, сегодня не получится.",
+      "FRENCH": "Mal-sook, je ne peux pas aujourd’hui.",
+      "THAI": "มัลซุก วันนี้ฉันไปไม่ได้"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이따가 집에서 보자.",
+      "ENGLISH": "I’ll see you at home later.",
+      "CHINESE_SIMPLIFIED": "一会回家见",
+      "CHINESE_TRADITIONAL": "一會回家見",
+      "JAPANESE": "後で、家で会おう。",
+      "INDONESIAN": "Nanti aku ketemu kamu di rumah.",
+      "PORTUGUESE": "Te vejo em casa mais tarde.",
+      "RUSSIAN": "Увидимся дома позже.",
+      "FRENCH": "On se voit à la maison plus tard.",
+      "THAI": "ไว้เจอกันที่บ้านทีหลังนะ"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어이없어.",
+      "ENGLISH": "Unbelievable.",
+      "CHINESE_SIMPLIFIED": "无语...",
+      "CHINESE_TRADITIONAL": "無語...",
+      "JAPANESE": "呆れるわ、ほんと。",
+      "INDONESIAN": "Gak bisa dipercaya.",
+      "PORTUGUESE": "Inacreditável.",
+      "RUSSIAN": "Невероятно.",
+      "FRENCH": "Incroyable.",
+      "THAI": "เหลือเชื่อเลย"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "괜히 저 때문에...",
+      "ENGLISH": "It’s because of me...",
+      "CHINESE_SIMPLIFIED": "您不用因为我…",
+      "CHINESE_TRADITIONAL": "您不用因爲我…",
+      "JAPANESE": "私のせいで…",
+      "INDONESIAN": "Ini gara-gara aku...",
+      "PORTUGUESE": "Isso é por minha causa...",
+      "RUSSIAN": "Это из-за меня...",
+      "FRENCH": "C’est à cause de moi...",
+      "THAI": "มันเป็นเพราะฉันแน่ๆ..."
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요. 말숙이는 이런 거 가지고 신경 안 써요.",
+      "ENGLISH": "Hey, Mal-sook won’t get mad over this.",
+      "CHINESE_SIMPLIFIED": "没事，末淑不会因为这种事情生气的",
+      "CHINESE_TRADITIONAL": "沒事，末淑不會因爲這種事情生氣的",
+      "JAPANESE": "大丈夫だよ。マルスクはこんなことで気にしないから。",
+      "INDONESIAN": "Hei, Mal-sook gak bakal marah soal ini.",
+      "PORTUGUESE": "Ei, a Mal-sook não vai ficar brava por isso.",
+      "RUSSIAN": "Эй, Мал-Сук не разозлится из-за этого.",
+      "FRENCH": "Hé, Mal-sook ne se fâchera pas pour ça.",
+      "THAI": "เฮ้ มัลซุกไม่โกรธหรอกน่า"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "가요!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "走吧!",
+      "CHINESE_TRADITIONAL": "走吧!",
+      "JAPANESE": "行きましょう！",
+      "INDONESIAN": "Ayo pergi!",
+      "PORTUGUESE": "Vamos lá!",
+      "RUSSIAN": "Пошли!",
+      "FRENCH": "Viens !",
+      "THAI": "ไปเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨한테 더 보여주고 싶은 게 있어요!",
+      "ENGLISH": "There’s something else I want to show you, Seung-yi!",
+      "CHINESE_SIMPLIFIED": "我还有个地方想带你去",
+      "CHINESE_TRADITIONAL": "我還有個地方想帶你去",
+      "JAPANESE": "スンイさんにもっと見せたいものがあるんです！",
+      "INDONESIAN": "Ada sesuatu lagi yang mau aku tunjukin ke kamu, Seung-yi!",
+      "PORTUGUESE": "Tem mais uma coisa que eu quero te mostrar, Seung-yi!",
+      "RUSSIAN": "Есть кое-что ещё, что я хочу тебе показать, Сын-и!",
+      "FRENCH": "Il y a autre chose que je veux te montrer, Seung-yi !",
+      "THAI": "ฉันมีอย่างอื่นที่อยากให้เธอดู ซึงอี!"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 20.6
+    }
+  }
+]

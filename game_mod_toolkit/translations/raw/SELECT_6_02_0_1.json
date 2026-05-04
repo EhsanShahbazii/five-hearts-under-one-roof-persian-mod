@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "전 공기요!",
+      "ENGLISH": "It's air!",
+      "CHINESE_SIMPLIFIED": "我觉得空气最重要!",
+      "CHINESE_TRADITIONAL": "我覺得空氣最重要!",
+      "JAPANESE": "私は空気です！",
+      "INDONESIAN": "Aku pilih udara!",
+      "PORTUGUESE": "Eu escolho o ar!",
+      "RUSSIAN": "Это воздух!",
+      "FRENCH": "C’est de l’air !",
+      "THAI": "นี่คืออากาศ!"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.2
+    }
+  }
+]

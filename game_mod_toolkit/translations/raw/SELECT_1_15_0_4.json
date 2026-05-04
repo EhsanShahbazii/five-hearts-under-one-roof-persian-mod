@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그딴 건 모르겠고",
+      "ENGLISH": "I don't know about that",
+      "CHINESE_SIMPLIFIED": "谁跑了第几名我不知道",
+      "CHINESE_TRADITIONAL": "誰跑了第幾名我不知道",
+      "JAPANESE": "よく分かりませんが",
+      "INDONESIAN": "Aku nggak tahu soal itu",
+      "PORTUGUESE": "Não sei sobre isso",
+      "RUSSIAN": "Не знаю насчёт этого,",
+      "FRENCH": "Je sais pas pour ça,",
+      "THAI": "ผมไม่รู้เรื่องนั้นหรอก"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "제가 면접관님 정도는 제낄 수 있겠네요.",
+      "ENGLISH": "But I'm confident I could overtake you, Mr. Interviewer.",
+      "CHINESE_SIMPLIFIED": "但我肯定比面试官您跑得快",
+      "CHINESE_TRADITIONAL": "但我肯定比面試官您跑得快",
+      "JAPANESE": "相手があなたぐらいなら追い越せそうですね。",
+      "INDONESIAN": "Tapi aku yakin bisa nyalip kamu, Pak Pewawancara.",
+      "PORTUGUESE": "Mas tenho certeza que posso ultrapassar você, Sr. Entrevistador.",
+      "RUSSIAN": "Но уверен, что смогу обогнать вас, господин интервьюер.",
+      "FRENCH": "Mais je suis sûr que je pourrais vous dépasser, monsieur l’intervieweur.",
+      "THAI": "แต่ผมมั่นใจว่าผมแซงคุณได้แน่ คุณสัมภาษณ์."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 6.5
+    }
+  }
+]

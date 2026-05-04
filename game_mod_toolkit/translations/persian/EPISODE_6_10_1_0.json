@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어떡해. 많이 매워요?",
+      "ENGLISH": "Is it really that spicy?",
+      "CHINESE_SIMPLIFIED": "怎么办!是不是被辣到了?",
+      "CHINESE_TRADITIONAL": "怎麼辦!是不是被辣到了?",
+      "JAPANESE": "まだ、辛いですか？",
+      "INDONESIAN": "Pedas banget, ya?",
+      "PORTUGUESE": "Tá picante assim mesmo?",
+      "RUSSIAN": "Правда так остро?",
+      "FRENCH": "C’est vraiment si épicé ?",
+      "THAI": "เผ็ดขนาดนั้นจริงๆ เหรอ?",
+      "PERSIAN": "واقعاً آنقدر تند است؟"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어때요? 좀 괜찮아졌어요?",
+      "ENGLISH": "Are you feeling better?",
+      "CHINESE_SIMPLIFIED": "怎么样?现在好点吗?",
+      "CHINESE_TRADITIONAL": "怎麼樣?現在好點嗎?",
+      "JAPANESE": "どうですか？ちょっと落ち着きました？",
+      "INDONESIAN": "Udah mendingan?",
+      "PORTUGUESE": "Está se sentindo melhor?",
+      "RUSSIAN": "Тебе лучше?",
+      "FRENCH": "Tu te sens mieux ?",
+      "THAI": "เธอรู้สึกดีขึ้นไหม?",
+      "PERSIAN": "احساس بهتری دارید؟"
+    },
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오 얘는 맛이 정상인데요?",
+      "ENGLISH": "Ah, this one tastes normal!",
+      "CHINESE_SIMPLIFIED": "这才是吃的啊…",
+      "CHINESE_TRADITIONAL": "這纔是吃的啊…",
+      "JAPANESE": "おお、これは普通に美味しいですね。",
+      "INDONESIAN": "Ah, yang ini rasanya normal!",
+      "PORTUGUESE": "Ah, esse aqui tá com gosto normal!",
+      "RUSSIAN": "Ах, это на вкус нормально!",
+      "FRENCH": "Ah, celui-ci a un goût normal !",
+      "THAI": "อา อันนี้รสชาติปกติ!",
+      "PERSIAN": "آخه این یکی طعمش عادیه!"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아니 맛이 '정상'. 탑을 찍었다구요!",
+      "ENGLISH": "No, I mean it tastes great!",
+      "CHINESE_SIMPLIFIED": "啊，我说这个非常好吃!",
+      "CHINESE_TRADITIONAL": "啊，我說這個非常好吃!",
+      "JAPANESE": "いや、味が「普通」ってことです。頂点を極めた味ってこと！",
+      "INDONESIAN": "Maksudku, rasanya enak kok!",
+      "PORTUGUESE": "Não, quero dizer, tá ótimo!",
+      "RUSSIAN": "Нет, в смысле, это вкусно!",
+      "FRENCH": "Non, je veux dire, c’est délicieux !",
+      "THAI": "ไม่ๆ ฉันหมายถึงมันอร่อยมาก!",
+      "PERSIAN": "نه منظورم اینه که طعمش عالیه!"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 24.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 좋아하시는 거 보니까 종종 만들어줘야겠다.",
+      "ENGLISH": "If you like it, I’ll make it often.",
+      "CHINESE_SIMPLIFIED": "看你这么喜欢，以后多多做给你喝!",
+      "CHINESE_TRADITIONAL": "看你這麼喜歡，以後多多做給你喝!",
+      "JAPANESE": "ユマンさんが気に入ってくれたみたいだし、これからもたまに作ってあげますね。",
+      "INDONESIAN": "Kalau kamu suka, aku bakal sering buatkan.",
+      "PORTUGUESE": "Se você gosta, eu faço mais vezes.",
+      "RUSSIAN": "Если тебе нравится, я буду делать это почаще.",
+      "FRENCH": "Si tu aimes, je t’en ferai souvent.",
+      "THAI": "ถ้าเธอชอบ ฉันจะทำให้บ่อยๆ",
+      "PERSIAN": "اگر دوست دارید، من اونو اغلب درست می کنم."
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 29.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네...?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "什么...?",
+      "CHINESE_TRADITIONAL": "什麼...?",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Apa…?",
+      "PORTUGUESE": "O quê...?",
+      "RUSSIAN": "Что...?",
+      "FRENCH": "Quoi...?",
+      "THAI": "อะไรนะ...?",
+      "PERSIAN": "What...?"
+    },
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 29.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 이럴 때가 아니지! 출근해야죠!",
+      "ENGLISH": "I need to get to work!",
+      "CHINESE_SIMPLIFIED": "啊，你得去上班了!",
+      "CHINESE_TRADITIONAL": "啊，你得去上班了!",
+      "JAPANESE": "あ、こんなことしてる場合じゃない！出勤しなきゃ！",
+      "INDONESIAN": "Aku harus kerja!",
+      "PORTUGUESE": "Tenho que trabalhar!",
+      "RUSSIAN": "Мне нужно на работу!",
+      "FRENCH": "Je dois aller travailler !",
+      "THAI": "ฉันต้องไปทำงานแล้ว!",
+      "PERSIAN": "باید برم سر کار!"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "내가 얼른 커피 테이크아웃 잔에 싸올게요!",
+      "ENGLISH": "I’ll pack the coffee in a to-go cup for you!",
+      "CHINESE_SIMPLIFIED": "剩下的咖啡我帮你打包吧!",
+      "CHINESE_TRADITIONAL": "剩下的咖啡我幫你打包吧!",
+      "JAPANESE": "急いでカップにコーヒー入れてきますね！",
+      "INDONESIAN": "Aku bungkus kopinya di gelas untuk dibawa!",
+      "PORTUGUESE": "Vou colocar o café num copo pra viagem!",
+      "RUSSIAN": "Я упакую кофе в стакан с собой!",
+      "FRENCH": "Je vais mettre le café dans un gobelet à emporter pour toi !",
+      "THAI": "ฉันจะใส่กาแฟลงแก้วให้เธอนะ!",
+      "PERSIAN": "من قهوه را در یک فنجان آماده برای شما بسته بندی می کنم!"
+    },
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아니! 다음에 먹을게요! 이따 봐요!!",
+      "ENGLISH": "No, I’ll drink it later! See you!",
+      "CHINESE_SIMPLIFIED": "不用不用!我下次再喝吧!一会儿见!",
+      "CHINESE_TRADITIONAL": "不用不用!我下次再喝吧!一會兒見!",
+      "JAPANESE": "いや、大丈夫です！また今度にします！じゃあ、後で！",
+      "INDONESIAN": "Nggak, aku minum nanti aja! Sampai jumpa!",
+      "PORTUGUESE": "Não, eu tomo depois! Até mais!",
+      "RUSSIAN": "Нет, выпью позже! Увидимся!",
+      "FRENCH": "Non, je le boirai plus tard ! À plus !",
+      "THAI": "ไม่ ฉันจะดื่มทีหลัง! แล้วเจอกัน!",
+      "PERSIAN": "نه، بعدا می نوشم! ببینمت!"
+    },
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 36.8
+    }
+  }
+]

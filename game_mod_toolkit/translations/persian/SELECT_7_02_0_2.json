@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "넝담넝담~",
+      "ENGLISH": "Just kidding, just kidding~",
+      "CHINESE_SIMPLIFIED": "开玩笑开玩笑~",
+      "CHINESE_TRADITIONAL": "開玩笑開玩笑~",
+      "JAPANESE": "冗談冗談〜",
+      "INDONESIAN": "Cuma bercanda, cuma bercanda~",
+      "PORTUGUESE": "Só brincadeira, só brincadeira~",
+      "RUSSIAN": "Шучу, шучу~",
+      "FRENCH": "Je rigole, je rigole~",
+      "THAI": "ล้อเล่นนะ ล้อเล่น~",
+      "PERSIAN": "فقط شوخی کردم، فقط شوخی کردم~"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "넝담넝담~",
+      "ENGLISH": "Just kidding, just kidding~",
+      "CHINESE_SIMPLIFIED": "开玩笑开玩笑~",
+      "CHINESE_TRADITIONAL": "開玩笑開玩笑~",
+      "JAPANESE": "冗談冗談〜",
+      "INDONESIAN": "Cuma bercanda, cuma bercanda~",
+      "PORTUGUESE": "Só brincadeira, só brincadeira~",
+      "RUSSIAN": "Шучу, шучу~",
+      "FRENCH": "Je rigole, je rigole~",
+      "THAI": "ล้อเล่นนะ ล้อเล่น~",
+      "PERSIAN": "فقط شوخی کردم، فقط شوخی کردم~"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 너무한다.",
+      "ENGLISH": "You really never quit with the jokes, do you?",
+      "CHINESE_SIMPLIFIED": "你真的太过分了",
+      "CHINESE_TRADITIONAL": "你真的太過分了",
+      "JAPANESE": "ほんとひどいわね。",
+      "INDONESIAN": "Kamu memang nggak pernah berhenti bercanda, ya?",
+      "PORTUGUESE": "Você realmente nunca para com as piadas, né?",
+      "RUSSIAN": "Ты правда никогда не прекращаешь шутить, да?",
+      "FRENCH": "Tu ne t’arrêtes jamais avec tes blagues, hein ?",
+      "THAI": "เธอนี่ไม่เคยหยุดล้อเล่นเลยเนอะ?",
+      "PERSIAN": "شما واقعاً هرگز با شوخی ها دست از کار نمی کشید، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "넌 끝까지 장난이네.",
+      "ENGLISH": "Too far this time.",
+      "CHINESE_SIMPLIFIED": "这时候还在开玩笑",
+      "CHINESE_TRADITIONAL": "這時候還在開玩笑",
+      "JAPANESE": "あんた、冗談しか言えないの？",
+      "INDONESIAN": "Kali ini kelewatan.",
+      "PORTUGUESE": "Dessa vez foi longe demais.",
+      "RUSSIAN": "На этот раз ты зашёл(ла) слишком далеко.",
+      "FRENCH": "Cette fois, tu es allé(e) trop loin.",
+      "THAI": "คราวนี้ไปไกลเกินไปแล้ว",
+      "PERSIAN": "این بار خیلی دور"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "꺼져.",
+      "ENGLISH": "Get lost!",
+      "CHINESE_SIMPLIFIED": "赶紧滚吧",
+      "CHINESE_TRADITIONAL": "趕緊滾吧",
+      "JAPANESE": "消えて。",
+      "INDONESIAN": "Pergi sana!",
+      "PORTUGUESE": "Cai fora!",
+      "RUSSIAN": "Проваливай!",
+      "FRENCH": "Dégage !",
+      "THAI": "ไปให้พ้น!",
+      "PERSIAN": "گم شو!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭐라고...?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "哎呀…",
+      "CHINESE_TRADITIONAL": "哎呀…",
+      "JAPANESE": "え…何？",
+      "INDONESIAN": "Apa...?",
+      "PORTUGUESE": "O quê...?",
+      "RUSSIAN": "Что...?",
+      "FRENCH": "Quoi...?",
+      "THAI": "อะไรนะ...?",
+      "PERSIAN": "What...?"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "꺼지라고!",
+      "ENGLISH": "I said F*ck off.",
+      "CHINESE_SIMPLIFIED": "我让你滚!",
+      "CHINESE_TRADITIONAL": "我讓你滾!",
+      "JAPANESE": "消えろって言ってるのよ！",
+      "INDONESIAN": "Kukatakan, pergi!",
+      "PORTUGUESE": "Eu disse, Vai se f*der!",
+      "RUSSIAN": "Я сказал(а), пошёл(шла) к чёрту.",
+      "FRENCH": "J’ai dit, va te faire voir.",
+      "THAI": "ฉันบอกว่า ไปให้ไกลๆ.",
+      "PERSIAN": "گفتم فک کن"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.1
+    }
+  }
+]

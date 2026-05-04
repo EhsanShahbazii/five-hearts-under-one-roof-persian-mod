@@ -1,0 +1,800 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Hello~",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "はい～",
+      "INDONESIAN": "Halo~",
+      "PORTUGUESE": "Olá~",
+      "RUSSIAN": "Привет~",
+      "FRENCH": "Salut~",
+      "THAI": "สวัสดี~"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 어제 많이 놀라시게 해서 죄송해요.",
+      "ENGLISH": "I’m sorry for scaring you so much yesterday. ",
+      "CHINESE_SIMPLIFIED": "昨天因为我您吓到了吧，实在抱歉",
+      "CHINESE_TRADITIONAL": "昨天因爲我您嚇到了吧，實在抱歉",
+      "JAPANESE": "昨日は驚かせてしまって、すいません。",
+      "INDONESIAN": "Maaf ya udah bikin kamu ketakutan banget kemarin.",
+      "PORTUGUESE": "Desculpa por ter te assustado tanto ontem.",
+      "RUSSIAN": "Извини, что так напугала тебя вчера.",
+      "FRENCH": "Désolée de t’avoir fait peur hier.",
+      "THAI": "ขอโทษนะที่ทำให้เธอกลัวเมื่อวาน"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 21.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어제는 저도 정신이 없어서....",
+      "ENGLISH": "I was out of it too...",
+      "CHINESE_SIMPLIFIED": "昨天我也喝的有点醉了…",
+      "CHINESE_TRADITIONAL": "昨天我也喝的有點醉了…",
+      "JAPANESE": "昨日は僕も混乱してて…",
+      "INDONESIAN": "Aku juga lagi gak enak waktu itu...",
+      "PORTUGUESE": "Eu também estava meio fora de mim...",
+      "RUSSIAN": "Я тоже была немного не в себе...",
+      "FRENCH": "J’étais un peu perdue aussi...",
+      "THAI": "ฉันเองก็ตกใจเหมือนกัน..."
+    },
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이름이 어떻게 되세요?",
+      "ENGLISH": "What’s your name?",
+      "CHINESE_SIMPLIFIED": "对了你的名字是?",
+      "CHINESE_TRADITIONAL": "對了你的名字是?",
+      "JAPANESE": "名前は何て言うんですか？",
+      "INDONESIAN": "Siapa namamu?",
+      "PORTUGUESE": "Qual é o seu nome?",
+      "RUSSIAN": "Как тебя зовут?",
+      "FRENCH": "Comment tu t’appelles ?",
+      "THAI": "ชื่ออะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "조승이요...",
+      "ENGLISH": "Jo Seung...",
+      "CHINESE_SIMPLIFIED": "我叫曹圣依",
+      "CHINESE_TRADITIONAL": "我叫曹聖依",
+      "JAPANESE": "チョ・スンイです…",
+      "INDONESIAN": "Jo Seung...",
+      "PORTUGUESE": "Jo Seung...",
+      "RUSSIAN": "Джо Сын...",
+      "FRENCH": "Jo Seung...",
+      "THAI": "โจ ซึง..."
+    },
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "조승이...",
+      "ENGLISH": "Jo Seung...",
+      "CHINESE_SIMPLIFIED": "啊，曹圣依…",
+      "CHINESE_TRADITIONAL": "啊，曹聖依…",
+      "JAPANESE": "チョ・スンイ…",
+      "INDONESIAN": "Jo Seung...",
+      "PORTUGUESE": "Jo Seung...",
+      "RUSSIAN": "Джо Сын...",
+      "FRENCH": "Jo Seung...",
+      "THAI": "โจ ซึง..."
+    },
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "언제부터 계신 거예요?",
+      "ENGLISH": "How long have you been here?",
+      "CHINESE_SIMPLIFIED": "你是从什么时候开始住在这的啊?",
+      "CHINESE_TRADITIONAL": "你是從什麼時候開始住在這的啊?",
+      "JAPANESE": "いつからここにいるんですか？",
+      "INDONESIAN": "Sudah berapa lama kamu di sini?",
+      "PORTUGUESE": "Há quanto tempo você está aqui?",
+      "RUSSIAN": "Как долго ты здесь находишься?",
+      "FRENCH": "Depuis combien de temps es-tu ici ?",
+      "THAI": "เธออยู่ที่นี่มานานแค่ไหนแล้ว?"
+    },
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "저... 많이 어렸을 때부터요...",
+      "ENGLISH": "Since I was very young...",
+      "CHINESE_SIMPLIFIED": "从…很小的时候",
+      "CHINESE_TRADITIONAL": "從…很小的時候",
+      "JAPANESE": "えっと…かなり前からです…",
+      "INDONESIAN": "Sejak aku masih kecil...",
+      "PORTUGUESE": "Desde que eu era bem pequeno...",
+      "RUSSIAN": "С самого детства...",
+      "FRENCH": "Depuis que je suis toute petite...",
+      "THAI": "ตั้งแต่เด็กมากๆ..."
+    },
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 34.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "많이 놀라셨죠..",
+      "ENGLISH": "You really scared you, didn’t you?",
+      "CHINESE_SIMPLIFIED": "吓到您了吧?",
+      "CHINESE_TRADITIONAL": "嚇到您了吧?",
+      "JAPANESE": "驚きましたよね…",
+      "INDONESIAN": "Kamu beneran ketakutan, ya?",
+      "PORTUGUESE": "Te assustei mesmo, né?",
+      "RUSSIAN": "Ты действительно напугала себя, правда?",
+      "FRENCH": "Tu t’es vraiment fait peur, n'est-ce pas ?",
+      "THAI": "เธอทำให้ตัวเองกลัวมากเลยใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "많이 놀라긴 했는데...",
+      "ENGLISH": "I was pretty freaked out",
+      "CHINESE_SIMPLIFIED": "是有点吓到...",
+      "CHINESE_TRADITIONAL": "是有點嚇到...",
+      "JAPANESE": "まあ、結構驚いたけど…",
+      "INDONESIAN": "Aku sih sempat panik,",
+      "PORTUGUESE": "Eu fiquei bem apavorado,",
+      "RUSSIAN": "Я была просто в ужасе.",
+      "FRENCH": "J’étais totalement paniquée.",
+      "THAI": "ฉันตกใจจริงๆ น่ะ"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "맥주 한잔하고 자니까 괜찮아졌어요.",
+      "ENGLISH": "But after a beer and some sleep, I feel better.",
+      "CHINESE_SIMPLIFIED": "不过我喝了啤酒又睡了一觉之后就好多了",
+      "CHINESE_TRADITIONAL": "不過我喝了啤酒又睡了一覺之後就好多了",
+      "JAPANESE": "ビールを飲んで寝たら、ちょっと落ち着きましたよ。",
+      "INDONESIAN": "Tapi setelah minum bir dan tidur, aku merasa lebih baik.",
+      "PORTUGUESE": "Mas depois de uma cerveja e uma dormida, me sinto melhor.",
+      "RUSSIAN": "Но после пива и немного сна, стало легче.",
+      "FRENCH": "Mais après une bière et un peu de sommeil, ça va mieux.",
+      "THAI": "แต่หลังจากดื่มเบียร์ไปแล้วนอนหลับ รู้สึกดีขึ้นนะ"
+    },
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 41.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "맥주...?",
+      "ENGLISH": "Beer...? ",
+      "CHINESE_SIMPLIFIED": "啤酒…?",
+      "CHINESE_TRADITIONAL": "啤酒…?",
+      "JAPANESE": "ビール…？",
+      "INDONESIAN": "Bir...?",
+      "PORTUGUESE": "Cerveja...?",
+      "RUSSIAN": "Пиво...?",
+      "FRENCH": "Bière...?",
+      "THAI": "เบียร์...?"
+    },
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 43.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "맥주가 뭐예요?",
+      "ENGLISH": "What’s beer?",
+      "CHINESE_SIMPLIFIED": "啤酒是什么?",
+      "CHINESE_TRADITIONAL": "啤酒是什麼?",
+      "JAPANESE": "ビールって何ですか？",
+      "INDONESIAN": "Apa itu bir?",
+      "PORTUGUESE": "O que é cerveja?",
+      "RUSSIAN": "Что такое пиво?",
+      "FRENCH": "C’est quoi, la bière ?",
+      "THAI": "เบียร์คืออะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 44.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 46.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "맥주를 몰라요? 술이잖아요!",
+      "ENGLISH": "You don’t know what beer is? It’s alcohol!",
+      "CHINESE_SIMPLIFIED": "你不知道啤酒是什么吗?就是一种酒啊",
+      "CHINESE_TRADITIONAL": "你不知道啤酒是什麼嗎?就是一種酒啊",
+      "JAPANESE": "ビールを知らないんですか？お酒ですよ！",
+      "INDONESIAN": "Kamu gak tahu bir? Itu alkohol!",
+      "PORTUGUESE": "Você não sabe o que é cerveja? É álcool!",
+      "RUSSIAN": "Ты не знаешь, что такое пиво? Это алкоголь!",
+      "FRENCH": "Tu ne sais pas ce que c’est ? C’est de l’alcool !",
+      "THAI": "เธอไม่รู้จักเบียร์เหรอ? มันคือแอลกอฮอล์!"
+    },
+    "TIME": {
+      "SHOW": 46.2,
+      "HIDE": 48.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "나간 적이 없어서 모르겠어요...",
+      "ENGLISH": "I’ve never been outside",
+      "CHINESE_SIMPLIFIED": "我从来没出去过，所以不太清楚",
+      "CHINESE_TRADITIONAL": "我從來沒出去過，所以不太清楚",
+      "JAPANESE": "外に出たことがないから、分からないんです…",
+      "INDONESIAN": "Aku belum pernah keluar rumah,",
+      "PORTUGUESE": "Eu nunca saí de casa,",
+      "RUSSIAN": "Я никогда не была на улице,",
+      "FRENCH": "Je n’ai jamais été dehors,",
+      "THAI": "ฉันไม่เคยออกไปข้างนอก"
+    },
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 52.4
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요.",
+      "ENGLISH": "So I don’t know... Sorry.",
+      "CHINESE_SIMPLIFIED": "对不起",
+      "CHINESE_TRADITIONAL": "對不起",
+      "JAPANESE": "すいません。",
+      "INDONESIAN": "Jadi aku gak tahu... Maaf.",
+      "PORTUGUESE": "Então não sei... Desculpa.",
+      "RUSSIAN": "поэтому не знаю... Извини.",
+      "FRENCH": "alors je ne sais pas... Désolée.",
+      "THAI": "เลยไม่รู้... ขอโทษนะ"
+    },
+    "TIME": {
+      "SHOW": 52.4,
+      "HIDE": 53.9
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "그럼...",
+      "ENGLISH": "So...",
+      "CHINESE_SIMPLIFIED": "所以...",
+      "CHINESE_TRADITIONAL": "所以...",
+      "JAPANESE": "それじゃあ…",
+      "INDONESIAN": "Jadi...",
+      "PORTUGUESE": "Então...",
+      "RUSSIAN": "Так...",
+      "FRENCH": "Alors...",
+      "THAI": "งั้น..."
+    },
+    "TIME": {
+      "SHOW": 53.9,
+      "HIDE": 54.9
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "어렸을 때부터 쭉 그 방에만 계신 거예요? 안 나가고?",
+      "ENGLISH": "You’ve been in that room all this time? Never leaving?",
+      "CHINESE_SIMPLIFIED": "你从小就一直在那个房间里呆着?从来没出去过?",
+      "CHINESE_TRADITIONAL": "你從小就一直在那個房間裏呆着?從來沒出去過?",
+      "JAPANESE": "小さい頃からずっとあの部屋にいたんですか？一歩も出ないで？",
+      "INDONESIAN": "Kamu selama ini di kamar itu? Gak pernah keluar?",
+      "PORTUGUESE": "Você ficou no quarto esse tempo todo? Nunca saiu?",
+      "RUSSIAN": "Ты всё это время была в той комнате? Никогда не выходила?",
+      "FRENCH": "Tu es restée dans cette pièce tout ce temps ? Jamais sortie ?",
+      "THAI": "เธออยู่ในห้องนั้นมาตลอดเลยเหรอ? ไม่เคยออกไปเลย?"
+    },
+    "TIME": {
+      "SHOW": 54.9,
+      "HIDE": 59.8
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "대박... 아니 그러면 밥은 어떻게 했어요?",
+      "ENGLISH": "Wow... How did you eat then? ",
+      "CHINESE_SIMPLIFIED": "哇…那你吃饭时怎么解决的?",
+      "CHINESE_TRADITIONAL": "哇…那你吃飯時怎麼解決的?",
+      "JAPANESE": "うわ…じゃあ、ご飯はどうしてたんですか？",
+      "INDONESIAN": "Wah... Terus, kamu makan gimana?",
+      "PORTUGUESE": "Uau... Como você comia?",
+      "RUSSIAN": "Ух ты... А как ты ела?",
+      "FRENCH": "Waouh... Comment tu as mangé alors ?",
+      "THAI": "ว้าว... แล้วเธอกินยังไง?"
+    },
+    "TIME": {
+      "SHOW": 59.8,
+      "HIDE": 62.8
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 우유만 먹고 산 건 아닐 거 아니에요.",
+      "ENGLISH": "You didn't just live on milk, did you?",
+      "CHINESE_SIMPLIFIED": "总不会一直都喝牛奶吧?",
+      "CHINESE_TRADITIONAL": "總不會一直都喝牛奶吧?",
+      "JAPANESE": "さすがに牛乳だけ飲んで生きてたわけじゃないですよね？",
+      "INDONESIAN": "Masa kamu cuma minum susu?",
+      "PORTUGUESE": "Você só vivia de leite?",
+      "RUSSIAN": "Ты не жила только на молоке, правда?",
+      "FRENCH": "Tu ne vivais pas juste de lait, si ?",
+      "THAI": "ไม่ได้อยู่แค่นมใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 63.4,
+      "HIDE": 65.3
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "아니 오, 옷은?",
+      "ENGLISH": "And what about clothes?",
+      "CHINESE_SIMPLIFIED": "还有衣服怎么办？",
+      "CHINESE_TRADITIONAL": "還有衣服怎麼辦？",
+      "JAPANESE": "じゃあ、服は？",
+      "INDONESIAN": "Terus baju?",
+      "PORTUGUESE": "E as roupas?",
+      "RUSSIAN": "А одежда?",
+      "FRENCH": "Et pour les vêtements ?",
+      "THAI": "แล้วเสื้อผ้าล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 65.9,
+      "HIDE": 67.2
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "아니 어떻게 내가 지금까지 몰랐을 수가 있지?",
+      "ENGLISH": "How did I never know you were here?",
+      "CHINESE_SIMPLIFIED": "我居然一直都不知道你住在这个房间…",
+      "CHINESE_TRADITIONAL": "我居然一直都不知道你住在這個房間…",
+      "JAPANESE": "いや、何で今まで気づかなかったんだろう…",
+      "INDONESIAN": "Kok aku gak pernah tahu kamu ada di sini?",
+      "PORTUGUESE": "Como eu nunca soube que você estava aqui?",
+      "RUSSIAN": "Как я мог не знать, что ты здесь?",
+      "FRENCH": "Comment j’ai pu ne jamais savoir que tu étais ici ?",
+      "THAI": "ทำไมฉันถึงไม่เคยรู้ว่าเธออยู่ที่นี่?"
+    },
+    "TIME": {
+      "SHOW": 68.0,
+      "HIDE": 71.0
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "...저기 근데...",
+      "ENGLISH": "Um...",
+      "CHINESE_SIMPLIFIED": "不过这里…",
+      "CHINESE_TRADITIONAL": "不過這裏…",
+      "JAPANESE": "…あの、ところで…",
+      "INDONESIAN": "Umm...",
+      "PORTUGUESE": "Hum...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 73.0,
+      "HIDE": 74.5
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "여기는 다 저런 분들만 지낼 수 있는 건가요?",
+      "ENGLISH": "Is this place only for people like me?",
+      "CHINESE_SIMPLIFIED": "只有像她们一样的人才能住吗?",
+      "CHINESE_TRADITIONAL": "只有像她們一樣的人才能住嗎?",
+      "JAPANESE": "ここって、みんなああいう人たちしか住めないんですか？",
+      "INDONESIAN": "Tempat ini cuma buat orang kayak aku, ya?",
+      "PORTUGUESE": "Esse lugar é só pra gente como eu?",
+      "RUSSIAN": "Это место только для таких, как я?",
+      "FRENCH": "Cet endroit, il est seulement pour les gens comme moi ?",
+      "THAI": "ที่นี่มันสำหรับคนแบบฉันเท่านั้นหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 74.5,
+      "HIDE": 78.7
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 79.0,
+      "HIDE": 79.7
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "전... 여기 있는 분들처럼",
+      "ENGLISH": "I don’t",
+      "CHINESE_SIMPLIFIED": "我...不像她们",
+      "CHINESE_TRADITIONAL": "我...不像她們",
+      "JAPANESE": "私…ここにいる皆さんみたいに",
+      "INDONESIAN": "Aku gak",
+      "PORTUGUESE": "Eu não",
+      "RUSSIAN": "Я не",
+      "FRENCH": "Je ne",
+      "THAI": "ฉันไม่"
+    },
+    "TIME": {
+      "SHOW": 80.1,
+      "HIDE": 83.0
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "반짝반짝 빛나지도 않고...",
+      "ENGLISH": "shine brightly ",
+      "CHINESE_SIMPLIFIED": "那么光鲜亮丽的…",
+      "CHINESE_TRADITIONAL": "那麼光鮮亮麗的…",
+      "JAPANESE": "キラキラ輝いてないし…",
+      "INDONESIAN": "bersinar terang",
+      "PORTUGUESE": "brilho intensamente",
+      "RUSSIAN": "сияю ярко",
+      "FRENCH": "brille pas",
+      "THAI": "เปล่งประกาย"
+    },
+    "TIME": {
+      "SHOW": 83.0,
+      "HIDE": 85.1
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "초라하잖아요...",
+      "ENGLISH": "like the others here...",
+      "CHINESE_SIMPLIFIED": "我这么寒酸",
+      "CHINESE_TRADITIONAL": "我這麼寒酸",
+      "JAPANESE": "みすぼらしいじゃないですか…",
+      "INDONESIAN": "seperti yang lain di sini...",
+      "PORTUGUESE": "como os outros aqui...",
+      "RUSSIAN": "как другие здесь...",
+      "FRENCH": "comme les autres ici...",
+      "THAI": "เหมือนคนอื่นๆ ที่นี่..."
+    },
+    "TIME": {
+      "SHOW": 85.1,
+      "HIDE": 86.7
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "여기 있을 자격이 안 되는 거 같아서요...",
+      "ENGLISH": "I feel like I don’t belong...",
+      "CHINESE_SIMPLIFIED": "感觉自己好像没有资格住在这里…",
+      "CHINESE_TRADITIONAL": "感覺自己好像沒有資格住在這裏…",
+      "JAPANESE": "ここにいる資格なんてない気がして…",
+      "INDONESIAN": "Aku merasa kayak gak cocok di sini...",
+      "PORTUGUESE": "Sinto que não pertenço...",
+      "RUSSIAN": "Я чувствую, что не принадлежу этому месту...",
+      "FRENCH": "J’ai l’impression de ne pas avoir ma place...",
+      "THAI": "ฉันรู้สึกเหมือนไม่เข้ากับที่นี่..."
+    },
+    "TIME": {
+      "SHOW": 86.7,
+      "HIDE": 89.9
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "에이 그런 게 어딨어요...",
+      "ENGLISH": "Hey, that’s nonsense...",
+      "CHINESE_SIMPLIFIED": "哎呀，你想多了…",
+      "CHINESE_TRADITIONAL": "哎呀，你想多了…",
+      "JAPANESE": "そんなの関係ないですよ…",
+      "INDONESIAN": "Hei, itu gak masuk akal...",
+      "PORTUGUESE": "Ei, isso é bobagem...",
+      "RUSSIAN": "Эй, это ерунда...",
+      "FRENCH": "Hé, n’importe quoi...",
+      "THAI": "เฮ้ นั่นมันไร้สาระ..."
+    },
+    "TIME": {
+      "SHOW": 90.0,
+      "HIDE": 92.1
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "밖에 나가는 게 무서워서",
+      "ENGLISH": "I’ve been too scared to go outside",
+      "CHINESE_SIMPLIFIED": "我不敢出门",
+      "CHINESE_TRADITIONAL": "我不敢出門",
+      "JAPANESE": "外に出るのが怖くて",
+      "INDONESIAN": "Aku terlalu takut buat keluar,",
+      "PORTUGUESE": "Eu fiquei com muito medo de sair,",
+      "RUSSIAN": "Я слишком боялась выходить наружу,",
+      "FRENCH": "J’ai eu trop peur pour sortir,",
+      "THAI": "ฉันกลัวเกินกว่าจะออกไปข้างนอก"
+    },
+    "TIME": {
+      "SHOW": 92.7,
+      "HIDE": 95.1
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "계속 여기만 있었거든요.",
+      "ENGLISH": "So I stayed here.",
+      "CHINESE_SIMPLIFIED": "所以一直都只住在这里",
+      "CHINESE_TRADITIONAL": "所以一直都只住在這裏",
+      "JAPANESE": "ずっとここにいたんです。",
+      "INDONESIAN": "Makanya aku di sini aja.",
+      "PORTUGUESE": "Então fiquei aqui.",
+      "RUSSIAN": "поэтому оставалась здесь.",
+      "FRENCH": "alors je suis restée ici.",
+      "THAI": "เลยอยู่ที่นี่"
+    },
+    "TIME": {
+      "SHOW": 95.1,
+      "HIDE": 98.0
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "근데 앞으로도 유만 님 집에 있고 싶은데...",
+      "ENGLISH": "But I want to stay in Yuman’s house in the future.",
+      "CHINESE_SIMPLIFIED": "我以后还想一直住在这里的话",
+      "CHINESE_TRADITIONAL": "我以後還想一直住在這裏的話",
+      "JAPANESE": "でもこれからもユマンさんの家にいたいんですけど…",
+      "INDONESIAN": "Tapi aku mau tinggal di rumah Yuman nanti.",
+      "PORTUGUESE": "Mas eu quero morar na casa do Yuman no futuro.",
+      "RUSSIAN": "Но в будущем я хочу остаться в доме Юмана.",
+      "FRENCH": "Mais plus tard, je veux rester dans la maison de Yuman.",
+      "THAI": "แต่ฉันอยากอยู่บ้านยูมันในอนาคต"
+    },
+    "TIME": {
+      "SHOW": 99.9,
+      "HIDE": 103.4
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 해야 할까요...?",
+      "ENGLISH": "What should I do...?",
+      "CHINESE_SIMPLIFIED": "该怎么做呢…?",
+      "CHINESE_TRADITIONAL": "該怎麼做呢…?",
+      "JAPANESE": "どうしたらいいんでしょうか…？",
+      "INDONESIAN": "Aku harus gimana...?",
+      "PORTUGUESE": "O que eu faço...?",
+      "RUSSIAN": "Что мне делать...?",
+      "FRENCH": "Que devrais-je faire...?",
+      "THAI": "ฉันควรทำยังไงดี...?"
+    },
+    "TIME": {
+      "SHOW": 103.4,
+      "HIDE": 105.4
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "역시",
+      "ENGLISH": "You might have to",
+      "CHINESE_SIMPLIFIED": "你果然",
+      "CHINESE_TRADITIONAL": "你果然",
+      "JAPANESE": "やっぱり",
+      "INDONESIAN": "Kamu mungkin harus",
+      "PORTUGUESE": "Talvez você tenha que",
+      "RUSSIAN": "Рано или поздно тебе, возможно,",
+      "FRENCH": "Il faudra peut-être",
+      "THAI": "อาจจะถึงเวลา"
+    },
+    "TIME": {
+      "SHOW": 108.5,
+      "HIDE": 109.4
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "나가야 할 거 같아요.",
+      "ENGLISH": "Go out eventually.",
+      "CHINESE_SIMPLIFIED": "还是得出去",
+      "CHINESE_TRADITIONAL": "還是得出去",
+      "JAPANESE": "出て行かなきゃいけない気がします。",
+      "INDONESIAN": "Keluar pada akhirnya.",
+      "PORTUGUESE": "Sair eventualmente.",
+      "RUSSIAN": "придется выйти.",
+      "FRENCH": "que tu sortes un jour.",
+      "THAI": "ที่เธอต้องออกไปข้างนอกสักวัน"
+    },
+    "TIME": {
+      "SHOW": 109.4,
+      "HIDE": 111.3
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "역시 안 되는 거겠죠...",
+      "ENGLISH": "So it’s not possible, right...",
+      "CHINESE_SIMPLIFIED": "果然还是不行吗…",
+      "CHINESE_TRADITIONAL": "果然還是不行嗎…",
+      "JAPANESE": "やっぱりダメですよね…",
+      "INDONESIAN": "Jadi gak bisa ya...",
+      "PORTUGUESE": "Então não vai dar, né...",
+      "RUSSIAN": "Значит, это невозможно, да...",
+      "FRENCH": "Donc, ce n’est pas possible, hein...",
+      "THAI": "งั้นมันคงเป็นไปไม่ได้สินะ..."
+    },
+    "TIME": {
+      "SHOW": 112.8,
+      "HIDE": 115.0
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "일단 집 밖으로 나가는 연습을 해볼까요?",
+      "ENGLISH": "How about practicing going outside a bit?",
+      "CHINESE_SIMPLIFIED": "你先练习一下出门怎么样?",
+      "CHINESE_TRADITIONAL": "你先練習一下出門怎麼樣?",
+      "JAPANESE": "まずは外に出る練習をしてみましょうか？",
+      "INDONESIAN": "Gimana kalau coba latihan keluar dulu?",
+      "PORTUGUESE": "Que tal praticar sair um pouco?",
+      "RUSSIAN": "Как насчёт того, чтобы немного потренироваться выходить?",
+      "FRENCH": "Et si on s’entraînait à sortir un peu ?",
+      "THAI": "แล้วถ้าลองซ้อมออกไปข้างนอกหน่อยล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 115.2,
+      "HIDE": 118.3
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "您说什么?",
+      "CHINESE_TRADITIONAL": "您說什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 118.3,
+      "HIDE": 119.0
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "저랑 나가요!",
+      "ENGLISH": "Come with me. ",
+      "CHINESE_SIMPLIFIED": "和我 一起出去吧!",
+      "CHINESE_TRADITIONAL": "和我 一起出去吧!",
+      "JAPANESE": "一緒に外に出ましょう！",
+      "INDONESIAN": "Ayo ikut aku.",
+      "PORTUGUESE": "Vem comigo.",
+      "RUSSIAN": "Пойдем со мной.",
+      "FRENCH": "Viens avec moi.",
+      "THAI": "มาด้วยกันสิ"
+    },
+    "TIME": {
+      "SHOW": 121.0,
+      "HIDE": 122.0
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "제가 바깥 구경시켜 줄게요!",
+      "ENGLISH": "Around!",
+      "CHINESE_SIMPLIFIED": "我带你看看外面!",
+      "CHINESE_TRADITIONAL": "我帶你看看外面!",
+      "JAPANESE": "僕が外の世界を案内してあげますよ！",
+      "INDONESIAN": "Keliling!",
+      "PORTUGUESE": "Por aí!",
+      "RUSSIAN": "На прогулку!",
+      "FRENCH": "Faire un tour !",
+      "THAI": "ออกไปเดินเล่น!"
+    },
+    "TIME": {
+      "SHOW": 123.2,
+      "HIDE": 126.0
+    }
+  }
+]

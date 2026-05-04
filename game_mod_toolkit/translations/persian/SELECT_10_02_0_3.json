@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "당연히 기억하지~",
+      "ENGLISH": "Of course I remember!",
+      "CHINESE_SIMPLIFIED": "当然记得啦~",
+      "CHINESE_TRADITIONAL": "當然記得啦~",
+      "JAPANESE": "もちろん覚えてるよ〜",
+      "INDONESIAN": "Tentu aku ingat!",
+      "PORTUGUESE": "Claro que eu lembro!",
+      "RUSSIAN": "Конечно, я помню!",
+      "FRENCH": "Bien sûr que je m’en souviens !",
+      "THAI": "แน่นอน ฉันจำได้!",
+      "PERSIAN": "البته یادمه!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 총게임 했잖아, 총게임!",
+      "ENGLISH": "We played the shooting game, right?",
+      "CHINESE_SIMPLIFIED": "我们玩打枪来着",
+      "CHINESE_TRADITIONAL": "我們玩打槍來着",
+      "JAPANESE": "俺たち、シューティングゲームやったじゃん！",
+      "INDONESIAN": "Kita main game tembak-tembakan, kan?",
+      "PORTUGUESE": "Nós jogamos aquele jogo de tiro, né?",
+      "RUSSIAN": "Мы играли в стрелялку, да?",
+      "FRENCH": "On a joué au jeu de tir, n’est-ce pas ?",
+      "THAI": "เราเล่นเกมยิงปืนกัน ใช่ไหม?",
+      "PERSIAN": "ما بازی تیراندازی را انجام دادیم، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우리가 오락실에서 총 게임을 했다구?",
+      "ENGLISH": "Are you sure we did that? At the arcade?",
+      "CHINESE_SIMPLIFIED": "你说我们在游戏厅玩了打枪?",
+      "CHINESE_TRADITIONAL": "你說我們在遊戲廳玩了打槍?",
+      "JAPANESE": "え？私たち、シューティングゲームやったっけ？",
+      "INDONESIAN": "Kamu yakin kita melakukannya? Di arcade?",
+      "PORTUGUESE": "Tem certeza de que fizemos isso? No arcade?",
+      "RUSSIAN": "Ты уверен, что мы это делали? В игровом зале?",
+      "FRENCH": "Tu es sûr qu’on a fait ça ? À l’arcade ?",
+      "THAI": "คุณแน่ใจเหรอว่าเราเล่นกันที่นั่น? ที่อาเขตน่ะ?",
+      "PERSIAN": "مطمئنی که ما این کار را کردیم؟ در بازی؟"
+    },
+    "TIME": {
+      "SHOW": 4.58,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "...확실해?",
+      "ENGLISH": "...Are you sure?",
+      "CHINESE_SIMPLIFIED": "你确定？",
+      "CHINESE_TRADITIONAL": "你確定？",
+      "JAPANESE": "…本当にそうだった？",
+      "INDONESIAN": "...Kamu yakin?",
+      "PORTUGUESE": "...Você tem certeza?",
+      "RUSSIAN": "...Ты точно уверен?",
+      "FRENCH": "...Tu es vraiment sûr ?",
+      "THAI": "...แน่ใจจริงๆ เหรอ?",
+      "PERSIAN": "... مطمئنی؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.0
+    }
+  }
+]

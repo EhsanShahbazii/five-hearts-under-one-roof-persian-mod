@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 동 과장님!",
+      "ENGLISH": "I'm Manager Gran!",
+      "CHINESE_SIMPLIFIED": "我选佟科长",
+      "CHINESE_TRADITIONAL": "我選佟科長",
+      "JAPANESE": "ドン課長かな！",
+      "INDONESIAN": "Aku Manajer Gran!",
+      "PORTUGUESE": "Eu sou o Gerente Gran!",
+      "RUSSIAN": "Я — Менеджер Гран!",
+      "FRENCH": "Je suis Manager Gran !",
+      "THAI": "ฉันคือ ผู้จัดการแกรน!",
+      "PERSIAN": "من مدیر گرن هستم!"
+    },
+    "TIME": {
+      "HIDE": 1.0
+    }
+  }
+]

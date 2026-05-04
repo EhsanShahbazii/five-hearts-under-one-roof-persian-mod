@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "근데... 이거 승이 님이 열심히 일해서 받은 건데",
+      "ENGLISH": "But, Seung-yi, you worked hard for this.",
+      "CHINESE_SIMPLIFIED": "可这是你辛苦赚钱换来的",
+      "CHINESE_TRADITIONAL": "可這是你辛苦賺錢換來的",
+      "JAPANESE": "でも…これ、スンイさんが頑張って働いてもらったものだから",
+      "INDONESIAN": "Tapi, Seung-yi, kamu sudah bekerja keras untuk ini.",
+      "PORTUGUESE": "Mas, Seung-yi, você trabalhou duro por isso.",
+      "RUSSIAN": "Но, Сын-и, ты так старалась ради этого.",
+      "FRENCH": "Mais, Seung-yi, tu as travaillé dur pour ça.",
+      "THAI": "แต่, ซึงอี, เธอทำงานหนักเพื่อสิ่งนี้"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 이거 못 받아요!",
+      "ENGLISH": "I can't just take it.",
+      "CHINESE_SIMPLIFIED": "我不能收!",
+      "CHINESE_TRADITIONAL": "我不能收!",
+      "JAPANESE": "僕が受け取るわけにはいきませんよ！",
+      "INDONESIAN": "Aku nggak bisa begitu saja mengambilnya.",
+      "PORTUGUESE": "Eu não posso simplesmente pegar.",
+      "RUSSIAN": "Я не могу просто взять это.",
+      "FRENCH": "Je ne peux pas juste l’accepter.",
+      "THAI": "ฉันเอามาเฉยๆ ไม่ได้หรอก"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아.. ",
+      "ENGLISH": "Yeah",
+      "CHINESE_SIMPLIFIED": "啊",
+      "CHINESE_TRADITIONAL": "啊",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Iya",
+      "PORTUGUESE": "Pois é",
+      "RUSSIAN": "Да,",
+      "FRENCH": "Ouais,",
+      "THAI": "ใช่"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "역시 이건 좀 그렇죠...",
+      "ENGLISH": "It does feel a bit off, doesn't it...",
+      "CHINESE_SIMPLIFIED": "我就知道这些东西拿不出手…",
+      "CHINESE_TRADITIONAL": "我就知道這些東西拿不出手…",
+      "JAPANESE": "やっぱり、そうですよね…",
+      "INDONESIAN": "Rasanya agak aneh juga, ya...",
+      "PORTUGUESE": "Parece meio estranho, né...",
+      "RUSSIAN": "это действительно немного странно, да?..",
+      "FRENCH": "ça fait un peu bizarre, non ?..",
+      "THAI": "มันก็แปลกๆ นะ, ใช่ไหม..."
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그럼",
+      "ENGLISH": "Let's...",
+      "CHINESE_SIMPLIFIED": "要不",
+      "CHINESE_TRADITIONAL": "要不",
+      "JAPANESE": "じゃあ",
+      "INDONESIAN": "Ayo kita…",
+      "PORTUGUESE": "Vamos…",
+      "RUSSIAN": "Давай...",
+      "FRENCH": "Allez...",
+      "THAI": "มาเถอะ..."
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이거 사람들도 다 불러서",
+      "ENGLISH": "Call everyone over and",
+      "CHINESE_SIMPLIFIED": "我们把大家都叫过来",
+      "CHINESE_TRADITIONAL": "我們把大家都叫過來",
+      "JAPANESE": "みんなを呼んで",
+      "INDONESIAN": "Panggil semua orang dan",
+      "PORTUGUESE": "Chamar todo mundo e",
+      "RUSSIAN": "позовём всех",
+      "FRENCH": "appelons tout le monde",
+      "THAI": "เรียกทุกคนมารวมกัน"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "같이 먹어요!",
+      "ENGLISH": "Share it together!",
+      "CHINESE_SIMPLIFIED": "一起吃吧!",
+      "CHINESE_TRADITIONAL": "一起吃吧!",
+      "JAPANESE": "一緒に食べましょうよ！",
+      "INDONESIAN": "Kita bagi bareng-bareng!",
+      "PORTUGUESE": "Dividir juntos!",
+      "RUSSIAN": "и разделим это вместе!",
+      "FRENCH": "et partageons ensemble !",
+      "THAI": "แล้วมาแบ่งกันกินเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "หือ?"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "간만에~ 편의점 파티!",
+      "ENGLISH": "Convenience store party time!",
+      "CHINESE_SIMPLIFIED": "咱们久违地来个便利店派对！",
+      "CHINESE_TRADITIONAL": "咱們久違地來個便利店派對！",
+      "JAPANESE": "久しぶりに、コンビニパーティーでもしましょう！",
+      "INDONESIAN": "Waktunya pesta minimarket!",
+      "PORTUGUESE": "Hora de festa na loja de conveniência!",
+      "RUSSIAN": "Вечеринка в магазине!",
+      "FRENCH": "Fête au magasin !",
+      "THAI": "ปาร์ตี้ร้านสะดวกซื้อ!"
+    },
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "자 다들 모여봐요!!!",
+      "ENGLISH": "Everyone, gather around!",
+      "CHINESE_SIMPLIFIED": "来~大家都过来!!",
+      "CHINESE_TRADITIONAL": "來~大家都過來!!",
+      "JAPANESE": "さあ、みなさん集まってくださ～い！！！",
+      "INDONESIAN": "Semua, kumpul sini!",
+      "PORTUGUESE": "Galera, venham pra cá!",
+      "RUSSIAN": "Все, собирайтесь!",
+      "FRENCH": "Tout le monde, venez !",
+      "THAI": "ทุกคน มารวมกันเร็ว!"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.6
+    }
+  }
+]

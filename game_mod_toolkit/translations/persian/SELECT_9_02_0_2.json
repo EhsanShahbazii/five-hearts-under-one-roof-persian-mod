@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜요? 신나고 좋지 않아요? ",
+      "ENGLISH": "What? Come on, it’s just for fun, isn’t it?",
+      "CHINESE_SIMPLIFIED": "怎么了? 随意一些不好吗?",
+      "CHINESE_TRADITIONAL": "怎麼了? 隨意一些不好嗎?",
+      "JAPANESE": "何でですか？楽しいし、いいじゃないですか？",
+      "INDONESIAN": "Apa? Ayolah, ini cuma buat seru-seruan, kan?",
+      "PORTUGUESE": "O quê? Ah, qual é, é só por diversão, né?",
+      "RUSSIAN": "Что? Да ладно, это же просто веселье, не так ли?",
+      "FRENCH": "Quoi ? Allez, c’est juste pour s’amuser, non ?",
+      "THAI": "อะไรนะ? เอาน่า มันก็แค่สนุกๆ ใช่ไหมล่ะ?",
+      "PERSIAN": "چی؟ بیا، این فقط برای سرگرمی است، اینطوری نیست؟"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "요즘엔 다 친구먹고 그러는데.",
+      "ENGLISH": "Everyone’s chill these days, even with their bosses.",
+      "CHINESE_SIMPLIFIED": "最近大家都像朋友一样相处啊",
+      "CHINESE_TRADITIONAL": "最近大家都像朋友一樣相處啊",
+      "JAPANESE": "最近の人はみんな、友達みたいに接するんですよ。",
+      "INDONESIAN": "Semua orang santai sekarang, bahkan sama bos mereka.",
+      "PORTUGUESE": "Hoje em dia todo mundo é tranquilo, até com os chefes.",
+      "RUSSIAN": "Сейчас все ведут себя расслабленно, даже с начальством.",
+      "FRENCH": "Tout le monde est cool de nos jours, même avec les patrons.",
+      "THAI": "ทุกวันนี้คนก็สบายๆ กันหมดแล้ว แม้แต่กับหัวหน้า",
+      "PERSIAN": "این روزها همه سرد هستند، حتی با روسایشان."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "과연 회사 밖에서도 신날지 궁금하구만.",
+      "ENGLISH": "We’ll see how 'fun' it is outside of work.",
+      "CHINESE_SIMPLIFIED": "我看你出了公司还随不随意的起来",
+      "CHINESE_TRADITIONAL": "我看你出了公司還隨不隨意的起來",
+      "JAPANESE": "果たして会社の外でもそのテンションでいられるかね...",
+      "INDONESIAN": "Kita lihat seberapa 'seru' ini di luar jam kerja.",
+      "PORTUGUESE": "Vamos ver quão 'divertido' é fora do trabalho.",
+      "RUSSIAN": "Посмотрим, насколько это \"весело\" будет за пределами работы.",
+      "FRENCH": "On verra bien si c’est toujours aussi « amusant » en dehors du travail.",
+      "THAI": "เราจะได้เห็นว่า \"สนุก\" แค่ไหนนอกเวลางาน",
+      "PERSIAN": "خواهیم دید که خارج از کار چقدر \"سرگرم کننده\" است."
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "What the...",
+      "CHINESE_SIMPLIFIED": "这人还真的…",
+      "CHINESE_TRADITIONAL": "這人還真的…",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Apa-apaan...",
+      "PORTUGUESE": "Que droga...",
+      "RUSSIAN": "Что за...",
+      "FRENCH": "Quoi...",
+      "THAI": "อะไรเนี่ย...",
+      "PERSIAN": "این چیه دیگه..."
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어쩔꼰대.",
+      "ENGLISH": "ugh, such a boomer move.",
+      "CHINESE_SIMPLIFIED": "老顽固！",
+      "CHINESE_TRADITIONAL": "老頑固！",
+      "JAPANESE": "古臭いな。",
+      "INDONESIAN": "ugh, gaya boomer banget.",
+      "PORTUGUESE": "ugh, coisa de boomer.",
+      "RUSSIAN": "Уф, типичный бумерский ход.",
+      "FRENCH": "pfff, c’est tellement une réaction de boomer.",
+      "THAI": "เฮ้อ, ท่าทางแบบนี้มันโคตรจะโบราณเลย.",
+      "PERSIAN": "اوه، چنین حرکت رونقی"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.0
+    }
+  }
+]

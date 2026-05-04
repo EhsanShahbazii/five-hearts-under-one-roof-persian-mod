@@ -1,0 +1,899 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "...그래서 다들 여기서 하숙하고 계신다고요?",
+      "ENGLISH": "...So, everyone is staying here at this boarding house?",
+      "CHINESE_SIMPLIFIED": "所以大家都住在这里吗?",
+      "CHINESE_TRADITIONAL": "所以大家都住在這裏嗎?",
+      "JAPANESE": "...皆さんここで下宿してるんですか？",
+      "INDONESIAN": "...Jadi, semua orang tinggal di rumah boarding ini?",
+      "PORTUGUESE": "...Então, todo mundo tá ficando aqui no alojamento?",
+      "RUSSIAN": "...Так все живут в этом общежитии?",
+      "FRENCH": "...Donc, tout le monde vit ici dans cette pension ?",
+      "THAI": "...ทุกคนอยู่ในบ้านพักนี้กันหมดเลยเหรอ?",
+      "PERSIAN": "...پس همه اینجا در این پانسیون می مانند؟"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요.",
+      "ENGLISH": "Hello.",
+      "CHINESE_SIMPLIFIED": "你好~",
+      "CHINESE_TRADITIONAL": "你好~",
+      "JAPANESE": "こんにちは。",
+      "INDONESIAN": "Halo.",
+      "PORTUGUESE": "Olá.",
+      "RUSSIAN": "Привет.",
+      "FRENCH": "Bonjour.",
+      "THAI": "สวัสดี.",
+      "PERSIAN": "Hello."
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어? 밀크걸스?",
+      "ENGLISH": "Wait, Milk Girls?",
+      "CHINESE_SIMPLIFIED": "嗯?牛奶少女?",
+      "CHINESE_TRADITIONAL": "嗯?牛奶少女?",
+      "JAPANESE": "えっ？ ミルクガールズ？",
+      "INDONESIAN": "Tunggu, Milk Girls?",
+      "PORTUGUESE": "Espera, Milk Girls?",
+      "RUSSIAN": "Постой, Milk Girls?",
+      "FRENCH": "Attends, Milk Girls ?",
+      "THAI": "เดี๋ยวนะ Milk Girls?",
+      "PERSIAN": "صبر کنید، دختران شیر؟"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 오빠? 이 사람 어떻게 여기 있는 건데...!",
+      "ENGLISH": "Oppa? How do you know her?",
+      "CHINESE_SIMPLIFIED": "哥, 她怎么在这?",
+      "CHINESE_TRADITIONAL": "哥, 她怎麼在這?",
+      "JAPANESE": "ちょっとお兄ちゃん？この人どうしてここに？",
+      "INDONESIAN": "Oppa? Kok kamu kenal dia?",
+      "PORTUGUESE": "Oppa? Como você conhece ela?",
+      "RUSSIAN": "Оппа? Откуда ты её знаешь?",
+      "FRENCH": "Oppa ? Comment tu la connais ?",
+      "THAI": "อปป้า? นายรู้จักเธอได้ไง?",
+      "PERSIAN": "یومان؟ چطور اونو می شناسید؟"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저를 또 알아주시는 분이 계시네요.",
+      "ENGLISH": "Someone recognizes me again.",
+      "CHINESE_SIMPLIFIED": "居然认出我了",
+      "CHINESE_TRADITIONAL": "居然認出我了",
+      "JAPANESE": "まだ、私のことを知ってる方がいらっしゃるんですね。",
+      "INDONESIAN": "Ada yang kenalin aku lagi.",
+      "PORTUGUESE": "Mais alguém me reconheceu.",
+      "RUSSIAN": "Кто-то снова меня узнал.",
+      "FRENCH": "Encore quelqu’un qui me reconnaît.",
+      "THAI": "มีคนจำฉันได้อีกแล้ว.",
+      "PERSIAN": "دوباره یکی مرا می شناسد."
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠가 하도 얘기해서 아는 거니까",
+      "ENGLISH": "Don’t get too happy.",
+      "CHINESE_SIMPLIFIED": "我是因为哥哥总念叨才知道你的",
+      "CHINESE_TRADITIONAL": "我是因爲哥哥總唸叨才知道你的",
+      "JAPANESE": "お兄ちゃんがいつも話してるから知ってるだけよ。",
+      "INDONESIAN": "Jangan senang dulu.",
+      "PORTUGUESE": "Não fica tão feliz assim.",
+      "RUSSIAN": "Не радуйся слишком.",
+      "FRENCH": "Ne te réjouis pas trop vite.",
+      "THAI": "อย่าดีใจไปหน่อยเลย.",
+      "PERSIAN": "زیاد خوشحال نشو"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "좋아하지 마시죠?",
+      "ENGLISH": "It’s only because Oppa talks about you all the time.",
+      "CHINESE_SIMPLIFIED": "别高兴得太早了",
+      "CHINESE_TRADITIONAL": "別高興得太早了",
+      "JAPANESE": "勘違いしないで。",
+      "INDONESIAN": "Itu cuma karena Oppa sering banget ngomongin kamu.",
+      "PORTUGUESE": "É só porque o Oppa fala de você o tempo todo.",
+      "RUSSIAN": "Это только потому, что Оппа постоянно о тебе говорит.",
+      "FRENCH": "C’est juste parce qu’Oppa parle de toi tout le temps.",
+      "THAI": "เพราะอปป้าพูดถึงเธอตลอดต่างหาก.",
+      "PERSIAN": "این فقط به خاطر همین است که یومان همیشه در مورد شما صحبت می کند."
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 이 애기는 누군데?",
+      "ENGLISH": "And who is this girl?",
+      "CHINESE_SIMPLIFIED": "所以说她是谁啊?",
+      "CHINESE_TRADITIONAL": "所以說她是誰啊?",
+      "JAPANESE": "それで、この子は誰なの？",
+      "INDONESIAN": "Dan cewek ini siapa?",
+      "PORTUGUESE": "E quem é essa garota?",
+      "RUSSIAN": "А это ещё кто?",
+      "FRENCH": "Et elle, c’est qui ?",
+      "THAI": "แล้วผู้หญิงคนนี้เป็นใคร?",
+      "PERSIAN": "و این دختر کیه؟"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아, 말숙이 친동생인데요...",
+      "ENGLISH": "She’s Mal-sook’s younger sister...",
+      "CHINESE_SIMPLIFIED": "她是末淑的亲妹妹…",
+      "CHINESE_TRADITIONAL": "她是末淑的親妹妹…",
+      "JAPANESE": "あ、マルスクの妹なんですけど...",
+      "INDONESIAN": "Dia adiknya Mal-sook...",
+      "PORTUGUESE": "Ela é a adikinha da Mal-sook...",
+      "RUSSIAN": "Это младшая сестра Мал-Сук...",
+      "FRENCH": "C’est la petite sœur de Mal-sook...",
+      "THAI": "เธอคือน้องสาวของมัลซุก...",
+      "PERSIAN": "او خواهر کوچکتر مال‌سوک است..."
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오빠랑 결혼하러 온 고은비예요!",
+      "ENGLISH": "I’m Go Eunbi, here to marry Oppa!",
+      "CHINESE_SIMPLIFIED": "我是来和哥哥结婚的高恩妃",
+      "CHINESE_TRADITIONAL": "我是來和哥哥結婚的高恩妃",
+      "JAPANESE": "お兄さんと結婚しに来た、コ・ウンビです！",
+      "INDONESIAN": "Aku Go Eun-bi, dan aku ke sini buat nikahin Oppa!",
+      "PORTUGUESE": "Eu sou Go Eun-bi, e eu vim aqui pra casar com o Oppa!",
+      "RUSSIAN": "Я Го Ынби, и я приехала, чтобы выйти за Оппу замуж!",
+      "FRENCH": "Je suis Go Eunbi, et je suis ici pour épouser Oppa !",
+      "THAI": "ฉันชื่อโก อึนบี แล้วฉันกลับมาเพื่อแต่งงานกับอปป้า!",
+      "PERSIAN": "من گو یونبی هستم، اینجا برای ازدواج با یومان!"
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네가 무슨 결혼을 해!",
+      "ENGLISH": "What do you mean marry?",
+      "CHINESE_SIMPLIFIED": "结什么婚啊?",
+      "CHINESE_TRADITIONAL": "結什麼婚啊?",
+      "JAPANESE": "あんた、何で結婚なのよ！",
+      "INDONESIAN": "Maksud kamu nikah?",
+      "PORTUGUESE": "Casar?",
+      "RUSSIAN": "Что значит \"замуж\"?",
+      "FRENCH": "Comment ça, épouser ?",
+      "THAI": "อะไรนะ แต่งงานเหรอ?",
+      "PERSIAN": "منظورت از ازدواج چیه؟"
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "뭔 소리야~",
+      "ENGLISH": "What are you talking about?",
+      "CHINESE_SIMPLIFIED": "你发什么疯?",
+      "CHINESE_TRADITIONAL": "你發什麼瘋?",
+      "JAPANESE": "何言ってんの〜",
+      "INDONESIAN": "Kamu ngomong apa sih?",
+      "PORTUGUESE": "O que você tá falando?",
+      "RUSSIAN": "О чём ты вообще говоришь?",
+      "FRENCH": "De quoi tu parles ?",
+      "THAI": "พูดเรื่องอะไรเนี่ย?",
+      "PERSIAN": "What are you talking about?"
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 29.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "저 스무 살 됐고. 앞으로 여기서 살 거예요!",
+      "ENGLISH": "I’m 20 now and I’m going to live here!",
+      "CHINESE_SIMPLIFIED": "我已经二十岁了，以后我要在这里生活!",
+      "CHINESE_TRADITIONAL": "我已經二十歲了，以後我要在這裏生活!",
+      "JAPANESE": "私、もう20歳だし、これからここで暮らすんです！",
+      "INDONESIAN": "Aku udah 20 tahun dan aku bakal tinggal di sini!",
+      "PORTUGUESE": "Eu já tenho 20 anos e vou morar aqui!",
+      "RUSSIAN": "Мне уже 20, и я буду жить здесь!",
+      "FRENCH": "J’ai 20 ans maintenant, et je vais vivre ici !",
+      "THAI": "ฉันอายุ 20 แล้ว และฉันจะมาอยู่ที่นี่!",
+      "PERSIAN": "من الان 20 سالمه و قراره اینجا زندگی کنم!"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "여기 방 더 없을걸~?",
+      "ENGLISH": "But I think there aren’t any more rooms available?",
+      "CHINESE_SIMPLIFIED": "这里应该没有空房了?",
+      "CHINESE_TRADITIONAL": "這裏應該沒有空房了?",
+      "JAPANESE": "でもここ、もう部屋ないわよ〜？",
+      "INDONESIAN": "Tapi kayaknya kamarnya udah nggak ada yang kosong?",
+      "PORTUGUESE": "Mas acho que não tem mais quarto disponível?",
+      "RUSSIAN": "Но, кажется, свободных комнат больше нет?",
+      "FRENCH": "Mais je crois qu’il n’y a plus de chambres disponibles, non ?",
+      "THAI": "แต่ฉันว่าห้องน่าจะเต็มแล้วนะ?",
+      "PERSIAN": "اما من فکر می کنم اتاق های بیشتری در دسترس نیست؟"
+    },
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비, 너 나랑 얘기 좀 해.",
+      "ENGLISH": "Eunbi, you and I need to talk.",
+      "CHINESE_SIMPLIFIED": "高恩妃，我有话和你说",
+      "CHINESE_TRADITIONAL": "高恩妃，我有話和你說",
+      "JAPANESE": "ちょっと、私と話そうか。",
+      "INDONESIAN": "Eun-bi, kamu dan aku perlu bicara.",
+      "PORTUGUESE": "Eun-bi, você e eu precisamos conversar.",
+      "RUSSIAN": "Ынби, нам с тобой нужно поговорить.",
+      "FRENCH": "Eunbi, toi et moi, on doit parler.",
+      "THAI": "อึนบี เราต้องคุยกันหน่อย.",
+      "PERSIAN": "یونبی، من و تو باید صحبت کنیم."
+    },
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 36.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "아... 말숙이 완전 빡쳤네...",
+      "ENGLISH": "Oh no... Mal-sook’s really angry...",
+      "CHINESE_SIMPLIFIED": "哇... 末淑是真的生气了…",
+      "CHINESE_TRADITIONAL": "哇... 末淑是真的生氣了…",
+      "JAPANESE": "あ... マルスクがめっちゃ怒ってる...",
+      "INDONESIAN": "Aduh... Mal-sook marah beneran nih...",
+      "PORTUGUESE": "Ah tidak... Mal-sook tá brava de verdade...",
+      "RUSSIAN": "О нет... Мал-Сук действительно злится...",
+      "FRENCH": "Oh non... Mal-sook est vraiment en colère...",
+      "THAI": "แย่ละ... มัลซุกโกรธจริง ๆ แล้ว...",
+      "PERSIAN": "اوه نه... مال‌سوک واقعاً عصبانی است..."
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 41.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "여보세요? ",
+      "ENGLISH": "Hello?",
+      "CHINESE_SIMPLIFIED": "喂?",
+      "CHINESE_TRADITIONAL": "喂?",
+      "JAPANESE": "もしもし？",
+      "INDONESIAN": "Halo?",
+      "PORTUGUESE": "Alô?",
+      "RUSSIAN": "Алло?",
+      "FRENCH": "Allô ?",
+      "THAI": "ฮัลโหล?",
+      "PERSIAN": "Hello?"
+    },
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 44.1
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "우리 연습 내일 아니었어?",
+      "ENGLISH": "Wasn’t our practice scheduled for tomorrow?",
+      "CHINESE_SIMPLIFIED": "我们不是明天练习吗?",
+      "CHINESE_TRADITIONAL": "我們不是明天練習嗎?",
+      "JAPANESE": "私たちの練習、明日じゃなかったっけ？",
+      "INDONESIAN": "Latihan kita nggak jadwalnya besok?",
+      "PORTUGUESE": "Nossa prática não era pra amanhã?",
+      "RUSSIAN": "Разве тренировка не на завтра назначена?",
+      "FRENCH": "Notre entraînement, c’était pas prévu pour demain ?",
+      "THAI": "การซ้อมของเรานัดไว้พรุ่งนี้ไม่ใช่เหรอ?",
+      "PERSIAN": "تمرین ما برای فردا برنامه ریزی نشده بود؟"
+    },
+    "TIME": {
+      "SHOW": 45.5,
+      "HIDE": 47.3
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ...",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "อ้อ...",
+      "PERSIAN": "Oh..."
+    },
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 49.3
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "아니야 아니야! 알았어. 갈게~",
+      "ENGLISH": "Never mind, never mind! I’ll be there~",
+      "CHINESE_SIMPLIFIED": "没有没有, 知道了。我这就过去~",
+      "CHINESE_TRADITIONAL": "沒有沒有，知道了。我這就過去~",
+      "JAPANESE": "いやいや！わかった。行くね〜",
+      "INDONESIAN": "Nggak jadi deh, nggak jadi! Aku otw~",
+      "PORTUGUESE": "Esquece, esquece! Tô indo~",
+      "RUSSIAN": "Неважно, неважно! Я уже иду~",
+      "FRENCH": "Peu importe ! J’arrive !",
+      "THAI": "ช่างเถอะ! ฉันกำลังไป~",
+      "PERSIAN": "مهم نیست، مهم نیست! من آنجا می‌شم~"
+    },
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 51.7
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "응~",
+      "ENGLISH": "Okay~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "嗯~",
+      "JAPANESE": "うん〜",
+      "INDONESIAN": "Oke~",
+      "PORTUGUESE": "Beleza~",
+      "RUSSIAN": "Хорошо~",
+      "FRENCH": "Okay~",
+      "THAI": "โอเค~",
+      "PERSIAN": "باشه~"
+    },
+    "TIME": {
+      "SHOW": 52.2,
+      "HIDE": 53.1
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨.",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ウユマンさん。",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "RUSSIAN": "Юман.",
+      "FRENCH": "Yuman.",
+      "THAI": "ยูมัน.",
+      "PERSIAN": "Yuman."
+    },
+    "TIME": {
+      "SHOW": 55.5,
+      "HIDE": 56.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim?",
+      "RUSSIAN": "Да?",
+      "FRENCH": "Oui ?",
+      "THAI": "ครับ?",
+      "PERSIAN": "Yes?"
+    },
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 58.0
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "자료 조사한 거 좀 보내줄래요?",
+      "ENGLISH": "Can you send me the research data?",
+      "CHINESE_SIMPLIFIED": "能把你的调查结果发我下吗?",
+      "CHINESE_TRADITIONAL": "能把你的調查結果發我下嗎?",
+      "JAPANESE": "調査した資料、送ってくれる？",
+      "INDONESIAN": "Bisa kirim data penelitiannya ke aku?",
+      "PORTUGUESE": "Você pode me mandar os dados da pesquisa?",
+      "RUSSIAN": "Можешь прислать мне данные по исследованию?",
+      "FRENCH": "Tu peux m’envoyer les données de recherche ?",
+      "THAI": "นายช่วยส่งข้อมูลวิจัยให้ฉันหน่อยได้ไหม?",
+      "PERSIAN": "می توانید داده های تحقیق را برای من ارسال کنید؟"
+    },
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 59.9
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "수치가 안 맞네.",
+      "ENGLISH": "The numbers don’t add up.",
+      "CHINESE_SIMPLIFIED": "这数值有偏差",
+      "CHINESE_TRADITIONAL": "這數值有偏差",
+      "JAPANESE": "数値が合わないわ。",
+      "INDONESIAN": "Angkanya nggak cocok.",
+      "PORTUGUESE": "Os números não batem.",
+      "RUSSIAN": "Цифры не сходятся.",
+      "FRENCH": "Les chiffres ne collent pas.",
+      "THAI": "ตัวเลขมันไม่ตรงกัน.",
+      "PERSIAN": "اعداد جمع نمی شوند"
+    },
+    "TIME": {
+      "SHOW": 59.9,
+      "HIDE": 61.2
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "그거 외장하드에 있는데요?",
+      "ENGLISH": "It’s... on my external hard drive.",
+      "CHINESE_SIMPLIFIED": "资料都存在U盘里了",
+      "CHINESE_TRADITIONAL": "資料都存在U盤裏了",
+      "JAPANESE": "それ、ハードディスクに入ってたはずです。",
+      "INDONESIAN": "Itu... ada di hard drive eksternalku.",
+      "PORTUGUESE": "Tá... no meu HD externo.",
+      "RUSSIAN": "Они... на моём внешнем жёстком диске.",
+      "FRENCH": "Ils sont... sur mon disque dur externe.",
+      "THAI": "มันอยู่ในฮาร์ดดิสก์พกพาของฉัน.",
+      "PERSIAN": "روی هارد اکسترنال من است."
+    },
+    "TIME": {
+      "SHOW": 61.7,
+      "HIDE": 63.5
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "그니까. 그거 달라고.",
+      "ENGLISH": "Then give it to me.",
+      "CHINESE_SIMPLIFIED": "那就把U盘给我",
+      "CHINESE_TRADITIONAL": "那就把U盤給我",
+      "JAPANESE": "だから、それを今、ちょうだいって言ってるのよ。",
+      "INDONESIAN": "Kasih ke aku sekarang.",
+      "PORTUGUESE": "Então me dá ele.",
+      "RUSSIAN": "Тогда отдай его мне.",
+      "FRENCH": "Alors donne-le-moi.",
+      "THAI": "งั้นเอามาให้ฉันหน่อย.",
+      "PERSIAN": "بعد به من بده"
+    },
+    "TIME": {
+      "SHOW": 63.5,
+      "HIDE": 65.7
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "그거 회사에 있는데요?",
+      "ENGLISH": "It's at the office.",
+      "CHINESE_SIMPLIFIED": "可U盘…在公司里",
+      "CHINESE_TRADITIONAL": "可U盤…在公司裏",
+      "JAPANESE": "確か、会社にあったはず...",
+      "INDONESIAN": "Ada di kantor.",
+      "PORTUGUESE": "Tá lá no escritório.",
+      "RUSSIAN": "Он в офисе.",
+      "FRENCH": "Il est au bureau.",
+      "THAI": "มันอยู่ที่ออฟฟิศ.",
+      "PERSIAN": "در دفتر است."
+    },
+    "TIME": {
+      "SHOW": 65.7,
+      "HIDE": 67.2
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "뭐??",
+      "ENGLISH": "What??",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "何？",
+      "INDONESIAN": "Apa??",
+      "PORTUGUESE": "O quê??",
+      "RUSSIAN": "Что??",
+      "FRENCH": "Quoi ??",
+      "THAI": "อะไรนะ??",
+      "PERSIAN": "What??"
+    },
+    "TIME": {
+      "SHOW": 67.9,
+      "HIDE": 68.9
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "안 가져왔어?",
+      "ENGLISH": "You didn’t bring it?",
+      "CHINESE_SIMPLIFIED": "你没带回来?",
+      "CHINESE_TRADITIONAL": "你沒帶回來?",
+      "JAPANESE": "持ってきてないの？",
+      "INDONESIAN": "Kamu nggak bawa?",
+      "PORTUGUESE": "Você não trouxe?",
+      "RUSSIAN": "Ты его не взял?",
+      "FRENCH": "Tu ne l’as pas pris ?",
+      "THAI": "นายไม่ได้เอามาเหรอ?",
+      "PERSIAN": "نیاوردی؟"
+    },
+    "TIME": {
+      "SHOW": 69.3,
+      "HIDE": 70.4
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "네. 그냥 과장님 자리에 올려놨는데요?",
+      "ENGLISH": "I just left it on your desk before leaving.",
+      "CHINESE_SIMPLIFIED": "我放在您的桌子上了",
+      "CHINESE_TRADITIONAL": "我放在您的桌子上了",
+      "JAPANESE": "はい。課長のデスクに置いてきましたよ。",
+      "INDONESIAN": "Aku tinggalin di mejamu sebelum pulang tadi.",
+      "PORTUGUESE": "Eu deixei na sua mesa antes de sair.",
+      "RUSSIAN": "Я оставил его на твоём столе перед уходом.",
+      "FRENCH": "Je l’ai laissé sur ton bureau avant de partir.",
+      "THAI": "ฉันทิ้งมันไว้บนโต๊ะนายก่อนออกมา.",
+      "PERSIAN": "من فقط قبل از رفتن اونو روی میز شما گذاشتم."
+    },
+    "TIME": {
+      "SHOW": 70.9,
+      "HIDE": 73.4
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 소리야 퇴근할 때 그런 거 못 봤는데!",
+      "ENGLISH": "What are you talking about? I didn’t see it when I left!",
+      "CHINESE_SIMPLIFIED": "怎么可能?我下班的时候没看到啊?",
+      "CHINESE_TRADITIONAL": "怎麼可能?我下班的時候沒看到啊?",
+      "JAPANESE": "何言ってるのよ、退勤する時、そんなの見てないわ！",
+      "INDONESIAN": "Kamu ngomong apa sih? Aku nggak lihat apa-apa waktu pulang!",
+      "PORTUGUESE": "O que você tá falando? Eu não vi nada quando saí!",
+      "RUSSIAN": "О чём ты говоришь? Я ничего не видела, когда уходила!",
+      "FRENCH": "De quoi tu parles ? Je l’ai pas vu quand je suis partie !",
+      "THAI": "พูดเรื่องอะไรน่ะ? ฉันไม่เห็นตอนที่ออกมาเลย!",
+      "PERSIAN": "در مورد چی حرف میزنی؟ وقتی رفتم ندیدمش!"
+    },
+    "TIME": {
+      "SHOW": 73.8,
+      "HIDE": 76.2
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "额…",
+      "CHINESE_TRADITIONAL": "額…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ...",
+      "PERSIAN": "Uh..."
+    },
+    "TIME": {
+      "SHOW": 77.4,
+      "HIDE": 78.5
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万!",
+      "CHINESE_TRADITIONAL": "宥萬!",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "RUSSIAN": "Юман!",
+      "FRENCH": "Yuman !",
+      "THAI": "ยูมัน!",
+      "PERSIAN": "آقای یومان!"
+    },
+    "TIME": {
+      "SHOW": 79.4,
+      "HIDE": 80.3
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim?",
+      "RUSSIAN": "Да?",
+      "FRENCH": "Oui ?",
+      "THAI": "ครับ?",
+      "PERSIAN": "Yes?"
+    },
+    "TIME": {
+      "SHOW": 80.3,
+      "HIDE": 80.9
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 시간 괜찮으면...",
+      "ENGLISH": "If you’re free...",
+      "CHINESE_SIMPLIFIED": "你今天有时间的话...",
+      "CHINESE_TRADITIONAL": "你今天有時間的話...",
+      "JAPANESE": "もし時間があったら…",
+      "INDONESIAN": "Kalau kamu ada waktu...",
+      "PORTUGUESE": "Se você tiver livre...",
+      "RUSSIAN": "Если у тебя есть время...",
+      "FRENCH": "Si t’es libre...",
+      "THAI": "ถ้านายว่าง...",
+      "PERSIAN": "اگر آزاد هستید ..."
+    },
+    "TIME": {
+      "SHOW": 80.9,
+      "HIDE": 83.3
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 밀크걸스 연습 날인데",
+      "ENGLISH": "Want to come to the Milk Girls practice today?",
+      "CHINESE_SIMPLIFIED": "牛奶少女练习日",
+      "CHINESE_TRADITIONAL": "牛奶少女練習日",
+      "JAPANESE": "今日、ミルクガールズの練習日なんですけど、",
+      "INDONESIAN": "Mau ikut latihan Milk Girls hari ini?",
+      "PORTUGUESE": "Quer ir na prática das Milk Girls hoje?",
+      "RUSSIAN": "Хочешь пойти со мной на тренировку Milk Girls сегодня?",
+      "FRENCH": "Tu veux venir avec moi à l’entraînement des Milk Girls aujourd’hui ?",
+      "THAI": "อยากไปซ้อมกับ Milk Girls ไหม?",
+      "PERSIAN": "می خواهید امروز به تمرین دختران شیر بیایید؟"
+    },
+    "TIME": {
+      "SHOW": 83.3,
+      "HIDE": 85.4
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "같이 안 갈래요?",
+      "ENGLISH": "With me.",
+      "CHINESE_SIMPLIFIED": "要不要一起去啊?",
+      "CHINESE_TRADITIONAL": "要不要一起去啊?",
+      "JAPANESE": "一緒に行きませんか？",
+      "INDONESIAN": "Bareng aku.",
+      "PORTUGUESE": "Comigo.",
+      "RUSSIAN": "У нас внезапно назначили сессию...",
+      "FRENCH": "On a une session imprévue...",
+      "THAI": "เรามีเซสชั่นด่วน...",
+      "PERSIAN": "با من"
+    },
+    "TIME": {
+      "SHOW": 85.4,
+      "HIDE": 87.1
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "갑자기 가게 돼서...",
+      "ENGLISH": "We suddenly have a session...",
+      "CHINESE_SIMPLIFIED": "她们突然说今天要训练…",
+      "CHINESE_TRADITIONAL": "她們突然說今天要訓練…",
+      "JAPANESE": "急に行くことになって…",
+      "INDONESIAN": "Kita tiba-tiba ada sesi...",
+      "PORTUGUESE": "A gente tem uma sessão de última hora...",
+      "PERSIAN": "ما ناگهان جلسه داریم ..."
+    },
+    "TIME": {
+      "SHOW": 87.5,
+      "HIDE": 89.2
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "아, 매니저 오빠가 전화를 안 받아서요!",
+      "ENGLISH": "And our manager isn’t answering his phone!",
+      "CHINESE_SIMPLIFIED": "经纪人又一直都不接电话",
+      "CHINESE_TRADITIONAL": "經紀人又一直都不接電話",
+      "JAPANESE": "あ、マネージャーと電話がつながらなくて！",
+      "INDONESIAN": "Dan manajer kita nggak jawab telepon!",
+      "PORTUGUESE": "E o nosso manager não atende o celular!",
+      "RUSSIAN": "А менеджер не отвечает на звонки!",
+      "FRENCH": "Et notre manager ne répond pas au téléphone !",
+      "THAI": "แต่ผู้จัดการไม่รับโทรศัพท์!",
+      "PERSIAN": "و مدیر ما تلفن اونو پاسخ نمی دهد!"
+    },
+    "TIME": {
+      "SHOW": 89.7,
+      "HIDE": 92.3
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 연습실이요?",
+      "ENGLISH": "Milk Girls practice room?",
+      "CHINESE_SIMPLIFIED": "我居然能去牛奶少女的练习室?",
+      "CHINESE_TRADITIONAL": "我居然能去牛奶少女的練習室?",
+      "JAPANESE": "ミルクガールズの練習室ですか？",
+      "INDONESIAN": "Ruang latihan Milk Girls?",
+      "PORTUGUESE": "Sala de prática das Milk Girls?",
+      "RUSSIAN": "Тренировочный зал Milk Girls?",
+      "FRENCH": "La salle d’entraînement des Milk Girls ?",
+      "THAI": "ห้องซ้อม Milk Girls?",
+      "PERSIAN": "اتاق تمرین دختران شیر؟"
+    },
+    "TIME": {
+      "SHOW": 92.8,
+      "HIDE": 94.3
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "너무 좋죠!",
+      "ENGLISH": "That sounds awesome!",
+      "CHINESE_SIMPLIFIED": "那可太好了!",
+      "CHINESE_TRADITIONAL": "那可太好了!",
+      "JAPANESE": "行きたいです！",
+      "INDONESIAN": "Kedengarannya seru!",
+      "PORTUGUESE": "Isso parece incrível!",
+      "RUSSIAN": "Звучит круто!",
+      "FRENCH": "Ça a l’air génial !",
+      "THAI": "ฟังดูน่าสนุกดี!",
+      "PERSIAN": "این به نظر عالی می رسد!"
+    },
+    "TIME": {
+      "SHOW": 94.5,
+      "HIDE": 95.8
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 소리지?",
+      "ENGLISH": "What are you talking about?",
+      "CHINESE_SIMPLIFIED": "你说什么呢?",
+      "CHINESE_TRADITIONAL": "你說什麼呢?",
+      "JAPANESE": "何言ってるの？",
+      "INDONESIAN": "Kamu ngomong apa sih?",
+      "PORTUGUESE": "Do que você tá falando?",
+      "RUSSIAN": "О чём ты говоришь?",
+      "FRENCH": "De quoi tu parles ?",
+      "THAI": "พูดเรื่องอะไรเนี่ย?",
+      "PERSIAN": "What are you talking about?"
+    },
+    "TIME": {
+      "SHOW": 96.9,
+      "HIDE": 97.9
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨 지금 당장 회사에 외장하드 찾으러 가야지!",
+      "ENGLISH": "Yuman, you need to go get that external hard drive from the office right now!",
+      "CHINESE_SIMPLIFIED": "你现在应该马上去公司拿U盘!",
+      "CHINESE_TRADITIONAL": "你現在應該馬上去公司拿U盤!",
+      "JAPANESE": "ユマンさん、今すぐ会社に行ってハードディスクを探しなさい。",
+      "INDONESIAN": "Yuman, kamu harus ambil hard drive eksternal itu sekarang juga!",
+      "PORTUGUESE": "Yuman, você precisa buscar aquele HD externo agora mesmo!",
+      "RUSSIAN": "Юман, тебе нужно забрать внешний диск из офиса прямо сейчас!",
+      "FRENCH": "Yuman, tu dois aller chercher ce disque dur tout de suite !",
+      "THAI": "ยูมัน นายต้องไปเอาฮาร์ดดิสก์จากออฟฟิศเดี๋ยวนี้เลย!",
+      "PERSIAN": "یومان، شما باید همین الان بروید اون هارد اکسترنال را از دفتر بگیرید!"
+    },
+    "TIME": {
+      "SHOW": 98.4,
+      "HIDE": 101.5
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "SCRIPT": {
+      "KOREAN": "아... 맞다...",
+      "ENGLISH": "Oh... right...",
+      "CHINESE_SIMPLIFIED": "啊...也是…",
+      "CHINESE_TRADITIONAL": "啊...也是…",
+      "JAPANESE": "あ…そうだった…",
+      "INDONESIAN": "Oh... iya...",
+      "PORTUGUESE": "Ah... certo...",
+      "RUSSIAN": "Ах... точно...",
+      "FRENCH": "Ah... oui...",
+      "THAI": "โอ๊ะ... ใช่...",
+      "PERSIAN": "اوه... درسته..."
+    },
+    "TIME": {
+      "SHOW": 102.4,
+      "HIDE": 104.2
+    }
+  }
+]

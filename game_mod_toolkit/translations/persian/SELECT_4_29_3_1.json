@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "에이 장난이야!",
+      "ENGLISH": "Hey, I’m just messing with you!",
+      "CHINESE_SIMPLIFIED": "我开玩笑的~",
+      "CHINESE_TRADITIONAL": "我開玩笑的~",
+      "JAPANESE": "冗談だよ~",
+      "INDONESIAN": "Hei, aku cuma bercanda!",
+      "PORTUGUESE": "Ei, eu só tô brincando!",
+      "RUSSIAN": "Эй, да я просто дразню!",
+      "FRENCH": "Hé, je te taquine !",
+      "THAI": "เฮ้ ฉันแค่แกล้งเล่นเฉยๆ!",
+      "PERSIAN": "هی، من فقط با شما درگیرم!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네가 제일 좋은데, 내가 가긴 어딜 가~",
+      "ENGLISH": "You’re my favorite—I’m not going anywhere!",
+      "CHINESE_SIMPLIFIED": "我最喜欢你了, 还能去哪啊",
+      "CHINESE_TRADITIONAL": "我最喜歡你了, 還能去哪啊",
+      "JAPANESE": "お前が一番いいのに、帰るわけないだろ～",
+      "INDONESIAN": "Kamu favoritku, aku gak bakal pergi ke mana-mana!",
+      "PORTUGUESE": "Você é a minha favorita, eu não vou a lugar nenhum!",
+      "RUSSIAN": "Ты моя любимая — я никуда не ухожу!",
+      "FRENCH": "C’est toi ma préférée, je vais nulle part !",
+      "THAI": "เธอเป็นคนโปรดของฉัน ฉันจะไม่ไปไหน!",
+      "PERSIAN": "تو مورد علاقه من هستی - من جایی نمی روم!"
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진작 그럴 것이지.",
+      "ENGLISH": "You should have said that earlier.",
+      "CHINESE_SIMPLIFIED": "这话你早说啊",
+      "CHINESE_TRADITIONAL": "這話你早說啊",
+      "JAPANESE": "もっと早くそ言ってよ。",
+      "INDONESIAN": "Harusnya kamu bilang gitu dari tadi.",
+      "PORTUGUESE": "Você devia ter falado isso antes.",
+      "RUSSIAN": "Тебе бы это сразу сказать.",
+      "FRENCH": "Fallait le dire plus tôt.",
+      "THAI": "เธอน่าจะพูดแบบนั้นตั้งแต่แรกนะ",
+      "PERSIAN": "باید زودتر میگفتی"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.7
+    }
+  }
+]

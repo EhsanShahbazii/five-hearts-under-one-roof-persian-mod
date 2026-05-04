@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "할머니가 뜯진 않으셨네",
+      "ENGLISH": "Looks like Grandma didn't take it down.",
+      "CHINESE_SIMPLIFIED": "奶奶还真没给我撕下来",
+      "CHINESE_TRADITIONAL": "奶奶還真沒給我撕下來",
+      "JAPANESE": "おばあちゃん、これ剥がしてなかったんだ。",
+      "INDONESIAN": "Sepertinya Nenek nggak menurunkannya.",
+      "PORTUGUESE": "Parece que a Vovó não tirou isso.",
+      "RUSSIAN": "Кажется, бабушка так и не сняла это.",
+      "FRENCH": "On dirait que grand-mère n’a pas retiré ça.",
+      "THAI": "ดูเหมือนว่าคุณย่าไม่ได้เอาออกนะ"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야..!",
+      "ENGLISH": "Oh...!",
+      "CHINESE_SIMPLIFIED": "什么呀...！",
+      "CHINESE_TRADITIONAL": "什麼呀...！",
+      "JAPANESE": "何だろう？",
+      "INDONESIAN": "Oh...!",
+      "PORTUGUESE": "Oh...!",
+      "RUSSIAN": "О...!",
+      "FRENCH": "Oh... !",
+      "THAI": "โอ้...!"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "누가 뜯어가긴 뜯어가는구나...",
+      "ENGLISH": "Someone must be taking these after all...",
+      "CHINESE_SIMPLIFIED": "不过还有人看过这个宣传单啊...",
+      "CHINESE_TRADITIONAL": "不過還有人看過這個宣傳單啊...",
+      "JAPANESE": "誰かが破いていったみたいだ...",
+      "INDONESIAN": "Akhirnya seseorang mengambil ini juga...",
+      "PORTUGUESE": "Afinal alguém pegou isso também...",
+      "RUSSIAN": "Похоже, кто-то всё-таки забирает это...",
+      "FRENCH": "Quelqu’un doit vraiment venir les récupérer, après tout...",
+      "THAI": "คงมีคนมาหยิบไปจริงๆ สินะ..."
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    }
+  }
+]

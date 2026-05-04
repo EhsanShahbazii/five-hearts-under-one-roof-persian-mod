@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고름 풀렸어요!",
+      "ENGLISH": "The goreum came undone again!",
+      "CHINESE_SIMPLIFIED": "你的绑带都开了!",
+      "CHINESE_TRADITIONAL": "你的綁帶都開了!",
+      "JAPANESE": "衣紐ほどけちゃいましたよ！",
+      "INDONESIAN": "Goreum-nya lepas lagi!",
+      "PORTUGUESE": "O goreum soltou de novo!",
+      "RUSSIAN": "Горым снова развязался!",
+      "FRENCH": "Le goreum s’est défait à nouveau !",
+      "THAI": "โกรึมหลุดอีกแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "고름?",
+      "ENGLISH": "Goreum? ",
+      "CHINESE_SIMPLIFIED": "绑带?",
+      "CHINESE_TRADITIONAL": "綁帶?",
+      "JAPANESE": "衣紐？",
+      "INDONESIAN": "Goreum?",
+      "PORTUGUESE": "Goreum?",
+      "RUSSIAN": "Горым?",
+      "FRENCH": "Le goreum ?",
+      "THAI": "โกรึม?"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "고름이 뭐예요?",
+      "ENGLISH": "What’s that?",
+      "CHINESE_SIMPLIFIED": "绑带是什么?",
+      "CHINESE_TRADITIONAL": "綁帶是什麼?",
+      "JAPANESE": "衣紐って何ですか？",
+      "INDONESIAN": "Apa itu?",
+      "PORTUGUESE": "O que é isso?",
+      "RUSSIAN": "Это что такое?",
+      "FRENCH": "C’est quoi ?",
+      "THAI": "นั่นอะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이거요!",
+      "ENGLISH": "This!",
+      "CHINESE_SIMPLIFIED": "就是这个!",
+      "CHINESE_TRADITIONAL": "就是這個!",
+      "JAPANESE": "これです！",
+      "INDONESIAN": "Ini!",
+      "PORTUGUESE": "Isto!",
+      "RUSSIAN": "Вот это!",
+      "FRENCH": "Ça !",
+      "THAI": "นี่ไง!"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 이게 고름이라는 거구나.",
+      "ENGLISH": "Oh~ So that's the goreum.",
+      "CHINESE_SIMPLIFIED": "啊~原来这个就叫绑带啊",
+      "CHINESE_TRADITIONAL": "啊~原來這個就叫綁帶啊",
+      "JAPANESE": "あ～これが衣紐って言うんですよ。",
+      "INDONESIAN": "Oh~ Jadi ini yang namanya goreum.",
+      "PORTUGUESE": "Ah~ Então isso é o goreum.",
+      "RUSSIAN": "О~ Так это горым.",
+      "FRENCH": "Oh~ Donc c’est le goreum.",
+      "THAI": "โอ~ นี่คือโกรึมสินะ"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어 그거 그렇게 하는 거 아닌데..",
+      "ENGLISH": "Hey, that’s not how you do it...",
+      "CHINESE_SIMPLIFIED": "嗯，这个不是那样系的",
+      "CHINESE_TRADITIONAL": "嗯，這個不是那樣系的",
+      "JAPANESE": "あ、そうやってやるものじゃなないんだけどな…",
+      "INDONESIAN": "Hei, bukan gitu caranya...",
+      "PORTUGUESE": "Ei, não é assim que faz...",
+      "RUSSIAN": "Эй, не так завязываешь...",
+      "FRENCH": "Hé, ce n’est pas comme ça que tu fais...",
+      "THAI": "เธอผูกแบบนั้นไม่ได้หรอก..."
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 어떻게 하면 될까요?",
+      "ENGLISH": "Then how should I do it?",
+      "CHINESE_SIMPLIFIED": "那该怎么系呢?",
+      "CHINESE_TRADITIONAL": "那該怎麼系呢?",
+      "JAPANESE": "じゃあ、どうすればいいですか？",
+      "INDONESIAN": "Terus, gimana dong?",
+      "PORTUGUESE": "Então como eu faço?",
+      "RUSSIAN": "Тогда как правильно?",
+      "FRENCH": "Alors comment dois-je faire ?",
+      "THAI": "แล้วต้องผูกยังไงล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "잠깐만.",
+      "ENGLISH": "Wait.",
+      "CHINESE_SIMPLIFIED": "等一下",
+      "CHINESE_TRADITIONAL": "等一下",
+      "JAPANESE": "ちょっと待ってくださいね。",
+      "INDONESIAN": "Tunggu.",
+      "PORTUGUESE": "Espera.",
+      "RUSSIAN": "Подожди.",
+      "FRENCH": "Attends.",
+      "THAI": "รอแป๊บ"
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "내가 묶어줄게요.",
+      "ENGLISH": "Let me tie it for you.",
+      "CHINESE_SIMPLIFIED": "我来帮你",
+      "CHINESE_TRADITIONAL": "我來幫你",
+      "JAPANESE": "僕が結んであげます。",
+      "INDONESIAN": "Biar aku ikat buat kamu.",
+      "PORTUGUESE": "Deixa eu amarrar pra você.",
+      "RUSSIAN": "Дай я завяжу тебе.",
+      "FRENCH": "Laisse-moi le faire pour toi.",
+      "THAI": "เดี๋ยวฉันจะผูกให้"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.6
+    }
+  }
+]

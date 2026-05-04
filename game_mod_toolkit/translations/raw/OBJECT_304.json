@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얘는 이 사진을 또 언제 가져갔대?",
+      "ENGLISH": "When did she take this picture?",
+      "CHINESE_SIMPLIFIED": "这张照片她什么时候拿走的?",
+      "CHINESE_TRADITIONAL": "這張照片她什麼時候拿走的?",
+      "JAPANESE": "この写真、いつまで持ってるんだよ...",
+      "INDONESIAN": "Kapan dia ambil foto ini?",
+      "PORTUGUESE": "Quando ela tirou essa foto?",
+      "RUSSIAN": "Когда она сделала эту фотографию?",
+      "FRENCH": "Quand est-ce qu’elle a pris cette photo ?",
+      "THAI": "เธอถ่ายรูปนี้ตั้งแต่เมื่อไหร่?"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 4.0
+    }
+  }
+]

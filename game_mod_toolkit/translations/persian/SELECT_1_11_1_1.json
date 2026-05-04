@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "에?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "诶?",
+      "CHINESE_TRADITIONAL": "誒?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아... 그, 그, 그게...",
+      "ENGLISH": "Oh... well...",
+      "CHINESE_SIMPLIFIED": "啊…那个…",
+      "CHINESE_TRADITIONAL": "啊…那個…",
+      "JAPANESE": "あ…そ、その…",
+      "INDONESIAN": "Oh... ya...",
+      "PORTUGUESE": "Ah... bem...",
+      "RUSSIAN": "Ой... ну...",
+      "FRENCH": "Oh... euh...",
+      "THAI": "เอ่อ... คือว่า...",
+      "PERSIAN": "اوه ... خوب ..."
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미친 거 아니야?",
+      "ENGLISH": "Are you out of your mind?",
+      "CHINESE_SIMPLIFIED": "你疯啦?",
+      "CHINESE_TRADITIONAL": "你瘋啦?",
+      "JAPANESE": "あなた、正気なの？",
+      "INDONESIAN": "Kamu gila, ya?",
+      "PORTUGUESE": "Você tá maluco?",
+      "RUSSIAN": "Ты в своём уме?",
+      "FRENCH": "T’es complètement fou ?",
+      "THAI": "นายบ้าหรือเปล่า?",
+      "PERSIAN": "عقلت رو از دست دادی؟"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니 전 차가 갑자기 급정거를 하니까...",
+      "ENGLISH": "The car stopped suddenly...",
+      "CHINESE_SIMPLIFIED": "不是，因为刚突然急刹车…",
+      "CHINESE_TRADITIONAL": "不是，因爲剛突然急剎車…",
+      "JAPANESE": "いや、車が急に止まったから…",
+      "INDONESIAN": "Mobilnya berhenti mendadak...",
+      "PORTUGUESE": "O carro parou de repente...",
+      "RUSSIAN": "Машина резко остановилась...",
+      "FRENCH": "La voiture s’est arrêtée d’un coup...",
+      "THAI": "รถหยุดกะทันหัน...",
+      "PERSIAN": "ماشین ناگهان ایستاد..."
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "손이나 떼고 말하지?",
+      "ENGLISH": "Maybe use your hands to gesture, huh?",
+      "CHINESE_SIMPLIFIED": "你打算摸到什么时候?",
+      "CHINESE_TRADITIONAL": "你打算摸到什麼時候?",
+      "JAPANESE": "手を離してから言いなさいよ！",
+      "INDONESIAN": "Mungkin kasih isyarat pakai tangan, kali?",
+      "PORTUGUESE": "Talvez use as mãos pra fazer sinal, né?",
+      "RUSSIAN": "Может, ручками показывать будешь, а?",
+      "FRENCH": "T’aurais pu faire signe avec tes mains, non ?",
+      "THAI": "ใช้มือนายโบกหน่อยจะดีไหม?",
+      "PERSIAN": "شاید از دستان خود برای اشاره استفاده کنید، ها؟"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "에? 으어...!",
+      "ENGLISH": "What? Oh...!",
+      "CHINESE_SIMPLIFIED": "诶? 啊啊…!",
+      "CHINESE_TRADITIONAL": "誒? 啊啊…!",
+      "JAPANESE": "え？うわっ…！",
+      "INDONESIAN": "Apa? Oh...!",
+      "PORTUGUESE": "O quê? Ah...!",
+      "RUSSIAN": "Что? Ой...!",
+      "FRENCH": "Quoi ? Oh... !",
+      "THAI": "ห้ะ? อ๊ะ...!",
+      "PERSIAN": "چی؟ اوه...!"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.5
+    }
+  }
+]

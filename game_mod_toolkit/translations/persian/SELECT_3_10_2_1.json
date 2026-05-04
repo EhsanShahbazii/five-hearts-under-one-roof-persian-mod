@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아! ",
+      "ENGLISH": "Ah!",
+      "CHINESE_SIMPLIFIED": "啊!",
+      "CHINESE_TRADITIONAL": "啊!",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Ah!",
+      "PORTUGUESE": "Ah!",
+      "RUSSIAN": "Ах!",
+      "FRENCH": "Ah !",
+      "THAI": "อ๊ะ!",
+      "PERSIAN": "Ah!"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "민정아! ",
+      "ENGLISH": "Min-jung! ",
+      "CHINESE_SIMPLIFIED": "敏静啊!",
+      "CHINESE_TRADITIONAL": "敏靜啊!",
+      "JAPANESE": "ミンジョン！",
+      "INDONESIAN": "Min-jung!",
+      "PORTUGUESE": "Min-jung!",
+      "RUSSIAN": "Мин-Джун!",
+      "FRENCH": "Min-jung !",
+      "THAI": "มินจอง!",
+      "PERSIAN": "Min-jung!"
+    },
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 23.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "抱歉...",
+      "CHINESE_TRADITIONAL": "抱歉...",
+      "JAPANESE": "ごめん…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Прости...",
+      "FRENCH": "Désolée...",
+      "THAI": "ขอโทษนะ...",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 24.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "근데 내가 이쪽으로 가는 거... 아니었어?",
+      "ENGLISH": "Was I not supposed to come... this way?",
+      "CHINESE_SIMPLIFIED": "不过我不是本来就该站...这边吗?",
+      "CHINESE_TRADITIONAL": "不過我不是本來就該站...這邊嗎?",
+      "JAPANESE": "でも、私がこっち側に移動するんじゃなかったっけ？",
+      "INDONESIAN": "Aku nggak seharusnya lewat sini, ya?",
+      "PORTUGUESE": "Eu não devia ter vindo... por aqui, né?",
+      "RUSSIAN": "Мне нельзя было идти... сюда?",
+      "FRENCH": "Je n’aurais pas dû venir... par ici ?",
+      "THAI": "ฉันไม่ควรเดินมาทางนี้เหรอ?",
+      "PERSIAN": "مگه قرار نبود من بیام... این طرف؟"
+    },
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "야! 우리 동선 바꾼 거 기억 안 나?",
+      "ENGLISH": "Hey! don’t you remember we changed the routine?",
+      "CHINESE_SIMPLIFIED": "喂!我们的队形有调整过，不记得了吗?",
+      "CHINESE_TRADITIONAL": "喂!我們的隊形有調整過，不記得了嗎?",
+      "JAPANESE": "ちょっと！私たち、動線変えたの覚えてないの？",
+      "INDONESIAN": "Hei! Kamu lupa kalau kita udah ganti rutinitas?",
+      "PORTUGUESE": "Ei! Você não lembra que a gente mudou a rotina?",
+      "RUSSIAN": "Эй! Разве ты не помнишь, что мы изменили рутину?",
+      "FRENCH": "Hé ! Tu te souviens qu’on a changé la routine, non ?",
+      "THAI": "เฮ้! จำไม่ได้เหรอว่าเราปรับท่ากันใหม่แล้ว?",
+      "PERSIAN": "سلام! یادت نیست روال را تغییر دادیم؟"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그건 그렇긴 한데...",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "好像是改过...",
+      "CHINESE_TRADITIONAL": "好像是改過...",
+      "JAPANESE": "それはそうだけど…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Lembro...",
+      "RUSSIAN": "Да...",
+      "FRENCH": "Oui...",
+      "THAI": "จำได้สิ...",
+      "PERSIAN": "خواهش می‌کنم..."
+    },
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 33.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "쌤이 원래대로 가자고 했잖아...",
+      "ENGLISH": "but the coach said to go back to the original plan...",
+      "CHINESE_SIMPLIFIED": "但是老师不是说过还按照原来的队形吗…",
+      "CHINESE_TRADITIONAL": "但是老師不是說過還按照原來的隊形嗎…",
+      "JAPANESE": "先生が元通りにいこうって言ってたじゃん…",
+      "INDONESIAN": "Tapi pelatih bilang balik ke rencana awal...",
+      "PORTUGUESE": "Mas o treinador disse pra voltar pro plano original...",
+      "RUSSIAN": "Но тренер сказал вернуться к первоначальному плану...",
+      "FRENCH": "Mais le coach a dit de revenir au plan original...",
+      "THAI": "แต่โค้ชบอกให้กลับไปใช้แผนเดิม...",
+      "PERSIAN": "اما مربی گفت به برنامه اولیه برگردیم..."
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 36.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 민정아~ 집중 좀 하자~",
+      "ENGLISH": "Min-jung, please focus!",
+      "CHINESE_SIMPLIFIED": "我说敏静啊…你能不能专心一些?",
+      "CHINESE_TRADITIONAL": "我說敏靜啊…你能不能專心一些?",
+      "JAPANESE": "あ～ミンジョン、ちょっと集中してよ～",
+      "INDONESIAN": "Min-jung, tolong fokus!",
+      "PORTUGUESE": "Min-jung, por favor, se concentra!",
+      "RUSSIAN": "Мин-Джун, пожалуйста, сосредоточься!",
+      "FRENCH": "Min-jung, concentre-toi s’il te plaît !",
+      "THAI": "มินจอง ตั้งใจหน่อยสิ!",
+      "PERSIAN": "مین‌جونگ لطفا تمرکز کن!"
+    },
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 38.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "너가 숙소도 안 들어오고",
+      "ENGLISH": "You keep making mistakes because you’re skipping practice",
+      "CHINESE_SIMPLIFIED": "你在外面留宿就算了",
+      "CHINESE_TRADITIONAL": "你在外面留宿就算了",
+      "JAPANESE": "寮にも戻らないで",
+      "INDONESIAN": "Kamu terus bikin kesalahan karena bolos latihan",
+      "PORTUGUESE": "Você continua errando porque tá faltando aos treinos",
+      "RUSSIAN": "Ты продолжаешь ошибаться, потому что пропускаешь тренировки",
+      "FRENCH": "Tu continues à faire des erreurs parce que tu sautes l’entraînement",
+      "THAI": "เธอทำผิดบ่อยเพราะเธอโดดซ้อม",
+      "PERSIAN": "شما مدام اشتباه می کنید زیرا تمرین را کنار می گذارید"
+    },
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 40.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "자꾸 이상한 아저씨나 만나니까 실수하잖아~",
+      "ENGLISH": "And hanging out with weird guys!",
+      "CHINESE_SIMPLIFIED": "还总是和奇怪的大叔来往，所以才会失误啊~",
+      "CHINESE_TRADITIONAL": "還總是和奇怪的大叔來往，所以纔會失誤啊~",
+      "JAPANESE": "変なオジサンばかり会ってるから失敗するんじゃない！",
+      "INDONESIAN": "Dan nongkrong sama cowok-cowok aneh!",
+      "PORTUGUESE": "E andando com caras esquisitos!",
+      "RUSSIAN": "и тусуешься с какими-то странными парнями!",
+      "FRENCH": "et traînes avec des mecs bizarres !",
+      "THAI": "แล้วไปเที่ยวกับพวกผู้ชายแปลก ๆ!",
+      "PERSIAN": "و معاشرت با پسرهای عجیب و غریب!"
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 44.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "미안.",
+      "ENGLISH": "Sorry.",
+      "CHINESE_SIMPLIFIED": "对不起",
+      "CHINESE_TRADITIONAL": "對不起",
+      "JAPANESE": "ごめん。",
+      "INDONESIAN": "Maaf.",
+      "PORTUGUESE": "Desculpa.",
+      "RUSSIAN": "Прости.",
+      "FRENCH": "Désolée.",
+      "THAI": "ขอโทษนะ.",
+      "PERSIAN": "متاسفم"
+    },
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 45.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "야 너무 그러지 마~ ",
+      "ENGLISH": "Don’t be too hard on her~",
+      "CHINESE_SIMPLIFIED": "好了好了~",
+      "CHINESE_TRADITIONAL": "好了好了~",
+      "JAPANESE": "あんまり責めないであげて～",
+      "INDONESIAN": "Jangan terlalu keras sama dia~",
+      "PORTUGUESE": "Não pega tão pesado com ela~",
+      "RUSSIAN": "Не будь с ней слишком строга~",
+      "FRENCH": "Sois pas trop dure avec elle~",
+      "THAI": "อย่าดุเธอแรงเกินไปเลย~",
+      "PERSIAN": "خیلی به او سخت نگیرید~"
+    },
+    "TIME": {
+      "SHOW": 47.9,
+      "HIDE": 49.5
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그래도~",
+      "ENGLISH": "Min-jung is still",
+      "CHINESE_SIMPLIFIED": "再怎么说",
+      "CHINESE_TRADITIONAL": "再怎麼說",
+      "JAPANESE": "それにさ～",
+      "INDONESIAN": "Min-jung itu tetap",
+      "PORTUGUESE": "Afinal, a Min-jung ainda é",
+      "RUSSIAN": "Мин-Джун всё-таки",
+      "FRENCH": "Min-jung reste",
+      "THAI": "มินจองยังเป็น",
+      "PERSIAN": "مین‌جونگ هنوز هست"
+    },
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 50.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "민정이가 우리 ‘센터’잖아.",
+      "ENGLISH": "Our ‘center,’ after all. ",
+      "CHINESE_SIMPLIFIED": "我们敏静可是C位啊",
+      "CHINESE_TRADITIONAL": "我們敏靜可是C位啊",
+      "JAPANESE": "ミンジョンは私たちの「センター」なんだから。",
+      "INDONESIAN": "‘Center’ kita, kan.",
+      "PORTUGUESE": "Nossa ‘center.’",
+      "RUSSIAN": "наша «центровая».",
+      "FRENCH": "notre \"centre\", après tout.",
+      "THAI": "เซ็นเตอร์ ของพวกเราอยู่ดี.",
+      "PERSIAN": "بالاخره «مرکز» ما."
+    },
+    "TIME": {
+      "SHOW": 50.5,
+      "HIDE": 52.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "우리가 지켜줘야지~",
+      "ENGLISH": "We’ve got to have her back~",
+      "CHINESE_SIMPLIFIED": "我们可得好好供着~",
+      "CHINESE_TRADITIONAL": "我們可得好好供着~",
+      "JAPANESE": "私たちがサポートしてあげないと～",
+      "INDONESIAN": "Kita harus dukung dia~",
+      "PORTUGUESE": "Temos que dar apoio pra ela~",
+      "RUSSIAN": "Нам надо её поддерживать~",
+      "FRENCH": "On doit la soutenir~",
+      "THAI": "พวกเราต้องคอยหนุนหลังเธอนะ~",
+      "PERSIAN": "ما باید اونو پشت سر بگذاریم~"
+    },
+    "TIME": {
+      "SHOW": 53.6,
+      "HIDE": 55.2
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "근데 어쩜 우리 센터는 연습을 해도",
+      "ENGLISH": "But how is it that our center doesn’t even break a sweat",
+      "CHINESE_SIMPLIFIED": "不过我们C位怎么练习的时候",
+      "CHINESE_TRADITIONAL": "不過我們C位怎麼練習的時候",
+      "JAPANESE": "でもさ、どうしてうちのセンターは、練習しても",
+      "INDONESIAN": "Tapi gimana caranya center kita nggak keluar keringat",
+      "PORTUGUESE": "Mas como é que nossa center não sua",
+      "RUSSIAN": "Но как это у нас «центровая» даже не вспотеет",
+      "FRENCH": "Mais comment ça se fait que notre centre ne transpire même pas",
+      "THAI": "แต่ทำไมเซ็นเตอร์ของเราถึงไม่เคยมีเหงื่อเลย",
+      "PERSIAN": "اما چطوره که مرکز ما حتی عرق نمی کند"
+    },
+    "TIME": {
+      "SHOW": 56.4,
+      "HIDE": 60.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "땀 하나 안 나고 이렇게 뽀송해~?",
+      "ENGLISH": "And still looks this fresh after practice?",
+      "CHINESE_SIMPLIFIED": "怎么一滴汗都没流呢~?",
+      "CHINESE_TRADITIONAL": "怎麼一滴汗都沒流呢~?",
+      "JAPANESE": "全然、汗かかないのかしら～？",
+      "INDONESIAN": "Dan masih kelihatan fresh setelah latihan?",
+      "PORTUGUESE": "E ainda fica tão fresca depois do treino?",
+      "RUSSIAN": "и всё равно выглядит такой свежей после тренировки?",
+      "FRENCH": "et soit toujours aussi fraîche après l’entraînement ?",
+      "THAI": "แถมยังดูสดใสหลังซ้อมทุกครั้ง?",
+      "PERSIAN": "و هنوز بعد از تمرین به نظر تازه می رسد؟"
+    },
+    "TIME": {
+      "SHOW": 60.0,
+      "HIDE": 62.3
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "땀 좀 나도 예쁘려나?",
+      "ENGLISH": "Would you still look that pretty if you did sweat?",
+      "CHINESE_SIMPLIFIED": "出点汗的话会不会更漂亮?",
+      "CHINESE_TRADITIONAL": "出點汗的話會不會更漂亮?",
+      "JAPANESE": "汗かいても可愛いからね～？",
+      "INDONESIAN": "Apa kamu masih bakal secantik ini kalau beneran berkeringat?",
+      "PORTUGUESE": "Será que você ia ficar tão bonita assim se suasse?",
+      "RUSSIAN": "А выглядела бы ты так же красиво, если бы вспотела?",
+      "FRENCH": "Est-ce que tu serais encore aussi jolie si tu transpirais ?",
+      "THAI": "เธอจะยังดูน่ารักขนาดนี้อยู่ไหมถ้าเหงื่อออก?",
+      "PERSIAN": "اگر عرق می کردید هنوز آنقدر زیبا به نظر می رسیدید؟"
+    },
+    "TIME": {
+      "SHOW": 63.5,
+      "HIDE": 65.5
+    }
+  }
+]

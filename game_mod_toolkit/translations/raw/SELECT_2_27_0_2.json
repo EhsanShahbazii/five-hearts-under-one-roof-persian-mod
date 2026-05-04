@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "입에 좀 맞으시나 봐요...",
+      "ENGLISH": "You seem to like the food...",
+      "CHINESE_SIMPLIFIED": "看来这很符合您的口味啊",
+      "CHINESE_TRADITIONAL": "看來這很符合您的口味啊",
+      "JAPANESE": "お口に合ったみたいですね。",
+      "INDONESIAN": "Kamu kelihatan suka banget sama makanannya...",
+      "PORTUGUESE": "Você parece gostar muito da comida...",
+      "RUSSIAN": "Похоже, тебе нравится еда...",
+      "FRENCH": "On dirait que tu aimes bien ce que tu manges...",
+      "THAI": "ดูท่าจะชอบอาหารนี้นะ..."
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨도 얼른 먹어요!",
+      "ENGLISH": "Yuman, why don’t you eat too?",
+      "CHINESE_SIMPLIFIED": "宥万你也快吃点吧",
+      "CHINESE_TRADITIONAL": "宥萬你也快吃點吧",
+      "JAPANESE": "ユマンさんも早く食べてくださいよ！",
+      "INDONESIAN": "Yuman, kenapa nggak ikut makan juga?",
+      "PORTUGUESE": "Yuman, por que você não come também?",
+      "RUSSIAN": "Юман, почему бы тебе тоже не поесть?",
+      "FRENCH": "Yuman, pourquoi tu ne manges pas aussi ?",
+      "THAI": "ยูมัน ทำไมไม่กินด้วยล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제가 또 살다 보니 밍밍 님이랑 밥 먹는 날도 오네요.",
+      "ENGLISH": "I never thought I’d see the day I’d be having a meal with Mingming.",
+      "CHINESE_SIMPLIFIED": "真没想到我还有能和你一起吃饭的时候",
+      "CHINESE_TRADITIONAL": "真沒想到我還有能和你一起吃飯的時候",
+      "JAPANESE": "ミンミンさんとご飯を食べる日も来るなんて、すごく不思議な気持ちです。",
+      "INDONESIAN": "Nggak pernah terpikir aku bakal makan bareng Mingming.",
+      "PORTUGUESE": "Nunca imaginei que um dia eu estaria fazendo uma refeição com a Mingming.",
+      "RUSSIAN": "Никогда бы не подумал, что настанет день, когда я буду обедать с Минг-Минг.",
+      "FRENCH": "Je n’aurais jamais cru qu’un jour, je mangerais avec Mingming.",
+      "THAI": "ไม่เคยคิดมาก่อนเลย ว่าจะมีวันที่ได้กินข้าวกับหมิงหมิง."
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 23.7
+    }
+  }
+]

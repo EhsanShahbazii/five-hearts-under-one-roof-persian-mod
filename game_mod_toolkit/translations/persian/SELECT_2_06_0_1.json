@@ -1,0 +1,322 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "월 40인데 가능?",
+      "ENGLISH": "It's 400 USD a month. Deal?",
+      "CHINESE_SIMPLIFIED": "一个月2500,OK?",
+      "CHINESE_TRADITIONAL": "一個月2500,OK?",
+      "JAPANESE": "月4万でどう？",
+      "INDONESIAN": "Itu 6.000.000 rupiah per bulan. Deal?",
+      "PORTUGUESE": "É 400 EUR por mês. Feito?",
+      "RUSSIAN": "400 долларов в месяц. Договорились?",
+      "FRENCH": "400 dollars par mois. Ça marche ?",
+      "THAI": "400 ดอลลาร์ต่อเดือน โอเคไหม?",
+      "PERSIAN": "ماهی 400 تومان است. معامله؟"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "월 40?",
+      "ENGLISH": "400 USD?",
+      "CHINESE_SIMPLIFIED": "一个月2500?",
+      "CHINESE_TRADITIONAL": "一個月2500?",
+      "JAPANESE": "月4万？",
+      "INDONESIAN": "6.000.000 rupiah?",
+      "PORTUGUESE": "400 EUR?",
+      "RUSSIAN": "400 долларов?!",
+      "FRENCH": "400 dollars ?!",
+      "THAI": "400 ดอลลาร์?!",
+      "PERSIAN": "400 تومان؟"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "야 너네 엄마 아빠가 나한테 돈 받았다 그러면 퍽이나 좋아하겠다.",
+      "ENGLISH": "Yeah, like my parents would be thrilled to hear I’m charging you.",
+      "CHINESE_SIMPLIFIED": "呀, 你觉得你爸妈会愿意你从我这里收钱吗?",
+      "CHINESE_TRADITIONAL": "呀, 你覺得你爸媽會願意你從我這裏收錢嗎?",
+      "JAPANESE": "あんた両親、あんたが私からお金を受け取っているって聞いたら、大喜びするでしょうね。",
+      "INDONESIAN": "Iya, seolah-olah orangtuaku bakal senang dengar aku minta bayaran ke kamu.",
+      "PORTUGUESE": "Sim, como se meus pais fossem ficar felizes por eu te cobrar.",
+      "RUSSIAN": "Ага, мои родители были бы в восторге, если бы узнали, что я беру с тебя деньги.",
+      "FRENCH": "Ouais, mes parents seraient super contents d’apprendre que je te fais payer.",
+      "THAI": "ใช่สิ พ่อแม่ฉันคงดีใจน่าดูที่รู้ว่าฉันเก็บเงินจากนาย.",
+      "PERSIAN": "بله، مثل اینکه پدر و مادرم از شنیدن اینکه دارم از شما اتهام می زنم هیجان زده می شوند."
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "됐고...",
+      "ENGLISH": "Forget it...",
+      "CHINESE_SIMPLIFIED": "这样吧...",
+      "CHINESE_TRADITIONAL": "這樣吧...",
+      "JAPANESE": "もういいわ…",
+      "INDONESIAN": "Lupakan deh...",
+      "PORTUGUESE": "Esquece...",
+      "RUSSIAN": "Забудь об этом...",
+      "FRENCH": "Laisse tomber...",
+      "THAI": "ลืมไปเถอะ...",
+      "PERSIAN": "فراموشش کن..."
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "몸으로 때울게!",
+      "ENGLISH": "I’ll pay with labor!",
+      "CHINESE_SIMPLIFIED": "我用身体来抵房租!",
+      "CHINESE_TRADITIONAL": "我用身體來抵房租!",
+      "JAPANESE": "体で返すわ！",
+      "INDONESIAN": "Aku bayar pakai tenaga aja!",
+      "PORTUGUESE": "Vou pagar com trabalho!",
+      "RUSSIAN": "Я заплачу трудом!",
+      "FRENCH": "Je vais payer avec du travail !",
+      "THAI": "ฉันจะจ่ายด้วยแรงงาน!",
+      "PERSIAN": "من با نیروی کار پرداخت خواهم کرد!"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "모, 몸으로?",
+      "ENGLISH": "L-labor?",
+      "CHINESE_SIMPLIFIED": "身，身体?",
+      "CHINESE_TRADITIONAL": "身，身體?",
+      "JAPANESE": "か、体で？",
+      "INDONESIAN": "T-tenaga?",
+      "PORTUGUESE": "T-trabalho?",
+      "RUSSIAN": "Т-трудом?",
+      "FRENCH": "D-du travail ?",
+      "THAI": "แ-แรงงาน?",
+      "PERSIAN": "L-labor?"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "응. 내가 밥도 해주고...",
+      "ENGLISH": "Yep. I’ll cook for you...",
+      "CHINESE_SIMPLIFIED": "嗯，我给你做饭…",
+      "CHINESE_TRADITIONAL": "嗯，我給你做飯…",
+      "JAPANESE": "うん。ご飯も作ってあげて…",
+      "INDONESIAN": "Iya. Aku bakal masakin buat kamu...",
+      "PORTUGUESE": "Isso mesmo. Eu vou cozinhar pra você...",
+      "RUSSIAN": "Ага. Я буду готовить для тебя...",
+      "FRENCH": "Exact. Je vais cuisiner pour toi...",
+      "THAI": "ใช่ ฉันจะทำอาหารให้นาย...",
+      "PERSIAN": "بله من برات آشپزی میکنم..."
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 19.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "옷도 입혀 주고...",
+      "ENGLISH": "And dress you up...",
+      "CHINESE_SIMPLIFIED": "帮你穿衣服…",
+      "CHINESE_TRADITIONAL": "幫你穿衣服…",
+      "JAPANESE": "服も着せてあげて…",
+      "INDONESIAN": "Dan dandani kamu...",
+      "PORTUGUESE": "E te vestir...",
+      "RUSSIAN": "И наряжать тебя...",
+      "FRENCH": "Et t’habiller...",
+      "THAI": "แล้วก็แต่งตัวให้นายด้วย...",
+      "PERSIAN": "و لباست را بپوشاند..."
+    },
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "왜, 왜 그래..!",
+      "ENGLISH": "Wh-why are you doing this..?!",
+      "CHINESE_SIMPLIFIED": "你，你要干什么！",
+      "CHINESE_TRADITIONAL": "你，你要幹什麼！",
+      "JAPANESE": "な、何なんだよ…！",
+      "INDONESIAN": "K-kenapa kamu ngelakuin ini...?!",
+      "PORTUGUESE": "P-por que você tá fazendo isso...?!",
+      "RUSSIAN": "З-зачем ты это делаешь?!",
+      "FRENCH": "P-pourquoi tu fais ça ?!",
+      "THAI": "ท-ทำไมต้องทำแบบนี้?!",
+      "PERSIAN": "آخ-چرا اینجوری میکنی..؟!"
+    },
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "왜, 부족해?",
+      "ENGLISH": "What, not enough?",
+      "CHINESE_SIMPLIFIED": "怎么?不够吗?",
+      "CHINESE_TRADITIONAL": "怎麼?不夠嗎?",
+      "JAPANESE": "うん？　足りない？",
+      "INDONESIAN": "Kurang, ya?",
+      "PORTUGUESE": "O quê, não é suficiente?",
+      "RUSSIAN": "Что, мало? ",
+      "FRENCH": "Quoi, ça suffit pas ?",
+      "THAI": "อะไร ยังไม่พอเหรอ? ",
+      "PERSIAN": "چی، کافی نیست؟"
+    },
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "씻겨도 줄까?",
+      "ENGLISH": "Want me to wash you too?",
+      "CHINESE_SIMPLIFIED": "还要帮你洗澡吗?",
+      "CHINESE_TRADITIONAL": "還要幫你洗澡嗎?",
+      "JAPANESE": "お風呂も手伝おうか？",
+      "INDONESIAN": "Mau sekalian aku mandiin juga?",
+      "PORTUGUESE": "Quer que eu te dê banho também?",
+      "RUSSIAN": "Хочешь, чтобы я тебя ещё и мыл?",
+      "FRENCH": "Tu veux que je te lave aussi ?",
+      "THAI": "จะให้ฉันอาบน้ำให้นายด้วยไหม?",
+      "PERSIAN": "میخوای من هم تورو بشورم؟"
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "...하지마!",
+      "ENGLISH": "...Stop it!",
+      "CHINESE_SIMPLIFIED": "…别别别!",
+      "CHINESE_TRADITIONAL": "…別別別!",
+      "JAPANESE": "…やめろよ！",
+      "INDONESIAN": "...Berhenti!",
+      "PORTUGUESE": "...Para com isso!",
+      "RUSSIAN": "...Хватит!",
+      "FRENCH": "... Arrête !",
+      "THAI": "...หยุดเลย!",
+      "PERSIAN": "... بس کن!"
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 좋게 좋게 가자고, 응?",
+      "ENGLISH": "So let’s just make a nice deal, okay?",
+      "CHINESE_SIMPLIFIED": "那就这么说定了, OK？",
+      "CHINESE_TRADITIONAL": "那就這麼說定了, OK？",
+      "JAPANESE": "だから、仲良くしていこうよ、ね？",
+      "INDONESIAN": "Jadi ayo kita bikin kesepakatan yang enak, ya?",
+      "PORTUGUESE": "Então vamos fazer um acordo legal, tá bom?",
+      "RUSSIAN": "Так что давай договоримся по-хорошему, ладно?",
+      "FRENCH": "Alors faisons un bon deal, d’accord ?",
+      "THAI": "งั้นเรามาตกลงกันดี ๆ นะ?",
+      "PERSIAN": "پس بیایید یک معامله خوب انجام دهیم، خوب؟"
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 29.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아 안 돼! 안 돼!",
+      "ENGLISH": "No way! No way!",
+      "CHINESE_SIMPLIFIED": "不行不行!",
+      "CHINESE_TRADITIONAL": "不行不行!",
+      "JAPANESE": "あ、ダメ！ダメだって！",
+      "INDONESIAN": "Nggak mau! Nggak mau!",
+      "PORTUGUESE": "De jeito nenhum! De jeito nenhum!",
+      "RUSSIAN": "Ни за что! Ни за что!",
+      "FRENCH": "Pas question ! Pas question !",
+      "THAI": "ไม่มีทาง! ไม่มีทาง!",
+      "PERSIAN": "به هیچ وجه! به هیچ وجه!"
+    },
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 31.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "아 몰라~ 돈 없어!",
+      "ENGLISH": "I don’t care~ I don’t have the money!",
+      "CHINESE_SIMPLIFIED": "不管~反正我没钱!",
+      "CHINESE_TRADITIONAL": "不管~反正我沒錢!",
+      "JAPANESE": "もう知らない～お金なんてないわ！",
+      "INDONESIAN": "Aku nggak peduli~ Aku nggak punya uang!",
+      "PORTUGUESE": "Não tô nem aí~ Eu não tenho dinheiro!",
+      "RUSSIAN": "Мне всё равно~ У меня нет денег!",
+      "FRENCH": "Je m’en fiche~ J’ai pas l’argent !",
+      "THAI": "ฉันไม่สน~ ฉันไม่มีเงิน!",
+      "PERSIAN": "برام مهم نیست ~ من پول ندارم!"
+    },
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 34.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "여기가 시내랑 가깝고 좋단 말이야.",
+      "ENGLISH": "This place is close to everything, and I really like it here.",
+      "CHINESE_SIMPLIFIED": "这里多好啊，离市中心那么近",
+      "CHINESE_TRADITIONAL": "這裏多好啊，離市中心那麼近",
+      "JAPANESE": "ここ街中にも近くて、いい場所なんだもん。",
+      "INDONESIAN": "Tempat ini deket ke mana-mana, dan aku beneran suka di sini.",
+      "PORTUGUESE": "Esse lugar é perto de tudo, e eu gosto muito daqui.",
+      "RUSSIAN": "Это место так удобно расположено, и мне здесь правда нравится.",
+      "FRENCH": "Cet endroit est pratique, et je l’aime vraiment ici.",
+      "THAI": "ที่นี่สะดวกมาก แล้วฉันก็ชอบที่นี่จริง ๆ.",
+      "PERSIAN": "این مکان به همه چیز نزدیک است و من واقعاً اینجا را دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 37.6
+    }
+  }
+]

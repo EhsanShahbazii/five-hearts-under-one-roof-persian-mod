@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Uh...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "발바닥?",
+      "ENGLISH": "Sole?",
+      "CHINESE_SIMPLIFIED": "脚底?",
+      "CHINESE_TRADITIONAL": "腳底?",
+      "JAPANESE": "足の裏？",
+      "INDONESIAN": "Telapak kaki?",
+      "PORTUGUESE": "A sola?",
+      "RUSSIAN": "На ступне?",
+      "FRENCH": "Sous le pied ?",
+      "THAI": "ตรงฝ่าเท้าเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니야... 그건 언니 거잖아...",
+      "ENGLISH": "No... that was Mal-sook's thing...",
+      "CHINESE_SIMPLIFIED": "不是…那是末淑的…",
+      "CHINESE_TRADITIONAL": "不是…那是末淑的…",
+      "JAPANESE": "違うよ…それはお姉ちゃんじゃん...",
+      "INDONESIAN": "Bukan... itu kan punyanya Mal-sook...",
+      "PORTUGUESE": "Não... isso era coisa da Mal-sook...",
+      "RUSSIAN": "Нет... это же у Мал-Сук было...",
+      "FRENCH": "Non... ça, c’était le truc de Mal-sook...",
+      "THAI": "ไม่ใช่... นั่นมันของมัลซุก..."
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 그걸 잊을 수가 있어...?",
+      "ENGLISH": "How could you forget...?",
+      "CHINESE_SIMPLIFIED": "你怎么能忘了呢…?",
+      "CHINESE_TRADITIONAL": "你怎麼能忘了呢…?",
+      "JAPANESE": "どうして、忘れたの…？",
+      "INDONESIAN": "Kok kamu bisa lupa...?",
+      "PORTUGUESE": "Como você pôde esquecer...?",
+      "RUSSIAN": "Как ты мог забыть...?",
+      "FRENCH": "Comment t’as pu oublier...?",
+      "THAI": "นายลืมไปได้ยังไง...?"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.7
+    }
+  }
+]

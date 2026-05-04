@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 어쩐 일로...",
+      "ENGLISH": "Why did you...?",
+      "CHINESE_SIMPLIFIED": "这是为什么…?",
+      "CHINESE_TRADITIONAL": "這是爲什麼…?",
+      "JAPANESE": "私、何でここに...",
+      "INDONESIAN": "Kenapa kamu…?",
+      "PORTUGUESE": "Por que você…?",
+      "RUSSIAN": "Почему ты...?",
+      "FRENCH": "Pourquoi tu as...?",
+      "THAI": "ทำไมเธอถึง...?",
+      "PERSIAN": "چرا کردی...؟"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그게 궁금했으면 진작 말을 하지...",
+      "ENGLISH": "If you were curious, you should have asked earlier. ",
+      "CHINESE_SIMPLIFIED": "好奇的话应该早点问啊…",
+      "CHINESE_TRADITIONAL": "好奇的話應該早點問啊…",
+      "JAPANESE": "もっと早く言えばよかったのに…",
+      "INDONESIAN": "Kalau penasaran, harusnya tanya dari tadi.",
+      "PORTUGUESE": "Se estava curioso, devia ter perguntado antes.",
+      "RUSSIAN": "Если тебе было любопытно, нужно было спросить раньше.",
+      "FRENCH": "Si tu étais curieux(se), tu aurais dû demander plus tôt.",
+      "THAI": "ถ้าเธออยากรู้อยู่แล้ว ก็น่าจะถามตั้งแต่แรก",
+      "PERSIAN": "اگر کنجکاو بودید، باید زودتر می پرسیدید."
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나 시간 낭비하는 거 싫어하는 거 알면서.",
+      "ENGLISH": "You know I hate wasting time.",
+      "CHINESE_SIMPLIFIED": "明知道我不喜欢浪费时间",
+      "CHINESE_TRADITIONAL": "明知道我不喜歡浪費時間",
+      "JAPANESE": "私、時間を無駄にするのが嫌いって知ってるでしょ。",
+      "INDONESIAN": "Kamu tahu kan aku benci buang-buang waktu.",
+      "PORTUGUESE": "Sabe que eu odeio perder tempo.",
+      "RUSSIAN": "Ты же знаешь, как я ненавижу тратить время зря.",
+      "FRENCH": "Tu sais que je déteste perdre du temps.",
+      "THAI": "เธอรู้ว่าฉันไม่ชอบเสียเวลา",
+      "PERSIAN": "میدونی از اتلاف وقت متنفرم"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 9.5
+    }
+  }
+]

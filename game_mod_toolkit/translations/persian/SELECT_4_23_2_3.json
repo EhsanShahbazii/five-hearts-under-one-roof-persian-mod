@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야.",
+      "ENGLISH": "Hey.",
+      "CHINESE_SIMPLIFIED": "喂!",
+      "CHINESE_TRADITIONAL": "喂!",
+      "JAPANESE": "ちょっと、あんた！",
+      "INDONESIAN": "Hei.",
+      "PORTUGUESE": "Ei.",
+      "RUSSIAN": "Эй.",
+      "FRENCH": "Hé.",
+      "THAI": "เฮ้",
+      "PERSIAN": "هووی!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐!",
+      "ENGLISH": "What!",
+      "CHINESE_SIMPLIFIED": "干吗?",
+      "CHINESE_TRADITIONAL": "幹嗎?",
+      "JAPANESE": "何だよ。",
+      "INDONESIAN": "Apa!",
+      "PORTUGUESE": "O quê!",
+      "RUSSIAN": "Что!",
+      "FRENCH": "Quoi !",
+      "THAI": "อะไร!",
+      "PERSIAN": "What!"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "주워.",
+      "ENGLISH": "Pick it up.",
+      "CHINESE_SIMPLIFIED": "捡起来!",
+      "CHINESE_TRADITIONAL": "撿起來!",
+      "JAPANESE": "拾いなさいよ。",
+      "INDONESIAN": "Ambil itu.",
+      "PORTUGUESE": "Pega isso.",
+      "RUSSIAN": "Подними это.",
+      "FRENCH": "Ramasse ça.",
+      "THAI": "เก็บขึ้นมา",
+      "PERSIAN": "اونو بردارید."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐...",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "何を…",
+      "INDONESIAN": "Apa...?",
+      "PORTUGUESE": "O quê...?",
+      "RUSSIAN": "Что...?",
+      "FRENCH": "Quoi...?",
+      "THAI": "อะไรนะ...?",
+      "PERSIAN": "What...?"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "주우라고 했다.",
+      "ENGLISH": "I said, pick it up.",
+      "CHINESE_SIMPLIFIED": "我说过了让你捡起来",
+      "CHINESE_TRADITIONAL": "我說過了讓你撿起來",
+      "JAPANESE": "拾えって言っるでしょ。",
+      "INDONESIAN": "Aku bilang, ambil itu.",
+      "PORTUGUESE": "Eu disse, pega isso.",
+      "RUSSIAN": "Я сказал, подними это.",
+      "FRENCH": "J’ai dit, ramasse ça.",
+      "THAI": "ฉันบอกว่า เก็บมันขึ้นมา",
+      "PERSIAN": "گفتم بردار."
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그니까 뭘...",
+      "ENGLISH": "What am I supposed to pick up...?",
+      "CHINESE_SIMPLIFIED": "所以说…捡什么啊…",
+      "CHINESE_TRADITIONAL": "所以說…撿什麼啊…",
+      "JAPANESE": "だから何を…",
+      "INDONESIAN": "Ambil apa sih...?",
+      "PORTUGUESE": "O que é pra eu pegar...?",
+      "RUSSIAN": "Что я должен поднять...?",
+      "FRENCH": "Je dois ramasser quoi...?",
+      "THAI": "ให้ฉันเก็บอะไรนะ...?",
+      "PERSIAN": "چی بردارم...؟"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "동전.",
+      "ENGLISH": "The coins.",
+      "CHINESE_SIMPLIFIED": "硬币",
+      "CHINESE_TRADITIONAL": "硬幣",
+      "JAPANESE": "お金よ。",
+      "INDONESIAN": "Koinnya.",
+      "PORTUGUESE": "As moedas.",
+      "RUSSIAN": "Монеты.",
+      "FRENCH": "Les pièces.",
+      "THAI": "เหรียญ",
+      "PERSIAN": "سکه ها"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그니까 동전이라고 처음부터 얘기했으면 빨리 내가 주웠지.",
+      "ENGLISH": "If you’d said that from the start, I would’ve picked them up already...",
+      "CHINESE_SIMPLIFIED": "你早说捡硬币的话我不就捡了吗…",
+      "CHINESE_TRADITIONAL": "你早說撿硬幣的話我不就撿了嗎…",
+      "JAPANESE": "最初から硬貨だって言ってたら、早く拾ってたよ。",
+      "INDONESIAN": "Kalau dari tadi kamu bilang begitu, udah aku ambil!",
+      "PORTUGUESE": "Se você tivesse falado isso desde o começo, eu já teria pegado...",
+      "RUSSIAN": "Если бы ты сказал это сразу, я бы уже поднял...",
+      "FRENCH": "Si tu l’avais dit dès le début, je les aurais déjà ramassées...",
+      "THAI": "ถ้าบอกมาตั้งแต่แรก ฉันคงเก็บไปแล้ว...",
+      "PERSIAN": "اگر اینو از ابتدا می گفتید، قبلاً اونا رو انتخاب می کردم ..."
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 13.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "이, 이렇게?",
+      "ENGLISH": "Like this? ",
+      "CHINESE_SIMPLIFIED": "你看我多会捡!",
+      "CHINESE_TRADITIONAL": "你看我多會撿!",
+      "JAPANESE": "こ、こうやって？",
+      "INDONESIAN": "Kayak gini?",
+      "PORTUGUESE": "Assim?",
+      "RUSSIAN": "Вот так?",
+      "FRENCH": "Comme ça ?",
+      "THAI": "แบบนี้เหรอ?",
+      "PERSIAN": "Like this?"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "너 여기서 뭐 해?",
+      "ENGLISH": "What are you doing here?",
+      "CHINESE_SIMPLIFIED": "你站在这干什么?",
+      "CHINESE_TRADITIONAL": "你站在這幹什麼?",
+      "JAPANESE": "君、ここで何してるの？",
+      "INDONESIAN": "Ngapain kamu di sini?",
+      "PORTUGUESE": "O que você tá fazendo aqui?",
+      "RUSSIAN": "Что ты здесь делаешь?",
+      "FRENCH": "Qu’est-ce que tu fais là ?",
+      "THAI": "เธอมาทำอะไรที่นี่?",
+      "PERSIAN": "شما اینجا چی می‌خواین دیگه؟"
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 16.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "내가 시키는 건 다 했어?",
+      "ENGLISH": "Did you finish everything I told you to do?",
+      "CHINESE_SIMPLIFIED": "我吩咐你的事都做完了吗?",
+      "CHINESE_TRADITIONAL": "我吩咐你的事都做完了嗎?",
+      "JAPANESE": "私が言ったことは全部やったの？",
+      "INDONESIAN": "Kamu udah selesai kerjain semuanya yang aku suruh?",
+      "PORTUGUESE": "Você terminou tudo que eu te mandei fazer?",
+      "RUSSIAN": "Ты закончил всё, что я велел тебе сделать?",
+      "FRENCH": "T’as fini tout ce que je t’ai demandé ?",
+      "THAI": "เธอทำทุกอย่างที่ฉันบอกเสร็จหรือยัง?",
+      "PERSIAN": "هر کاری که بهت گفتم تموم کردی؟"
+    },
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어, 어...",
+      "ENGLISH": "Y-yeah...",
+      "CHINESE_SIMPLIFIED": "嗯…嗯",
+      "CHINESE_TRADITIONAL": "嗯…嗯",
+      "JAPANESE": "う、うん…",
+      "INDONESIAN": "Y-yah...",
+      "PORTUGUESE": "S-sim...",
+      "RUSSIAN": "Д-да...",
+      "FRENCH": "O-ouais...",
+      "THAI": "เ-เสร็จแล้ว...",
+      "PERSIAN": "آ... آره..."
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.4
+    }
+  }
+]

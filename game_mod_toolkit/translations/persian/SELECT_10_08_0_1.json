@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고은비!",
+      "ENGLISH": "Eun-bi!",
+      "CHINESE_SIMPLIFIED": "高恩妃!",
+      "CHINESE_TRADITIONAL": "高恩妃!",
+      "JAPANESE": "ウンビ！",
+      "INDONESIAN": "Eun-bi!",
+      "PORTUGUESE": "Eun-bi!",
+      "RUSSIAN": "Ын-би!",
+      "FRENCH": "Eun-bi !",
+      "THAI": "อึนบี!",
+      "PERSIAN": "یون بی!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "고은비!",
+      "ENGLISH": "Eun-bi!!",
+      "CHINESE_SIMPLIFIED": "高恩妃!",
+      "CHINESE_TRADITIONAL": "高恩妃!",
+      "JAPANESE": "ウンビ！",
+      "INDONESIAN": "Eun-bi!!",
+      "PORTUGUESE": "Eun-bi!!",
+      "RUSSIAN": "Ын-би!!",
+      "FRENCH": "Eun-bi !!",
+      "THAI": "อึนบี!!",
+      "PERSIAN": "یون بی!!"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜!!",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "哎呀, 干嘛呀~",
+      "CHINESE_TRADITIONAL": "哎呀, 幹嘛呀~",
+      "JAPANESE": "何よ！！",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไร?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ。",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijinho*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bisou",
+      "THAI": "จุ๊บ",
+      "PERSIAN": "*پیک*"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.7
+    }
+  }
+]

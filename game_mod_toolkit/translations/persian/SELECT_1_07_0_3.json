@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 청소를 잘 못 해서...",
+      "ENGLISH": "I’m not good at cleaning...",
+      "CHINESE_SIMPLIFIED": "我不太会扫地...",
+      "CHINESE_TRADITIONAL": "我不太會掃地...",
+      "JAPANESE": "俺、掃除があまり上手くなくて…",
+      "INDONESIAN": "Aku nggak jago bersih-bersih...",
+      "PORTUGUESE": "Eu não sou bom em limpar...",
+      "RUSSIAN": "Я не умею убираться...",
+      "FRENCH": "J’suis pas doué pour le ménage...",
+      "THAI": "ฉันไม่เก่งเรื่องทำความสะอาด...",
+      "PERSIAN": "من در تمیز کردن خوب نیستم ..."
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요...",
+      "ENGLISH": "So, It’s okay...",
+      "CHINESE_SIMPLIFIED": "再说吧...",
+      "CHINESE_TRADITIONAL": "再說吧...",
+      "JAPANESE": "大丈夫です…",
+      "INDONESIAN": "Udah, nggak apa-apa...",
+      "PORTUGUESE": "Tudo bem...",
+      "RUSSIAN": "Да всё нормально.",
+      "FRENCH": "C’est bon, t’inquiète...",
+      "THAI": "ไม่เป็นไรหรอก...",
+      "PERSIAN": "پس اشکالی نداره..."
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "남자 새끼가 패기가 없어.",
+      "ENGLISH": "You’re a guy, show some guts.",
+      "CHINESE_SIMPLIFIED": "你一个大男人怎么这么窝囊呢!",
+      "CHINESE_TRADITIONAL": "你一個大男人怎麼這麼窩囊呢!",
+      "JAPANESE": "男のくせに気合いが足りねぇな。",
+      "INDONESIAN": "Kamu kan cowok, tunjukin dong nyalimu.",
+      "PORTUGUESE": "Você é homem, mostra coragem.",
+      "RUSSIAN": "Ты же парень, прояви характер.",
+      "FRENCH": "T’es un mec, montre un peu de courage.",
+      "THAI": "เป็นผู้ชายหน่อยสิ แสดงความกล้าหน่อย",
+      "PERSIAN": "شما یک پسر هستید، کمی جرات نشان دهید."
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Чё?",
+      "FRENCH": "Hein ?",
+      "THAI": "หา?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮은데...",
+      "ENGLISH": "It’s fine...",
+      "CHINESE_SIMPLIFIED": "我觉得还好啊…",
+      "CHINESE_TRADITIONAL": "我覺得還好啊…",
+      "JAPANESE": "大丈夫なんですけど…",
+      "INDONESIAN": "Udah, nggak apa-apa...",
+      "PORTUGUESE": "Tá tranquilo...",
+      "RUSSIAN": "Всё в порядке...",
+      "FRENCH": "Ça va...",
+      "THAI": "ไม่เป็นไร...",
+      "PERSIAN": "خوبه..."
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "야 내가 너 때렸냐? 아 어깨 좀 피고~",
+      "ENGLISH": "Did I hit you? Straighten up!",
+      "CHINESE_SIMPLIFIED": "喂！我是对你动手了还是怎么的?你能不能抬头挺胸!",
+      "CHINESE_TRADITIONAL": "喂！我是對你動手了還是怎麼的?你能不能擡頭挺胸!",
+      "JAPANESE": "おい、俺がお前を殴ったことあるか？堂々としろよ～",
+      "INDONESIAN": "Aku mukul kamu, ya? Tegap dikit!",
+      "PORTUGUESE": "Eu te acertei? Fica mais reto aí!",
+      "RUSSIAN": "Я тебя задел? Выпрямись!",
+      "FRENCH": "Je t’ai tapé ? Tiens-toi droit !",
+      "THAI": "ฉันตีโดนเหรอ? ยืนตัวตรงหน่อย!",
+      "PERSIAN": "من تو را زدم؟ صاف کن!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 오빠 왜 이래 그만해! 애 무섭게",
+      "ENGLISH": "Hey, why are you scaring the kid? Cut it out!",
+      "CHINESE_SIMPLIFIED": "哥你差不得多了！怪吓人的。",
+      "CHINESE_TRADITIONAL": "哥你差不得多了！怪嚇人的。",
+      "JAPANESE": "ちょっと、やめてよ！怖いって。",
+      "INDONESIAN": "Hei, kenapa nakutin anak itu? Udahan deh!",
+      "PORTUGUESE": "Ei, por que tá assustando o garoto? Para com isso!",
+      "RUSSIAN": "Эй, зачем пугаешь парня? Прекрати!",
+      "FRENCH": "Hé, pourquoi tu l’intimides ? Arrête ça !",
+      "THAI": "เฮ้ ทำไมต้องขู่เด็กด้วย? พอได้แล้ว!",
+      "PERSIAN": "هی، چرا بچه را می ترسانی؟ قطعش کن!"
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "너 이거나 챙겨서 얼른 나가.",
+      "ENGLISH": "Take this and get out.",
+      "CHINESE_SIMPLIFIED": "你拿着简历赶紧走吧。",
+      "CHINESE_TRADITIONAL": "你拿着簡歷趕緊走吧。",
+      "JAPANESE": "これでも持ってさっさと出て行って。",
+      "INDONESIAN": "Ambil ini dan pergi.",
+      "PORTUGUESE": "Pega isso e sai daqui.",
+      "RUSSIAN": "Забирай это и уходи.",
+      "FRENCH": "Prends ça et tire-toi.",
+      "THAI": "เอ้านี่ เอาไปแล้วไปซะ",
+      "PERSIAN": "اینو بگیر و برو بیرون"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "어 말숙아 고마워. 나, 나 간다...!",
+      "ENGLISH": "Thanks, Malsook, I’m outta here!",
+      "CHINESE_SIMPLIFIED": "谢谢你啊，末淑，我…先走了!",
+      "CHINESE_TRADITIONAL": "謝謝你啊，末淑，我…先走了!",
+      "JAPANESE": "あ、ありがとう。またな…！",
+      "INDONESIAN": "Makasih, Mal-sook, aku cabut!",
+      "PORTUGUESE": "Valeu, Mal-sook, tô vazando!",
+      "RUSSIAN": "Спасибо, Мал-сук, я сваливаю!",
+      "FRENCH": "Merci, Mal-sook, je me casse !",
+      "THAI": "ขอบใจนะ มัลซุก ฉันไปละ!",
+      "PERSIAN": "ممنون، مال‌سوک، من از اینجا خارج شدم!"
+    },
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 23.9
+    }
+  }
+]

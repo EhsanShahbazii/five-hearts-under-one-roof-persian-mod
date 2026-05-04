@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와...",
+      "ENGLISH": "Wow...",
+      "CHINESE_SIMPLIFIED": "哇…",
+      "CHINESE_TRADITIONAL": "哇…",
+      "JAPANESE": "わあ…",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Uau...",
+      "RUSSIAN": "Вау...",
+      "FRENCH": "Waouh...",
+      "THAI": "ว้าว..."
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이런 거 많이 안 입어봐서...",
+      "ENGLISH": "I haven't worn something like this much...",
+      "CHINESE_SIMPLIFIED": "我没怎么穿过这种衣服…",
+      "CHINESE_TRADITIONAL": "我沒怎麼穿過這種衣服…",
+      "JAPANESE": "こういうのあまり着たことなくて…",
+      "INDONESIAN": "Aku jarang banget pakai yang kayak begini...",
+      "PORTUGUESE": "Faz tempo que eu não uso algo assim...",
+      "RUSSIAN": "Я такое редко надеваю...",
+      "FRENCH": "Je porte rarement ce genre de choses...",
+      "THAI": "ฉันไม่ค่อยได้ใส่แบบนี้เลย..."
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "다른거 입을까요?",
+      "ENGLISH": "Should I try something else?",
+      "CHINESE_SIMPLIFIED": "要不我试试别的?",
+      "CHINESE_TRADITIONAL": "要不我試試別的?",
+      "JAPANESE": "別のにしましょうか？",
+      "INDONESIAN": "Haruskah aku coba yang lain?",
+      "PORTUGUESE": "Devo tentar outra coisa?",
+      "RUSSIAN": "Мне попробовать что-то другое?",
+      "FRENCH": "Je devrais essayer autre chose ?",
+      "THAI": "จะลองอย่างอื่นดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨, 아뇨, 아뇨!",
+      "ENGLISH": "No, no, no!",
+      "CHINESE_SIMPLIFIED": "不, 不, 不用!",
+      "CHINESE_TRADITIONAL": "不, 不, 不用!",
+      "JAPANESE": "いやいや、",
+      "INDONESIAN": "Enggak, enggak, enggak!",
+      "PORTUGUESE": "Não, não, não!",
+      "RUSSIAN": "Нет-нет-нет!",
+      "FRENCH": "Non, non, non !",
+      "THAI": "ไม่ๆๆ!"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "무조건 이거 입고 나가요! 무조건!",
+      "ENGLISH": "Let's wear this out for sure!",
+      "CHINESE_SIMPLIFIED": "就穿这件出去吧!就这件!",
+      "CHINESE_TRADITIONAL": "就穿這件出去吧!就這件!",
+      "JAPANESE": "これにしましょう！",
+      "INDONESIAN": "Kita harus pakai ini keluar!",
+      "PORTUGUESE": "A gente tem que usar isso com certeza!",
+      "RUSSIAN": "Давай обязательно наденем это!",
+      "FRENCH": "Portons ça, c’est sûr !",
+      "THAI": "ใส่อันนี้แหละไปแน่ๆ!"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아...네..!",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "啊…好…",
+      "CHINESE_TRADITIONAL": "啊…好…",
+      "JAPANESE": "あ…はい…！",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tá bom...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "โอเค..."
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.0
+    }
+  }
+]

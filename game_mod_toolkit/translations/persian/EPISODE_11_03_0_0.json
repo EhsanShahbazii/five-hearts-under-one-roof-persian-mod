@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "유만님이 걸은 자물쇠 색 기억나요?",
+      "ENGLISH": "Do you remember the color of it?",
+      "CHINESE_SIMPLIFIED": "您还记得锁的颜色吗?",
+      "CHINESE_TRADITIONAL": "您還記得鎖的顏色嗎?",
+      "JAPANESE": "ユマンさんがかけた錠の色、覚えてますか？",
+      "INDONESIAN": "Kamu ingat warnanya?",
+      "PORTUGUESE": "Você se lembra da cor?",
+      "RUSSIAN": "Ты помнишь, какого это было цвета?",
+      "FRENCH": "Tu te souviens de la couleur que c’était ?",
+      "THAI": "คุณจำสีของมันได้ไหม?",
+      "PERSIAN": "رنگش یادت هست؟"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.0
+    }
+  }
+]

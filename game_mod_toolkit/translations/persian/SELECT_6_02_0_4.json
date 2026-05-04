@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "전 나무요!",
+      "ENGLISH": "It's wood!",
+      "CHINESE_SIMPLIFIED": "我觉得树最重要!",
+      "CHINESE_TRADITIONAL": "我覺得樹最重要!",
+      "JAPANESE": "木かな！",
+      "INDONESIAN": "Aku pilih kayu!",
+      "PORTUGUESE": "Eu escolho a madeira!",
+      "RUSSIAN": "Это дерево!",
+      "FRENCH": "C’est du bois !",
+      "THAI": "นี่คือไม้!",
+      "PERSIAN": "چوب است!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.7
+    }
+  }
+]

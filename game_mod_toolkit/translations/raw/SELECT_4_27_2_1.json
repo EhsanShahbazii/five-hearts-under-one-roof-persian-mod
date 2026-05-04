@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "에이~ 장난이야~",
+      "ENGLISH": "Hey, I was just kidding!",
+      "CHINESE_SIMPLIFIED": "我开玩笑的!",
+      "CHINESE_TRADITIONAL": "我開玩笑的!",
+      "JAPANESE": "冗談だよ~",
+      "INDONESIAN": "Hei, aku cuma bercanda!",
+      "PORTUGUESE": "Ei, eu só tava brincando!",
+      "RUSSIAN": "Эй, я просто шучу!",
+      "FRENCH": "Hé, je rigolais !",
+      "THAI": "เฮ้ ฉันล้อเล่นน่ะ!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너가 제일 좋지!",
+      "ENGLISH": "You know you’re my favorite!",
+      "CHINESE_SIMPLIFIED": "我当然是最喜欢你了!",
+      "CHINESE_TRADITIONAL": "我當然是最喜歡你了!",
+      "JAPANESE": "お前が一番いいよ！",
+      "INDONESIAN": "Kamu tahu kamu favoritku!",
+      "PORTUGUESE": "Você sabe que você é a minha favorita!",
+      "RUSSIAN": "Ты знаешь, что ты моя любимая!",
+      "FRENCH": "Tu sais bien que c’est toi ma préférée !",
+      "THAI": "เธอรู้ว่าเธอเป็นคนโปรดของฉัน!"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야~",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么呀~",
+      "CHINESE_TRADITIONAL": "什麼呀~",
+      "JAPANESE": "何よ~",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 4.57,
+      "HIDE": 5.7
+    }
+  }
+]

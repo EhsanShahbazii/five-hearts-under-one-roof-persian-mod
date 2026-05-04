@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다...!",
+      "ENGLISH": "Thanks...!",
+      "CHINESE_SIMPLIFIED": "谢谢…！",
+      "CHINESE_TRADITIONAL": "謝謝…！",
+      "JAPANESE": "ありがとうございます…！",
+      "INDONESIAN": "Makasih...!",
+      "PORTUGUESE": "Obrigado...!",
+      "RUSSIAN": "Спасибо…!",
+      "FRENCH": "Merci… !",
+      "THAI": "ขอบคุณนะ...!",
+      "PERSIAN": "ممنون...!"
+    },
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "덕분에 배가 좀 찼어요...!",
+      "ENGLISH": "I’m feeling a bit full now...!",
+      "CHINESE_SIMPLIFIED": "多亏有您我才能填饱肚子…!",
+      "CHINESE_TRADITIONAL": "多虧有您我才能填飽肚子…!",
+      "JAPANESE": "おかげで少しお腹いっぱいになりました…！",
+      "INDONESIAN": "Aku agak kenyang sekarang...!",
+      "PORTUGUESE": "Estou me sentindo meio cheio agora...!",
+      "RUSSIAN": "Я уже наелся...!",
+      "FRENCH": "Je me sens déjà un peu rassasié… !",
+      "THAI": "ผมเริ่มอิ่มนิดหน่อยแล้ว...!",
+      "PERSIAN": "الان یه کم احساس سیری میکنم...!"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우유만으로 되겠어요?",
+      "ENGLISH": "Just milk is enough?",
+      "CHINESE_SIMPLIFIED": "你只喝牛奶就够了吗?",
+      "CHINESE_TRADITIONAL": "你只喝牛奶就夠了嗎?",
+      "JAPANESE": "牛乳だけで大丈夫ですか？",
+      "INDONESIAN": "Cuma susu aja cukup?",
+      "PORTUGUESE": "Só leite já é suficiente?",
+      "RUSSIAN": "Тебе и правда хватает только молока?",
+      "FRENCH": "Juste du lait, ça te suffit vraiment ?",
+      "THAI": "แค่นมพอจริงๆ เหรอ?",
+      "PERSIAN": "فقط شیر کافیه؟"
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.2
+    }
+  }
+]

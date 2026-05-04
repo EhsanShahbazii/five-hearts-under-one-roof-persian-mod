@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐예요...?",
+      "ENGLISH": "What this...",
+      "CHINESE_SIMPLIFIED": "这是什么…?",
+      "CHINESE_TRADITIONAL": "這是什麼…?",
+      "JAPANESE": "何ですか…？",
+      "INDONESIAN": "Apa ini...",
+      "PORTUGUESE": "O que é isso...",
+      "RUSSIAN": "Что это...",
+      "FRENCH": "Qu’est-ce que c’est...",
+      "THAI": "อะไรน่ะ...",
+      "PERSIAN": "این چیه..."
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "(유만의 강력한 방구소리)",
+      "ENGLISH": "(Yuman's loud fart)",
+      "CHINESE_SIMPLIFIED": "（宥万巨响的屁声）",
+      "CHINESE_TRADITIONAL": "（宥萬巨響的屁聲）",
+      "JAPANESE": "（ユマンの強烈なおならの音）",
+      "INDONESIAN": "(Bunyi kentut keras Yuman)",
+      "PORTUGUESE": "(Pum alto do Yuman)",
+      "RUSSIAN": "(Громкий пук Юмана)",
+      "FRENCH": "(Le pet bruyant de Yuman)",
+      "THAI": "(เสียงตดดังของยูมัน)",
+      "PERSIAN": "(گوز بلند یومان)"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "민정 씨! 지금이에요!",
+      "ENGLISH": "Min-jung, now’s the time!",
+      "CHINESE_SIMPLIFIED": "敏静我们赶紧走!",
+      "CHINESE_TRADITIONAL": "敏靜我們趕緊走!",
+      "JAPANESE": "ミンジョンさん！今です！",
+      "INDONESIAN": "Min-jung, sekarang waktunya!",
+      "PORTUGUESE": "Min-jung, é agora!",
+      "RUSSIAN": "Мин-Джун, сейчас самое время!",
+      "FRENCH": "Min-jung, c’est le moment !",
+      "THAI": "มินจอง ตอนนี้แหละ!",
+      "PERSIAN": "مین‌جونگ، الان وقتشه!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Okay...!",
+      "CHINESE_SIMPLIFIED": "好...!",
+      "CHINESE_TRADITIONAL": "好...!",
+      "JAPANESE": "は、はい…！",
+      "INDONESIAN": "Oke...!",
+      "PORTUGUESE": "Certo...!",
+      "RUSSIAN": "Ладно...!",
+      "FRENCH": "D’accord... !",
+      "THAI": "โอเค...!",
+      "PERSIAN": "باشه...!"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 15.8
+    }
+  }
+]

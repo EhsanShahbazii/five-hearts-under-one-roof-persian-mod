@@ -1,0 +1,41 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 여기서 지내게 해주면...",
+      "ENGLISH": "If you let me stay here...",
+      "CHINESE_SIMPLIFIED": "如果你答应让我住在这的话...",
+      "CHINESE_TRADITIONAL": "如果你答應讓我住在這的話...",
+      "JAPANESE": "ここに住まわせてくれたら…",
+      "INDONESIAN": "Kalau kamu izinin aku nginep di sini...",
+      "PORTUGUESE": "Se você me deixar ficar aqui...",
+      "RUSSIAN": "Если ты позволишь мне остаться...",
+      "FRENCH": "Si tu me laisses rester ici...",
+      "THAI": "ถ้านายให้ฉันอยู่ที่นี่...",
+      "PERSIAN": "اگه اجازه بدی اینجا بمونم..."
+    },
+    "TIME": {
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "내 거 빨 때 네 거도 빨게 해줄게!",
+      "ENGLISH": "I’ll do your laundry when I do mine!",
+      "CHINESE_SIMPLIFIED": "以后你的衣服我就全包啦!",
+      "CHINESE_TRADITIONAL": "以後你的衣服我就全包啦!",
+      "JAPANESE": "あんたの洗濯物も一緒に洗ってあげるよ！",
+      "INDONESIAN": "Aku bakal cuci cucianku sekalian sama punyamu!",
+      "PORTUGUESE": "Eu lavo suas roupas junto com as minhas!",
+      "RUSSIAN": "Я постираю твоё белье, когда буду стирать своё!",
+      "FRENCH": "Je laverai ton linge en même temps que le mien !",
+      "THAI": "ฉันจะซักผ้าให้นายพร้อมกับของฉันเลย!",
+      "PERSIAN": "من لباس هایت را می شوم وقتی لباس هایم را انجام دهم!"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.5
+    }
+  }
+]

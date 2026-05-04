@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "제가 도와드릴까요?",
+      "ENGLISH": "I’ll help you with that!",
+      "CHINESE_SIMPLIFIED": "需要我帮忙吗?",
+      "CHINESE_TRADITIONAL": "需要我幫忙嗎?",
+      "JAPANESE": "手伝いしましょうか？",
+      "INDONESIAN": "Aku bantuin kamu!",
+      "PORTUGUESE": "Eu te ajudo com isso!",
+      "RUSSIAN": "Я помогу тебе с этим!",
+      "FRENCH": "Je vais t’aider avec ça !",
+      "THAI": "เดี๋ยวฉันช่วยเอง!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어 괜찮아요!",
+      "ENGLISH": "Oh, it’s fine!",
+      "CHINESE_SIMPLIFIED": "啊，没关系的!",
+      "CHINESE_TRADITIONAL": "啊，沒關係的!",
+      "JAPANESE": "ああ、大丈夫ですよ！",
+      "INDONESIAN": "Oh, nggak apa-apa!",
+      "PORTUGUESE": "Ah, tá tudo bem!",
+      "RUSSIAN": "Да не, всё нормально!",
+      "FRENCH": "Oh, c’est bon !",
+      "THAI": "อ๋อ ไม่เป็นไร!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요!",
+      "ENGLISH": "No, really!",
+      "CHINESE_SIMPLIFIED": "还是我来吧!",
+      "CHINESE_TRADITIONAL": "還是我來吧!",
+      "JAPANESE": "いえいえ！",
+      "INDONESIAN": "Nggak, serius!",
+      "PORTUGUESE": "Não, sério!",
+      "RUSSIAN": "Правда!",
+      "FRENCH": "Si, vraiment !",
+      "THAI": "จริงๆ นะ!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "많이 무거워 보이는데 제가 할게요!",
+      "ENGLISH": "It looks heavy, I’ll take care of it!",
+      "CHINESE_SIMPLIFIED": "那个看起来很重!",
+      "CHINESE_TRADITIONAL": "那個看起來很重!",
+      "JAPANESE": "とても重そうですし、僕がやりますよ！",
+      "INDONESIAN": "Kelihatan berat, biar aku bantu!",
+      "PORTUGUESE": "Parece pesado, eu cuido disso!",
+      "RUSSIAN": "Выглядит тяжело, я сам разберусь!",
+      "FRENCH": "Ça a l’air lourd, je m’en occupe !",
+      "THAI": "มันดูหนักนะ เดี๋ยวฉันจัดการเอง!"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "읏짜~",
+      "ENGLISH": "Got it, thanks.",
+      "CHINESE_SIMPLIFIED": "嘿咻~",
+      "CHINESE_TRADITIONAL": "嘿咻~",
+      "JAPANESE": "よいしょ～！",
+      "INDONESIAN": "Oke, makasih.",
+      "PORTUGUESE": "Entendido, valeu.",
+      "RUSSIAN": "Понял, спасибо.",
+      "FRENCH": "D’accord, merci.",
+      "THAI": "โอเค ขอบใจนะ."
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.4
+    }
+  }
+]

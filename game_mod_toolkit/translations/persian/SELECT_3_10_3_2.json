@@ -1,0 +1,721 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그거 놓고 말하시죠.",
+      "ENGLISH": "Put that down and talk.",
+      "CHINESE_SIMPLIFIED": "你把手放开再说",
+      "CHINESE_TRADITIONAL": "你把手放開再說",
+      "JAPANESE": "手を放してもらいませんか？",
+      "INDONESIAN": "Turunin itu dan kita ngomong.",
+      "PORTUGUESE": "Larga isso e vamos conversar.",
+      "RUSSIAN": "Положи это и поговори.",
+      "FRENCH": "Pose ça et parle.",
+      "THAI": "วางนั่นลงแล้วคุยกันดี ๆ.",
+      "PERSIAN": "اینو بذار زمین و حرف بزن"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "你谁啊?",
+      "CHINESE_TRADITIONAL": "你誰啊?",
+      "JAPANESE": "何だよ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "남친은 아닌 거 같고....",
+      "ENGLISH": "He doesn’t seem like your boyfriend...",
+      "CHINESE_SIMPLIFIED": "看起来也不像是男朋友…",
+      "CHINESE_TRADITIONAL": "看起來也不像是男朋友…",
+      "JAPANESE": "彼氏ってわけじゃなさそうだし…",
+      "INDONESIAN": "Dia nggak kelihatan kayak pacar kamu...",
+      "PORTUGUESE": "Ele não parece ser seu namorado...",
+      "RUSSIAN": "Он не похож на твоего парня...",
+      "FRENCH": "Il n’a pas vraiment l’air d’être ton copain...",
+      "THAI": "เขาไม่ใช่แฟนเธอใช่ไหม...?",
+      "PERSIAN": "انگار دوست پسرت نیست..."
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "얘는 내..",
+      "ENGLISH": "He's my...",
+      "CHINESE_SIMPLIFIED": "他是我…",
+      "CHINESE_TRADITIONAL": "他是我…",
+      "JAPANESE": "この人は私の…",
+      "INDONESIAN": "Dia tuh...",
+      "PORTUGUESE": "Ele é meu...",
+      "RUSSIAN": "Он мой...",
+      "FRENCH": "C’est mon...",
+      "THAI": "เขาเป็น...",
+      "PERSIAN": "او من است ..."
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우리 애기한테 손대지 말라고!",
+      "ENGLISH": "Don’t touch my baby!",
+      "CHINESE_SIMPLIFIED": "我让你把手从我的宝宝身上拿开!",
+      "CHINESE_TRADITIONAL": "我讓你把手從我的寶寶身上拿開!",
+      "JAPANESE": "俺のハニーに手を出すな！",
+      "INDONESIAN": "Jangan sentuh sayangku!",
+      "PORTUGUESE": "Não toque no meu bebê!",
+      "RUSSIAN": "Не трогай моего малыша!",
+      "FRENCH": "Ne touche pas à mon bébé !",
+      "THAI": "อย่าแตะต้องที่รักของฉัน!",
+      "PERSIAN": "به کودک من دست نزن!"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "애, 애기....?",
+      "ENGLISH": "B-baby...?",
+      "CHINESE_SIMPLIFIED": "宝…宝宝?",
+      "CHINESE_TRADITIONAL": "寶…寶寶?",
+      "JAPANESE": "ハニー…？",
+      "INDONESIAN": "S-sayang...?",
+      "PORTUGUESE": "B-bebê...?",
+      "RUSSIAN": "М-малыш...?",
+      "FRENCH": "B-bébé...?",
+      "THAI": "ท-ที่รัก...?",
+      "PERSIAN": "ب عزیزم...؟"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그래!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "对啊!",
+      "CHINESE_TRADITIONAL": "對啊!",
+      "JAPANESE": "そうだよ！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Isso mesmo!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!",
+      "PERSIAN": "آره!"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "가냘퍼서 난 함부로 손도 못 대는 사람인데",
+      "ENGLISH": "She’s so delicate that I can't even touch him roughly.",
+      "CHINESE_SIMPLIFIED": "她娇嫩的皮肤我都不舍得碰一下!",
+      "CHINESE_TRADITIONAL": "她嬌嫩的皮膚我都不捨得碰一下!",
+      "JAPANESE": "俺にとっては、簡単に触れられない人なのに",
+      "INDONESIAN": "Dia lembut banget sampai aku aja nggak bisa kasar ke dia.",
+      "PORTUGUESE": "Ela é tão delicada que eu nem posso tratá-la com grosseria.",
+      "RUSSIAN": "Она такая нежная, что я даже не могу грубо её трогать.",
+      "FRENCH": "Elle est si délicate que je ne peux même pas la toucher brusquement.",
+      "THAI": "เธอบอบบางมากจนฉันแตะต้องแรง ๆ ไม่ได้.",
+      "PERSIAN": "او آنقدر ظریف است که من حتی نمی توانم اونو به شدت لمس کنم."
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "너가 뭔데 아프게 해!",
+      "ENGLISH": "Who are you to hurt him?",
+      "CHINESE_SIMPLIFIED": "你算老几啊弄疼她?",
+      "CHINESE_TRADITIONAL": "你算老幾啊弄疼她?",
+      "JAPANESE": "お前は何様のつもりになんだよ！",
+      "INDONESIAN": "Siapa kamu berani nyakitin dia?",
+      "PORTUGUESE": "Quem é você pra machucá-la?",
+      "RUSSIAN": "Кто ты такой, чтобы причинять ей боль?",
+      "FRENCH": "Et toi, tu oses lui faire du mal ?",
+      "THAI": "แล้วนายเป็นใครถึงกล้ามาทำให้เธอเจ็บ?",
+      "PERSIAN": "تو کی هستی که به او صدمه بزنی؟"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 존나 오글거려.",
+      "ENGLISH": "Wow, that’s so cringeworthy.",
+      "CHINESE_SIMPLIFIED": "妈呀，恶心死了",
+      "CHINESE_TRADITIONAL": "媽呀，噁心死了",
+      "JAPANESE": "何だよ、気持ち悪いな。",
+      "INDONESIAN": "Wah, gombal banget sih.",
+      "PORTUGUESE": "Nossa, que coisa brega.",
+      "RUSSIAN": "Вау, это так кринжово.",
+      "FRENCH": "Wow, c’est tellement cringe.",
+      "THAI": "ว้าว นี่มันน่าอายมาก.",
+      "PERSIAN": "وای، این خیلی ترسناک است."
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "우리 애기는",
+      "ENGLISH": "My baby doesn’t have time",
+      "CHINESE_SIMPLIFIED": "我们宝宝",
+      "CHINESE_TRADITIONAL": "我們寶寶",
+      "JAPANESE": "俺のハニーは",
+      "INDONESIAN": "Sayangku nggak punya waktu",
+      "PORTUGUESE": "Meu bebê não tem tempo",
+      "RUSSIAN": "У моего малыша нет времени",
+      "FRENCH": "Mon bébé n’a pas le temps",
+      "THAI": "ที่รักของฉันไม่มีเวลามาคิดเรื่องนายหรอก.",
+      "PERSIAN": "بچه من وقت نداره"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "너 생각할 겨를이 없어",
+      "ENGLISH": "To think about you",
+      "CHINESE_SIMPLIFIED": "没功夫搭理你",
+      "CHINESE_TRADITIONAL": "沒功夫搭理你",
+      "JAPANESE": "お前なんかと釣り合う暇なんかないんだよ。",
+      "INDONESIAN": "Buat mikirin kamu,",
+      "PORTUGUESE": "Pra pensar em você,",
+      "RUSSIAN": "думать о тебе.",
+      "FRENCH": "de penser à toi.",
+      "PERSIAN": "تا به تو فکر کنم"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나랑 연애하느라 바쁘거든",
+      "ENGLISH": "She's busy dating me. Got it?",
+      "CHINESE_SIMPLIFIED": "我们忙着恋爱呢",
+      "CHINESE_TRADITIONAL": "我們忙着戀愛呢",
+      "JAPANESE": "俺と恋愛するのに忙しいんだから",
+      "INDONESIAN": "Dia sibuk pacaran sama aku. Paham?",
+      "PORTUGUESE": "Ela tá ocupada namorando comigo. Entendeu?",
+      "RUSSIAN": "Она занята встречами со мной. Понял?",
+      "FRENCH": "Elle est trop occupée à sortir avec moi. Compris ?",
+      "THAI": "เธอยุ่งอยู่กับการเดทกับฉัน. เข้าใจไหม?",
+      "PERSIAN": "او مشغول قرار من است. متوجه شدید؟"
+    },
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 24.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "알아?!",
+      "ENGLISH": "Got it?",
+      "CHINESE_SIMPLIFIED": "听懂了吗?",
+      "CHINESE_TRADITIONAL": "聽懂了嗎?",
+      "JAPANESE": "分かったか？",
+      "INDONESIAN": "Paham?!",
+      "PORTUGUESE": "Entendeu?!",
+      "RUSSIAN": "Понял?",
+      "FRENCH": "Compris ?",
+      "THAI": "เข้าใจไหม?",
+      "PERSIAN": "فهمیدی پسرم؟"
+    },
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "야 동그란...",
+      "ENGLISH": "Dong Geu-ran...",
+      "CHINESE_SIMPLIFIED": "呀 佟圆圆...",
+      "CHINESE_TRADITIONAL": "呀 佟圓圓...",
+      "JAPANESE": "おい、グラン…",
+      "INDONESIAN": "Dong Geu-ran...",
+      "PORTUGUESE": "Dong Geu-ran...",
+      "RUSSIAN": "Дон Гё-ран...",
+      "FRENCH": "Dong Geu-ran...",
+      "THAI": "ดงกึรัน...",
+      "PERSIAN": "دونگ گئوران..."
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "이런 애나 만나고 많이 촌스러워졌다?",
+      "ENGLISH": "You’ve gotten so lame hanging out with this guy.",
+      "CHINESE_SIMPLIFIED": "你和这种人来往, 可真够土的",
+      "CHINESE_TRADITIONAL": "你和這種人來往, 可真夠土的",
+      "JAPANESE": "こんな奴と付き合うなんて、ダサくなったな？",
+      "INDONESIAN": "Kamu jadi payah gara-gara nongkrong sama orang ini.",
+      "PORTUGUESE": "Você ficou tão ridículo andando com esse cara.",
+      "RUSSIAN": "Ты стала такой скучной, тусуясь с этим парнем.",
+      "FRENCH": "Tu es devenue tellement ennuyeuse avec ce type.",
+      "THAI": "เธอหมองไปหมดเลยที่มาอยู่กับหมอนี่.",
+      "PERSIAN": "تو با این پسر خیلی لنگ شدی."
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 29.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "아닌데!",
+      "ENGLISH": "No way! ",
+      "CHINESE_SIMPLIFIED": "才不是!",
+      "CHINESE_TRADITIONAL": "纔不是!",
+      "JAPANESE": "違うわ！",
+      "INDONESIAN": "Nggak mungkin!",
+      "PORTUGUESE": "De jeito nenhum!",
+      "RUSSIAN": "Да нет!",
+      "FRENCH": "Pas du tout !",
+      "THAI": "ไม่จริง!",
+      "PERSIAN": "No way!"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 30.9
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "너가 촌스러운곤데!",
+      "ENGLISH": "You’re the lame one!",
+      "CHINESE_SIMPLIFIED": "土的人是你!",
+      "CHINESE_TRADITIONAL": "土的人是你!",
+      "JAPANESE": "ダサいのはお前だよ！",
+      "INDONESIAN": "Kamu yang payah!",
+      "PORTUGUESE": "Você que é o ridículo!",
+      "RUSSIAN": "Это ты скучный!",
+      "FRENCH": "C’est toi le nul !",
+      "THAI": "นายต่างหากที่น่าเบื่อ!",
+      "PERSIAN": "تو لنگی!"
+    },
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 32.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "그란이는 얘가 이럴 때마다 정말 똑땅해!",
+      "ENGLISH": "When you act like this it makes Dong Geu-ran so sad!",
+      "CHINESE_SIMPLIFIED": "这个人每次酱紫的时候圆圆的小心心都好痛痛!",
+      "CHINESE_TRADITIONAL": "這個人每次醬紫的時候圓圓的小心心都好痛痛!",
+      "JAPANESE": "グランは、この子がこうするたびに、ほんとぷんぷん怒ってるんだから！",
+      "INDONESIAN": "Kalau kamu kayak gini, Dong Geu-ran jadi sedih!",
+      "PORTUGUESE": "Quando você age assim, Dong Geu-ran fica muito triste!",
+      "RUSSIAN": "Когда ты так себя ведёшь, Дон Гё-ран становится грустной!",
+      "FRENCH": "Quand tu agis comme ça, tu rends Dong Geu-ran triste !",
+      "THAI": "เวลาเธอทำแบบนี้ ดงกึรันเสียใจนะ!",
+      "PERSIAN": "وقتی اینجوری رفتار میکنی دونگ گئوران خیلی ناراحت میشه!"
+    },
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 36.7
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "(...?)",
+      "ENGLISH": "(...?)",
+      "CHINESE_SIMPLIFIED": "(...?)",
+      "CHINESE_TRADITIONAL": "(...?)",
+      "JAPANESE": "（…？）",
+      "INDONESIAN": "(...?)",
+      "PORTUGUESE": "(...?)",
+      "RUSSIAN": "(...?)",
+      "FRENCH": "(...?)",
+      "THAI": "(...?)",
+      "PERSIAN": "(...؟)"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.2
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!",
+      "PERSIAN": "Oppa!"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 40.1
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "애기눈 오빠밖에 없눈데~",
+      "ENGLISH": "I only have eyes for you, but",
+      "CHINESE_SIMPLIFIED": "宝宝眼里只有哥哥~",
+      "CHINESE_TRADITIONAL": "寶寶眼裏只有哥哥~",
+      "JAPANESE": "私は、あなたしかいないのに",
+      "INDONESIAN": "Aku cuma punya mata buat kamu, tapi",
+      "PORTUGUESE": "Eu só tenho olhos pra você, mas",
+      "RUSSIAN": "Я смотрю только на тебя, но",
+      "FRENCH": "Je n’ai d’yeux que pour toi, mais",
+      "THAI": "ฉันมีแต่เธอคนเดียวในใจ แต่",
+      "PERSIAN": "من فقط به تو چشم دارم اما"
+    },
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 42.4
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "이상한 아저씨가 나타나소 너무 싫어요!",
+      "ENGLISH": "This weird guy showed up, and I hate it!",
+      "CHINESE_SIMPLIFIED": "宝宝好讨厌怪蜀黍!",
+      "CHINESE_TRADITIONAL": "寶寶好討厭怪蜀黍!",
+      "JAPANESE": "変なおじさんが急に出てきて、すごくイヤだ！",
+      "INDONESIAN": "Orang aneh ini muncul, dan aku benci!",
+      "PORTUGUESE": "Esse cara esquisito apareceu e eu odeio isso!",
+      "RUSSIAN": "этот странный тип появился, и я его ненавижу!",
+      "FRENCH": "ce mec bizarre est arrivé, et je le déteste !",
+      "THAI": "ผู้ชายแปลก ๆ คนนี้มาแล้วฉันเกลียดเขา!",
+      "PERSIAN": "این مرد عجیب و غریب ظاهر شد و من از اون متنفرم!"
+    },
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 45.1
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "힝! 힝!",
+      "ENGLISH": "Hmph! Hmph!",
+      "CHINESE_SIMPLIFIED": "哼!哼!",
+      "CHINESE_TRADITIONAL": "哼!哼!",
+      "JAPANESE": "ふん！ふん！",
+      "INDONESIAN": "Hmph! Hmph!",
+      "PORTUGUESE": "Hmph! Hmph!",
+      "RUSSIAN": "Хмпф! Хмпф!",
+      "FRENCH": "Hmpf ! Hmpf !",
+      "THAI": "ฮึ! ฮึ!",
+      "PERSIAN": "هومف! هومف!"
+    },
+    "TIME": {
+      "SHOW": 45.4,
+      "HIDE": 46.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "에이씨... ",
+      "ENGLISH": "Oh, my...",
+      "CHINESE_SIMPLIFIED": "什么鬼…",
+      "CHINESE_TRADITIONAL": "什麼鬼…",
+      "JAPANESE": "何だよ！",
+      "INDONESIAN": "Aduh...",
+      "PORTUGUESE": "Ai meu Deus...",
+      "RUSSIAN": "Ой, боже...",
+      "FRENCH": "Oh là là...",
+      "THAI": "โอ๊ย...",
+      "PERSIAN": "اوه من..."
+    },
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 48.3
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "왜 저래? 진짜!",
+      "ENGLISH": "Why is she like this?",
+      "CHINESE_SIMPLIFIED": "你想恶心死谁啊?受不了",
+      "CHINESE_TRADITIONAL": "你想噁心死誰啊?受不了",
+      "JAPANESE": "頭おかしくなったんじゃないか？",
+      "INDONESIAN": "Kenapa dia jadi gini sih?",
+      "PORTUGUESE": "Por que ela tá assim?",
+      "RUSSIAN": "Почему она такая?",
+      "FRENCH": "Pourquoi elle fait ça ?",
+      "THAI": "ทำไมเธอเป็นแบบนี้?",
+      "PERSIAN": "چرا او اینگونه است؟"
+    },
+    "TIME": {
+      "SHOW": 48.3,
+      "HIDE": 50.1
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "울 애기가 싫었구나~",
+      "ENGLISH": "Oh no, my baby doesn't like this!",
+      "CHINESE_SIMPLIFIED": "哎呦~我们宝宝讨厌的话",
+      "CHINESE_TRADITIONAL": "哎呦~我們寶寶討厭的話",
+      "JAPANESE": "俺のハニーが嫌がってるじゃないか～",
+      "INDONESIAN": "Aduh, sayangku nggak suka!",
+      "PORTUGUESE": "Ah não, meu bebê não gosta disso!",
+      "RUSSIAN": "О нет, моему малышу это не нравится!",
+      "FRENCH": "Oh non, mon bébé n’aime pas ça !",
+      "THAI": "โอ้ไม่! ที่รักของฉันไม่ชอบแบบนี้!",
+      "PERSIAN": "اوه نه، بچه من اینو دوست ندارد!"
+    },
+    "TIME": {
+      "SHOW": 50.1,
+      "HIDE": 52.2
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "아저씨 빨리 가요!! 훠이 훠이~!",
+      "ENGLISH": "Sir, please leave! Shoo shoo!",
+      "CHINESE_SIMPLIFIED": "怪叔叔得赶紧滚开啊!快滚快滚!",
+      "CHINESE_TRADITIONAL": "怪叔叔得趕緊滾開啊!快滾快滾!",
+      "JAPANESE": "おじさん、早くどっか行け！ホイホイ～！",
+      "INDONESIAN": "Pak, tolong pergi! Shoo shoo!",
+      "PORTUGUESE": "Senhor, por favor vá embora! Shoo shoo!",
+      "RUSSIAN": "Сэр, уходите! Кыш-кыш!",
+      "FRENCH": "Monsieur, partez d’ici ! Chut chut !",
+      "THAI": "คุณครับ ออกไปเลยนะ! ชิ่ว ชิ่ว!",
+      "PERSIAN": "آقا لطفا برو! شو شو!"
+    },
+    "TIME": {
+      "SHOW": 52.2,
+      "HIDE": 55.3
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "이씨...",
+      "ENGLISH": "Damn it...",
+      "CHINESE_SIMPLIFIED": "阿西…",
+      "CHINESE_TRADITIONAL": "阿西…",
+      "JAPANESE": "ほんと…",
+      "INDONESIAN": "Sial...",
+      "PORTUGUESE": "Droga...",
+      "RUSSIAN": "Чёрт...",
+      "FRENCH": "Merde...",
+      "THAI": "เวรเอ้ย...",
+      "PERSIAN": "Damn it..."
+    },
+    "TIME": {
+      "SHOW": 58.3,
+      "HIDE": 59.3
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "아야... 애기야 오빠 아파용.",
+      "ENGLISH": "Oh, ouch... Baby, oppa is hurt.",
+      "CHINESE_SIMPLIFIED": "哎呀…宝宝，哥哥好疼",
+      "CHINESE_TRADITIONAL": "哎呀…寶寶，哥哥好疼",
+      "JAPANESE": "あぁ…ハニー、痛いじゃないか～",
+      "INDONESIAN": "Aduh... Sayang, oppa sakit nih.",
+      "PORTUGUESE": "Ai, ai... Bebê, oppa tá machucado.",
+      "RUSSIAN": "Ой, ай... Малыш, оппе больно.",
+      "FRENCH": "Aïe... Bébé, oppa a mal.",
+      "THAI": "โอ๊ย! ที่รัก อปป้าเจ็บนะ.",
+      "PERSIAN": "اوه اوه... عزیزم یومان صدمه دیده."
+    },
+    "TIME": {
+      "SHOW": 59.3,
+      "HIDE": 62.0
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "애기?",
+      "ENGLISH": "Baby?",
+      "CHINESE_SIMPLIFIED": "宝宝?",
+      "CHINESE_TRADITIONAL": "寶寶?",
+      "JAPANESE": "ハニー？",
+      "INDONESIAN": "Sayang?",
+      "PORTUGUESE": "Bebê?",
+      "RUSSIAN": "Малыш?",
+      "FRENCH": "Bébé ?",
+      "THAI": "ที่รัก...?",
+      "PERSIAN": "عزیزم؟"
+    },
+    "TIME": {
+      "SHOW": 62.0,
+      "HIDE": 63.0
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "쪽팔리게 왜 이래 진짜!",
+      "ENGLISH": "This is so embarrassing!",
+      "CHINESE_SIMPLIFIED": "我都丢死人了!",
+      "CHINESE_TRADITIONAL": "我都丟死人了!",
+      "JAPANESE": "恥ずかしいから、ほんとやめてよね！",
+      "INDONESIAN": "Aduh, malu banget!",
+      "PORTUGUESE": "Que vergonha!",
+      "RUSSIAN": "Это так стыдно!",
+      "FRENCH": "C’est tellement embarrassant !",
+      "THAI": "น่าอายจัง!",
+      "PERSIAN": "این خیلی خجالت آور است!"
+    },
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 65.4
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "짜증나! 씨...",
+      "ENGLISH": "Ugh, I’m so annoyed!",
+      "CHINESE_SIMPLIFIED": "烦死了…",
+      "CHINESE_TRADITIONAL": "煩死了…",
+      "JAPANESE": "ムカつくわね、ほんと…",
+      "INDONESIAN": "Ugh, aku kesal!",
+      "PORTUGUESE": "Ugh, que irritante!",
+      "RUSSIAN": "Уф, как меня это бесит!",
+      "FRENCH": "Pff, ça m’énerve !",
+      "THAI": "โว้ย! รำคาญสุด ๆ!",
+      "PERSIAN": "اوه، من خیلی اذیت شدم!"
+    },
+    "TIME": {
+      "SHOW": 65.4,
+      "HIDE": 67.3
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "넌 주차나 하고 와.",
+      "ENGLISH": "Just park the car and come up.",
+      "CHINESE_SIMPLIFIED": "把车给我停好再上来!",
+      "CHINESE_TRADITIONAL": "把車給我停好再上來!",
+      "JAPANESE": "早く駐車して来て。",
+      "INDONESIAN": "Udah, parkir mobil dan naik ke atas.",
+      "PORTUGUESE": "Estaciona o carro e sobe.",
+      "RUSSIAN": "Просто припаркуй машину и поднимайся.",
+      "FRENCH": "Gare la voiture et monte.",
+      "THAI": "จอดรถแล้วขึ้นมาเลย.",
+      "PERSIAN": "فقط ماشین رو پارک کن و بیا بالا."
+    },
+    "TIME": {
+      "SHOW": 68.3,
+      "HIDE": 70.1
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "웅 애기야~ 주차 빨리하고 올라갈게용~",
+      "ENGLISH": "Okay, baby~ I’ll be up quickly after I park~",
+      "CHINESE_SIMPLIFIED": "知道了宝宝~哥哥把车停好就上去~",
+      "CHINESE_TRADITIONAL": "知道了寶寶~哥哥把車停好就上去~",
+      "JAPANESE": "ハニー、駐車して早く戻ってくるからね～",
+      "INDONESIAN": "Oke, sayang~ Aku bakal naik cepat setelah parkir~",
+      "PORTUGUESE": "Ok, bebê~ Vou subir rapidinho depois de estacionar~",
+      "RUSSIAN": "Окей, малыш~ Я быстро поднимусь, как припаркуюсь~",
+      "FRENCH": "D’accord, bébé~ Je monte vite après avoir garé !",
+      "THAI": "โอเค ที่รัก~ เดี๋ยวขึ้นไปทันทีหลังจอดรถ~",
+      "PERSIAN": "باشه عزیزم بعد از پارک کردن سریع بیدار میشم"
+    },
+    "TIME": {
+      "SHOW": 70.5,
+      "HIDE": 74.9
+    }
+  }
+]

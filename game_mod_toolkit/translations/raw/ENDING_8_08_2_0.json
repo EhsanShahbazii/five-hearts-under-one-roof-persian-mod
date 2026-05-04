@@ -1,0 +1,292 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "ENGLISH": "Alright, Min-jung, time to be completely honest.",
+      "CHINESE_SIMPLIFIED": "好的，请敏静如实回答",
+      "CHINESE_TRADITIONAL": "好的，請敏靜如實回答",
+      "JAPANESE": "ミンジョンさん、正直に答えてくださいね？",
+      "INDONESIAN": "Baiklah, Min-jung, sekarang saatnya jujur sepenuhnya.",
+      "PORTUGUESE": "Certo, Min-jung, hora de ser completamente honesta.",
+      "RUSSIAN": "Итак, Мин-джун, время быть абсолютно честной.",
+      "FRENCH": "Alors, Min-jung, c’est le moment d’être complètement honnête.",
+      "THAI": "เอาล่ะ มินจอง ได้เวลาตอบตรงๆ แบบไม่มีกั๊กแล้ว"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "ENGLISH": "On a scale of 1 to 10, how would you rate your looks?",
+      "CHINESE_SIMPLIFIED": "满分10分的话，你会给自己的颜值打几分?",
+      "CHINESE_TRADITIONAL": "滿分10分的話，你會給自己的顏值打幾分?",
+      "JAPANESE": "自分のルックスを10点満点で評価すると？",
+      "INDONESIAN": "Dalam skala 1 sampai 10, berapa kamu menilai penampilanmu?",
+      "PORTUGUESE": "Em uma escala de 1 a 10, como você avaliaria sua aparência?",
+      "RUSSIAN": "По шкале от 1 до 10, как бы ты оценила свою внешность?",
+      "FRENCH": "Sur une échelle de 1 à 10, comment évaluerais-tu ton apparence ?",
+      "THAI": "จากคะแนนเต็ม 10 คุณจะให้คะแนนความสวยของตัวเองเท่าไหร่?"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "ENGLISH": "Hmm... maybe a 6?",
+      "CHINESE_SIMPLIFIED": "6分?",
+      "CHINESE_TRADITIONAL": "6分?",
+      "JAPANESE": "うーん...6点かな？",
+      "INDONESIAN": "Hmm... mungkin 6?",
+      "PORTUGUESE": "Hmm... talvez um 6?",
+      "RUSSIAN": "Хмм... может быть, на шестерку?",
+      "FRENCH": "Hmm... peut-être un 6 ?",
+      "THAI": "อืม... สัก 6 ละมั้ง?"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "ENGLISH": "C’mon, you’re being too modest!",
+      "CHINESE_SIMPLIFIED": "请如实回答~",
+      "CHINESE_TRADITIONAL": "請如實回答~",
+      "JAPANESE": "ちょっと、謙遜しすぎじゃないですか～？",
+      "INDONESIAN": "Aduh, kamu terlalu merendah!",
+      "PORTUGUESE": "Ah, você está sendo muito modesta!",
+      "RUSSIAN": "Да ладно, ты слишком скромничаешь!",
+      "FRENCH": "Allez, tu es beaucoup trop modeste !",
+      "THAI": "โธ่เอ๊ย คุณถ่อมตัวเกินไปแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "ENGLISH": "Next question: would you trade your face for a random one if you got 10 million dollars?",
+      "CHINESE_SIMPLIFIED": "给你600万，你愿意随机换一张脸吗?",
+      "CHINESE_TRADITIONAL": "給你600萬，你願意隨機換一張臉嗎?",
+      "JAPANESE": "もし1億もらえるとしたら、他の顔に交換する？それとも、交換しない？",
+      "INDONESIAN": "Pertanyaan berikutnya: apakah kamu mau menukar wajahmu dengan yang acak kalau dapat 150 miliar Rupiah?",
+      "PORTUGUESE": "Próxima pergunta: você trocaria seu rosto por um aleatório se ganhasse 10 milhões de euros?",
+      "RUSSIAN": "Следующий вопрос: ты бы поменяла своё лицо на случайное, если бы получила 10 миллионов долларов?",
+      "FRENCH": "Question suivante : tu échangerais ton visage pour un autre aléatoire si tu recevais 10 millions de dollars ?",
+      "THAI": "คำถามต่อไป: ถ้าคุณจะได้ 10 ล้านดอลลาร์ คุณจะยอมแลกหน้าของตัวเองกับหน้าสุ่มไหม?"
+    },
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "ENGLISH": "Honestly... I’ll keep my face!",
+      "CHINESE_SIMPLIFIED": "说实话…不愿意哎~",
+      "CHINESE_TRADITIONAL": "說實話…不願意哎~",
+      "JAPANESE": "うーん... 顔はそのままで！",
+      "INDONESIAN": "Jujur saja... aku tetap pilih wajahku sendiri!",
+      "PORTUGUESE": "Sinceramente... eu ficaria com meu rosto!",
+      "RUSSIAN": "Честно говоря... я бы оставила своё!",
+      "FRENCH": "Franchement... je garde mon visage !",
+      "THAI": "พูดตรงๆ... ฉันขอเก็บหน้าของฉันไว้ดีกว่า!"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "ENGLISH": "Alright, next up!",
+      "CHINESE_SIMPLIFIED": "好的，下一题!",
+      "CHINESE_TRADITIONAL": "好的，下一題!",
+      "JAPANESE": "次の質問です！",
+      "INDONESIAN": "Baiklah, lanjut!",
+      "PORTUGUESE": "Certo, próxima!",
+      "RUSSIAN": "Хорошо, следующий вопрос!",
+      "FRENCH": "D’accord, prochaine question !",
+      "THAI": "โอเค ข้อถัดไป!"
+    },
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "ENGLISH": "o you have someone you like right now, yes or no?",
+      "CHINESE_SIMPLIFIED": "你现在有喜欢的人吗? 有vs没有",
+      "CHINESE_TRADITIONAL": "你現在有喜歡的人嗎? 有vs沒有",
+      "JAPANESE": "今、好きな人はいますか？",
+      "INDONESIAN": "Kamu punya seseorang yang kamu suka sekarang, ya atau tidak?",
+      "PORTUGUESE": "Você tem alguém de quem gosta agora, sim ou não?",
+      "RUSSIAN": "Есть ли кто-то, кто тебе нравится прямо сейчас, да или нет?",
+      "FRENCH": "Il y a quelqu’un qui te plaît en ce moment, oui ou non ?",
+      "THAI": "ตอนนี้คุณมีคนที่ชอบอยู่ไหม? ตอบแค่ใช่หรือไม่!"
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 32.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん...",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Uh...",
+      "RUSSIAN": "Ээ...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 33.2,
+      "HIDE": 34.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "ENGLISH": "...No!",
+      "CHINESE_SIMPLIFIED": "…没有!",
+      "CHINESE_TRADITIONAL": "…沒有!",
+      "JAPANESE": "...いません！",
+      "INDONESIAN": "...Tidak!",
+      "PORTUGUESE": "...Não!",
+      "RUSSIAN": "...Нет!",
+      "FRENCH": "...Non !",
+      "THAI": "...ไม่มี!"
+    },
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 39.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "ENGLISH": "That hesitation! You almost didn’t answer!",
+      "CHINESE_SIMPLIFIED": "哦？中间的停顿有猫腻!",
+      "CHINESE_TRADITIONAL": "哦？中間的停頓有貓膩!",
+      "JAPANESE": "お？その合間は何ですか～？",
+      "INDONESIAN": "Keraguan itu! Kamu hampir nggak menjawab!",
+      "PORTUGUESE": "Essa hesitação! Você quase não respondeu!",
+      "RUSSIAN": "Эта заминка! Ты чуть не прокололась!",
+      "FRENCH": "Cette hésitation ! Tu étais à deux doigts de ne pas répondre !",
+      "THAI": "การลังเลนั่น! คุณเกือบจะไม่ตอบแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 42.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "ENGLISH": "No, really!",
+      "CHINESE_SIMPLIFIED": "哈哈! 真的没有啦!",
+      "CHINESE_TRADITIONAL": "哈哈! 真的沒有啦!",
+      "JAPANESE": "いや、本当に！",
+      "INDONESIAN": "Tidak, serius!",
+      "PORTUGUESE": "Não, sério!",
+      "RUSSIAN": "Нет, честно!",
+      "FRENCH": "Non, je vous jure !",
+      "THAI": "ไม่มีจริงๆ นะ!"
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 44.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "ENGLISH": "Alright, we’ll keep an eye on you.",
+      "CHINESE_SIMPLIFIED": "那就让我们拭目以待!",
+      "CHINESE_TRADITIONAL": "那就讓我們拭目以待!",
+      "JAPANESE": "気を取り直して～",
+      "INDONESIAN": "Baiklah, kami akan mengawasimu.",
+      "PORTUGUESE": "Tudo bem, vamos ficar de olho em você.",
+      "RUSSIAN": "Ладно, будем держать тебя под наблюдением.",
+      "FRENCH": "D’accord, on va te surveiller de près.",
+      "THAI": "โอเค งั้นเราจะจับตาดูคุณไว้!"
+    },
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 46.9
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "ENGLISH": "Let’s see who’ll claim the title of 'Nation’s Little Sister’s Boyfriend'!",
+      "CHINESE_SIMPLIFIED": "到底是谁会征服国民妹妹的心~",
+      "CHINESE_TRADITIONAL": "到底是誰會征服國民妹妹的心~",
+      "JAPANESE": "「国民の妹 」の称号を 獲得するのは、誰だ！",
+      "INDONESIAN": "Kita lihat siapa yang akan mendapatkan gelar 'Nation’s Little Sister’s Boyfriend'!",
+      "PORTUGUESE": "Vamos ver quem vai conquistar o título de 'Nation’s Little Sister’s Boyfriend'!",
+      "RUSSIAN": "Посмотрим, кто станет тем самым \"бойфрендом нации\"!",
+      "FRENCH": "On verra qui remportera le titre de \"petit ami de la petite sœur nationale\" !",
+      "THAI": "รอดูว่าใครจะได้ตำแหน่ง “แฟนของน้องสาวตัวน้อยประจำชาติ”!"
+    },
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 49.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "지금까지 솔로로 돌아온 박민정 씨였습니다! 감사합니다!",
+      "ENGLISH": "That was Park Min-jung, everyone! Thanks for joining us!",
+      "CHINESE_SIMPLIFIED": "以上就是SOLO歌手朴敏静的采访~非常感谢~",
+      "CHINESE_TRADITIONAL": "以上就是SOLO歌手樸敏靜的採訪~非常感謝~",
+      "JAPANESE": "歌手パク・ミンジョンさんでした！どうも、ありがとうございました！",
+      "INDONESIAN": "Itu tadi Park Min-jung, semuanya! Terima kasih sudah bergabung!",
+      "PORTUGUESE": "Essa foi Park Min-jung, pessoal! Obrigado por estar aqui!",
+      "RUSSIAN": "Это была Пак Мин-джун, друзья! Спасибо, что пришла!",
+      "FRENCH": "C’était Park Min-jung, tout le monde ! Merci d’être venue !",
+      "THAI": "นี่คือ ปาร์ค มินจอง ค่ะทุกคน! ขอบคุณที่มาร่วมรายการนะ!"
+    },
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 52.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다!",
+      "ENGLISH": "Thank you!",
+      "CHINESE_SIMPLIFIED": "谢谢大家!",
+      "CHINESE_TRADITIONAL": "謝謝大家!",
+      "JAPANESE": "ありがとうございました！",
+      "INDONESIAN": "Terima kasih!",
+      "PORTUGUESE": "Obrigada!",
+      "RUSSIAN": "Спасибо вам!",
+      "FRENCH": "Merci à vous !",
+      "THAI": "ขอบคุณค่ะ!"
+    },
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 54.3
+    }
+  }
+]

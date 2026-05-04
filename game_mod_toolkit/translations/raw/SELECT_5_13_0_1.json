@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "역시 이거 고를 줄 알았어!",
+      "ENGLISH": "I knew you’d choose that!",
+      "CHINESE_SIMPLIFIED": "我就知道你会选这个!",
+      "CHINESE_TRADITIONAL": "我就知道你會選這個!",
+      "JAPANESE": "やっぱり、これ選ぶと思った！",
+      "INDONESIAN": "Aku tahu kamu bakal pilih itu!",
+      "PORTUGUESE": "Eu sabia que você ia escolher isso!",
+      "RUSSIAN": "Я знала, что ты это выберешь!",
+      "FRENCH": "Je savais que tu choisirais ça !",
+      "THAI": "ฉันรู้ว่าเธอต้องเลือกอันนี้!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 청국장 좋아하잖아.",
+      "ENGLISH": "You love bean paste soup.",
+      "CHINESE_SIMPLIFIED": "你不是喜欢喝臭酱汤嘛",
+      "CHINESE_TRADITIONAL": "你不是喜歡喝臭醬湯嘛",
+      "JAPANESE": "あんた、チョングッチャン好きでしょ？",
+      "INDONESIAN": "Kamu suka sup pasta kacang.",
+      "PORTUGUESE": "Você adora sopa de pasta de feijão.",
+      "RUSSIAN": "Ты обожаешь суп с бобовой пастой.",
+      "FRENCH": "Tu adores la soupe de pâte de soja.",
+      "THAI": "เธอชอบแกงเต้าเจี้ยว"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이거 다 먹고",
+      "ENGLISH": "After we finish eating",
+      "CHINESE_SIMPLIFIED": "吃完之后",
+      "CHINESE_TRADITIONAL": "吃完之後",
+      "JAPANESE": "これ食べ終わったら",
+      "INDONESIAN": "Setelah kita selesai makan,",
+      "PORTUGUESE": "Depois que terminarmos de comer,",
+      "RUSSIAN": "После того, как поедим,",
+      "FRENCH": "Après avoir mangé,",
+      "THAI": "หลังจากกินเสร็จ"
+    },
+    "TIME": {
+      "SHOW": 11.33,
+      "HIDE": 12.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "우리 이야기 좀 해.",
+      "ENGLISH": "Let’s have a talk.",
+      "CHINESE_SIMPLIFIED": "我们谈谈吧",
+      "CHINESE_TRADITIONAL": "我們談談吧",
+      "JAPANESE": "ちょっと、話さない？",
+      "INDONESIAN": "Ayo ngobrol.",
+      "PORTUGUESE": "Vamos conversar.",
+      "RUSSIAN": "давай поговорим.",
+      "FRENCH": "on va discuter.",
+      "THAI": "เรามาคุยกันเถอะ"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저랑도 얘기해야 되는데...",
+      "ENGLISH": "But I need to talk with him too...",
+      "CHINESE_SIMPLIFIED": "他和我也有话要谈",
+      "CHINESE_TRADITIONAL": "他和我也有話要談",
+      "JAPANESE": "私も、ユマンさんとお話したいんですけど…",
+      "INDONESIAN": "Tapi aku juga perlu bicara sama dia...",
+      "PORTUGUESE": "Mas eu também preciso falar com ele...",
+      "RUSSIAN": "Но мне тоже нужно с ним поговорить...",
+      "FRENCH": "Mais moi aussi, je dois lui parler...",
+      "THAI": "แต่ฉันก็มีเรื่องต้องคุยกับเขาเหมือนกัน..."
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 먼저 얘기를 하셨어야죠.",
+      "ENGLISH": "Then you should have asked first.",
+      "CHINESE_SIMPLIFIED": "那你应该提前说啊",
+      "CHINESE_TRADITIONAL": "那你應該提前說啊",
+      "JAPANESE": "だったら、先に話しかけるべきだったじゃないですか。",
+      "INDONESIAN": "Kalau gitu, kamu harusnya minta duluan.",
+      "PORTUGUESE": "Então você devia ter pedido primeiro.",
+      "RUSSIAN": "Тогда надо было спросить первой.",
+      "FRENCH": "Alors, tu aurais dû demander en premier.",
+      "THAI": "งั้นเธอก็ต้องขอคุยก่อนสิ"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 23.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "언니 기다리는 사람 생각은 안 해?",
+      "ENGLISH": "Did you think about the people waiting?",
+      "CHINESE_SIMPLIFIED": "姐, 你不考虑一下其他人吗?",
+      "CHINESE_TRADITIONAL": "姐, 你不考慮一下其他人嗎?",
+      "JAPANESE": "待ってる人のこと、考えないの?",
+      "INDONESIAN": "Apa kamu nggak mikirin orang yang lagi nunggu?",
+      "PORTUGUESE": "Você pensou nas pessoas que estão esperando?",
+      "RUSSIAN": "Ты думала о людях, которые ждут?",
+      "FRENCH": "Tu as pensé aux personnes qui attendent ?",
+      "THAI": "เธอคิดถึงคนที่รออยู่บ้างไหม?"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "자기 멋대로 그렇게 채가시면 어떡해요",
+      "ENGLISH": "You can’t just take him like that.",
+      "CHINESE_SIMPLIFIED": "怎么能随心所欲地抢走他呢",
+      "CHINESE_TRADITIONAL": "怎麼能隨心所欲地搶走他呢",
+      "JAPANESE": "勝手に連れて行くのは、どうかと思いますけど。",
+      "INDONESIAN": "Kamu gak bisa ambil dia gitu aja.",
+      "PORTUGUESE": "Você não pode simplesmente levar ele assim.",
+      "RUSSIAN": "Нельзя просто так уводить его.",
+      "FRENCH": "Tu ne peux pas juste l’emmener comme ça.",
+      "THAI": "เธอจะพาเขาไปแบบนั้นไม่ได้"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 우유만이 정해!",
+      "ENGLISH": "Then Yuman, you decide! ",
+      "CHINESE_SIMPLIFIED": "那吴宥万",
+      "CHINESE_TRADITIONAL": "那吳宥萬",
+      "JAPANESE": "じゃあ、ユマンが決めてよ！",
+      "INDONESIAN": "Jadi, Yuman, kamu yang tentuin!",
+      "PORTUGUESE": "Então, Yuman, você decide!",
+      "RUSSIAN": "Тогда, Юман, решай сам!",
+      "FRENCH": "Alors Yuman, décide !",
+      "THAI": "งั้น ยูมัน เธอต้องตัดสินใจเอง!"
+    },
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 29.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "누구랑 먼저 얘기할지",
+      "ENGLISH": "Who are you going to talk to first?",
+      "CHINESE_SIMPLIFIED": "你来决定先和谁谈吧!",
+      "CHINESE_TRADITIONAL": "你來決定先和誰談吧!",
+      "JAPANESE": "誰と先に話すか。",
+      "INDONESIAN": "Kamu mau bicara sama siapa dulu?",
+      "PORTUGUESE": "Com quem você vai falar primeiro?",
+      "RUSSIAN": "С кем ты будешь говорить первым?",
+      "FRENCH": "À qui tu vas parler en premier ?",
+      "THAI": "เธอจะคุยกับใครก่อน?"
+    },
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.4
+    }
+  }
+]

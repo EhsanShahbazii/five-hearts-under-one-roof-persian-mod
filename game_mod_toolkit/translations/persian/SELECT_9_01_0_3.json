@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "경비 하이~",
+      "ENGLISH": "Hey, what’s up, Mr. Security Guard!",
+      "CHINESE_SIMPLIFIED": "保安大叔 hi~",
+      "CHINESE_TRADITIONAL": "保安大叔 hi~",
+      "JAPANESE": "警備さん、ハーイ！",
+      "INDONESIAN": "Hei, apa kabar, Pak Satpam!",
+      "PORTUGUESE": "Ei, como vai, Sr. Segurança!",
+      "RUSSIAN": "Эй, как дела, господин охранник!",
+      "FRENCH": "Hé, salut, monsieur le gardien de sécurité !",
+      "THAI": "เฮ้ สวัสดีครับ คุณ รปภ.!",
+      "PERSIAN": "هی، چه خبر، آقای نگهبان!"
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "자네 지금 뭐라 그랬나?",
+      "ENGLISH": "Excuse me? What did you just say?",
+      "CHINESE_SIMPLIFIED": "你刚说什么?",
+      "CHINESE_TRADITIONAL": "你剛說什麼?",
+      "JAPANESE": "君、今何て言ったんだ？",
+      "INDONESIAN": "Maaf? Kamu barusan bilang apa?",
+      "PORTUGUESE": "Com licença? O que você acabou de dizer?",
+      "RUSSIAN": "Извините? Что вы только что сказали?",
+      "FRENCH": "Pardon ? Qu’est-ce que vous venez de dire ?",
+      "THAI": "ขอโทษนะครับ? เมื่อกี้คุณพูดว่าอะไรนะ?",
+      "PERSIAN": "ببخشید؟ تازه چی گفتی؟"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "경비 하이~",
+      "ENGLISH": "I said, 'Hey, what’s up!'",
+      "CHINESE_SIMPLIFIED": "Hi~保安大叔~呦呦!!!",
+      "CHINESE_TRADITIONAL": "Hi~保安大叔~呦呦!!!",
+      "JAPANESE": "警備さん、ハーイ！",
+      "INDONESIAN": "Aku bilang, 'Hei, apa kabar!'",
+      "PORTUGUESE": "Eu disse, 'Ei, como vai!'",
+      "RUSSIAN": "Я сказал: «Эй, как дела!»",
+      "FRENCH": "J’ai dit : « Hé, salut ! »",
+      "THAI": "ผมพูดว่า 'เฮ้ สวัสดีครับ!'",
+      "PERSIAN": "گفتم: هی، چه خبر!"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "자네 지금 이게 뭐 하는 짓인가?",
+      "ENGLISH": "Do you think this is appropriate behavior?",
+      "CHINESE_SIMPLIFIED": "你吃错药了?",
+      "CHINESE_TRADITIONAL": "你吃錯藥了?",
+      "JAPANESE": "君、これは一体何の真似だ？",
+      "INDONESIAN": "Kamu pikir ini perilaku yang pantas?",
+      "PORTUGUESE": "Você acha que esse comportamento é apropriado?",
+      "RUSSIAN": "Вы считаете, это уместное поведение?",
+      "FRENCH": "Vous trouvez ce comportement approprié ?",
+      "THAI": "คุณคิดว่านี่เป็นพฤติกรรมที่เหมาะสมไหม?",
+      "PERSIAN": "به نظر شما این رفتار مناسبی است؟"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.9
+    }
+  }
+]

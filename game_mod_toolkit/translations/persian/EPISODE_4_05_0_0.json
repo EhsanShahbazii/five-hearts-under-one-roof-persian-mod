@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "여기 우유요.",
+      "ENGLISH": "Here’s your milk.",
+      "CHINESE_SIMPLIFIED": "给，牛奶",
+      "CHINESE_TRADITIONAL": "給，牛奶",
+      "JAPANESE": "牛乳です、そうぞ。",
+      "INDONESIAN": "Ini susumu.",
+      "PORTUGUESE": "Aqui está seu leite.",
+      "RUSSIAN": "Вот твоё молоко.",
+      "FRENCH": "Voici ton lait.",
+      "THAI": "นี่นมของคุณ.",
+      "PERSIAN": "اینم شیرت"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다...!",
+      "ENGLISH": "Thank you...!",
+      "CHINESE_SIMPLIFIED": "谢谢…!",
+      "CHINESE_TRADITIONAL": "謝謝…!",
+      "JAPANESE": "ありがとうございます…！",
+      "INDONESIAN": "Makasih...!",
+      "PORTUGUESE": "Obrigado...!",
+      "RUSSIAN": "Спасибо…!",
+      "FRENCH": "Merci… !",
+      "THAI": "ขอบคุณนะ...!",
+      "PERSIAN": "ممنونم...!"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    }
+  }
+]

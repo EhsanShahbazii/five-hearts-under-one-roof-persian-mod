@@ -1,0 +1,306 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "자~ 다들 모여볼까요?",
+      "ENGLISH": "Alright, everyone, let’s gather around!",
+      "CHINESE_SIMPLIFIED": "大家先都出来一下!",
+      "CHINESE_TRADITIONAL": "大家先都出來一下!",
+      "JAPANESE": "さあ、みんなさん。集まってください！",
+      "INDONESIAN": "Oke, semuanya, kumpul dulu!",
+      "PORTUGUESE": "Certo, pessoal, vamos nos reunir!",
+      "RUSSIAN": "Ладно, все, собираемся вокруг!",
+      "FRENCH": "D'accord, tout le monde, on se rassemble !",
+      "THAI": "โอเค ทุกคน มารวมกันหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "모이세요",
+      "ENGLISH": "Come on, gather up!",
+      "CHINESE_SIMPLIFIED": "来一下",
+      "CHINESE_TRADITIONAL": "來一下",
+      "JAPANESE": "集まってください！！",
+      "INDONESIAN": "Ayo, kumpul!",
+      "PORTUGUESE": "Vamos lá, todo mundo junto!",
+      "RUSSIAN": "Давайте, подходим!",
+      "FRENCH": "Allez, approchez !",
+      "THAI": "มาเถอะ มารวมกัน!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니 불편하게 왜 모이라는 거야.",
+      "ENGLISH": "Why are we all getting together? This feels unnecessary.",
+      "CHINESE_SIMPLIFIED": "干嘛呀! 聚在一起怪尴尬的",
+      "CHINESE_TRADITIONAL": "幹嘛呀! 聚在一起怪尷尬的",
+      "JAPANESE": "いやいや、わざわざ集まってどうするんだよ。",
+      "INDONESIAN": "Kenapa kita semua harus kumpul? Kayaknya gak perlu deh.",
+      "PORTUGUESE": "Por que a gente tem que se reunir? Isso parece desnecessário.",
+      "RUSSIAN": "Зачем мы все собираемся? Это кажется лишним.",
+      "FRENCH": "Pourquoi est-ce qu’on doit tous se réunir ? Ça semble inutile.",
+      "THAI": "ทำไมพวกเราต้องมารวมตัวกันด้วย? มันดูไม่จำเป็นเลย"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "계속 볼 텐데",
+      "ENGLISH": "We’re all going to be around each other anyway,",
+      "CHINESE_SIMPLIFIED": "都是抬头不见低头见的关系",
+      "CHINESE_TRADITIONAL": "都是擡頭不見低頭見的關係",
+      "JAPANESE": "これからずっと一緒に暮らしていくのに",
+      "INDONESIAN": "Kita kan bakal bareng-bareng juga,",
+      "PORTUGUESE": "De qualquer forma, vamos ficar juntos o tempo todo,",
+      "RUSSIAN": "Мы всё равно будем рядом друг с другом,",
+      "FRENCH": "On sera tous ensemble de toute façon,",
+      "THAI": "ยังไงเราก็ต้องอยู่ใกล้ๆ กันอยู่แล้ว"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "다들 불편하게 지내면 안 되잖아.",
+      "ENGLISH": "So let’s not make things awkward.",
+      "CHINESE_SIMPLIFIED": "不能一直这么尴尬下去吧?",
+      "CHINESE_TRADITIONAL": "不能一直這麼尷尬下去吧?",
+      "JAPANESE": "お互い、居心地悪く過ごすわけにはいかないだろ？",
+      "INDONESIAN": "Jadi jangan bikin suasana jadi canggung.",
+      "PORTUGUESE": "Então não deixem as coisas estranhas.",
+      "RUSSIAN": "так что давайте не будем делать это неловким.",
+      "FRENCH": "alors évitons de rendre les choses gênantes.",
+      "THAI": "งั้นอย่าทำให้มันน่าอึดอัดเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아니 그리고 여기 있는 분들은 우유만 얼마나 봤다고 좋아해요?",
+      "ENGLISH": "And seriously, how can any of you say you like Yuman? How long have you even known him?",
+      "CHINESE_SIMPLIFIED": "我说，你们才认识他多久就喜欢他啊？",
+      "CHINESE_TRADITIONAL": "我說，你們才認識他多久就喜歡他啊？",
+      "JAPANESE": "でも、ここにいる人たち、ユマンのことどこまで知ってるって言うの？",
+      "INDONESIAN": "Dan serius, gimana sih kalian bisa bilang suka sama Yuman? Kalian kenal dia udah berapa lama sih?",
+      "PORTUGUESE": "E sério, como vocês conseguem dizer que gostam do Yuman? Faz quanto tempo que vocês conhecem ele?",
+      "RUSSIAN": "И серьёзно, как вы вообще можете говорить, что любите Юмана? Сколько вы его знаете?",
+      "FRENCH": "Et sérieusement, comment l’une d’entre vous peut dire qu’elle aime Yuman ? Depuis combien de temps vous le connaissez ?",
+      "THAI": "แล้วจริงๆ น่ะ พวกเธอมีสิทธิ์พูดว่าเธอชอบยูมันได้ยังไง? พวกเธอรู้จักเขามานานแค่ไหนกันเชียว?"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "내가 먼저 좋아했어!",
+      "ENGLISH": "I liked him first!",
+      "CHINESE_SIMPLIFIED": "是我最先开始喜欢他的!",
+      "CHINESE_TRADITIONAL": "是我最先開始喜歡他的!",
+      "JAPANESE": "私が最初に好きになった！",
+      "INDONESIAN": "Aku yang duluan suka sama dia!",
+      "PORTUGUESE": "Eu que gostei dele primeiro!",
+      "RUSSIAN": "Я первая его полюбила!",
+      "FRENCH": "C’est moi qui l’ai aimé en premier !",
+      "THAI": "ฉันเป็นคนที่ชอบเขาก่อน!"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "시간이 뭐 중요한가? ",
+      "ENGLISH": "Does time really matter?",
+      "CHINESE_SIMPLIFIED": "认识多久重要吗?",
+      "CHINESE_TRADITIONAL": "認識多久重要嗎?",
+      "JAPANESE": "時間なんて関係ないでしょ？",
+      "INDONESIAN": "Apa waktu itu penting?",
+      "PORTUGUESE": "O tempo realmente importa?",
+      "RUSSIAN": "Разве время имеет значение?",
+      "FRENCH": "Le temps compte vraiment ?",
+      "THAI": "เวลามันสำคัญขนาดนั้นเลยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "게다가 난",
+      "ENGLISH": "Besides",
+      "CHINESE_SIMPLIFIED": "我和他",
+      "CHINESE_TRADITIONAL": "我和他",
+      "JAPANESE": "それに私は",
+      "INDONESIAN": "Lagian,",
+      "PORTUGUESE": "Além disso,",
+      "RUSSIAN": "К тому же,",
+      "FRENCH": "En plus,",
+      "THAI": "แถม"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "공적으로도 묶여있는 관계라.",
+      "ENGLISH": "I’ve got professional ties with him too.",
+      "CHINESE_SIMPLIFIED": "在工作上还是绑定的关系呢!",
+      "CHINESE_TRADITIONAL": "在工作上還是綁定的關係呢!",
+      "JAPANESE": "仕事上でも繋がっている関係だから。",
+      "INDONESIAN": "Aku juga punya hubungan profesional sama dia.",
+      "PORTUGUESE": "Eu também tenho uma ligação profissional com ele.",
+      "RUSSIAN": "у меня с ним профессиональные отношения.",
+      "FRENCH": "j’ai des liens professionnels avec lui aussi.",
+      "THAI": "ฉันยังมีความสัมพันธ์ในเรื่องงานกับเขาด้วย"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "회사는 그만두면 그만이지",
+      "ENGLISH": "He can quit his job, and that's all.",
+      "CHINESE_SIMPLIFIED": "辞职不就行了，多大点事!",
+      "CHINESE_TRADITIONAL": "辭職不就行了，多大點事!",
+      "JAPANESE": "会社なんて辞めれば終わりでしょ？",
+      "INDONESIAN": "Dia bisa aja berhenti kerja, dan selesai sudah.",
+      "PORTUGUESE": "Ele pode largar o trabalho e pronto.",
+      "RUSSIAN": "Он может уволиться, и всё на этом.",
+      "FRENCH": "Il peut quitter son travail, et c’est tout.",
+      "THAI": "เขาจะลาออกก็แค่นั้นเอง"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어리다 어려~",
+      "ENGLISH": "You’re so young... so naive.",
+      "CHINESE_SIMPLIFIED": "你还是太年轻啊…",
+      "CHINESE_TRADITIONAL": "你還是太年輕啊…",
+      "JAPANESE": "若い子の考えね。",
+      "INDONESIAN": "Kamu masih muda... masih polos.",
+      "PORTUGUESE": "Você é tão jovem... tão ingênua.",
+      "RUSSIAN": "Ты такая молодая... такая наивная.",
+      "FRENCH": "Tu es si jeune... si naïve.",
+      "THAI": "เธอยังเด็ก... ยังไร้เดียงสามากเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "전 집에서 계속 같이 살 건데...",
+      "ENGLISH": "I’m living with him at home.",
+      "CHINESE_SIMPLIFIED": "我会一直住在这里…",
+      "CHINESE_TRADITIONAL": "我會一直住在這裏…",
+      "JAPANESE": "私はずっと一緒に住むつもりですけど…",
+      "INDONESIAN": "Aku tinggal bareng dia di rumah.",
+      "PORTUGUESE": "Eu moro com ele em casa.",
+      "RUSSIAN": "А я живу с ним дома.",
+      "FRENCH": "Moi, je vis avec lui chez nous.",
+      "THAI": "ฉันน่ะอยู่กับเขาที่บ้าน"
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "그쪽은 진짜 뭐 어쩌려고 그래요?",
+      "ENGLISH": "What’s your plan?",
+      "CHINESE_SIMPLIFIED": "你真的不另做打算吗?",
+      "CHINESE_TRADITIONAL": "你真的不另做打算嗎?",
+      "JAPANESE": "あなた、一体何考えてるんですか？",
+      "INDONESIAN": "Apa rencanamu?",
+      "PORTUGUESE": "Qual é o seu plano?",
+      "RUSSIAN": "Какой у тебя план?",
+      "FRENCH": "C’est quoi ton plan ?",
+      "THAI": "แล้วแผนของเธอล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.56
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "그게 유만 오빠한테 얼마나 부담되는 일인지 몰라서 그래요?",
+      "ENGLISH": "Do you realize how much pressure that puts on Yuman?",
+      "CHINESE_SIMPLIFIED": "你这样会给宥万添多大的麻烦自己心里没数吗?",
+      "CHINESE_TRADITIONAL": "你這樣會給宥萬添多大的麻煩自己心裏沒數嗎?",
+      "JAPANESE": "それがユマンさんにどれだけ負担になるか、分かってないんですか？",
+      "INDONESIAN": "Kamu sadar gak betapa beratnya itu buat Yuman?",
+      "PORTUGUESE": "Você tem ideia da pressão que isso coloca no Yuman?",
+      "RUSSIAN": "Ты понимаешь, какое давление это оказывает на Юмана?",
+      "FRENCH": "Tu réalises à quel point ça met Yuman sous pression ?",
+      "THAI": "เธอรู้ไหมว่านั่นกดดันยูมันมากแค่ไหน?"
+    },
+    "TIME": {
+      "SHOW": 29.56,
+      "HIDE": 32.4
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "계속 싸우네...",
+      "ENGLISH": "You guys are always fighting...",
+      "CHINESE_SIMPLIFIED": "她们一直吵架，该怎么办呢…",
+      "CHINESE_TRADITIONAL": "她們一直吵架，該怎麼辦呢…",
+      "JAPANESE": "またケンカしてる…",
+      "INDONESIAN": "Kalian terus aja berantem...",
+      "PORTUGUESE": "Vocês ficam brigando o tempo todo...",
+      "RUSSIAN": "Вы постоянно ссоритесь...",
+      "FRENCH": "Vous vous disputez tout le temps...",
+      "THAI": "พวกเธอทะเลาะกันตลอดเวลา..."
+    },
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 35.7
+    }
+  }
+]

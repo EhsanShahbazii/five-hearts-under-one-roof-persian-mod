@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와......! 노래 엄청 좋은데요??",
+      "ENGLISH": "Wow... this is incredible! The song’s amazing!",
+      "CHINESE_SIMPLIFIED": "哇...!这首歌也太棒了吧!",
+      "CHINESE_TRADITIONAL": "哇...!這首歌也太棒了吧!",
+      "JAPANESE": "うわぁ……！すごくいい曲じゃないですか！",
+      "INDONESIAN": "Wah... ini luar biasa! Lagunya keren banget!",
+      "PORTUGUESE": "Uau... isso é incrível! A música está sensacional!",
+      "RUSSIAN": "Вау... это невероятно! Песня потрясающая!",
+      "FRENCH": "Waouh... c’est incroyable ! La chanson est géniale !",
+      "THAI": "ว้าว... นี่มันสุดยอดมาก! เพลงเจ๋งสุดๆ!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "도입부도 좋고",
+      "ENGLISH": "The intro pulled me right in,",
+      "CHINESE_SIMPLIFIED": "开头就很不错",
+      "CHINESE_TRADITIONAL": "開頭就很不錯",
+      "JAPANESE": "イントロも素敵だし",
+      "INDONESIAN": "Intro-nya langsung menarik perhatian,",
+      "PORTUGUESE": "A introdução me prendeu de cara,",
+      "RUSSIAN": "Вступление сразу меня захватило,",
+      "FRENCH": "L’intro m’a tout de suite captivé(e),",
+      "THAI": "อินโทรทำให้ฉันติดตามทันที"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "벌스에서 브릿지로 넘어가는 부분이",
+      "ENGLISH": "and that transition from the verse to the bridge?",
+      "CHINESE_SIMPLIFIED": "然后主歌到副歌之间的过渡阶段",
+      "CHINESE_TRADITIONAL": "然後主歌到副歌之間的過渡階段",
+      "JAPANESE": "特に、バースからBメロに移るところが",
+      "INDONESIAN": "dan transisi dari verse ke bridge itu?",
+      "PORTUGUESE": "e aquela transição do verso para a ponte?",
+      "RUSSIAN": "и этот переход от куплета к бриджу?",
+      "FRENCH": "et cette transition du couplet au pont ?",
+      "THAI": "แล้วการเปลี่ยนจากท่อนเวิร์สไปท่อนบริดจ์?"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "특히 좋았던 거 같아요!",
+      "ENGLISH": "That hit hard.",
+      "CHINESE_SIMPLIFIED": "也处理得非常自然!",
+      "CHINESE_TRADITIONAL": "也處理得非常自然!",
+      "JAPANESE": "すごくいいですね！",
+      "INDONESIAN": "Keren banget.",
+      "PORTUGUESE": "Foi forte.",
+      "RUSSIAN": "Это было сильно.",
+      "FRENCH": "Ça frappe fort.",
+      "THAI": "นั่นมันโดนใจสุดๆ"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "3절 클라이막스에서",
+      "ENGLISH": "And then, in the third chorus, ",
+      "CHINESE_SIMPLIFIED": "第3小节",
+      "CHINESE_TRADITIONAL": "第3小節",
+      "JAPANESE": "3番のクライマックスで",
+      "INDONESIAN": "Dan lalu, di chorus ketiga,",
+      "PORTUGUESE": "E depois, no terceiro refrão,",
+      "RUSSIAN": "А потом, в третьем припеве,",
+      "FRENCH": "Et puis, dans le troisième refrain,",
+      "THAI": "แล้วในท่อนคอรัสที่สาม"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "묵직하게 들어간 브라스의 울림이",
+      "ENGLISH": "when the brass kicks in?",
+      "CHINESE_SIMPLIFIED": "高潮部分出现的管弦乐也",
+      "CHINESE_TRADITIONAL": "高潮部分出現的管絃樂也",
+      "JAPANESE": "重厚に入ってくるブラスの響きが",
+      "INDONESIAN": "saat alat tiup mulai masuk?",
+      "PORTUGUESE": "quando os metais entram?",
+      "RUSSIAN": "когда зазвучали духовые?",
+      "FRENCH": "quand les cuivres arrivent ?",
+      "THAI": "ตอนที่เครื่องเป่าเริ่มเล่น?"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "내 마음을 울렸어요!",
+      "ENGLISH": "It really hit me in the feels!",
+      "CHINESE_SIMPLIFIED": "深得我心!",
+      "CHINESE_TRADITIONAL": "深得我心!",
+      "JAPANESE": "すごく、心に響きました！",
+      "INDONESIAN": "Itu benar-benar bikin aku baper!",
+      "PORTUGUESE": "Isso realmente me emocionou!",
+      "RUSSIAN": "Это прям до слёз пробрало!",
+      "FRENCH": "Ça m’a vraiment touché(e) !",
+      "THAI": "มันทำให้ฉันรู้สึกอินมากเลย!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "와, 진짜 다행이다!",
+      "ENGLISH": "Oh, I’m so relieved you liked it!",
+      "CHINESE_SIMPLIFIED": "哇，太好啦",
+      "CHINESE_TRADITIONAL": "哇，太好啦",
+      "JAPANESE": "わぁ、よかった～！",
+      "INDONESIAN": "Oh, aku lega banget kamu suka!",
+      "PORTUGUESE": "Ah, estou tão aliviado que você gostou!",
+      "RUSSIAN": "Ох, я так рада, что тебе понравилось!",
+      "FRENCH": "Oh, je suis tellement soulagé(e) que ça t’ait plu !",
+      "THAI": "โอ้ โล่งใจจังที่เธอชอบ!"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "근데 나 전부터 물어보고 싶은 거 있었는데.",
+      "ENGLISH": "By the way, there’s something I’ve been meaning to ask you.",
+      "CHINESE_SIMPLIFIED": "不过一直以来我都有一个问题想问你",
+      "CHINESE_TRADITIONAL": "不過一直以來我都有一個問題想問你",
+      "JAPANESE": "それと、前から聞きたかったことがあるんですけど。",
+      "INDONESIAN": "Ngomong-ngomong, ada sesuatu yang sudah lama ingin kutanyakan.",
+      "PORTUGUESE": "A propósito, tem algo que eu queria te perguntar faz tempo.",
+      "RUSSIAN": "Кстати, я давно хотела тебя кое-что спросить.",
+      "FRENCH": "Au fait, il y a quelque chose que je voulais te demander.",
+      "THAI": "ว่าแต่ ฉันอยากถามอะไรเธอมานานแล้วนะ"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "뭔데요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "何ですか？",
+      "INDONESIAN": "Apa itu?",
+      "PORTUGUESE": "O que é?",
+      "RUSSIAN": "Что именно?",
+      "FRENCH": "Quoi donc ?",
+      "THAI": "อะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.2
+    }
+  }
+]

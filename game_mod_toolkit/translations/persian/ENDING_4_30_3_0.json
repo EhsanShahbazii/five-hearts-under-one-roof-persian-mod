@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고은비?",
+      "ENGLISH": "Eun-bi?",
+      "CHINESE_SIMPLIFIED": "高恩妃?",
+      "CHINESE_TRADITIONAL": "高恩妃?",
+      "JAPANESE": "ウンビ？",
+      "INDONESIAN": "Eun-bi?",
+      "PORTUGUESE": "Eun-bi?",
+      "RUSSIAN": "Ын-би?",
+      "FRENCH": "Eun-bi ?",
+      "THAI": "อึนบี?",
+      "PERSIAN": "یون بی؟"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠?",
+      "ENGLISH": "Oppa? ",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん？",
+      "INDONESIAN": "Oppa?",
+      "PORTUGUESE": "Oppa?",
+      "RUSSIAN": "Оппа?",
+      "FRENCH": "Oppa ?",
+      "THAI": "พี่?",
+      "PERSIAN": "یومان؟"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "What’s up?",
+      "CHINESE_SIMPLIFIED": "你怎么在这?",
+      "CHINESE_TRADITIONAL": "你怎麼在這?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Ada apa?",
+      "PORTUGUESE": "O que foi?",
+      "RUSSIAN": "Что такое?",
+      "FRENCH": "Quoi de neuf ?",
+      "THAI": "มีอะไรเหรอ?",
+      "PERSIAN": "چه خبر؟"
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "와 어떻게 이렇게 딱 마주치냐?",
+      "ENGLISH": "Wow, how do we keep running into each other like this?",
+      "CHINESE_SIMPLIFIED": "怎么就能刚好碰到呢?",
+      "CHINESE_TRADITIONAL": "怎麼就能剛好碰到呢?",
+      "JAPANESE": "何でこんな偶然に？",
+      "INDONESIAN": "Wah, kok kita terus ketemu kayak gini?",
+      "PORTUGUESE": "Uau, como a gente continua se encontrando assim?",
+      "RUSSIAN": "Ух ты, как это мы так часто пересекаемся?",
+      "FRENCH": "Waouh, comment on fait pour se croiser à chaque fois ?",
+      "THAI": "ว้าว เรามาเจอกันอีกแล้วเหรอเนี่ย?",
+      "PERSIAN": "وای چطوری اینجوری به همدیگه برخورد کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "역시 우리는 운명이라니까?",
+      "ENGLISH": "See? It's fate between us!",
+      "CHINESE_SIMPLIFIED": "我都说了我们是命中注定!",
+      "CHINESE_TRADITIONAL": "我都說了我們是命中註定!",
+      "JAPANESE": "やっぱり、私たちは運命なんだよ！",
+      "INDONESIAN": "Tuh kan? Ini takdir di antara kita!",
+      "PORTUGUESE": "Tá vendo? É o destino entre nós!",
+      "RUSSIAN": "Видишь? Это судьба связывает нас!",
+      "FRENCH": "Tu vois ? C’est le destin entre nous !",
+      "THAI": "เห็นไหม? นี่มันพรหมลิขิตของเรานะ!",
+      "PERSIAN": "ببینید؟ سرنوشت بین ماست!"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠...",
+      "ENGLISH": "Oppa",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん",
+      "INDONESIAN": "Oppa,",
+      "PORTUGUESE": "Oppa,",
+      "RUSSIAN": "Оппа",
+      "FRENCH": "Oppa",
+      "THAI": "พี่",
+      "PERSIAN": "یومان"
+    },
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "나 우유만 소원권 쓸래.",
+      "ENGLISH": "I want to use my Milk-only wish coupon.",
+      "CHINESE_SIMPLIFIED": "我要用吴宥万愿望券!",
+      "CHINESE_TRADITIONAL": "我要用吳宥萬願望券!",
+      "JAPANESE": "私、願い事券使っていい？",
+      "INDONESIAN": "Aku mau pakai kupon permintaan khusus Yuman-ku.",
+      "PORTUGUESE": "Eu quero usar meu cupom de desejo especial do Yuman.",
+      "RUSSIAN": "Я хочу использовать свой купон на желание только для молока.",
+      "FRENCH": "Je veux utiliser mon coupon de souhait juste pour le lait.",
+      "THAI": "ฉันอยากใช้คูปองพรที่ได้แค่นมเท่านั้น",
+      "PERSIAN": "من می خواهم از کوپن آرزوی خود فقط شیر استفاده کنم."
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.9
+    }
+  }
+]

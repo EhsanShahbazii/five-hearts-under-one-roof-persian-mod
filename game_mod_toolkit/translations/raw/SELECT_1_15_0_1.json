@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "1등입니다.",
+      "ENGLISH": "1st place!",
+      "CHINESE_SIMPLIFIED": "第一名",
+      "CHINESE_TRADITIONAL": "第一名",
+      "JAPANESE": "1位です。",
+      "INDONESIAN": "Juara pertama!",
+      "PORTUGUESE": "Primeiro lugar!",
+      "RUSSIAN": "Первое место!",
+      "FRENCH": "Première place !",
+      "THAI": "ที่หนึ่ง!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  }
+]

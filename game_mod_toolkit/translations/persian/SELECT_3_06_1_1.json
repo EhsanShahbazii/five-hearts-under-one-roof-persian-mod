@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "머리 삔 있어야겠다.",
+      "ENGLISH": "I need a hairpin.",
+      "CHINESE_SIMPLIFIED": "看来得给你准备个发卡了",
+      "CHINESE_TRADITIONAL": "看來得給你準備個髮卡了",
+      "JAPANESE": "ヘアピンが必要だな。",
+      "INDONESIAN": "Aku butuh jepit rambut.",
+      "PORTUGUESE": "Eu preciso de um grampo de cabelo.",
+      "RUSSIAN": "Мне нужна заколка.",
+      "FRENCH": "J’ai besoin d’une barrette.",
+      "THAI": "ฉันต้องการกิ๊บหนีบผม.",
+      "PERSIAN": "من نیاز به سنجاق سر دارم"
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠.",
+      "ENGLISH": "Oppa.",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん。",
+      "INDONESIAN": "Oppa.",
+      "PORTUGUESE": "Oppa.",
+      "RUSSIAN": "Оппа.",
+      "FRENCH": "Oppa.",
+      "THAI": "อปป้า.",
+      "PERSIAN": "یومان"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Oui ?",
+      "THAI": "หืม?",
+      "PERSIAN": "Yeah?"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이런 거 누구한테 배웠어?",
+      "ENGLISH": "Who taught you to say things like that?",
+      "CHINESE_SIMPLIFIED": "这种撩妹方法你是和谁学的?",
+      "CHINESE_TRADITIONAL": "這種撩妹方法你是和誰學的?",
+      "JAPANESE": "こういうの、誰に教わったの？",
+      "INDONESIAN": "Siapa yang ngajarin kamu ngomong begitu?",
+      "PORTUGUESE": "Quem te ensinou a falar assim?",
+      "RUSSIAN": "Кто тебя научил так говорить?",
+      "FRENCH": "Qui t’a appris à dire ça ?",
+      "THAI": "ใครสอนนายให้พูดแบบนี้?",
+      "PERSIAN": "کی بهت یاد داد که اینجوری حرف بزنی؟"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 나 만나기 전에 누구 만나거나 그런 거 아니지?",
+      "ENGLISH": "You haven’t been seeing anyone before me, right?",
+      "CHINESE_SIMPLIFIED": "在我回来之前你不会是和别人交往了吧",
+      "CHINESE_TRADITIONAL": "在我回來之前你不會是和別人交往了吧",
+      "JAPANESE": "もしかして、私と会う前に誰かと付き合ったりしてないよね？",
+      "INDONESIAN": "Kamu nggak ketemu siapa-siapa sebelum aku, kan?",
+      "PORTUGUESE": "Você não viu ninguém antes de mim, né?",
+      "RUSSIAN": "Ты ведь никого не видел до меня, правда?",
+      "FRENCH": "T’as pas vu quelqu’un avant moi, hein ?",
+      "THAI": "นายไม่ได้เจอใครก่อนฉันใช่ไหม?",
+      "PERSIAN": "قبل از من کسی را ندیده ای، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "에이~ 내가 누굴 만나.",
+      "ENGLISH": "Of course not, I haven’t seen anyone.",
+      "CHINESE_SIMPLIFIED": "哎呀我能和谁谈恋爱呀",
+      "CHINESE_TRADITIONAL": "哎呀我能和誰談戀愛呀",
+      "JAPANESE": "まさか～、俺が誰と付き合うんだよ。",
+      "INDONESIAN": "Tentu nggak, aku nggak ketemu siapa-siapa.",
+      "PORTUGUESE": "Claro que não, não vi ninguém.",
+      "RUSSIAN": "Конечно нет, я ни с кем не встречался.",
+      "FRENCH": "Bien sûr que non, je n’ai vu personne.",
+      "THAI": "แน่นอนสิ ไม่ได้เจอใครเลย.",
+      "PERSIAN": "البته نه، من کسی را ندیدم."
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이씨 짜증 나 빨리 올걸!",
+      "ENGLISH": "Ugh, I should’ve come sooner! This is so frustrating!",
+      "CHINESE_SIMPLIFIED": "啊! 烦死了! 早知道就早点回来了!",
+      "CHINESE_TRADITIONAL": "啊! 煩死了! 早知道就早點回來了!",
+      "JAPANESE": "ああ、ムカつく！早く来ればよかった！",
+      "INDONESIAN": "Aduh, aku harusnya datang lebih cepat! Ini bikin frustrasi!",
+      "PORTUGUESE": "Ai, eu devia ter vindo mais cedo! Isso é tão frustrante!",
+      "RUSSIAN": "Ах, надо было прийти раньше! Это так бесит!",
+      "FRENCH": "Pff, j’aurais dû venir plus tôt ! C’est frustrant !",
+      "THAI": "โธ่ ฉันน่าจะมาหานายเร็วกว่านี้! หงุดหงิดจัง!",
+      "PERSIAN": "اوه، باید زودتر می آمدم! این خیلی خسته کننده است!"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까! 빨리 오지.",
+      "ENGLISH": "Exactly! You should’ve come sooner.",
+      "CHINESE_SIMPLIFIED": "就是啊! 你该早点回来",
+      "CHINESE_TRADITIONAL": "就是啊! 你該早點回來",
+      "JAPANESE": "だろ？早く来ればよかったのに。",
+      "INDONESIAN": "Persis! Kamu memang harusnya datang lebih cepat.",
+      "PORTUGUESE": "Exatamente! Você devia ter vindo mais cedo.",
+      "RUSSIAN": "Точно! Тебе стоило прийти раньше.",
+      "FRENCH": "Exactement ! T’aurais dû venir plus tôt.",
+      "THAI": "ใช่! เธอน่าจะมาหาฉันเร็วกว่านี้.",
+      "PERSIAN": "دقیقا! باید زودتر می آمدی"
+    },
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "말숙이도 너 보고 싶어 했는데.",
+      "ENGLISH": "Mal-sook missed you too.",
+      "CHINESE_SIMPLIFIED": "末淑都想你了",
+      "CHINESE_TRADITIONAL": "末淑都想你了",
+      "JAPANESE": "マルスクもお前に会いたがってたよ。",
+      "INDONESIAN": "Mal-sook juga kangen sama kamu.",
+      "PORTUGUESE": "A Mal-sook também sentiu sua falta.",
+      "RUSSIAN": "Мал-Сук тоже скучала по тебе.",
+      "FRENCH": "Mal-sook aussi s’est ennuyée de toi.",
+      "THAI": "มัลซุกก็คิดถึงเธอนะ.",
+      "PERSIAN": "مال‌سوک هم برایت تنگ شده بود."
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나 노래 부를래!",
+      "ENGLISH": "I want to sing a song!",
+      "CHINESE_SIMPLIFIED": "我要唱歌!",
+      "CHINESE_TRADITIONAL": "我要唱歌!",
+      "JAPANESE": "もう、知らない！",
+      "INDONESIAN": "Aku mau nyanyi lagu!",
+      "PORTUGUESE": "Eu quero cantar uma música!",
+      "RUSSIAN": "Я хочу спеть песню!",
+      "FRENCH": "Je veux chanter une chanson !",
+      "THAI": "ฉันอยากร้องเพลง!",
+      "PERSIAN": "من می خواهم یک آهنگ بخوانم!"
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.3
+    }
+  }
+]

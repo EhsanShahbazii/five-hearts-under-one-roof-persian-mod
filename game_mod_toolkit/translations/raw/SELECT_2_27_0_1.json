@@ -1,0 +1,229 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와... 피자 엄청 좋아하시나 봐요..",
+      "ENGLISH": "Wow... You must really like pizza.",
+      "CHINESE_SIMPLIFIED": "哇…您好像很喜欢吃披萨啊…",
+      "CHINESE_TRADITIONAL": "哇…您好像很喜歡吃披薩啊…",
+      "JAPANESE": "わあ…ピザ、お好きなんですね…",
+      "INDONESIAN": "Wah... Kamu pasti suka banget sama pizza.",
+      "PORTUGUESE": "Uau... Você deve gostar muito de pizza.",
+      "RUSSIAN": "Вау... Ты, похоже, действительно любишь пиццу.",
+      "FRENCH": "Wow... Tu dois vraiment aimer la pizza.",
+      "THAI": "โห... ดูท่าจะชอบพิซซ่ามากเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "스트레스받을 땐 느끼한 게 최고지.",
+      "ENGLISH": "When I'm stressed, greasy food is the best.",
+      "CHINESE_SIMPLIFIED": "压力大的时候油乎乎的食物最棒了",
+      "CHINESE_TRADITIONAL": "壓力大的時候油乎乎的食物最棒了",
+      "JAPANESE": "ストレスが溜まったときは、こってりしたものが最高だわ。",
+      "INDONESIAN": "Kalau lagi stres, makanan berminyak itu paling enak.",
+      "PORTUGUESE": "Quando estou estressado, comida gordurosa é a melhor.",
+      "RUSSIAN": "Когда я в стрессе, жирная еда — лучшее лекарство.",
+      "FRENCH": "Quand je suis stressé, rien de mieux que de la nourriture grasse.",
+      "THAI": "เวลาฉันเครียด อาหารมัน ๆ นี่แหละดีที่สุด"
+    },
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 21.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "응? 동 과장님도 스트레스를 받으세요?",
+      "ENGLISH": "Really? Manager Dong, you get stressed too?",
+      "CHINESE_SIMPLIFIED": "嗯?佟科长您也有压力吗？",
+      "CHINESE_TRADITIONAL": "嗯?佟科長您也有壓力嗎？",
+      "JAPANESE": "ドン課長もストレスを感じる時があるんですか？",
+      "INDONESIAN": "Benarkah? Manajer Dong, kamu juga bisa stres?",
+      "PORTUGUESE": "Sério? Gerente Dong, você também fica estressado?",
+      "RUSSIAN": "Правда? Менеджер Донг, вы тоже испытываете стресс?",
+      "FRENCH": "Sérieux ? Manager Dong, vous stressez aussi ?",
+      "THAI": "จริงเหรอ? ผู้จัดการดง คุณก็เครียดด้วยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "당연한 거 아니야?",
+      "ENGLISH": "Of course, I do.",
+      "CHINESE_SIMPLIFIED": "我当然有了",
+      "CHINESE_TRADITIONAL": "我當然有了",
+      "JAPANESE": "当たり前よ。",
+      "INDONESIAN": "Tentu saja.",
+      "PORTUGUESE": "Claro que sim.",
+      "RUSSIAN": "Конечно, испытываю.",
+      "FRENCH": "Bien sûr.",
+      "THAI": "แน่นอนสิ"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭔가 회사에서도 일이 술술 풀리시니까",
+      "ENGLISH": "But you always seem",
+      "CHINESE_SIMPLIFIED": "可是您工作什么的都很顺利",
+      "CHINESE_TRADITIONAL": "可是您工作什麼的都很順利",
+      "JAPANESE": "会社の仕事がいつもスムーズに行っていらっしゃるので、",
+      "INDONESIAN": "Tapi di kantor kamu selalu kelihatan",
+      "PORTUGUESE": "Mas você sempre parece",
+      "RUSSIAN": "Но на работе вы всегда ",
+      "FRENCH": "Mais vous avez toujours ",
+      "THAI": "แต่ที่ทำงานคุณดูใจเย็นตลอดเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 30.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그럴 일 없을 거 같아요.",
+      "ENGLISH": "So composed at work.",
+      "CHINESE_SIMPLIFIED": "我以为您不会有压力呢",
+      "CHINESE_TRADITIONAL": "我以爲您不會有壓力呢",
+      "JAPANESE": "そんなことないかと思ってました。",
+      "INDONESIAN": "Begitu tenang.",
+      "PORTUGUESE": "Tão calmo no trabalho.",
+      "RUSSIAN": "выглядите таким собранным.",
+      "FRENCH": "l'air si calme au travail."
+    },
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그럴 리가.",
+      "ENGLISH": "Not always.",
+      "CHINESE_SIMPLIFIED": "怎么可能",
+      "CHINESE_TRADITIONAL": "怎麼可能",
+      "JAPANESE": "そんなわけないでしょ。",
+      "INDONESIAN": "Nggak selalu.",
+      "PORTUGUESE": "Nem sempre.",
+      "RUSSIAN": "Не всегда.",
+      "FRENCH": "Pas toujours.",
+      "THAI": "ไม่เสมอไปหรอก"
+    },
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 34.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "근데 여기 방은 몇 개야?",
+      "ENGLISH": "By the way, how many rooms are here?",
+      "CHINESE_SIMPLIFIED": "不过这里有几个房间?",
+      "CHINESE_TRADITIONAL": "不過這裏有幾個房間?",
+      "JAPANESE": "それはそうと、ここ部屋がいくつあるの？",
+      "INDONESIAN": "Ngomong-ngomong, ada berapa kamar di sini?",
+      "PORTUGUESE": "A propósito, quantos quartos tem aqui?",
+      "RUSSIAN": "Кстати, сколько здесь комнат?",
+      "FRENCH": "Au fait, il y a combien de chambres ici ?",
+      "THAI": "ว่าแต่ ที่นี่มีห้องกี่ห้องนะ?"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 지금 쓸 수 있는 방은 총 2개 있어요!",
+      "ENGLISH": "Right now, there are two available rooms.",
+      "CHINESE_SIMPLIFIED": "目前空房间有两个",
+      "CHINESE_TRADITIONAL": "目前空房間有兩個",
+      "JAPANESE": "あ、今使える部屋は全部で2つあります！",
+      "INDONESIAN": "Sekarang, ada dua kamar yang tersedia.",
+      "PORTUGUESE": "No momento, tem dois quartos disponíveis.",
+      "RUSSIAN": "Сейчас свободны две комнаты.",
+      "FRENCH": "En ce moment, il y a deux chambres libres.",
+      "THAI": "ตอนนี้มีสองห้องว่างอยู่"
+    },
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 43.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그래?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "是嗎？",
+      "JAPANESE": "あ、そう？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 43.3,
+      "HIDE": 44.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 저 사람이랑 나 들어오면 끝이네?",
+      "ENGLISH": "So, if we move in, that's it?",
+      "CHINESE_SIMPLIFIED": "那我和她住进来的话就满员了呗?",
+      "CHINESE_TRADITIONAL": "那我和她住進來的話就滿員了唄?",
+      "JAPANESE": "じゃあ、あの人と私が入ったら満室ね。",
+      "INDONESIAN": "Jadi, kalau kami pindah, kamarnya penuh?",
+      "PORTUGUESE": "Então, se a gente se mudar, é isso?",
+      "RUSSIAN": "То есть, если мы заселимся, это всё?",
+      "FRENCH": "Donc, si on emménage, c’est tout ?",
+      "THAI": "ถ้าเราย้ายเข้ามา ก็เต็มเลยสินะ?"
+    },
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 47.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "네... 뭐... 그럼 셈이죠.",
+      "ENGLISH": "Yeah, pretty much.",
+      "CHINESE_SIMPLIFIED": "嗯，没错。",
+      "CHINESE_TRADITIONAL": "嗯，沒錯。",
+      "JAPANESE": "はい…まあ、そういうことになりますね。",
+      "INDONESIAN": "Iya, kurang lebih begitu.",
+      "PORTUGUESE": "É, mais ou menos.",
+      "RUSSIAN": "Да, в целом так.",
+      "FRENCH": "Ouais, en gros.",
+      "THAI": "ใช่ ก็ประมาณนั้นแหละ"
+    },
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 51.4
+    }
+  }
+]

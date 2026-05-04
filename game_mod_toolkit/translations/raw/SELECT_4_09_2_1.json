@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그러게?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "就是说",
+      "CHINESE_TRADITIONAL": "就是說",
+      "JAPANESE": "そうだな。",
+      "INDONESIAN": "Iya, kan?",
+      "PORTUGUESE": "Certo?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Non ?",
+      "THAI": "ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦?",
+      "CHINESE_TRADITIONAL": "哦?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 1.86,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나도 모르는 사람인데 여기 있네...",
+      "ENGLISH": "There's someone here I don't know...",
+      "CHINESE_SIMPLIFIED": "我也不知道她是谁…",
+      "CHINESE_TRADITIONAL": "我也不知道她是誰…",
+      "JAPANESE": "俺も知らない人なんだけど、ここにいるんだ…",
+      "INDONESIAN": "Ada orang di sini yang aku gak kenal...",
+      "PORTUGUESE": "Tem alguém aqui que eu não conheço...",
+      "RUSSIAN": "Здесь кто-то, кого я не знаю...",
+      "FRENCH": "Y a quelqu’un ici que je connais pas...",
+      "THAI": "มีใครบางคนที่ฉันไม่รู้จักอยู่ที่นี่..."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "지금 그게 말이 돼?",
+      "ENGLISH": "Does that even make sense?",
+      "CHINESE_SIMPLIFIED": "你觉得我会信吗?",
+      "CHINESE_TRADITIONAL": "你覺得我會信嗎?",
+      "JAPANESE": "今の、あり得るとでも思ってる？",
+      "INDONESIAN": "Masuk akal gak sih?",
+      "PORTUGUESE": "Isso faz algum sentido?",
+      "RUSSIAN": "Это вообще нормально?",
+      "FRENCH": "Ça a du sens, ça ?",
+      "THAI": "มันสมเหตุสมผลไหมเนี่ย?"
+    },
+    "TIME": {
+      "SHOW": 6.14,
+      "HIDE": 7.67
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그렇지? ",
+      "ENGLISH": "Right? ",
+      "CHINESE_SIMPLIFIED": "是吧?",
+      "CHINESE_TRADITIONAL": "是吧?",
+      "JAPANESE": "そうだよな？",
+      "INDONESIAN": "Iya, kan?",
+      "PORTUGUESE": "Certo?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Non ?",
+      "THAI": "ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너가 듣기에도 이게 말이 안 되긴 하지?",
+      "ENGLISH": "It doesn’t make sense to you either?",
+      "CHINESE_SIMPLIFIED": "你自己听听这合理吗？",
+      "CHINESE_TRADITIONAL": "你自己聽聽這合理嗎？",
+      "JAPANESE": "どう見てもおかしいよね？",
+      "INDONESIAN": "Kamu juga ngerasa aneh, kan?",
+      "PORTUGUESE": "Também não faz sentido pra você?",
+      "RUSSIAN": "Тебе это тоже кажется странным?",
+      "FRENCH": "Toi non plus, tu trouves pas ça normal ?",
+      "THAI": "พี่ว่ามันแปลกไหม?"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "... 언니!!!!",
+      "ENGLISH": "... Sister!!!!",
+      "CHINESE_SIMPLIFIED": "…姐!!!",
+      "CHINESE_TRADITIONAL": "…姐!!!",
+      "JAPANESE": "…お姉ちゃん！！！",
+      "INDONESIAN": "...Kakak!!!!",
+      "PORTUGUESE": "...Irmã!!!!",
+      "RUSSIAN": "... Сестра!!!!",
+      "FRENCH": "... Grande sœur !!!!",
+      "THAI": "... พี่สาว!!!!"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.5
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭘 보세요!",
+      "ENGLISH": "What are you looking at!",
+      "CHINESE_SIMPLIFIED": "你在看什么呢?",
+      "CHINESE_TRADITIONAL": "你在看什麼呢?",
+      "JAPANESE": "何見てるんですか！",
+      "INDONESIAN": "Apa yang kamu lihat?!",
+      "PORTUGUESE": "O que você tá olhando?!",
+      "RUSSIAN": "На что ты смотришь?!",
+      "FRENCH": "Qu’est-ce que tu regardes ?!",
+      "THAI": "มองอะไรอยู่?!"
+    },
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그러고 보고만 있을 거예요?",
+      "ENGLISH": "Are you just going to stand there and watch?",
+      "CHINESE_SIMPLIFIED": "还有，你就打算一直这么看着吗?",
+      "CHINESE_TRADITIONAL": "還有，你就打算一直這麼看着嗎?",
+      "JAPANESE": "何で、ただ見てるだけなんですか？",
+      "INDONESIAN": "Kamu mau diem aja dan nonton?",
+      "PORTUGUESE": "Vai ficar aí parado só olhando?",
+      "RUSSIAN": "Ты собираешься просто стоять и смотреть?",
+      "FRENCH": "Tu vas juste rester là à regarder ?",
+      "THAI": "จะยืนดูเฉย ๆ อย่างนี้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "왜요? ",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "どうしてですか？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아..!",
+      "ENGLISH": "Oh..!",
+      "CHINESE_SIMPLIFIED": "啊...!",
+      "CHINESE_TRADITIONAL": "啊...!",
+      "JAPANESE": "あ…！",
+      "INDONESIAN": "Oh..!",
+      "PORTUGUESE": "Ah..!",
+      "RUSSIAN": "Ох..!",
+      "FRENCH": "Oh..!",
+      "THAI": "โอ๊ย..!"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "여기...",
+      "ENGLISH": "Here...",
+      "CHINESE_SIMPLIFIED": "这个给你…",
+      "CHINESE_TRADITIONAL": "這個給你…",
+      "JAPANESE": "これ…",
+      "INDONESIAN": "Nih...",
+      "PORTUGUESE": "Aqui...",
+      "RUSSIAN": "Вот...",
+      "FRENCH": "Tiens...",
+      "THAI": "นี่..."
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저 옷만 좀 갈아입고 올게요!",
+      "ENGLISH": "I’ll just change my clothes quickly!",
+      "CHINESE_SIMPLIFIED": "我去换个衣服!",
+      "CHINESE_TRADITIONAL": "我去換個衣服!",
+      "JAPANESE": "ちょっと着替えてきますね！",
+      "INDONESIAN": "Aku ganti baju dulu, ya!",
+      "PORTUGUESE": "Vou trocar de roupa rapidinho!",
+      "RUSSIAN": "Я быстро переоденусь!",
+      "FRENCH": "Je vais vite me changer !",
+      "THAI": "ฉันจะรีบเปลี่ยนชุดเดี๋ยวนี้!"
+    },
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 15.7
+    }
+  }
+]

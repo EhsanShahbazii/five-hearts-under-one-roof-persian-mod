@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "哦…!",
+      "CHINESE_TRADITIONAL": "哦…!",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "Ой...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้...",
+      "PERSIAN": "Oh..."
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요!",
+      "ENGLISH": "Sorry!",
+      "CHINESE_SIMPLIFIED": "对不起!",
+      "CHINESE_TRADITIONAL": "對不起!",
+      "JAPANESE": "すいません！",
+      "INDONESIAN": "Maaf!",
+      "PORTUGUESE": "Desculpa!",
+      "RUSSIAN": "Прости!",
+      "FRENCH": "Désolé !",
+      "THAI": "ขอโทษ!",
+      "PERSIAN": "ببخشید دیگه غلط کردم!"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아니에요! 조금 놀라서...",
+      "ENGLISH": "Oh, it’s fine! I was just a bit surprised...",
+      "CHINESE_SIMPLIFIED": "啊，没关系! 吓我一跳…",
+      "CHINESE_TRADITIONAL": "啊，沒關係! 嚇我一跳…",
+      "JAPANESE": "い、いえ！ちょっとびっくりして…",
+      "INDONESIAN": "Oh, gak apa-apa! Aku cuma agak kaget...",
+      "PORTUGUESE": "Ah, tudo bem! Eu só me assustei um pouco...",
+      "RUSSIAN": "О, всё нормально! Я просто немного удивилась...",
+      "FRENCH": "Oh, c’est rien ! J’ai juste été un peu surprise...",
+      "THAI": "โอ้ ไม่เป็นไร! ฉันแค่ตกใจนิดหน่อย...",
+      "PERSIAN": "اوه، خوب است! فقط کمی تعجب کردم..."
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "내릴까요?",
+      "ENGLISH": "Should we get out?",
+      "CHINESE_SIMPLIFIED": "下车吧?",
+      "CHINESE_TRADITIONAL": "下車吧?",
+      "JAPANESE": "降りましょうか？",
+      "INDONESIAN": "Kita keluar, yuk?",
+      "PORTUGUESE": "Vamos sair?",
+      "RUSSIAN": "Выходим?",
+      "FRENCH": "On sort ?",
+      "THAI": "เราควรออกไปไหม?",
+      "PERSIAN": "باید بریم بیرون؟"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.2
+    }
+  }
+]

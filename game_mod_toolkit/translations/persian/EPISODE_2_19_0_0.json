@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어..! 스타킹이...",
+      "ENGLISH": "Oh! Stocking...",
+      "CHINESE_SIMPLIFIED": "嗯? 丝袜怎么…",
+      "CHINESE_TRADITIONAL": "嗯? 絲襪怎麼…",
+      "JAPANESE": "あっ…！ストッキングが…",
+      "INDONESIAN": "Oh! Stoking...",
+      "PORTUGUESE": "Oh! Meias...",
+      "RUSSIAN": "Ой! Чулки...",
+      "FRENCH": "Oh ! Des bas...",
+      "THAI": "โอ้! ถุงน่อง...",
+      "PERSIAN": "اوه! جوراب ساق بلند..."
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.2
+    }
+  }
+]

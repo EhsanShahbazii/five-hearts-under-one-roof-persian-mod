@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 너나 잘해.",
+      "ENGLISH": "Mind your own business.",
+      "CHINESE_SIMPLIFIED": "呀，管好你自己吧。",
+      "CHINESE_TRADITIONAL": "呀，管好你自己吧。",
+      "JAPANESE": "お前こそちゃんとやれよ。",
+      "INDONESIAN": "Urus aja urusanmu sendiri.",
+      "PORTUGUESE": "Cuida da sua vida.",
+      "RUSSIAN": "Не лезь не в своё дело.",
+      "FRENCH": "Occupe-toi de tes affaires.",
+      "THAI": "อย่ายุ่งเรื่องของฉัน",
+      "PERSIAN": "به کار خودت فکر کن"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나 잘하고 있거든?",
+      "ENGLISH": "I'm doing good my own, though.",
+      "CHINESE_SIMPLIFIED": "不用你操心",
+      "CHINESE_TRADITIONAL": "不用你操心",
+      "JAPANESE": "ちゃんとやってるんですけど？",
+      "INDONESIAN": "Aku juga baik-baik aja kok.",
+      "PORTUGUESE": "Eu tô me virando bem sozinho, viu.",
+      "RUSSIAN": "Я и так справляюсь.",
+      "FRENCH": "Je m'en sors très bien tout seul, merci.",
+      "THAI": "ฉันก็ทำได้ดีด้วยตัวเองอยู่แล้ว",
+      "PERSIAN": "با این حال، من کار خودم را خوب انجام می دهم."
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    }
+  }
+]

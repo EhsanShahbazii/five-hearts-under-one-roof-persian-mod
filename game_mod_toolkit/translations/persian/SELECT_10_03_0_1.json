@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "빵야 빵야!",
+      "ENGLISH": "Bang! Bang!...",
+      "CHINESE_SIMPLIFIED": "砰砰",
+      "CHINESE_TRADITIONAL": "砰砰",
+      "JAPANESE": "バンバン！",
+      "INDONESIAN": "Bang! Bang!...",
+      "PORTUGUESE": "Bang! Bang!...",
+      "RUSSIAN": "Бах! Бах!…",
+      "FRENCH": "Pan ! Pan !...",
+      "THAI": "ปัง! ปัง!…",
+      "PERSIAN": "بنگ! بنگ!..."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그르륵 칵칵 뱅뱅",
+      "ENGLISH": "chkk chkk bang bang!",
+      "CHINESE_SIMPLIFIED": "突突突 哒哒 砰砰",
+      "CHINESE_TRADITIONAL": "突突突 噠噠 砰砰",
+      "JAPANESE": "カチカチッ、バンバン！",
+      "INDONESIAN": "chkk chkk bang bang!",
+      "PORTUGUESE": "chkk chkk bang bang!",
+      "RUSSIAN": "чкк чкк бах бах!",
+      "FRENCH": "chk chk pan pan !",
+      "THAI": "แชค แชค ปัง ปัง!",
+      "PERSIAN": "chkk چک بنگ بنگ!"
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안... 오빠가 헷갈렸다...",
+      "ENGLISH": "Oh wait, my bad! I must’ve mixed it up.",
+      "CHINESE_SIMPLIFIED": "对不起, 我记混了…",
+      "CHINESE_TRADITIONAL": "對不起, 我記混了…",
+      "JAPANESE": "ごめん…俺が間違えてたみたい…",
+      "INDONESIAN": "Oh, tunggu, maaf! Sepertinya aku salah ingat.",
+      "PORTUGUESE": "Ah, espera, foi mal! Acho que confundi.",
+      "RUSSIAN": "Ой, прости! Похоже, я всё перепутала.",
+      "FRENCH": "Oh, attends, désolée ! J’ai dû confondre.",
+      "THAI": "อุ๊ย เดี๋ยวนะ ขอโทษที! ฉันคงจำผิด",
+      "PERSIAN": "اوه صبر کن بد من! حتما قاطیش کردم"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "대신에 오빠랑 다음에 오락실 가면",
+      "ENGLISH": "But hey, next time we hit the arcade",
+      "CHINESE_SIMPLIFIED": "不过下次再去游戏厅的话",
+      "CHINESE_TRADITIONAL": "不過下次再去遊戲廳的話",
+      "JAPANESE": "代わりに、次一緒にゲームセンター行った時は",
+      "INDONESIAN": "Tapi hei, lain kali kita ke arcade,",
+      "PORTUGUESE": "Mas olha, da próxima vez que formos ao arcade,",
+      "RUSSIAN": "Но знаешь что, в следующий раз, когда пойдём в игровой зал,",
+      "FRENCH": "Mais écoute, la prochaine fois qu’on ira à l’arcade,",
+      "THAI": "แต่เฮ้ ครั้งหน้าไปอาเขตกัน",
+      "PERSIAN": "اما هی، دفعه بعد که به بازی آرکید می رویم"
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그땐 총 게임도 하자! ",
+      "ENGLISH": "Let’s play a shooting game together!",
+      "CHINESE_SIMPLIFIED": "一起玩打枪游戏",
+      "CHINESE_TRADITIONAL": "一起玩打槍遊戲",
+      "JAPANESE": "シューティングゲームやろうか！",
+      "INDONESIAN": "Main game tembak-tembakan bareng, yuk!",
+      "PORTUGUESE": "Vamos jogar um jogo de tiro juntos!",
+      "RUSSIAN": "давай сыграем в стрелялку вместе!",
+      "FRENCH": "on jouera à un jeu de tir ensemble !",
+      "THAI": "มาเล่นเกมยิงปืนด้วยกันเถอะ!",
+      "PERSIAN": "بیایید با هم یک بازی تیراندازی بازی کنیم!"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어때?",
+      "ENGLISH": "What do you think?",
+      "CHINESE_SIMPLIFIED": "怎么样?",
+      "CHINESE_TRADITIONAL": "怎麼樣?",
+      "JAPANESE": "どう？",
+      "INDONESIAN": "Gimana menurutmu?",
+      "PORTUGUESE": "O que acha?",
+      "RUSSIAN": "Что скажешь?",
+      "FRENCH": "Qu’en dis-tu ?",
+      "THAI": "ว่าไง?",
+      "PERSIAN": "نظر شما چیه؟"
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 11.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭐.. 그러던가!",
+      "ENGLISH": "Sure, if that’s what you want.",
+      "CHINESE_SIMPLIFIED": "那…就这样吧",
+      "CHINESE_TRADITIONAL": "那…就這樣吧",
+      "JAPANESE": "まあ…いいわよ。",
+      "INDONESIAN": "Boleh, kalau itu yang kamu mau.",
+      "PORTUGUESE": "Claro, se é isso que você quer.",
+      "RUSSIAN": "Ладно, если тебе этого хочется.",
+      "FRENCH": "D’accord, si c’est ce que tu veux.",
+      "THAI": "ได้สิ ถ้านั่นคือสิ่งที่คุณต้องการ",
+      "PERSIAN": "مطمئناً، اگر این همون چیزی است که شما می خواهید."
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "오빠가 귀여우니까 한번 봐준다!",
+      "ENGLISH": "I guess I’ll let you off the hook this time.",
+      "CHINESE_SIMPLIFIED": "看在你可爱的份上这次饶了你!",
+      "CHINESE_TRADITIONAL": "看在你可愛的份上這次饒了你!",
+      "JAPANESE": "可愛いから許してあげる！",
+      "INDONESIAN": "Kali ini aku maafkan deh.",
+      "PORTUGUESE": "Acho que vou te deixar escapar dessa vez.",
+      "RUSSIAN": "Пожалуй, на этот раз я тебя прощаю.",
+      "FRENCH": "Je suppose que je vais te laisser passer cette fois.",
+      "THAI": "งั้นครั้งนี้ฉันจะปล่อยคุณไปก็แล้วกัน",
+      "PERSIAN": "حدس می‌زنم این بار شما را از قلاب خارج خواهم کرد."
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.5
+    }
+  }
+]

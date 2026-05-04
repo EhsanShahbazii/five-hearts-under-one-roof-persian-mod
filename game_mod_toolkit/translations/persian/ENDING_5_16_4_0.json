@@ -1,0 +1,220 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이씨! 안에 있어요?",
+      "ENGLISH": "Seung-yi! Are you in there?",
+      "CHINESE_SIMPLIFIED": "圣依啊，你在里面吗?",
+      "CHINESE_TRADITIONAL": "聖依啊，你在裏面嗎?",
+      "JAPANESE": "スンイさん！中にいますか？",
+      "INDONESIAN": "Seung-yi! Kamu di dalam?",
+      "PORTUGUESE": "Seung-yi! Você está aí?",
+      "RUSSIAN": "Сын-и! Ты там?",
+      "FRENCH": "Seung-yi ! Tu es là ?",
+      "THAI": "ซึงอี! เธออยู่ข้างในไหม?",
+      "PERSIAN": "سونگ یی! اونجا هستی؟"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨? 저 들어가요?",
+      "ENGLISH": "Seung-yi? I’m coming in, okay?",
+      "CHINESE_SIMPLIFIED": "圣依? 我进去了啊?",
+      "CHINESE_TRADITIONAL": "聖依? 我進去了啊?",
+      "JAPANESE": "スンイさん？入りますよ？",
+      "INDONESIAN": "Seung-yi? Aku masuk, ya?",
+      "PORTUGUESE": "Seung-yi? Vou entrar, tá?",
+      "RUSSIAN": "Сын-и? Я захожу, ладно?",
+      "FRENCH": "Seung-yi ? J’entre, d’accord ?",
+      "THAI": "ซึงอี? ฉันจะเข้าไปแล้วนะ",
+      "PERSIAN": "سونگ یی؟ من میام داخل، باشه؟"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨?",
+      "ENGLISH": "Seung-yi?",
+      "CHINESE_SIMPLIFIED": "圣依?",
+      "CHINESE_TRADITIONAL": "聖依?",
+      "JAPANESE": "スンイさん？",
+      "INDONESIAN": "Seung-yi?",
+      "PORTUGUESE": "Seung-yi?",
+      "RUSSIAN": "Сын-и?",
+      "FRENCH": "Seung-yi ?",
+      "THAI": "ซึงอี?",
+      "PERSIAN": "سونگ یی؟"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그 옷은 뭐예요?",
+      "ENGLISH": "What’s with those clothes?",
+      "CHINESE_SIMPLIFIED": "这衣服是什么情况?",
+      "CHINESE_TRADITIONAL": "這衣服是什麼情況?",
+      "JAPANESE": "その服…何ですか？",
+      "INDONESIAN": "Itu pakaian apa?",
+      "PORTUGUESE": "Que roupas são essas?",
+      "RUSSIAN": "Что это за одежда?",
+      "FRENCH": "Qu’est-ce que c’est que ces vêtements ?",
+      "THAI": "ชุดพวกนั้นมันอะไรน่ะ?",
+      "PERSIAN": "اون لباسا چیه"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "这不是",
+      "CHINESE_TRADITIONAL": "這不是",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Oh?",
+      "RUSSIAN": "О?",
+      "FRENCH": "Oh ?",
+      "THAI": "อ้าว?",
+      "PERSIAN": "Oh?"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "말숙이 지갑이다. ",
+      "ENGLISH": "Mal-sook’s wallet.",
+      "CHINESE_SIMPLIFIED": "高末淑的钱包吗?",
+      "CHINESE_TRADITIONAL": "高末淑的錢包嗎?",
+      "JAPANESE": "あれ、マルスクの財布じゃん。",
+      "INDONESIAN": "Dompetnya Mal-sook.",
+      "PORTUGUESE": "A carteira da Mal-sook.",
+      "RUSSIAN": "Кошелёк Мал-Сук.",
+      "FRENCH": "Le portefeuille de Mal-sook.",
+      "THAI": "กระเป๋าสตางค์ของมัลซุก",
+      "PERSIAN": "کیف پول مال‌سوک"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "에이씨!",
+      "ENGLISH": "Damn it...",
+      "CHINESE_SIMPLIFIED": "我去…",
+      "CHINESE_TRADITIONAL": "我去…",
+      "JAPANESE": "なんだよ、これ！",
+      "INDONESIAN": "Sial...",
+      "PORTUGUESE": "Droga...",
+      "RUSSIAN": "Чёрт...",
+      "FRENCH": "Mince...",
+      "THAI": "บ้าเอ๊ย...",
+      "PERSIAN": "Damn it..."
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "승이씨! 승이씨!",
+      "ENGLISH": "Seung-yi? Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依? 圣依!",
+      "CHINESE_TRADITIONAL": "聖依? 聖依!",
+      "JAPANESE": "スンイさん！スンイさん！",
+      "INDONESIAN": "Seung-yi? Seung-yi!",
+      "PORTUGUESE": "Seung-yi? Seung-yi!",
+      "RUSSIAN": "Сын-и? Сын-и!",
+      "FRENCH": "Seung-yi ? Seung-yi !",
+      "THAI": "ซึงอี? ซึงอี!",
+      "PERSIAN": "سونگ یی؟ سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "어디 간 거야?",
+      "ENGLISH": "Where did you go?",
+      "CHINESE_SIMPLIFIED": "她去哪了？",
+      "CHINESE_TRADITIONAL": "她去哪了？",
+      "JAPANESE": "どこ行ったんだよ？",
+      "INDONESIAN": "Kamu ke mana?",
+      "PORTUGUESE": "Onde você foi?",
+      "RUSSIAN": "Куда ты ушла?",
+      "FRENCH": "Où es-tu allée ?",
+      "THAI": "เธอหายไปไหน?",
+      "PERSIAN": "کجا رفتی؟"
+    },
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "도둑이었어?",
+      "ENGLISH": "Was she a thief this whole time?",
+      "CHINESE_SIMPLIFIED": "不会是小偷吧?",
+      "CHINESE_TRADITIONAL": "不會是小偷吧?",
+      "JAPANESE": "まさか、泥棒だったのか？",
+      "INDONESIAN": "Jadi dia pencuri selama ini?",
+      "PORTUGUESE": "Será que ela foi uma ladra esse tempo todo?",
+      "RUSSIAN": "Она всё это время была воровкой?",
+      "FRENCH": "Elle était une voleuse depuis le début ?",
+      "THAI": "ที่แท้เธอเป็นขโมยมาตลอดเลยเหรอ?",
+      "PERSIAN": "او در تمام این مدت دزد بود؟"
+    },
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "ENGLISH": "[Wanted / Seung-yi (age 23)]",
+      "CHINESE_SIMPLIFIED": "[寻人启事 / 曹圣依（23岁)]",
+      "CHINESE_TRADITIONAL": "[尋人啓事 / 曹聖依（23歲)]",
+      "INDONESIAN": "[Dicari / Seung-yi (usia 23)]",
+      "PORTUGUESE": "[Procurada / Seung-yi (23 anos)]",
+      "RUSSIAN": "[В розыске / Сын-и (23 года)]",
+      "FRENCH": "[Recherchée / Seung-yi (23 ans)]",
+      "THAI": "[ต้องการตัว / ซึงอี (อายุ 23 ปี)]",
+      "PERSIAN": "[تحت تعقیب / سئونگ-یی (23 ساله)]"
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 46.3
+    }
+  }
+]

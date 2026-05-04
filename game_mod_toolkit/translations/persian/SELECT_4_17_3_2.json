@@ -1,0 +1,342 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "간만에 소풍 온 거 같고 신나네요.",
+      "ENGLISH": "It feels like a picnic, it’s exciting.",
+      "CHINESE_SIMPLIFIED": "久违的有种来春游的感觉，真好",
+      "CHINESE_TRADITIONAL": "久違的有種來春遊的感覺，真好",
+      "JAPANESE": "久しぶりにピクニックに来たみたいで、ワクワクしますね。",
+      "INDONESIAN": "Rasanya kayak piknik, seru banget.",
+      "PORTUGUESE": "Parece um piquenique, é muito empolgante.",
+      "RUSSIAN": "Чувствуется, как пикник, так здорово.",
+      "FRENCH": "On dirait un pique-nique, c’est excitant.",
+      "THAI": "เหมือนออกมาปิกนิกเลย ตื่นเต้นจัง",
+      "PERSIAN": "مثل یک پیک نیک است، هیجان انگیز است."
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "소풍...?",
+      "ENGLISH": "A picnic...?",
+      "CHINESE_SIMPLIFIED": "春游?",
+      "CHINESE_TRADITIONAL": "春遊?",
+      "JAPANESE": "ピクニック…？",
+      "INDONESIAN": "Piknik...?",
+      "PORTUGUESE": "Piquenique...?",
+      "RUSSIAN": "Пикник...?",
+      "FRENCH": "Un pique-nique...?",
+      "THAI": "ปิกนิก...?",
+      "PERSIAN": "پیک نیک...؟"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "소풍이 뭐예요?",
+      "ENGLISH": "What’s a picnic?",
+      "CHINESE_SIMPLIFIED": "什么是春游啊?",
+      "CHINESE_TRADITIONAL": "什麼是春遊啊?",
+      "JAPANESE": "ピクニックって何ですか？",
+      "INDONESIAN": "Apa itu piknik?",
+      "PORTUGUESE": "O que é um piquenique?",
+      "RUSSIAN": "Что такое пикник?",
+      "FRENCH": "C’est quoi, un pique-nique ?",
+      "THAI": "ปิกนิกคืออะไร?",
+      "PERSIAN": "پیک نیک چیه؟"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "풍선?",
+      "ENGLISH": "A balloon?",
+      "CHINESE_SIMPLIFIED": "气球的意思吗?",
+      "CHINESE_TRADITIONAL": "氣球的意思嗎?",
+      "JAPANESE": "風船？",
+      "INDONESIAN": "Balon?",
+      "PORTUGUESE": "Um balão?",
+      "RUSSIAN": "Воздушный шарик?",
+      "FRENCH": "Un ballon ?",
+      "THAI": "ลูกโป่งเหรอ?",
+      "PERSIAN": "یک بادکنک؟"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "라면 불겠다! 얼른 먹어요!",
+      "ENGLISH": "The ramen’s getting soggy! Eat it quickly!",
+      "CHINESE_SIMPLIFIED": "快吃泡面吧, 面要坨了!",
+      "CHINESE_TRADITIONAL": "快吃泡麪吧, 面要坨了!",
+      "JAPANESE": "麺が伸びるので、早く食べてください！",
+      "INDONESIAN": "Ramennya udah mulai lembek! Cepet makan!",
+      "PORTUGUESE": "O ramen tá ficando murcho! Come rápido!",
+      "RUSSIAN": "Рамэн размокает! Ешь быстрее!",
+      "FRENCH": "Les ramens deviennent mous ! Mange vite !",
+      "THAI": "ราเม็งเริ่มอืดแล้วนะ! กินเร็วๆ!",
+      "PERSIAN": "رامن خیس می شود! سریع بخور!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "잘 먹겠습니다!",
+      "ENGLISH": "Thank you for the food!",
+      "CHINESE_SIMPLIFIED": "谢谢招待!",
+      "CHINESE_TRADITIONAL": "謝謝招待!",
+      "JAPANESE": "いただきます！",
+      "INDONESIAN": "Makasih buat makanannya!",
+      "PORTUGUESE": "Obrigado(a) pela comida!",
+      "RUSSIAN": "Спасибо за еду!",
+      "FRENCH": "Merci pour le repas !",
+      "THAI": "ขอบคุณสำหรับอาหาร!",
+      "PERSIAN": "از شما برای غذا ممنونم!"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니 근데 그 오빠가 나 집 가려는데, 잡고서는",
+      "ENGLISH": "By the way, there was this guy who stopped me and said, ",
+      "CHINESE_SIMPLIFIED": "“他看我要走就抓住我说”",
+      "CHINESE_TRADITIONAL": "“他看我要走就抓住我說”",
+      "JAPANESE": "そのお兄さんが私を家に連れて行こうとしてさ",
+      "INDONESIAN": "Ngomong-ngomong, tadi ada cowok yang berhentiin aku dan bilang,",
+      "PORTUGUESE": "Aliás, teve um cara que me parou e disse,",
+      "RUSSIAN": "Кстати, один парень остановил меня и сказал,",
+      "FRENCH": "D’ailleurs, un gars m’a arrêté et m’a dit :",
+      "THAI": "ว่าแต่ มีผู้ชายคนนึงมาหยุดฉันแล้วบอกว่า",
+      "PERSIAN": "اتفاقاً این مرد بود که جلوی من را گرفت و گفت:"
+    },
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "‘우리 집에서 라면 먹고 갈래?’ 이러는 거야!",
+      "ENGLISH": "Wanna come to my place for ramen?' ",
+      "CHINESE_SIMPLIFIED": "“要不要在我家吃了泡面再走?”",
+      "CHINESE_TRADITIONAL": "“要不要在我家吃了泡麪再走?”",
+      "JAPANESE": "家でラーメン食べていかない？って言ってきたの。",
+      "INDONESIAN": "‘Mau ke tempatku buat makan ramen?’",
+      "PORTUGUESE": "‘Quer ir pra minha casa comer ramen?’",
+      "RUSSIAN": "«Хочешь ко мне на рамэн?»",
+      "FRENCH": "« Tu veux venir chez moi pour des ramens ? »",
+      "THAI": "อยากไปกินราเม็งที่บ้านฉันไหม?",
+      "PERSIAN": "می خواهید برای رامن به محل من بیایید؟"
+    },
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "미쳤나 봐!",
+      "ENGLISH": "Isn’t he crazy!",
+      "CHINESE_SIMPLIFIED": "“真是疯了!”",
+      "CHINESE_TRADITIONAL": "“真是瘋了!”",
+      "JAPANESE": "ほんと、頭おかしいよね～",
+      "INDONESIAN": "Dia gila, kan!",
+      "PORTUGUESE": "Ele é maluco, né!",
+      "RUSSIAN": "Он сумасшедший, да?",
+      "FRENCH": "Il est fou, non ?",
+      "THAI": "เขาบ้าหรือเปล่า!",
+      "PERSIAN": "او دیوانه نیست!"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님",
+      "ENGLISH": "Yuman",
+      "CHINESE_SIMPLIFIED": "宥万",
+      "CHINESE_TRADITIONAL": "宥萬",
+      "JAPANESE": "ユマンさん",
+      "INDONESIAN": "Yuman,",
+      "PORTUGUESE": "Yuman,",
+      "RUSSIAN": "Юман,",
+      "FRENCH": "Yuman,",
+      "THAI": "ยูมัน",
+      "PERSIAN": "یومان"
+    },
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 22.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "라면 집에서 먹으면 안 돼요?",
+      "ENGLISH": "Can’t we eat ramen at home?",
+      "CHINESE_SIMPLIFIED": "泡面是不能在家吃的吗?",
+      "CHINESE_TRADITIONAL": "泡麪是不能在家吃的嗎?",
+      "JAPANESE": "家でラーメン食べたらダメなんですか？",
+      "INDONESIAN": "Kita gak bisa makan ramen di rumah?",
+      "PORTUGUESE": "A gente não pode comer ramen em casa?",
+      "RUSSIAN": "разве нельзя поесть рамэн дома?",
+      "FRENCH": "on peut pas manger des ramens à la maison ?",
+      "THAI": "เราไปกินราเม็งที่บ้านไม่ได้เหรอ?",
+      "PERSIAN": "نمی توانیم رامن را در خونه بخوریم؟"
+    },
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 25.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아니 집에서 라면 먹는 게 미쳤다고 하셔가지구~",
+      "ENGLISH": "I mean, you said eating ramen at home was crazy...",
+      "CHINESE_SIMPLIFIED": "旁边那个人说，在家吃泡面的人是疯子…",
+      "CHINESE_TRADITIONAL": "旁邊那個人說，在家吃泡麪的人是瘋子…",
+      "JAPANESE": "家でラーメン食べるの、頭おかしいって聞こえてたから",
+      "INDONESIAN": "Maksudku, kamu tadi bilang makan ramen di rumah itu gila...",
+      "PORTUGUESE": "Quer dizer, você disse que comer ramen em casa era loucura...",
+      "RUSSIAN": "Ну, ты сказала, что приглашать на рамэн домой — это безумие...",
+      "FRENCH": "Je veux dire, tu as dit que c’était fou de manger des ramens à la maison...",
+      "THAI": "ฉันหมายถึง เธอบอกว่ากินราเม็งที่บ้านมันบ้า...",
+      "PERSIAN": "یعنی گفتی رامن خوردن تو خونه دیوونه بود..."
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 30.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "그게... 요즘에는",
+      "ENGLISH": "Well... Nowadays",
+      "CHINESE_SIMPLIFIED": "那个…",
+      "CHINESE_TRADITIONAL": "那個…",
+      "JAPANESE": "それ…最近では",
+      "INDONESIAN": "Yah... Sekarang sih,",
+      "PORTUGUESE": "Bom... Hoje em dia,",
+      "RUSSIAN": "Ну... В наши дни",
+      "FRENCH": "Eh bien... De nos jours,",
+      "THAI": "อ๋อ... ทุกวันนี้",
+      "PERSIAN": "خب... این روزها"
+    },
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 31.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "‘같이 있고 싶다’ 그런 뜻으로 말하긴 하는 건데...",
+      "ENGLISH": "It’s a phrase that means ‘I want to spend more time with you’...",
+      "CHINESE_SIMPLIFIED": "这句话也有‘想和你在一起’的意思…",
+      "CHINESE_TRADITIONAL": "這句話也有‘想和你在一起’的意思…",
+      "JAPANESE": "一緒にいたいっていう意味で使うことが多いんだけど…",
+      "INDONESIAN": "Itu istilah yang artinya ‘aku mau habiskan lebih banyak waktu sama kamu’...",
+      "PORTUGUESE": "É uma frase que quer dizer ‘quero passar mais tempo com você’...",
+      "RUSSIAN": "это значит «я хочу провести с тобой больше времени»...",
+      "FRENCH": "ça veut dire « je veux passer plus de temps avec toi »...",
+      "THAI": "มันหมายถึง “ฉันอยากอยู่กับเธอนานขึ้น” น่ะ...",
+      "PERSIAN": "این جمله ای است که به معنای \"می خواهم زمان بیشتری را با تو بگذرانم\" ..."
+    },
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "아~그렇구나!",
+      "ENGLISH": "Oh, I see!",
+      "CHINESE_SIMPLIFIED": "原来是这样~",
+      "CHINESE_TRADITIONAL": "原來是這樣~",
+      "JAPANESE": "あ～そうなんだ！",
+      "INDONESIAN": "Oh, gitu!",
+      "PORTUGUESE": "Ah, entendi!",
+      "RUSSIAN": "А, понятно!",
+      "FRENCH": "Ah, je vois !",
+      "THAI": "อ้อ เข้าใจละ!",
+      "PERSIAN": "اوه، می بینم!"
+    },
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 37.3
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님, 오늘 제 방에서 라면 먹고 갈래요?",
+      "ENGLISH": "Yuman, do you want to eat ramen in my room later?",
+      "CHINESE_SIMPLIFIED": "那宥万，您今天在我的房间吃了泡面再走怎么样?",
+      "CHINESE_TRADITIONAL": "那宥萬，您今天在我的房間吃了泡麪再走怎麼樣?",
+      "JAPANESE": "ユマンさん、今日私の部屋でラーメン食べていきますか？",
+      "INDONESIAN": "Yuman, kamu mau makan ramen di kamarku nanti?",
+      "PORTUGUESE": "Yuman, você quer comer ramen no meu quarto depois?",
+      "RUSSIAN": "Юман, хочешь поесть рамэн у меня в комнате позже?",
+      "FRENCH": "Yuman, tu veux manger des ramens dans ma chambre plus tard ?",
+      "THAI": "ยูมัน อยากกินราเม็งในห้องฉันไหม?",
+      "PERSIAN": "یومان میخوای بعدا تو اتاق من رامن بخوری؟"
+    },
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 40.7
+    }
+  }
+]

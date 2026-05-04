@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜? 걔 예뻐?",
+      "ENGLISH": "Really? Is she pretty?",
+      "CHINESE_SIMPLIFIED": "真的吗?她漂亮吗?",
+      "CHINESE_TRADITIONAL": "真的嗎?她漂亮嗎?",
+      "JAPANESE": "あ、本当？その子、可愛い？",
+      "INDONESIAN": "Serius? Dia cantik?",
+      "PORTUGUESE": "Sério? Ela é bonita?",
+      "RUSSIAN": "Правда? Она красивая?",
+      "FRENCH": "Vraiment ? Elle est jolie ?",
+      "THAI": "จริงเหรอ? เธอสวยไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어! 완전 예뻐!",
+      "ENGLISH": "Yes! Super pretty! She's gorgeous!",
+      "CHINESE_SIMPLIFIED": "嗯!相当漂亮!",
+      "CHINESE_TRADITIONAL": "嗯!相當漂亮!",
+      "JAPANESE": "うん！めっちゃ可愛いよ！",
+      "INDONESIAN": "Iya! Cantik banget! Dia luar biasa!",
+      "PORTUGUESE": "Sim! Super bonita! Ela é maravilhosa!",
+      "RUSSIAN": "Да! Очень красивая! Просто потрясающая!",
+      "FRENCH": "Oui ! Super jolie ! Elle est splendide !",
+      "THAI": "ใช่! สวยมาก! เธอสวยสุดๆ!"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "굴러가면서 봐도 예쁘고. 평생이 리즈야!",
+      "ENGLISH": "Hmm... Really? She doesn't seem like she'll give up?",
+      "CHINESE_SIMPLIFIED": "全方位无死角，一辈子都很漂亮!",
+      "CHINESE_TRADITIONAL": "全方位無死角，一輩子都很漂亮!",
+      "JAPANESE": "転がってても可愛いし、何しても可愛いの！",
+      "INDONESIAN": "Hmm… Serius? Dia nggak kelihatan mau menyerah?",
+      "PORTUGUESE": "Hmm... Sério? Ela não parece que vai desistir?",
+      "RUSSIAN": "Хмм... Правда? Она не собирается сдаваться?",
+      "FRENCH": "Hmm... Vraiment ? Elle ne semble pas vouloir abandonner ?",
+      "THAI": "หืม... จริงเหรอ? เธอดูเหมือนจะไม่ยอมแพ้เลยนะ?"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그래? 포기할 마음이 전혀 없대?",
+      "ENGLISH": "Nope, not at all.",
+      "CHINESE_SIMPLIFIED": "这样啊…她没有放弃的打算吗?",
+      "CHINESE_TRADITIONAL": "這樣啊…她沒有放棄的打算嗎?",
+      "JAPANESE": "諦める気は全然ないんだ？",
+      "INDONESIAN": "Nggak, sama sekali nggak.",
+      "PORTUGUESE": "Não, de jeito nenhum.",
+      "RUSSIAN": "Нет, совсем нет.",
+      "FRENCH": "Non, pas du tout.",
+      "THAI": "ไม่เลย ไม่ยอมแพ้เลย"
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "응 완전.",
+      "ENGLISH": "Hmm... ",
+      "CHINESE_SIMPLIFIED": "嗯, 完全没有",
+      "CHINESE_TRADITIONAL": "嗯, 完全沒有",
+      "JAPANESE": "うん、全然。",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хмм...",
+      "FRENCH": "Hmm...",
+      "THAI": "หืม..."
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아... 그래?",
+      "ENGLISH": "Really? Well... ",
+      "CHINESE_SIMPLIFIED": "啊 是吗?",
+      "CHINESE_TRADITIONAL": "啊 是嗎?",
+      "JAPANESE": "あ…そうなんだ…",
+      "INDONESIAN": "Benarkah? Nah…",
+      "PORTUGUESE": "Sério? Bom…",
+      "RUSSIAN": "Правда? Ну...",
+      "FRENCH": "Vraiment ? Bon...",
+      "THAI": "จริงเหรอ? อืม..."
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "다른 남자 소개받을 생각은 없대?",
+      "ENGLISH": "Has she thought about meeting someone else?",
+      "CHINESE_SIMPLIFIED": "她就不想认识下其他男生?",
+      "CHINESE_TRADITIONAL": "她就不想認識下其他男生?",
+      "JAPANESE": "他の男と会う気はないって？",
+      "INDONESIAN": "Apa dia pernah berpikir buat ketemu orang lain?",
+      "PORTUGUESE": "Será que ela já pensou em conhecer outra pessoa?",
+      "RUSSIAN": "Она думала о том, чтобы встретить кого-то другого?",
+      "FRENCH": "Elle a pensé à rencontrer quelqu’un d’autre ?",
+      "THAI": "เธอเคยคิดที่จะเจอคนอื่นบ้างไหม?"
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 짜증나 우유만!",
+      "ENGLISH": "I'm so frustrated! I just want some milk!",
+      "CHINESE_SIMPLIFIED": "啊! 吴宥万你真烦人!",
+      "CHINESE_TRADITIONAL": "啊! 吳宥萬你真煩人!",
+      "JAPANESE": "あ、ほんとイライラする！",
+      "INDONESIAN": "Aduh, sebel banget! Aku cuma mau susu!",
+      "PORTUGUESE": "Tô tão frustrado! Eu só quero leite!",
+      "RUSSIAN": "Я так раздражена! Просто хочу молока!",
+      "FRENCH": "Je suis tellement frustrée ! Je veux juste du lait !",
+      "THAI": "ฉันหงุดหงิดมาก! ฉันแค่อยากได้นม!"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야... 어디가!",
+      "ENGLISH": "Hey...wait up!",
+      "CHINESE_SIMPLIFIED": "什么啊？去哪儿！",
+      "CHINESE_TRADITIONAL": "什麼啊？去哪兒！",
+      "JAPANESE": "おい、ちょっと！どこ行くんだよ！",
+      "INDONESIAN": "Hey… tunggu dulu!",
+      "PORTUGUESE": "Ei... espera aí!",
+      "RUSSIAN": "Эй... подожди!",
+      "FRENCH": "Hé... attends !",
+      "THAI": "เฮ้... เดี๋ยวก่อน!"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어디가 고은비!",
+      "ENGLISH": "Hey, Go Eun-bi!",
+      "CHINESE_SIMPLIFIED": "喂!高恩妃!",
+      "CHINESE_TRADITIONAL": "喂!高恩妃!",
+      "JAPANESE": "どこ行くだ、ウンビ！",
+      "INDONESIAN": "Hey, Go Eun-bi!",
+      "PORTUGUESE": "Ei, Go Eun-bi!",
+      "RUSSIAN": "Эй, Го Ын-би!",
+      "FRENCH": "Hé, Go Eun-bi !",
+      "THAI": "เฮ้, โก อึนบี!"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "같이 가~!",
+      "ENGLISH": "Wait up!",
+      "CHINESE_SIMPLIFIED": "一起走啊!",
+      "CHINESE_TRADITIONAL": "一起走啊!",
+      "JAPANESE": "一人で行ったら、危ないだろ！",
+      "INDONESIAN": "Tunggu!",
+      "PORTUGUESE": "Espera!",
+      "RUSSIAN": "Подожди!",
+      "FRENCH": "Attends !",
+      "THAI": "เดี๋ยวก่อน!"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.3
+    }
+  }
+]

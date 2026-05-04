@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨 눈이 진짜 예쁜 거 알아요?",
+      "ENGLISH": "Seung-yi, do you know your eyes are really beautiful?",
+      "CHINESE_SIMPLIFIED": "圣依你知道吗?你的眼睛特别美",
+      "CHINESE_TRADITIONAL": "聖依你知道嗎?你的眼睛特別美",
+      "JAPANESE": "スンイさんの目、本当に綺麗だってこと",
+      "INDONESIAN": "Seung-yi, kamu tahu nggak kalau matamu sangat indah?",
+      "PORTUGUESE": "Seung-yi, você sabia que seus olhos são realmente lindos?",
+      "RUSSIAN": "Сын-и, ты знаешь, что у тебя очень красивые глаза?",
+      "FRENCH": "Seung-yi, tu sais que tes yeux sont vraiment magnifiques ?",
+      "THAI": "ซึงอี คุณรู้ไหมว่าดวงตาของคุณสวยมาก?"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "What??",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "えっ？？",
+      "INDONESIAN": "Apa??",
+      "PORTUGUESE": "O quê??",
+      "RUSSIAN": "Что??",
+      "FRENCH": "Quoi ??",
+      "THAI": "อะไรนะ??"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨 눈 보면 다들 그렇게 생각할걸요?",
+      "ENGLISH": "I bet anyone who looks into your eyes would think the same.",
+      "CHINESE_SIMPLIFIED": "任何人看到你的眼睛应该都会这么说的",
+      "CHINESE_TRADITIONAL": "任何人看到你的眼睛應該都會這麼說的",
+      "JAPANESE": "スンイさんの目を見れば、みんなそう思うはずです。",
+      "INDONESIAN": "Aku yakin siapa pun yang melihat ke dalam matamu akan berpikir hal yang sama.",
+      "PORTUGUESE": "Aposto que qualquer um que olhe nos seus olhos pensaria o mesmo.",
+      "RUSSIAN": "Спорю, любой, кто заглянет в твои глаза, подумает то же самое.",
+      "FRENCH": "Je parie que quiconque regarde dans tes yeux penserait la même chose.",
+      "THAI": "ฉันพนันได้เลยว่าใครก็ตามที่มองตาคุณต้องคิดเหมือนกันแน่ๆ"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 전, 그날 밤에 승이 씨한테 첫눈에 반한 거 같아요.",
+      "ENGLISH": "Honestly, I think I fell for you at first sight that night.",
+      "CHINESE_SIMPLIFIED": "其实，那天晚上我对你一见钟情了",
+      "CHINESE_TRADITIONAL": "其實，那天晚上我對你一見鍾情了",
+      "JAPANESE": "あの夜、スンイさんを見て、一目惚れしちゃったんです。",
+      "INDONESIAN": "Jujur, aku rasa aku jatuh cinta padamu pada pandangan pertama malam itu.",
+      "PORTUGUESE": "Sinceramente, acho que me apaixonei por você à primeira vista naquela noite.",
+      "RUSSIAN": "Честно говоря, кажется, я влюбился(ась) в тебя с первого взгляда той ночью.",
+      "FRENCH": "Honnêtement, je crois que je suis tombé(e) amoureux(se) de toi au premier regard cette nuit-là.",
+      "THAI": "พูดตามตรง ฉันคิดว่าฉันตกหลุมรักคุณตั้งแต่แรกเห็นคืนนั้น"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이잉...!",
+      "ENGLISH": "Whaaat...!",
+      "CHINESE_SIMPLIFIED": "啊!!!",
+      "CHINESE_TRADITIONAL": "啊!!!",
+      "JAPANESE": " いやぁ...！",
+      "INDONESIAN": "Apaaan...!",
+      "PORTUGUESE": "O quêêê...!",
+      "RUSSIAN": "Чтoоо...!",
+      "FRENCH": "Quooiii... !",
+      "THAI": "อะไรเนี่ย...!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "왜, 왜요..?",
+      "ENGLISH": "Why? Why?",
+      "CHINESE_SIMPLIFIED": "你怎么了?",
+      "CHINESE_TRADITIONAL": "你怎麼了?",
+      "JAPANESE": "ど、どうしてですか？",
+      "INDONESIAN": "Kenapa? Kenapa?",
+      "PORTUGUESE": "Por quê? Por quê?",
+      "RUSSIAN": "Почему? Почему?",
+      "FRENCH": "Pourquoi ? Pourquoi ?",
+      "THAI": "ทำไมล่ะ? ทำไม?"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니 갑자기 그렇게 다정한 말 하시니까...",
+      "ENGLISH": "When you say something so sweet like that.",
+      "CHINESE_SIMPLIFIED": "您突然说这么让人心动的话",
+      "CHINESE_TRADITIONAL": "您突然說這麼讓人心動的話",
+      "JAPANESE": "いきなりそんな優しいこと言われると…",
+      "INDONESIAN": "Kamu bilang sesuatu yang manis seperti itu.",
+      "PORTUGUESE": "Quando você diz algo tão doce assim.",
+      "RUSSIAN": "Когда ты говоришь что-то такое милое...",
+      "FRENCH": "Quand tu dis quelque chose d’aussi gentil...",
+      "THAI": "เวลาคุณพูดอะไรหวานๆ แบบนั้น..."
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님을 못 보겠어요!",
+      "ENGLISH": "I can’t even look at you!",
+      "CHINESE_SIMPLIFIED": "我都没办法和您对视了!",
+      "CHINESE_TRADITIONAL": "我都沒辦法和您對視了!",
+      "JAPANESE": "ユマンさんの顔、見れません…",
+      "INDONESIAN": "Aku bahkan nggak bisa menatapmu!",
+      "PORTUGUESE": "Eu nem consigo te olhar!",
+      "RUSSIAN": "Я даже не могу смотреть на тебя!",
+      "FRENCH": "Je ne peux même pas te regarder !",
+      "THAI": "ฉันมองหน้าคุณไม่ติดเลย!"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아... 제가 너무 부담스러웠나요?",
+      "ENGLISH": "Oh... Was that too much for you?",
+      "CHINESE_SIMPLIFIED": "我…是让你有心理负担了吗?",
+      "CHINESE_TRADITIONAL": "我…是讓你有心理負擔了嗎?",
+      "JAPANESE": "あ…僕、重たかったですか？",
+      "INDONESIAN": "Oh... Apa itu terlalu berlebihan untukmu?",
+      "PORTUGUESE": "Oh... Foi demais para você?",
+      "RUSSIAN": "Ох... Это было слишком для тебя?",
+      "FRENCH": "Oh... C’était trop pour toi ?",
+      "THAI": "โอ้... มันมากไปเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요 그런 거!",
+      "ENGLISH": "No, not at all! It’s just... ",
+      "CHINESE_SIMPLIFIED": "没有没有!",
+      "CHINESE_TRADITIONAL": "沒有沒有!",
+      "JAPANESE": "違います！そんなことないです…！",
+      "INDONESIAN": "Nggak, sama sekali tidak! Hanya saja...",
+      "PORTUGUESE": "Não, de jeito nenhum! É só que...",
+      "RUSSIAN": "Нет, совсем нет! Просто...",
+      "FRENCH": "Non, pas du tout ! C’est juste...",
+      "THAI": "เปล่าเลย ไม่มากเกินไปหรอก! แค่..."
+    },
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 제가 그런 말을 처음 들어봐서...",
+      "ENGLISH": "I’ve never heard anything like that before...",
+      "CHINESE_SIMPLIFIED": "我第一次听这种话所以…",
+      "CHINESE_TRADITIONAL": "我第一次聽這種話所以…",
+      "JAPANESE": "ただ…こんなこと言われたの、初めてで…",
+      "INDONESIAN": "Aku belum pernah mendengar hal seperti itu sebelumnya...",
+      "PORTUGUESE": "Eu nunca ouvi algo assim antes...",
+      "RUSSIAN": "Я никогда не слышал(а) ничего подобного раньше...",
+      "FRENCH": "Je n’ai jamais entendu quelque chose comme ça avant...",
+      "THAI": "ฉันไม่เคยได้ยินอะไรแบบนี้มาก่อน..."
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.5
+    }
+  }
+]

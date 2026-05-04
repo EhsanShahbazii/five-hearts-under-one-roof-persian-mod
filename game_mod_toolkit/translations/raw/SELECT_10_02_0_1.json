@@ -1,0 +1,153 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우리 펀치기계 했잖아.",
+      "ENGLISH": "We played that punching game, remember?",
+      "CHINESE_SIMPLIFIED": "我们不是玩了打拳机嘛",
+      "CHINESE_TRADITIONAL": "我們不是玩了打拳機嘛",
+      "JAPANESE": "俺たち、パンチングマシーンやったじゃん。",
+      "INDONESIAN": "Kita main game pukul itu, ingat nggak?",
+      "PORTUGUESE": "Nós jogamos aquele jogo de socos, lembra?",
+      "RUSSIAN": "Мы играли в тот автомат с боксёрской грушей, помнишь?",
+      "FRENCH": "On avait joué au jeu de la machine à frapper, tu te souviens ?",
+      "THAI": "เราเล่นเกมชกเป้าไง จำได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오~",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "哇~",
+      "CHINESE_TRADITIONAL": "哇~",
+      "JAPANESE": "お〜",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "기억하네?",
+      "ENGLISH": "You’ve got a good memory.",
+      "CHINESE_SIMPLIFIED": "居然还记得",
+      "CHINESE_TRADITIONAL": "居然還記得",
+      "INDONESIAN": "Kamu punya ingatan yang bagus.",
+      "PORTUGUESE": "Você tem uma boa memória.",
+      "RUSSIAN": "У тебя отличная память.",
+      "FRENCH": "Tu as une sacrée mémoire.",
+      "THAI": "ความจำคุณดีจังเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "당연히 기억하지!",
+      "ENGLISH": "Of course I remember!",
+      "CHINESE_SIMPLIFIED": "当然记得了",
+      "CHINESE_TRADITIONAL": "當然記得了",
+      "JAPANESE": "もちろんさ。",
+      "INDONESIAN": "Tentu aku ingat!",
+      "PORTUGUESE": "Claro que eu lembro!",
+      "RUSSIAN": "Конечно, я помню!",
+      "FRENCH": "Bien sûr que je m’en souviens !",
+      "THAI": "แน่นอน ฉันจำได้!"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "펀치기계 진짜 잘 치더라.",
+      "ENGLISH": " You were really good at it.",
+      "CHINESE_SIMPLIFIED": "你还打的很好来着",
+      "CHINESE_TRADITIONAL": "你還打的很好來着",
+      "JAPANESE": "お前、すごく上手かったよな。",
+      "INDONESIAN": "Kamu jago banget mainnya.",
+      "PORTUGUESE": "Você era muito bom nisso.",
+      "RUSSIAN": "Ты тогда была очень хороша в этом.",
+      "FRENCH": "Tu étais vraiment douée à ça.",
+      "THAI": "คุณเก่งมากเลยตอนนั้น"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 지키려면",
+      "ENGLISH": "Gotta be good ",
+      "CHINESE_SIMPLIFIED": "想保护哥哥的话",
+      "CHINESE_TRADITIONAL": "想保護哥哥的話",
+      "JAPANESE": "お兄ちゃんを守るには",
+      "INDONESIAN": "Harus jago",
+      "PORTUGUESE": "Tenho que ser boa",
+      "RUSSIAN": "Надо быть хорошей,",
+      "FRENCH": "Il faut bien être forte",
+      "THAI": "ต้องเก่งสิ,"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그 정돈 해야지~",
+      "ENGLISH": "if I’m gonna protect my oppa, right?",
+      "CHINESE_SIMPLIFIED": "这种程度还是得做到的",
+      "CHINESE_TRADITIONAL": "這種程度還是得做到的",
+      "JAPANESE": "それくらいできないとね〜。",
+      "INDONESIAN": "kalau mau melindungi oppa-ku, kan?",
+      "PORTUGUESE": "se vou proteger meu oppa, né?",
+      "RUSSIAN": "чтобы защитить своего оппу, верно?",
+      "FRENCH": "pour protéger son oppa, non ?",
+      "THAI": "จะได้ปกป้องโอปป้าของฉันได้ไง!"
+    },
+    "TIME": {
+      "SHOW": 9.55,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "오빤 여전히 형편없던데?",
+      "ENGLISH": "But you… you were kinda weak back then, weren’t you?",
+      "CHINESE_SIMPLIFIED": "哥哥你还是那么菜~",
+      "CHINESE_TRADITIONAL": "哥哥你還是那麼菜~",
+      "JAPANESE": "でもオッパは、相変わらずダメダメだったけど？",
+      "INDONESIAN": "Tapi kamu... kamu agak lemah waktu itu, ya?",
+      "PORTUGUESE": "Mas você... você era meio fraco naquela época, não era?",
+      "RUSSIAN": "А вот ты… тогда был слабоват, да?",
+      "FRENCH": "Mais toi... tu étais un peu faible à l’époque, non ?",
+      "THAI": "แต่คุณ... ตอนนั้นออกจะแรงน้อยไปหน่อย ใช่ไหมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.8
+    }
+  }
+]

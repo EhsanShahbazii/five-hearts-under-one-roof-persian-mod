@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "과장님도... 사원 시절이 있었겠지?",
+      "ENGLISH": "Manager must’ve been a newbie once too, right?",
+      "CHINESE_SIMPLIFIED": "佟科长也…应该有过当普通职员的时期吧？",
+      "CHINESE_TRADITIONAL": "佟科長也…應該有過當普通職員的時期吧？",
+      "JAPANESE": "課長も…新人時代があったんだろうな。",
+      "INDONESIAN": "Manajer pasti dulu juga pernah jadi anak baru, kan?",
+      "PORTUGUESE": "O gerente também já deve ter sido novato, né?",
+      "RUSSIAN": "Менеджер тоже когда-то был новичком, да?",
+      "FRENCH": "Le manager a dû être un débutant un jour, non ?",
+      "THAI": "ผู้จัดการต้องเคยเป็นเด็กใหม่มาก่อนด้วยใช่ไหม?",
+      "PERSIAN": "مدیر باید یک بار هم تازه کار بوده باشد، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "ENGLISH": "(It’s an employee ID badge that says 'Manager Gran.')",
+      "CHINESE_SIMPLIFIED": "（标注着‘佟圆圆 科长’的员工证)",
+      "CHINESE_TRADITIONAL": "（標註着‘佟圓圓 科長’的員工證)",
+      "INDONESIAN": "(Ini kartu tanda pengenal karyawan yang bertuliskan 'Manajer Gran.')",
+      "PORTUGUESE": "(Este é o crachá de funcionário com o nome 'Gerente Gran.')",
+      "RUSSIAN": "(Это пропуск сотрудника с надписью «Менеджер Гран».)",
+      "FRENCH": "(C’est une carte d’identité d’employé avec écrit 'Manager Gran'.)",
+      "THAI": "(นี่คือบัตรพนักงานที่เขียนว่า 'ผู้จัดการแกรน')",
+      "PERSIAN": "(این یک نشان شناسه کارمند است که روی اون «Manager Gran» نوشته شده است.)"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.8
+    }
+  }
+]

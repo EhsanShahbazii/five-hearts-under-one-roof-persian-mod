@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "호우 밀크걸스~!",
+      "ENGLISH": "Woohoo, Milk Girls!",
+      "CHINESE_SIMPLIFIED": "芜湖! 牛奶少女~!",
+      "CHINESE_TRADITIONAL": "蕪湖! 牛奶少女~!",
+      "JAPANESE": "イェーイ！ミルクガールズ～！",
+      "INDONESIAN": "Wuhuu, Milk Girls!",
+      "PORTUGUESE": "Uhuu, Milk Girls!",
+      "RUSSIAN": "Ура! Milk Girls!",
+      "FRENCH": "Wouhou, Milk Girls !",
+      "THAI": "วู้ฮู Milk Girls!"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "올해 운 다 썼다!",
+      "ENGLISH": "I must have used all my luck for the year!",
+      "CHINESE_SIMPLIFIED": "我今年的好运可都用在这上面了!",
+      "CHINESE_TRADITIONAL": "我今年的好運可都用在這上面了!",
+      "JAPANESE": "今年の運、全部使い果たしちゃった！",
+      "INDONESIAN": "Kayaknya keberuntunganku setahun habis di sini!",
+      "PORTUGUESE": "Acho que usei toda a minha sorte do ano!",
+      "RUSSIAN": "Кажется, я использовал всю удачу на этот год!",
+      "FRENCH": "J’ai dû utiliser toute ma chance pour l’année !",
+      "THAI": "สงสัยใช้โชคทั้งปีไปกับเรื่องนี้แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦?",
+      "CHINESE_TRADITIONAL": "哦?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Хм?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 소리가 났는데...!",
+      "ENGLISH": "Did I just hear something...?",
+      "CHINESE_SIMPLIFIED": "好像有什么声音…!",
+      "CHINESE_TRADITIONAL": "好像有什麼聲音…!",
+      "JAPANESE": "何か音がしたような…？",
+      "INDONESIAN": "Tadi aku dengar sesuatu...?",
+      "PORTUGUESE": "Eu acabei de ouvir alguma coisa...?",
+      "RUSSIAN": "Мне показалось, или я что-то слышал...?",
+      "FRENCH": "Est-ce que j’ai entendu quelque chose...?",
+      "THAI": "เมื่อกี้ผมได้ยินอะไรหรือเปล่านะ...?"
+    },
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.93
+    }
+  }
+]

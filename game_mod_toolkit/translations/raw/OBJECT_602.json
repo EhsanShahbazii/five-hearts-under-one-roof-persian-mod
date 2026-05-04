@@ -1,0 +1,58 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내가...이런 걸 썼었나?",
+      "ENGLISH": "Did I... really write this?",
+      "CHINESE_SIMPLIFIED": "我...什么时候写的这个",
+      "CHINESE_TRADITIONAL": "我...什麼時候寫的這個",
+      "JAPANESE": "俺、こんなの書いてたっけ？",
+      "INDONESIAN": "Apa aku... beneran nulis ini?",
+      "PORTUGUESE": "Eu... realmente escrevi isso?",
+      "RUSSIAN": "Я... действительно это написал?",
+      "FRENCH": "J’ai vraiment écrit ça ?",
+      "THAI": "ฉันเขียนจริงๆ เหรอเนี่ย?"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "ENGLISH": "Eun-bi, let’s get married in ten years - from Yuman.' \n(A note Yuman gave to Eun-bi when they were kids.)",
+      "CHINESE_SIMPLIFIED": "恩妃啊~10年之后就和我结婚吧  - 宥万 \n（宥万小时候给恩妃留的字条）",
+      "CHINESE_TRADITIONAL": "恩妃啊~10年之後就和我結婚吧  - 宥萬 \n（宥萬小時候給恩妃留的字條）",
+      "JAPANESE": "ウンビ。10年後、俺と結婚しようーユマンより\n（子供の頃、ユマンがウンビに渡したメモ）",
+      "INDONESIAN": "Eun-bi, ayo kita nikah sepuluh tahun lagi - dari Yuman. \n(Ini catatan yang Yuman kasih ke Eun-bi waktu mereka masih kecil.)",
+      "PORTUGUESE": "Eun-bi, vamos nos casar daqui a dez anos – do Yuman. \n(É um bilhete que Yuman deu para Eun-bi quando eram crianças.)",
+      "RUSSIAN": "Ын-би, давай поженимся через десять лет. - Юман\n(Записка, которую Юман дал Ын-би, когда они были детьми.)",
+      "FRENCH": "Eun-bi, marions-nous dans dix ans - de Yuman.\n(Un mot que Yuman a donné à Eun-bi quand ils étaient enfants.)",
+      "THAI": "“อึนบี แต่งงานกันในอีกสิบปีนะ - จาก ยูมัน”\n(โน้ตที่ยูมันเขียนให้กับอึนบีตอนพวกเขายังเด็ก)"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "기억이 하나도 안 나는데...",
+      "ENGLISH": "I don’t remember any of it...",
+      "CHINESE_SIMPLIFIED": "一点印象也没有啊...",
+      "CHINESE_TRADITIONAL": "一點印象也沒有啊...",
+      "JAPANESE": "全然覚えてないな…",
+      "INDONESIAN": "Aku gak ingat sama sekali...",
+      "PORTUGUESE": "Eu não lembro de nada disso...",
+      "RUSSIAN": "Я совсем этого не помню...",
+      "FRENCH": "Je ne m’en souviens pas du tout...",
+      "THAI": "ฉันจำอะไรไม่ได้เลย..."
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 10.3
+    }
+  }
+]

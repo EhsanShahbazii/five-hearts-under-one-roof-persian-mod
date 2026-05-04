@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "으휴 고말숙 성질...",
+      "ENGLISH": "Phew, Go Mal-sook and her temper...",
+      "CHINESE_SIMPLIFIED": "高末淑这脾气真的是…",
+      "CHINESE_TRADITIONAL": "高末淑這脾氣真的是…",
+      "JAPANESE": "はあ、マルスクの性格ったら…",
+      "INDONESIAN": "Hah, Go Mal-sook dan temperamennya...",
+      "PORTUGUESE": "Ufa, Go Mal-sook e o temperamento dela...",
+      "RUSSIAN": "Фух, эта Го Мал-Сук со своим характером...",
+      "FRENCH": "Pfiou, Go Mal-sook et son tempérament...",
+      "THAI": "เฮ้อ โก มัลซุกกับนิสัยของเธอ...",
+      "PERSIAN": "فوو، برو مال‌سوک و عصبانیتش..."
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "What the heck",
+      "CHINESE_SIMPLIFIED": "我去!",
+      "CHINESE_TRADITIONAL": "我去!",
+      "JAPANESE": "何だよ？",
+      "INDONESIAN": "Apa-apaan sih",
+      "PORTUGUESE": "Que diabos",
+      "RUSSIAN": "Что за черт?",
+      "FRENCH": "C’est quoi ça ?",
+      "THAI": "อะไรกันเนี่ย",
+      "PERSIAN": "چه لعنتی"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 넘어질 뻔했네!",
+      "ENGLISH": "I almost fell!",
+      "CHINESE_SIMPLIFIED": "刚才差点就摔倒了!",
+      "CHINESE_TRADITIONAL": "剛纔差點就摔倒了!",
+      "JAPANESE": "本当に転びそうだったじゃん！",
+      "INDONESIAN": "Aku hampir jatuh!",
+      "PORTUGUESE": "Eu quase caí!",
+      "RUSSIAN": "Я чуть не упал!",
+      "FRENCH": "J’ai failli tomber !",
+      "THAI": "ฉันเกือบล้มเลย!",
+      "PERSIAN": "نزدیک بود بیفتم!"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "드라마에서 보면 이럴 때 꼭 죽던데.",
+      "ENGLISH": "In dramas, people always die in moments like these.",
+      "CHINESE_SIMPLIFIED": "这要是游戏里的话肯定就要死了",
+      "CHINESE_TRADITIONAL": "這要是遊戲裏的話肯定就要死了",
+      "JAPANESE": "ドラマだと、こういう時に必ず死んじゃうんだよね。",
+      "INDONESIAN": "Di drama-drama, orang selalu mati di saat-saat kayak gini.",
+      "PORTUGUESE": "Nas novelas, as pessoas sempre morrem em momentos assim.",
+      "RUSSIAN": "В дорамах люди всегда погибают в такие моменты.",
+      "FRENCH": "Dans les dramas, les gens meurent toujours dans des moments comme ça.",
+      "THAI": "ในละคร คนมักจะตายช่วงเวลาแบบนี้เลยนะ",
+      "PERSIAN": "در درام، مردم همیشه در چنین لحظاتی می میرند."
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 14.24
+    }
+  }
+]

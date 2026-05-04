@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "알겠어, 그럼 나 갈게~",
+      "ENGLISH": "Okay, I'll go~",
+      "CHINESE_SIMPLIFIED": "知道了，那我走了~",
+      "CHINESE_TRADITIONAL": "知道了，那我走了~",
+      "JAPANESE": "わかった、じゃあ行くよ～",
+      "INDONESIAN": "Oke, aku pergi~",
+      "PORTUGUESE": "Tá bom, eu vou~",
+      "RUSSIAN": "Ладно, я ухожу~",
+      "FRENCH": "D’accord, je m’en vais~",
+      "THAI": "โอเค ฉันจะไปแล้ว~"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "가란다고 진짜 가냐?",
+      "ENGLISH": "You want to go? Are you really going?",
+      "CHINESE_SIMPLIFIED": "让你走你就真的走吗？",
+      "CHINESE_TRADITIONAL": "讓你走你就真的走嗎？",
+      "JAPANESE": "帰れって言ったら本当に帰るの？",
+      "INDONESIAN": "Kamu mau pergi? Beneran mau pergi?",
+      "PORTUGUESE": "Você quer ir? Vai mesmo?",
+      "RUSSIAN": "Ты хочешь, чтобы я ушла? Ты правда хочешь, чтобы я ушла?",
+      "FRENCH": "Tu veux vraiment que je parte ? Tu veux vraiment que je m’en aille ?",
+      "THAI": "เธออยากให้ฉันไปจริงๆ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 3.04,
+      "HIDE": 4.74
+    }
+  }
+]

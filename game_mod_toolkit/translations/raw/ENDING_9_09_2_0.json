@@ -1,0 +1,932 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저... 그니까 회장님이 저 찾으시는 거 맞죠?",
+      "ENGLISH": "Uh, excuse me... the Chairman asked to see me, right?",
+      "CHINESE_SIMPLIFIED": "听说…董事长要见我，对吗?",
+      "CHINESE_TRADITIONAL": "聽說…董事長要見我，對嗎?",
+      "JAPANESE": "えっと…私が会長から呼ばれたってことなんですよね？",
+      "INDONESIAN": "Uh, permisi... Direktur meminta untuk bertemu denganku, kan?",
+      "PORTUGUESE": "Uh, com licença... o Presidente pediu para me ver, certo?",
+      "RUSSIAN": "Э-э, извините... Председатель хотел меня видеть, верно?",
+      "FRENCH": "Euh, excusez-moi... le Président a demandé à me voir, n’est-ce pas ?",
+      "THAI": "เอ่อ ขอโทษนะครับ... ประธานขอพบผมใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네 맞습니다. 들어가시면 됩니다.",
+      "ENGLISH": "Yes, that’s right. You can go in now.",
+      "CHINESE_SIMPLIFIED": "是的，您进去就可以了",
+      "CHINESE_TRADITIONAL": "是的，您進去就可以了",
+      "JAPANESE": "はい。中にお入りください。",
+      "INDONESIAN": "Ya, benar. Kamu bisa masuk sekarang.",
+      "PORTUGUESE": "Sim, isso mesmo. Você pode entrar agora.",
+      "RUSSIAN": "Да, всё верно. Можете заходить.",
+      "FRENCH": "Oui, c’est exact. Vous pouvez entrer maintenant.",
+      "THAI": "ใช่ครับ ถูกต้อง คุณเข้าไปได้เลย"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요 회장님. / [회장 동구박] ",
+      "ENGLISH": "Hello, Chairman / [Chairman Dong Gu-bak]",
+      "CHINESE_SIMPLIFIED": "董事长您好 / 【董事长 佟富贵】",
+      "CHINESE_TRADITIONAL": "董事長您好 / 【董事長 佟富貴】",
+      "JAPANESE": "こんにちは。／【会長ドン・クバク】",
+      "INDONESIAN": "Halo, Direktur / [Direktur Dong Gu-bak]",
+      "PORTUGUESE": "Olá, Presidente / [Presidente Dong Gu-bak]",
+      "RUSSIAN": "Здравствуйте, Председатель / [Председатель Дон Гу-бак].",
+      "FRENCH": "Bonjour, Monsieur le Président / [Président Dong Gu-bak].",
+      "THAI": "สวัสดีครับ ท่านประธาน / [ประธานดง กูบัก]"
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 사원입니다...",
+      "ENGLISH": "I’m Yuman...",
+      "CHINESE_SIMPLIFIED": "我是吴宥万",
+      "CHINESE_TRADITIONAL": "我是吳宥萬",
+      "JAPANESE": "ウ・ユマンと申します。",
+      "INDONESIAN": "Aku Yuman...",
+      "PORTUGUESE": "Sou Yuman...",
+      "RUSSIAN": "Я Юман...",
+      "FRENCH": "Je suis Yuman...",
+      "THAI": "ผมชื่อ ยูมัน..."
+    },
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저를 찾으셨다고....",
+      "ENGLISH": "I heard you wanted to see me...",
+      "CHINESE_SIMPLIFIED": "听说您找我…",
+      "CHINESE_TRADITIONAL": "聽說您找我…",
+      "JAPANESE": "私をお呼びだと聞きまして…",
+      "INDONESIAN": "Kudengar Anda ingin bertemu denganku...",
+      "PORTUGUESE": "Ouvi dizer que você queria me ver...",
+      "RUSSIAN": "Мне сказали, что вы хотели меня видеть...",
+      "FRENCH": "On m’a dit que vous vouliez me voir...",
+      "THAI": "ผมได้ยินว่าท่านต้องการพบผม..."
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "헉!",
+      "ENGLISH": "Huh?!",
+      "CHINESE_SIMPLIFIED": "我去!",
+      "CHINESE_TRADITIONAL": "我去! ",
+      "JAPANESE": "えっ！",
+      "INDONESIAN": "Hah?!",
+      "PORTUGUESE": "Hã?!",
+      "RUSSIAN": "Что?!",
+      "FRENCH": "Quoi ?!",
+      "THAI": "หา?!"
+    },
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "경비아저씨! 거기 막 앉고 그러시면 안 돼요...!",
+      "ENGLISH": "Sir, you shouldn’t just sit like that! That’s not allowed!",
+      "CHINESE_SIMPLIFIED": "保安大叔，您可不能坐在那!",
+      "CHINESE_TRADITIONAL": "保安大叔，您可不能坐在那!",
+      "JAPANESE": "警備員さん！そこ、座っちゃダメなんじゃ…",
+      "INDONESIAN": "Pak, Anda tidak boleh duduk seperti itu! Itu tidak diizinkan!",
+      "PORTUGUESE": "Senhor, o senhor não deveria se sentar assim! Isso não é permitido!",
+      "RUSSIAN": "Сэр, вам не стоит так сидеть! Это недопустимо!",
+      "FRENCH": "Monsieur, vous ne devriez pas vous asseoir comme ça ! Ça ne se fait pas !",
+      "THAI": "ท่านครับ ท่านไม่ควรนั่งแบบนั้นนะครับ! มันไม่เหมาะสม!"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 41.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 늙은이의 취미였네, 이해해주게.",
+      "ENGLISH": "Just an old man’s hobby. No need to worry about it.",
+      "CHINESE_SIMPLIFIED": "我这个老人家耍了个小把戏，你理解一下",
+      "CHINESE_TRADITIONAL": "我這個老人家耍了個小把戲，你理解一下",
+      "JAPANESE": "今までは、年寄りの趣味だったんだよ。許してくれ。",
+      "INDONESIAN": "Hanya hobi orang tua. Nggak usah khawatir.",
+      "PORTUGUESE": "Apenas um hobby de um velho. Não precisa se preocupar com isso.",
+      "RUSSIAN": "Просто старческое хобби. Не волнуйся об этом.",
+      "FRENCH": "Juste un passe-temps de vieil homme. Ne t’en fais pas pour ça.",
+      "THAI": "แค่กิจกรรมของคนแก่ ไม่ต้องห่วงหรอก"
+    },
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 45.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그게 무슨... ",
+      "ENGLISH": "What... what does that even mean...?",
+      "CHINESE_SIMPLIFIED": "什么意思…",
+      "CHINESE_TRADITIONAL": "什麼意思…",
+      "JAPANESE": "それは、どういう…",
+      "INDONESIAN": "Apa... apa maksudnya itu...?",
+      "PORTUGUESE": "O que... o que isso quer dizer...?",
+      "RUSSIAN": "Что... что это вообще значит...?",
+      "FRENCH": "Quoi... mais qu’est-ce que ça veut dire...?",
+      "THAI": "อะไรนะ... นั่นมันหมายความว่ายังไง...?"
+    },
+    "TIME": {
+      "SHOW": 45.9,
+      "HIDE": 47.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "회, 회장님?",
+      "ENGLISH": "Chairman...?",
+      "CHINESE_SIMPLIFIED": "董..董事长?",
+      "CHINESE_TRADITIONAL": "董..董事長?",
+      "JAPANESE": "会、会長…？",
+      "INDONESIAN": "Direktur...?",
+      "PORTUGUESE": "Presidente...?",
+      "RUSSIAN": "Председатель...?",
+      "FRENCH": "Président...?",
+      "THAI": "ประธาน...?"
+    },
+    "TIME": {
+      "SHOW": 48.5,
+      "HIDE": 50.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "자 들어오라고 하게.",
+      "ENGLISH": "Come on in.",
+      "CHINESE_SIMPLIFIED": "让她进来!",
+      "CHINESE_TRADITIONAL": "讓她進來!",
+      "JAPANESE": "さあ、入ってきなさい。",
+      "INDONESIAN": "Masuklah.",
+      "PORTUGUESE": "Entre.",
+      "RUSSIAN": "Проходите.",
+      "FRENCH": "Entrez.",
+      "THAI": "เข้ามาสิ"
+    },
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 52.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "이거 놓으라고. 내가 알아서 간다고!",
+      "ENGLISH": "And stop fussing. I’ll handle this myself!",
+      "CHINESE_SIMPLIFIED": "你们放开我! 我自己会走!",
+      "CHINESE_TRADITIONAL": "你們放開我! 我自己會走!",
+      "JAPANESE": "放してよ。自分で入るから！",
+      "INDONESIAN": "Dan berhenti ribut. Aku akan menangani ini sendiri!",
+      "PORTUGUESE": "E pare com a preocupação. Eu mesmo vou lidar com isso!",
+      "RUSSIAN": "И перестань суетиться. Я сам разберусь!",
+      "FRENCH": "Et arrêtez de vous inquiéter. Je vais gérer ça moi-même !",
+      "THAI": "แล้วหยุดวุ่นวายได้แล้ว ฉันจะจัดการเอง!"
+    },
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 55.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "과장님?",
+      "ENGLISH": "Manager?",
+      "CHINESE_SIMPLIFIED": "佟科长?",
+      "CHINESE_TRADITIONAL": "佟科長?",
+      "JAPANESE": "課長？",
+      "INDONESIAN": "Manajer?",
+      "PORTUGUESE": "Gerente?",
+      "RUSSIAN": "Менеджер?",
+      "FRENCH": "Manager ?",
+      "THAI": "ผู้จัดการ?"
+    },
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 57.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우유만?",
+      "ENGLISH": "Yuman?",
+      "CHINESE_SIMPLIFIED": "吴宥万?",
+      "CHINESE_TRADITIONAL": "吳宥萬?",
+      "JAPANESE": "ユマン？",
+      "INDONESIAN": "Yuman?",
+      "PORTUGUESE": "Yuman?",
+      "RUSSIAN": "Юман?",
+      "FRENCH": "Yuman ?",
+      "THAI": "ยูมัน?"
+    },
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 58.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "지금 이거 뭐 하는 짓이에요?",
+      "ENGLISH": "What the hell is going on here?",
+      "CHINESE_SIMPLIFIED": "你在搞什么鬼?",
+      "CHINESE_TRADITIONAL": "你在搞什麼鬼?",
+      "JAPANESE": "これは一体、何なんですか？",
+      "INDONESIAN": "Apa-apaan ini?",
+      "PORTUGUESE": "Que diabos está acontecendo aqui?",
+      "RUSSIAN": "Что здесь, чёрт возьми, происходит?",
+      "FRENCH": "Qu’est-ce qui se passe ici ?",
+      "THAI": "นี่มันเกิดอะไรขึ้นกันแน่?"
+    },
+    "TIME": {
+      "SHOW": 59.7,
+      "HIDE": 61.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "우유만이 왜 여기 있어?",
+      "ENGLISH": "Why is Yuman here?",
+      "CHINESE_SIMPLIFIED": "吴宥万为什么会在这?",
+      "CHINESE_TRADITIONAL": "吳宥萬爲什麼會在這?",
+      "JAPANESE": "ユマンがどうしてここに？",
+      "INDONESIAN": "Kenapa Yuman ada di sini?",
+      "PORTUGUESE": "Por que o Yuman está aqui?",
+      "RUSSIAN": "Почему Юман здесь?",
+      "FRENCH": "Pourquoi Yuman est là ?",
+      "THAI": "ทำไมยูมันถึงมาอยู่ที่นี่?"
+    },
+    "TIME": {
+      "SHOW": 61.5,
+      "HIDE": 62.8
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아니 이딴 놈이나 만나려고 애비 얼굴에 먹칠까지 해가며 정략결혼을 파투 내!!",
+      "ENGLISH": "You’re throwing away our family’s reputation, canceling a marriage, just for this guy?! A nobody?!",
+      "CHINESE_SIMPLIFIED": "我倒要看看，到底是何方神圣既毁了商业联姻又丢了我的脸的!",
+      "CHINESE_TRADITIONAL": "我倒要看看，到底是何方神聖既毀了商業聯姻又丟了我的臉的!",
+      "JAPANESE": "こんなやつと会うために、父親の顔に泥を塗ってまで政略結婚を破棄したっていうのか！？",
+      "INDONESIAN": "Kamu membuang nama baik keluarga kita, membatalkan pernikahan, hanya demi orang ini?! Orang biasa?!",
+      "PORTUGUESE": "Você está jogando fora a reputação da nossa família, cancelando um casamento, só por causa desse cara?! Um ninguém?!",
+      "RUSSIAN": "Ты собираешься бросить репутацию нашей семьи, отменить свадьбу ради этого парня?! Ничтожества?!",
+      "FRENCH": "Tu es prête à salir la réputation de notre famille, annuler un mariage, tout ça pour ce type ? Un moins que rien ?!",
+      "THAI": "เธอยอมทิ้งชื่อเสียงของครอบครัวเรา ยกเลิกการแต่งงาน เพื่อผู้ชายคนนี้เหรอ?! คนไม่มีหัวนอนปลายเท้าเนี่ยนะ?!"
+    },
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 67.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "아빠!",
+      "ENGLISH": "Dad!",
+      "CHINESE_SIMPLIFIED": "爸!",
+      "CHINESE_TRADITIONAL": "爸!",
+      "JAPANESE": "お父さん！",
+      "INDONESIAN": "Ayah!",
+      "PORTUGUESE": "Pai!",
+      "RUSSIAN": "Папа!",
+      "FRENCH": "Papa !",
+      "THAI": "พ่อ!"
+    },
+    "TIME": {
+      "SHOW": 67.6,
+      "HIDE": 68.6
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아빠...?",
+      "ENGLISH": "Dad? ",
+      "CHINESE_SIMPLIFIED": "爸…?",
+      "CHINESE_TRADITIONAL": "爸…?",
+      "JAPANESE": "えっ、お父さん…？",
+      "INDONESIAN": "Ayah?",
+      "PORTUGUESE": "Pai?",
+      "RUSSIAN": "Папа?",
+      "FRENCH": "Papa ?",
+      "THAI": "พ่อ?"
+    },
+    "TIME": {
+      "SHOW": 69.0,
+      "HIDE": 70.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "회장님 딸이 동 과장님...?",
+      "ENGLISH": "Wait... Manager Dong is... your daughter?",
+      "CHINESE_SIMPLIFIED": "这么说佟科长是董事长的女儿?",
+      "CHINESE_TRADITIONAL": "這麼說佟科長是董事長的女兒?",
+      "JAPANESE": "会長の娘さんがドン課長…？",
+      "INDONESIAN": "Tunggu... Manajer Dong itu... putrimu?",
+      "PORTUGUESE": "Espera... a Gerente Dong é... sua filha?",
+      "RUSSIAN": "Постойте... Менеджер Дон — это... ваша дочь?",
+      "FRENCH": "Attendez... la Manager Dong est... votre fille ?",
+      "THAI": "เดี๋ยวนะ... ผู้จัดการดงคือ... ลูกสาวของท่านเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 71.5,
+      "HIDE": 74.7
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "이놈 그간 지켜봤지만 하는 짓이 형편없어.",
+      "ENGLISH": "I’ve been watching this fool for a while now, and I don’t see anything good.",
+      "CHINESE_SIMPLIFIED": "我观察了这小子一段时间，他简直一事无成啊!",
+      "CHINESE_TRADITIONAL": "我觀察了這小子一段時間，他簡直一事無成啊!",
+      "JAPANESE": "今まで見てきたが、こいつはダメだ。",
+      "INDONESIAN": "Aku sudah mengamati orang bodoh ini cukup lama, dan aku tidak melihat hal baik apa pun.",
+      "PORTUGUESE": "Tenho observado esse tolo por um tempo, e não vejo nada de bom.",
+      "RUSSIAN": "Я наблюдал за этим ничтожеством уже долгое время и ничего хорошего в нём не вижу.",
+      "FRENCH": "J’observe cet imbécile depuis un moment, et je ne vois rien de bon chez lui.",
+      "THAI": "ฉันเฝ้าดูเจ้าคนโง่นี่มาพักหนึ่งแล้ว และไม่เห็นว่าจะมีอะไรดีเลย"
+    },
+    "TIME": {
+      "SHOW": 75.7,
+      "HIDE": 80.0
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "외모도 별로고.",
+      "ENGLISH": "He’s not good-looking.",
+      "CHINESE_SIMPLIFIED": "外貌平平无奇",
+      "CHINESE_TRADITIONAL": "外貌平平無奇",
+      "JAPANESE": "外見も大したことないし",
+      "INDONESIAN": "Dia tidak tampan.",
+      "PORTUGUESE": "Ele não é bonito.",
+      "RUSSIAN": "Он некрасивый.",
+      "FRENCH": "Il n’est pas beau.",
+      "THAI": "หน้าตาก็ไม่หล่อ"
+    },
+    "TIME": {
+      "SHOW": 80.7,
+      "HIDE": 82.4
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "모아둔 돈도 없고.",
+      "ENGLISH": "No money",
+      "CHINESE_SIMPLIFIED": "学历也不怎么样",
+      "CHINESE_TRADITIONAL": "學歷也不怎麼樣",
+      "JAPANESE": "貯金もないし",
+      "INDONESIAN": "Tidak punya uang.",
+      "PORTUGUESE": "Sem dinheiro.",
+      "RUSSIAN": "Без денег.",
+      "FRENCH": "Pas d’argent.",
+      "THAI": "ไม่มีเงิน"
+    },
+    "TIME": {
+      "SHOW": 82.4,
+      "HIDE": 84.0
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "집안도 안 좋고, 학력도 안 좋고.",
+      "ENGLISH": "No family background. No education worth mentioning.",
+      "CHINESE_SIMPLIFIED": "经济条件，家庭状况，没一样拿得出手",
+      "CHINESE_TRADITIONAL": "經濟條件，家庭狀況，沒一樣拿得出手",
+      "JAPANESE": "家柄も悪いし、学歴もパッとしない。",
+      "INDONESIAN": "Tidak ada latar belakang keluarga. Pendidikan pun tidak layak disebut.",
+      "PORTUGUESE": "Sem um histórico familiar. Sem educação que valha a pena mencionar.",
+      "RUSSIAN": "Нет семьи, нет достойного образования.",
+      "FRENCH": "Pas de famille, pas d’éducation notable.",
+      "THAI": "ไม่มีครอบครัว ไม่มีการศึกษาที่น่าพูดถึง"
+    },
+    "TIME": {
+      "SHOW": 84.0,
+      "HIDE": 86.5
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 좋다고 이놈을 만나는 거야!",
+      "ENGLISH": "What do you even see in him?!",
+      "CHINESE_SIMPLIFIED": "你到底看上他什么了?",
+      "CHINESE_TRADITIONAL": "你到底看上他什麼了?",
+      "JAPANESE": "どこがよくてこいつを選んだんだ！？",
+      "INDONESIAN": "Apa yang kamu lihat dalam dirinya?!",
+      "PORTUGUESE": "O que você vê nele?!",
+      "RUSSIAN": "Что ты в нём нашла?!",
+      "FRENCH": "Qu’est-ce que tu lui trouves ?!",
+      "THAI": "แล้วเธอเห็นอะไรในตัวเขา?!"
+    },
+    "TIME": {
+      "SHOW": 87.0,
+      "HIDE": 88.7
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "아빠!",
+      "ENGLISH": "Dad!",
+      "CHINESE_SIMPLIFIED": "爸!",
+      "CHINESE_TRADITIONAL": "爸!",
+      "JAPANESE": "お父さん！",
+      "INDONESIAN": "Ayah!",
+      "PORTUGUESE": "Pai!",
+      "RUSSIAN": "Папа!",
+      "FRENCH": "Papa !",
+      "THAI": "พ่อ!"
+    },
+    "TIME": {
+      "SHOW": 90.2,
+      "HIDE": 91.2
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "이거 놓으라고!",
+      "ENGLISH": "Let go of him!",
+      "CHINESE_SIMPLIFIED": "我让你放开我!",
+      "CHINESE_TRADITIONAL": "我讓你放開我!",
+      "JAPANESE": "離してって！",
+      "INDONESIAN": "Lepaskan dia!",
+      "PORTUGUESE": "Solte ele!",
+      "RUSSIAN": "Отпусти его!",
+      "FRENCH": "Lâche-le !",
+      "THAI": "ปล่อยเขานะ!"
+    },
+    "TIME": {
+      "SHOW": 92.3,
+      "HIDE": 93.5
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "자 받게.",
+      "ENGLISH": "Here, take it.",
+      "CHINESE_SIMPLIFIED": "这个拿去",
+      "CHINESE_TRADITIONAL": "這個拿去",
+      "JAPANESE": "さあ、これを受け取りなさい。",
+      "INDONESIAN": "Ini, ambillah.",
+      "PORTUGUESE": "Aqui, pegue.",
+      "RUSSIAN": "Вот, держи.",
+      "FRENCH": "Tiens, prends ça.",
+      "THAI": "นี่ เอาไปซะ"
+    },
+    "TIME": {
+      "SHOW": 93.6,
+      "HIDE": 95.5
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "이게 무슨 의미인진 자네가 더 잘 알 걸세.",
+      "ENGLISH": "You know what this means, right?",
+      "CHINESE_SIMPLIFIED": "至于这是什么钱我想你应该很清楚",
+      "CHINESE_TRADITIONAL": "至於這是什麼錢我想你應該很清楚",
+      "JAPANESE": "これがどういう意味かわかるだろう。",
+      "INDONESIAN": "Kamu tahu apa artinya ini, kan?",
+      "PORTUGUESE": "Você sabe o que isso significa, certo?",
+      "RUSSIAN": "Ты понимаешь, что это значит, верно?",
+      "FRENCH": "Tu sais ce que ça veut dire, non ?",
+      "THAI": "คุณรู้ใช่ไหมว่าหมายถึงอะไร?"
+    },
+    "TIME": {
+      "SHOW": 95.7,
+      "HIDE": 98.3
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "이건...",
+      "ENGLISH": "This is...",
+      "CHINESE_SIMPLIFIED": "这是…",
+      "CHINESE_TRADITIONAL": "這是…",
+      "JAPANESE": "これは…",
+      "INDONESIAN": "Ini...",
+      "PORTUGUESE": "Isto é...",
+      "RUSSIAN": "Это...",
+      "FRENCH": "C’est...",
+      "THAI": "นี่คือ..."
+    },
+    "TIME": {
+      "SHOW": 98.6,
+      "HIDE": 99.5
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "받으래도!",
+      "ENGLISH": "Take it, I said!",
+      "CHINESE_SIMPLIFIED": "赶紧收下!",
+      "CHINESE_TRADITIONAL": "趕緊收下!",
+      "JAPANESE": "受け取りなさい！",
+      "INDONESIAN": "Aku bilang ambil!",
+      "PORTUGUESE": "Eu disse pegue!",
+      "RUSSIAN": "Бери, я сказал!",
+      "FRENCH": "Prends-le, j’ai dit !",
+      "THAI": "ฉันบอกให้เอาไป!"
+    },
+    "TIME": {
+      "SHOW": 100.2,
+      "HIDE": 101.5
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "죄송하지만, 전 그 돈 받을 수가 없습니다...",
+      "ENGLISH": "I’m sorry, but I can’t accept this.",
+      "CHINESE_SIMPLIFIED": "实在对不起，但这钱我不能收…",
+      "CHINESE_TRADITIONAL": "實在對不起，但這錢我不能收…",
+      "JAPANESE": "申し訳ありませんが、そのお金は受け取れません…",
+      "INDONESIAN": "Maaf, tapi aku tidak bisa menerima ini.",
+      "PORTUGUESE": "Desculpe, mas eu não posso aceitar isso.",
+      "RUSSIAN": "Извините, но я не могу это принять.",
+      "FRENCH": "Je suis désolé, mais je ne peux pas accepter ça.",
+      "THAI": "ขอโทษนะครับ แต่ผมรับไว้ไม่ได้"
+    },
+    "TIME": {
+      "SHOW": 102.3,
+      "HIDE": 105.7
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "뭣도 없는 놈이 고집까지 세!",
+      "ENGLISH": "A broke fool with stubborn pride?!",
+      "CHINESE_SIMPLIFIED": "本事一点没有，想法倒是挺固执",
+      "CHINESE_TRADITIONAL": "本事一點沒有，想法倒是挺固執",
+      "JAPANESE": "何もないくせに、意地だけは強いな！",
+      "INDONESIAN": "Seorang bodoh miskin dengan harga diri keras kepala?!",
+      "PORTUGUESE": "Um tolo sem dinheiro com orgulho teimoso?!",
+      "RUSSIAN": "Нищий дурак и ещё с упрямым характером?!",
+      "FRENCH": "Un imbécile fauché avec de l’orgueil en plus ?!",
+      "THAI": "คนไม่มีอะไรแล้วดื้อด้านอีก?!"
+    },
+    "TIME": {
+      "SHOW": 106.0,
+      "HIDE": 108.2
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "그렇게 말씀하셔도 이 돈 못 받습니다.",
+      "ENGLISH": "No matter what you say, I won’t take the money.",
+      "CHINESE_SIMPLIFIED": "就算您这么说我也还是不能收",
+      "CHINESE_TRADITIONAL": "就算您那麼說我也還是不能收",
+      "JAPANESE": "そう言われても、このお金は受け取れません。",
+      "INDONESIAN": "Apa pun yang Anda katakan, aku tidak akan mengambil uangnya.",
+      "PORTUGUESE": "Não importa o que diga, eu não vou aceitar o dinheiro.",
+      "RUSSIAN": "Как бы вы ни настаивали, я не возьму эти деньги.",
+      "FRENCH": "Peu importe ce que vous dites, je ne prendrai pas cet argent.",
+      "THAI": "ไม่ว่าคุณจะพูดอะไร ผมจะไม่เอาเงินนี่เด็ดขาด"
+    },
+    "TIME": {
+      "SHOW": 108.2,
+      "HIDE": 112.5
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "...내 딸과 결혼하려면 그 정도 자금은 필요할 걸세!",
+      "ENGLISH": "If you want to marry my daughter, you’ll need that kind of money.",
+      "CHINESE_SIMPLIFIED": "你想和我女儿结婚的话，至少需要这么多的准备资金啊!",
+      "CHINESE_TRADITIONAL": "你想和我女兒結婚的話，至少需要這麼多的準備資金啊!",
+      "JAPANESE": "…私の娘と結婚するなら、それくらいの資金は必要だろう！",
+      "INDONESIAN": "Kalau kamu ingin menikahi putriku, kamu akan butuh uang seperti itu.",
+      "PORTUGUESE": "Se você quer se casar com minha filha, você vai precisar desse tipo de dinheiro.",
+      "RUSSIAN": "Если хочешь жениться на моей дочери, тебе нужны такие деньги.",
+      "FRENCH": "Si tu veux épouser ma fille, il te faudra ce genre de somme.",
+      "THAI": "ถ้านายอยากแต่งงานกับลูกสาวฉัน นายต้องใช้เงินนี้"
+    },
+    "TIME": {
+      "SHOW": 114.5,
+      "HIDE": 118.3
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "예? 아니 회장님...!",
+      "ENGLISH": "What? Chairman...!",
+      "CHINESE_SIMPLIFIED": "董事长，您是说…?",
+      "CHINESE_TRADITIONAL": "董事長，您是說…?",
+      "JAPANESE": "えっ？いや、会長…！",
+      "INDONESIAN": "Apa? Direktur...!",
+      "PORTUGUESE": "O quê? Presidente...!",
+      "RUSSIAN": "Что? Председатель...!",
+      "FRENCH": "Quoi ? Président... !",
+      "THAI": "อะไรนะ? ท่านประธาน...!"
+    },
+    "TIME": {
+      "SHOW": 118.7,
+      "HIDE": 121.9
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "회장님? ",
+      "ENGLISH": "Chairman? ",
+      "CHINESE_SIMPLIFIED": "别再叫我董事长了",
+      "CHINESE_TRADITIONAL": "別再叫我董事長了",
+      "JAPANESE": "会長・",
+      "INDONESIAN": "Direktur?",
+      "PORTUGUESE": "Presidente?",
+      "RUSSIAN": "Председатель?",
+      "FRENCH": "Président ?",
+      "THAI": "ประธาน?"
+    },
+    "TIME": {
+      "SHOW": 122.0,
+      "HIDE": 123.0
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "아버지라 부르게!",
+      "ENGLISH": "Call me Father!",
+      "CHINESE_SIMPLIFIED": "改叫爸!",
+      "CHINESE_TRADITIONAL": "改叫爸!",
+      "JAPANESE": "会長じゃなくて、お父さんと呼びなさい。",
+      "INDONESIAN": "Panggil aku Ayah!",
+      "PORTUGUESE": "Me chame de Pai!",
+      "RUSSIAN": "Называй меня Отцом!",
+      "FRENCH": "Appelle-moi Papa !",
+      "THAI": "เรียกฉันว่าพ่อสิ!"
+    },
+    "TIME": {
+      "SHOW": 125.9,
+      "HIDE": 126.8
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "...유만아...!",
+      "ENGLISH": "...Yuman!",
+      "CHINESE_SIMPLIFIED": "…宥万!",
+      "CHINESE_TRADITIONAL": "…宥萬!",
+      "JAPANESE": "…ユマン…！",
+      "INDONESIAN": "...Yuman!",
+      "PORTUGUESE": "...Yuman!",
+      "RUSSIAN": "...Юман!",
+      "FRENCH": "...Yuman !",
+      "THAI": "...ยูมัน!"
+    },
+    "TIME": {
+      "SHOW": 130.5,
+      "HIDE": 132.0
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "말씀하신 대로 역대 최고액으로 공개 매각 진행한다고 하는데요.",
+      "ENGLISH": "As you mentioned, we’re moving forward with the public sale at the highest-ever price.",
+      "CHINESE_SIMPLIFIED": "和您预判的一样，它将以历史最高价公开出售",
+      "CHINESE_TRADITIONAL": "和您預判的一樣，它將以歷史最高價公開出售",
+      "JAPANESE": "おっしゃった通り、史上最高額での公開売却を進めるそうです。",
+      "INDONESIAN": "Seperti yang Anda sebutkan, kita melanjutkan dengan penjualan publik dengan harga tertinggi sepanjang masa.",
+      "PORTUGUESE": "Como você mencionou, estamos avançando com a venda pública ao preço mais alto já registrado.",
+      "RUSSIAN": "Как ты уже упомянул, мы продвигаемся с публичной продажей по самой высокой цене в истории.",
+      "FRENCH": "Comme vous l’avez mentionné, nous avançons avec la vente publique au prix le plus élevé jamais atteint.",
+      "THAI": "อย่างที่คุณบอก เรากำลังดำเนินการขายในราคาสูงที่สุดเท่าที่เคยมีมา"
+    },
+    "TIME": {
+      "SHOW": 136.0,
+      "HIDE": 139.0
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "인수합시다. 무슨 일이 있어도 인수해야 해요.",
+      "ENGLISH": "We need to acquire it. No matter what, we have to close this deal.",
+      "CHINESE_SIMPLIFIED": "必须收购，不管怎样都必须拿下",
+      "CHINESE_TRADITIONAL": "必須收購，不管怎樣都必須拿下",
+      "JAPANESE": "買収しましょう。何があっても、必ず買収しないと。",
+      "INDONESIAN": "Kita harus mendapatkannya. Apa pun yang terjadi, kita harus menutup kesepakatan ini.",
+      "PORTUGUESE": "Precisamos adquiri-la. Não importa o que aconteça, precisamos fechar este negócio.",
+      "RUSSIAN": "Мы должны заполучить это. Во что бы то ни стало, мы обязаны закрыть сделку.",
+      "FRENCH": "Nous devons l’acquérir. Peu importe quoi, il faut conclure cet accord.",
+      "THAI": "เราต้องได้มันมา ไม่ว่าจะยังไงก็ตาม ต้องปิดดีลนี้ให้ได้"
+    },
+    "TIME": {
+      "SHOW": 139.0,
+      "HIDE": 142.0
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "네 알겠습니다.",
+      "ENGLISH": "Understood.",
+      "CHINESE_SIMPLIFIED": "明白了",
+      "CHINESE_TRADITIONAL": "明白了",
+      "JAPANESE": "はい、分かりました。",
+      "INDONESIAN": "Mengerti.",
+      "PORTUGUESE": "Entendido.",
+      "RUSSIAN": "Понял.",
+      "FRENCH": "Bien compris.",
+      "THAI": "เข้าใจครับ"
+    },
+    "TIME": {
+      "SHOW": 142.0,
+      "HIDE": 144.0
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "SCRIPT": {
+      "KOREAN": "벌써 와있었어?",
+      "ENGLISH": "You're already here?",
+      "CHINESE_SIMPLIFIED": "这么早就来了？",
+      "CHINESE_TRADITIONAL": "這麼早就來了？",
+      "JAPANESE": "もう、来てたの？",
+      "INDONESIAN": "Kamu sudah di sini?",
+      "PORTUGUESE": "Você já está aqui?",
+      "RUSSIAN": "Ты уже здесь?",
+      "FRENCH": "Tu es déjà là ?",
+      "THAI": "คุณมาแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 146.5,
+      "HIDE": 147.7
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "SCRIPT": {
+      "KOREAN": "회장님은 좀 쉬라니까.",
+      "ENGLISH": "I told you, the Chairman needs to take it easy.",
+      "CHINESE_SIMPLIFIED": "都当董事长了休息一下嘛",
+      "CHINESE_TRADITIONAL": "都當董事長了休息一下嘛",
+      "JAPANESE": "会長も少し休まないと。",
+      "INDONESIAN": "Aku bilang, Direktur harus lebih santai.",
+      "PORTUGUESE": "Eu disse, o Presidente precisa pegar leve.",
+      "RUSSIAN": "Я говорил тебе, что Председателю нужно отдыхать.",
+      "FRENCH": "Je t’avais dit que le Président doit se ménager.",
+      "THAI": "ผมบอกแล้วไงว่าท่านประธานต้องพักผ่อนบ้าง"
+    },
+    "TIME": {
+      "SHOW": 147.7,
+      "HIDE": 150.0
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "SCRIPT": {
+      "ENGLISH": "[Chairman Yuman]",
+      "CHINESE_SIMPLIFIED": "【董事长 吴宥万】",
+      "CHINESE_TRADITIONAL": "【董事長 吳宥萬】",
+      "JAPANESE": "【会長 ウ・ユマン】",
+      "INDONESIAN": "[Direktur Yuman]",
+      "PORTUGUESE": "[Presidente Yuman]",
+      "RUSSIAN": "[Председатель Юман]",
+      "FRENCH": "[Président Yuman]",
+      "THAI": "[ประธานยูมัน]"
+    },
+    "TIME": {
+      "SHOW": 152.1,
+      "HIDE": 154.2
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "SCRIPT": {
+      "KOREAN": "왔어?",
+      "ENGLISH": "You're here?",
+      "CHINESE_SIMPLIFIED": "你来了?",
+      "CHINESE_TRADITIONAL": "你來了?",
+      "JAPANESE": "来たか。",
+      "INDONESIAN": "Kamu di sini?",
+      "PORTUGUESE": "Você está aqui?",
+      "RUSSIAN": "Ты здесь?",
+      "FRENCH": "Tu es là ?",
+      "THAI": "คุณมาแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 154.2,
+      "HIDE": 155.5
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "SCRIPT": {
+      "KOREAN": "너무 일만 하는 거 아니야?",
+      "ENGLISH": "Don’t you think you’re working too much?",
+      "CHINESE_SIMPLIFIED": "是不是太只顾工作了？",
+      "CHINESE_TRADITIONAL": "是不是太只顧工作了？",
+      "JAPANESE": "仕事ばかりしてないで、少しは休んだら？",
+      "INDONESIAN": "Kamu nggak merasa bekerja terlalu banyak?",
+      "PORTUGUESE": "Você não acha que está trabalhando demais?",
+      "RUSSIAN": "Ты не думаешь, что работаешь слишком много?",
+      "FRENCH": "Tu ne penses pas que tu travailles trop ?",
+      "THAI": "ไม่คิดว่าคุณทำงานหนักไปเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 155.5,
+      "HIDE": 157.6
+    }
+  },
+  {
+    "INDEX": 48.0,
+    "SCRIPT": {
+      "KOREAN": "문 좀 닫고 나가줄래요?",
+      "ENGLISH": "Can you close the door on your way out?",
+      "CHINESE_SIMPLIFIED": "可以请你出去后把门关上吗?",
+      "CHINESE_TRADITIONAL": "可以請你出去後把門關上嗎?",
+      "JAPANESE": "出る時は、ドアを閉めてくれないか？",
+      "INDONESIAN": "Bisa tutup pintunya saat keluar?",
+      "PORTUGUESE": "Pode fechar a porta ao sair?",
+      "RUSSIAN": "Закрой дверь, уходя, пожалуйста.",
+      "FRENCH": "Ferme la porte en sortant, d’accord ?",
+      "THAI": "ช่วยปิดประตูตอนออกไปด้วยนะ"
+    },
+    "TIME": {
+      "SHOW": 158.0,
+      "HIDE": 160.4
+    }
+  },
+  {
+    "INDEX": 49.0,
+    "SCRIPT": {
+      "KOREAN": "자꾸 나 혼자 집에서 기다리게 할 거야?",
+      "ENGLISH": "Are you going to keep making me wait at home all alone?",
+      "CHINESE_SIMPLIFIED": "你要让我每天在家独守空房吗?",
+      "CHINESE_TRADITIONAL": "你要讓我每天在家獨守空房嗎?",
+      "JAPANESE": "いつまで家で一人にさせるつもり？",
+      "INDONESIAN": "Apa kamu akan terus membuatku menunggu sendirian di rumah?",
+      "PORTUGUESE": "Você vai continuar me deixando esperando sozinha em casa?",
+      "RUSSIAN": "Ты собираешься и дальше заставлять меня ждать дома в одиночестве?",
+      "FRENCH": "Tu comptes continuer à me faire attendre seul(e) à la maison ?",
+      "THAI": "คุณจะให้ฉันรออยู่บ้านคนเดียวไปอีกนานไหม?"
+    },
+    "TIME": {
+      "SHOW": 165.0,
+      "HIDE": 168.0
+    }
+  }
+]

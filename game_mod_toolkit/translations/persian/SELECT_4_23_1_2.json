@@ -1,0 +1,922 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨, 이제 일로 올라가기만 하면 돼요.",
+      "ENGLISH": "Seung-yi, we just need to climb up here.",
+      "CHINESE_SIMPLIFIED": "圣依，我们现在从这里上去就行了",
+      "CHINESE_TRADITIONAL": "聖依，我們現在從這裏上去就行了",
+      "JAPANESE": "スンイさん！ここ上がると、もう着きますよ！",
+      "INDONESIAN": "Seung-yi, kita tinggal naik ke sini.",
+      "PORTUGUESE": "Seung-yi, só precisamos subir aqui.",
+      "RUSSIAN": "Сын-и, нам нужно просто подняться сюда.",
+      "FRENCH": "Seung-yi, on doit juste grimper ici.",
+      "THAI": "ซึงอี แค่ปีนขึ้นไปตรงนี้ก็พอแล้ว",
+      "PERSIAN": "سونگ یی، فقط باید از اینجا بالا برویم."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "계단이 엄청 많아요!",
+      "ENGLISH": "There are so many stairs!",
+      "CHINESE_SIMPLIFIED": "好多台阶!",
+      "CHINESE_TRADITIONAL": "好多臺階!",
+      "JAPANESE": "階段がたくさんありますね！",
+      "INDONESIAN": "Tangga ini banyak banget!",
+      "PORTUGUESE": "Tem muitos degraus!",
+      "RUSSIAN": "Здесь столько ступенек!",
+      "FRENCH": "Il y a tellement de marches !",
+      "THAI": "บันไดเยอะมากเลย!",
+      "PERSIAN": "پله ها خیلی زیاده!"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우리 재미있게",
+      "ENGLISH": "It’d be boring if we just went up",
+      "CHINESE_SIMPLIFIED": "只走台阶的话就太没意思了",
+      "CHINESE_TRADITIONAL": "只走臺階的話就太沒意思了",
+      "JAPANESE": "僕たち",
+      "INDONESIAN": "Bakal bosen kalau kita cuma naik gitu aja,",
+      "PORTUGUESE": "Seria chato se só subíssemos,",
+      "RUSSIAN": "Было бы скучно просто идти,",
+      "FRENCH": "Ce serait ennuyeux de monter comme ça,",
+      "THAI": "มันคงน่าเบื่อถ้าเราแค่เดินขึ้นไปเฉยๆ",
+      "PERSIAN": "اگر فقط بالا می رفتیم خسته کننده می شد"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "가위바위보 해서 올라갈래요?",
+      "ENGLISH": "So how about we play rock-paper-scissors as we go?",
+      "CHINESE_SIMPLIFIED": "不如我们玩剪刀石头布吧?",
+      "CHINESE_TRADITIONAL": "不如我們玩剪刀石頭布吧?",
+      "JAPANESE": "じゃんけんして登るのはどうですか？",
+      "INDONESIAN": "Gimana kalau main suit sambil jalan?",
+      "PORTUGUESE": "Então que tal jogarmos pedra-papel-tesoura enquanto subimos?",
+      "RUSSIAN": "так что как насчёт сыграть в «камень-ножницы-бумага» по пути?",
+      "FRENCH": "alors si on faisait un pierre-feuille-ciseaux en montant ?",
+      "THAI": "งั้นเล่นเป่ายิ้งฉุบระหว่างเดินขึ้นไหม?",
+      "PERSIAN": "پس چطوره که در حین حرکت سنگ-کاغذ-قیچی بازی کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好!",
+      "CHINESE_TRADITIONAL": "好!",
+      "JAPANESE": "いいですね！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Tá bom!",
+      "RUSSIAN": "Хорошо!",
+      "FRENCH": "D’accord !",
+      "THAI": "โอเค!",
+      "PERSIAN": "باشه، حله!"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "가위 바위 보!",
+      "ENGLISH": "Rock-paper-scissors!",
+      "CHINESE_SIMPLIFIED": "剪刀石头布!",
+      "CHINESE_TRADITIONAL": "剪刀石頭布!",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Suit!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень-ножницы-бумага!",
+      "FRENCH": "Pierre-feuille-ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ-کاغذ-قیچی!"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아싸",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好耶!",
+      "CHINESE_TRADITIONAL": "好耶!",
+      "JAPANESE": "やった！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Есть!",
+      "FRENCH": "Gagné !",
+      "THAI": "เย้!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "가위 바위 보!",
+      "ENGLISH": "Rock-paper-scissors!",
+      "CHINESE_SIMPLIFIED": "剪刀石头布!",
+      "CHINESE_TRADITIONAL": "剪刀石頭布!",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Suit!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень-ножницы-бумага!",
+      "FRENCH": "Pierre-feuille-ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ-کاغذ-قیچی!"
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아싸",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好耶!",
+      "CHINESE_TRADITIONAL": "好耶!",
+      "JAPANESE": "やった！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Есть!",
+      "FRENCH": "Gagné !",
+      "THAI": "เย้!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "힝...",
+      "ENGLISH": "Darn!",
+      "CHINESE_SIMPLIFIED": "嘤~",
+      "CHINESE_TRADITIONAL": "嚶~",
+      "JAPANESE": "ああ！",
+      "INDONESIAN": "Aduh!",
+      "PORTUGUESE": "Ah, droga!",
+      "RUSSIAN": "Эх!",
+      "FRENCH": "Zut !",
+      "THAI": "โธ่!",
+      "PERSIAN": "لعنتی!"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "가위 바위 보!",
+      "ENGLISH": "Rock-paper-scissors!",
+      "CHINESE_SIMPLIFIED": "剪刀石头布!",
+      "CHINESE_TRADITIONAL": "剪刀石頭布!",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Suit!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень-ножницы-бумага!",
+      "FRENCH": "Pierre-feuille-ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ-کاغذ-قیچی!"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아싸",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好耶!",
+      "CHINESE_TRADITIONAL": "好耶!",
+      "JAPANESE": "やった！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Есть!",
+      "FRENCH": "Gagné !",
+      "THAI": "เย้!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "가위 바위 보!",
+      "ENGLISH": "Rock-paper-scissors!",
+      "CHINESE_SIMPLIFIED": "剪刀石头布!",
+      "CHINESE_TRADITIONAL": "剪刀石頭布!",
+      "JAPANESE": "じゃんけんぽん！",
+      "INDONESIAN": "Suit!",
+      "PORTUGUESE": "Pedra, papel, tesoura!",
+      "RUSSIAN": "Камень-ножницы-бумага!",
+      "FRENCH": "Pierre-feuille-ciseaux !",
+      "THAI": "เป่ายิ้งฉุบ!",
+      "PERSIAN": "سنگ-کاغذ-قیچی!"
+    },
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아싸!!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好耶!",
+      "CHINESE_TRADITIONAL": "好耶!",
+      "JAPANESE": "やった！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Есть!",
+      "FRENCH": "Gagné !",
+      "THAI": "เย้!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "혼자 올라가니깐 재미없다.",
+      "ENGLISH": "It's no fun going up alone. ",
+      "CHINESE_SIMPLIFIED": "我自己上去的话就太没劲了",
+      "CHINESE_TRADITIONAL": "我自己上去的話就太沒勁了",
+      "JAPANESE": "一人で登るのはちょっと...",
+      "INDONESIAN": "Gak seru kalau naik sendirian.",
+      "PORTUGUESE": "Não tem graça subir sozinho.",
+      "RUSSIAN": "Подниматься одному не весело.",
+      "FRENCH": "C’est pas drôle de monter seul.",
+      "THAI": "ขึ้นไปคนเดียวมันไม่สนุกเลย",
+      "PERSIAN": "تنهایی بالا رفتن جالب نیست"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 29.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "우리 같이 올라가요.",
+      "ENGLISH": "Let's go together.",
+      "CHINESE_SIMPLIFIED": "还是一起上去吧",
+      "CHINESE_TRADITIONAL": "還是一起上去吧",
+      "JAPANESE": "一緒に登りましょう！",
+      "INDONESIAN": "Ayo naik bareng.",
+      "PORTUGUESE": "Vamos juntos.",
+      "RUSSIAN": "Давай подниматься вместе.",
+      "FRENCH": "Montons ensemble.",
+      "THAI": "ไปด้วยกันเถอะ",
+      "PERSIAN": "بیا با هم بریم"
+    },
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.4
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "좋아요!",
+      "ENGLISH": "Sounds good!",
+      "CHINESE_SIMPLIFIED": "好!",
+      "CHINESE_TRADITIONAL": "好!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Combinado!",
+      "RUSSIAN": "Звучит отлично!",
+      "FRENCH": "Ça marche !",
+      "THAI": "ฟังดูดีเลย!",
+      "PERSIAN": "Sounds good!"
+    },
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "우와 계단이 너무 많다...",
+      "ENGLISH": "Wow, there are so many stairs...",
+      "CHINESE_SIMPLIFIED": "这台阶真多啊…",
+      "CHINESE_TRADITIONAL": "這臺階真多啊…",
+      "JAPANESE": "わぁ、階段、本当に多いですね…",
+      "INDONESIAN": "Wah, tangganya banyak banget...",
+      "PORTUGUESE": "Uau, tem muitos degraus...",
+      "RUSSIAN": "Вау, здесь столько ступенек...",
+      "FRENCH": "Waouh, il y a tellement de marches...",
+      "THAI": "ว้าว บันไดเยอะมากจริงๆ...",
+      "PERSIAN": "وای پله ها زیاده..."
+    },
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 39.9
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨, 우리 조금만 더 올라가면 돼요.",
+      "ENGLISH": "Seung-yi, we’re almost there!",
+      "CHINESE_SIMPLIFIED": "圣依啊 我们再往上走点就到了",
+      "CHINESE_TRADITIONAL": "聖依啊 我們再往上走點就到了",
+      "JAPANESE": "スンイさん、もう少しだけ頑張れば着きますよ！",
+      "INDONESIAN": "Seung-yi, kita hampir sampai!",
+      "PORTUGUESE": "Seung-yi, estamos quase lá!",
+      "RUSSIAN": "Сын-и, мы почти пришли!",
+      "FRENCH": "Seung-yi, on est presque arrivés !",
+      "THAI": "ซึงอี เราเกือบถึงแล้ว!",
+      "PERSIAN": "سونگ-یی، ما تقریباً به آنجا رسیده ایم!"
+    },
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 42.5
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "어? 승이 씨!",
+      "ENGLISH": "Huh? Seung-yi!",
+      "CHINESE_SIMPLIFIED": "哎?圣依?",
+      "CHINESE_TRADITIONAL": "哎?聖依?",
+      "JAPANESE": "うん？スンイさん？",
+      "INDONESIAN": "Hah? Seung-yi!",
+      "PORTUGUESE": "Hã? Seung-yi!",
+      "RUSSIAN": "А? Сын-и!",
+      "FRENCH": "Hein ? Seung-yi !",
+      "THAI": "หืม? ซึงอี!",
+      "PERSIAN": "ها؟ سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 44.0,
+      "HIDE": 46.2
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依?",
+      "CHINESE_TRADITIONAL": "聖依?",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!",
+      "PERSIAN": "سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 47.9
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依?",
+      "CHINESE_TRADITIONAL": "聖依?",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!",
+      "PERSIAN": "سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 49.9
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "네 유만 님!",
+      "ENGLISH": "Yes, Yuman!",
+      "CHINESE_SIMPLIFIED": "我在这里!宥万!",
+      "CHINESE_TRADITIONAL": "我在這裏!宥萬!",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Iya, Yuman!",
+      "PORTUGUESE": "Sim, Yuman!",
+      "RUSSIAN": "Да, Юман!",
+      "FRENCH": "Oui, Yuman !",
+      "THAI": "ค่ะ ยูมัน!",
+      "PERSIAN": "بله، یومان!"
+    },
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 51.4
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "혼자 올라가면 어떡해요.",
+      "ENGLISH": "You can't just go up alone.",
+      "CHINESE_SIMPLIFIED": "你怎么能自己跑上去呢?",
+      "CHINESE_TRADITIONAL": "你怎麼能自己跑上去呢?",
+      "JAPANESE": "一人で登ったらダメじゃないですか～",
+      "INDONESIAN": "Kamu gak boleh naik sendirian.",
+      "PORTUGUESE": "Você não pode subir sozinho.",
+      "RUSSIAN": "Ты не можешь просто уйти одна.",
+      "FRENCH": "Tu ne peux pas monter toute seule comme ça.",
+      "THAI": "เธอขึ้นไปคนเดียวไม่ได้หรอกนะ",
+      "PERSIAN": "شما نمی توانید به تنهایی به بالا بروید."
+    },
+    "TIME": {
+      "SHOW": 51.4,
+      "HIDE": 53.0
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "아 꽃이 너무 예뻐서...",
+      "ENGLISH": "Oh, the flowers were so pretty...",
+      "CHINESE_SIMPLIFIED": "啊~我看花太漂亮了…",
+      "CHINESE_TRADITIONAL": "啊~我看花太漂亮了…",
+      "JAPANESE": "あ、花がとても綺麗で…",
+      "INDONESIAN": "Oh, bunga-bunganya indah banget...",
+      "PORTUGUESE": "Ah, as flores estavam tão lindas...",
+      "RUSSIAN": "Ой, цветы были такие красивые...",
+      "FRENCH": "Oh, les fleurs étaient si jolies...",
+      "THAI": "อ้อ ดอกไม้สวยมากเลย...",
+      "PERSIAN": "گلها خیلی خوشگل بودند..."
+    },
+    "TIME": {
+      "SHOW": 53.0,
+      "HIDE": 54.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "우리 빨리 가요!",
+      "ENGLISH": "Let's keep going.",
+      "CHINESE_SIMPLIFIED": "那我们赶紧上去吧",
+      "CHINESE_TRADITIONAL": "那我們趕緊上去吧",
+      "JAPANESE": "早く行きましょう！",
+      "INDONESIAN": "Ayo kita lanjut.",
+      "PORTUGUESE": "Vamos continuar.",
+      "RUSSIAN": "Давай продолжим.",
+      "FRENCH": "Continuons.",
+      "THAI": "ไปกันต่อเถอะ",
+      "PERSIAN": "ادامه بدیم"
+    },
+    "TIME": {
+      "SHOW": 54.6,
+      "HIDE": 55.6
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Alright...",
+      "CHINESE_SIMPLIFIED": "好…!",
+      "CHINESE_TRADITIONAL": "好…!",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tá bom...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "ก็ได้...",
+      "PERSIAN": "باشه..."
+    },
+    "TIME": {
+      "SHOW": 55.6,
+      "HIDE": 56.3
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "승이씨! 어때요?",
+      "ENGLISH": "Seung-yi! What do you think?",
+      "CHINESE_SIMPLIFIED": "圣依，怎么样？",
+      "CHINESE_TRADITIONAL": "聖依，怎麼樣？",
+      "JAPANESE": "スンさん！どうですか？",
+      "INDONESIAN": "Seung-yi! Menurutmu gimana?",
+      "PORTUGUESE": "Seung-yi! O que você acha?",
+      "RUSSIAN": "Сын-и! Что ты думаешь?",
+      "FRENCH": "Seung-yi ! Qu’est-ce que tu en penses ?",
+      "THAI": "ซึงอี! คิดว่าไงบ้าง?",
+      "PERSIAN": "سونگ یی! نظر شما چیه؟"
+    },
+    "TIME": {
+      "SHOW": 62.4,
+      "HIDE": 64.3
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "공기도 좋고, 좋죠?",
+      "ENGLISH": "The air’s fresh, and it’s nice, right?",
+      "CHINESE_SIMPLIFIED": "这里空气清新，很棒吧",
+      "CHINESE_TRADITIONAL": "這裏空氣清新，很棒吧",
+      "JAPANESE": "空気も良くて、いいでしょう？",
+      "INDONESIAN": "Udaranya seger dan enak, kan?",
+      "PORTUGUESE": "O ar tá fresco, né?",
+      "RUSSIAN": "Воздух свежий, и здорово, да?",
+      "FRENCH": "L’air est frais, c’est sympa, non ?",
+      "THAI": "อากาศสดชื่นดีใช่ไหม?",
+      "PERSIAN": "هوا تازه است، و خوب است، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 64.9,
+      "HIDE": 66.3
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "올라가면 야경도 좋고~",
+      "ENGLISH": "Once we get to the top, the night view will be amazing",
+      "CHINESE_SIMPLIFIED": "上去的话夜景也特别美",
+      "CHINESE_TRADITIONAL": "上去的話夜景也特別美",
+      "JAPANESE": "上がれば夜景も綺麗ですよ！",
+      "INDONESIAN": "Begitu sampai di puncak, pemandangan malamnya pasti luar biasa.",
+      "PORTUGUESE": "Quando chegarmos ao topo, a vista noturna vai ser incrível.",
+      "RUSSIAN": "Когда мы поднимемся на вершину, ночной вид будет потрясающим.",
+      "FRENCH": "Une fois en haut, la vue de nuit sera magnifique.",
+      "THAI": "พอถึงข้างบน วิวตอนกลางคืนต้องสวยมากแน่ๆ",
+      "PERSIAN": "هنگامی که به قله رسیدیم، منظره شب شگفت انگیز می‌شه"
+    },
+    "TIME": {
+      "SHOW": 66.6,
+      "HIDE": 69.0
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "볼 수 있는 것도 많을 거예요~",
+      "ENGLISH": "There’s so much to see!",
+      "CHINESE_SIMPLIFIED": "还有更多更好看的景色~",
+      "CHINESE_TRADITIONAL": "還有更多更好看的景色~",
+      "JAPANESE": "見物できるのも、たくさんありますよ！",
+      "INDONESIAN": "Banyak banget yang bisa dilihat!",
+      "PORTUGUESE": "Tem tanta coisa pra ver!",
+      "RUSSIAN": "Здесь столько всего, что можно увидеть!",
+      "FRENCH": "Il y a tellement de choses à voir !",
+      "THAI": "มีอะไรให้ดูเยอะมาก!",
+      "PERSIAN": "چیزهای زیادی برای دیدن وجود دارد!"
+    },
+    "TIME": {
+      "SHOW": 69.0,
+      "HIDE": 71.1
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "哎?",
+      "CHINESE_TRADITIONAL": "哎?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 71.9,
+      "HIDE": 72.9
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "...승이 씨!",
+      "ENGLISH": "...Seung-yi!",
+      "CHINESE_SIMPLIFIED": "…圣依!",
+      "CHINESE_TRADITIONAL": "…聖依!",
+      "JAPANESE": "…スンイさん？",
+      "INDONESIAN": "...Seung-yi!",
+      "PORTUGUESE": "...Seung-yi!",
+      "RUSSIAN": "...Сын-и!",
+      "FRENCH": "...Seung-yi !",
+      "THAI": "...ซึงอี!",
+      "PERSIAN": "... سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 73.8,
+      "HIDE": 75.4
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依?",
+      "CHINESE_TRADITIONAL": "聖依?",
+      "JAPANESE": "スンイさん？",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!",
+      "PERSIAN": "سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 75.8,
+      "HIDE": 77.2
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依?",
+      "CHINESE_TRADITIONAL": "聖依?",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!",
+      "PERSIAN": "سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 79.0,
+      "HIDE": 80.6
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "아... 어디 있는 거야?",
+      "ENGLISH": "Ugh, where are you?",
+      "CHINESE_SIMPLIFIED": "啊...去哪了？",
+      "CHINESE_TRADITIONAL": "啊...去哪了？",
+      "JAPANESE": "あ…どこに行ったんだ？",
+      "INDONESIAN": "Aduh, kamu di mana?",
+      "PORTUGUESE": "Ugh, onde você está?",
+      "RUSSIAN": "Ух, ты где?",
+      "FRENCH": "Ouf, mais où es-tu ?",
+      "THAI": "เฮ้อ เธออยู่ไหนกันนะ?",
+      "PERSIAN": "اوه کجایی"
+    },
+    "TIME": {
+      "SHOW": 85.1,
+      "HIDE": 86.7
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依!",
+      "CHINESE_TRADITIONAL": "聖依!",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!",
+      "PERSIAN": "سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 91.0,
+      "HIDE": 92.5
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "어, 유만 님!",
+      "ENGLISH": "Oh, Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万!",
+      "CHINESE_TRADITIONAL": "宥萬!",
+      "JAPANESE": "あ、ユマンさん！",
+      "INDONESIAN": "Oh, Yuman!",
+      "PORTUGUESE": "Oh, Yuman!",
+      "RUSSIAN": "О, Юман!",
+      "FRENCH": "Oh, Yuman !",
+      "THAI": "โอ้ ยูมัน!",
+      "PERSIAN": "اوه، یومان!"
+    },
+    "TIME": {
+      "SHOW": 92.5,
+      "HIDE": 93.3
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "여기 좀 봐봐요! 여기 자물쇠가 엄청 많이 있어요!",
+      "ENGLISH": "Look at all these love locks!",
+      "CHINESE_SIMPLIFIED": "这些锁好可爱!而且数量好多!",
+      "CHINESE_TRADITIONAL": "這些鎖好可愛!而且數量好多!",
+      "JAPANESE": "ここ見てください！鍵がたくさんありますよ！",
+      "INDONESIAN": "Lihat semua gembok cinta ini!",
+      "PORTUGUESE": "Olha todos esses cadeados do amor!",
+      "RUSSIAN": "Посмотри на все эти замки любви!",
+      "FRENCH": "Regarde tous ces cadenas d’amour !",
+      "THAI": "ดูแม่กุญแจพวกนี้สิ!",
+      "PERSIAN": "به این همه قفل عشق نگاه کن!"
+    },
+    "TIME": {
+      "SHOW": 93.3,
+      "HIDE": 96.9
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "아니... 말도 없이 그렇게 사라지면 어떡해요!",
+      "ENGLISH": "You can’t just disappear like that!",
+      "CHINESE_SIMPLIFIED": "你怎么一声不吭就跑掉了?",
+      "CHINESE_TRADITIONAL": "你怎麼一聲不吭就跑掉了?",
+      "JAPANESE": "何も言わずに一人で行っちゃったらダメじゃないですか！",
+      "INDONESIAN": "Kamu gak bisa sembarangan hilang gitu aja!",
+      "PORTUGUESE": "Você não pode simplesmente sumir assim!",
+      "RUSSIAN": "Ты не можешь просто исчезнуть вот так!",
+      "FRENCH": "Tu ne peux pas disparaître comme ça !",
+      "THAI": "เธอหายไปแบบนี้ไม่ได้หรอก!",
+      "PERSIAN": "شما نمی توانید همینطور ناپدید شوید!"
+    },
+    "TIME": {
+      "SHOW": 96.9,
+      "HIDE": 100.5
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "아직 승이 씨 이름밖에 모르는데",
+      "ENGLISH": "I only know your name",
+      "CHINESE_SIMPLIFIED": "我只知道你的名字",
+      "CHINESE_TRADITIONAL": "我只知道你的名字",
+      "JAPANESE": "僕、まだスンイさんの名前しか知らないのに",
+      "INDONESIAN": "Aku cuma tahu namamu,",
+      "PORTUGUESE": "Eu só sei o seu nome,",
+      "RUSSIAN": "Я знаю только твоё имя,",
+      "FRENCH": "Je ne connais que ton prénom,",
+      "THAI": "ฉันรู้แค่ชื่อเธอ",
+      "PERSIAN": "من فقط اسمت رو میدونم"
+    },
+    "TIME": {
+      "SHOW": 101.0,
+      "HIDE": 102.7
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "잃어버린 줄 알고 얼마나 걱정했는지 알아요?",
+      "ENGLISH": "And I was so worried I lost you!",
+      "CHINESE_SIMPLIFIED": "万一把你弄丢了我都不知道该怎么办才好!",
+      "CHINESE_TRADITIONAL": "萬一把你弄丟了我都不知道該怎麼辦纔好!",
+      "JAPANESE": "どこかに行っちゃったのかと思って、すごく心配してじゃないですか！",
+      "INDONESIAN": "Dan aku khawatir banget sampai takut kehilangan kamu!",
+      "PORTUGUESE": "E fiquei tão preocupado que achei que tinha te perdido!",
+      "RUSSIAN": "и я так боялся, что потерял тебя!",
+      "FRENCH": "et j’étais tellement inquiet de te perdre !",
+      "THAI": "และฉันกลัวมากเลยว่าจะทำเธอหล่นหายไป!",
+      "PERSIAN": "و من خیلی نگران بودم که تو را از دست بدهم!"
+    },
+    "TIME": {
+      "SHOW": 102.7,
+      "HIDE": 105.1
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "对不起…",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Прости...",
+      "FRENCH": "Désolée...",
+      "THAI": "ขอโทษนะ...",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 105.2,
+      "HIDE": 106.5
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "SCRIPT": {
+      "KOREAN": "나비도 있고 막 새도 있고",
+      "ENGLISH": "I got distracted by butterflies and birds",
+      "CHINESE_SIMPLIFIED": "这里鸟语花香的",
+      "CHINESE_TRADITIONAL": "這裏鳥語花香的",
+      "JAPANESE": "蝶もいて、鳥もいて",
+      "INDONESIAN": "Aku tadi teralihkan sama kupu-kupu dan burung,",
+      "PORTUGUESE": "Me distrai com borboletas e pássaros,",
+      "RUSSIAN": "Я отвлеклась на бабочек и птиц",
+      "FRENCH": "Je me suis laissée distraire par les papillons et les oiseaux",
+      "THAI": "ฉันเผลอไปสนใจผีเสื้อกับนก",
+      "PERSIAN": "پروانه ها و پرندگان حواس من را پرت کردند"
+    },
+    "TIME": {
+      "SHOW": 107.0,
+      "HIDE": 109.3
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "SCRIPT": {
+      "KOREAN": "이것저것 보다 보니까 여기까지 와 버렸어요...",
+      "ENGLISH": "And ended up here...",
+      "CHINESE_SIMPLIFIED": "我转着转着就跑到这里来了…",
+      "CHINESE_TRADITIONAL": "我轉着轉着就跑到這裏來了…",
+      "JAPANESE": "いろいろ見てたらここまで来ちゃいました…",
+      "INDONESIAN": "Eh, gak sadar malah sampai di sini...",
+      "PORTUGUESE": "E acabei vindo parar aqui...",
+      "RUSSIAN": "и оказалась здесь...",
+      "FRENCH": "et je me suis retrouvée ici...",
+      "THAI": "เลยมาอยู่ตรงนี้...",
+      "PERSIAN": "و به اینجا ختم شد..."
+    },
+    "TIME": {
+      "SHOW": 109.5,
+      "HIDE": 112.8
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "SCRIPT": {
+      "KOREAN": "걱정돼서 저도 모르게 목소리가 커져 버렸네요...",
+      "ENGLISH": "I was so worried, I didn’t even realize I was yelling...",
+      "CHINESE_SIMPLIFIED": "太担心你了我也不知不觉喊了出来...",
+      "CHINESE_TRADITIONAL": "太擔心你了我也不知不覺喊了出來...",
+      "JAPANESE": "心配になって、僕も知らず知らず声が大きくなっちゃてました…",
+      "INDONESIAN": "Aku cemas banget sampai gak sadar aku teriak...",
+      "PORTUGUESE": "Fiquei tão preocupado que nem percebi que estava gritando...",
+      "RUSSIAN": "Я так переживал, что даже не заметил, как стал кричать...",
+      "FRENCH": "J’étais si inquiet que je ne me suis même pas rendu compte que je criais...",
+      "THAI": "ฉันกลัวจนไม่รู้ตัวเลยว่าตะโกนออกมา...",
+      "PERSIAN": "خیلی نگران بودم حتی نفهمیدم دارم داد میزنم..."
+    },
+    "TIME": {
+      "SHOW": 113.0,
+      "HIDE": 116.3
+    }
+  }
+]

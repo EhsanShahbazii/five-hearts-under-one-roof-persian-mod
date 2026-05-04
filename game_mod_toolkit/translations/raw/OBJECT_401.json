@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우리 가족 사진이잖아?",
+      "ENGLISH": "That’s our family photo!",
+      "CHINESE_SIMPLIFIED": "这不是我们家的全家福吗?",
+      "CHINESE_TRADITIONAL": "這不是我們家的全家福嗎?",
+      "JAPANESE": "これ、うちの家族写真じゃない？",
+      "INDONESIAN": "Itu foto keluarga kita!",
+      "PORTUGUESE": "Essa é a nossa foto de família!",
+      "RUSSIAN": "Это же наше семейное фото!",
+      "FRENCH": "C’est notre photo de famille !",
+      "THAI": "นั่นรูปถ่ายครอบครัวของเรา!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.5
+    }
+  }
+]

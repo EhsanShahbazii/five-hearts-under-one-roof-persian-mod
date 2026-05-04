@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨.",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ユマンさん。",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "RUSSIAN": "Юман.",
+      "FRENCH": "Yuman.",
+      "THAI": "ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "취향은 알겠는데 공과 사는 구분 하지?",
+      "ENGLISH": "I get your taste, but keep it professional.",
+      "CHINESE_SIMPLIFIED": "我尊重你的个人喜好，但喜好也得分场合吧?",
+      "CHINESE_TRADITIONAL": "我尊重你的個人喜好，但喜好也得分場合吧?",
+      "JAPANESE": "あなたの好みは分かったけど、公私の区別はつけてよね？",
+      "INDONESIAN": "Aku paham seleramu, tapi tetaplah profesional.",
+      "PORTUGUESE": "Eu entendo o seu gosto, mas mantenha a profissionalidade.",
+      "RUSSIAN": "Я понимаю твой вкус, но будь профессиональнее.",
+      "FRENCH": "Je comprends ton goût, mais reste professionnel.",
+      "THAI": "ฉันเข้าใจว่ารสนายเป็นยังไง แต่เก็บความเป็นมืออาชีพด้วย"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 검정 스타킹 내놔.",
+      "ENGLISH": "Just hand me the black one.",
+      "CHINESE_SIMPLIFIED": "把黑色的给我",
+      "CHINESE_TRADITIONAL": "把黑色的給我",
+      "JAPANESE": "黒いストッキングを出して。",
+      "INDONESIAN": "Kasih aja yang hitam.",
+      "PORTUGUESE": "Só me dá a preta.",
+      "RUSSIAN": "Просто дай мне чёрные.",
+      "FRENCH": "Donne-moi juste les noirs.",
+      "THAI": "เอาสีดำมาให้ฉันก็พอ"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "앞으론 스타킹 사 오라고 하면 이거 사 와.",
+      "ENGLISH": "From now on, if I ask for stockings, get these ones.",
+      "CHINESE_SIMPLIFIED": "以后让你买丝袜的时候就买这个",
+      "CHINESE_TRADITIONAL": "以後讓你買絲襪的時候就買這個",
+      "JAPANESE": "今後、ストッキングを買ってきてって言ったら、これを買ってきて。",
+      "INDONESIAN": "Mulai sekarang, kalau aku minta stoking, belikan yang ini.",
+      "PORTUGUESE": "A partir de agora, se eu pedir meias, pegue essas.",
+      "RUSSIAN": "С этого момента, если я попрошу чулки, приноси такие.",
+      "FRENCH": "À partir de maintenant, si je demande des bas, prends ceux-là.",
+      "THAI": "ต่อไปถ้าฉันขอถุงน่อง เอาแบบนี้มาให้เท่านั้น"
+    },
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 26.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아닌 경우엔, 내가 따로 말해줄 테니까.",
+      "ENGLISH": "If I need something different, I’ll let you know.",
+      "CHINESE_SIMPLIFIED": "除非我另有指示",
+      "CHINESE_TRADITIONAL": "除非我另有指示",
+      "JAPANESE": "違う場合は、私が直接言うから。",
+      "INDONESIAN": "Kalau aku butuh yang lain, aku kasih tahu nanti.",
+      "PORTUGUESE": "Se eu precisar de algo diferente, te aviso.",
+      "RUSSIAN": "Если понадобится что-то другое, я скажу.",
+      "FRENCH": "Si j’ai besoin d’autre chose, je te le dirai.",
+      "THAI": "ถ้าฉันต้องการแบบอื่น เดี๋ยวบอกเอง"
+    },
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "네... 알겠습니다!",
+      "ENGLISH": "Understood",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "はい…分かりました！",
+      "INDONESIAN": "Baik, mengerti",
+      "PORTUGUESE": "Certo, entendido",
+      "RUSSIAN": "Понял?",
+      "FRENCH": "Compris ?",
+      "THAI": "เข้าใจไหม?"
+    },
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 32.8
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어...?",
+      "ENGLISH": "Uh...?",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "あ…？",
+      "INDONESIAN": "Uh...?",
+      "PORTUGUESE": "Uh...?",
+      "RUSSIAN": "Эм...?",
+      "FRENCH": "Euh...?",
+      "THAI": "เอ่อ...?",
+      "PERSIAN": "اوه...؟"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 저 분인가...",
+      "ENGLISH": "Excuse me...",
+      "CHINESE_SIMPLIFIED": "是她吗...?",
+      "CHINESE_TRADITIONAL": "是她嗎...?",
+      "JAPANESE": "もしかしてあの人かな…？",
+      "INDONESIAN": "Permisi...",
+      "PORTUGUESE": "Com licença...",
+      "RUSSIAN": "— Извините...",
+      "FRENCH": "— Pardon...",
+      "THAI": "— ขอโทษครับ...",
+      "PERSIAN": "ببخشید..."
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 토마토....?",
+      "ENGLISH": "... are you here for Tomato market...?",
+      "CHINESE_SIMPLIFIED": "请问…是西红柿吗?",
+      "CHINESE_TRADITIONAL": "請問…是西紅柿嗎?",
+      "JAPANESE": "もしかしてトマトさんですか…？",
+      "INDONESIAN": "...kamu ke sini buat Tomato market...?",
+      "PORTUGUESE": "...você veio para o mercado de Tomate...?",
+      "RUSSIAN": "— …Вы сюда за помидорным рынком?",
+      "FRENCH": "— Vous êtes là pour le marché aux tomates ?",
+      "THAI": "— คุณมาที่นี่เพื่อ... ตลาดมะเขือเทศเหรอ?",
+      "PERSIAN": "... برای بازار گوجه فرنگی اینجا هستید ...؟"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아이디 온리밀크 님...?",
+      "ENGLISH": "Are you perhaps... OnlyMilk...?",
+      "CHINESE_SIMPLIFIED": "你是‘唯爱牛奶’？",
+      "CHINESE_TRADITIONAL": "你是‘唯愛牛奶’？",
+      "JAPANESE": "IDオンリーミルクさん、ですか…？",
+      "INDONESIAN": "Apa kamu... OnlyMilk...?",
+      "PORTUGUESE": "Você é... OnlyMilk...?",
+      "RUSSIAN": "— Вы случайно не... OnlyMilk?",
+      "FRENCH": "— Vous êtes peut-être... OnlyMilk ?",
+      "THAI": "— หรือว่า... คุณคือ OnlyMilk?",
+      "PERSIAN": "شما شاید... فقط شیر...؟"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네 맞아요!",
+      "ENGLISH": "Yeah, that's me!",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "はい、そうです！",
+      "INDONESIAN": "Iya, itu aku!",
+      "PORTUGUESE": "Sim, sou eu!",
+      "RUSSIAN": "— Да, это я!",
+      "FRENCH": "— Oui, c’est moi !",
+      "THAI": "— ใช่ ผมเอง!",
+      "PERSIAN": "آره منم!"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이름이 우유만이라...",
+      "ENGLISH": "My name's Yuman...",
+      "CHINESE_SIMPLIFIED": "我的真名也有‘只有牛奶’的意思…",
+      "CHINESE_TRADITIONAL": "我的真名也有‘只有牛奶’的意思…",
+      "JAPANESE": "名前がウユマンなので…",
+      "INDONESIAN": "Namaku Yuman...",
+      "PORTUGUESE": "Meu nome é Yuman...",
+      "RUSSIAN": "— Меня зовут Юман...",
+      "FRENCH": "— Moi, c’est Yuman...",
+      "THAI": "— ผมชื่อยูมัน...",
+      "PERSIAN": "اسم من یومان است..."
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "여기 사인CD요.",
+      "ENGLISH": "Here's the signed CD.",
+      "CHINESE_SIMPLIFIED": "这是亲签的专辑",
+      "CHINESE_TRADITIONAL": "這是親籤的專輯",
+      "JAPANESE": "こちらサイン入りCDです。",
+      "INDONESIAN": "Ini CD yang udah ditandatangani.",
+      "PORTUGUESE": "Aqui está o CD assinado.",
+      "RUSSIAN": "— Вот подписанный диск.",
+      "FRENCH": "— Voici le CD signé.",
+      "THAI": "— นี่ครับ ซีดีพร้อมลายเซ็น",
+      "PERSIAN": "این سی دی امضا شده است."
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "와 감사합니다...",
+      "ENGLISH": "Wow, thank you...",
+      "CHINESE_SIMPLIFIED": "哇，谢谢! ",
+      "CHINESE_TRADITIONAL": "哇，謝謝!",
+      "JAPANESE": "わぁ、ありがとうございます…",
+      "INDONESIAN": "Wah, terima kasih...",
+      "PORTUGUESE": "Uau, obrigado...",
+      "RUSSIAN": "— Вау, спасибо...",
+      "FRENCH": "— Waouh, merci...",
+      "THAI": "— ว้าว ขอบคุณครับ...",
+      "PERSIAN": "وای مرسی..."
+    },
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 21.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "이거 가지고 있는 사람",
+      "ENGLISH": "Not many people",
+      "CHINESE_SIMPLIFIED": "有这张专辑的人",
+      "CHINESE_TRADITIONAL": "有這張專輯的人",
+      "JAPANESE": "これ持ってる人",
+      "INDONESIAN": "Nggak banyak orang",
+      "PORTUGUESE": "Poucas pessoas",
+      "RUSSIAN": "— Не у многих",
+      "FRENCH": "— Pas beaucoup de gens",
+      "THAI": "— ไม่ค่อยมีใคร",
+      "PERSIAN": "افراد زیادی نیست"
+    },
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 많지 않은데!",
+      "ENGLISH": "Have this!",
+      "CHINESE_SIMPLIFIED": "真的不多！",
+      "CHINESE_TRADITIONAL": "真的不多！",
+      "JAPANESE": "そんなに多くないんですよね！",
+      "INDONESIAN": "Yang punya ini!",
+      "PORTUGUESE": "Têm isso!",
+      "RUSSIAN": "— Он есть!",
+      "FRENCH": "— L’ont !",
+      "THAI": "— มีอันนี้เลยนะ!",
+      "PERSIAN": "اینو داشته باش"
+    },
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아... 여기 돈이요! / 네...",
+      "ENGLISH": "Oh... here's the money! / Thanks...",
+      "CHINESE_SIMPLIFIED": "啊...钱给你。/ 谢谢…",
+      "CHINESE_TRADITIONAL": "啊...錢給你。/ 謝謝…",
+      "JAPANESE": "あ…はい、お金です！ / どうぞ…",
+      "INDONESIAN": "Oh... ini uangnya! / Makasih...",
+      "PORTUGUESE": "Ah... aqui está o dinheiro! / Valeu...",
+      "RUSSIAN": "— Ой... Вот деньги! / Спасибо...",
+      "FRENCH": "— Oh... Voilà l’argent ! / Merci...",
+      "THAI": "— โอ้... นี่เงินครับ! / ขอบคุณครับ...",
+      "PERSIAN": "اوه ... این پول است! / ممنون..."
+    },
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "와 드디어 얻었다...!",
+      "ENGLISH": "Finally got this!!!",
+      "CHINESE_SIMPLIFIED": "终于到手了!",
+      "CHINESE_TRADITIONAL": "終於到手了!",
+      "JAPANESE": "やっと手に入れた…！",
+      "INDONESIAN": "Akhirnya dapet ini!!!",
+      "PORTUGUESE": "Finalmente consegui!!!",
+      "RUSSIAN": "— Наконец-то он у меня!!!",
+      "FRENCH": "— Enfin, je l’ai !!!",
+      "THAI": "— ในที่สุดก็ได้มาแล้ว!!!",
+      "PERSIAN": "بالاخره اینو گرفتم!!!"
+    },
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "대박 밍밍 사인!!",
+      "ENGLISH": "Ming-ming's autograph!!!!",
+      "CHINESE_SIMPLIFIED": "天哪!是敏敏的亲签!!",
+      "CHINESE_TRADITIONAL": "天哪!是敏敏的親籤!!",
+      "JAPANESE": "やばい、ミンミンのサインだ！！",
+      "INDONESIAN": "Tanda tangan Ming-Ming!!!!",
+      "PORTUGUESE": "O autógrafo da Ming-Ming!!!!",
+      "RUSSIAN": "— Автограф Минг-Минг!!!!",
+      "FRENCH": "— L’autographe de Ming-Ming !!!!",
+      "THAI": "— ลายเซ็นของมิงมิง!!!!",
+      "PERSIAN": "امضای مینگ مینگ!!!!"
+    },
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "저기요...",
+      "ENGLISH": "Hey...",
+      "CHINESE_SIMPLIFIED": "不过…",
+      "CHINESE_TRADITIONAL": "不過…",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Hei...",
+      "PORTUGUESE": "Ei...",
+      "RUSSIAN": "— Эй...",
+      "FRENCH": "— Hé...",
+      "THAI": "— เฮ้...",
+      "PERSIAN": "سلام..."
+    },
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 35.7
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Iya?",
+      "PORTUGUESE": "Oi?",
+      "RUSSIAN": "— Да?",
+      "FRENCH": "— Oui ?",
+      "THAI": "— หืม?",
+      "PERSIAN": "Yeah?"
+    },
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 36.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "근데 얘네가 그렇게 좋아요?",
+      "ENGLISH": "Do you really like them that much?",
+      "CHINESE_SIMPLIFIED": "你就那么喜欢她们吗?",
+      "CHINESE_TRADITIONAL": "你就那麼喜歡她們嗎?",
+      "JAPANESE": "ミンミンがそんなに好きなんですか？",
+      "INDONESIAN": "Kamu beneran suka mereka segitunya?",
+      "PORTUGUESE": "Você gosta tanto assim delas?",
+      "RUSSIAN": "— Тебе они правда так нравятся?",
+      "FRENCH": "— Tu les aimes vraiment à ce point ?",
+      "THAI": "— นายชอบพวกเขาขนาดนั้นเลยเหรอ?",
+      "PERSIAN": "واقعا اونا رو اینقدر دوست دارید؟"
+    },
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 38.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스요?",
+      "ENGLISH": "You mean Milk Girls?",
+      "CHINESE_SIMPLIFIED": "牛奶少女?",
+      "CHINESE_TRADITIONAL": "牛奶少女?",
+      "JAPANESE": "ミルクガールズですか？",
+      "INDONESIAN": "Kamu maksud Milk Girls?",
+      "PORTUGUESE": "Quer dizer as Milk Girls?",
+      "RUSSIAN": "— Ты про Milk Girls?",
+      "FRENCH": "— Tu parles des Milk Girls ?",
+      "THAI": "— นายหมายถึง Milk Girls น่ะเหรอ?",
+      "PERSIAN": "منظورتان شیر دختران است؟"
+    },
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 40.2
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "그럼요!",
+      "ENGLISH": "Absolutely!",
+      "CHINESE_SIMPLIFIED": "那当然了!",
+      "CHINESE_TRADITIONAL": "那當然了!",
+      "JAPANESE": "もちろんですよ！",
+      "INDONESIAN": "Pastinya!",
+      "PORTUGUESE": "Com certeza!",
+      "RUSSIAN": "— Ещё бы!",
+      "FRENCH": "— Absolument !",
+      "THAI": "— แน่นอน!",
+      "PERSIAN": "قطعا!"
+    },
+    "TIME": {
+      "SHOW": 41.3,
+      "HIDE": 42.2
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "제 인생에 덕질은",
+      "ENGLISH": "They're...",
+      "CHINESE_SIMPLIFIED": "我这辈子只追过",
+      "CHINESE_TRADITIONAL": "我這輩子只追過",
+      "JAPANESE": "私の人生で推せるのは",
+      "INDONESIAN": "Mereka...",
+      "PORTUGUESE": "Elas...",
+      "RUSSIAN": "— Они...",
+      "FRENCH": "— Elles sont...",
+      "THAI": "— พวกเธอ...",
+      "PERSIAN": "اونا هستند..."
+    },
+    "TIME": {
+      "SHOW": 42.3,
+      "HIDE": 43.4
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 뿐이거든요!",
+      "ENGLISH": "my whole world!",
+      "CHINESE_SIMPLIFIED": "牛奶少女！",
+      "CHINESE_TRADITIONAL": "牛奶少女！",
+      "JAPANESE": "ミルクガールズしかいませんから！",
+      "INDONESIAN": "adalah duniaku!",
+      "PORTUGUESE": "são o meu mundo!",
+      "RUSSIAN": "— весь мой мир!",
+      "FRENCH": "— Tout mon monde !",
+      "THAI": "— คือโลกทั้งใบของฉัน!",
+      "PERSIAN": "تمام دنیای من!"
+    },
+    "TIME": {
+      "SHOW": 43.8,
+      "HIDE": 45.4
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "哦！",
+      "CHINESE_TRADITIONAL": "哦！",
+      "JAPANESE": "あっ！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "— О!",
+      "FRENCH": "— Oh !",
+      "THAI": "— โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 47.7
+    }
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "예전에 예능 프로그램에서 가족 얘기하신 거 봤거든요.",
+      "ENGLISH": "I remember you talking about your family on a variety show a while back.",
+      "CHINESE_SIMPLIFIED": "你记得之前在综艺节目里谈到原生家庭的事",
+      "CHINESE_TRADITIONAL": "你記得之前在綜藝節目裏談到原生家庭的事",
+      "JAPANESE": "昔、バラエティ番組で家族の話をしてましたよね？",
+      "INDONESIAN": "Aku ingat kamu pernah cerita tentang keluargamu di sebuah acara variety show beberapa waktu lalu.",
+      "PORTUGUESE": "Eu lembro de você falando sobre sua família em um programa de variedades há um tempo.",
+      "RUSSIAN": "Я помню, ты рассказывал(а) о своей семье на одном шоу некоторое время назад.",
+      "FRENCH": "Je me souviens que tu as parlé de ta famille dans une émission il y a un moment.",
+      "THAI": "ฉันจำได้ว่าเธอพูดถึงครอบครัวในรายการวาไรตี้เมื่อไม่นานมานี้"
+    },
+    "TIME": {
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아... 저 부모님 이혼하시고 엄마랑만 지낸 거요?",
+      "ENGLISH": "Oh, you mean when I mentioned my parents’ divorce and living with my mom?",
+      "CHINESE_SIMPLIFIED": "啊，你是说我父母离婚，我和妈妈一起生活的事?",
+      "CHINESE_TRADITIONAL": "啊，你是說我父母離婚，我和媽媽一起生活的事?",
+      "JAPANESE": "あ…両親が離婚して、母と一緒に過ごしてるっていう話ですか？",
+      "INDONESIAN": "Oh, maksudmu waktu aku menyebut perceraian orang tuaku dan tinggal dengan ibuku?",
+      "PORTUGUESE": "Ah, você quer dizer quando mencionei o divórcio dos meus pais e que moro com a minha mãe?",
+      "RUSSIAN": "О, ты про то, как я упомянул(а) развод родителей и то, что я жил(а) с мамой?",
+      "FRENCH": "Oh, tu veux dire quand j’ai mentionné le divorce de mes parents et que je vivais avec ma mère ?",
+      "THAI": "โอ้ เธอหมายถึงตอนที่ฉันพูดถึงเรื่องพ่อแม่หย่ากันแล้วฉันอยู่กับแม่ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아버지는 안 보고 싶어요?",
+      "ENGLISH": "Yeah... do you ever miss your dad?",
+      "CHINESE_SIMPLIFIED": "那你不会想你爸吗?",
+      "CHINESE_TRADITIONAL": "那你不會想你爸嗎?",
+      "JAPANESE": "お父さんには会いたくないんですか？",
+      "INDONESIAN": "Iya... apa kamu pernah kangen dengan ayahmu?",
+      "PORTUGUESE": "Sim... você sente falta do seu pai?",
+      "RUSSIAN": "Да... ты когда-нибудь скучаешь по папе?",
+      "FRENCH": "Oui... tu as parfois le mal de ton père ?",
+      "THAI": "ใช่... แล้วเธอเคยคิดถึงพ่อบ้างไหม?"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어... 예전에는 밉기만 했는데",
+      "ENGLISH": "I used to be mad at him, but as I’ve gotten older,",
+      "CHINESE_SIMPLIFIED": "其实…我以前恨过他",
+      "CHINESE_TRADITIONAL": "其實…我以前恨過他",
+      "JAPANESE": "うーん、昔は憎かったんですけど",
+      "INDONESIAN": "Dulu aku marah padanya, tapi seiring bertambahnya usia,",
+      "PORTUGUESE": "Eu costumava ficar com raiva dele, mas conforme fui ficando mais velho,",
+      "RUSSIAN": "Раньше я злился(злилась) на него, но с возрастом",
+      "FRENCH": "Avant, j’étais en colère contre lui, mais en grandissant,",
+      "THAI": "เมื่อก่อนฉันเคยโกรธเขา แต่พอโตขึ้น"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "나이 먹으니까 이해도 좀 되고...",
+      "ENGLISH": "I’ve started to understand a bit more.",
+      "CHINESE_SIMPLIFIED": "但长大了之后有点理解他了…",
+      "CHINESE_TRADITIONAL": "但長大了之後有點理解他了…",
+      "JAPANESE": "最近は、お父さんに気持ちも理解できるような気もして…",
+      "INDONESIAN": "Aku mulai sedikit lebih mengerti.",
+      "PORTUGUESE": "Comecei a entender um pouco mais.",
+      "RUSSIAN": "я начал(а) немного больше понимать.",
+      "FRENCH": "j’ai commencé à comprendre un peu plus.",
+      "THAI": "ฉันก็เริ่มเข้าใจมากขึ้น"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "지금은 뭐 하고 지내나 궁금하긴 해요.",
+      "ENGLISH": "Now, I’m just curious about what he’s up to.",
+      "CHINESE_SIMPLIFIED": "也会好奇他现在过着什么样的生活",
+      "CHINESE_TRADITIONAL": "也會好奇他現在過着什麼樣的生活",
+      "JAPANESE": "今は、何をしてるのか気になりますね。",
+      "INDONESIAN": "Sekarang, aku cuma penasaran dia sedang apa.",
+      "PORTUGUESE": "Agora, só fico curioso sobre o que ele anda fazendo.",
+      "RUSSIAN": "Теперь мне просто любопытно, как он живёт.",
+      "FRENCH": "Maintenant, je suis juste curieux(se) de ce qu’il devient.",
+      "THAI": "ตอนนี้แค่สงสัยว่าเขาทำอะไรอยู่บ้าง"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아, 그렇구나...",
+      "ENGLISH": "I see...",
+      "CHINESE_SIMPLIFIED": "原来是这样",
+      "CHINESE_TRADITIONAL": "原來是這樣",
+      "JAPANESE": "あ、そうなんですね…",
+      "INDONESIAN": "Oh, begitu...",
+      "PORTUGUESE": "Entendo...",
+      "RUSSIAN": "Понятно...",
+      "FRENCH": "Je vois...",
+      "THAI": "เหรอ..."
+    },
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "저는 두 분 다 계시지만",
+      "ENGLISH": "Mean, I still get angry at my parents whenever they leave me alone",
+      "CHINESE_SIMPLIFIED": "我爸妈虽然没离婚",
+      "CHINESE_TRADITIONAL": "我爸媽雖然沒離婚",
+      "JAPANESE": "僕は両親二人ともいますけど",
+      "INDONESIAN": "Aku masih marah pada orang tuaku setiap kali mereka meninggalkanku sendirian.",
+      "PORTUGUESE": "Quero dizer, eu ainda fico bravo com meus pais sempre que me deixam sozinho,",
+      "RUSSIAN": "А я всё ещё злюсь на родителей, когда они оставляют меня одного(одну),",
+      "FRENCH": "Moi, je suis encore fâché(e) contre mes parents quand ils me laissent seul(e),",
+      "THAI": "ส่วนฉันยังโกรธพ่อแม่ทุกครั้งที่พวกเขาทิ้งฉันไว้คนเดียว"
+    },
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저 혼자 둘 때마다 아직도 미워하거든요.",
+      "ENGLISH": "Even though they’re both around.",
+      "CHINESE_SIMPLIFIED": "但是每次他俩丢下我一个人的时候我都会记小账",
+      "CHINESE_TRADITIONAL": "但是每次他倆丟下我一個人的時候我都會記小賬",
+      "JAPANESE": "今でも一人にされるたびに、ちょっと憎いってと思っちゃう時もあるんですよ。",
+      "INDONESIAN": "Padahal mereka berdua masih ada.",
+      "PORTUGUESE": "Mesmo que os dois estejam por perto.",
+      "RUSSIAN": "хотя они оба рядом.",
+      "FRENCH": "même s’ils sont tous les deux là.",
+      "THAI": "แม้ว่าพวกเขาจะอยู่ข้างๆ กัน"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "민정 씨는 참 어른스러운 거 같아요.",
+      "ENGLISH": "You... you’re really grown up.",
+      "CHINESE_SIMPLIFIED": "敏静你思想真的很成熟",
+      "CHINESE_TRADITIONAL": "敏靜你思想真的很成熟",
+      "JAPANESE": "それに比べたら、ミンジョンさんって本当に大人だなって思います。",
+      "INDONESIAN": "Kamu... kamu benar-benar dewasa.",
+      "PORTUGUESE": "Você... você é realmente maduro.",
+      "RUSSIAN": "Ты... ты такой(ая) взрослый(ая).",
+      "FRENCH": "Tu... tu es vraiment mature.",
+      "THAI": "เธอ... เธอโตเป็นผู้ใหญ่จริงๆ"
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아이 아니에요.",
+      "ENGLISH": "I’m not a kid, you know.",
+      "CHINESE_SIMPLIFIED": "没有啦~",
+      "CHINESE_TRADITIONAL": "沒有啦~",
+      "JAPANESE": "いや、それほどでもないですよ。",
+      "INDONESIAN": "Aku bukan anak kecil, tahu.",
+      "PORTUGUESE": "Não sou uma criança, sabe.",
+      "RUSSIAN": "Я не ребёнок, знаешь ли.",
+      "FRENCH": "Je ne suis pas un(e) enfant, tu sais.",
+      "THAI": "ฉันไม่ใช่เด็กแล้วนะ"
+    },
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.0
+    }
+  }
+]

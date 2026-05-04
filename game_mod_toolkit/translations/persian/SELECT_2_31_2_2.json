@@ -1,0 +1,382 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "외모 보시죠?",
+      "ENGLISH": "You care about looks, right?",
+      "CHINESE_SIMPLIFIED": "你应该看脸吧?",
+      "CHINESE_TRADITIONAL": "你應該看臉吧?",
+      "JAPANESE": "外見、気にするタイプですか？",
+      "INDONESIAN": "Kamu peduli sama penampilan, kan?",
+      "PORTUGUESE": "Você se importa com aparência, né?",
+      "RUSSIAN": "Тебе ведь важна внешность, да?",
+      "FRENCH": "Tu tiens à l’apparence, non ?",
+      "THAI": "นายสนใจหน้าตาใช่ไหม?",
+      "PERSIAN": "شما به ظاهر اهمیت می دهید، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "맞아요!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "当然!",
+      "CHINESE_TRADITIONAL": "當然!",
+      "JAPANESE": "そうですね！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "역시...",
+      "ENGLISH": "I knew it...",
+      "CHINESE_SIMPLIFIED": "果然…",
+      "CHINESE_TRADITIONAL": "果然…",
+      "JAPANESE": "やっぱり…",
+      "INDONESIAN": "Aku tahu...",
+      "PORTUGUESE": "Eu sabia...",
+      "RUSSIAN": "Я так и знал...",
+      "FRENCH": "Je le savais...",
+      "THAI": "ฉันว่าแล้ว...",
+      "PERSIAN": "میدونستم..."
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "근데 전 잘생긴 거보다는",
+      "ENGLISH": "But I prefer someone who’s",
+      "CHINESE_SIMPLIFIED": "不过比起长得帅的",
+      "CHINESE_TRADITIONAL": "不過比起長得帥的",
+      "JAPANESE": "でも、イケメンよりも",
+      "INDONESIAN": "Tapi aku lebih suka seseorang",
+      "PORTUGUESE": "Mas eu prefiro alguém",
+      "RUSSIAN": "Но я предпочитаю тех, кто",
+      "FRENCH": "Mais je préfère quelqu’un",
+      "THAI": "แต่ฉันชอบคนที่...",
+      "PERSIAN": "اما من کسی را ترجیح می دهم که باشد"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "못생긴 게 더 좋더라고요!",
+      "ENGLISH": "Not too handsome",
+      "CHINESE_SIMPLIFIED": "我更喜欢长得丑的。",
+      "CHINESE_TRADITIONAL": "我更喜歡長得醜的。",
+      "JAPANESE": "ブサイクな方が好きですね！",
+      "INDONESIAN": "Yang nggak terlalu ganteng.",
+      "PORTUGUESE": "Que não seja muito bonito.",
+      "RUSSIAN": "не слишком красив.",
+      "FRENCH": "qui n’est pas trop beau.",
+      "THAI": "ไม่หล่อเกินไป",
+      "PERSIAN": "خیلی خوش تیپ نیست"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "못생긴 거요?",
+      "ENGLISH": "Not too handsome?",
+      "CHINESE_SIMPLIFIED": "长得丑的?",
+      "CHINESE_TRADITIONAL": "長得醜的?",
+      "JAPANESE": "ブサイクな方がですか？",
+      "INDONESIAN": "Nggak terlalu ganteng?",
+      "PORTUGUESE": "Não muito bonito?",
+      "RUSSIAN": "Не слишком красив?",
+      "FRENCH": "Pas trop beau ?",
+      "THAI": "ไม่หล่อเกินไป?",
+      "PERSIAN": "خیلی خوش تیپ نیست؟"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네! 잘생긴 거 그거 아무 쓸모 없어요!",
+      "ENGLISH": "Yeah! Handsome guys are often useless!",
+      "CHINESE_SIMPLIFIED": "对!因为长得帅又不能当饭吃!",
+      "CHINESE_TRADITIONAL": "對!因爲長得帥又不能當飯吃!",
+      "JAPANESE": "はい！イケメンなんて、全然役に立たないんです！",
+      "INDONESIAN": "Iya! Cowok ganteng itu sering nggak berguna!",
+      "PORTUGUESE": "Sim! Caras bonitos geralmente são inúteis!",
+      "RUSSIAN": "Ага! Красавчики часто бесполезны!",
+      "FRENCH": "Ouais ! Les beaux mecs sont souvent inutiles !",
+      "THAI": "ใช่! ผู้ชายหล่อ ๆ มักจะไม่มีประโยชน์!",
+      "PERSIAN": "آره مردان خوش تیپ اغلب بی فایده هستند!"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그렇죠! 잘생긴 애들이 보면 내실이 없는 경우가 많아요.",
+      "ENGLISH": "Right! Handsome guys tend to lack substance.",
+      "CHINESE_SIMPLIFIED": "这倒是!虚有其表的人太多了。",
+      "CHINESE_TRADITIONAL": "這倒是!虛有其表的人太多了。",
+      "JAPANESE": "そうですよね！イケメンって、意外と中身がない場合が多いですもんね。",
+      "INDONESIAN": "Bener! Cowok ganteng biasanya nggak punya isi.",
+      "PORTUGUESE": "Certo! Caras bonitos tendem a não ter conteúdo.",
+      "RUSSIAN": "Точно! Красавцы обычно ничего из себя не представляют.",
+      "FRENCH": "C’est vrai ! Les beaux gosses manquent souvent de profondeur.",
+      "THAI": "จริง! หล่อแต่ไร้แก่นสารกันทั้งนั้น",
+      "PERSIAN": "درسته! مردان خوش تیپ تمایل به کمبود مواد دارند."
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "약간 저 같은 얼굴이 약간 내실도 있고~ ",
+      "ENGLISH": "Someone like me, who’s got inner qualities~",
+      "CHINESE_SIMPLIFIED": "还是我这样的人比较好，颜值说得过去~",
+      "CHINESE_TRADITIONAL": "還是我這樣的人比較好，顏值說得過去~",
+      "JAPANESE": "私みたいな顔の方が、中身もあって～",
+      "INDONESIAN": "Seseorang seperti aku, yang penuh kualitas dari dalam~",
+      "PORTUGUESE": "Alguém como eu, que é cheio de qualidades internas~",
+      "RUSSIAN": "Кто-то вроде меня — с внутренними качествами~",
+      "FRENCH": "Quelqu’un comme moi, avec des qualités intérieures~",
+      "THAI": "คนอย่างฉันนี่แหละ ที่มีคุณภาพจากข้างใน~",
+      "PERSIAN": "یکی مثل من که خصوصیات درونی داره"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "막 귀염도 있고 매력도 있고, 그렇죠?",
+      "ENGLISH": "Cuteness, and charm, right?",
+      "CHINESE_SIMPLIFIED": "又有内涵，既有魅力又有点小可爱，你说是吧?",
+      "CHINESE_TRADITIONAL": "又有內涵，既有魅力又有點小可愛，你說是吧?",
+      "JAPANESE": "ちょっと可愛くて、魅力もあって、ですよね？",
+      "INDONESIAN": "Imut dan menawan, kan?",
+      "PORTUGUESE": "Fofo e encantador, né?",
+      "RUSSIAN": "Милота и обаяние, да?",
+      "FRENCH": "De la mignonnerie et du charme, hein ?",
+      "THAI": "ทั้งความน่ารักและเสน่ห์ ใช่ไหม?",
+      "PERSIAN": "ناز و جذابیت، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그렇죠...! 근데 또 너무 못생기면 좀 그렇긴 해요~",
+      "ENGLISH": "Uh... yeah... but not too ugly either~",
+      "CHINESE_SIMPLIFIED": "啊…话是没错，不过丑到极致也是有点难以接受~",
+      "CHINESE_TRADITIONAL": "啊…話是沒錯，不過醜到極致也是有點難以接受~",
+      "JAPANESE": "そうですね…！でも、ブサイクすぎるのもどうかと思いますけどね～",
+      "INDONESIAN": "Uh... iya... tapi jangan terlalu jelek juga~",
+      "PORTUGUESE": "Uh... é... mas também não muito feio~",
+      "RUSSIAN": "Эм... да... но и не слишком уродливый~",
+      "FRENCH": "Euh... oui... mais pas trop moche non plus~",
+      "THAI": "เอ่อ... ใช่... แต่ก็ต้องไม่ขี้เหร่เกินไปนะ~",
+      "PERSIAN": "اوه... آره... اما خیلی هم زشت نیست~"
+    },
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아.. ",
+      "ENGLISH": "Right...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Benar...",
+      "PORTUGUESE": "Pois é...",
+      "RUSSIAN": "Верно...",
+      "FRENCH": "Exactement...",
+      "THAI": "ถูกต้อง...",
+      "PERSIAN": "چشم..."
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "근데 전 사실 외모 보다...",
+      "ENGLISH": "Honestly, height and size...",
+      "CHINESE_SIMPLIFIED": "不过说真的，比起颜值...",
+      "CHINESE_TRADITIONAL": "不過說真的，比起顏值...",
+      "JAPANESE": "でも私は実は、やっぱり外見よりも…",
+      "INDONESIAN": "Sejujurnya, tinggi dan ukuran...",
+      "PORTUGUESE": "Sinceramente, altura e tamanho...",
+      "RUSSIAN": "Честно говоря, рост и размер...",
+      "FRENCH": "Honnêtement, la taille et la carrure...",
+      "THAI": "จริง ๆ แล้ว ส่วนสูงกับรูปร่าง...",
+      "PERSIAN": "راستش قد و سایز..."
+    },
+    "TIME": {
+      "SHOW": 30.8,
+      "HIDE": 32.9
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "키랑 크기가 중요해요!",
+      "ENGLISH": "Matter more to me!",
+      "CHINESE_SIMPLIFIED": "我更看重身高和大小!",
+      "CHINESE_TRADITIONAL": "我更看重身高和大小!",
+      "JAPANESE": "身長とサイズが重要だと思いますよ！",
+      "INDONESIAN": "Lebih penting buatku!",
+      "PORTUGUESE": "São mais importantes pra mim!",
+      "RUSSIAN": "Важнее для меня!",
+      "FRENCH": "Comptent plus pour moi !",
+      "THAI": "สำคัญกับฉันมากกว่า!",
+      "PERSIAN": "برای من مهم تر است!"
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네? 크..크..크기요?",
+      "ENGLISH": "Size?",
+      "CHINESE_SIMPLIFIED": "啊?大小?",
+      "CHINESE_TRADITIONAL": "啊?大小?",
+      "JAPANESE": "え？サ、サイズですか？",
+      "INDONESIAN": "Ukuran?",
+      "PORTUGUESE": "Tamanho?",
+      "RUSSIAN": "Размер?",
+      "FRENCH": "La taille ?",
+      "THAI": "รูปร่าง?",
+      "PERSIAN": "اندازه؟"
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "농담이에요!",
+      "ENGLISH": "Just kidding!",
+      "CHINESE_SIMPLIFIED": "哈哈我开玩笑的!",
+      "CHINESE_TRADITIONAL": "哈哈我開玩笑的!",
+      "JAPANESE": "冗談ですよ！",
+      "INDONESIAN": "Cuma bercanda!",
+      "PORTUGUESE": "Tô brincando!",
+      "RUSSIAN": "Шучу!",
+      "FRENCH": "Je rigole !",
+      "THAI": "ล้อเล่นน่า!",
+      "PERSIAN": "شوخی کردم!"
+    },
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 39.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아이돌이 이상형 같은 거 있어봤자 뭐 하겠어요.",
+      "ENGLISH": "What’s the point of having an ideal type",
+      "CHINESE_SIMPLIFIED": "爱豆就算有理想型也没什么实际意义",
+      "CHINESE_TRADITIONAL": "愛豆就算有理想型也沒什麼實際意義",
+      "JAPANESE": "アイドルが理想のタイプなんて持ってても意味ないでしょ。",
+      "INDONESIAN": "Apa gunanya punya tipe ideal",
+      "PORTUGUESE": "De que adianta ter um tipo ideal",
+      "RUSSIAN": "Какой смысл в идеальном типе,",
+      "FRENCH": "À quoi bon avoir un type idéal",
+      "THAI": "มีสเปกไปทำไม",
+      "PERSIAN": "داشتن تیپ ایده آل چه فایده ای دارد"
+    },
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 42.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "연애도 못 하는데.",
+      "ENGLISH": "If I can’t date?",
+      "CHINESE_SIMPLIFIED": "毕竟又不能恋爱",
+      "CHINESE_TRADITIONAL": "畢竟又不能戀愛",
+      "JAPANESE": "恋愛もできないんだから。",
+      "INDONESIAN": "Kalau aku nggak bisa pacaran?",
+      "PORTUGUESE": "Se eu não posso namorar?",
+      "RUSSIAN": "если я всё равно не могу встречаться?",
+      "FRENCH": "si je peux pas sortir avec quelqu’un ?",
+      "THAI": "ถ้าฉันจะคบใครไม่ได้อยู่ดี?",
+      "PERSIAN": "اگر نتوانم قرار بگذارم؟"
+    },
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 제 방은 어디예요?",
+      "ENGLISH": "So, which room is mine?",
+      "CHINESE_SIMPLIFIED": "不过我的房间在哪啊?",
+      "CHINESE_TRADITIONAL": "不過我的房間在哪啊?",
+      "JAPANESE": "それで、私の部屋はどこですか？",
+      "INDONESIAN": "Jadi, kamar yang mana buatku?",
+      "PORTUGUESE": "Então, qual é o meu quarto?",
+      "RUSSIAN": "Так, какая комната моя?",
+      "FRENCH": "Alors, quelle chambre est à moi ?",
+      "THAI": "ว่าแต่ ห้องไหนเป็นของฉัน?",
+      "PERSIAN": "خب، کدام اتاق مال من است؟"
+    },
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 47.0
+    }
+  }
+]

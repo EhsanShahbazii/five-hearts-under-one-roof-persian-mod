@@ -1,0 +1,222 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내가 남자친구라고?",
+      "ENGLISH": "I'm your boyfriend?",
+      "CHINESE_SIMPLIFIED": "你说我是你男朋友?",
+      "CHINESE_TRADITIONAL": "你說我是你男朋友?",
+      "JAPANESE": "俺が彼氏だって？",
+      "INDONESIAN": "Aku pacarmu?",
+      "PORTUGUESE": "Eu sou seu namorado?",
+      "RUSSIAN": "Я твой парень?",
+      "FRENCH": "Je suis ton copain ?",
+      "THAI": "ฉันเป็นแฟนเธอเหรอ?",
+      "PERSIAN": "من دوست پسر شما هستم؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "난 여자친구가 있었던 적이 없었는데...?",
+      "ENGLISH": "I've never had a girlfriend before...",
+      "CHINESE_SIMPLIFIED": "可我没有女朋友啊？",
+      "CHINESE_TRADITIONAL": "可我沒有女朋友啊？",
+      "JAPANESE": "俺、今まで彼女なんていたことないけど…？",
+      "INDONESIAN": "Aku belum pernah punya pacar sebelumnya…",
+      "PORTUGUESE": "Nunca tive namorada antes…",
+      "RUSSIAN": "У меня никогда не было девушки...",
+      "FRENCH": "Je n’ai jamais eu de copine...",
+      "THAI": "ฉันไม่เคยมีแฟนมาก่อนเลย...",
+      "PERSIAN": "من تا حالا دوست دختر نداشتم..."
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아... 없었어요?",
+      "ENGLISH": "Oh, really?",
+      "CHINESE_SIMPLIFIED": "啊 没有女朋友?",
+      "CHINESE_TRADITIONAL": "啊 沒有女朋友?",
+      "JAPANESE": "え…いなかったの？",
+      "INDONESIAN": "Oh, serius?",
+      "PORTUGUESE": "Ah, sério?",
+      "RUSSIAN": "О, правда?",
+      "FRENCH": "Oh, vraiment ?",
+      "THAI": "โอ้ จริงเหรอ?",
+      "PERSIAN": "Oh, really?"
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아 없어요.",
+      "ENGLISH": "Yeah, never.",
+      "CHINESE_SIMPLIFIED": "嗯，没有",
+      "CHINESE_TRADITIONAL": "嗯，沒有",
+      "JAPANESE": "いや、いないですけど。",
+      "INDONESIAN": "Iya, belum pernah.",
+      "PORTUGUESE": "Sim, nunca.",
+      "RUSSIAN": "Да, никогда.",
+      "FRENCH": "Oui, jamais.",
+      "THAI": "ใช่, ไม่เคยเลย",
+      "PERSIAN": "بله، هرگز."
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "있었는데?",
+      "ENGLISH": "Oh, I thought you did.",
+      "CHINESE_SIMPLIFIED": "啊，原来有过？",
+      "CHINESE_TRADITIONAL": "啊，原來有過？",
+      "JAPANESE": "いたんじゃなくて？",
+      "INDONESIAN": "Oh, kukira kamu sudah pernah.",
+      "PORTUGUESE": "Ah, pensei que já tivesse.",
+      "RUSSIAN": "О, я думала, что была.",
+      "FRENCH": "Oh, je pensais que tu en avais eu une.",
+      "THAI": "โอ้ ฉันนึกว่าเธอเคยมีนะ",
+      "PERSIAN": "اوه، من فکر کردم شما انجام دادید."
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니요. 그냥 없어요.",
+      "ENGLISH": "Nope, never.",
+      "CHINESE_SIMPLIFIED": "没有，从来没有过",
+      "CHINESE_TRADITIONAL": "沒有，從來沒有過",
+      "JAPANESE": "いや、ほんとにいないんですけど。",
+      "INDONESIAN": "Nggak, belum pernah.",
+      "PORTUGUESE": "Não, nunca.",
+      "RUSSIAN": "Нет, никогда.",
+      "FRENCH": "Non, jamais.",
+      "THAI": "ไม่เลย ไม่เคย",
+      "PERSIAN": "نه، هرگز."
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "불쌍해...",
+      "ENGLISH": "That's sad...",
+      "CHINESE_SIMPLIFIED": "好可怜…",
+      "CHINESE_TRADITIONAL": "好可憐…",
+      "JAPANESE": "かわいそうだわ…",
+      "INDONESIAN": "Kasihan banget…",
+      "PORTUGUESE": "Que triste…",
+      "RUSSIAN": "Это грустно...",
+      "FRENCH": "C’est triste...",
+      "THAI": "น่าสงสารจัง...",
+      "PERSIAN": "این غم انگیز است ..."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "몰라. 그냥 가자.",
+      "ENGLISH": "Never mind, let's go inside.",
+      "CHINESE_SIMPLIFIED": "哎呀，我们赶紧走吧",
+      "CHINESE_TRADITIONAL": "哎呀，我們趕緊走吧",
+      "JAPANESE": "行こう...",
+      "INDONESIAN": "Sudahlah, ayo masuk.",
+      "PORTUGUESE": "Enfim, vamos entrar.",
+      "RUSSIAN": "Ладно, давай зайдём внутрь.",
+      "FRENCH": "Peu importe, rentrons à l’intérieur.",
+      "THAI": "ช่างเถอะ เข้าไปข้างในกัน",
+      "PERSIAN": "مهم نیست بریم داخل"
+    },
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네! 그럼 저희는 먼저 들어가 볼게요!",
+      "ENGLISH": "Yeah, we'll head in first. See you!",
+      "CHINESE_SIMPLIFIED": "那我们也先回家了!",
+      "CHINESE_TRADITIONAL": "那我們也先回家了!",
+      "JAPANESE": "じゃあ、私たちはこれで失礼します！",
+      "INDONESIAN": "Iya, kami masuk duluan. Sampai jumpa!",
+      "PORTUGUESE": "Sim, a gente vai indo primeiro. Até mais!",
+      "RUSSIAN": "Да, мы пойдём первыми. До встречи!",
+      "FRENCH": "Oui, on rentre en premier. À plus tard !",
+      "THAI": "ใช่ เราจะเข้าไปก่อนนะ เจอกัน!",
+      "PERSIAN": "بله، اول وارد می شویم. ببینمت!"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "가자.",
+      "ENGLISH": "Let's go.",
+      "CHINESE_SIMPLIFIED": "我们走吧",
+      "CHINESE_TRADITIONAL": "我們走吧",
+      "JAPANESE": "行こう。",
+      "INDONESIAN": "Ayo pergi.",
+      "PORTUGUESE": "Vamos.",
+      "RUSSIAN": "Пойдём.",
+      "FRENCH": "Allons-y.",
+      "THAI": "ไปกันเถอะ",
+      "PERSIAN": "برویم"
+    },
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 22.6
+    }
+  }
+]

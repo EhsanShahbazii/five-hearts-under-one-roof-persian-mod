@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야!",
+      "ENGLISH": "Come on!",
+      "CHINESE_SIMPLIFIED": "啊你搞什么?",
+      "CHINESE_TRADITIONAL": "啊你搞什麼?",
+      "JAPANESE": "あ、何よ！",
+      "INDONESIAN": "Ayo dong!",
+      "PORTUGUESE": "Ah, qual é!",
+      "RUSSIAN": "Давай!",
+      "FRENCH": "Allez !",
+      "THAI": "มาเถอะ!",
+      "PERSIAN": "بیا!"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어때? 내 방귀 냄새.",
+      "ENGLISH": "What about my farts?",
+      "CHINESE_SIMPLIFIED": "我的屁怎么样?",
+      "CHINESE_TRADITIONAL": "我的屁怎麼樣?",
+      "JAPANESE": "どう？俺のおならの匂いは。",
+      "INDONESIAN": "Gimana kentutku?",
+      "PORTUGUESE": "E os meus puns?",
+      "RUSSIAN": "А как насчёт моих пук?",
+      "FRENCH": "Et mes pets alors ?",
+      "THAI": "แล้วผายลมของฉันล่ะ?",
+      "PERSIAN": "در مورد گوزهای من چطور؟"
+    },
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭘 어떠긴 어때. ",
+      "ENGLISH": "What do you mean?",
+      "CHINESE_SIMPLIFIED": "能怎么样?",
+      "CHINESE_TRADITIONAL": "能怎麼樣?",
+      "JAPANESE": "何がどうって？",
+      "INDONESIAN": "Maksudmu apa?",
+      "PORTUGUESE": "O que você quer dizer?",
+      "RUSSIAN": "Что ты имеешь в виду?",
+      "FRENCH": "Qu’est-ce que tu veux dire ?",
+      "THAI": "หมายถึงอะไรเหรอ?",
+      "PERSIAN": "منظورت چیه؟"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "좆 같지.",
+      "ENGLISH": "They’re horrible.",
+      "CHINESE_SIMPLIFIED": "臭到家了",
+      "CHINESE_TRADITIONAL": "臭到家了",
+      "JAPANESE": "最悪だね。",
+      "INDONESIAN": "Itu parah banget.",
+      "PORTUGUESE": "Eles são horríveis.",
+      "RUSSIAN": "Они ужасные.",
+      "FRENCH": "Ils sont horribles.",
+      "THAI": "มันแย่มาก",
+      "PERSIAN": "اونا وحشتناک هستند"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "너무해...",
+      "ENGLISH": "That’s harsh...",
+      "CHINESE_SIMPLIFIED": "好伤心…",
+      "CHINESE_TRADITIONAL": "好傷心…",
+      "JAPANESE": "ひどいよ...",
+      "INDONESIAN": "Kasar banget...",
+      "PORTUGUESE": "Nossa, que cruel...",
+      "RUSSIAN": "Это жестоко...",
+      "FRENCH": "C’est dur...",
+      "THAI": "พูดแรงไปนะ...",
+      "PERSIAN": "خشن است..."
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "근데...",
+      "ENGLISH": "But...",
+      "CHINESE_SIMPLIFIED": "不过",
+      "CHINESE_TRADITIONAL": "不過",
+      "JAPANESE": "でも...",
+      "INDONESIAN": "Tapi...",
+      "PORTUGUESE": "Mas...",
+      "RUSSIAN": "Но...",
+      "FRENCH": "Mais...",
+      "THAI": "แต่...",
+      "PERSIAN": "اما..."
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "너 방귀 다른 데서는 뀌지 마라?",
+      "ENGLISH": "Don’t fart around anyone else, okay?",
+      "CHINESE_SIMPLIFIED": "你不许去其他人面前放屁",
+      "CHINESE_TRADITIONAL": "你不許去其他人面前放屁",
+      "JAPANESE": "他のところではしないでね？",
+      "INDONESIAN": "Jangan kentut di depan orang lain, ya?",
+      "PORTUGUESE": "Não solta pum perto de mais ninguém, tá?",
+      "RUSSIAN": "Не пугай при ком-то другом, ладно?",
+      "FRENCH": "Ne pète pas devant quelqu’un d’autre, d’accord ?",
+      "THAI": "อย่าผายลมต่อหน้าใครอีกนะ เข้าใจไหม?",
+      "PERSIAN": "اطراف دیگری گوز نزنید، خوب؟"
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "나니깐 괜찮지...",
+      "ENGLISH": "It's only fine because it's me...",
+      "CHINESE_SIMPLIFIED": "也只有我吧能包容你…",
+      "CHINESE_TRADITIONAL": "也只有我吧能包容你…",
+      "JAPANESE": "私だからまだいいけど...",
+      "INDONESIAN": "Itu cuma oke kalau di depanku aja...",
+      "PORTUGUESE": "Só tá tudo bem porque é comigo...",
+      "RUSSIAN": "Только для меня это нормально...",
+      "FRENCH": "Ça va uniquement parce que c’est moi...",
+      "THAI": "เพราะเป็นฉันถึงยอมรับได้นะ...",
+      "PERSIAN": "فقط خوبه چون منم..."
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.9
+    }
+  }
+]

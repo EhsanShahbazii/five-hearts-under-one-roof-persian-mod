@@ -1,0 +1,249 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙",
+      "ENGLISH": "Hey, Mal-sook",
+      "CHINESE_SIMPLIFIED": "喂，高末淑",
+      "CHINESE_TRADITIONAL": "喂，高末淑",
+      "JAPANESE": "おい、マルスク！",
+      "INDONESIAN": "Hei, Mal-sook",
+      "PORTUGUESE": "Ei, Mal-sook",
+      "RUSSIAN": "Эй, Мал-Сук",
+      "FRENCH": "Hé, Mal-sook",
+      "THAI": "เฮ้ มัลซุก"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "일어나 봐",
+      "ENGLISH": "Wake up",
+      "CHINESE_SIMPLIFIED": "喂，快醒醒",
+      "CHINESE_TRADITIONAL": "喂，快醒醒",
+      "JAPANESE": "早く、起きろよ。",
+      "INDONESIAN": "Bangun",
+      "PORTUGUESE": "Acorda",
+      "RUSSIAN": "Просыпайся",
+      "FRENCH": "Réveille-toi",
+      "THAI": "ตื่นสิ"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 자?",
+      "ENGLISH": "Are you really sleeping?",
+      "CHINESE_SIMPLIFIED": "真睡着了?",
+      "CHINESE_TRADITIONAL": "真睡着了?",
+      "JAPANESE": "本当に寝てんのか？",
+      "INDONESIAN": "Kamu beneran tidur?",
+      "PORTUGUESE": "Você tá dormindo de verdade?",
+      "RUSSIAN": "Ты правда спишь?",
+      "FRENCH": "Tu dors vraiment ?",
+      "THAI": "เธอหลับจริงๆ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "... 우유만...",
+      "ENGLISH": "...Yuman...",
+      "CHINESE_SIMPLIFIED": "…吴宥万…",
+      "CHINESE_TRADITIONAL": "…吳宥萬…",
+      "JAPANESE": "…ユマン…",
+      "INDONESIAN": "...Yuman...",
+      "PORTUGUESE": "...Yuman...",
+      "RUSSIAN": "...Юман...",
+      "FRENCH": "...Yuman...",
+      "THAI": "...ยูมัน..."
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어 깼어...?",
+      "ENGLISH": "Oh, you're awake?",
+      "CHINESE_SIMPLIFIED": "哦，醒啦…?",
+      "CHINESE_TRADITIONAL": "哦，醒啦…?",
+      "JAPANESE": "あ、起きた？",
+      "INDONESIAN": "Oh, kamu udah bangun?",
+      "PORTUGUESE": "Ah, você acordou?",
+      "RUSSIAN": "О, ты проснулась?",
+      "FRENCH": "Oh, tu es réveillée ?",
+      "THAI": "โอ้ เธอตื่นแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "나 혹시 잠꼬대 같은 거 안 했지?",
+      "ENGLISH": "I didn't say anything weird in my sleep, did I?",
+      "CHINESE_SIMPLIFIED": "我没说梦话吧?",
+      "CHINESE_TRADITIONAL": "我沒說夢話吧?",
+      "JAPANESE": "私、寝言言ってなかったよね？",
+      "INDONESIAN": "Aku gak ngomong aneh-aneh waktu tidur, kan?",
+      "PORTUGUESE": "Eu não falei nada estranho enquanto dormia, né?",
+      "RUSSIAN": "Я ничего странного во сне не говорила, да?",
+      "FRENCH": "J’ai rien dit de bizarre dans mon sommeil, hein ?",
+      "THAI": "ฉันไม่ได้พูดอะไรแปลกๆ ตอนหลับใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "잠꼬대?",
+      "ENGLISH": "Weird? ",
+      "CHINESE_SIMPLIFIED": "梦话？",
+      "CHINESE_TRADITIONAL": "夢話？",
+      "JAPANESE": "寝言？",
+      "INDONESIAN": "Aneh?",
+      "PORTUGUESE": "Estranho?",
+      "RUSSIAN": "Странного?",
+      "FRENCH": "Bizarre ?",
+      "THAI": "แปลกเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "막...",
+      "ENGLISH": "Like...",
+      "CHINESE_SIMPLIFIED": "比如",
+      "CHINESE_TRADITIONAL": "比如",
+      "JAPANESE": "その…",
+      "INDONESIAN": "Kayak...",
+      "PORTUGUESE": "Tipo...",
+      "RUSSIAN": "Типа...",
+      "FRENCH": "Comme...",
+      "THAI": "แบบว่า..."
+    },
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 21.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "누구 이름 부른다거나...",
+      "ENGLISH": "Calling someone’s name or something...?",
+      "CHINESE_SIMPLIFIED": "叫谁的名字之类的…",
+      "CHINESE_TRADITIONAL": "叫誰的名字之類的…",
+      "JAPANESE": "誰かの名前呼んでたりとか…",
+      "INDONESIAN": "Nyebut nama seseorang atau semacamnya...?",
+      "PORTUGUESE": "Chamar o nome de alguém ou algo assim...?",
+      "RUSSIAN": "когда зовёшь чьё-то имя или что-то такое...?",
+      "FRENCH": "appeler quelqu’un par son prénom ou quelque chose du genre...?",
+      "THAI": "เรียกชื่อใครสักคนหรืออะไรประมาณนั้น...?"
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "누구...?",
+      "ENGLISH": "Who...?",
+      "CHINESE_SIMPLIFIED": "谁啊?",
+      "CHINESE_TRADITIONAL": "誰啊?",
+      "JAPANESE": "誰の名前…？",
+      "INDONESIAN": "Siapa...?",
+      "PORTUGUESE": "Quem...?",
+      "RUSSIAN": "Кого...?",
+      "FRENCH": "Qui...?",
+      "THAI": "ใคร...?"
+    },
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 24.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아니야!",
+      "ENGLISH": "Never mind! ",
+      "CHINESE_SIMPLIFIED": "没谁",
+      "CHINESE_TRADITIONAL": "沒誰",
+      "JAPANESE": "いや、何でもない！",
+      "INDONESIAN": "Gak usah dipikirin!",
+      "PORTUGUESE": "Esquece!",
+      "RUSSIAN": "Забудь!",
+      "FRENCH": "Oublie !",
+      "THAI": "ช่างมันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 25.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "바다 도착한 거지?",
+      "ENGLISH": "We’re at the beach, right?",
+      "CHINESE_SIMPLIFIED": "到海边了吧?",
+      "CHINESE_TRADITIONAL": "到海邊了吧?",
+      "JAPANESE": "海、着いたんでしょ？",
+      "INDONESIAN": "Kita udah di pantai, kan?",
+      "PORTUGUESE": "Estamos na praia, né?",
+      "RUSSIAN": "Мы на пляже, да?",
+      "FRENCH": "On est à la plage, non ?",
+      "THAI": "เราอยู่ที่ทะเลแล้วใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어 도착했어!",
+      "ENGLISH": "Yeah, we’re here!",
+      "CHINESE_SIMPLIFIED": "嗯，到了!",
+      "CHINESE_TRADITIONAL": "嗯，到了!",
+      "JAPANESE": "うん、着いたけど。",
+      "INDONESIAN": "Iya, kita udah sampai!",
+      "PORTUGUESE": "Sim, chegamos!",
+      "RUSSIAN": "Да, мы здесь!",
+      "FRENCH": "Oui, on est arrivés !",
+      "THAI": "ใช่ เรามาถึงแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.5
+    }
+  }
+]

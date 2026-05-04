@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "연습 끝났어요?",
+      "ENGLISH": "Finished with practice?",
+      "CHINESE_SIMPLIFIED": "你练习都结束了?",
+      "CHINESE_TRADITIONAL": "你練習都結束了?",
+      "JAPANESE": "練習終わった？",
+      "INDONESIAN": "Udah selesai latihan?",
+      "PORTUGUESE": "Terminou o treino?",
+      "RUSSIAN": "Закончил(а) с практикой?",
+      "FRENCH": "Tu as fini avec la répétition ?",
+      "THAI": "ซ้อมเสร็จแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어 유만 오빠! 저 이제 막 끝났는데.",
+      "ENGLISH": "Oh, Yuman oppa! I just finished.",
+      "CHINESE_SIMPLIFIED": "嗯，宥万哥哥!我刚刚才结束。",
+      "CHINESE_TRADITIONAL": "嗯，宥萬哥哥!我剛剛纔結束。",
+      "JAPANESE": "あ、ユマンさん！今ちょうど終わったところだよ。",
+      "INDONESIAN": "Oh, Yuman oppa! Aku baru saja selesai.",
+      "PORTUGUESE": "Oh, Yuman oppa! Acabei de terminar.",
+      "RUSSIAN": "О, Юман оппа! Я только что закончила.",
+      "FRENCH": "Oh, Yuman oppa ! Je viens de terminer.",
+      "THAI": "โอ้ ยูมันโอปป้า! ฉันเพิ่งซ้อมเสร็จ"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "Ах...",
+      "FRENCH": "Ah...",
+      "THAI": "อา..."
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你还好吗?",
+      "CHINESE_TRADITIONAL": "你還好嗎?",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu baik-baik saja?",
+      "PORTUGUESE": "Você está bem?",
+      "RUSSIAN": "Ты в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "เธอโอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.2
+    }
+  }
+]

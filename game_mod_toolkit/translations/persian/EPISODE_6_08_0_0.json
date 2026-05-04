@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "근데 이거 이름이 뭐예요?",
+      "ENGLISH": "So, what’s this drink called?",
+      "CHINESE_SIMPLIFIED": "这杯饮料…名字叫什么啊?",
+      "CHINESE_TRADITIONAL": "這杯飲料…名字叫什麼啊?",
+      "JAPANESE": "ところで、これ何ですか？",
+      "INDONESIAN": "Jadi, minuman ini namanya apa?",
+      "PORTUGUESE": "Então, como se chama essa bebida?",
+      "RUSSIAN": "Так, а как называется этот напиток?",
+      "FRENCH": "Alors, comment s’appelle cette boisson ?",
+      "THAI": "เครื่องดื่มนี้เรียกว่าอะไรนะ?",
+      "PERSIAN": "خب اسم این نوشیدنی چیه؟"
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "땡초 아메리카노요!",
+      "ENGLISH": "Spicy Pepper Americano!",
+      "CHINESE_SIMPLIFIED": "它叫变态辣美式!",
+      "CHINESE_TRADITIONAL": "它叫變態辣美式!",
+      "JAPANESE": "ピリ辛アメリカーノです！",
+      "INDONESIAN": "Spicy Pepper Americano!",
+      "PORTUGUESE": "Spicy Pepper Americano!",
+      "RUSSIAN": "Острый Перцовый Американо!",
+      "FRENCH": "Americano Poivré Piquant !",
+      "THAI": "สไปซี่ เปปเปอร์ อเมริกาโน่!",
+      "PERSIAN": "فلفل تند آمریکایینو!"
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "...진짜 고추네?",
+      "ENGLISH": "Wait... is this really made with chili peppers?",
+      "CHINESE_SIMPLIFIED": "真的放了辣椒...",
+      "CHINESE_TRADITIONAL": "真的放了辣椒...",
+      "JAPANESE": "本当に唐辛子だ...",
+      "INDONESIAN": "Tunggu… ini beneran pakai cabai?",
+      "PORTUGUESE": "Pera aí... isso é mesmo feito com pimenta?",
+      "RUSSIAN": "Постой... тут правда перец чили?",
+      "FRENCH": "Attends... y a vraiment du piment ?",
+      "THAI": "เดี๋ยวนะ... ใส่พริกจริงๆ เหรอเนี่ย?",
+      "PERSIAN": "صبر کنید... این واقعا با فلفل چیلی درست می شود؟"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 요즘 피곤해 보여서 ",
+      "ENGLISH": "Yeah! You’ve seemed tired lately,",
+      "CHINESE_SIMPLIFIED": "哥哥你最近看起来很疲惫",
+      "CHINESE_TRADITIONAL": "哥哥你最近看起來很疲憊",
+      "JAPANESE": "ユマンさん、最近疲れてるみたいだから",
+      "INDONESIAN": "Iya! Kamu kelihatan capek belakangan ini,",
+      "PORTUGUESE": "Sim! Você tem parecido cansado ultimamente,",
+      "RUSSIAN": "Да! Ты выглядел уставшим в последнее время,",
+      "FRENCH": "Ouais ! Tu avais l’air fatigué ces derniers temps,",
+      "THAI": "ใช่! ช่วงนี้เธอดูเหนื่อยๆ,",
+      "PERSIAN": "آره اخیراً خسته به نظر می رسید،"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 해주면 좋을까 고민했거든요?",
+      "ENGLISH": "so I thought somthing I could do for you.",
+      "CHINESE_SIMPLIFIED": "所以我一直在纠结给你做什么好~",
+      "CHINESE_TRADITIONAL": "所以我一直在糾結給你做什麼好~",
+      "JAPANESE": "元気になるものをあげたいと思って。",
+      "INDONESIAN": "jadi kupikir ini bisa bantu kamu.",
+      "PORTUGUESE": "então pensei que podia fazer algo pra te ajudar.",
+      "RUSSIAN": "и я подумала, что это может помочь тебе.",
+      "FRENCH": "alors j’ai pensé que ça te ferait du bien.",
+      "THAI": "ฉันเลยคิดว่านี่จะช่วยปลุกเธอได้",
+      "PERSIAN": "بنابراین فکر کردم کاری می توانم برای شما انجام دهم."
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 그냥 커피보다는 매운 게 들어가면은",
+      "ENGLISH": "I thought something with a kick",
+      "CHINESE_SIMPLIFIED": "我想如果在冰美式里加入辣味的话",
+      "CHINESE_TRADITIONAL": "我想如果在冰美式里加入辣味的話",
+      "JAPANESE": "だから、コーヒーに辛いものを入れたら",
+      "INDONESIAN": "Aku pikir sesuatu yang pedas",
+      "PORTUGUESE": "Achei que algo mais forte",
+      "RUSSIAN": "Я подумала, что что-то с остротой",
+      "FRENCH": "Je me suis dit que quelque chose de piquant",
+      "THAI": "ฉันคิดว่าความเผ็ด",
+      "PERSIAN": "با یک لگد چیزی فکر کردم"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "정신이 확 들 거 같아서 만들어 봤어요!",
+      "ENGLISH": "would wake you up better than regular coffee.",
+      "CHINESE_SIMPLIFIED": "你喝了肯定一下就精神了!",
+      "CHINESE_TRADITIONAL": "你喝了肯定一下就精神了!",
+      "JAPANESE": "シャキッと目が覚めるんじゃないかと思って作ってみたんです！",
+      "INDONESIAN": "bisa bikin kamu lebih melek daripada kopi biasa.",
+      "PORTUGUESE": "te acordaria melhor do que café normal.",
+      "RUSSIAN": "разбудит тебя лучше, чем обычный кофе.",
+      "FRENCH": "te réveillerait mieux qu’un café normal.",
+      "THAI": "น่าจะทำให้เธอตื่นดีกว่ากาแฟธรรมดา",
+      "PERSIAN": "بهتر از قهوه معمولی شما را بیدار می کند."
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "정신이 확 들긴 하네요... ",
+      "ENGLISH": "Well... it does wake you up, that's for sure.",
+      "CHINESE_SIMPLIFIED": "确实会一下就精神…",
+      "CHINESE_TRADITIONAL": "確實會一下就精神…",
+      "JAPANESE": "確かに、目は覚めたけど…",
+      "INDONESIAN": "Yah… ini memang bikin melek, sih.",
+      "PORTUGUESE": "Bom... que acorda, isso com certeza acorda.",
+      "RUSSIAN": "Ну... это точно пробуждает.",
+      "FRENCH": "Eh bien... ça réveille, c’est sûr.",
+      "THAI": "เอ่อ... มันปลุกให้ตื่นจริงๆ นั่นแหละ",
+      "PERSIAN": "خوب ... شما را از خواب بیدار می کند، مطمئناً."
+    },
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "근데... 먹어 본 거죠?",
+      "ENGLISH": "Did you actually try this?",
+      "CHINESE_SIMPLIFIED": "这个你应该有试喝过吧?",
+      "CHINESE_TRADITIONAL": "這個你應該有試喝過吧?",
+      "JAPANESE": "ミンジョンさんもこれ、飲んだんですよね？",
+      "INDONESIAN": "Kamu udah coba ini?",
+      "PORTUGUESE": "Você já experimentou?",
+      "RUSSIAN": "Ты сама пробовала это?",
+      "FRENCH": "Tu l’as goûté, toi ?",
+      "THAI": "เธอลองชิมแล้วหรือยัง?",
+      "PERSIAN": "واقعاً اینو امتحان کردید؟"
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 24.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아니요?",
+      "ENGLISH": "Nope!",
+      "CHINESE_SIMPLIFIED": "没有啊…",
+      "CHINESE_TRADITIONAL": "沒有啊…",
+      "JAPANESE": "ないですけど？",
+      "INDONESIAN": "Belum!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "ยังเลย!",
+      "PERSIAN": "نه!"
+    },
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 25.2
+    }
+  }
+]

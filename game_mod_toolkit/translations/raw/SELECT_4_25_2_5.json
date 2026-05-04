@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 승이 씨가 제일 좋아.",
+      "ENGLISH": "I like Seung-yi.",
+      "CHINESE_SIMPLIFIED": "我最喜欢圣依",
+      "CHINESE_TRADITIONAL": "我最喜歡聖依",
+      "JAPANESE": "スンイさんが一番いいかな。",
+      "INDONESIAN": "Aku suka Seung-yi.",
+      "PORTUGUESE": "Eu gosto da Seung-yi.",
+      "RUSSIAN": "Мне нравится Сын-и.",
+      "FRENCH": "J’aime bien Seung-yi.",
+      "THAI": "ฉันชอบซึงอี"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.58
+    }
+  }
+]

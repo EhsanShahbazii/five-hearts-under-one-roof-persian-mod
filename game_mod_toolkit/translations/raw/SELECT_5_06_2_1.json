@@ -1,0 +1,230 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고은비!",
+      "ENGLISH": "Eun-bi!",
+      "CHINESE_SIMPLIFIED": "高恩妃!",
+      "CHINESE_TRADITIONAL": "高恩妃!",
+      "JAPANESE": "ウンビ！",
+      "INDONESIAN": "Eun-bi!",
+      "PORTUGUESE": "Eun-bi!",
+      "RUSSIAN": "Ын-би!",
+      "FRENCH": "Eun-bi !",
+      "THAI": "อึนบี!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "일어나~",
+      "ENGLISH": "Wake up~",
+      "CHINESE_SIMPLIFIED": "醒醒~",
+      "CHINESE_TRADITIONAL": "醒醒~",
+      "JAPANESE": "起きろ～",
+      "INDONESIAN": "Bangun~",
+      "PORTUGUESE": "Acorda~",
+      "RUSSIAN": "Просыпайся~",
+      "FRENCH": "Réveille-toi~",
+      "THAI": "ตื่นได้แล้ว~"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "흐응...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯嗯…",
+      "CHINESE_TRADITIONAL": "嗯嗯…",
+      "JAPANESE": "ふぅん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хм...",
+      "FRENCH": "Hmm...",
+      "THAI": "หืม..."
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아, 일어나~",
+      "ENGLISH": "Wake up.",
+      "CHINESE_SIMPLIFIED": "起床啦",
+      "CHINESE_TRADITIONAL": "起牀啦",
+      "JAPANESE": "おい、起きろって～",
+      "INDONESIAN": "Bangun.",
+      "PORTUGUESE": "Acorda.",
+      "RUSSIAN": "Просыпайся.",
+      "FRENCH": "Réveille-toi.",
+      "THAI": "ตื่นสิ"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "흐응...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯嗯…",
+      "CHINESE_TRADITIONAL": "嗯嗯…",
+      "JAPANESE": "ふぅん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хм...",
+      "FRENCH": "Hmm...",
+      "THAI": "หืม..."
+    },
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "일어나라.",
+      "ENGLISH": "I know you're awake. ",
+      "CHINESE_SIMPLIFIED": "快起来",
+      "CHINESE_TRADITIONAL": "快起來",
+      "JAPANESE": "起きろよ。",
+      "INDONESIAN": "Aku tahu kamu udah bangun.",
+      "PORTUGUESE": "Eu sei que você tá acordada.",
+      "RUSSIAN": "Я знаю, что ты уже не спишь.",
+      "FRENCH": "Je sais que tu es réveillée.",
+      "THAI": "ฉันรู้ว่าเธอตื่นแล้วนะ"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 알았어?",
+      "ENGLISH": "How did you know?",
+      "CHINESE_SIMPLIFIED": "你怎么知道的?",
+      "CHINESE_TRADITIONAL": "你怎麼知道的?",
+      "JAPANESE": "どうして分かったの？",
+      "INDONESIAN": "Gimana kamu tahu?",
+      "PORTUGUESE": "Como você sabe?",
+      "RUSSIAN": "Как ты догадался?",
+      "FRENCH": "Comment tu as su ?",
+      "THAI": "รู้ได้ยังไง?"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "티나?",
+      "ENGLISH": "Is it that obvious?",
+      "CHINESE_SIMPLIFIED": "很明显吗?",
+      "CHINESE_TRADITIONAL": "很明顯嗎?",
+      "JAPANESE": "バレてた？",
+      "INDONESIAN": "Kelihatan banget, ya?",
+      "PORTUGUESE": "Tá tão na cara assim?",
+      "RUSSIAN": "Это настолько очевидно?",
+      "FRENCH": "C’est si évident que ça ?",
+      "THAI": "มันชัดขนาดนั้นเลยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "티 엄청 나",
+      "ENGLISH": "It is very obvious.",
+      "CHINESE_SIMPLIFIED": "超级明显",
+      "CHINESE_TRADITIONAL": "超級明顯",
+      "JAPANESE": "バレバレだよ。",
+      "INDONESIAN": "Iya, kelihatan jelas.",
+      "PORTUGUESE": "Sim, tá bem óbvio.",
+      "RUSSIAN": "Да, очень очевидно.",
+      "FRENCH": "Oui, très évident.",
+      "THAI": "ใช่ ชัดมากเลย"
+    },
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 일어나~ 바다 다 왔어.",
+      "ENGLISH": "Get out, we’re at the beach.",
+      "CHINESE_SIMPLIFIED": "出来吧~已经到海边了",
+      "CHINESE_TRADITIONAL": "出來吧~已經到海邊了",
+      "JAPANESE": "海、着いたぞ。早く、起きろ",
+      "INDONESIAN": "Ayo keluar, kita udah di pantai.",
+      "PORTUGUESE": "Vamos, saímos na praia.",
+      "RUSSIAN": "Выходи, мы на пляже.",
+      "FRENCH": "Sors, on est à la plage.",
+      "THAI": "ลงมาเถอะ เราถึงทะเลแล้ว"
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 26.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "치... 드디어 둘이 좀 붙어 있나 했는데...",
+      "ENGLISH": "Finally, some alone time...",
+      "CHINESE_SIMPLIFIED": "本来以为终于能独处来着",
+      "CHINESE_TRADITIONAL": "本來以爲終於能獨處來着",
+      "JAPANESE": "ちぇっ…やっとくっつけると思ったのに…",
+      "INDONESIAN": "Akhirnya, waktu sendirian...",
+      "PORTUGUESE": "Finalmente, um tempo a sós...",
+      "RUSSIAN": "Наконец-то, немного времени в одиночестве...",
+      "FRENCH": "Enfin, un peu de tranquillité...",
+      "THAI": "ในที่สุด ก็ได้อยู่คนเดียวบ้าง..."
+    },
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "짜증나!",
+      "ENGLISH": "How annoying!",
+      "CHINESE_SIMPLIFIED": "讨厌!",
+      "CHINESE_TRADITIONAL": "討厭!",
+      "JAPANESE": "マジでムカつく！",
+      "INDONESIAN": "Menyebalkan!",
+      "PORTUGUESE": "Que irritante!",
+      "RUSSIAN": "Как же это раздражает!",
+      "FRENCH": "Quelle plaie !",
+      "THAI": "น่ารำคาญจริงๆ!"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 30.7
+    }
+  }
+]

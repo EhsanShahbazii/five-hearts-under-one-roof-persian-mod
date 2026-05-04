@@ -1,0 +1,439 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "조용히 해!",
+      "ENGLISH": "Keep quiet!",
+      "CHINESE_SIMPLIFIED": "你别出声!",
+      "CHINESE_TRADITIONAL": "你別出聲!",
+      "JAPANESE": "静かにして！",
+      "INDONESIAN": "Diam, jangan berisik!",
+      "PORTUGUESE": "Fica quieto!",
+      "RUSSIAN": "Тихо!",
+      "FRENCH": "Chut !",
+      "THAI": "เงียบไว้!"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아,안녕하세요!",
+      "ENGLISH": "H-Hello!",
+      "CHINESE_SIMPLIFIED": "您，您好!",
+      "CHINESE_TRADITIONAL": "您，您好!",
+      "JAPANESE": "あ、こんにちは！",
+      "INDONESIAN": "H-Halo!",
+      "PORTUGUESE": "O-Olá!",
+      "RUSSIAN": "З-здравствуйте!",
+      "FRENCH": "B-bonjour !",
+      "THAI": "ส-สวัสดีครับ!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "최근에 입사한 우유만 선생님 아니신가?",
+      "ENGLISH": "Oh, aren’t you Mr. Yuman, who joined recently?",
+      "CHINESE_SIMPLIFIED": "哦，这不是新职员吴宥万吗?",
+      "CHINESE_TRADITIONAL": "哦，這不是新職員吳宥萬嗎?",
+      "JAPANESE": "最近入社したウユマン先生じゃないですか？",
+      "INDONESIAN": "Oh, bukankah kamu Tuan Yuman, yang baru bergabung?",
+      "PORTUGUESE": "Ah, você não é o Sr. Yuman, que entrou recentemente?",
+      "RUSSIAN": "О, вы ведь господин Юман, недавно присоединившийся?",
+      "FRENCH": "Oh, vous êtes bien Monsieur Yuman, qui a rejoint récemment ?",
+      "THAI": "อ้อ คุณคือยูมัน ที่เพิ่งเข้ามาใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "예, 두고 간 게 있어서요!",
+      "ENGLISH": "Yes, I forgot something here!",
+      "CHINESE_SIMPLIFIED": "对，我有东西落在公司了!",
+      "CHINESE_TRADITIONAL": "對，我有東西落在公司了!",
+      "JAPANESE": "はい、置いてきたものがあって…！",
+      "INDONESIAN": "Iya, aku lupa sesuatu di sini!",
+      "PORTUGUESE": "Sim, esqueci algo aqui!",
+      "RUSSIAN": "Да, я кое-что здесь забыл!",
+      "FRENCH": "Oui, j’ai oublié quelque chose ici !",
+      "THAI": "ใช่ครับ ผมลืมของไว้ที่นี่!"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그렇군...",
+      "ENGLISH": "I see...",
+      "CHINESE_SIMPLIFIED": "这样啊…",
+      "CHINESE_TRADITIONAL": "這樣啊…",
+      "JAPANESE": "そうか…",
+      "INDONESIAN": "Begitu ya...",
+      "PORTUGUESE": "Entendo...",
+      "RUSSIAN": "Понятно...",
+      "FRENCH": "Je vois...",
+      "THAI": "งั้นเหรอ..."
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "근데 지금 나한테 뭐 숨기고 있는 거 있지 않아?",
+      "ENGLISH": "But are you hiding something from me?",
+      "CHINESE_SIMPLIFIED": "不过我怎么感觉你好像在隐瞒些什么呢?",
+      "CHINESE_TRADITIONAL": "不過我怎麼感覺你好像在隱瞞些什麼呢?",
+      "JAPANESE": "でも、今私に何か隠してることがあるんじゃないか？",
+      "INDONESIAN": "Tapi, kamu lagi sembunyikan sesuatu dariku?",
+      "PORTUGUESE": "Mas você está escondendo algo de mim?",
+      "RUSSIAN": "Но вы что-то скрываете от меня?",
+      "FRENCH": "Mais est-ce que vous me cachez quelque chose ?",
+      "THAI": "แต่นายกำลังปิดบังอะไรหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "냄새가 나는데...!",
+      "ENGLISH": "There’s a smell...!",
+      "CHINESE_SIMPLIFIED": "有股味道…!",
+      "CHINESE_TRADITIONAL": "有股味道…!",
+      "JAPANESE": "なんだか臭うんだよ…！",
+      "INDONESIAN": "Ada bau...!",
+      "PORTUGUESE": "Tem um cheiro...!",
+      "RUSSIAN": "Тут какой-то запах...!",
+      "FRENCH": "Il y a une odeur... !",
+      "THAI": "ได้กลิ่นอะไรบางอย่าง...!"
+    },
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "예...?",
+      "ENGLISH": "Uh...??",
+      "CHINESE_SIMPLIFIED": "诶…??",
+      "CHINESE_TRADITIONAL": "誒…??",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah...??",
+      "PORTUGUESE": "Hã...??",
+      "RUSSIAN": "Эм...??",
+      "FRENCH": "Euh... ??",
+      "THAI": "เอ่อ... ??"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아주 수상한 냄새가 난단 말이야...!",
+      "ENGLISH": "A very suspicious smell...!",
+      "CHINESE_SIMPLIFIED": "非常可疑的味道啊…!",
+      "CHINESE_TRADITIONAL": "非常可疑的味道啊…!",
+      "JAPANESE": "怪しい匂いがするんだよな…！",
+      "INDONESIAN": "Bau yang sangat mencurigakan...!",
+      "PORTUGUESE": "Um cheiro muito suspeito...!",
+      "RUSSIAN": "Очень подозрительный запах...!",
+      "FRENCH": "Une odeur très suspecte... !",
+      "THAI": "กลิ่นน่าสงสัยมาก...!"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "Ах...",
+      "FRENCH": "Ah...",
+      "THAI": "อ่า..."
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "저... 혹시 이거...",
+      "ENGLISH": "Maybe this...",
+      "CHINESE_SIMPLIFIED": "您说的…是这个吗?",
+      "CHINESE_TRADITIONAL": "您說的…是這個嗎?",
+      "JAPANESE": "これ、もしかして…",
+      "INDONESIAN": "Mungkin ini...",
+      "PORTUGUESE": "Talvez isso...",
+      "RUSSIAN": "Может быть, это...",
+      "FRENCH": "Peut-être que c’est ça...",
+      "THAI": "หรือว่าเป็น..."
+    },
+    "TIME": {
+      "SHOW": 40.6,
+      "HIDE": 42.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "역시 이 달달한 냄새가 난다고 했더니!",
+      "ENGLISH": "I knew it! I could smell it from a distance!",
+      "CHINESE_SIMPLIFIED": "我就说哪儿来一股甜味!",
+      "CHINESE_TRADITIONAL": "我就說哪兒來一股甜味!",
+      "JAPANESE": "やっぱり、この甘い匂いだと思った！",
+      "INDONESIAN": "Aku tahu! Aku sudah mencium baunya dari jauh!",
+      "PORTUGUESE": "Eu sabia! Pude sentir o cheiro de longe!",
+      "RUSSIAN": "Я так и знал! Я учуял его издалека!",
+      "FRENCH": "Je le savais ! Je pouvais le sentir de loin !",
+      "THAI": "ฉันรู้แล้ว! ฉันได้กลิ่นนี้ตั้งแต่ไกล!"
+    },
+    "TIME": {
+      "SHOW": 45.8,
+      "HIDE": 48.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "근데 자네",
+      "ENGLISH": "But...",
+      "CHINESE_SIMPLIFIED": "不过我说",
+      "CHINESE_TRADITIONAL": "不過我說",
+      "JAPANESE": "でも君、",
+      "INDONESIAN": "Tapi...",
+      "PORTUGUESE": "Mas...",
+      "RUSSIAN": "Но...",
+      "FRENCH": "Mais...",
+      "THAI": "แต่..."
+    },
+    "TIME": {
+      "SHOW": 55.0,
+      "HIDE": 56.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "내가 바보로 보이는 건가?",
+      "ENGLISH": "Do you think I’m a fool?",
+      "CHINESE_SIMPLIFIED": "你该不会以为我是傻子吧?",
+      "CHINESE_TRADITIONAL": "你該不會以爲我是傻子吧?",
+      "JAPANESE": "私をバカにしてるのか？",
+      "INDONESIAN": "Kamu pikir aku bodoh?",
+      "PORTUGUESE": "Você acha que eu sou bobo?",
+      "RUSSIAN": "Вы меня за дурака держите?",
+      "FRENCH": "Vous me prenez pour un idiot ?",
+      "THAI": "คิดว่าฉันโง่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 56.0,
+      "HIDE": 58.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "내가 초콜릿 냄새도 구분 못 하는 줄 알아!",
+      "ENGLISH": "Do you think I can’t tell the smell of chocolate?",
+      "CHINESE_SIMPLIFIED": "我难道连分辨不出巧克力味吗?",
+      "CHINESE_TRADITIONAL": "我難道連分辨不出巧克力味嗎?",
+      "JAPANESE": "チョコレートの匂いも区別できないと思ったか！",
+      "INDONESIAN": "Kamu kira aku nggak bisa bedain bau cokelat?",
+      "PORTUGUESE": "Acha que eu não consigo reconhecer o cheiro de chocolate?",
+      "RUSSIAN": "Думаете, я не отличу запах шоколада?",
+      "FRENCH": "Vous pensez que je ne reconnais pas l’odeur du chocolat ?",
+      "THAI": "คิดว่าฉันแยกกลิ่นช็อกโกแลตไม่ออกหรือไง?"
+    },
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 60.5
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "자네 나한테 뭐 숨기는 거 있지!",
+      "ENGLISH": "Are you hiding something from me!",
+      "CHINESE_SIMPLIFIED": "你是不是有事瞒着我？",
+      "CHINESE_TRADITIONAL": "你是不是有事瞞着我？",
+      "JAPANESE": "君、私に何か隠してるんだろ！",
+      "INDONESIAN": "Kamu lagi sembunyikan sesuatu dariku!",
+      "PORTUGUESE": "Você está escondendo algo de mim!",
+      "RUSSIAN": "Вы что-то от меня прячете!",
+      "FRENCH": "Vous cachez quelque chose ?",
+      "THAI": "นายซ่อนอะไรจากฉันอยู่ใช่ไหม!"
+    },
+    "TIME": {
+      "SHOW": 61.2,
+      "HIDE": 63.1
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "저... 혹시 이거...",
+      "ENGLISH": "Maybe this....",
+      "CHINESE_SIMPLIFIED": "是这个吗...?",
+      "CHINESE_TRADITIONAL": "是這個嗎...?",
+      "JAPANESE": "あ…これ、もしかして…",
+      "INDONESIAN": "Mungkin ini...",
+      "PORTUGUESE": "Talvez isso...",
+      "RUSSIAN": "Может, это...",
+      "FRENCH": "Peut-être ça...",
+      "THAI": "บางที... นี่ไง..."
+    },
+    "TIME": {
+      "SHOW": 72.8,
+      "HIDE": 75.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "그래 이 냄새지!!",
+      "ENGLISH": "Yes, that’s the smell!",
+      "CHINESE_SIMPLIFIED": "对!就是这个味!",
+      "CHINESE_TRADITIONAL": "對!就是這個味!",
+      "JAPANESE": "そうだ、この匂いだ！！",
+      "INDONESIAN": "Iya, itu baunya!",
+      "PORTUGUESE": "Sim, é esse o cheiro!",
+      "RUSSIAN": "Да, вот этот самый запах!",
+      "FRENCH": "Oui, c’est cette odeur-là !",
+      "THAI": "ใช่เลย! กลิ่นนี้แหละ!"
+    },
+    "TIME": {
+      "SHOW": 83.7,
+      "HIDE": 85.2
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "아주 입구에서부터 이 냄새가 나더라니!",
+      "ENGLISH": "I could smell it from the entrance!",
+      "CHINESE_SIMPLIFIED": "一进来我就闻到了!",
+      "CHINESE_TRADITIONAL": "一進來我就聞到了!",
+      "JAPANESE": "入り口からずっとこの匂いがしてたんだ！",
+      "INDONESIAN": "Aku sudah mencium dari pintu masuk!",
+      "PORTUGUESE": "Eu senti lá da entrada!",
+      "RUSSIAN": "Я почувствовал его ещё на входе!",
+      "FRENCH": "Je l’ai sentie dès l’entrée !",
+      "THAI": "ฉันได้กลิ่นตั้งแต่ตรงประตู!"
+    },
+    "TIME": {
+      "SHOW": 85.9,
+      "HIDE": 88.7
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "음식 냄새 나니까",
+      "ENGLISH": "It smells like food",
+      "CHINESE_SIMPLIFIED": "房间里有股饭味",
+      "CHINESE_TRADITIONAL": "房間裏有股飯味",
+      "JAPANESE": "食べ物の匂いがするから、",
+      "INDONESIAN": "Bau kayak makanan,",
+      "PORTUGUESE": "Parece cheiro de comida,",
+      "RUSSIAN": "Пахнет едой,",
+      "FRENCH": "Ça sent la nourriture,",
+      "THAI": "มีกลิ่นอาหารนะ,"
+    },
+    "TIME": {
+      "SHOW": 89.9,
+      "HIDE": 91.1
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "꼭 환기하고 나가시게!",
+      "ENGLISH": "So make sure to ventilate before you leave!",
+      "CHINESE_SIMPLIFIED": "一定记得常通风啊",
+      "CHINESE_TRADITIONAL": "一定記得常通風啊",
+      "JAPANESE": "ちゃんと換気して出て行くように！",
+      "INDONESIAN": "Jadi pastikan untuk ventilasi dulu sebelum pergi!",
+      "PORTUGUESE": "Então certifique-se de ventilar o lugar antes de sair!",
+      "RUSSIAN": "так что проветрите перед уходом!",
+      "FRENCH": "alors pensez à aérer avant de partir !",
+      "THAI": "อย่าลืมเปิดหน้าต่างระบายอากาศก่อนออกไป!"
+    },
+    "TIME": {
+      "SHOW": 91.1,
+      "HIDE": 93.5
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "네! 알겠습니다!",
+      "ENGLISH": "Yes, understood!",
+      "CHINESE_SIMPLIFIED": "好的!我知道了!",
+      "CHINESE_TRADITIONAL": "好的!我知道了!",
+      "JAPANESE": "はい！わかりました！",
+      "INDONESIAN": "Iya, paham!",
+      "PORTUGUESE": "Sim, entendi!",
+      "RUSSIAN": "Да, понял!",
+      "FRENCH": "Oui, compris !",
+      "THAI": "ครับ, เข้าใจแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 93.5,
+      "HIDE": 95.7
+    }
+  }
+]

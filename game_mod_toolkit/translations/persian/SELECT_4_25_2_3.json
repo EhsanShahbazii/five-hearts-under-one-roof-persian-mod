@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 은비가 제일 좋아.",
+      "ENGLISH": "I like Eun-bi.",
+      "CHINESE_SIMPLIFIED": "我最喜欢恩妃",
+      "CHINESE_TRADITIONAL": "我最喜歡恩妃",
+      "JAPANESE": "ウンビが一番いいかな。",
+      "INDONESIAN": "Aku suka Eun-bi.",
+      "PORTUGUESE": "Eu gosto da Eun-bi.",
+      "RUSSIAN": "Мне нравится Ын-би.",
+      "FRENCH": "J’aime bien Eun-bi.",
+      "THAI": "ฉันชอบอึนบี",
+      "PERSIAN": "من یون بی را دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.58
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그네 타봤어요?",
+      "ENGLISH": "Have you ever been on a swing?",
+      "CHINESE_SIMPLIFIED": "你玩过秋千吗?",
+      "CHINESE_TRADITIONAL": "你玩過鞦韆嗎?",
+      "JAPANESE": "ブランコ、乗ったことありますか？",
+      "INDONESIAN": "Kamu pernah naik ayunan?",
+      "PORTUGUESE": "Você já andou de balanço?",
+      "RUSSIAN": "Ты когда-нибудь качалась на качелях?",
+      "FRENCH": "Tu es déjà montée sur une balançoire ?",
+      "THAI": "เคยเล่นชิงช้ามาก่อนไหม?",
+      "PERSIAN": "تا به حال در تاب بوده اید؟"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네! 저 어렸을 때 집 앞 놀이터에서 타봤거든요!",
+      "ENGLISH": "Yes! I used to ride it at the playground near my house!",
+      "CHINESE_SIMPLIFIED": "嗯!我小时候在家门口的公园玩过!",
+      "CHINESE_TRADITIONAL": "嗯!我小時候在家門口的公園玩過!",
+      "JAPANESE": "はい！子供の頃、家の前の公園で乗ったことあります！",
+      "INDONESIAN": "Iya! Dulu aku sering naik di taman dekat rumahku!",
+      "PORTUGUESE": "Sim! Eu costumava brincar no parquinho perto de casa!",
+      "RUSSIAN": "Да! Раньше я качалась на площадке возле дома!",
+      "FRENCH": "Oui ! Je jouais à la balançoire dans le parc près de chez moi !",
+      "THAI": "เคย! ฉันเคยเล่นชิงช้าที่สนามเด็กเล่นใกล้บ้าน!",
+      "PERSIAN": "بله! در زمین بازی نزدیک خونه ام سوار اون می شدم!"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 제가 좀 밀어줄까요?",
+      "ENGLISH": "Want me to push you?",
+      "CHINESE_SIMPLIFIED": "要我帮你推吗?",
+      "CHINESE_TRADITIONAL": "要我幫你推嗎?",
+      "JAPANESE": "じゃあ、僕が押してあげましょうか？",
+      "INDONESIAN": "Mau aku dorong?",
+      "PORTUGUESE": "Quer que eu te empurre?",
+      "RUSSIAN": "Хочешь, я тебя покачаю?",
+      "FRENCH": "Tu veux que je te pousse ?",
+      "THAI": "อยากให้ฉันช่วยไกวให้ไหม?",
+      "PERSIAN": "میخوای فشارت بدم؟"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어? 저 무거울텐데...",
+      "ENGLISH": "Huh? I might be heavy...",
+      "CHINESE_SIMPLIFIED": "嗯…我可能有点重…",
+      "CHINESE_TRADITIONAL": "嗯…我可能有點重…",
+      "JAPANESE": "私、重いけど大丈夫ですか…？",
+      "INDONESIAN": "Hah? Aku mungkin berat...",
+      "PORTUGUESE": "Hã? Eu posso ser pesada...",
+      "RUSSIAN": "А? Я, наверное, тяжёлая...",
+      "FRENCH": "Hein ? Je risque d’être lourde...",
+      "THAI": "หืม? ฉันอาจจะหนักนะ...",
+      "PERSIAN": "ها؟ شاید سنگین باشم..."
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요!",
+      "ENGLISH": "It’s fine!",
+      "CHINESE_SIMPLIFIED": "没关系!",
+      "CHINESE_TRADITIONAL": "沒關係!",
+      "JAPANESE": "大丈夫ですよ！",
+      "INDONESIAN": "Gak apa-apa!",
+      "PORTUGUESE": "Tá tudo bem!",
+      "RUSSIAN": "Не переживай!",
+      "FRENCH": "C’est bon !",
+      "THAI": "ไม่เป็นไรหรอก!",
+      "PERSIAN": "خوب است!"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "자...",
+      "ENGLISH": "There you go...",
+      "CHINESE_SIMPLIFIED": "来…",
+      "CHINESE_TRADITIONAL": "來…",
+      "JAPANESE": "じゃあ…",
+      "INDONESIAN": "Nah, gini...",
+      "PORTUGUESE": "Aí vai...",
+      "RUSSIAN": "Поехали...",
+      "FRENCH": "Allez...",
+      "THAI": "ไปเลย...",
+      "PERSIAN": "شما برو..."
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "와 한강 진짜 오랜만이다..",
+      "ENGLISH": "Wow, it’s been so long since I was at Han River...",
+      "CHINESE_SIMPLIFIED": "哇，汉江真的是好久都没来了…",
+      "CHINESE_TRADITIONAL": "哇，漢江真的是好久都沒來了…",
+      "JAPANESE": "わあ、漢江、本当に久しぶりだな…",
+      "INDONESIAN": "Wah, udah lama banget sejak terakhir aku ke Sungai Han...",
+      "PORTUGUESE": "Uau, faz tanto tempo que eu não vinha ao Rio Han...",
+      "RUSSIAN": "Вау, так давно я не была на реке Хан...",
+      "FRENCH": "Waouh, ça fait si longtemps que je suis venue à la rivière Han...",
+      "THAI": "ว้าว นานมากแล้วที่ฉันมาที่แม่น้ำฮัน...",
+      "PERSIAN": "وای، خیلی وقت است که در رودخانه هان نبودم..."
+    },
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 27.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야! 괜찮아요?",
+      "ENGLISH": "What’s wrong! Are you okay?",
+      "CHINESE_SIMPLIFIED": "我去!你还好吗?",
+      "CHINESE_TRADITIONAL": "我去!你還好嗎?",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kenapa? Kamu gak apa-apa?",
+      "PORTUGUESE": "O que houve? Você tá bem?",
+      "RUSSIAN": "Что случилось? Всё в порядке?",
+      "FRENCH": "Qu’est-ce qu’il y a ? Ça va ?",
+      "THAI": "เป็นอะไร! เธอโอเคไหม?",
+      "PERSIAN": "چه اشکالی دارد! حالت خوبه؟"
+    },
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 30.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "미안해요. 제가 한눈을 팔아가지고",
+      "ENGLISH": "Sorry, I got distracted! Are you alright?",
+      "CHINESE_SIMPLIFIED": "对不起啊，我一时走神了!",
+      "CHINESE_TRADITIONAL": "對不起啊，我一時走神了!",
+      "JAPANESE": "ごめんなさい、ちょっと気を取られちゃって。",
+      "INDONESIAN": "Maaf, aku tadi gak fokus! Kamu baik-baik aja?",
+      "PORTUGUESE": "Desculpa, eu me distraí! Você tá bem?",
+      "RUSSIAN": "Извини, я отвлёкся! С тобой всё нормально?",
+      "FRENCH": "Désolé, j’étais distrait ! Ça va ?",
+      "THAI": "ขอโทษที ฉันเผลอไป! เธอโอเคไหม?",
+      "PERSIAN": "ببخشید حواسم پرت شد! حالت خوبه؟"
+    },
+    "TIME": {
+      "SHOW": 30.8,
+      "HIDE": 32.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아 괜찮아요! 제가 운동신경이 없어서 그래요.",
+      "ENGLISH": "Oh, I’m fine! It’s just because I’m clumsy.",
+      "CHINESE_SIMPLIFIED": "啊没关系的!怪我自己运动细胞不发达",
+      "CHINESE_TRADITIONAL": "啊沒關係的!怪我自己運動細胞不發達",
+      "JAPANESE": "大丈夫ですよ！私、運動神経がないから。",
+      "INDONESIAN": "Oh, aku gak apa-apa! Cuma karena aku ceroboh.",
+      "PORTUGUESE": "Ah, eu tô bem! É só porque eu sou desajeitada.",
+      "RUSSIAN": "О, я в порядке! Это просто потому, что я неуклюжая.",
+      "FRENCH": "Oh, ça va ! C’est juste que je suis maladroite.",
+      "THAI": "โอ้ ฉันโอเค! มันแค่เพราะฉันซุ่มซ่าม",
+      "PERSIAN": "اوه، من خوبم! این فقط به خاطر همین است که من دست و پا چلفتی هستم."
+    },
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 36.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님 잘못이 아니에요!",
+      "ENGLISH": "It’s not your fault, Yuman!",
+      "CHINESE_SIMPLIFIED": "不是您的错!",
+      "CHINESE_TRADITIONAL": "不是您的錯!",
+      "JAPANESE": "ユマンさんのせいじゃないですよ！",
+      "INDONESIAN": "Ini bukan salahmu, Yuman!",
+      "PORTUGUESE": "Não é sua culpa, Yuman!",
+      "RUSSIAN": "Это не твоя вина, Юман!",
+      "FRENCH": "C’est pas ta faute, Yuman !",
+      "THAI": "ไม่ใช่ความผิดของเธอหรอก ยูมัน!",
+      "PERSIAN": "تقصیر تو نیست، یومان!"
+    },
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 38.9
+    }
+  }
+]

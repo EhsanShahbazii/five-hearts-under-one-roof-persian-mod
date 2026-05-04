@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 이 옷 입는다?",
+      "ENGLISH": "I’ll even wear this outfit!",
+      "CHINESE_SIMPLIFIED": "这个给我穿了啊!",
+      "CHINESE_TRADITIONAL": "這個給我穿了啊!",
+      "JAPANESE": "この服着てもいい？",
+      "INDONESIAN": "Aku bahkan bakal pakai baju ini!",
+      "PORTUGUESE": "Eu até vou usar essa roupa!",
+      "RUSSIAN": "Я даже это надену!",
+      "FRENCH": "Je vais même mettre ça !",
+      "THAI": "ฉันจะใส่ชุดนี้เลย!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.6
+    }
+  }
+]

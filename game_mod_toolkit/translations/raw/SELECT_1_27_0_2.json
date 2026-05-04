@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이야아아아아아아아!!!!!!!!!!",
+      "ENGLISH": "AAAAAAAAAAAAAAAAAAAACCCK!!!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊啊啊啊啊啊啊啊!!!",
+      "CHINESE_TRADITIONAL": "啊啊啊啊啊啊啊啊啊啊!!!",
+      "JAPANESE": "うああああああああ！！！！！！",
+      "INDONESIA": "AAAAAAAAAAAAAAAAAAAACCCK!!!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "AAAAAAAAAAAAAAAAAAAACCCK!!!!!!!!!!!!!!!!!",
+      "RUSSIAN": "АААААААААААААААААААААААААА!!!!",
+      "FRENCH": "AAAAAAAAAAAAAAAAHHHHHHH !!!!!!!!!!!!!",
+      "THAI": "อ๊ากกกกกกกกกกกกก!!!!!!!!!!!"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.5
+    }
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 고름이 다 풀렸잖아요~",
+      "ENGLISH": "The goreum came undone again.",
+      "CHINESE_SIMPLIFIED": "你这绑带都开了~",
+      "CHINESE_TRADITIONAL": "你這綁帶都開了~",
+      "JAPANESE": "衣紐、全部ほどけちゃいましたよ～",
+      "INDONESIAN": "Goreum-nya lepas lagi.",
+      "PORTUGUESE": "O goreum soltou de novo.",
+      "RUSSIAN": "Горым снова развязался.",
+      "FRENCH": "Le goreum s’est défait à nouveau.",
+      "THAI": "โกรึมหลุดอีกแล้ว"
+    },
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "Ой...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้..."
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아이~ 뭐 그런 것도 못 묶어요~",
+      "ENGLISH": "You can't even tie this properly?",
+      "CHINESE_SIMPLIFIED": "你怎么连这都不会系啊~",
+      "CHINESE_TRADITIONAL": "你怎麼連這都不會系啊~",
+      "JAPANESE": "そんなのも結べないんですか？",
+      "INDONESIAN": "Kamu gak bisa ikat ini dengan benar?",
+      "PORTUGUESE": "Você nem consegue amarrar isso direito?",
+      "RUSSIAN": "Ты даже это не можешь нормально завязать?",
+      "FRENCH": "Tu n’arrives même pas à le nouer correctement ?",
+      "THAI": "เธอผูกไม่เป็นเลยเหรอเนี่ย?"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "对不起…",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Прости...",
+      "FRENCH": "Désolée...",
+      "THAI": "ขอโทษนะ..."
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "에이~ 그거 아닌데.",
+      "ENGLISH": "No, it's okay.",
+      "CHINESE_SIMPLIFIED": "你不用抱歉",
+      "CHINESE_TRADITIONAL": "你不用抱歉",
+      "JAPANESE": "そうじゃないですよ～",
+      "INDONESIAN": "Enggak, gak apa-apa.",
+      "PORTUGUESE": "Não, tudo bem.",
+      "RUSSIAN": "Нет, всё нормально.",
+      "FRENCH": "Non, ça va.",
+      "THAI": "ไม่เป็นไรหรอก"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "제가 묶어줄게요.",
+      "ENGLISH": "Let me show you how to tie it.",
+      "CHINESE_SIMPLIFIED": "我来给你示范一下",
+      "CHINESE_TRADITIONAL": "我來給你示範一下",
+      "JAPANESE": "僕が結んであげますね。",
+      "INDONESIAN": "Biar aku tunjukin cara ngikatnya.",
+      "PORTUGUESE": "Deixa eu te mostrar como se amarra.",
+      "RUSSIAN": "Позволь мне показать, как его завязывать.",
+      "FRENCH": "Laisse-moi te montrer comment on le noue.",
+      "THAI": "เดี๋ยวฉันจะสอนวิธีผูกให้ดู"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "잘 봐요.",
+      "ENGLISH": "Watch carefully.",
+      "CHINESE_SIMPLIFIED": "你看好了",
+      "CHINESE_TRADITIONAL": "你看好了",
+      "JAPANESE": "よく見ててくださいね。",
+      "INDONESIAN": "Lihat baik-baik, ya.",
+      "PORTUGUESE": "Presta atenção.",
+      "RUSSIAN": "Смотри внимательно.",
+      "FRENCH": "Regarde attentivement.",
+      "THAI": "ดูดีๆ นะ"
+    },
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 20.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아이고...",
+      "ENGLISH": "Oh, my...",
+      "CHINESE_SIMPLIFIED": "哎呦...",
+      "CHINESE_TRADITIONAL": "哎呦...",
+      "JAPANESE": "はあ…",
+      "INDONESIAN": "Oh, astaga...",
+      "PORTUGUESE": "Ai, meu Deus...",
+      "RUSSIAN": "О, ну надо же...",
+      "FRENCH": "Oh là là...",
+      "THAI": "โอ้ ตายจริง..."
+    },
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 이거구나...",
+      "ENGLISH": "I see, I see.",
+      "CHINESE_SIMPLIFIED": "啊! 原来是这样",
+      "CHINESE_TRADITIONAL": "啊! 原來是這樣",
+      "JAPANESE": "あ～これだったんですね…",
+      "INDONESIAN": "Aku ngerti, aku ngerti.",
+      "PORTUGUESE": "Entendi, entendi.",
+      "RUSSIAN": "Понял, понял.",
+      "FRENCH": "D’accord, d’accord.",
+      "THAI": "เข้าใจแล้วๆ"
+    },
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.6
+    }
+  }
+]

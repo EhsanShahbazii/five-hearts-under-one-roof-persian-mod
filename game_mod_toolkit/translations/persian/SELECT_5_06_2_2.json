@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 오빠 뭐 해!!",
+      "ENGLISH": "Oppa, what are you doing!!",
+      "CHINESE_SIMPLIFIED": "哥哥你干嘛~",
+      "CHINESE_TRADITIONAL": "哥哥你幹嘛~",
+      "JAPANESE": "お兄ちゃん、何するの！！",
+      "INDONESIAN": "Oppa, kamu ngapain sih!!",
+      "PORTUGUESE": "Oppa, o que você tá fazendo!!",
+      "RUSSIAN": "Оппа, что ты делаешь!!",
+      "FRENCH": "Oppa, qu’est-ce que tu fais !!",
+      "THAI": "พี่ ทำอะไรอยู่!!",
+      "PERSIAN": "یومان چیکار میکنی!!"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 빨리 일어나라고~",
+      "ENGLISH": "Just wake up already~",
+      "CHINESE_SIMPLIFIED": "快起来啦~",
+      "CHINESE_TRADITIONAL": "快起來啦~",
+      "JAPANESE": "だから早く起きろって～",
+      "INDONESIAN": "Bangun, dong~",
+      "PORTUGUESE": "Acorda logo~",
+      "RUSSIAN": "Ну же, просыпайся уже~",
+      "FRENCH": "Allez, réveille-toi déjà~",
+      "THAI": "ตื่นได้แล้ว~",
+      "PERSIAN": "همین الان بیدار شو"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오빠",
+      "ENGLISH": "Oppa",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん",
+      "INDONESIAN": "Oppa,",
+      "PORTUGUESE": "Oppa,",
+      "RUSSIAN": "Оппа,",
+      "FRENCH": "Oppa,",
+      "THAI": "พี่",
+      "PERSIAN": "یومان"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "우리 그러지 말고",
+      "ENGLISH": "How about",
+      "CHINESE_SIMPLIFIED": "我们别出去了",
+      "CHINESE_TRADITIONAL": "我們別出去了",
+      "JAPANESE": "いっそさ、",
+      "INDONESIAN": "Gimana kalau",
+      "PORTUGUESE": "Que tal",
+      "RUSSIAN": "может,",
+      "FRENCH": "et si",
+      "THAI": "ถ้า",
+      "PERSIAN": "چطور؟"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "차에 둘이 있을까?",
+      "ENGLISH": "We stay in the car together?",
+      "CHINESE_SIMPLIFIED": "在车里单独一会儿吧?",
+      "CHINESE_TRADITIONAL": "在車裏單獨一會兒吧?",
+      "JAPANESE": "二人で車に残ってようよ？",
+      "INDONESIAN": "Kita tetap di mobil bareng aja?",
+      "PORTUGUESE": "A gente ficar no carro juntos?",
+      "RUSSIAN": "мы останемся в машине вместе?",
+      "FRENCH": "on restait ensemble dans la voiture ?",
+      "THAI": "เราอยู่ในรถด้วยกันล่ะ?",
+      "PERSIAN": "با هم تو ماشین بمونیم؟"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너 안 내리면 그냥 두고 내린다~",
+      "ENGLISH": "If you don’t get out, we’re leaving you behind!",
+      "CHINESE_SIMPLIFIED": "你不出来的话我可走啦~",
+      "CHINESE_TRADITIONAL": "你不出來的話我可走啦~",
+      "JAPANESE": "降りないなら置いて行くぞ～",
+      "INDONESIAN": "Kalau kamu gak keluar, kita tinggal, ya!",
+      "PORTUGUESE": "Se você não sair, a gente vai te deixar pra trás!",
+      "RUSSIAN": "Если не выйдешь, мы уедем без тебя!",
+      "FRENCH": "Si tu ne sors pas, on te laisse là !",
+      "THAI": "ถ้าไม่ลงมา เราจะทิ้งเธอไว้นะ!",
+      "PERSIAN": "اگر بیرون نروید، ما شما را پشت سر می گذاریم!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "치",
+      "ENGLISH": "Fine.",
+      "CHINESE_SIMPLIFIED": "切!",
+      "CHINESE_TRADITIONAL": "切!",
+      "JAPANESE": "ちぇっ。",
+      "INDONESIAN": "Ya udah, deh.",
+      "PORTUGUESE": "Tá bom, então.",
+      "RUSSIAN": "Ладно.",
+      "FRENCH": "D’accord.",
+      "THAI": "ก็ได้",
+      "PERSIAN": "خوب"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 17.2
+    }
+  }
+]

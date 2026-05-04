@@ -1,0 +1,230 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "키 엄청 보시죠!",
+      "ENGLISH": "You really care about height, right?",
+      "CHINESE_SIMPLIFIED": "您是不是很在意身高？",
+      "CHINESE_TRADITIONAL": "您是不是很在意身高？",
+      "JAPANESE": "身長、すごく気にするタイプですよね？",
+      "INDONESIAN": "Kamu peduli banget soal tinggi badan, ya?",
+      "PORTUGUESE": "Você se importa muito com altura, né?",
+      "RUSSIAN": "Тебе ведь правда важен рост, да?",
+      "FRENCH": "Tu tiens vraiment à la taille, non ?",
+      "THAI": "นายแคร์เรื่องส่วนสูงจริง ๆ ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "맞아, 난 180 이하론 안 만나.",
+      "ENGLISH": "Yeah, I don’t date anyone under 180 cm.",
+      "CHINESE_SIMPLIFIED": "那当然，我绝对不会和身高180以下的男人交往",
+      "CHINESE_TRADITIONAL": "那當然，我絕對不會和身高180以下的男人交往",
+      "JAPANESE": "そうよ、私は180cm以下とは付き合わないの。",
+      "INDONESIAN": "Iya, aku nggak pernah pacaran sama orang di bawah 180 cm.",
+      "PORTUGUESE": "Sim, eu não namoro ninguém com menos de 180 cm.",
+      "RUSSIAN": "Да, я не встречаюсь с кем-то ниже 180 см.",
+      "FRENCH": "Oui, je ne sors pas avec quelqu’un de moins de 1m80.",
+      "THAI": "ใช่ ฉันไม่คบใครที่สูงน้อยกว่า 180 ซม."
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.18
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어? 저 180 넘는데요?",
+      "ENGLISH": "Oh? I’m over 180 cm.",
+      "CHINESE_SIMPLIFIED": "是吗?我刚好超过180",
+      "CHINESE_TRADITIONAL": "是嗎?我剛好超過180",
+      "JAPANESE": "え？僕、180cm超えてますけど？",
+      "INDONESIAN": "Oh? Tinggiku lebih dari 180 cm.",
+      "PORTUGUESE": "Ah? Eu tenho mais de 180 cm.",
+      "RUSSIAN": "О? А у меня больше 180 см.",
+      "FRENCH": "Oh ? Moi, je fais plus d’1m80.",
+      "THAI": "อ้อ? ฉันสูงเกิน 180 ซม. นะ"
+    },
+    "TIME": {
+      "SHOW": 6.18,
+      "HIDE": 8.65
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 뭐? ",
+      "ENGLISH": "So what? ",
+      "CHINESE_SIMPLIFIED": "所以呢?",
+      "CHINESE_TRADITIONAL": "所以呢?",
+      "JAPANESE": "だから何？",
+      "INDONESIAN": "Terus kenapa?",
+      "PORTUGUESE": "E daí?",
+      "RUSSIAN": "И что с того?",
+      "FRENCH": "Et alors ?",
+      "THAI": "แล้วไงล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 8.65,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "180 넘으니까, 나랑 사귈 수 있다고 생각하는 거야?",
+      "ENGLISH": "You think you can date me just because you’re tall?",
+      "CHINESE_SIMPLIFIED": "你觉得你有机会和我交往了?",
+      "CHINESE_TRADITIONAL": "你覺得你有機會和我交往了?",
+      "JAPANESE": "180cm超えてるからって、私と付き合えると思ってるの？",
+      "INDONESIAN": "Kamu kira bisa pacaran sama aku cuma karena tinggi?",
+      "PORTUGUESE": "Você acha que pode namorar comigo só porque é alto?",
+      "RUSSIAN": "Думаешь, можно встречаться со мной только потому, что ты высокий?",
+      "FRENCH": "Tu crois que tu peux sortir avec moi juste parce que t’es grand ?",
+      "THAI": "คิดว่าคบกับฉันได้แค่เพราะสูงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨 뭐... 그런 거까지는 아닌데...",
+      "ENGLISH": "Not exactly...",
+      "CHINESE_SIMPLIFIED": "那倒不是…",
+      "CHINESE_TRADITIONAL": "那倒不是…",
+      "JAPANESE": "いや、別に…そんなことまでは思ってないですけど…",
+      "INDONESIAN": "Nggak juga...",
+      "PORTUGUESE": "Não exatamente...",
+      "RUSSIAN": "Не совсем...",
+      "FRENCH": "Pas vraiment...",
+      "THAI": "ก็ไม่เชิง..."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 그런 거 다 필요 없고",
+      "ENGLISH": "Honestly, I just don’t want",
+      "CHINESE_SIMPLIFIED": "不过其实那些都不重要",
+      "CHINESE_TRADITIONAL": "不過其實那些都不重要",
+      "JAPANESE": "正直、こんなことどうでもよくて、",
+      "INDONESIAN": "Sejujurnya, aku cuma nggak mau",
+      "PORTUGUESE": "Sinceramente, eu só não quero",
+      "RUSSIAN": "Честно говоря, я просто не хочу,",
+      "FRENCH": "Honnêtement, je veux juste éviter",
+      "THAI": "จริง ๆ แล้ว ฉันแค่ไม่อยาก"
+    },
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "난 우리 아빠 같지만 않으면 돼.",
+      "ENGLISH": "Anyone like my dad.",
+      "CHINESE_SIMPLIFIED": "只要不像我爸就行",
+      "CHINESE_TRADITIONAL": "只要不像我爸就行",
+      "JAPANESE": "お父さんみたいな人じゃなければ、誰でもいいわ。",
+      "INDONESIAN": "Pacaran sama orang yang mirip ayahku.",
+      "PORTUGUESE": "Alguém como meu pai.",
+      "RUSSIAN": "чтобы мой парень был как мой отец.",
+      "FRENCH": "quelqu’un qui ressemble à mon père.",
+      "THAI": "ได้แฟนที่เหมือนพ่อฉันเท่านั้นเอง"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "응? 보통은 아빠 같은 사람 만나고 싶어 하지 않아요?",
+      "ENGLISH": "Really? Most people want someone like their dad.",
+      "CHINESE_SIMPLIFIED": "嗯?一般女生不都喜欢和爸爸相似的男人吗?",
+      "CHINESE_TRADITIONAL": "嗯?一般女生不都喜歡和爸爸相似的男人嗎?",
+      "JAPANESE": "え？普通はお父さんみたいな人と結婚したいんじゃないですか？",
+      "INDONESIAN": "Benarkah? Kebanyakan orang justru pengen pasangan yang mirip ayahnya.",
+      "PORTUGUESE": "Sério? A maioria das pessoas quer alguém como o pai delas.",
+      "RUSSIAN": "Правда? Большинство хотят кого-то, похожего на отца.",
+      "FRENCH": "Sérieux ? La plupart des gens cherchent quelqu’un comme leur père.",
+      "THAI": "เหรอ? ส่วนใหญ่คนอยากได้แฟนเหมือนพ่อนะ"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "난 그만 먹을래!",
+      "ENGLISH": "I'm done eating! ",
+      "CHINESE_SIMPLIFIED": "我吃完了!",
+      "CHINESE_TRADITIONAL": "我吃完了!",
+      "JAPANESE": "私、もうおなかいっぱいだわ！",
+      "INDONESIAN": "Aku udah selesai makan!",
+      "PORTUGUESE": "Terminei de comer!",
+      "RUSSIAN": "Я закончила!",
+      "FRENCH": "J’ai fini !",
+      "THAI": "ฉันอิ่มแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "잘 먹었어, 유만 씨.",
+      "ENGLISH": "Thanks for the meal, Yuman.",
+      "CHINESE_SIMPLIFIED": "谢谢招待了,宥万",
+      "CHINESE_TRADITIONAL": "謝謝招待了,宥萬",
+      "JAPANESE": "ごちそうさま、ユマンさん。",
+      "INDONESIAN": "Makasih atas makanannya, Yuman.",
+      "PORTUGUESE": "Obrigada pela refeição, Yuman.",
+      "RUSSIAN": "Спасибо за еду, Юман.",
+      "FRENCH": "Merci pour le repas, Yuman.",
+      "THAI": "ขอบคุณสำหรับอาหารนะ ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "앞으로 하숙 잘 부탁해.",
+      "ENGLISH": "Take care of this share house from now on.",
+      "CHINESE_SIMPLIFIED": "之后的合租生活就拜托你了~",
+      "CHINESE_TRADITIONAL": "之後的合租生活就拜託你了~",
+      "JAPANESE": "これから下宿、よろしくね。",
+      "INDONESIAN": "Jaga rumah kos ini mulai sekarang, ya.",
+      "PORTUGUESE": "Cuida dessa casa compartilhada a partir de agora, tá.",
+      "RUSSIAN": "Теперь ты следи за этим домом.",
+      "FRENCH": "Occupe-toi bien de cette colocation à partir de maintenant.",
+      "THAI": "ดูแลบ้านแชร์นี้ให้ดีล่ะ"
+    },
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.8
+    }
+  }
+]

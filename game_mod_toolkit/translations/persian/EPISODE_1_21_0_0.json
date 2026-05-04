@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저.. 혹시 토마토?",
+      "ENGLISH": "Tomato market?",
+      "PERSIAN": "بازار گوجه فرنگی؟"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아이디.. 온리밀크님?",
+      "ENGLISH": "ID.. OnlyMilk?",
+      "PERSIAN": "شناسه.. فقط شیر؟"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네 맞아요! 이름이 우유만이어 가지고...",
+      "ENGLISH": "Yes, that's right! That's my nickname...",
+      "PERSIAN": "بله، درست است! این اسم مستعار منه..."
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "여기 사인CD요...",
+      "ENGLISH": "Aha... Here's the signed CD!",
+      "PERSIAN": "آها... اینم سی دی امضا شده!"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네 감사합니다..!",
+      "ENGLISH": "Yes, thank you... ",
+      "PERSIAN": "بله ممنون..."
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "와 이거 가지고 있는 사람 진짜 많지 않은데!",
+      "ENGLISH": "Wow... Not many people have this!",
+      "PERSIAN": "وای... خیلی ها اینو ندارند!"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아... 여기요!",
+      "ENGLISH": "Oh... Here's the money!",
+      "PERSIAN": "اوه ... این پول است!"
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "와 드디어 얻었다!! 대박 밍밍 싸인~",
+      "ENGLISH": "Finally got it! Awesome Mingming's autograph!",
+      "PERSIAN": "بالاخره گرفتم! امضای عالی مینگ مینگ!"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 33.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저기요..",
+      "ENGLISH": "Um, excuse me?",
+      "PERSIAN": "اوم، ببخشید؟"
+    },
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yeah?",
+      "PERSIAN": "Yeah?"
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "근데 얘네가 그렇게 좋아요?",
+      "ENGLISH": "Do you like them that much?",
+      "PERSIAN": "اونا رو اینقدر دوست دارید؟"
+    },
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스요?",
+      "ENGLISH": "The Milk Girls?",
+      "PERSIAN": "دختران شیر؟"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 40.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "당연하죠! 제 인생에 덕질은 진짜 밀크걸스 뿐이거든요!",
+      "ENGLISH": "Of course! They're the only idols I stan in my life! Milk Girls!",
+      "PERSIAN": "البته! اونا تنها بت هایی هستند که در زندگیم ایستاده ام! دختران شیر!"
+    },
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 50.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Uh!",
+      "PERSIAN": "اوه"
+    },
+    "TIME": {
+      "SHOW": 46.0,
+      "HIDE": 47.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 밍밍...??",
+      "ENGLISH": "Milk Girls Ming Ming...?!",
+      "PERSIAN": "دختران شیر مینگ مینگ...؟!"
+    },
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 50.0
+    }
+  }
+]

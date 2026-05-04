@@ -1,0 +1,230 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 너는 간만에 쉬려니까 부르냐.",
+      "ENGLISH": "Hey, just when I thought I could finally relax, you call me over.",
+      "CHINESE_SIMPLIFIED": "我好不容易休息一天你还把我叫来了",
+      "CHINESE_TRADITIONAL": "我好不容易休息一天你還把我叫來了",
+      "JAPANESE": "おい、久しぶりに休もうと思ったのに。",
+      "INDONESIAN": "Hei, pas aku kira akhirnya bisa santai, kamu malah manggil aku ke sini.",
+      "PORTUGUESE": "Ei, bem quando achei que finalmente ia relaxar, você me chama pra cá.",
+      "RUSSIAN": "Эй, как только я подумал, что смогу наконец отдохнуть, ты меня зовёшь.",
+      "FRENCH": "Hé, juste au moment où je pensais enfin pouvoir me détendre, tu m’appelles.",
+      "THAI": "เฮ้ พอคิดว่าฉันจะได้พักสักที เธอก็โทรมาเรียกซะงั้น"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜~",
+      "ENGLISH": "Why~",
+      "CHINESE_SIMPLIFIED": "干嘛~",
+      "CHINESE_TRADITIONAL": "幹嘛~",
+      "JAPANESE": "いいじゃん～",
+      "INDONESIAN": "Kenapa~",
+      "PORTUGUESE": "Por quê~",
+      "RUSSIAN": "Ну почему~",
+      "FRENCH": "Pourquoi~",
+      "THAI": "ทำไมล่ะ~"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 여기 있으면 시간도 빨리 가는 거 같아서 좋다매.",
+      "ENGLISH": "You said time flies when you’re here.",
+      "CHINESE_SIMPLIFIED": "你不是说在这时间会过得很快吗?",
+      "CHINESE_TRADITIONAL": "你不是說在這時間會過得很快嗎?",
+      "JAPANESE": "あんた、ここにいると時間が早く過ぎるって言ってたじゃん。",
+      "INDONESIAN": "Kamu bilang waktu cepat berlalu kalau di sini.",
+      "PORTUGUESE": "Você disse que o tempo passa rápido quando estamos aqui.",
+      "RUSSIAN": "Ты сказала, что время летит быстро, когда ты здесь.",
+      "FRENCH": "Tu disais que le temps passe vite quand t’es là.",
+      "THAI": "เธอบอกว่ามาอยู่ที่นี่แล้วเวลาผ่านไปเร็วใช่ไหม"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그건 맞아",
+      "ENGLISH": "Yeah, that's true.",
+      "CHINESE_SIMPLIFIED": "那倒是",
+      "CHINESE_TRADITIONAL": "那倒是",
+      "JAPANESE": "それはそうだけど。",
+      "INDONESIAN": "Iya, itu bener.",
+      "PORTUGUESE": "É verdade.",
+      "RUSSIAN": "Да, это правда.",
+      "FRENCH": "Ouais, c’est vrai.",
+      "THAI": "ใช่จริงๆ ด้วย"
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Oh?",
+      "RUSSIAN": "О?",
+      "FRENCH": "Oh ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이 아저씨 아직도 있네...",
+      "ENGLISH": "That guy is still here...",
+      "CHINESE_SIMPLIFIED": "那个大叔怎么还在啊?",
+      "CHINESE_TRADITIONAL": "那個大叔怎麼還在啊?",
+      "JAPANESE": "このおじさん、まだいるね…",
+      "INDONESIAN": "Orang itu masih di sini...",
+      "PORTUGUESE": "Aquele cara ainda tá aqui...",
+      "RUSSIAN": "Этот парень всё ещё здесь...",
+      "FRENCH": "Ce type est toujours là...",
+      "THAI": "ผู้ชายคนนั้นยังอยู่ที่นี่อีกเหรอ..."
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "누구?",
+      "ENGLISH": "Who?",
+      "CHINESE_SIMPLIFIED": "什么大叔?",
+      "CHINESE_TRADITIONAL": "什麼大叔?",
+      "JAPANESE": "誰？",
+      "INDONESIAN": "Siapa?",
+      "PORTUGUESE": "Quem?",
+      "RUSSIAN": "Кто?",
+      "FRENCH": "Qui ?",
+      "THAI": "ใคร?"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 17.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어떤 아저씨 있는데",
+      "ENGLISH": "Some old guy. ",
+      "CHINESE_SIMPLIFIED": "有个大叔",
+      "CHINESE_TRADITIONAL": "有個大叔",
+      "JAPANESE": "何か、おじさんがいるんだけど",
+      "INDONESIAN": "Seorang pria tua.",
+      "PORTUGUESE": "Um velho.",
+      "RUSSIAN": "Какой-то старик.",
+      "FRENCH": "Un vieux gars.",
+      "THAI": "ผู้ชายแก่ๆ คนนึงน่ะ"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "같은 자리에서 60시간 이상 동안",
+      "ENGLISH": "He’s been in the same spot for over 60 hours",
+      "CHINESE_SIMPLIFIED": "已经在一个位置坐了超过60个小时了",
+      "CHINESE_TRADITIONAL": "已經在一個位置坐了超過60個小時了",
+      "JAPANESE": "同じ席に60時間以上座って",
+      "INDONESIAN": "Dia udah di tempat yang sama lebih dari 60 jam,",
+      "PORTUGUESE": "Ele tá no mesmo lugar há mais de 60 horas,",
+      "RUSSIAN": "Он сидит на одном месте уже больше 60 часов,",
+      "FRENCH": "Il est assis au même endroit depuis plus de 60 heures,",
+      "THAI": "เขานั่งอยู่ที่เดิมมากกว่า 60 ชั่วโมงแล้ว"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "기사랑 막 인서타만 보고 있는 거 있지?",
+      "ENGLISH": "Just reading news and scrolling through Instagram.",
+      "CHINESE_SIMPLIFIED": "一直在看新闻刷ins",
+      "CHINESE_TRADITIONAL": "一直在看新聞刷ins",
+      "JAPANESE": "ずっとニュースとかインスタを見てるんだよ。",
+      "INDONESIAN": "Cuma baca berita dan scroll Instagram.",
+      "PORTUGUESE": "Só lendo notícias e rolando o Instagram.",
+      "RUSSIAN": "читает новости и листает Instagram.",
+      "FRENCH": "à lire les infos et scroller sur Instagram.",
+      "THAI": "นั่งอ่านข่าวเลื่อนดูไอจีไปเรื่อยๆ"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "음침하고 막 이상하지 않아?",
+      "ENGLISH": "Isn’t that creepy and weird?",
+      "CHINESE_SIMPLIFIED": "你不觉得他又奇怪又阴森森的吗?",
+      "CHINESE_TRADITIONAL": "你不覺得他又奇怪又陰森森的嗎?",
+      "JAPANESE": "何か陰気で、変じゃない？",
+      "INDONESIAN": "Serem dan aneh gak sih?",
+      "PORTUGUESE": "Não é assustador e estranho?",
+      "RUSSIAN": "Это не странно и жутко?",
+      "FRENCH": "C’est pas un peu bizarre ?",
+      "THAI": "มันไม่แปลกหรือหลอนหน่อยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的假的?",
+      "CHINESE_TRADITIONAL": "真的假的?",
+      "JAPANESE": "え、マジで？",
+      "INDONESIAN": "Beneran?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Серьёзно?",
+      "FRENCH": "Sérieux ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.5
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 민정 님!",
+      "ENGLISH": "I'm Min-jung!",
+      "CHINESE_SIMPLIFIED": "我选敏静",
+      "CHINESE_TRADITIONAL": "我選敏靜",
+      "JAPANESE": "私はミンジョンさん！",
+      "INDONESIAN": "Aku Min-jung!",
+      "PORTUGUESE": "Eu sou a Min-jung!",
+      "RUSSIAN": "Я — Мин-чжун!",
+      "FRENCH": "Je suis Min-jung !",
+      "THAI": "ฉันคือ มินจอง!"
+    },
+    "TIME": {
+      "HIDE": 0.8
+    }
+  }
+]

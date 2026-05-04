@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어! 남대문 열렸다.",
+      "ENGLISH": "Huh! Your zipper is open!",
+      "CHINESE_SIMPLIFIED": "哦！哥你家大门常打开了",
+      "CHINESE_TRADITIONAL": "哦！哥你家大門常打開了",
+      "JAPANESE": "おっ！南大門が開いてるぞ。",
+      "INDONESIAN": "Hah! Resleting kamu kebuka!",
+      "PORTUGUESE": "Hã! Seu zíper tá aberto!",
+      "RUSSIAN": "Эй! У тебя ширинка расстёгнута!",
+      "FRENCH": "Eh ! Ta braguette est ouverte !",
+      "THAI": "เฮ้! ซิปนายเปิดอยู่นะ!",
+      "PERSIAN": "هه! زیپ شما باز است!"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어디?",
+      "ENGLISH": "Where?!",
+      "CHINESE_SIMPLIFIED": "哪里?",
+      "CHINESE_TRADITIONAL": "哪裏?",
+      "JAPANESE": "どこ？",
+      "INDONESIAN": "Di mana?!",
+      "PORTUGUESE": "Onde?!",
+      "RUSSIAN": "— Где?!",
+      "FRENCH": "Où ça ?!",
+      "THAI": "ตรงไหน?!",
+      "PERSIAN": "کجا؟!"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오오오....",
+      "ENGLISH": "Ohh...",
+      "CHINESE_SIMPLIFIED": "喔喔喔!",
+      "CHINESE_TRADITIONAL": "喔喔喔!",
+      "JAPANESE": "おおお…",
+      "INDONESIAN": "Ohh...",
+      "PORTUGUESE": "Ohh...",
+      "RUSSIAN": "О-о...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้...",
+      "PERSIAN": "اوه..."
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "昇龍拳(승룡권)!",
+      "ENGLISH": "昇龍拳(Dragon Punch)!",
+      "CHINESE_SIMPLIFIED": "升龙拳!",
+      "CHINESE_TRADITIONAL": "升龍拳!",
+      "JAPANESE": "昇龍拳！昇竜拳",
+      "INDONESIAN": "昇龍拳 (Dragon Punch)!",
+      "PORTUGUESE": "昇龍拳 (Dragon Punch)!",
+      "RUSSIAN": "Шорюкен!",
+      "FRENCH": "Shoryuken !",
+      "THAI": "โชริวเคน!",
+      "PERSIAN": "昇龍拳 (مشت اژدها)!"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "遅い(느려)...",
+      "ENGLISH": "遅い(So slow)...",
+      "CHINESE_SIMPLIFIED": "太慢了…",
+      "CHINESE_TRADITIONAL": "太慢了…",
+      "JAPANESE": "遅い…",
+      "INDONESIAN": "遅い (Lambat banget)...",
+      "PORTUGUESE": "遅い (Tão lento)...",
+      "RUSSIAN": "Медленно...",
+      "FRENCH": "Trop lent...",
+      "THAI": "ช้าไป...",
+      "PERSIAN": "遅い (خیلی آهسته)..."
+    },
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "방금 그거 뭐냐?",
+      "ENGLISH": "What was that just now?",
+      "CHINESE_SIMPLIFIED": "你这是在耍什么花招?",
+      "CHINESE_TRADITIONAL": "你這是在耍什麼花招?",
+      "JAPANESE": "今の何だ？",
+      "INDONESIAN": "Apa tadi itu?",
+      "PORTUGUESE": "O que foi isso agora?",
+      "RUSSIAN": "Что это было только что?",
+      "FRENCH": "C’était quoi, ça, à l’instant ?",
+      "THAI": "เมื่อกี้มันอะไรนะ?",
+      "PERSIAN": "همین الان چی بود؟"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어.. 제, 제가 그게...",
+      "ENGLISH": "Uh... I, just...",
+      "CHINESE_SIMPLIFIED": "那个…我…",
+      "CHINESE_TRADITIONAL": "那個…我…",
+      "JAPANESE": "あ…え、俺、そ、その…",
+      "INDONESIAN": "Uh... Aku cuma...",
+      "PORTUGUESE": "Uh... Eu só...",
+      "RUSSIAN": "Я... просто...",
+      "FRENCH": "Euh... j’ai juste...",
+      "THAI": "เอ่อ... ฉันแค่...",
+      "PERSIAN": "اوه... من، فقط..."
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "야. 내가 좆밥으로 보이냐?",
+      "ENGLISH": "Hey. Do I look like a pushover to you?",
+      "CHINESE_SIMPLIFIED": "你是不是觉得我看起来像个怂包啊?",
+      "CHINESE_TRADITIONAL": "你是不是覺得我看起來像個慫包啊?",
+      "JAPANESE": "おい、ナメてんのか？",
+      "INDONESIAN": "Hei. Aku kelihatan kayak orang yang bisa diremehkan, ya?",
+      "PORTUGUESE": "Ei. Eu pareço alguém fácil de enganar pra você?",
+      "RUSSIAN": "Эй. Я выгляжу для тебя простаком?",
+      "FRENCH": "Hé. J’ai une tête de pigeon pour toi ?",
+      "THAI": "เฮ้ คิดว่าฉันเป็นหมูในอวยเหรอ?",
+      "PERSIAN": "سلام. من از نظر شما شبیه به یک فشار دهنده هستم؟"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그게.... 이력서 가져갈게!",
+      "ENGLISH": "I just... I'll take my resume!!",
+      "CHINESE_SIMPLIFIED": "我…简历先拿走啦!",
+      "CHINESE_TRADITIONAL": "我…簡歷先拿走啦!",
+      "JAPANESE": "それが…履歴書持って行くわ！",
+      "INDONESIAN": "Aku cuma... Aku ambil resume-ku!!",
+      "PORTUGUESE": "Eu só... Vou pegar meu currículo!!",
+      "RUSSIAN": "Я просто... Ладно, я заберу своё резюме!!",
+      "FRENCH": "Je... Je prends mon CV, d’accord !!",
+      "THAI": "ฉันแค่... จะเอาเรซูเม่ไปละ!!",
+      "PERSIAN": "من فقط... رزومه میگیرم!!"
+    },
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "와 그걸 피하네...",
+      "ENGLISH": "Wow, you dodged that...",
+      "CHINESE_SIMPLIFIED": "哇，居然能躲开那招…",
+      "CHINESE_TRADITIONAL": "哇，居然能躲開那招…",
+      "JAPANESE": "うわ、あれをかわすだと…？",
+      "INDONESIAN": "Wah, kamu berhasil ngeles...",
+      "PORTUGUESE": "Uau, você desviou dessa...",
+      "RUSSIAN": "Вау, уклонился, молодец.",
+      "FRENCH": "Waouh, t’as esquivé ça...",
+      "THAI": "โอ้โห นายหลบได้ด้วย...",
+      "PERSIAN": "وای که طفره رفتی..."
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.9
+    }
+  }
+]

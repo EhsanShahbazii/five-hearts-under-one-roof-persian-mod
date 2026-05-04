@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "...뭐예요?",
+      "ENGLISH": "...What’s your deal?",
+      "CHINESE_SIMPLIFIED": "…你干嘛?",
+      "CHINESE_TRADITIONAL": "…你幹嘛?",
+      "JAPANESE": "…何ですか？",
+      "INDONESIAN": "...Apa maumu?",
+      "PORTUGUESE": "...Qual é o seu problema?",
+      "RUSSIAN": "…В чём твоё дело?",
+      "FRENCH": "…C’est quoi ton problème ?",
+      "THAI": "...นายมีปัญหาอะไร?",
+      "PERSIAN": "... معامله شما چیه؟"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "죄송합니다.",
+      "ENGLISH": "Sorry.",
+      "CHINESE_SIMPLIFIED": "对不住了",
+      "CHINESE_TRADITIONAL": "對不住了",
+      "JAPANESE": "すいません。",
+      "INDONESIAN": "Maaf.",
+      "PORTUGUESE": "Desculpa.",
+      "RUSSIAN": "Извини.",
+      "FRENCH": "Désolé.",
+      "THAI": "ขอโทษนะ",
+      "PERSIAN": "متاسفم"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "ห้ะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "呀!",
+      "CHINESE_TRADITIONAL": "呀!",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!",
+      "PERSIAN": "Hey!"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "기, 기, 기사님! 빠, 빠, 빨리 가주세요!",
+      "ENGLISH": "Driver! Step on it!",
+      "CHINESE_SIMPLIFIED": "司，司机!赶紧出发!",
+      "CHINESE_TRADITIONAL": "司，司機!趕緊出發!",
+      "JAPANESE": "運、運、運転手さん！は、は、早く行ってください！",
+      "INDONESIAN": "Pak supir! Gas, dong!",
+      "PORTUGUESE": "Motorista! Pisa fundo!",
+      "RUSSIAN": "Водитель! Жмите на газ!",
+      "FRENCH": "Chauffeur ! Appuyez sur le champignon !",
+      "THAI": "คุณคนขับ! เหยียบเลย!",
+      "PERSIAN": "راننده! پا روی اون بگذار!"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "미안해요! 제가 급한 일이 있어갖고!",
+      "ENGLISH": "Sorry! I’m in a rush!",
+      "CHINESE_SIMPLIFIED": "实在抱歉!我真的有要紧事!",
+      "CHINESE_TRADITIONAL": "實在抱歉!我真的有要緊事!",
+      "JAPANESE": "すいません！！急用があって！",
+      "INDONESIAN": "Maaf! Aku lagi buru-buru!",
+      "PORTUGUESE": "Desculpa! Tô com pressa!",
+      "RUSSIAN": "Прости! Я спешу!",
+      "FRENCH": "Désolé ! Je suis pressé !",
+      "THAI": "ขอโทษ! ผมรีบจริงๆ!",
+      "PERSIAN": "متاسفم! من عجله دارم!"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "야! 너 거기 안 서?",
+      "ENGLISH": "Hey! Don’t you dare!",
+      "CHINESE_SIMPLIFIED": "喂!你还不停下来?",
+      "CHINESE_TRADITIONAL": "喂!你還不停下來?",
+      "JAPANESE": "ちょっと！あなた、そこ止まりなさいよ！",
+      "INDONESIAN": "Hei! Jangan berani-berani!",
+      "PORTUGUESE": "Ei! Nem pense nisso!",
+      "RUSSIAN": "Эй! Даже не думай об этом!",
+      "FRENCH": "Hé ! N’ose même pas !",
+      "THAI": "เฮ้! อย่ากล้าทำแบบนั้นเชียวนะ!",
+      "PERSIAN": "سلام! جرات نداری!"
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "미안합니다!",
+      "ENGLISH": "Sorry!",
+      "CHINESE_SIMPLIFIED": "实在对不起!",
+      "CHINESE_TRADITIONAL": "實在對不起!",
+      "JAPANESE": "すいません！",
+      "INDONESIAN": "Maaf!",
+      "PORTUGUESE": "Desculpa!",
+      "RUSSIAN": "Извини!",
+      "FRENCH": "Pardon !",
+      "THAI": "ขอโทษนะ!",
+      "PERSIAN": "ببخشید دیگه غلط کردم!"
+    },
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "휴~",
+      "ENGLISH": "Phew~",
+      "CHINESE_SIMPLIFIED": "呼~",
+      "CHINESE_TRADITIONAL": "呼~",
+      "JAPANESE": "ふぅ～",
+      "INDONESIAN": "Hhh~",
+      "PORTUGUESE": "Ufa~",
+      "RUSSIAN": "Фух~",
+      "FRENCH": "Pfiou~",
+      "THAI": "ฟู่~",
+      "PERSIAN": "فوو ~"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그래도 늦지 않게는 갈 수 있겠다. ",
+      "ENGLISH": "But I can make it in time.",
+      "CHINESE_SIMPLIFIED": "这下应该不会迟到了",
+      "CHINESE_TRADITIONAL": "這下應該不會遲到了",
+      "JAPANESE": "これで、遅れずに着きそうだな。",
+      "INDONESIAN": "Tapi aku masih bisa sampai tepat waktu.",
+      "PORTUGUESE": "Mas eu ainda consigo chegar a tempo.",
+      "RUSSIAN": "Но я смогу успеть вовремя.",
+      "FRENCH": "Mais je peux encore arriver à l’heure.",
+      "THAI": "แต่ยังพอมีเวลาทัน.",
+      "PERSIAN": "اما من می توانم به موقع اونو انجام دهم."
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.8
+    }
+  }
+]

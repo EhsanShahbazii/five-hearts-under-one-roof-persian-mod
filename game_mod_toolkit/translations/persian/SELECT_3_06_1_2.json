@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐, 뭐야...?",
+      "ENGLISH": "W-what...",
+      "CHINESE_SIMPLIFIED": "那…那个？",
+      "CHINESE_TRADITIONAL": "那…那個？",
+      "JAPANESE": "な、何よ…？",
+      "INDONESIAN": "A-apa...",
+      "PORTUGUESE": "O-o quê...",
+      "RUSSIAN": "Ч-что...",
+      "FRENCH": "Q-quoi...",
+      "THAI": "อ-อะไรนะ...",
+      "PERSIAN": "و-چی..."
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠가 안 하면 내가 하려고 하긴 했는데!",
+      "ENGLISH": "I mean, I was going to do it if you didn’t!",
+      "CHINESE_SIMPLIFIED": "哥哥要是不主动的话我本来先主动的!",
+      "CHINESE_TRADITIONAL": "哥哥要是不主動的話我本來先主動的!",
+      "JAPANESE": "お兄ちゃんが歌わないなら、私が歌おうと思ってたけど！",
+      "INDONESIAN": "Maksudku, aku akan melakukannya kalau kamu nggak melakukannya duluan!",
+      "PORTUGUESE": "Quer dizer, eu ia fazer se você não fizesse!",
+      "RUSSIAN": "То есть, я бы сделала это, если бы ты не сделал!",
+      "FRENCH": "Je veux dire, j’allais le faire si tu ne l’avais pas fait !",
+      "THAI": "หมายถึง ฉันก็จะทำอยู่แล้วถ้านายไม่ทำ!",
+      "PERSIAN": "منظورم این است که اگر شما این کار را نمی کردید، من این کار را انجام می دادم!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "你在说什么?",
+      "CHINESE_TRADITIONAL": "你在說什麼?",
+      "JAPANESE": "何よ？",
+      "INDONESIAN": "Apa...?",
+      "PORTUGUESE": "O quê...?",
+      "RUSSIAN": "Что...?",
+      "FRENCH": "Quoi...?",
+      "THAI": "อะไรนะ...?",
+      "PERSIAN": "What...?"
+    },
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "왜 안 해?",
+      "ENGLISH": "Why aren’t you doing anything?",
+      "CHINESE_SIMPLIFIED": "你怎么停下了?",
+      "CHINESE_TRADITIONAL": "你怎麼停下了?",
+      "JAPANESE": "どうして歌わないの？",
+      "INDONESIAN": "Kenapa kamu nggak ngapa-ngapain?",
+      "PORTUGUESE": "Por que você não faz nada?",
+      "RUSSIAN": "Почему ты ничего не делаешь?",
+      "FRENCH": "Pourquoi tu ne fais rien ?",
+      "THAI": "ทำไมนายไม่ทำอะไรเลยล่ะ?",
+      "PERSIAN": "چرا هیچ کاری نمیکنی"
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭘?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么停下?",
+      "CHINESE_TRADITIONAL": "什麼停下?",
+      "JAPANESE": "何を？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 밀당 뭐 그런 건가?",
+      "ENGLISH": "Oh~ are you playing hard to get? ",
+      "CHINESE_SIMPLIFIED": "啊~和我玩欲擒故纵是吧？",
+      "CHINESE_TRADITIONAL": "啊~和我玩欲擒故縱是吧？",
+      "JAPANESE": "あ〜、駆け引きってこと？",
+      "INDONESIAN": "Oh~ kamu lagi jual mahal, ya?",
+      "PORTUGUESE": "Oh~ você está se fazendo de difícil, né?",
+      "RUSSIAN": "О~ ты что, играешь в недоступного?",
+      "FRENCH": "Oh~ tu fais semblant d’être distant ?",
+      "THAI": "โอ๊ะ~ นายแกล้งเล่นตัวอยู่เหรอ?",
+      "PERSIAN": "اوه ~ سخت بازی می کنی برای بدست آوردن؟"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "하긴 너무 빨라도 그렇긴 해!",
+      "ENGLISH": "Well, being too fast isn’t good either!",
+      "CHINESE_SIMPLIFIED": "不过也是，进度确实有点快了!",
+      "CHINESE_TRADITIONAL": "不過也是，進度確實有點快了!",
+      "JAPANESE": "まあ、早すぎても微妙だしね！",
+      "INDONESIAN": "Iya, terlalu cepat juga nggak bagus!",
+      "PORTUGUESE": "Bom, ser rápido demais também não é bom!",
+      "RUSSIAN": "Ну, слишком торопиться тоже не стоит!",
+      "FRENCH": "Bon, aller trop vite, c’est pas bon non plus !",
+      "THAI": "รีบไปก็ไม่ดีเหมือนกัน!",
+      "PERSIAN": "خوب، خیلی سریع هم خوب نیست!"
+    },
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 25.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 속도에 내가 다 맞출 수 있어!",
+      "ENGLISH": "I can match your pace, Yuman!",
+      "CHINESE_SIMPLIFIED": "我会配合宥万哥哥的速度来的!",
+      "CHINESE_TRADITIONAL": "我會配合宥萬哥哥的速度來的!",
+      "JAPANESE": "お兄ちゃんのペースに、私が合わせてあげる！",
+      "INDONESIAN": "Aku bisa ikuti tempomu, Yuman!",
+      "PORTUGUESE": "Eu posso acompanhar seu ritmo, Yuman!",
+      "RUSSIAN": "Я подстроюсь под твой ритм, Юман!",
+      "FRENCH": "Je peux m’adapter à ton rythme, Yuman !",
+      "THAI": "ฉันปรับจังหวะตามนายได้เลยนะ ยูมัน!",
+      "PERSIAN": "من می توانم با سرعت تو مطابقت کنم، یومان!"
+    },
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 28.7
+    }
+  }
+]

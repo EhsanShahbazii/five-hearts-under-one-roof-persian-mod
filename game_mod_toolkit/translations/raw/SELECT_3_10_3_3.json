@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "천장이 너무 더럽다...",
+      "ENGLISH": "The ceiling is so dirty... ",
+      "CHINESE_SIMPLIFIED": "天花板好脏啊…",
+      "CHINESE_TRADITIONAL": "天花板好髒啊…",
+      "JAPANESE": "天井が汚いな…",
+      "INDONESIAN": "Langit-langitnya kotor banget...",
+      "PORTUGUESE": "O teto tá tão sujo...",
+      "RUSSIAN": "Потолок такой грязный...",
+      "FRENCH": "Le plafond est tellement sale...",
+      "THAI": "เพดานสกปรกจัง..."
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "헉!",
+      "ENGLISH": "Gosh!",
+      "CHINESE_SIMPLIFIED": "哦...!",
+      "CHINESE_TRADITIONAL": "哦...!",
+      "JAPANESE": "うわっ！",
+      "INDONESIAN": "Aduh!",
+      "PORTUGUESE": "Nossa!",
+      "RUSSIAN": "Чёрт!",
+      "FRENCH": "Oh là là !",
+      "THAI": "โธ่เอ้ย!"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "넌 주차하고 올라와.",
+      "ENGLISH": "Just park the car and come up. ",
+      "CHINESE_SIMPLIFIED": "你把车停好",
+      "CHINESE_TRADITIONAL": "你把車停好",
+      "JAPANESE": "あんたは駐車してから上がってきなさい。",
+      "INDONESIAN": "Udah, parkir mobil dan naik ke atas.",
+      "PORTUGUESE": "Só estaciona o carro e sobe.",
+      "RUSSIAN": "Просто припаркуй машину и поднимайся.",
+      "FRENCH": "Gare juste la voiture et monte.",
+      "THAI": "จอดรถแล้วขึ้นมาเลย."
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이건 할 수 있지?",
+      "ENGLISH": "You can handle that, right?",
+      "CHINESE_SIMPLIFIED": "这点事能办好吧?",
+      "CHINESE_TRADITIONAL": "這點事能辦好吧?",
+      "JAPANESE": "これくらいはできるよね？",
+      "INDONESIAN": "Kamu bisa urus itu, kan?",
+      "PORTUGUESE": "Você consegue lidar com isso, né?",
+      "RUSSIAN": "Справишься, да?",
+      "FRENCH": "Tu peux gérer ça, non ?",
+      "THAI": "นายจัดการได้ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어휴...",
+      "ENGLISH": "Ugh...",
+      "CHINESE_SIMPLIFIED": "妈呀…",
+      "CHINESE_TRADITIONAL": "媽呀…",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Ugh...",
+      "PORTUGUESE": "Ugh...",
+      "RUSSIAN": "Уф...",
+      "FRENCH": "Pff...",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "얼굴 괜찮으세요...?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "您的脸还好吗?",
+      "CHINESE_TRADITIONAL": "您的臉還好嗎?",
+      "JAPANESE": "顔、大丈夫ですか…？",
+      "INDONESIAN": "Kamu baik-baik aja?",
+      "PORTUGUESE": "Você tá bem?",
+      "RUSSIAN": "Ты в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "นายโอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "에이씨!",
+      "ENGLISH": "Damn it!",
+      "CHINESE_SIMPLIFIED": "真倒霉!",
+      "CHINESE_TRADITIONAL": "真倒黴!",
+      "JAPANESE": "くそ！",
+      "INDONESIAN": "Sial!",
+      "PORTUGUESE": "Droga!",
+      "RUSSIAN": "Чёрт!",
+      "FRENCH": "Merde !",
+      "THAI": "บ้าเอ้ย!"
+    },
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아, 안녕히 가세요!",
+      "ENGLISH": "Goodbye!",
+      "CHINESE_SIMPLIFIED": "您走好啊!",
+      "CHINESE_TRADITIONAL": "您走好啊!",
+      "JAPANESE": "あ、さようなら！",
+      "INDONESIAN": "Selamat tinggal!",
+      "PORTUGUESE": "Tchau!",
+      "RUSSIAN": "До свидания!",
+      "FRENCH": "Au revoir !",
+      "THAI": "ลาก่อน!"
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "잘 가요!",
+      "ENGLISH": "Take care!",
+      "CHINESE_SIMPLIFIED": "请慢走!",
+      "CHINESE_TRADITIONAL": "請慢走!",
+      "JAPANESE": "気をつけてください～！",
+      "INDONESIAN": "Jaga diri!",
+      "PORTUGUESE": "Se cuida!",
+      "RUSSIAN": "Береги себя!",
+      "FRENCH": "Prends soin de toi !",
+      "THAI": "ดูแลตัวเองด้วยนะ!"
+    },
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "안녕~",
+      "ENGLISH": "Goodbye!",
+      "CHINESE_SIMPLIFIED": "再见~",
+      "CHINESE_TRADITIONAL": "再見~",
+      "JAPANESE": "バイバイ～",
+      "INDONESIAN": "Selamat tinggal!",
+      "PORTUGUESE": "Tchau!",
+      "RUSSIAN": "До свидания!",
+      "FRENCH": "Au revoir !",
+      "THAI": "ลาก่อน!"
+    },
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 28.8
+    }
+  }
+]

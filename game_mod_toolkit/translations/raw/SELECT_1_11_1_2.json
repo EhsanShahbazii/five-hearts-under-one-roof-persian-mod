@@ -1,0 +1,230 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "(실소)",
+      "ENGLISH": "(laughs)",
+      "CHINESE_SIMPLIFIED": "（笑）",
+      "CHINESE_TRADITIONAL": "（笑）",
+      "JAPANESE": "（笑いをこらえる）",
+      "INDONESIAN": "(tertawa)",
+      "PORTUGUESE": "(risos)",
+      "RUSSIAN": "(смеётся)",
+      "FRENCH": "(rit)",
+      "THAI": "(หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "방금 그거 뭐죠?",
+      "ENGLISH": "What was that just now?",
+      "CHINESE_SIMPLIFIED": "你什么意思?",
+      "CHINESE_TRADITIONAL": "你什麼意思?",
+      "JAPANESE": "ちょっと、今の何ですか？",
+      "INDONESIAN": "Apa tadi itu?",
+      "PORTUGUESE": "O que foi isso agora?",
+      "RUSSIAN": "Что это было сейчас?",
+      "FRENCH": "C’était quoi, ça, à l’instant ?",
+      "THAI": "เมื่อกี้มันอะไรน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 죄송해요. 순간 웃겨가지고..",
+      "ENGLISH": "Oh, sorry. It just caught me off guard.",
+      "CHINESE_SIMPLIFIED": "啊不好意思啊，我一时没忍住…",
+      "CHINESE_TRADITIONAL": "啊不好意思啊，我一時沒忍住…",
+      "JAPANESE": "あ、すいません。ちょっと面白かったので…",
+      "INDONESIAN": "Oh, maaf. Aku cuma kaget aja.",
+      "PORTUGUESE": "Ah, desculpa. Foi só inesperado.",
+      "RUSSIAN": "Ой, извини. Просто застало меня врасплох.",
+      "FRENCH": "Oh, désolé. Ça m’a juste pris par surprise.",
+      "THAI": "โอ้ ขอโทษที จู่ๆ ก็ไม่ทันตั้งตัว"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐라고요?",
+      "ENGLISH": "What did you say?",
+      "CHINESE_SIMPLIFIED": "你说什么?",
+      "CHINESE_TRADITIONAL": "你說什麼?",
+      "JAPANESE": "何ですって？",
+      "INDONESIAN": "Kamu bilang apa?",
+      "PORTUGUESE": "O que você disse?",
+      "RUSSIAN": "Что ты сказал?",
+      "FRENCH": "Qu’est-ce que t’as dit ?",
+      "THAI": "นายว่าไงนะ?"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 안전벨트를 하셨어야죠~",
+      "ENGLISH": "You should’ve worn your seatbelt~",
+      "CHINESE_SIMPLIFIED": "所以说得系上安全带啊~",
+      "CHINESE_TRADITIONAL": "所以說得繫上安全帶啊~",
+      "JAPANESE": "だから、シートベルトしないといけないじゃないですか～",
+      "INDONESIAN": "Harusnya kamu pakai sabuk pengaman~",
+      "PORTUGUESE": "Devia ter colocado o cinto de segurança~",
+      "RUSSIAN": "Нужно было пристегнуться ремнём безопасности~",
+      "FRENCH": "T’aurais dû mettre ta ceinture~",
+      "THAI": "นายน่าจะคาดเข็มขัดนิรภัยไว้นะ~"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "자",
+      "ENGLISH": "So",
+      "CHINESE_SIMPLIFIED": "你看",
+      "CHINESE_TRADITIONAL": "你看",
+      "JAPANESE": "ほら、",
+      "INDONESIAN": "Jadi,",
+      "PORTUGUESE": "Então,",
+      "RUSSIAN": "Итак,",
+      "FRENCH": "Alors,",
+      "THAI": "เอาล่ะ"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이게...",
+      "ENGLISH": "This is a...",
+      "CHINESE_SIMPLIFIED": "这个...",
+      "CHINESE_TRADITIONAL": "這個...",
+      "JAPANESE": "こうやって…",
+      "INDONESIAN": "Ini namanya...",
+      "PORTUGUESE": "Isso é um...",
+      "RUSSIAN": "Это... ",
+      "FRENCH": "Ça, c’est une...",
+      "THAI": "นี่คือ..."
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "안전벨트라는 거거든요?",
+      "ENGLISH": "Seatbelt, see?",
+      "CHINESE_SIMPLIFIED": "东西就是安全带",
+      "CHINESE_TRADITIONAL": "東西就是安全帶",
+      "JAPANESE": "シートベルトを引っ張って",
+      "INDONESIAN": "Sabuk pengaman, lihat?",
+      "PORTUGUESE": "Cinto de segurança, tá vendo?",
+      "RUSSIAN": "ремень безопасности, видишь?",
+      "FRENCH": "Ceinture de sécurité, tu vois ?",
+      "THAI": "เข็มขัดนิรภัย เห็นไหม?"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "여기다 꽂으면...",
+      "ENGLISH": "If you clip it in like this...",
+      "CHINESE_SIMPLIFIED": "像我这样...",
+      "CHINESE_TRADITIONAL": "像我這樣...",
+      "JAPANESE": "ここに差し込めば…",
+      "INDONESIAN": "Kalau kamu pasang begini...",
+      "PORTUGUESE": "Se você encaixar assim...",
+      "RUSSIAN": "Если застегнёшь вот так...",
+      "FRENCH": "Si tu la clipses comme ça...",
+      "THAI": "ถ้าเสียบแบบนี้..."
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아까 저처럼 살아남을 수 있죠~",
+      "ENGLISH": "you can survive sudden stops like I did.",
+      "CHINESE_SIMPLIFIED": "系上安全带就能平安无事了。",
+      "CHINESE_TRADITIONAL": "繫上安全帶就能平安無事了。",
+      "JAPANESE": "さっきの僕みたいに、生き残れるわけですよ～",
+      "INDONESIAN": "kamu bisa selamat dari rem mendadak kayak aku tadi.",
+      "PORTUGUESE": "consegue sobreviver a paradas bruscas, como eu.",
+      "RUSSIAN": "сможешь пережить резкую остановку, как я.",
+      "FRENCH": "tu peux survivre à des arrêts brusques, comme moi.",
+      "THAI": "นายก็รอดจากการหยุดกะทันหันได้เหมือนฉัน"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "장수하세요, 그럼.",
+      "ENGLISH": "Take care, then.",
+      "CHINESE_SIMPLIFIED": "那祝你长命百岁哈!",
+      "CHINESE_TRADITIONAL": "那祝你長命百歲哈!",
+      "JAPANESE": "せいぜい、長生きでもしてくださいね。",
+      "INDONESIAN": "Jaga diri, ya.",
+      "PORTUGUESE": "Cuida-se, tá?",
+      "RUSSIAN": "Береги себя.",
+      "FRENCH": "Prends soin de toi.",
+      "THAI": "ดูแลตัวเองด้วยนะ"
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아니 뭐... 그런 뜻으로 말한 게 아니긴 한데...",
+      "ENGLISH": "That’s not exactly what I meant, but...",
+      "CHINESE_SIMPLIFIED": "我倒不是那个意思…",
+      "CHINESE_TRADITIONAL": "我倒不是那個意思…",
+      "JAPANESE": "いや、そういう意味で言ったわけじゃないんだけど…",
+      "INDONESIAN": "Bukan itu maksudku, tapi...",
+      "PORTUGUESE": "Não era exatamente isso que eu quis dizer, mas...",
+      "RUSSIAN": "Это не совсем то, что я имел в виду, но...",
+      "FRENCH": "C’est pas exactement ce que je voulais dire, mais...",
+      "THAI": "ไม่ได้หมายความแบบนั้นซะทีเดียวหรอก แต่..."
+    },
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 31.4
+    }
+  }
+]

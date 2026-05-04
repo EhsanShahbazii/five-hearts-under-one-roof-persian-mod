@@ -1,0 +1,442 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "근데 제가 원래 솔로곡이 두 개였거든요?",
+      "ENGLISH": "You know, I originally had two songs for my solo debut,",
+      "CHINESE_SIMPLIFIED": "本来有两首单曲来着",
+      "CHINESE_TRADITIONAL": "本來有兩首單曲來着",
+      "JAPANESE": "でも、実はソロ曲、2曲あったんですよ。",
+      "INDONESIAN": "Kamu tahu, awalnya aku punya dua lagu untuk debut soloku,",
+      "PORTUGUESE": "Sabe, eu originalmente tinha duas músicas para minha estreia solo,",
+      "RUSSIAN": "Знаешь, изначально у меня было две песни для сольного дебюта,",
+      "FRENCH": "Tu sais, j’avais deux chansons prévues pour mon début en solo,",
+      "THAI": "รู้ไหม ตอนแรกฉันมีสองเพลงสำหรับเดบิวต์เดี่ยว",
+      "PERSIAN": "می دانید، من در ابتدا دو آهنگ برای اولین آهنگ خود داشتم،"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 뭔가 고민을 엄청했...",
+      "ENGLISH": "and I was really torn between them... ",
+      "CHINESE_SIMPLIFIED": "所以我当时超级纠结该选哪个…",
+      "CHINESE_TRADITIONAL": "所以我當時超級糾結該選哪個…",
+      "JAPANESE": "それで、すごく悩んでたんですけど…",
+      "INDONESIAN": "dan aku benar-benar bingung memilih di antara keduanya...",
+      "PORTUGUESE": "e fiquei muito indecisa entre elas...",
+      "RUSSIAN": "и я никак не могла выбрать между ними...",
+      "FRENCH": "et j’étais vraiment déchirée entre les deux...",
+      "THAI": "และฉันเลือกไม่ถูกเลยจริงๆ...",
+      "PERSIAN": "و من واقعا بین اونا دویده شده بودم ..."
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저기요. 혹시 우리 집 앞에도 오지 않았어요?",
+      "ENGLISH": "Wait a second. Didn’t I see you lurking near my house before?",
+      "CHINESE_SIMPLIFIED": "等一下, 你是不是之前来过我们家门口?",
+      "CHINESE_TRADITIONAL": "等一下, 你是不是之前來過我們家門口?",
+      "JAPANESE": "あの、ちょっといいですか。もしかして、僕の家の前にも来てませんでした？",
+      "INDONESIAN": "Tunggu sebentar. Bukannya aku pernah lihat kamu berkeliaran di dekat rumahku sebelumnya?",
+      "PORTUGUESE": "Espera um pouco. Não foi você que eu vi rondando perto da minha casa antes?",
+      "RUSSIAN": "Постой, секундочку. Я ведь видела тебя поблизости от моего дома, не так ли?",
+      "FRENCH": "Attends une seconde. Je ne t’ai pas vu rôder près de chez moi avant ?",
+      "THAI": "เดี๋ยวก่อนนะ ฉันเคยเห็นคุณแอบอยู่แถวบ้านฉันมาก่อนใช่ไหม?",
+      "PERSIAN": "یک ثانیه صبر کن قبلاً تو را در کمین خونه من ندیده بودم؟"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "맞죠, 그때 나랑 눈 마주쳤던 것도 그쪽 맞죠.",
+      "ENGLISH": "I’m sure it was you, right? You’re the guy who made eye contact with me.",
+      "CHINESE_SIMPLIFIED": "就是你吧! 那时候我们还对视过!",
+      "CHINESE_TRADITIONAL": "就是你吧! 那時候我們還對視過!",
+      "JAPANESE": "そうですよね。あの時、私と目が合ったのもあなたですよね。",
+      "INDONESIAN": "Aku yakin itu kamu, kan? Kamu yang sempat bertatapan mata denganku.",
+      "PORTUGUESE": "Tenho certeza de que era você, né? Você é o cara que fez contato visual comigo.",
+      "RUSSIAN": "Я уверена, это был ты. Ты тот парень, который смотрел мне в глаза.",
+      "FRENCH": "Je suis sûre que c’était toi. T’es le gars qui a croisé mon regard.",
+      "THAI": "ฉันมั่นใจว่าต้องเป็นคุณแน่ๆ คนที่สบตากับฉันน่ะ",
+      "PERSIAN": "مطمئنم تو بودی، درسته؟ تو همونی هستی که با من ارتباط چشمی برقرار کردی."
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 23.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "너 뭐야? 사생 맞지?",
+      "ENGLISH": "What are you, a stalker?",
+      "CHINESE_SIMPLIFIED": "你是什么人? 是私生饭吧？",
+      "CHINESE_TRADITIONAL": "你是什麼人? 是私生飯吧？",
+      "JAPANESE": "お前、何なんだ？ストーカーだろ？",
+      "INDONESIAN": "Apa kamu stalker?",
+      "PORTUGUESE": "O que é, um perseguidor?",
+      "RUSSIAN": "Что, ты преследователь?",
+      "FRENCH": "Quoi, t’es un harceleur ?",
+      "THAI": "คุณเป็นพวกโรคจิตเหรอ?",
+      "PERSIAN": "تو چکار هستی؟"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 31.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어? 너 같은 놈들은 얼굴을 까야 돼.",
+      "ENGLISH": "Guys like you should be exposed! You’re just—",
+      "CHINESE_SIMPLIFIED": "像你这种人就应该曝光才对!",
+      "CHINESE_TRADITIONAL": "像你這種人就應該曝光纔對!",
+      "JAPANESE": "え？お前みたいなやつは顔を晒さないと。",
+      "INDONESIAN": "Cowok seperti kamu harus diungkap! Kamu cuma—",
+      "PORTUGUESE": "Caras como você deveriam ser expostos! Você é apenas—",
+      "RUSSIAN": "Таких парней, как ты, надо разоблачать! Ты просто—",
+      "FRENCH": "Les types comme toi devraient être dénoncés ! T’es juste—",
+      "THAI": "ผู้ชายแบบคุณควรถูกเปิดโปง! คุณมันก็แค่—",
+      "PERSIAN": "آدم هایی مثل شما باید افشا شوند! تو فقط -"
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 35.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아빠....?",
+      "ENGLISH": "Dad...?",
+      "CHINESE_SIMPLIFIED": "爸?",
+      "CHINESE_TRADITIONAL": "爸?",
+      "JAPANESE": "お父さん…？",
+      "INDONESIAN": "Ayah...?",
+      "PORTUGUESE": "Pai...?",
+      "RUSSIAN": "Папа...?",
+      "FRENCH": "Papa...?",
+      "THAI": "พ่อ...?",
+      "PERSIAN": "بابا...؟"
+    },
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 38.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아빠??",
+      "ENGLISH": "Dad??",
+      "CHINESE_SIMPLIFIED": "爸…?",
+      "CHINESE_TRADITIONAL": "爸…?",
+      "JAPANESE": "えっ、…お父さん？",
+      "INDONESIAN": "Ayah??",
+      "PORTUGUESE": "Pai??",
+      "RUSSIAN": "Папа??",
+      "FRENCH": "Papa ??",
+      "THAI": "พ่อ??",
+      "PERSIAN": "بابا؟؟"
+    },
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 40.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아...!",
+      "ENGLISH": "Oh...!",
+      "CHINESE_SIMPLIFIED": "呼…",
+      "CHINESE_TRADITIONAL": "呼…",
+      "JAPANESE": "あ…！",
+      "INDONESIAN": "Oh...!",
+      "PORTUGUESE": "Oh...!",
+      "RUSSIAN": "О...!",
+      "FRENCH": "Oh... !",
+      "THAI": "โอ้...!",
+      "PERSIAN": "اوه...!"
+    },
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 41.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아빠 맞잖아! 도망가지 마.",
+      "ENGLISH": "It’s me... your dad. Don’t run away!",
+      "CHINESE_SIMPLIFIED": "你就是我爸啊! 不要逃",
+      "CHINESE_TRADITIONAL": "你就是我爸啊! 不要逃",
+      "JAPANESE": "お父さんなんでしょ！ちょっと、待ってよ！",
+      "INDONESIAN": "Ini aku... ayahmu. Jangan lari!",
+      "PORTUGUESE": "Sou eu... seu pai. Não fuja!",
+      "RUSSIAN": "Это я... твой отец. Не убегай!",
+      "FRENCH": "C’est moi... ton père. Ne t’enfuis pas !",
+      "THAI": "เป็นฉันเอง... พ่อของลูก อย่าวิ่งหนีเลย!",
+      "PERSIAN": "من هستم... پدرت. فرار نکن!"
+    },
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 44.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아빤 자존심도 없어?",
+      "ENGLISH": "What, you think",
+      "CHINESE_SIMPLIFIED": "你没有自尊心吗? ",
+      "CHINESE_TRADITIONAL": "你沒有自尊心嗎? ",
+      "JAPANESE": "お父さん、プライドもないの？",
+      "INDONESIAN": "Apa, kamu pikir",
+      "PORTUGUESE": "O quê, você acha",
+      "RUSSIAN": "Что, ты думаешь,",
+      "FRENCH": "Quoi, tu penses",
+      "THAI": "อะไรนะ คุณคิดว่าฉัน",
+      "PERSIAN": "چی فکر میکنی"
+    },
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 48.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "내가 이런다고 좋아할 거 같아?",
+      "ENGLISH": "I’d be happy you’re back?",
+      "CHINESE_SIMPLIFIED": "你以为这样我就会感动?",
+      "CHINESE_TRADITIONAL": "你以爲這樣我就會感動?",
+      "JAPANESE": "こんなことして、私が喜ぶとでも思ってるの？",
+      "INDONESIAN": "Aku akan senang karena kamu kembali?",
+      "PORTUGUESE": "Que eu ficaria feliz por você estar de volta?",
+      "RUSSIAN": "я рада, что ты вернулся?",
+      "FRENCH": "que je suis contente que tu sois revenu ?",
+      "THAI": "จะดีใจเหรอที่คุณกลับมา?",
+      "PERSIAN": "خوشحال میشم برگردی؟"
+    },
+    "TIME": {
+      "SHOW": 49.1,
+      "HIDE": 50.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 어차피 꽁꽁 숨기고 나타날 거면...",
+      "ENGLISH": "If you’re just gonna hide and pop out like this...",
+      "CHINESE_SIMPLIFIED": "既然你总是藏得那么严实，那就干脆",
+      "CHINESE_TRADITIONAL": "既然你總是藏得那麼嚴實，那就乾脆",
+      "JAPANESE": "どうせ、こそこそ隠れて出てくるなら",
+      "INDONESIAN": "Kalau cuma mau sembunyi dan tiba-tiba muncul begini...",
+      "PORTUGUESE": "Se você só vai se esconder e aparecer assim...",
+      "RUSSIAN": "Если ты собираешься просто скрываться и внезапно появляться вот так...",
+      "FRENCH": "Si tu ne fais que te cacher et surgir comme ça...",
+      "THAI": "ถ้าคุณจะซ่อนตัวแล้วโผล่มาแบบนี้...",
+      "PERSIAN": "اگر می خواهید پنهان شوید و به این شکل بیرون بیایید ..."
+    },
+    "TIME": {
+      "SHOW": 51.8,
+      "HIDE": 54.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나타나질 말던가.",
+      "ENGLISH": "Why bother showing up at all?",
+      "CHINESE_SIMPLIFIED": "一开始就别出现",
+      "CHINESE_TRADITIONAL": "一開始就別出現",
+      "JAPANESE": "最初から出てこないでよ。",
+      "INDONESIAN": "Kalau cuma mau muncul seperti ini, mending nggak usah datang sama sekali?",
+      "PORTUGUESE": "Por que se dar ao trabalho de aparecer de qualquer forma?",
+      "RUSSIAN": "Зачем вообще показываться?",
+      "FRENCH": "Pourquoi revenir du tout ?",
+      "THAI": "จะมาทำไมตั้งแต่แรกล่ะ?",
+      "PERSIAN": "اصلاً چرا خودت را به خود زحمت بدهی؟"
+    },
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 56.3
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "내가 어떻게 아빠를 알아보라는 거야.",
+      "ENGLISH": "How was I supposed to recognize you?!",
+      "CHINESE_SIMPLIFIED": "你以为我认不出自己爸爸吗?",
+      "CHINESE_TRADITIONAL": "你以爲我認不出自己爸爸嗎?",
+      "JAPANESE": "こんな姿で、お父さんだって気づけるわけないでしょ？",
+      "INDONESIAN": "Bagaimana aku seharusnya mengenalimu?!",
+      "PORTUGUESE": "Como eu deveria ter te reconhecido?!",
+      "RUSSIAN": "Как я могла тебя узнать?!",
+      "FRENCH": "Comment j’étais censée te reconnaître ?!",
+      "THAI": "ฉันจะรู้ได้ยังไงว่าคุณคือใคร?!",
+      "PERSIAN": "چطوری باید میشناختمت؟!"
+    },
+    "TIME": {
+      "SHOW": 56.3,
+      "HIDE": 58.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "왜 왔어? 하숙집 문 고쳐준 것도 아빠야?",
+      "ENGLISH": "You fixed the door at my share house, didn’t you?",
+      "CHINESE_SIMPLIFIED": "你来干什么？合租房的门也是你修的?",
+      "CHINESE_TRADITIONAL": "你來幹什麼？合租房的門也是你修的?",
+      "JAPANESE": "何しに来たの？下宿のドア、直してくれたのもお父さんだったの？",
+      "INDONESIAN": "Kamu yang memperbaiki pintu di rumah sewaku, kan?",
+      "PORTUGUESE": "Você que consertou a porta na minha casa compartilhada, não foi?",
+      "RUSSIAN": "Ты ведь починил дверь в нашем общем доме, да?",
+      "FRENCH": "C’est toi qui as réparé la porte de ma colocation, non ?",
+      "THAI": "คุณเป็นคนซ่อมประตูที่บ้านเช่าของฉันใช่ไหม?",
+      "PERSIAN": "در خونه اشتراکی من را درست کردی، نه؟"
+    },
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 66.4
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "우리 딸 잘 지내는지 보고 싶은데...",
+      "ENGLISH": "I wanted to see how my daughter was doing...",
+      "CHINESE_SIMPLIFIED": "我想看你过得好不好",
+      "CHINESE_TRADITIONAL": "我想看你過得好不好",
+      "JAPANESE": "お前が元気にしてるか気になって…",
+      "INDONESIAN": "Aku ingin melihat bagaimana kabar putriku...",
+      "PORTUGUESE": "Eu queria ver como minha filha estava...",
+      "RUSSIAN": "Я хотел увидеть, как живёт моя дочь...",
+      "FRENCH": "Je voulais voir comment allait ma fille...",
+      "THAI": "ฉันแค่อยากเห็นว่าลูกของพ่อเป็นยังไงบ้าง...",
+      "PERSIAN": "میخواستم ببینم حال دخترم چطوره..."
+    },
+    "TIME": {
+      "SHOW": 68.2,
+      "HIDE": 70.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "나설 용기가 없었어.",
+      "ENGLISH": "But I didn't have the courage.",
+      "CHINESE_SIMPLIFIED": "但又没脸来见你",
+      "CHINESE_TRADITIONAL": "但又沒臉來見你",
+      "JAPANESE": "でも、出て行く勇気がなかったんだ。",
+      "INDONESIAN": "Tapi aku tidak punya keberanian.",
+      "PORTUGUESE": "Mas não tive coragem.",
+      "RUSSIAN": "Но у меня не хватило смелости.",
+      "FRENCH": "Mais je n’ai pas eu le courage.",
+      "THAI": "แต่พ่อไม่มีความกล้าพอ",
+      "PERSIAN": "اما من جراتش را نداشتم."
+    },
+    "TIME": {
+      "SHOW": 71.4,
+      "HIDE": 73.1
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아빠가 미안해.",
+      "ENGLISH": "I'm sorry.",
+      "CHINESE_SIMPLIFIED": "爸爸对不起你",
+      "CHINESE_TRADITIONAL": "爸爸對不起你",
+      "JAPANESE": "ごめんな。",
+      "INDONESIAN": "Maafkan aku.",
+      "PORTUGUESE": "Me desculpe.",
+      "RUSSIAN": "Прости меня.",
+      "FRENCH": "Je suis désolé.",
+      "THAI": "พ่อขอโทษนะ",
+      "PERSIAN": "I'm sorry."
+    },
+    "TIME": {
+      "SHOW": 80.1,
+      "HIDE": 80.9
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "우리 딸 얼마나 컸는지 보자...",
+      "ENGLISH": "Let me see how much you've grown... ",
+      "CHINESE_SIMPLIFIED": "让我看看你长多高了",
+      "CHINESE_TRADITIONAL": "讓我看看你長多高了",
+      "JAPANESE": "どれくらい大きくなったか、見たかったんだ。",
+      "INDONESIAN": "Biar aku lihat seberapa besar kamu sudah tumbuh...",
+      "PORTUGUESE": "Deixe-me ver o quanto você cresceu...",
+      "RUSSIAN": "Позволь мне взглянуть, как ты выросла...",
+      "FRENCH": "Laisse-moi voir comme tu as grandi...",
+      "THAI": "ให้พ่อดูหน่อยว่าลูกโตแค่ไหนแล้ว...",
+      "PERSIAN": "ببینم چقدر بزرگ شدی..."
+    },
+    "TIME": {
+      "SHOW": 87.3,
+      "HIDE": 88.5
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "우리 딸 많이 컸네...",
+      "ENGLISH": "You've grown so much...",
+      "CHINESE_SIMPLIFIED": "都长这么大了啊…",
+      "CHINESE_TRADITIONAL": "都長這麼大了啊…",
+      "JAPANESE": "大きくなったな…",
+      "INDONESIAN": "Kamu sudah tumbuh besar sekali...",
+      "PORTUGUESE": "Você cresceu tanto...",
+      "RUSSIAN": "Ты так изменилась...",
+      "FRENCH": "Tu as tellement grandi...",
+      "THAI": "ลูกโตขึ้นมากจริงๆ...",
+      "PERSIAN": "خیلی بزرگ شدی..."
+    },
+    "TIME": {
+      "SHOW": 96.8,
+      "HIDE": 98.0
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "하나도 안 컸어....",
+      "ENGLISH": "No, I haven't grown at all...",
+      "CHINESE_SIMPLIFIED": "我一点都没长大…",
+      "CHINESE_TRADITIONAL": "我一點都沒長大…",
+      "JAPANESE": "私、変わってないよ...",
+      "INDONESIAN": "Tidak, aku belum tumbuh sama sekali...",
+      "PORTUGUESE": "Não, eu não cresci nada...",
+      "RUSSIAN": "Нет, я совсем не изменилась...",
+      "FRENCH": "Non, je n’ai pas grandi du tout...",
+      "THAI": "ไม่เลย ฉันไม่ได้โตขึ้นสักนิด...",
+      "PERSIAN": "نه من اصلا بزرگ نشدم..."
+    },
+    "TIME": {
+      "SHOW": 100.0,
+      "HIDE": 101.5
+    }
+  }
+]

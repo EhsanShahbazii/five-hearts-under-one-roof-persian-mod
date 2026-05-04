@@ -1,0 +1,809 @@
+[
+  {
+    "INDEX": 1.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 면접 붙으면 나한테 한턱내라~",
+      "ENGLISH": "If you get the job, treat me to something!",
+      "CHINESE_SIMPLIFIED": "你面试通过的话请我吃顿好的~",
+      "CHINESE_TRADITIONAL": "你面試通過的話請我吃頓好的~",
+      "JAPANESE": "面接受かったら、ご飯奢ってよね〜",
+      "INDONESIAN": "Kalau kamu dapat kerjaannya, traktir aku sesuatu!",
+      "PORTUGUESE": "Se você conseguir o emprego, me paga algo!",
+      "RUSSIAN": "Если получишь работу, угощай меня чем-нибудь!",
+      "FRENCH": "Si tu décroches le job, tu m’offres quelque chose !",
+      "THAI": "ถ้าได้งานเลี้ยงฉันด้วยนะ!",
+      "PERSIAN": "اگر کار را به دست آوردی، من را با چیزی پذیرایی کن!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내가 왜?",
+      "ENGLISH": "Why should I?",
+      "CHINESE_SIMPLIFIED": "凭什么?",
+      "CHINESE_TRADITIONAL": "憑什麼?",
+      "JAPANESE": "何で？",
+      "INDONESIAN": "Kenapa harus?",
+      "PORTUGUESE": "Por que eu deveria?",
+      "RUSSIAN": "— С чего бы это?",
+      "FRENCH": "— Pourquoi je ferais ça ?",
+      "THAI": "— ทำไมฉันต้องเลี้ยงด้วยล่ะ?",
+      "PERSIAN": "چرا من باید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 소고기~",
+      "ENGLISH": "I want steak.",
+      "CHINESE_SIMPLIFIED": "我要吃牛肉",
+      "CHINESE_TRADITIONAL": "我要吃牛肉",
+      "JAPANESE": "牛肉食べたいな〜",
+      "INDONESIAN": "Aku mau steak.",
+      "PORTUGUESE": "Quero um bife.",
+      "RUSSIAN": "Хочу стейк.",
+      "FRENCH": "Je veux un steak.",
+      "THAI": "ฉันอยากกินสเต็ก",
+      "PERSIAN": "من استیک می خواهم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -",
+      "PERSIAN": "- نشانک گذاری شده برای پیام های خوانده نشده -"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "면접 끝났어?",
+      "ENGLISH": "Did you finish your interview?",
+      "CHINESE_SIMPLIFIED": "面试结束了?",
+      "CHINESE_TRADITIONAL": "面試結束了?",
+      "JAPANESE": "面接は終わったの？",
+      "INDONESIAN": "Sudah selesai wawancaranya?",
+      "PORTUGUESE": "Terminou a entrevista?",
+      "RUSSIAN": "Ты закончил интервью?",
+      "FRENCH": "Alors, t’as fini ton entretien ?",
+      "THAI": "สัมภาษณ์เสร็จรึยัง?",
+      "PERSIAN": "مصاحبه خود را تمام کردید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "GROUP_CODE": 10201.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 됐어?",
+      "ENGLISH": "How did it go?",
+      "CHINESE_SIMPLIFIED": "怎么样?",
+      "CHINESE_TRADITIONAL": "怎麼樣?",
+      "JAPANESE": "どうなったの？",
+      "INDONESIAN": "Gimana hasilnya?",
+      "PORTUGUESE": "Como foi?",
+      "RUSSIAN": "Ну как прошло?",
+      "FRENCH": "Ça s’est bien passé ?",
+      "THAI": "เป็นไงบ้าง?",
+      "PERSIAN": "چطور گذشت؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 붙었어!",
+      "ENGLISH": "I got it!",
+      "CHINESE_SIMPLIFIED": "我通过了!",
+      "CHINESE_TRADITIONAL": "我通過了!",
+      "JAPANESE": "受かった！",
+      "INDONESIAN": "Aku diterima!",
+      "PORTUGUESE": "Eu consegui!",
+      "RUSSIAN": "Я получил работу!",
+      "FRENCH": "Je l’ai eu !",
+      "THAI": "ได้งานแล้ว!",
+      "PERSIAN": "گرفتم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내일부터 나오라는데?",
+      "ENGLISH": "They want me to start tomorrow.",
+      "CHINESE_SIMPLIFIED": "公司让我明天就开始上班!",
+      "CHINESE_TRADITIONAL": "公司讓我明天就開始上班!",
+      "JAPANESE": "明日から来てくれって。",
+      "INDONESIAN": "Mereka mau aku mulai besok.",
+      "PORTUGUESE": "Querem que eu comece amanhã.",
+      "RUSSIAN": "Им нужно, чтобы я вышел завтра.",
+      "FRENCH": "Ils veulent que je commence demain.",
+      "THAI": "พวกเขาอยากให้ฉันเริ่มพรุ่งนี้เลย",
+      "PERSIAN": "اونا می خواهند من از فردا شروع کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜?? ",
+      "ENGLISH": "For real?",
+      "CHINESE_SIMPLIFIED": "真的吗???",
+      "CHINESE_TRADITIONAL": "真的嗎???",
+      "JAPANESE": "本当に？？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "— Серьёзно?",
+      "FRENCH": "— Sérieusement ?",
+      "THAI": "— จริงเหรอ?",
+      "PERSIAN": "برای واقعی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "술파티 해야겠네?",
+      "ENGLISH": "We need to have a drink!",
+      "CHINESE_SIMPLIFIED": "开瓶酒庆祝一下啊!",
+      "CHINESE_TRADITIONAL": "開瓶酒慶祝一下啊!",
+      "JAPANESE": "それじゃあ、飲み会しなきゃ！",
+      "INDONESIAN": "Kita harus minum-minum!",
+      "PORTUGUESE": "Precisamos sair para beber!",
+      "RUSSIAN": "Надо это отметить!",
+      "FRENCH": "Faut qu’on fête ça !",
+      "THAI": "งั้นต้องฉลองกันหน่อย!",
+      "PERSIAN": "ما باید یک نوشیدنی بخوریم!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 나 방금 밀크걸스 사인 CD도 구했다~",
+      "ENGLISH": "And I just got a signed Milk Girls CD!",
+      "CHINESE_SIMPLIFIED": "而且我刚还买到了牛奶少女的亲签专辑~",
+      "CHINESE_TRADITIONAL": "而且我剛還買到了牛奶少女的親籤專輯~",
+      "JAPANESE": "それと、さっきミルクガールズのサインCDもGET〜",
+      "INDONESIAN": "Dan aku baru dapat CD bertanda tangan Milk Girls!",
+      "PORTUGUESE": "E acabei de ganhar um CD autografado das Milk Girls!",
+      "RUSSIAN": "И я только что достал CD с автографом Milk Girls!",
+      "FRENCH": "Et j’ai réussi à avoir un CD dédicacé de Milk Girls !",
+      "THAI": "แล้วฉันเพิ่งได้ซีดี Milk Girls พร้อมลายเซ็น!",
+      "PERSIAN": "و من به تازگی یک سی دی دختران شیر را امضا کردم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어쩔",
+      "ENGLISH": "Big deal.",
+      "CHINESE_SIMPLIFIED": "切。",
+      "CHINESE_TRADITIONAL": "切。",
+      "JAPANESE": "どうでもいいわ。",
+      "INDONESIAN": "Wah, hebat.",
+      "PORTUGUESE": "Grande coisa.",
+      "RUSSIAN": "— Ого, важная персона.",
+      "FRENCH": "— Eh ben, monsieur « grande classe ».",
+      "THAI": "— โห สุดยอดเลย",
+      "PERSIAN": "معامله بزرگ."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "맞춰 봐",
+      "ENGLISH": "Guess what?",
+      "CHINESE_SIMPLIFIED": "你猜猜看?",
+      "CHINESE_TRADITIONAL": "你猜猜看?",
+      "JAPANESE": "当ててみて。",
+      "INDONESIAN": "Tebak apa?",
+      "PORTUGUESE": "Adivinha?",
+      "RUSSIAN": "Как думаешь, что у меня?",
+      "FRENCH": "Devine quoi ?",
+      "THAI": "ทายสิว่าอะไร?",
+      "PERSIAN": "حدس بزنید چی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "또 떨어졌지?",
+      "ENGLISH": "You didn’t get it, did you? ",
+      "CHINESE_SIMPLIFIED": "又没通过吧?",
+      "CHINESE_TRADITIONAL": "又沒通過吧?",
+      "JAPANESE": "また落ちたの？",
+      "INDONESIAN": "Kamu nggak dapat kerjaannya, kan?",
+      "PORTUGUESE": "Você não conseguiu, né?",
+      "RUSSIAN": "Ты не получил, да?",
+      "FRENCH": "T’as pas eu le job, si ?",
+      "THAI": "นายไม่ได้งานใช่ไหม?",
+      "PERSIAN": "متوجه نشدی، نه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "내가 너 그럴 줄 알았다. ",
+      "ENGLISH": "I knew it.",
+      "CHINESE_SIMPLIFIED": "我都猜到了",
+      "CHINESE_TRADITIONAL": "我都猜到了",
+      "JAPANESE": "まぁ、そうなると思ってたけど。",
+      "INDONESIAN": "Aku tahu kok.",
+      "PORTUGUESE": "Eu sabia.",
+      "RUSSIAN": "Я знал!",
+      "FRENCH": "Je le savais.",
+      "THAI": "ฉันรู้แล้ว",
+      "PERSIAN": "من اونو می دانستم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "붙었거든~",
+      "ENGLISH": "Actually, I did.",
+      "CHINESE_SIMPLIFIED": "谁说的~这回我可通过了~",
+      "CHINESE_TRADITIONAL": "誰說的~這回我可通過了~",
+      "JAPANESE": "受かったんだよ〜",
+      "INDONESIAN": "Sebetulnya, aku dapat.",
+      "PORTUGUESE": "Na verdade, consegui.",
+      "RUSSIAN": "На самом деле, получил.",
+      "FRENCH": "Eh bien si, je l’ai eu !",
+      "THAI": "จริงๆ ฉันได้งานนะ",
+      "PERSIAN": "در واقع، من انجام دادم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "재수없어",
+      "ENGLISH": "Ugh, so annoying.",
+      "CHINESE_SIMPLIFIED": "瞧你嘚瑟的",
+      "CHINESE_TRADITIONAL": "瞧你嘚瑟的",
+      "JAPANESE": "何なのよ。",
+      "INDONESIAN": "Ugh, nyebelin.",
+      "PORTUGUESE": "Argh, que irritante.",
+      "RUSSIAN": "— Ужасно раздражаешь.",
+      "FRENCH": "— Pff, t’es tellement agaçant.",
+      "THAI": "— โคตรน่าหมั่นไส้เลย",
+      "PERSIAN": "اوه، خیلی آزاردهنده"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 술파티ㄱ?",
+      "ENGLISH": "Let's have a drink tonight?",
+      "CHINESE_SIMPLIFIED": "那今天搞个酒局?",
+      "CHINESE_TRADITIONAL": "那今天搞個酒局?",
+      "JAPANESE": "今日、飲み会にする？",
+      "INDONESIAN": "Kita minum bareng malam ini?",
+      "PORTUGUESE": "Vamos sair para beber hoje à noite?",
+      "RUSSIAN": "Выпьем вечером?",
+      "FRENCH": "On boit un verre ce soir ?",
+      "THAI": "ดื่มกันคืนนี้ไหม?",
+      "PERSIAN": "بیا امشب یه نوشیدنی بخوریم؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나 완전 면접 체질일지도?",
+      "ENGLISH": "Maybe I’m just made for interviews. ",
+      "CHINESE_SIMPLIFIED": "我可能天生就适合面试嘿嘿",
+      "CHINESE_TRADITIONAL": "我可能天生就適合面試嘿嘿",
+      "JAPANESE": "俺、意外と面接に強いかも？",
+      "INDONESIAN": "Mungkin aku memang jago wawancara.",
+      "PORTUGUESE": "Talvez eu seja feito para entrevistas.",
+      "RUSSIAN": "Может, я просто создан для интервью.",
+      "FRENCH": "Peut-être que je suis juste fait pour les entretiens.",
+      "THAI": "บางทีฉันอาจจะเกิดมาเพื่อสัมภาษณ์งานก็ได้",
+      "PERSIAN": "شاید من فقط برای مصاحبه ساخته شده باشم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 나 방금 밀크걸스 사인 CD도 구했다~",
+      "ENGLISH": "Oh, and I got that signed Milk Girls CD!",
+      "CHINESE_SIMPLIFIED": "而且我刚还买到了牛奶少女的亲签专辑~",
+      "CHINESE_TRADITIONAL": "而且我剛還買到了牛奶少女的親籤專輯~",
+      "JAPANESE": "それと、さっきミルクガールズのサインCDもGET〜",
+      "INDONESIAN": "Oh, dan aku dapat CD bertanda tangan Milk Girls!",
+      "PORTUGUESE": "Ah, e ganhei aquele CD autografado das Milk Girls!",
+      "RUSSIAN": "А, и ещё, у меня теперь есть диск с автографом Milk Girls!",
+      "FRENCH": "Ah, et j’ai aussi ce CD dédicacé des Milk Girls !",
+      "THAI": "แล้วฉันก็มีซีดี Milk Girls พร้อมลายเซ็นแล้วนะ!",
+      "PERSIAN": "اوه، و من اون سی دی امضا شده Milk Girls را گرفتم!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "ㅇ",
+      "ENGLISH": "Omg, seriously?",
+      "CHINESE_SIMPLIFIED": "哦。",
+      "CHINESE_TRADITIONAL": "哦。",
+      "JAPANESE": "そうなんだ。",
+      "INDONESIAN": "Astaga, serius?",
+      "PORTUGUESE": "Meu Deus, sério?",
+      "RUSSIAN": "— О, да ты серьёзно?",
+      "FRENCH": "— Oh là là, sérieux ?",
+      "THAI": "— โอ้ จริงดิ?",
+      "PERSIAN": "اوم، جدی؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "떨어졌어...",
+      "ENGLISH": "I didn’t get the job…",
+      "CHINESE_SIMPLIFIED": "我没通过…",
+      "CHINESE_TRADITIONAL": "我沒通過…",
+      "JAPANESE": "落ちた...",
+      "INDONESIAN": "Aku nggak diterima...",
+      "PORTUGUESE": "Eu não consegui o emprego...",
+      "RUSSIAN": "Я не получил работу...",
+      "FRENCH": "J’ai pas eu le job…",
+      "THAI": "ไม่ได้งาน...",
+      "PERSIAN": "من کار نگرفتم…"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 한두 번 아니잖아~",
+      "ENGLISH": "It’s not the first time, right?",
+      "CHINESE_SIMPLIFIED": "没事，反正也不是第一次了~",
+      "CHINESE_TRADITIONAL": "沒事，反正也不是第一次了~",
+      "JAPANESE": "まぁ、今回が初めてじゃないじゃん〜",
+      "INDONESIAN": "Bukan yang pertama kali, kan?",
+      "PORTUGUESE": "Não é a primeira vez, né?",
+      "RUSSIAN": "Это же не в первый раз, да?",
+      "FRENCH": "C’est pas la première fois, non ?",
+      "THAI": "ก็ไม่ใช่ครั้งแรกใช่ไหม?",
+      "PERSIAN": "این اولین بار نیست، درست است؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 나랑 술이나 먹자!",
+      "ENGLISH": "Let’s just grab some drinks tonight!",
+      "CHINESE_SIMPLIFIED": "那今天咱俩喝一杯!",
+      "CHINESE_TRADITIONAL": "那今天咱倆喝一杯!",
+      "JAPANESE": "今日、一緒にお酒でも飲もう！",
+      "INDONESIAN": "Ayo nongkrong minum malam ini!",
+      "PORTUGUESE": "Vamos sair para beber hoje!",
+      "RUSSIAN": "Пойдём просто пропустим по стаканчику сегодня!",
+      "FRENCH": "Viens, on va juste boire un coup ce soir !",
+      "THAI": "ไปดื่มกันเถอะคืนนี้!",
+      "PERSIAN": "بیایید امشب کمی نوشیدنی بخوریم!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뻥이거든~ 붙었거든~",
+      "ENGLISH": "Just kidding! I got the job!",
+      "CHINESE_SIMPLIFIED": "哈哈才怪!我通过了!",
+      "CHINESE_TRADITIONAL": "哈哈纔怪!我通過了!",
+      "JAPANESE": "嘘だよ〜 受かったんだよ〜",
+      "INDONESIAN": "Cuma bercanda! Aku diterima!",
+      "PORTUGUESE": "Tô brincando! Eu consegui o emprego!",
+      "RUSSIAN": "Шучу, я получил её!",
+      "FRENCH": "Je rigole ! J’ai eu le job !",
+      "THAI": "ล้อเล่นน่า! ฉันได้งานแล้ว!",
+      "PERSIAN": "شوخی کردم! من کار را گرفتم!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미쳤다 오늘 술파티ㄱ",
+      "ENGLISH": "We’re definitely partying tonight!",
+      "CHINESE_SIMPLIFIED": "哇!那就更得搞个酒局了!",
+      "CHINESE_TRADITIONAL": "哇!那就更得搞個酒局了!",
+      "JAPANESE": "うそ！それなら、今日は飲み会だね！",
+      "INDONESIAN": "Kita pasti pesta malam ini!",
+      "PORTUGUESE": "Com certeza vamos comemorar hoje!",
+      "RUSSIAN": "Сегодня определённо гуляем!",
+      "FRENCH": "Ce soir, c’est la fête !",
+      "THAI": "คืนนี้เราต้องฉลอง!",
+      "PERSIAN": "ما حتما امشب جشن می گیریم!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 나 방금 밀크걸스 사인 CD도 구했다~",
+      "ENGLISH": "Oh, and I just got a signed Milk Girls CD!",
+      "CHINESE_SIMPLIFIED": "而且我刚还买到了牛奶少女的亲签专辑~",
+      "CHINESE_TRADITIONAL": "而且我剛還買到了牛奶少女的親籤專輯~",
+      "JAPANESE": "それと、さっきミルクガールズのサインCDもGET〜",
+      "INDONESIAN": "Oh, dan aku baru dapat CD bertanda tangan Milk Girls!",
+      "PORTUGUESE": "Ah, e acabei de ganhar um CD autografado das Milk Girls!",
+      "RUSSIAN": "И да, у меня теперь диск с автографом Milk Girls!",
+      "FRENCH": "Ah, et j’ai eu un CD dédicacé des Milk Girls !",
+      "THAI": "แล้วฉันได้ซีดีพร้อมลายเซ็นจาก Milk Girls ด้วย!",
+      "PERSIAN": "اوه، و من به تازگی یک سی دی دختر شیر امضا شده دریافت کردم!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오 대박~",
+      "ENGLISH": "Wow, no way!",
+      "CHINESE_SIMPLIFIED": "不错不错~",
+      "CHINESE_TRADITIONAL": "不錯不錯~",
+      "JAPANESE": "おお、すごい〜",
+      "INDONESIAN": "Wow, nggak mungkin!",
+      "PORTUGUESE": "Uau, sério?!",
+      "RUSSIAN": "— Не может быть, да ну!",
+      "FRENCH": "— Waouh, t’es pas sérieux ?!",
+      "THAI": "— ว้าว จริงเหรอ?",
+      "PERSIAN": "وای، به هیچ وجه!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -",
+      "PERSIAN": "- نشانک گذاری شده برای پیام های خوانده نشده -"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 걔 뭐냐?",
+      "ENGLISH": "What's up with her?",
+      "CHINESE_SIMPLIFIED": "喂，她什么情况",
+      "CHINESE_TRADITIONAL": "喂，她什麼情況",
+      "JAPANESE": "あいつ誰なの？",
+      "INDONESIAN": "Ada apa dengannya?",
+      "PORTUGUESE": "Qual o problema dela?",
+      "RUSSIAN": "Что у неё стряслось?",
+      "FRENCH": "C’est quoi son problème ?",
+      "THAI": "เธอเป็นอะไรน่ะ?",
+      "PERSIAN": "چه خبر از او؟"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "똑바로 말해라",
+      "ENGLISH": "Just say it straight.",
+      "CHINESE_SIMPLIFIED": "你说清楚",
+      "CHINESE_TRADITIONAL": "你說清楚",
+      "JAPANESE": "ちゃんと話してよ。",
+      "INDONESIAN": "Bilang langsung aja.",
+      "PORTUGUESE": "Fala logo.",
+      "RUSSIAN": "Скажи прямо.",
+      "FRENCH": "Dis-le directement.",
+      "THAI": "พูดมาตรงๆ เลย",
+      "PERSIAN": "فقط رک بگو"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나도 몰라 진짜...",
+      "ENGLISH": "I'm telling you, I really don't know...",
+      "CHINESE_SIMPLIFIED": "我真的不知道...",
+      "CHINESE_TRADITIONAL": "我真的不知道...",
+      "JAPANESE": "俺も知らないんだ、本当に…",
+      "INDONESIAN": "Aku bilang, aku beneran nggak tahu...",
+      "PORTUGUESE": "Estou dizendo, eu realmente não sei...",
+      "RUSSIAN": "Я тебе серьёзно говорю, не знаю я…",
+      "FRENCH": "Je te jure, je sais vraiment pas…",
+      "THAI": "บอกเลยว่าฉันไม่รู้จริงๆ...",
+      "PERSIAN": "بهت میگم واقعا نمیدونم..."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "니가 모르면 누가 알아!",
+      "ENGLISH": "If you don’t know, who does?!",
+      "CHINESE_SIMPLIFIED": "你不知道还有谁知道？",
+      "CHINESE_TRADITIONAL": "你不知道還有誰知道？",
+      "JAPANESE": "あんたが知らなくて、誰が知ってるのよ！",
+      "INDONESIAN": "Kalau kamu nggak tahu, siapa yang tahu?!",
+      "PORTUGUESE": "Se você não sabe, quem sabe?!",
+      "RUSSIAN": "Если не знаешь ты, кто тогда знает?!",
+      "FRENCH": "Si toi tu sais pas, qui sait ?!",
+      "THAI": "ถ้านายไม่รู้ แล้วใครจะรู้ล่ะ?!",
+      "PERSIAN": "اگر نمی دانید، چه کسی می داند؟!"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "도둑 아냐?!",
+      "ENGLISH": "Is she a thief or something?!",
+      "CHINESE_SIMPLIFIED": "不会是小偷吧",
+      "CHINESE_TRADITIONAL": "不會是小偷吧",
+      "JAPANESE": "泥棒じゃないの？！",
+      "INDONESIAN": "Dia pencuri atau gimana sih?!",
+      "PORTUGUESE": "Ela é uma ladra ou algo assim?!",
+      "RUSSIAN": "Что, она воровка, что ли?!",
+      "FRENCH": "Quoi, elle est cleptomane ou quoi ?!",
+      "THAI": "หรือเธอขโมยของหรือไง?!",
+      "PERSIAN": "او دزد است یا چیز دیگری؟!"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 나도 모른다고!",
+      "ENGLISH": " I said I don’t know!",
+      "CHINESE_SIMPLIFIED": "我说了我不知道！",
+      "CHINESE_TRADITIONAL": "我說了我不知道！",
+      "JAPANESE": "ああ、知らないって！",
+      "INDONESIAN": "Aku bilang aku nggak tahu!",
+      "PORTUGUESE": "Eu disse que não sei!",
+      "RUSSIAN": "Я сказал, я не знаю!",
+      "FRENCH": "J’ai dit que je sais pas !",
+      "THAI": "ฉันบอกว่าไม่รู้น่ะ!",
+      "PERSIAN": "گفتم نمی دانم!"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 3일 전 -",
+      "ENGLISH": "- 3 days ago -",
+      "CHINESE_SIMPLIFIED": "- 3天前 -",
+      "CHINESE_TRADITIONAL": "- 3天前 -",
+      "JAPANESE": "- 3日前 -",
+      "INDONESIAN": "3 hari yang lalu -",
+      "PORTUGUESE": "3 dias atrás -",
+      "RUSSIAN": "— 3 дня назад —",
+      "FRENCH": "— Il y a 3 jours —",
+      "THAI": "— 3 วันที่แล้ว —",
+      "PERSIAN": "- 3 روز پیش -"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "말숙아 근데 진짜 월세 안 낼 거야?",
+      "ENGLISH": "Hey, are you really not going to pay rent?",
+      "CHINESE_SIMPLIFIED": "末淑啊，你真的不交房租吗?",
+      "CHINESE_TRADITIONAL": "末淑啊，你真的不交房租嗎?",
+      "JAPANESE": "お前、本当に家賃払わないつもりか？",
+      "INDONESIAN": "Hei, apa kamu benar-benar nggak mau bayar sewa?",
+      "PORTUGUESE": "Ei, você realmente não vai pagar o aluguel?",
+      "RUSSIAN": "Эй, ты реально собираешься не платить за аренду?",
+      "FRENCH": "Eh, tu comptes vraiment pas payer le loyer ?",
+      "THAI": "นี่ นายจะไม่จ่ายค่าเช่าจริงๆ เหรอ?",
+      "PERSIAN": "سلام واقعا اجاره نمیدی؟"
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 2층 화장실 휴지 떨어졌더라",
+      "ENGLISH": "By the way, the toilet paper in the second-floor bathroom is out.",
+      "CHINESE_SIMPLIFIED": "喂，2楼卫生间的卫生纸都用光了",
+      "CHINESE_TRADITIONAL": "喂，2樓衛生間的衛生紙都用光了",
+      "JAPANESE": "2階のトイレットペーパー、全部なくなってたわよ。",
+      "INDONESIAN": "Ngomong-ngomong, tisu toilet di kamar mandi lantai dua habis.",
+      "PORTUGUESE": "Aliás, o papel higiênico no banheiro do segundo andar acabou.",
+      "RUSSIAN": "Кстати, на втором этаже туалетная бумага закончилась.",
+      "FRENCH": "Au fait, le papier toilette est fini dans les toilettes du deuxième étage.",
+      "THAI": "แล้วก็ กระดาษชำระในห้องน้ำชั้นสองหมดแล้วนะ",
+      "PERSIAN": "ضمناً دستمال توالت حمام طبقه دوم بیرون است."
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "응",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "哦。",
+      "CHINESE_TRADITIONAL": "哦。",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Ok.",
+      "RUSSIAN": "— Понял.",
+      "FRENCH": "— OK.",
+      "THAI": "— โอเค",
+      "PERSIAN": "Okay."
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "-ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -",
+      "PERSIAN": "- نشانک گذاری شده برای پیام های خوانده نشده -"
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 하냐?",
+      "ENGLISH": "What are you doing?",
+      "CHINESE_SIMPLIFIED": "干嘛呢？",
+      "CHINESE_TRADITIONAL": "幹嘛呢？",
+      "JAPANESE": "今、何してる？",
+      "INDONESIAN": "Kamu lagi ngapain?",
+      "PORTUGUESE": "O que você está fazendo?",
+      "RUSSIAN": "Чем занимаешься?",
+      "FRENCH": "Tu fais quoi ?",
+      "THAI": "ทำอะไรอยู่?",
+      "PERSIAN": "What are you doing?"
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "할 일 없으면 pc방이나 오든지",
+      "ENGLISH": "\"If you’ve got nothing going on, come to the interner cafe or something.",
+      "CHINESE_SIMPLIFIED": "没什么事的话来网吧呗",
+      "CHINESE_TRADITIONAL": "沒什麼事的話來網吧唄",
+      "JAPANESE": "やることがなければ、ネットカフェでも来れば？",
+      "INDONESIAN": "Kalau nggak ada acara, mampir ke warnet atau apa gitu.",
+      "PORTUGUESE": "Se não tiver nada pra fazer, vem pro lan house ou algo assim.",
+      "RUSSIAN": "Если у тебя дел нет, загляни в интернет-кафе или куда-нибудь.",
+      "FRENCH": "Si t’as rien de prévu, viens à un cybercafé ou quelque chose.",
+      "THAI": "ถ้าไม่มีอะไรทำ มาที่ร้านอินเทอร์เน็ตคาเฟ่หน่อยก็ได้",
+      "PERSIAN": "«اگر چیزی در کار نیست، به کافه داخلی بیا یا چیزی."
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "집에 혼자 자빠져있지 말고",
+      "ENGLISH": "Stop laying around at home doing nothing.",
+      "CHINESE_SIMPLIFIED": "别自己在家睡大觉啦",
+      "CHINESE_TRADITIONAL": "別自己在家睡大覺啦",
+      "JAPANESE": "家でごろごろしてないで。",
+      "INDONESIAN": "Jangan cuma rebahan di rumah nggak ngapa-ngapain.",
+      "PORTUGUESE": "Para de ficar jogado em casa sem fazer nada.",
+      "RUSSIAN": "Хватит валяться дома и ничего не делать.",
+      "FRENCH": "Arrête de traîner chez toi à rien faire.",
+      "THAI": "เลิกนอนอยู่บ้านเฉยๆ แล้วทำอะไรบ้าง",
+      "PERSIAN": "دست از دراز کشیدن در خونه بردارید و هیچ کاری انجام ندهید."
+    }
+  }
+]

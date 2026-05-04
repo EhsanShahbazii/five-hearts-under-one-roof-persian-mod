@@ -1,0 +1,325 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "수영복은 어디서 났어요?",
+      "ENGLISH": "Where did you get your swimsuit?",
+      "CHINESE_SIMPLIFIED": "你的泳装是哪来的?",
+      "CHINESE_TRADITIONAL": "你的泳裝是哪來的?",
+      "JAPANESE": "この水着、どこで買ったんですか？",
+      "INDONESIAN": "Dari mana kamu dapat baju renangmu?",
+      "PORTUGUESE": "De onde você conseguiu seu maiô?",
+      "RUSSIAN": "Откуда у тебя этот купальник?",
+      "FRENCH": "D’où vient ton maillot de bain ?",
+      "THAI": "เธอได้ชุดว่ายน้ำนี้มาจากไหน?"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 저 놀러간다고 하니까...",
+      "ENGLISH": "Oh, when I told Min-jung I was going on a trip,",
+      "CHINESE_SIMPLIFIED": "我说我也要出去玩",
+      "CHINESE_TRADITIONAL": "我說我也要出去玩",
+      "JAPANESE": "あ～、私が遊びに行くって言ったら…",
+      "INDONESIAN": "Oh, waktu aku bilang ke Min-jung kalau aku mau liburan,",
+      "PORTUGUESE": "Ah, quando eu falei pra Min-jung que ia viajar,",
+      "RUSSIAN": "О, когда я сказала Мин-чжун, что поеду на отдых,",
+      "FRENCH": "Oh, quand j’ai dit à Min-jung que je partais en voyage,",
+      "THAI": "โอ้ พอฉันบอกมินจองว่าจะไปเที่ยว"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님이 협찬받은 거 하나 빌려주셨어요.",
+      "ENGLISH": "She let me borrow one she got from a sponsorship.",
+      "CHINESE_SIMPLIFIED": "敏静姐姐就借了我一套品牌赞助的泳装",
+      "CHINESE_TRADITIONAL": "敏靜姐姐就借了我一套品牌贊助的泳裝",
+      "JAPANESE": "ミンジョンさんが、協賛で貰ったのを貸してくれたんです。",
+      "INDONESIAN": "Dia pinjemin aku baju renang yang dia dapet dari sponsor.",
+      "PORTUGUESE": "Ela me emprestou um maiô que ela ganhou de patrocínio.",
+      "RUSSIAN": "она одолжила мне купальник, который получила от спонсора.",
+      "FRENCH": "elle m’a prêté celui qu’elle avait reçu d’un sponsor.",
+      "THAI": "เธอเลยให้ฉันยืมชุดนี้ที่เธอได้มาจากสปอนเซอร์"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "안 어울리죠...",
+      "ENGLISH": "It doesn’t really suit me though...",
+      "CHINESE_SIMPLIFIED": "是不是不太适合我呀…?",
+      "CHINESE_TRADITIONAL": "是不是不太適合我呀…?",
+      "JAPANESE": "似合ってないですよね…",
+      "INDONESIAN": "Tapi kayaknya gak cocok sama aku...",
+      "PORTUGUESE": "Mas acho que não combina muito comigo...",
+      "RUSSIAN": "Хотя мне кажется, что он мне не очень идёт...",
+      "FRENCH": "Mais je ne trouve pas qu’il m’aille très bien...",
+      "THAI": "แต่ฉันว่ามันไม่ค่อยเข้ากับฉันเลย..."
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨, 완전 잘 어울려요...!",
+      "ENGLISH": "No way, it looks great on you...!",
+      "CHINESE_SIMPLIFIED": "非常适合啊…!",
+      "CHINESE_TRADITIONAL": "非常適合啊…!",
+      "JAPANESE": "いえ、すごく似合ってますよ…！",
+      "INDONESIAN": "Enggak kok, kelihatan bagus banget di kamu...!",
+      "PORTUGUESE": "De jeito nenhum, ficou ótimo em você...!",
+      "RUSSIAN": "Да ну, выглядит отлично на тебе...!",
+      "FRENCH": "Pas du tout, il te va à merveille... !",
+      "THAI": "ไม่หรอก มันดูดีมากเลยนะ!"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "바다는 처음이에요?",
+      "ENGLISH": "Is this your first time at the beach?",
+      "CHINESE_SIMPLIFIED": "你是第一次来海边吗?",
+      "CHINESE_TRADITIONAL": "你是第一次來海邊嗎?",
+      "JAPANESE": "海は初めてなんですか？",
+      "INDONESIAN": "Ini pertama kalinya kamu ke pantai?",
+      "PORTUGUESE": "É sua primeira vez na praia?",
+      "RUSSIAN": "Ты впервые на пляже?",
+      "FRENCH": "C’est ta première fois à la plage ?",
+      "THAI": "นี่เป็นครั้งแรกที่เธอมาทะเลเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "뭔가 냄새도 엄청 짜요!",
+      "ENGLISH": "And it smells really salty!",
+      "CHINESE_SIMPLIFIED": "我感觉空气都好咸哦!",
+      "CHINESE_TRADITIONAL": "我感覺空氣都好鹹哦!",
+      "JAPANESE": "何か、匂いもすごくしょっぱいですね！",
+      "INDONESIAN": "Dan baunya asin banget!",
+      "PORTUGUESE": "E tem um cheiro bem salgado!",
+      "RUSSIAN": "И пахнет здесь такой солью!",
+      "FRENCH": "Et ça sent vraiment le sel ici !",
+      "THAI": "แล้วมันมีกลิ่นเค็มๆ ด้วย!"
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저... 데리고 와 주셔서 감사해요...",
+      "ENGLISH": "Thank you for bringing me...",
+      "CHINESE_SIMPLIFIED": "谢谢您…带我过来…",
+      "CHINESE_TRADITIONAL": "謝謝您…帶我過來…",
+      "JAPANESE": "連れてきてくれてありがとうございます…",
+      "INDONESIAN": "Makasih udah ajak aku ke sini...",
+      "PORTUGUESE": "Obrigada por me trazer...",
+      "RUSSIAN": "Спасибо, что привёл меня...",
+      "FRENCH": "Merci de m’avoir emmenée...",
+      "THAI": "ขอบคุณที่พาฉันมานะ"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님 덕분에",
+      "ENGLISH": "Thanks to you, Yuman,",
+      "CHINESE_SIMPLIFIED": "多亏了您",
+      "CHINESE_TRADITIONAL": "多虧了您",
+      "JAPANESE": "ユマンさんのおかげで",
+      "INDONESIAN": "Berkat kamu, Yuman,",
+      "PORTUGUESE": "Graças a você, Yuman,",
+      "RUSSIAN": "Благодаря тебе, Юман,",
+      "FRENCH": "Grâce à toi, Yuman,",
+      "THAI": "ขอบคุณเธอ ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.6
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "집 밖으로 나가보고 싶다는 생각이 자주 들어요.",
+      "ENGLISH": "I’ve been wanting to go outside more often.\"",
+      "CHINESE_SIMPLIFIED": "我最近才常常有想出去玩的想法",
+      "CHINESE_TRADITIONAL": "我最近才常常有想出去玩的想法",
+      "JAPANESE": "外に出たいって思うようになったんです。",
+      "INDONESIAN": "Aku jadi pengen keluar rumah lebih sering.",
+      "PORTUGUESE": "Eu tenho vontade de sair mais vezes.",
+      "RUSSIAN": "мне захотелось чаще бывать на улице.",
+      "FRENCH": "j’ai de plus en plus envie de sortir.",
+      "THAI": "ฉันเลยอยากออกไปข้างนอกมากขึ้น"
+    },
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 32.9
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "다행이네요...",
+      "ENGLISH": "I’m glad to hear that...",
+      "CHINESE_SIMPLIFIED": "那挺好的",
+      "CHINESE_TRADITIONAL": "那挺好的",
+      "JAPANESE": "よかったです…",
+      "INDONESIAN": "Aku senang dengarnya...",
+      "PORTUGUESE": "Fico feliz em ouvir isso...",
+      "RUSSIAN": "Рад это слышать...",
+      "FRENCH": "Content d’entendre ça...",
+      "THAI": "ดีใจที่ได้ยินแบบนั้น..."
+    },
+    "TIME": {
+      "SHOW": 33.2,
+      "HIDE": 34.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어, 두꺼비 집 이제 좀 튼튼해진 거 같은데",
+      "ENGLISH": "Hey, looks like the fuse box is holding up better now.",
+      "CHINESE_SIMPLIFIED": "沙子城堡快建好啦~",
+      "CHINESE_TRADITIONAL": "沙子城堡快建好啦~",
+      "JAPANESE": "あ、砂の山、頑丈になりましたね！",
+      "INDONESIAN": "Hei, kayaknya kotak sekeringnya udah lebih stabil sekarang.",
+      "PORTUGUESE": "Ei, parece que a caixa de fusíveis tá aguentando melhor agora.",
+      "RUSSIAN": "Смотри, кажется, предохранительная коробка теперь работает лучше.",
+      "FRENCH": "Hé, on dirait que le boîtier de fusibles tient mieux maintenant.",
+      "THAI": "เฮ้ ดูเหมือนแผงฟิวส์จะยังใช้งานได้ดีนะ"
+    },
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "손 빼보실래요?",
+      "ENGLISH": "Want to take your hand off?",
+      "CHINESE_SIMPLIFIED": "把手拿开看看",
+      "CHINESE_TRADITIONAL": "把手拿開看看",
+      "JAPANESE": "手、外してみましょうか？",
+      "INDONESIAN": "Mau lepas tanganmu?",
+      "PORTUGUESE": "Quer tirar sua mão?",
+      "RUSSIAN": "Хочешь убрать руку?",
+      "FRENCH": "Tu veux enlever ta main ?",
+      "THAI": "อยากเอามือออกไหม?"
+    },
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 38.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "우와!",
+      "ENGLISH": "Wow",
+      "CHINESE_SIMPLIFIED": "哇!",
+      "CHINESE_TRADITIONAL": "哇!",
+      "JAPANESE": "わぁ！",
+      "INDONESIAN": "Wah",
+      "PORTUGUESE": "Uau",
+      "RUSSIAN": "Вау",
+      "FRENCH": "Waouh",
+      "THAI": "ว้าว"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 39.4
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "우와!",
+      "ENGLISH": "Wow",
+      "CHINESE_SIMPLIFIED": "哇!",
+      "CHINESE_TRADITIONAL": "哇!",
+      "JAPANESE": "わぁ！",
+      "INDONESIAN": "Wah",
+      "PORTUGUESE": "Uau",
+      "RUSSIAN": "Вау",
+      "FRENCH": "Waouh",
+      "THAI": "ว้าว"
+    },
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 40.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "저도 이제 새집이 생겼어요!",
+      "ENGLISH": "I’ve got a new home now!",
+      "CHINESE_SIMPLIFIED": "我有新房子了!",
+      "CHINESE_TRADITIONAL": "我有新房子了!",
+      "JAPANESE": "私にも新しい家ができました！",
+      "INDONESIAN": "Sekarang aku punya rumah baru!",
+      "PORTUGUESE": "Agora eu tenho uma casa nova!",
+      "RUSSIAN": "Теперь у меня есть новый дом!",
+      "FRENCH": "J’ai un nouveau chez-moi maintenant !",
+      "THAI": "ตอนนี้ฉันมีบ้านใหม่แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 43.3
+    }
+  }
+]

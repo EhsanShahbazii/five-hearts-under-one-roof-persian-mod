@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE": "啾"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어쭈!",
+      "ENGLISH": "Oh,",
+      "CHINESE": "喂!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나도 해버린다?",
+      "ENGLISH": "You're provoking me?",
+      "CHINESE": "你再这样我就要反击了!"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.0
+    }
+  }
+]

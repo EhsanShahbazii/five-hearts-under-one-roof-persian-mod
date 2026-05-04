@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 말숙이 이때는 참 귀여웠는데...",
+      "ENGLISH": "Ah, Malsook was so cute back then...",
+      "CHINESE_SIMPLIFIED": "啊..末淑那时候真的很可爱来着…",
+      "CHINESE_TRADITIONAL": "啊..末淑那時候真的很可愛來着…",
+      "JAPANESE": "ああ、マルスク。この頃はすごく可愛かったのにな",
+      "INDONESIAN": "Ah, Mal-sook lucu banget waktu itu...",
+      "PORTUGUESE": "Ah, a Mal-sook era tão fofa naquela época...",
+      "RUSSIAN": "Ах, Мал-сук тогда была такая милая...",
+      "FRENCH": "Ah, Mal-sook était tellement mignonne à l’époque...",
+      "THAI": "อ้า มัลซุกตอนนั้นน่ารักจัง..."
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 6.0
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "누구랑 얘기하지?",
+      "ENGLISH": "Who should I talk to first…?",
+      "CHINESE_SIMPLIFIED": "我该先和谁讲好呢…",
+      "CHINESE_TRADITIONAL": "我該先和誰講好呢…",
+      "JAPANESE": "誰と話せばいいんだ？",
+      "INDONESIAN": "Aku harus bicara sama siapa dulu ya...?",
+      "PORTUGUESE": "Com quem eu devo falar primeiro...?",
+      "RUSSIAN": "С кем бы поговорить сначала...?",
+      "FRENCH": "À qui devrais-je parler en premier... ?",
+      "THAI": "ฉันควรคุยกับใครก่อนดี...?"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.4
+    }
+  }
+]

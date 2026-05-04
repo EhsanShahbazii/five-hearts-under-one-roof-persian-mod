@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저기 잠깐만요...!",
+      "ENGLISH": "Wait a minute...!",
+      "CHINESE_SIMPLIFIED": "等一下!",
+      "CHINESE_TRADITIONAL": "等一下!",
+      "JAPANESE": "ちょっと待ってください…！",
+      "INDONESIAN": "Tunggu sebentar...!",
+      "PORTUGUESE": "Espera aí...!",
+      "RUSSIAN": "Подождите минутку...!",
+      "FRENCH": "Attendez une minute... !",
+      "THAI": "เดี๋ยวนะ...!"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아이, 지금 뭐 하시는 거예요!",
+      "ENGLISH": "What’s going on here?",
+      "CHINESE_SIMPLIFIED": "你们这是在干什么?",
+      "CHINESE_TRADITIONAL": "你們這是在幹什麼?",
+      "JAPANESE": "何してるんですか！",
+      "INDONESIAN": "Ada apa ini?",
+      "PORTUGUESE": "O que tá acontecendo aqui?",
+      "RUSSIAN": "Что тут происходит?",
+      "FRENCH": "Qu’est-ce qui se passe ici ?",
+      "THAI": "เกิดอะไรขึ้นที่นี่?"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우리 다음 주까지는 연습 열심히 해오기다~",
+      "ENGLISH": "We need to practice hard until next week~",
+      "CHINESE_SIMPLIFIED": "直到下周为止我们都要努力练习~",
+      "CHINESE_TRADITIONAL": "直到下週爲止我們都要努力練習~",
+      "JAPANESE": "みんな、来週までにはしっかり練習してくること",
+      "INDONESIAN": "Kita harus latihan keras sampai minggu depan~",
+      "PORTUGUESE": "A gente precisa treinar firme até a semana que vem~",
+      "RUSSIAN": "Нам нужно упорно тренироваться до следующей недели~",
+      "FRENCH": "On doit s’entraîner dur jusqu’à la semaine prochaine~",
+      "THAI": "พวกเราต้องซ้อมให้หนักจนถึงสัปดาห์หน้านะ~"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "알겠지?",
+      "ENGLISH": "Okay?",
+      "CHINESE_SIMPLIFIED": "知道了吧?",
+      "CHINESE_TRADITIONAL": "知道了吧?",
+      "JAPANESE": "いいね？",
+      "INDONESIAN": "Oke?",
+      "PORTUGUESE": "Beleza?",
+      "RUSSIAN": "Ладно?",
+      "FRENCH": "D’accord ?",
+      "THAI": "โอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "가자. / 가자~",
+      "ENGLISH": "Let’s go. / Go~",
+      "CHINESE_SIMPLIFIED": "-走啦~  -走吧",
+      "CHINESE_TRADITIONAL": "-走啦~  -走吧",
+      "JAPANESE": "行こう。 / 行こう～！",
+      "INDONESIAN": "Ayo. / Gas~",
+      "PORTUGUESE": "Vamos lá. / Bora~",
+      "RUSSIAN": "Пошли. / Вперёд~",
+      "FRENCH": "On y va. / Allez~",
+      "THAI": "ไปกันเถอะ. / ไป~"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.0
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "RUSSIAN": "Ааа~",
+      "FRENCH": "Ah~",
+      "THAI": "อ้า~",
+      "PERSIAN": "آهان... پس اینطور."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "근데...",
+      "ENGLISH": "but...",
+      "CHINESE_SIMPLIFIED": "等下...",
+      "CHINESE_TRADITIONAL": "等下...",
+      "JAPANESE": "でも…",
+      "INDONESIAN": "tapi…",
+      "PORTUGUESE": "mas…",
+      "RUSSIAN": "но...",
+      "FRENCH": "mais...",
+      "THAI": "แต่...",
+      "PERSIAN": "اما..."
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저보다 민정 님이 먼저 마시는 게 좋을 거 같은데...",
+      "ENGLISH": "I think you should try it before I do, Min-jung...",
+      "CHINESE_SIMPLIFIED": "我觉得你可以先喝一口尝尝…",
+      "CHINESE_TRADITIONAL": "我覺得你可以先喝一口嚐嚐…",
+      "JAPANESE": "ミンジョンさんが先に飲む方がいい気がするんだけど…",
+      "INDONESIAN": "Kayaknya kamu harus coba duluan deh, Min-jung…",
+      "PORTUGUESE": "Acho que você devia provar primeiro, Min-jung…",
+      "RUSSIAN": "Мне кажется, ты должна попробовать первой, Минчжун...",
+      "FRENCH": "Je pense que tu devrais goûter avant moi, Min-jung...",
+      "THAI": "ฉันคิดว่าเธอควรลองก่อนนะ มินจอง...",
+      "PERSIAN": "فکر کنم قبل از من امتحانش کنی مین‌جونگ..."
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "RUSSIAN": "Ааа~",
+      "FRENCH": "Ah~",
+      "THAI": "อ้า~",
+      "PERSIAN": "آهان... پس اینطور."
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐예요....",
+      "ENGLISH": "What are you up to?",
+      "CHINESE_SIMPLIFIED": "什么嘛~",
+      "CHINESE_TRADITIONAL": "什麼嘛~",
+      "JAPANESE": "そうですか…？",
+      "INDONESIAN": "Apa yang kamu rencanakan?",
+      "PORTUGUESE": "O que você tá aprontando?",
+      "RUSSIAN": "Что ты затеяла?",
+      "FRENCH": "Qu’est-ce que tu mijotes ?",
+      "THAI": "คิดจะทำอะไรเนี่ย?",
+      "PERSIAN": "چه کاره ای؟"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "음 맛있어!",
+      "ENGLISH": "Mmm, it's delicious!",
+      "CHINESE_SIMPLIFIED": "嗯~真好喝!",
+      "CHINESE_TRADITIONAL": "嗯~真好喝!",
+      "JAPANESE": "うん！美味しい！",
+      "INDONESIAN": "Mmm, enak banget!",
+      "PORTUGUESE": "Mmm, tá uma delícia!",
+      "RUSSIAN": "Ммм, это вкусно!",
+      "FRENCH": "Mmm, c’est délicieux !",
+      "THAI": "อืม อร่อยจัง!",
+      "PERSIAN": "ممم، خوشمزه است!"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네...? 맛있다고요?",
+      "ENGLISH": "Wait... seriously? Delicious?",
+      "CHINESE_SIMPLIFIED": "真的…?这能好喝？",
+      "CHINESE_TRADITIONAL": "真的…?這能好喝？",
+      "JAPANESE": "美味しいって？",
+      "INDONESIAN": "Tunggu… seriusan? Enak?",
+      "PORTUGUESE": "Espera… sério? Tá bom?",
+      "RUSSIAN": "Подожди... серьёзно? Вкусно?",
+      "FRENCH": "Attends... sérieux ? Délicieux ?",
+      "THAI": "เดี๋ยว... จริงเหรอ? อร่อยจริงๆ?",
+      "PERSIAN": "صبر کن... جدی؟ خوشمزه؟"
+    },
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "웅 진짜! ",
+      "ENGLISH": "Yup, for real!",
+      "CHINESE_SIMPLIFIED": "真的!",
+      "CHINESE_TRADITIONAL": "真的!",
+      "JAPANESE": "はい、美味しいですよ！",
+      "INDONESIAN": "Iya, beneran!",
+      "PORTUGUESE": "Sim, de verdade!",
+      "RUSSIAN": "Да, правда!",
+      "FRENCH": "Oui, vraiment !",
+      "THAI": "ใช่ จริงๆ เลย!",
+      "PERSIAN": "بله، واقعا!"
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "유만 오빠, 아~",
+      "ENGLISH": "Now you, open wide! Ah~",
+      "CHINESE_SIMPLIFIED": "现在该你喝了哥哥~",
+      "CHINESE_TRADITIONAL": "現在該你喝了哥哥~",
+      "JAPANESE": "ユマンさん、あ〜ん。",
+      "INDONESIAN": "Sekarang giliranmu, buka mulut! Ah~",
+      "PORTUGUESE": "Agora você, abre bem! Ah~",
+      "RUSSIAN": "Теперь ты, открывай рот! Ааа~",
+      "FRENCH": "À toi maintenant, ouvre grand ! Ah~",
+      "THAI": "ทีนี้ตาเธอแล้ว อ้า~",
+      "PERSIAN": "حالا تو، باز کن! آه~"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어라. 벌써. 시간이. 이렇게 됐네.",
+      "ENGLISH": "Oh no, look at the time! ",
+      "CHINESE_SIMPLIFIED": "哎呀，这么快就到点了",
+      "CHINESE_TRADITIONAL": "哎呀，這麼快就到點了",
+      "JAPANESE": "あれ？もうこんな時間？",
+      "INDONESIAN": "Waduh, lihat jamnya!",
+      "PORTUGUESE": "Nossa, olha a hora!",
+      "RUSSIAN": "О нет, посмотри на время!",
+      "FRENCH": "Oh non, regarde l’heure !",
+      "THAI": "โอ๊ย ดูเวลาสิ!",
+      "PERSIAN": "اوه نه، به زمان نگاه کن!"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "지각해서. 아주 크게. 혼나겠는걸.",
+      "ENGLISH": "I’m gonna be so late!",
+      "CHINESE_SIMPLIFIED": "再不走我就要挨训了",
+      "CHINESE_TRADITIONAL": "再不走我就要挨訓了",
+      "JAPANESE": "遅刻して、怒られるかも。",
+      "INDONESIAN": "Aku bakal telat banget!",
+      "PORTUGUESE": "Vou me atrasar muito!",
+      "RUSSIAN": "Я так опаздываю!",
+      "FRENCH": "Je vais être tellement en retard !",
+      "THAI": "ฉันจะสายแล้ว!",
+      "PERSIAN": "من خیلی دیر میرسم!"
+    },
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "벌써요? 내가 얼른 테이크아웃 잔에 옮겨 올게요!",
+      "ENGLISH": "Late? I’ll pour it into a to-go cup, hang on!",
+      "CHINESE_SIMPLIFIED": "这就要走啦?那我赶紧给你打包!",
+      "CHINESE_TRADITIONAL": "這就要走啦?那我趕緊給你打包!",
+      "JAPANESE": "もう、そんな時間ですか！じゃあ、カップに移してあげますね！",
+      "INDONESIAN": "Telat? Aku tuang ke gelas untuk dibawa, tunggu!",
+      "PORTUGUESE": "Atrasar? Eu coloco num copo pra viagem, espera!",
+      "RUSSIAN": "Опаздываешь? Я налью в стакан с собой, подожди!",
+      "FRENCH": "En retard ? Je vais le verser dans un gobelet, attends !",
+      "THAI": "สายเหรอ? ฉันจะเทใส่แก้วให้แล้วกัน!",
+      "PERSIAN": "دیر؟ من اونو در یک فنجان آماده می‌ریزم، صبر کنید!"
+    },
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 29.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "...예? 왜, 왜요...?",
+      "ENGLISH": "Wha- why?!",
+      "CHINESE_SIMPLIFIED": "...啊?不,不必了吧",
+      "CHINESE_TRADITIONAL": "...啊?不,不必了吧",
+      "JAPANESE": "え？な、何で…？",
+      "INDONESIAN": "Ha- kenapa?!",
+      "PORTUGUESE": "O quê- por quê?!",
+      "RUSSIAN": "Ч-что?!",
+      "FRENCH": "Quoi ? Pourquoi ?!",
+      "THAI": "อะไรนะ?! ทำไมล่ะ!",
+      "PERSIAN": "-چرا؟!"
+    },
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 31.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "당장! 가 봐야 할 거 같아요!",
+      "ENGLISH": "No time! I’ve gotta run, see you later!",
+      "CHINESE_SIMPLIFIED": "我立刻!马上!现在! 就要走了!",
+      "CHINESE_TRADITIONAL": "我立刻!馬上!現在! 就要走了!",
+      "JAPANESE": "あ、もう行かないと！",
+      "INDONESIAN": "Nggak ada waktu! Aku harus pergi, sampai nanti!",
+      "PORTUGUESE": "Sem tempo! Tenho que ir, até mais!",
+      "RUSSIAN": "Нет времени! Мне нужно бежать, увидимся!",
+      "FRENCH": "Pas le temps ! Je dois y aller, à plus tard !",
+      "THAI": "ไม่มีเวลาแล้ว! ฉันต้องรีบไปแล้ว ไว้เจอกันนะ!",
+      "PERSIAN": "وقت نیست! من باید بدوم، بعدا می بینمت!"
+    },
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 34.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "이, 이따 봐요!! ",
+      "ENGLISH": "See you later!",
+      "CHINESE_SIMPLIFIED": "一...一会儿见吧! ",
+      "CHINESE_TRADITIONAL": "一...一會兒見吧!",
+      "JAPANESE": "また後で！",
+      "INDONESIAN": "Sampai nanti!",
+      "PORTUGUESE": "Até mais!",
+      "RUSSIAN": "Увидимся!",
+      "FRENCH": "À plus !",
+      "THAI": "ไว้เจอกัน!",
+      "PERSIAN": "بعدا می بینمت!"
+    },
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 35.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "어디 가요?",
+      "ENGLISH": "Wait, where are you going?",
+      "CHINESE_SIMPLIFIED": "你去哪儿啊？",
+      "CHINESE_TRADITIONAL": "你去哪兒啊？",
+      "JAPANESE": "どこ行くんですか？",
+      "INDONESIAN": "Tunggu, kamu mau ke mana?",
+      "PORTUGUESE": "Espera, pra onde você vai?",
+      "RUSSIAN": "Эй, куда ты уходишь?",
+      "FRENCH": "Hé, tu vas où ?",
+      "THAI": "เธอจะไปไหนน่ะ?",
+      "PERSIAN": "صبر کن کجا میری؟"
+    },
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 36.1
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "솔로 축하해요!",
+      "ENGLISH": "And congrats on going solo!",
+      "CHINESE_SIMPLIFIED": "恭喜你SOLO出道!",
+      "CHINESE_TRADITIONAL": "恭喜你SOLO出道!",
+      "JAPANESE": "ソロデビュー、おめでとうございます！",
+      "INDONESIAN": "Dan selamat buat debut solonya!",
+      "PORTUGUESE": "E parabéns pela carreira solo!",
+      "RUSSIAN": "И поздравляю с сольной карьерой!",
+      "FRENCH": "Et félicitations pour ta carrière solo !",
+      "THAI": "แล้วก็ยินดีด้วยกับการเป็นศิลปินเดี่ยว!",
+      "PERSIAN": "و تبریک برای رفتن به تنهایی!"
+    },
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "잠깐만요!",
+      "ENGLISH": "Hold on! Wait up!",
+      "CHINESE_SIMPLIFIED": "等一下!!",
+      "CHINESE_TRADITIONAL": "等一下!!",
+      "JAPANESE": "ちょっと待って！",
+      "INDONESIAN": "Tunggu! Jangan pergi dulu!",
+      "PORTUGUESE": "Ei! Espera!",
+      "RUSSIAN": "Постой! Подожди!",
+      "FRENCH": "Attends ! Reviens !",
+      "THAI": "เดี๋ยวสิ! รอด้วย!",
+      "PERSIAN": "صبر کن صبر کن"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 37.8
+    }
+  }
+]

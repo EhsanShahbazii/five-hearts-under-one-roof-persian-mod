@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨",
+      "ENGLISH": "Seung-yi.",
+      "CHINESE_SIMPLIFIED": "圣依",
+      "CHINESE_TRADITIONAL": "聖依",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi.",
+      "PORTUGUESE": "Seung-yi.",
+      "RUSSIAN": "Сын-и.",
+      "FRENCH": "Seung-yi.",
+      "THAI": "ซึงอี"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 0.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "嗯? ",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Iya?",
+      "PORTUGUESE": "Sim?",
+      "RUSSIAN": "Да?",
+      "FRENCH": "Oui ?",
+      "THAI": "ใช่?"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제가 잡아줄 테니까",
+      "ENGLISH": "I’ll hold onto the back,",
+      "CHINESE_SIMPLIFIED": "我会牢牢抓紧你的",
+      "CHINESE_TRADITIONAL": "我會牢牢抓緊你的",
+      "JAPANESE": "僕が支えてあげるから",
+      "INDONESIAN": "Aku pegangin dari belakang,",
+      "PORTUGUESE": "Eu vou segurar por trás,",
+      "RUSSIAN": "Я подержу сзади,",
+      "FRENCH": "Je vais tenir derrière,",
+      "THAI": "ฉันจะจับข้างหลังไว้นะ"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "걱정하지 말고 타 봐요!",
+      "ENGLISH": "So don’t worry and just ride!",
+      "CHINESE_SIMPLIFIED": "你就放心骑吧！",
+      "CHINESE_TRADITIONAL": "你就放心騎吧！",
+      "JAPANESE": "心配しないで乗ってみてください！",
+      "INDONESIAN": "Jadi jangan khawatir dan jalan aja!",
+      "PORTUGUESE": "Então não se preocupe e vai em frente!",
+      "RUSSIAN": "так что не волнуйся и просто катайся!",
+      "FRENCH": "alors ne t’inquiète pas et pédale !",
+      "THAI": "ไม่ต้องกังวล แล้วขี่ไปเลย!"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "간다...!",
+      "ENGLISH": "I’m going...!",
+      "CHINESE_SIMPLIFIED": "我居然骑起来了!",
+      "CHINESE_TRADITIONAL": "我居然騎起來了!",
+      "JAPANESE": "行きますよ…？",
+      "INDONESIAN": "Aku jalan...!",
+      "PORTUGUESE": "Estou indo...!",
+      "RUSSIAN": "Я еду...!",
+      "FRENCH": "Je m’élance... !",
+      "THAI": "ฉันไปล่ะ...!"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "와 간다...!",
+      "ENGLISH": "Wow, I’m going...!",
+      "CHINESE_SIMPLIFIED": "哇!",
+      "CHINESE_TRADITIONAL": "哇!",
+      "JAPANESE": "わあ、進んでる…！",
+      "INDONESIAN": "Wah, aku jalan...!",
+      "PORTUGUESE": "Uau, estou indo...!",
+      "RUSSIAN": "Вау, я еду...!",
+      "FRENCH": "Waouh, ça avance... !",
+      "THAI": "ว้าว ฉันไปแล้ว...!"
+    },
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "와 재밌다...!",
+      "ENGLISH": "Wow, this is fun...!",
+      "CHINESE_SIMPLIFIED": "哇好有趣!",
+      "CHINESE_TRADITIONAL": "哇好有趣!",
+      "JAPANESE": "わあ、楽しい…！",
+      "INDONESIAN": "Wah, seru banget...!",
+      "PORTUGUESE": "Uau, isso é divertido...!",
+      "RUSSIAN": "Вау, это весело...!",
+      "FRENCH": "Waouh, c’est trop bien... !",
+      "THAI": "ว้าว สนุกจัง...!"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "재밌다!",
+      "ENGLISH": "That's funny...!!",
+      "CHINESE_SIMPLIFIED": "好好玩!",
+      "CHINESE_TRADITIONAL": "好好玩!",
+      "JAPANESE": "楽しいな～！",
+      "INDONESIAN": "Lucu banget...!!",
+      "PORTUGUESE": "Isso é engraçado...!!",
+      "RUSSIAN": "Как забавно...!!",
+      "FRENCH": "C’est trop drôle... !!",
+      "THAI": "ตลกดีจัง...!!"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.9
+    }
+  }
+]

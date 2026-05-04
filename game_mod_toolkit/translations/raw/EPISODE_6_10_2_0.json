@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "잠시만요!",
+      "ENGLISH": "Wait a second!",
+      "CHINESE_SIMPLIFIED": "等一下!",
+      "CHINESE_TRADITIONAL": "等一下!",
+      "JAPANESE": "ちょっと待ってください！",
+      "INDONESIAN": "Tunggu sebentar!",
+      "PORTUGUESE": "Espera um segundo!",
+      "RUSSIAN": "Постой секундочку!",
+      "FRENCH": "Attends une seconde !",
+      "THAI": "เดี๋ยวก่อน!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "찾았다!",
+      "ENGLISH": "I found it!",
+      "CHINESE_SIMPLIFIED": "找到你了",
+      "CHINESE_TRADITIONAL": "找到你了",
+      "JAPANESE": "あった！",
+      "INDONESIAN": "Aku menemukannya!",
+      "PORTUGUESE": "Achei!",
+      "RUSSIAN": "Я нашла это!",
+      "FRENCH": "Je l’ai trouvé !",
+      "THAI": "ฉันเจอแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어어, 진짜 큰일날 뻔했다...! 괜찮아요?",
+      "ENGLISH": "Phew, that was close...! Are you okay?",
+      "CHINESE_SIMPLIFIED": "还好我扶住你了…!你没事吧?",
+      "CHINESE_TRADITIONAL": "還好我扶住你了…!你沒事吧?",
+      "JAPANESE": "おお、危なかった…大丈夫ですか？",
+      "INDONESIAN": "Hah, hampir saja…! Kamu baik-baik saja?",
+      "PORTUGUESE": "Ufa, foi por pouco…! Tá tudo bem com você?",
+      "RUSSIAN": "Фух, это было на волоске...! Ты в порядке?",
+      "FRENCH": "Ouf, c’était juste...! Ça va ?",
+      "THAI": "ฟู่~ เกือบไปแล้ว...! เธอโอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "고마워요...",
+      "ENGLISH": "Thanks...",
+      "CHINESE_SIMPLIFIED": "谢谢哥哥…",
+      "CHINESE_TRADITIONAL": "謝謝哥哥…",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Terima kasih…",
+      "PORTUGUESE": "Obrigado…",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณนะ..."
+    },
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "오빠, 그럼 고백은 아직 고민 중인 거죠?",
+      "ENGLISH": "So, about my confession... are you still thinking about it?",
+      "CHINESE_SIMPLIFIED": "哥哥，那告白的事你是还在考虑中吗?",
+      "CHINESE_TRADITIONAL": "哥哥，那告白的事你是還在考慮中嗎?",
+      "JAPANESE": "ユマンさん、じゃあ、告白はまだ悩み中ってことですよね？",
+      "INDONESIAN": "Jadi, soal pengakuanku… kamu masih mikirin, ya?",
+      "PORTUGUESE": "Então, sobre minha confissão… você ainda está pensando?",
+      "RUSSIAN": "Так, насчёт моего признания... ты всё ещё думаешь об этом?",
+      "FRENCH": "Alors, à propos de ma confession... tu y penses encore ?",
+      "THAI": "แล้วเรื่องที่ฉันสารภาพไป... เธอยังคิดอยู่หรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "고민 중인 거면 나 싫은 건 아니죠?",
+      "ENGLISH": "If you’re still thinking, that means you don't hate me, right?",
+      "CHINESE_SIMPLIFIED": "不过如果你还在考虑的话，证明你并不讨厌我，对吧?",
+      "CHINESE_TRADITIONAL": "不過如果你還在考慮的話，證明你並不討厭我，對吧?",
+      "JAPANESE": "悩んでるってことは、私のこと嫌いじゃないってことですよね？",
+      "INDONESIAN": "Kalau kamu masih mikirin, artinya kamu nggak benci aku, kan?",
+      "PORTUGUESE": "Se você ainda tá pensando, quer dizer que não me odeia, certo?",
+      "RUSSIAN": "Если ты всё ещё раздумываешь, значит, ты меня не ненавидишь, правда?",
+      "FRENCH": "Si tu y penses encore, ça veut dire que tu ne me détestes pas, non ?",
+      "THAI": "ถ้าเธอยังคิดอยู่ แปลว่าเธอไม่ได้เกลียดฉันใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 26.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "제가 민정 님을 어떻게 싫어해요!",
+      "ENGLISH": "How could I hate you, Minjung?",
+      "CHINESE_SIMPLIFIED": "我怎么会讨厌你!",
+      "CHINESE_TRADITIONAL": "我怎麼會討厭你!",
+      "JAPANESE": "何で、僕がミンジョンさんを嫌いになるんですか？",
+      "INDONESIAN": "Gimana mungkin aku benci kamu, Min-jung?",
+      "PORTUGUESE": "Como eu poderia te odiar, Min-jung?",
+      "RUSSIAN": "Как я могу ненавидеть тебя, Минчжун?",
+      "FRENCH": "Comment je pourrais te détester, Min-jung ?",
+      "THAI": "ฉันจะเกลียดเธอได้ยังไงล่ะ มินจอง?"
+    },
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 나 좋아해요...?",
+      "ENGLISH": "Then, do you like me?",
+      "CHINESE_SIMPLIFIED": "那不讨厌的话，就是喜欢喽?",
+      "CHINESE_TRADITIONAL": "那不討厭的話，就是喜歡嘍?",
+      "JAPANESE": "じゃあ、私のこと好きですか…？",
+      "INDONESIAN": "Kalau gitu, kamu suka aku?",
+      "PORTUGUESE": "Então, você gosta de mim?",
+      "RUSSIAN": "Тогда, ты любишь меня?",
+      "FRENCH": "Alors, tu m’aimes ?",
+      "THAI": "งั้นเธอชอบฉันไหม?"
+    },
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 32.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "좋아하는데...",
+      "ENGLISH": "I do, but...",
+      "CHINESE_SIMPLIFIED": "当然喜欢啊…",
+      "CHINESE_TRADITIONAL": "當然喜歡啊…",
+      "JAPANESE": "好きですけど…",
+      "INDONESIAN": "Iya, tapi…",
+      "PORTUGUESE": "Gosto, mas…",
+      "RUSSIAN": "Люблю, но...",
+      "FRENCH": "Oui, mais...",
+      "THAI": "ฉันชอบนะ แต่..."
+    },
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 35.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "근데... 민정 님은 연예인이고 전 그냥 한낱 팬인데 어떻게요...?",
+      "ENGLISH": "You're a celebrity, and I'm just a fan. How could this work...?",
+      "CHINESE_SIMPLIFIED": "不过你是明星，而我只是个无名粉丝而已…",
+      "CHINESE_TRADITIONAL": "不過你是明星，而我只是個無名粉絲而已…",
+      "JAPANESE": "でも…ミンジョンさんは芸能人で、僕なんてただのファンですよ。なのに…",
+      "INDONESIAN": "Kamu kan selebriti, dan aku cuma penggemar. Gimana ini bisa jalan…?",
+      "PORTUGUESE": "Você é uma celebridade, e eu sou só um fã. Como isso vai dar certo…?",
+      "RUSSIAN": "Ты ведь знаменитость, а я просто фанат. Как это может сработать...?",
+      "FRENCH": "Tu es une célébrité, et moi, je ne suis qu’un fan. Comment ça pourrait marcher... ?",
+      "THAI": "เธอเป็นคนดัง ส่วนฉันเป็นแค่แฟนคลับ มันจะเป็นไปได้ยังไงล่ะ...?"
+    },
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 42.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ。",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo*",
+      "RUSSIAN": "*чмок*",
+      "FRENCH": "*bise*",
+      "THAI": "จุ๊บ"
+    },
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 45.6
+    }
+  }
+]

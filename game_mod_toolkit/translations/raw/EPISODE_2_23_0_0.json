@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 기절하고 싶다...",
+      "ENGLISH": "I feel like passing out...",
+      "CHINESE_SIMPLIFIED": "啊，好累啊…",
+      "CHINESE_TRADITIONAL": "啊，好累啊…",
+      "JAPANESE": "ああ、気絶しそう…",
+      "INDONESIAN": "Rasanya mau pingsan...",
+      "PORTUGUESE": "Sinto que vou desmaiar...",
+      "RUSSIAN": "Я сейчас упаду в обморок...",
+      "FRENCH": "Je me sens sur le point de m’évanouir...",
+      "THAI": "ฉันรู้สึกเหมือนจะเป็นลมเลย..."
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "역시 회사는 쉽지 않네....",
+      "ENGLISH": "Work is no joke...",
+      "CHINESE_SIMPLIFIED": "上班果然没那么容易…",
+      "CHINESE_TRADITIONAL": "上班果然沒那麼容易…",
+      "JAPANESE": "やっぱり会社って楽じゃないな…",
+      "INDONESIAN": "Kerja itu nggak main-main...",
+      "PORTUGUESE": "Trabalho não é brincadeira...",
+      "RUSSIAN": "Работа — это не шутка...",
+      "FRENCH": "Le travail, c’est pas de la rigolade...",
+      "THAI": "งานนี่ไม่ใช่เรื่องเล่นๆ เลย..."
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Wait!",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Tunggu!",
+      "PORTUGUESE": "Espera!",
+      "RUSSIAN": "Постой!",
+      "FRENCH": "Attends !",
+      "THAI": "เดี๋ยว!"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "동 과장님?",
+      "ENGLISH": "Manager Dong?",
+      "CHINESE_SIMPLIFIED": "佟科长?",
+      "CHINESE_TRADITIONAL": "佟科長?",
+      "JAPANESE": "ドン課長？",
+      "INDONESIAN": "Manajer Dong?",
+      "PORTUGUESE": "Gerente Dong?",
+      "RUSSIAN": "Менеджер Дон?",
+      "FRENCH": "Manager Dong ?",
+      "THAI": "ผู้จัดการดง?"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 동네 사시는 건가?",
+      "ENGLISH": "Do you live around here?",
+      "CHINESE_SIMPLIFIED": "她也住这个小区吗?",
+      "CHINESE_TRADITIONAL": "她也住這個小區嗎?",
+      "JAPANESE": "この辺に住んでるのかな？",
+      "INDONESIAN": "Kamu tinggal di sekitar sini?",
+      "PORTUGUESE": "Você mora por aqui?",
+      "RUSSIAN": "Вы живёте где-то поблизости?",
+      "FRENCH": "Vous habitez dans le coin ?",
+      "THAI": "คุณอยู่แถวนี้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.2
+    }
+  }
+]

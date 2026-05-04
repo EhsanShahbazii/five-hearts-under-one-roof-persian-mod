@@ -1,0 +1,252 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕히 계세요!!",
+      "ENGLISH": "Goodbye!!",
+      "CHINESE_SIMPLIFIED": "我先走了!!",
+      "CHINESE_TRADITIONAL": "我先走了!!",
+      "JAPANESE": "それでは、また！！",
+      "INDONESIAN": "Selamat tinggal!!",
+      "PORTUGUESE": "Adeus!!",
+      "RUSSIAN": "Прощайте!!",
+      "FRENCH": "Au revoir !!",
+      "THAI": "ลาก่อน!!",
+      "PERSIAN": "فعلاً، خدافظ!!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저기요! 저기요!",
+      "ENGLISH": "Excuse me! Excuse me!",
+      "CHINESE_SIMPLIFIED": "那个!等一下!",
+      "CHINESE_TRADITIONAL": "那個!等一下!",
+      "JAPANESE": "あの、ちょっと待ってください！ちょっと！",
+      "INDONESIAN": "Permisi! Permisi!",
+      "PORTUGUESE": "Com licença! Com licença!",
+      "RUSSIAN": "Извините! Извините!",
+      "FRENCH": "Excusez-moi ! Excusez-moi !",
+      "THAI": "ขอโทษครับ! ขอโทษครับ!",
+      "PERSIAN": "ببخشید! ببخشید!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "하숙? 잘못 준 건가?",
+      "ENGLISH": "Boarding house? Was it given to the wrong person?",
+      "CHINESE_SIMPLIFIED": "合租?他给错了吧?",
+      "CHINESE_TRADITIONAL": "合租?他給錯了吧?",
+      "JAPANESE": "下宿？間違って渡されたのかな？",
+      "INDONESIAN": "Rumah kos? Apa dikasih ke orang yang salah?",
+      "PORTUGUESE": "Casa compartilhada? Foi entregue pra pessoa errada?",
+      "RUSSIAN": "Общежитие? Его не тому человеку отдали?",
+      "FRENCH": "Pension ? Elle a été donnée à la mauvaise personne ?",
+      "THAI": "หอพัก? ส่งให้คนผิดหรือเปล่า?",
+      "PERSIAN": "پانسیون؟ به شخص اشتباهی داده شده است؟"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 19.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "ENGLISH": "Yu-u: Hey, the Film Boys want to drink tonight.",
+      "CHINESE_SIMPLIFIED": "小雨: 当红男团的哥哥们说晚上一起喝酒呢",
+      "CHINESE_TRADITIONAL": "小雨: 當紅男團的哥哥們說晚上一起喝酒呢",
+      "JAPANESE": "ユウ：聞いて！フィルムボーイズが今夜一緒に飲もうだって。",
+      "INDONESIAN": "Yu-u: Hei, Film Boys mau minum malam ini.",
+      "PORTUGUESE": "Yu-u: Ei, os Film Boys querem beber hoje à noite.",
+      "RUSSIAN": "Ю-у: Эй, парни из Film Boys хотят выпить сегодня вечером.",
+      "FRENCH": "Yu-u : Hé, les Film Boys veulent boire ce soir.",
+      "THAI": "ยู-อู: เฮ้ พวก Film Boys อยากดื่มคืนนี้",
+      "PERSIAN": "یو-و: هی، پسرهای فیلم امشب می خواهند مشروب بخورند."
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 27.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "ENGLISH": "Loa: They're coming to our place, right?",
+      "CHINESE_SIMPLIFIED": "小罗: 地点是在我们宿舍吧?",
+      "CHINESE_TRADITIONAL": "小羅: 地點是在我們宿舍吧?",
+      "JAPANESE": "ロア： またうちの事務所に来て、",
+      "INDONESIAN": "Loa: Mereka ke tempat kita, kan? ",
+      "PORTUGUESE": "Loa: Eles vêm pra nossa casa, né?",
+      "RUSSIAN": "Лоа: Они к нам идут?",
+      "FRENCH": "Loa : Ils viennent chez nous, non ?",
+      "THAI": "โลอา: พวกเขาจะมาบ้านเราใช่ไหม?",
+      "PERSIAN": "لوا: اونا دارن به جای ما میاین، درسته؟"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "ENGLISH": "Loa:  Are they crashing again?",
+      "CHINESE_SIMPLIFIED": "小罗: 哥哥们又打算过夜吗?^^",
+      "CHINESE_TRADITIONAL": "小羅: 哥哥們又打算過夜嗎?^^",
+      "JAPANESE": "ロア：  泊まるんでしょ？",
+      "INDONESIAN": "Loa: Nginep lagi?",
+      "PORTUGUESE": "Loa: Vão dormir aqui de novo?",
+      "RUSSIAN": "Лоа: Опять будут ночевать у нас?",
+      "FRENCH": "Loa : Ils squattent encore ?",
+      "THAI": "โลอา: จะมานอนอีกแล้วเหรอ?",
+      "PERSIAN": "لوا: اونا دوباره تصادف می کنند؟"
+    },
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "ENGLISH": "Yu-u: Bummer.",
+      "CHINESE_SIMPLIFIED": "小雨: 恋爱脑~",
+      "CHINESE_TRADITIONAL": "小雨: 戀愛腦~",
+      "JAPANESE": "ユウ： 男好き、ヤバ！",
+      "INDONESIAN": "Yu-u: Wah, sial.",
+      "PORTUGUESE": "Yu-u: Que pena.",
+      "RUSSIAN": "Ю-у: Облом.",
+      "FRENCH": "Yu-u : La poisse.",
+      "THAI": "ยู-อู: แย่จัง.",
+      "PERSIAN": "یو یو: بدبخت."
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 33.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "ENGLISH": "Loa: Yeah, they’re staying in Min-jung's room, right?",
+      "CHINESE_SIMPLIFIED": "小罗: 一会儿哥哥们睡敏静的房间对吧?",
+      "CHINESE_TRADITIONAL": "小羅: 一會兒哥哥們睡敏靜的房間對吧?",
+      "JAPANESE": "ロア： ミンジョンの部屋に泊まるのでOK?",
+      "INDONESIAN": "Loa: Iya, mereka tinggal di kamarnya Min-jung, kan?",
+      "PORTUGUESE": "Loa: Sim, eles vão ficar no quarto da Min-jung, né?",
+      "RUSSIAN": "Лоа: Да, они в комнате Мин-Джун остаются, да?",
+      "FRENCH": "Loa : Ouais, ils vont rester dans la chambre de Min-jung, hein ?",
+      "THAI": "โลอา: ใช่สิ พวกเขาจะไปนอนที่ห้องมินจองใช่ไหม?",
+      "PERSIAN": "لوا: آره، اونا در اتاق مین‌جونگ می مانند، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "ENGLISH": "Yu-u: Is there anywhere else? It’s the common room bed, lololololol.",
+      "CHINESE_SIMPLIFIED": "小雨: 也没有其他地方啊~反正是公用床铺hhhh",
+      "CHINESE_TRADITIONAL": "小雨: 也沒有其他地方啊~反正是公用牀鋪hhhh",
+      "JAPANESE": "ユウ： 当たり前じゃん！しかも、共用ベットもあるし。",
+      "INDONESIAN": "Yu-u: Di mana lagi? Tidur di kasur ruang tengah, lololololol.",
+      "PORTUGUESE": "Yu-u: Tem outro lugar? É a cama da sala comum, lololololol.",
+      "RUSSIAN": "Ю-у: А где ещё? Только на кровати в общем зале, лолололол.",
+      "FRENCH": "Yu-u : Et où d’autre ? C’est le lit de la salle commune, lololol.",
+      "THAI": "ยู-อู: แล้วจะไปที่ไหนอีกล่ะ? ก็เตียงในห้องส่วนกลางน่ะสิ lolololol.",
+      "PERSIAN": "یو یو: جای دیگه ای هست؟ این تخت اتاق مشترک است، لولولولول."
+    },
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 40.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "ENGLISH": "Loa: The guys are bringing the drinks, right?",
+      "CHINESE_SIMPLIFIED": "小罗: 哥哥们会买酒过来吧?",
+      "CHINESE_TRADITIONAL": "小羅: 哥哥們會買酒過來吧?",
+      "JAPANESE": "ロア： お酒はフィルムボーイズが買ってきてくれるよね？",
+      "INDONESIAN": "Loa: Mereka bawa minumannya, kan?",
+      "PORTUGUESE": "Loa: Os caras vão trazer as bebidas, certo?",
+      "RUSSIAN": "Лоа: Парни принесут выпивку, да?",
+      "FRENCH": "Loa : Les gars apportent l’alcool, hein ?",
+      "THAI": "โลอา: พวกเขาจะเอาเหล้ามาใช่ไหม?",
+      "PERSIAN": "لوا: بچه ها نوشیدنی ها را می آورند، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 43.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "ENGLISH": "Yu-u: Mingming read this?",
+      "CHINESE_SIMPLIFIED": "小雨: 敏敏已读了呢",
+      "CHINESE_TRADITIONAL": "小雨: 敏敏已讀了呢",
+      "JAPANESE": "ユウ： ミンミン、チャット見てる？",
+      "INDONESIAN": "Yu-u: Mingming baca ini?",
+      "PORTUGUESE": "Yu-u: A Mingming leu isso?",
+      "RUSSIAN": "Ю-у: Минг-Минг это читала?",
+      "FRENCH": "Yu-u : M-Mingming a lu ça ?",
+      "THAI": "ยู-อู: หมิงหมิงอ่านนี่ไปแล้ว?",
+      "PERSIAN": "یو یو: مینگ مینگ اینو خواند؟"
+    },
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 45.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "ENGLISH": "Loa: You're busy with part-time work~ Thank you",
+      "CHINESE_SIMPLIFIED": "小罗: 毕竟人家打工那么忙~谢谢了哈^^",
+      "CHINESE_TRADITIONAL": "小羅: 畢竟人家打工那麼忙~謝謝了哈^^",
+      "JAPANESE": "ロア： バイトで忙しいんでしょ～ ありがとう。",
+      "INDONESIAN": "Loa: Kamu sibuk banget sama kerja part-time~ Terima kasih.",
+      "PORTUGUESE": "Loa: Você tá ocupado com o trabalho part-time~ Obrigado.",
+      "RUSSIAN": "Лоа: Ты занят подработкой~ Спасибо тебе.",
+      "FRENCH": "Loa : Tu bosses en ce moment~ Merci !",
+      "THAI": "โลอา: นายยุ่งอยู่กับงานพาร์ทไทม์~ ขอบใจนะ",
+      "PERSIAN": "لوا: شما مشغول کار پاره وقت هستید~ ممنونم"
+    },
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 48.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "ENGLISH": "(A flyer from Yuman’s parents for a boarding house)",
+      "CHINESE_SIMPLIFIED": "(宥万的合租房传单)",
+      "CHINESE_TRADITIONAL": "(宥萬的合租房傳單)",
+      "JAPANESE": "(ユマンの実家から届いた下宿のチラシ）",
+      "INDONESIAN": "(Sebuah selebaran dari orang tua Yuman tentang rumah kos)",
+      "PORTUGUESE": "(Um folheto dos pais de Yuman sobre a casa compartilhada)",
+      "RUSSIAN": "(Листовка от родителей Юмана про общежитие)",
+      "FRENCH": "(Un flyer des parents de Yuman pour une pension)",
+      "THAI": "(ใบปลิวหอพักจากพ่อแม่ของยูมัน)",
+      "PERSIAN": "(بروشور والدین یومان برای یک پانسیون)"
+    },
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 59.0
+    }
+  }
+]

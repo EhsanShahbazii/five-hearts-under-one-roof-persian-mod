@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "솔로 미쳤다...",
+      "ENGLISH": "Your solo track is insane...",
+      "CHINESE_SIMPLIFIED": "这首歌真是绝了…",
+      "CHINESE_TRADITIONAL": "這首歌真是絕了…",
+      "JAPANESE": "す、すごい……",
+      "INDONESIAN": "Lagu solo kamu gila banget...",
+      "PORTUGUESE": "Sua faixa solo está insana...",
+      "RUSSIAN": "Твой сольный трек просто безумный...",
+      "FRENCH": "Ton morceau solo est incroyable...",
+      "THAI": "เพลงเดี่ยวของเธอมันบ้าไปแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "솔로곡 대박인데요?",
+      "ENGLISH": "seriously, it’s got such a good vibe!",
+      "CHINESE_SIMPLIFIED": "这歌也太好听了！",
+      "CHINESE_TRADITIONAL": "這歌也太好聽了！",
+      "JAPANESE": "ソロ曲、すごくいいじゃないですか！",
+      "INDONESIAN": "serius, vibe-nya keren banget!",
+      "PORTUGUESE": "sério, tem uma vibe muito boa!",
+      "RUSSIAN": "правда, у него такая крутая атмосфера!",
+      "FRENCH": "sérieusement, il a une super vibe !",
+      "THAI": "จริงๆ มันมีบรรยากาศที่ดีสุดๆ!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "다행이다~",
+      "ENGLISH": "Phew, that’s a relief!",
+      "CHINESE_SIMPLIFIED": "那真是太好了! ",
+      "CHINESE_TRADITIONAL": "那真是太好了! ",
+      "JAPANESE": "よかった～！",
+      "INDONESIAN": "Wah, lega rasanya!",
+      "PORTUGUESE": "Ufa, que alívio!",
+      "RUSSIAN": "Фух, это облегчение!",
+      "FRENCH": "Ouf, ça me rassure !",
+      "THAI": "เฮ้อ โล่งใจจัง!"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니 처음 데모 받았는데 느낌이 딱 왔거든요.",
+      "ENGLISH": "Honestly, the moment I heard the demo, I knew it was special.",
+      "CHINESE_SIMPLIFIED": "我第一次听采样的时候就有感觉了!",
+      "CHINESE_TRADITIONAL": "我第一次聽採樣的時候就有感覺了!",
+      "JAPANESE": "デモバージョンをもらった時　これしかないって感じがしたんですよ！",
+      "INDONESIAN": "Jujur, begitu aku dengar demonya, aku tahu ini istimewa.",
+      "PORTUGUESE": "Sinceramente, no momento em que ouvi a demo, eu sabia que era especial.",
+      "RUSSIAN": "Честно говоря, как только я услышала демо, я поняла, что это что-то особенное.",
+      "FRENCH": "Honnêtement, dès que j’ai entendu la démo, j’ai su que c’était spécial.",
+      "THAI": "บอกตรงๆ เลยว่า ตอนที่ฉันได้ยินเดโมครั้งแรก ฉันก็รู้ว่ามันพิเศษ"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 제일 먼저 보내주려던 거 엄청 참았어요~",
+      "ENGLISH": "I’ve been dying to send it to you first but had to hold back!",
+      "CHINESE_SIMPLIFIED": "那时候就想第一时间发给你来着~忍得我好辛苦~",
+      "CHINESE_TRADITIONAL": "那時候就想第一時間發給你來着~忍得我好辛苦~",
+      "JAPANESE": "だから、ユマンさんに聞かせたくて、ずっと我慢してたんですよ！",
+      "INDONESIAN": "Aku sudah nggak sabar ingin mengirimkannya ke kamu duluan, tapi harus menahan diri!",
+      "PORTUGUESE": "Estava morrendo de vontade de te enviar primeiro, mas tive que me segurar!",
+      "RUSSIAN": "Я так хотела отправить его тебе первой, но пришлось сдерживаться!",
+      "FRENCH": "J’avais tellement envie de te l’envoyer en premier, mais j’ai dû me retenir !",
+      "THAI": "ฉันอยากส่งให้เธอฟังก่อนสุดๆ แต่ต้องอดทนไว้!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이제 집 갈까요?",
+      "ENGLISH": "So... shall we head home?",
+      "CHINESE_SIMPLIFIED": "那我们现在回家吧?",
+      "CHINESE_TRADITIONAL": "那我們現在回家吧?",
+      "JAPANESE": "そろそろ、家に帰りましょうか？",
+      "INDONESIAN": "Jadi... kita pulang sekarang?",
+      "PORTUGUESE": "Então... vamos pra casa?",
+      "RUSSIAN": "Так что... поедем домой?",
+      "FRENCH": "Alors... on rentre ?",
+      "THAI": "งั้น... กลับบ้านกันเถอะ?"
+    },
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 14.6
+    }
+  }
+]

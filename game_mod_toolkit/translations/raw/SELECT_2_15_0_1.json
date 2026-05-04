@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저기...",
+      "ENGLISH": "Hey...",
+      "CHINESE_SIMPLIFIED": "请问…",
+      "CHINESE_TRADITIONAL": "請問…",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Hei...",
+      "PORTUGUESE": "Ei...",
+      "RUSSIAN": "Эй...",
+      "FRENCH": "Hé...",
+      "THAI": "เฮ้..."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "잠깐 시간 되세요?",
+      "ENGLISH": "Do you have a moment?",
+      "CHINESE_SIMPLIFIED": "能借一步说话吗?",
+      "CHINESE_TRADITIONAL": "能借一步說話嗎?",
+      "JAPANESE": "ちょっとお時間ありますか？",
+      "INDONESIAN": "Kamu punya waktu sebentar?",
+      "PORTUGUESE": "Você tem um momento?",
+      "RUSSIAN": "У тебя есть минутка?",
+      "FRENCH": "Tu as une minute ?",
+      "THAI": "มีเวลาสักครู่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.9
+    }
+  }
+]

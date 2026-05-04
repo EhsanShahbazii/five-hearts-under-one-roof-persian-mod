@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 갈건데?",
+      "ENGLISH": "I'm really leaving!",
+      "CHINESE_SIMPLIFIED": "那我可真走了啊?",
+      "CHINESE_TRADITIONAL": "那我可真走了啊?",
+      "JAPANESE": "本当に行くけど？",
+      "INDONESIAN": "Aku beneran pergi!",
+      "PORTUGUESE": "Eu tô indo de verdade!",
+      "RUSSIAN": "Я правда ухожу!",
+      "FRENCH": "Je pars vraiment !",
+      "THAI": "ฉันจะไปจริงๆ แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이따 집에서 봐!",
+      "ENGLISH": "See you at home later!",
+      "CHINESE_SIMPLIFIED": "一会儿家里见!",
+      "CHINESE_TRADITIONAL": "一會兒家裏見!",
+      "JAPANESE": "じゃあ、また後で！",
+      "INDONESIAN": "Sampai ketemu di rumah nanti!",
+      "PORTUGUESE": "Te vejo em casa mais tarde!",
+      "RUSSIAN": "Увидимся дома позже!",
+      "FRENCH": "On se voit à la maison plus tard !",
+      "THAI": "ไว้เจอกันที่บ้านนะ!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.5
+    }
+  }
+]

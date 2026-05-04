@@ -1,0 +1,382 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "지금 뭐 하시는 거예요!",
+      "ENGLISH": "What are you doing right now?",
+      "CHINESE_SIMPLIFIED": "你这是在干什么?",
+      "CHINESE_TRADITIONAL": "你這是在幹什麼?",
+      "JAPANESE": "ちょっと、何するんですか！",
+      "INDONESIAN": "Lagi ngapain sekarang?",
+      "PORTUGUESE": "O que você tá fazendo agora?",
+      "RUSSIAN": "Что ты делаешь прямо сейчас?",
+      "FRENCH": "Qu’est-ce que tu fais là ?",
+      "THAI": "ทำอะไรอยู่ตอนนี้?",
+      "PERSIAN": "در حال حاضر چه کار می کنید؟"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "야! 우유만 뭐 해!",
+      "ENGLISH": "Hey! Yuman, what are you doing?",
+      "CHINESE_SIMPLIFIED": "吴宥万别捡了",
+      "CHINESE_TRADITIONAL": "吳宥萬別撿了",
+      "JAPANESE": "ユマン、何してるの！",
+      "INDONESIAN": "Hei! Yuman, kamu lagi ngapain?",
+      "PORTUGUESE": "Ei! Yuman, o que você tá fazendo?",
+      "RUSSIAN": "Эй! Юман, что ты делаешь?",
+      "FRENCH": "Hé ! Yuman, qu’est-ce que tu fais ?",
+      "THAI": "เฮ้! ยูมัน ทำอะไรอยู่?",
+      "PERSIAN": "سلام! یومان، چه کار می کنی؟"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그거 안 내려놔?",
+      "ENGLISH": "Aren’t you going to put that down?",
+      "CHINESE_SIMPLIFIED": "快放下",
+      "CHINESE_TRADITIONAL": "快放下",
+      "JAPANESE": "やめなさいって！",
+      "INDONESIAN": "Kamu gak mau taruh itu?",
+      "PORTUGUESE": "Você não vai largar isso?",
+      "RUSSIAN": "Ты не собираешься это положить?",
+      "FRENCH": "Tu ne vas pas poser ça ?",
+      "THAI": "เธอจะไม่วางลงเหรอ?",
+      "PERSIAN": "قرار نیست اونو زمین بگذاری؟"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "这谁啊?",
+      "CHINESE_TRADITIONAL": "這誰啊?",
+      "JAPANESE": "何だよ。",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "남자친구야?",
+      "ENGLISH": "Is that your boyfriend?",
+      "CHINESE_SIMPLIFIED": "男朋友?",
+      "CHINESE_TRADITIONAL": "男朋友?",
+      "JAPANESE": "彼氏かよ。",
+      "INDONESIAN": "Itu pacarmu ya?",
+      "PORTUGUESE": "Esse é seu namorado?",
+      "RUSSIAN": "Это твой парень?",
+      "FRENCH": "C’est ton copain ?",
+      "THAI": "นั่นแฟนเธอเหรอ?",
+      "PERSIAN": "اون دوست پسرته؟"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아이 왜 돈을 던지고 그러세요~",
+      "ENGLISH": "Why are you throwing money around like that?",
+      "CHINESE_SIMPLIFIED": "您说您扔什么钱啊?",
+      "CHINESE_TRADITIONAL": "您說您扔什麼錢啊?",
+      "JAPANESE": "何でお金を投げるんですか！",
+      "INDONESIAN": "Kenapa kamu lempar-lempar uang kayak gitu?",
+      "PORTUGUESE": "Por que você tá jogando dinheiro assim?",
+      "RUSSIAN": "Почему ты разбрасываешь деньги вот так?",
+      "FRENCH": "Pourquoi tu balances de l’argent comme ça ?",
+      "THAI": "ทำไมเธอโยนเงินแบบนั้นล่ะ?",
+      "PERSIAN": "چرا اینجوری پول میریزی؟"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "何だと？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "라면값에 비해 더 주신 거면",
+      "ENGLISH": "If you’re giving more than what the ramen costs",
+      "CHINESE_SIMPLIFIED": "您给的钱要是比泡面钱多的话",
+      "CHINESE_TRADITIONAL": "您給的錢要是比泡麪錢多的話",
+      "JAPANESE": "ラーメン代より、多く払ったのなら",
+      "INDONESIAN": "Kalau kamu bayar lebih dari harga ramen,",
+      "PORTUGUESE": "Se você tá dando mais do que o preço do ramen,",
+      "RUSSIAN": "Если ты платишь больше, чем стоит рамэн,",
+      "FRENCH": "Si tu donnes plus que le prix des ramens,",
+      "THAI": "ถ้าเธอให้เกินกว่าราคาของราเม็ง",
+      "PERSIAN": "اگر بیشتر از هزینه رامن می دهید"
+    },
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "거스름돈은 챙기셔야죠~",
+      "ENGLISH": "You should take your change!",
+      "CHINESE_SIMPLIFIED": "还给您找零啊",
+      "CHINESE_TRADITIONAL": "還給您找零啊",
+      "JAPANESE": "お釣りは受け取るべきじゃないですか？",
+      "INDONESIAN": "Kamu harus ambil kembalianmu!",
+      "PORTUGUESE": "Você devia pegar seu troco!",
+      "RUSSIAN": "забери сдачу!",
+      "FRENCH": "prends ta monnaie !",
+      "THAI": "ก็เก็บเงินทอนด้วยสิ!",
+      "PERSIAN": "شما باید پول خرد خود را بگیرید!"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "내가 그깟 돈에 연연하는 거 같아?",
+      "ENGLISH": "Do I look like someone who cares about that kind of money? ",
+      "CHINESE_SIMPLIFIED": "你以为我差那几个钱吗?",
+      "CHINESE_TRADITIONAL": "你以爲我差那幾個錢嗎?",
+      "JAPANESE": "俺がその程度のお金にこだわってると思ってるのか？",
+      "INDONESIAN": "Aku kelihatan kayak orang yang peduli sama uang kayak gitu?",
+      "PORTUGUESE": "Eu pareço alguém que se importa com esse tipo de dinheiro?",
+      "RUSSIAN": "Я похож на того, кого волнуют такие деньги?",
+      "FRENCH": "J’ai l’air de quelqu’un qui se soucie de ce genre d’argent ?",
+      "THAI": "ฉันดูเหมือนคนที่สนใจเงินพวกนี้ไหม?",
+      "PERSIAN": "من شبیه کسی هستم که به این نوع پول اهمیت می دهد؟"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그리고",
+      "ENGLISH": "And",
+      "CHINESE_SIMPLIFIED": "不过",
+      "CHINESE_TRADITIONAL": "不過",
+      "JAPANESE": "それに、",
+      "INDONESIAN": "Dan",
+      "PORTUGUESE": "E",
+      "RUSSIAN": "И",
+      "FRENCH": "Et",
+      "THAI": "และ",
+      "PERSIAN": "و"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "덜 주신 거면",
+      "ENGLISH": "If you didn’t give enough,",
+      "CHINESE_SIMPLIFIED": "你要是少给了的话",
+      "CHINESE_TRADITIONAL": "你要是少給了的話",
+      "JAPANESE": "足りなかったら",
+      "INDONESIAN": "Kalau kamu kurang bayar,",
+      "PORTUGUESE": "Se não pagou o suficiente,",
+      "RUSSIAN": "если заплатил меньше,",
+      "FRENCH": "si tu n’as pas donné assez,",
+      "THAI": "ถ้าเธอให้ไม่พอ",
+      "PERSIAN": "اگر به اندازه کافی ندادید،"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "돈을 더 내셔야 될 거 같아요.",
+      "ENGLISH": "then you should pay the difference.",
+      "CHINESE_SIMPLIFIED": "就得乖乖补上",
+      "CHINESE_TRADITIONAL": "就得乖乖補上",
+      "JAPANESE": "もっと支払っていただけないと困るんですけど。",
+      "INDONESIAN": "Ya kamu harus bayar sisanya.",
+      "PORTUGUESE": "Você tem que pagar o resto.",
+      "RUSSIAN": "тогда доплати разницу.",
+      "FRENCH": "tu devrais payer la différence.",
+      "THAI": "เธอก็ควรจะจ่ายส่วนต่างให้ครบ",
+      "PERSIAN": "سپس شما باید تفاوت را پرداخت کنید."
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "하!",
+      "ENGLISH": "Hah!",
+      "CHINESE_SIMPLIFIED": "哈!",
+      "CHINESE_TRADITIONAL": "哈!",
+      "JAPANESE": "はぁ？",
+      "INDONESIAN": "Hah!",
+      "PORTUGUESE": "Hah!",
+      "RUSSIAN": "Ха!",
+      "FRENCH": "Hah !",
+      "THAI": "หึ!",
+      "PERSIAN": "هه!"
+    },
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 24.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "너 말 잘한다?",
+      "ENGLISH": "You’ve got quite the mouth on you.",
+      "CHINESE_SIMPLIFIED": "你挺能说啊？",
+      "CHINESE_TRADITIONAL": "你挺能說啊？",
+      "JAPANESE": "お前、生意気だな？",
+      "INDONESIAN": "Kamu pinter ngomong juga ya.",
+      "PORTUGUESE": "Você tem uma boca afiada, hein.",
+      "RUSSIAN": "Да у тебя ещё какой характер.",
+      "FRENCH": "Quel culot, toi.",
+      "THAI": "ปากเก่งเหมือนกันนี่นะ",
+      "PERSIAN": "شما کاملاً دهان خود را گرفته اید."
+    },
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "말숙아, 또 주문 들어오겠다.",
+      "ENGLISH": "Mal-sook, we’ll probably get another order soon.",
+      "CHINESE_SIMPLIFIED": "末淑，一会儿又该有订单了",
+      "CHINESE_TRADITIONAL": "末淑，一會兒又該有訂單了",
+      "JAPANESE": "マルスク、また注文が入るかもしれないから",
+      "INDONESIAN": "Mal-sook, kita mungkin dapat pesanan lagi sebentar lagi.",
+      "PORTUGUESE": "Mal-sook, provavelmente vai chegar outro pedido logo.",
+      "RUSSIAN": "Мал-Сук, у нас, вероятно, скоро будет ещё заказ.",
+      "FRENCH": "Mal-sook, on va probablement avoir une autre commande bientôt.",
+      "THAI": "มัลซุก เราอาจจะมีออเดอร์เข้ามาอีกเร็วๆ นี้",
+      "PERSIAN": "مال‌سوک، احتمالاً به زودی سفارش دیگری دریافت خواهیم کرد."
+    },
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "카운터 가 있어!",
+      "ENGLISH": "Go back to the counter! ",
+      "CHINESE_SIMPLIFIED": "你去前台吧",
+      "CHINESE_TRADITIONAL": "你去前臺吧",
+      "JAPANESE": "カウンターに行っていて！",
+      "INDONESIAN": "Balik ke kasir!",
+      "PORTUGUESE": "Volta pro balcão!",
+      "RUSSIAN": "Возвращайся к стойке!",
+      "FRENCH": "Retourne au comptoir !",
+      "THAI": "กลับไปที่เคาน์เตอร์เถอะ!",
+      "PERSIAN": "به پیشخوان برگرد!"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "내가 정리할게",
+      "ENGLISH": "I’ll handle this.",
+      "CHINESE_SIMPLIFIED": "这我来处理",
+      "CHINESE_TRADITIONAL": "這我來處理",
+      "JAPANESE": "ここは俺が何とかするから。",
+      "INDONESIAN": "Biar aku urus ini.",
+      "PORTUGUESE": "Eu cuido disso.",
+      "RUSSIAN": "Я займусь этим.",
+      "FRENCH": "Je m’en occupe.",
+      "THAI": "ฉันจะจัดการเอง",
+      "PERSIAN": "من این کار را انجام خواهم داد"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "응...",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "分かった…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tá bom...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "โอเค...",
+      "PERSIAN": "چشم، ممنون..."
+    },
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.0
+    }
+  }
+]

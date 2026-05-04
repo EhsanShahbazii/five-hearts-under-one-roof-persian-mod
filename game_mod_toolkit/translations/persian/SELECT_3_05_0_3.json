@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와!",
+      "ENGLISH": "Wow!",
+      "CHINESE_SIMPLIFIED": "哇!",
+      "CHINESE_TRADITIONAL": "哇!",
+      "JAPANESE": "わあ！",
+      "INDONESIAN": "Wow!",
+      "PORTUGUESE": "Uau!",
+      "RUSSIAN": "Вау!",
+      "FRENCH": "Wow !",
+      "THAI": "ว้าว!",
+      "PERSIAN": "عجب!"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오락실 진짜 오랜만이다!",
+      "ENGLISH": "It’s been ages since I’ve been to an arcade!",
+      "CHINESE_SIMPLIFIED": "我真的是好久都没来游戏厅了!",
+      "CHINESE_TRADITIONAL": "我真的是好久都沒來遊戲廳了!",
+      "JAPANESE": "ゲームセンター、本当に久しぶりだ！",
+      "INDONESIAN": "Udah lama banget aku nggak ke arcade!",
+      "PORTUGUESE": "Faz séculos que eu não vou a um arcade!",
+      "RUSSIAN": "Я так давно не был в аркаде!",
+      "FRENCH": "Ça fait une éternité que je ne suis pas allé(e) dans une arcade !",
+      "THAI": "ไม่ได้มาที่อาร์เคดตั้งนานแล้ว!",
+      "PERSIAN": "از زمانی که به یک آرکید نرفته ام، سال ها می گذرد!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "여긴 그대로네?",
+      "ENGLISH": "It’s just like I remember!",
+      "CHINESE_SIMPLIFIED": "这里一点都没变!",
+      "CHINESE_TRADITIONAL": "這裏一點都沒變!",
+      "JAPANESE": "ここ、昔と変わってないね？",
+      "INDONESIAN": "Persis kayak yang aku ingat!",
+      "PORTUGUESE": "Tá igualzinho ao que eu lembro!",
+      "RUSSIAN": "Всё точно как я помню!",
+      "FRENCH": "C’est exactement comme dans mes souvenirs !",
+      "THAI": "ทุกอย่างเหมือนที่ฉันจำได้เลย!",
+      "PERSIAN": "درست مثل اینکه یادمه!"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 우리 뭐 할까?",
+      "ENGLISH": "What should we do, Oppa?",
+      "CHINESE_SIMPLIFIED": "我们玩什么好呢?",
+      "CHINESE_TRADITIONAL": "我們玩什麼好呢?",
+      "JAPANESE": "お兄ちゃん、私たち何しようか？",
+      "INDONESIAN": "Kita main apa, Oppa?",
+      "PORTUGUESE": "O que vamos jogar, Oppa?",
+      "RUSSIAN": "Чем займёмся, оппа?",
+      "FRENCH": "On fait quoi, oppa ?",
+      "THAI": "เราจะทำอะไรกันดี อปป้า?",
+      "PERSIAN": "چیکار کنیم یومان؟"
+    },
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.76
+    }
+  }
+]

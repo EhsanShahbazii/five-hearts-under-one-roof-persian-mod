@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이리로 도망간 거 아니야?",
+      "ENGLISH": "Did they run this way?",
+      "CHINESE_SIMPLIFIED": "不会是逃到这里了吧?",
+      "CHINESE_TRADITIONAL": "不會是逃到這裏了吧?",
+      "JAPANESE": "こっちに逃げたんじゃないか？",
+      "INDONESIAN": "Mereka lari ke arah sini?",
+      "PORTUGUESE": "Eles correram pra cá?",
+      "RUSSIAN": "Они побежали сюда?",
+      "FRENCH": "Ils sont partis par ici ?",
+      "THAI": "พวกเขาวิ่งมาทางนี้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.95
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야...!",
+      "ENGLISH": "What the...!",
+      "CHINESE_SIMPLIFIED": "什么情况…!",
+      "CHINESE_TRADITIONAL": "什麼情況…!",
+      "JAPANESE": "何だよ…！",
+      "INDONESIAN": "Apa-apaan nih...!",
+      "PORTUGUESE": "Que droga...!",
+      "RUSSIAN": "Что за...?!",
+      "FRENCH": "C’est quoi ce bordel... ?!",
+      "THAI": "นี่มันบ้าอะไรกันเนี่ย...?!"
+    },
+    "TIME": {
+      "SHOW": 6.95,
+      "HIDE": 8.2
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야, 고은비! 일어나봐!",
+      "ENGLISH": "Hey! Go Eun-bi! Get up!",
+      "CHINESE_SIMPLIFIED": "喂！高恩妃！起来啦",
+      "CHINESE_TRADITIONAL": "喂！高恩妃！起來啦",
+      "JAPANESE": "おい、ウンビ！起きろよ！",
+      "INDONESIAN": "Hei! Go Eun-bi! Bangun!",
+      "PORTUGUESE": "Ei! Go Eun-bi! Levanta!",
+      "RUSSIAN": "Эй! Го Ын-би! Вставай!",
+      "FRENCH": "Hé ! Go Eun-bi ! Lève-toi !",
+      "THAI": "เฮ้! โก อึนบี! ตื่นสิ!",
+      "PERSIAN": "سلام! برو یون بی! برخیز!"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.2
+    }
+  }
+]

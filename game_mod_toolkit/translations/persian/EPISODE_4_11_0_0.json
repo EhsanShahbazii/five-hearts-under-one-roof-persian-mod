@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "도대체 이게 무슨 일이야...",
+      "ENGLISH": "What in the world is going on here...?",
+      "CHINESE_SIMPLIFIED": "这到底是怎么回事啊…",
+      "CHINESE_TRADITIONAL": "這到底是怎麼回事啊…",
+      "JAPANESE": "一体、どういうことなんだ…？",
+      "INDONESIAN": "Apa-apaan sih ini...?",
+      "PORTUGUESE": "O que está acontecendo aqui...?",
+      "RUSSIAN": "Что, черт возьми, здесь происходит...",
+      "FRENCH": "Qu’est-ce qui se passe ici... ?",
+      "THAI": "นี่มันเกิดอะไรขึ้นที่นี่...",
+      "PERSIAN": "اینجا چه خبره...؟"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.7
+    }
+  }
+]

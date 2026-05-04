@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어, 은비야 잠 깼어?",
+      "ENGLISH": "Eun-bi, did you wake up?",
+      "CHINESE_SIMPLIFIED": "恩妃你醒了?",
+      "CHINESE_TRADITIONAL": "恩妃你醒了?",
+      "JAPANESE": "あ、ウンビ、起きた…？",
+      "INDONESIAN": "Eun-bi, kamu udah bangun?",
+      "PORTUGUESE": "Eun-bi, você acordou?",
+      "RUSSIAN": "Ын-би, ты проснулась?",
+      "FRENCH": "Eun-bi, tu t’es réveillée ?",
+      "THAI": "อึนบี เธอตื่นแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 가서 다시 자.",
+      "ENGLISH": "Go back to sleep.",
+      "CHINESE_SIMPLIFIED": "你快回去接着睡吧",
+      "CHINESE_TRADITIONAL": "你快回去接着睡吧",
+      "JAPANESE": "早く戻って寝よう。",
+      "INDONESIAN": "Tidur lagi, ya.",
+      "PORTUGUESE": "Volta a dormir.",
+      "RUSSIAN": "Иди спать.",
+      "FRENCH": "Retourne te coucher.",
+      "THAI": "กลับไปนอนเถอะ"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "왜~ 나도 들어갈래~",
+      "ENGLISH": "Why~ I want to go in too~",
+      "CHINESE_SIMPLIFIED": "怎么了?我也要进去~",
+      "CHINESE_TRADITIONAL": "怎麼了?我也要進去~",
+      "JAPANESE": "何で～私も入りたい～",
+      "INDONESIAN": "Kenapa~ Aku juga mau ikut masuk~",
+      "PORTUGUESE": "Por quê~ Eu também quero entrar~",
+      "RUSSIAN": "Почему~ Я тоже хочу зайти~",
+      "FRENCH": "Pourquoi~ Moi aussi, je veux entrer~",
+      "THAI": "ทำไมล่ะ~ ฉันก็อยากเข้าไปด้วย~"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 가서 다시 자라니까.",
+      "ENGLISH": "Go back to sleep.",
+      "CHINESE_SIMPLIFIED": "你快回去接着睡吧",
+      "CHINESE_TRADITIONAL": "你快回去接着睡吧",
+      "JAPANESE": "早く寝なってば。",
+      "INDONESIAN": "Tidur lagi.",
+      "PORTUGUESE": "Volta a dormir.",
+      "RUSSIAN": "Иди спать.",
+      "FRENCH": "Retourne te coucher.",
+      "THAI": "กลับไปนอนเถอะ"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 우유만 힘쓰네?",
+      "ENGLISH": "What's with just the milk strength?",
+      "CHINESE_SIMPLIFIED": "你在跟我用劲?",
+      "CHINESE_TRADITIONAL": "你在跟我用勁?",
+      "JAPANESE": "何それ、力持ちね？",
+      "INDONESIAN": "Apa sih ini, cuma kekuatan susu doang?",
+      "PORTUGUESE": "O que é isso, só força do leite?",
+      "RUSSIAN": "И что за силы только от молока?",
+      "FRENCH": "C’est quoi cette histoire de “force du lait” ?",
+      "THAI": "แค่ดื่มนมแล้วมีแรงขนาดนี้เลยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어억...!",
+      "ENGLISH": "ARGH!",
+      "CHINESE_SIMPLIFIED": "呃啊...!",
+      "CHINESE_TRADITIONAL": "呃啊...!",
+      "JAPANESE": "うっ…！",
+      "INDONESIAN": "ARGH!",
+      "PORTUGUESE": "ARGH!",
+      "RUSSIAN": "АААА!",
+      "FRENCH": "ARGH !",
+      "THAI": "อ๊ากกก!"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야? 누구세요?",
+      "ENGLISH": "What? Who are you?",
+      "CHINESE_SIMPLIFIED": "谁啊? 你是谁?",
+      "CHINESE_TRADITIONAL": "誰啊? 你是誰?",
+      "JAPANESE": "何？誰ですか？",
+      "INDONESIAN": "Apa? Kamu siapa?",
+      "PORTUGUESE": "O quê? Quem é você?",
+      "RUSSIAN": "Что? Кто ты?",
+      "FRENCH": "Quoi ? T’es qui, toi ?",
+      "THAI": "อะไรนะ? เธอเป็นใคร?"
+    },
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 이 사람 누구야?",
+      "ENGLISH": "Oppa, who is this person?",
+      "CHINESE_SIMPLIFIED": "哥哥这人是谁啊?",
+      "CHINESE_TRADITIONAL": "哥哥這人是誰啊?",
+      "JAPANESE": "お兄ちゃん、この人誰？",
+      "INDONESIAN": "Oppa, siapa orang ini?",
+      "PORTUGUESE": "Oppa, quem é essa pessoa?",
+      "RUSSIAN": "Оппа, кто это?",
+      "FRENCH": "Oppa, c’est qui cette personne ?",
+      "THAI": "พี่ คนนี้ใครเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.4
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "포기하는 게 좋지 않을까?",
+      "ENGLISH": "Maybe she should give up?",
+      "CHINESE_SIMPLIFIED": "我感觉她还是放弃比较好",
+      "CHINESE_TRADITIONAL": "我感覺她還是放棄比較好",
+      "JAPANESE": "諦めたほうがいいんじゃない？",
+      "INDONESIAN": "Mungkin dia harus menyerah?",
+      "PORTUGUESE": "Talvez ela devesse desistir?",
+      "RUSSIAN": "Может, ей стоит сдаться?",
+      "FRENCH": "Peut-être qu’elle devrait abandonner ?",
+      "THAI": "บางทีเธอควรจะยอมแพ้ไหม?",
+      "PERSIAN": "شاید او باید تسلیم شود؟"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜...?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么…?",
+      "CHINESE_TRADITIONAL": "爲什麼…?",
+      "JAPANESE": "何で…？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมล่ะ?",
+      "PERSIAN": "Why?"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 서로 피곤해질 거 같은데?",
+      "ENGLISH": "It’ll just make things hard for both of them. ",
+      "CHINESE_SIMPLIFIED": "不然大家都会很心累",
+      "CHINESE_TRADITIONAL": "不然大家都會很心累",
+      "JAPANESE": "お互い疲れるだけだと思うけど。",
+      "INDONESIAN": "Itu hanya akan membuat semuanya jadi sulit untuk mereka berdua.",
+      "PORTUGUESE": "Isso só vai dificultar as coisas para os dois.",
+      "RUSSIAN": "Это только всё усложнит для них обоих.",
+      "FRENCH": "Ça ne ferait que compliquer les choses pour eux deux.",
+      "THAI": "มันจะทำให้ทุกอย่างลำบากขึ้นสำหรับพวกเขาทั้งคู่",
+      "PERSIAN": "فقط کار را برای هر دوی اونا سخت می کند."
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그러는 거 남자들이 별로 안 좋아할걸?",
+      "ENGLISH": "Guys don't usually like that kind of persistence.",
+      "CHINESE_SIMPLIFIED": "男人可不喜欢死缠烂打",
+      "CHINESE_TRADITIONAL": "男人可不喜歡死纏爛打",
+      "JAPANESE": "そういうの、男ってあんまり好きじゃないと思うけど。",
+      "INDONESIAN": "Cowok biasanya nggak suka sama yang terlalu gigih begitu.",
+      "PORTUGUESE": "Os caras geralmente não gostam de tanta insistência assim.",
+      "RUSSIAN": "Парни обычно не любят такую настойчивость.",
+      "FRENCH": "Les gars n’aiment généralement pas cette persistance.",
+      "THAI": "ผู้ชายส่วนใหญ่ไม่ชอบความดื้อรั้นแบบนี้",
+      "PERSIAN": "پسرها معمولاً این نوع پشتکار را دوست ندارند."
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "오빠도 그런 거 별로 안 좋아해?",
+      "ENGLISH": "Do you dislike it too?",
+      "CHINESE_SIMPLIFIED": "哥哥你也不喜欢吗?",
+      "CHINESE_TRADITIONAL": "哥哥你也不喜歡嗎?",
+      "JAPANESE": "お兄ちゃんもそういうのあんまり好きじゃないの？",
+      "INDONESIAN": "Kamu juga nggak suka?",
+      "PORTUGUESE": "Você também não gosta?",
+      "RUSSIAN": "Ты тоже это не любишь?",
+      "FRENCH": "Toi aussi tu n’aimes pas ça ?",
+      "THAI": "เธอก็ไม่ชอบด้วยใช่ไหม?",
+      "PERSIAN": "شما هم اونو دوست ندارید؟"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "비슷할 거 같은데?",
+      "ENGLISH": "Yeah, probably.",
+      "CHINESE_SIMPLIFIED": "我也差不多吧",
+      "CHINESE_TRADITIONAL": "我也差不多吧",
+      "JAPANESE": "まあ、そうかな？",
+      "INDONESIAN": "Iya, mungkin aja.",
+      "PORTUGUESE": "Sim, provavelmente.",
+      "RUSSIAN": "Да, наверное.",
+      "FRENCH": "Ouais, probablement.",
+      "THAI": "ใช่, อาจจะนะ",
+      "PERSIAN": "آره احتمالا"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "몰라! 나 먼저 갈래.",
+      "ENGLISH": "Whatever! I'm going first.",
+      "CHINESE_SIMPLIFIED": "算了, 我先走了!",
+      "CHINESE_TRADITIONAL": "算了, 我先走了!",
+      "JAPANESE": "もう、知らない！私、先に帰る！",
+      "INDONESIAN": "Terserah! Aku pergi duluan.",
+      "PORTUGUESE": "Tanto faz! Vou na frente.",
+      "RUSSIAN": "Какая разница! Я первая.",
+      "FRENCH": "Peu importe ! Je passe devant.",
+      "THAI": "ช่างมันเถอะ! ฉันไปก่อนแล้ว",
+      "PERSIAN": "هر چه باشد! من اول میرم"
+    },
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "고은비 같이 가!",
+      "ENGLISH": "Go Eun-bi, wait up!",
+      "CHINESE_SIMPLIFIED": "高恩妃!一起走啊!",
+      "CHINESE_TRADITIONAL": "高恩妃!一起走啊!",
+      "JAPANESE": "ウンビ！一人で帰って、どうするんだよ！",
+      "INDONESIAN": "Go Eun-bi, tunggu dulu!",
+      "PORTUGUESE": "Go Eun-bi, espera aí!",
+      "RUSSIAN": "Го Ын-би, подожди!",
+      "FRENCH": "Go Eun-bi, attends !",
+      "THAI": "โก อึนบี, เดี๋ยวก่อน!",
+      "PERSIAN": "برو یون بی، صبر کن!"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 23.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "고은비~ 같이 가!",
+      "ENGLISH": "Go Eun-bi~ wait up!",
+      "CHINESE_SIMPLIFIED": "高恩妃~一起走啊!",
+      "CHINESE_TRADITIONAL": "高恩妃~一起走啊!",
+      "JAPANESE": "危ないだろ！",
+      "INDONESIAN": "Go Eun-bi~ tunggu!",
+      "PORTUGUESE": "Go Eun-bi~ espera!",
+      "RUSSIAN": "Го Ын-би~ подожди!",
+      "FRENCH": "Go Eun-bi~ attends !",
+      "THAI": "โก อึนบี~ เดี๋ยวก่อน!",
+      "PERSIAN": "برو یون بی ~ صبر کن!"
+    },
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 26.5
+    }
+  }
+]

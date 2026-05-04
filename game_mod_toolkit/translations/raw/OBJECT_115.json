@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 오늘 이것도 붙여야 되는데...",
+      "ENGLISH": "(A flyer from Yuman’s parents for a boarding house)\nOh, I need to post this today too...",
+      "CHINESE_SIMPLIFIED": "(宥万父母给的合租房传单)\n啊，今天还得去贴这个…",
+      "CHINESE_TRADITIONAL": "(宥萬父母給的合租房傳單)\n啊，今天還得去貼這個…",
+      "JAPANESE": "ああ、これも今日、終わらせないといけないのに…",
+      "INDONESIAN": "(Selebaran dari orang tua Yuman untuk rumah kos)\nOh, aku harus pasang ini hari ini juga...",
+      "PORTUGUESE": "(Um folheto dos pais do Yuman para uma pensão)\nAh, eu preciso postar isso hoje também...",
+      "RUSSIAN": "(Листовка от родителей Юмана о пансионате)\nО, мне нужно выложить это сегодня...",
+      "FRENCH": "(Flyer des parents de Yuman pour une pension)\nOh, je dois aussi afficher ça aujourd'hui...",
+      "THAI": "(ใบปลิวจากพ่อแม่ของยูมันสำหรับหอพัก)\nโอ้ ฉันต้องเอาไปติดวันนี้ด้วย..."
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.57
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "시간이 될까?",
+      "ENGLISH": "Will I have time?",
+      "CHINESE_SIMPLIFIED": "也不知道来不来得及",
+      "CHINESE_TRADITIONAL": "也不知道來不來得及",
+      "JAPANESE": "時間間に合うかな？",
+      "INDONESIAN": "Apakah aku sempat?",
+      "PORTUGUESE": "Será que vai dar tempo?",
+      "RUSSIAN": "Успею ли я?",
+      "FRENCH": "Aurais-je le temps ?",
+      "THAI": "ฉันจะมีเวลารึเปล่านะ?"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.4
+    }
+  }
+]

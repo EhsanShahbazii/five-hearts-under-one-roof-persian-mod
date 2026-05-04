@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얘는... 개구리를 참 좋아해?",
+      "ENGLISH": "She... really loves frogs!",
+      "CHINESE_SIMPLIFIED": "她是...真的很喜欢青蛙啊!",
+      "CHINESE_TRADITIONAL": "她是...真的很喜歡青蛙啊!",
+      "JAPANESE": "マルスク…ほんとカエルが好きだな。",
+      "INDONESIAN": "Dia... bener-bener suka katak!",
+      "PORTUGUESE": "Ela... realmente ama sapos!",
+      "RUSSIAN": "Она... действительно обожает лягушек!",
+      "FRENCH": "Elle... adore vraiment les grenouilles !",
+      "THAI": "เธอ...ชอบกบมากจริง ๆ เลย!"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.6
+    }
+  }
+]

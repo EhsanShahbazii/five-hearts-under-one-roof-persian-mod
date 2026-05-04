@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "INFJ가 아니라고요?",
+      "ENGLISH": "You're not an INFJ?",
+      "CHINESE_SIMPLIFIED": "你居然不是INFJ?",
+      "CHINESE_TRADITIONAL": "你居然不是INFJ?",
+      "JAPANESE": "INFJじゃないって？",
+      "INDONESIAN": "Kamu bukan INFJ?",
+      "PORTUGUESE": "Você não é INFJ?",
+      "RUSSIAN": "Ты не INFJ?",
+      "FRENCH": "T’es pas INFJ ?",
+      "THAI": "นายไม่ใช่ INFJ เหรอ?",
+      "PERSIAN": "شما INFJ نیستید؟"
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼요!",
+      "ENGLISH": "That’s impossible!",
+      "CHINESE_SIMPLIFIED": "不会吧?",
+      "CHINESE_TRADITIONAL": "不會吧?",
+      "JAPANESE": "ありえない！",
+      "INDONESIAN": "Itu mustahil!",
+      "PORTUGUESE": "Isso é impossível!",
+      "RUSSIAN": "Это просто невозможно!",
+      "FRENCH": "C’est pas possible !",
+      "THAI": "เป็นไปไม่ได้เด็ดขาด!",
+      "PERSIAN": "این غیر ممکنه!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.8
+    }
+  }
+]

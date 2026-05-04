@@ -1,0 +1,198 @@
+[
+  {
+    "INDEX": 1.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 2일 전 -",
+      "ENGLISH": "- 2 days ago -",
+      "CHINESE_SIMPLIFIED": "- 2天前 -",
+      "CHINESE_TRADITIONAL": "- 2天前 -",
+      "JAPANESE": "- 2日前 -",
+      "INDONESIAN": "- 2 hari yang lalu -",
+      "PORTUGUESE": "- 2 dias atrás -",
+      "RUSSIAN": "- 2 дня назад -",
+      "FRENCH": "- Il y a 2 jours -",
+      "THAI": "- 2 วันที่แล้ว -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "โอปป้า!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "โอปป้า!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "干什么",
+      "CHINESE_TRADITIONAL": "幹什麼",
+      "JAPANESE": "なんで？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "— Что?",
+      "FRENCH": "— Quoi ?",
+      "THAI": "— อะไร?"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 오빠네 회사 놀러가도 돼?",
+      "ENGLISH": "Can I visit your office today?",
+      "CHINESE_SIMPLIFIED": "我可以去哥哥的公司玩吗?",
+      "CHINESE_TRADITIONAL": "我可以去哥哥的公司玩嗎?",
+      "JAPANESE": "私、お兄ちゃんの会社に遊びに行ってもいい？",
+      "INDONESIAN": "Boleh aku mengunjungi kantormu hari ini?",
+      "PORTUGUESE": "Posso visitar seu escritório hoje?",
+      "RUSSIAN": "Можно я сегодня зайду к тебе в офис?",
+      "FRENCH": "Je peux passer te voir au bureau aujourd’hui ?",
+      "THAI": "ฉันไปหานายที่ออฟฟิศวันนี้ได้ไหม?"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안 돼",
+      "ENGLISH": "No.",
+      "CHINESE_SIMPLIFIED": "不行",
+      "CHINESE_TRADITIONAL": "不行",
+      "JAPANESE": "ダメだよ。",
+      "INDONESIAN": "Nggak.",
+      "PORTUGUESE": "Não.",
+      "RUSSIAN": "— Нет.",
+      "FRENCH": "— Non.",
+      "THAI": "— ไม่ได้"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "치 미워! -ㅅ-",
+      "ENGLISH": "Ugh, you’re so mean! ;(",
+      "CHINESE_SIMPLIFIED": "切，讨厌! (｡•ˇ‸ˇ•｡)",
+      "CHINESE_TRADITIONAL": "切，討厭! (｡•ˇ‸ˇ•｡)",
+      "JAPANESE": "ちぇ、嫌い！ (｡•ˇ‸ˇ•｡)",
+      "INDONESIAN": "Ugh, jahat banget sih kamu! ;(",
+      "PORTUGUESE": "Ah, que maldade! ;(",
+      "RUSSIAN": "— Уф, ты такой вредный! ;(",
+      "FRENCH": "— Oh, t’es trop méchant ! ;(",
+      "THAI": "— อ๊า ใจร้ายจังเลย! ;("
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 이따 개강 파티 끝나면 데리러 와 줘!",
+      "ENGLISH": "Oppa, can you pick me up after the party tonight?",
+      "CHINESE_SIMPLIFIED": "哥哥，一会开学典礼结束后来接我吧!",
+      "CHINESE_TRADITIONAL": "哥哥，一會開學典禮結束後來接我吧!",
+      "JAPANESE": "お兄ちゃん！後で、大学の開講パーティー終わったら迎えに来て！",
+      "INDONESIAN": "Oppa, bisa jemput aku setelah pesta malam ini?",
+      "PORTUGUESE": "Oppa, você pode me buscar depois da festa hoje à noite?",
+      "RUSSIAN": "Оппа, ты можешь забрать меня после вечеринки сегодня?",
+      "FRENCH": "Oppa, tu peux venir me chercher après la soirée ce soir ?",
+      "THAI": "โอปป้า มารับฉันหลังปาร์ตี้คืนนี้ได้ไหม?"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "EPISODE_INDEX": 61710.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "EPISODE_INDEX": 61710.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 이따 아홉 시!!!",
+      "ENGLISH": "9 PM, okay?",
+      "CHINESE_SIMPLIFIED": "哥哥, 9点钟哦!",
+      "CHINESE_TRADITIONAL": "哥哥, 9點鐘哦!",
+      "JAPANESE": "お兄ちゃん、9時に迎えに来てね！",
+      "INDONESIAN": "Jam 9 malam, oke?",
+      "PORTUGUESE": "Às 21h, tudo bem?",
+      "RUSSIAN": "В 9 вечера, договорились?",
+      "FRENCH": "21h, ça te va ?",
+      "THAI": "สามทุ่ม โอเคไหม?"
+    }
+  }
+]

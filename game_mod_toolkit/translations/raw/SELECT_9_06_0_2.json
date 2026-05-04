@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얼굴이 진짜 예쁘시잖아요.",
+      "ENGLISH": "Their face is really pretty, too.",
+      "CHINESE_SIMPLIFIED": "因为她的真的好漂亮!",
+      "CHINESE_TRADITIONAL": "因爲她的真的好漂亮!",
+      "JAPANESE": "すごく、美人じゃないですか？",
+      "INDONESIAN": "Wajah mereka juga cantik banget.",
+      "PORTUGUESE": "O rosto deles é muito bonito também.",
+      "RUSSIAN": "У них и лицо очень красивое.",
+      "FRENCH": "Son visage est vraiment joli, aussi.",
+      "THAI": "หน้าของเขาก็สวยมากเหมือนกัน"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그렇지 그렇지",
+      "ENGLISH": "Yeah, Yeah",
+      "CHINESE_SIMPLIFIED": "这确实",
+      "CHINESE_TRADITIONAL": "這確實",
+      "JAPANESE": "確かに、そうだな！",
+      "INDONESIAN": "Iya, iya.",
+      "PORTUGUESE": "Sim, sim.",
+      "RUSSIAN": "Да-да.",
+      "FRENCH": "Oui, oui.",
+      "THAI": "ใช่ๆ"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "성격은 좀 유별나도 누굴 닮았는지 얼굴은 참 예쁘지.",
+      "ENGLISH": "Even if their personality's a bit quirky, they're undeniably attractive.",
+      "CHINESE_SIMPLIFIED": "虽然脾气差了点，但长相确实是没的挑，也不知道是像谁",
+      "CHINESE_TRADITIONAL": "雖然脾氣差了點，但長相確實是沒的挑，也不知道是像誰",
+      "JAPANESE": "性格はちょっと変わってるけど、誰に似たんだか本当に美人だよね。",
+      "INDONESIAN": "Meskipun kepribadiannya agak unik, mereka tetap sangat menarik.",
+      "PORTUGUESE": "Mesmo que a personalidade seja um pouco peculiar, são inegavelmente atraentes.",
+      "RUSSIAN": "И пусть характер немного странный, но они неоспоримо привлекательны.",
+      "FRENCH": "Même si sa personnalité est un peu excentrique, elle est indéniablement attirante.",
+      "THAI": "ถึงบุคลิกจะดูแปลกไปหน่อย แต่เขาก็มีเสน่ห์สุดๆ"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "라고들 얘기하는 걸 내가 얼핏 들었어요!",
+      "ENGLISH": "That's what I've heard people say!",
+      "CHINESE_SIMPLIFIED": "这也是我无意间听到大家说的",
+      "CHINESE_TRADITIONAL": "這也是我無意間聽到大家說的",
+      "JAPANESE": "っていう話を、俺もちょっと聞いたことがあるんだ。",
+      "INDONESIAN": "Itu yang sering aku dengar orang bilang!",
+      "PORTUGUESE": "É o que ouvi as pessoas dizerem!",
+      "RUSSIAN": "Я слышал(а), люди говорят то же самое!",
+      "FRENCH": "C’est ce que j’ai entendu les gens dire !",
+      "THAI": "ผมได้ยินคนพูดแบบนั้นเหมือนกัน!"
+    },
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "역시... 저만 그렇게 생각하는 게 아니었군요.",
+      "ENGLISH": "So I'm not the only one who thinks that.",
+      "CHINESE_SIMPLIFIED": "看来…这是客观公认的事实啊",
+      "CHINESE_TRADITIONAL": "看來…這是客觀公認的事實啊",
+      "JAPANESE": "やっぱり…僕だけじゃないんですね。",
+      "INDONESIAN": "Jadi, aku bukan satu-satunya yang berpikir begitu.",
+      "PORTUGUESE": "Então, não sou o único que pensa assim.",
+      "RUSSIAN": "Так я не один(а) так думаю.",
+      "FRENCH": "Donc, je ne suis pas le seul à le penser.",
+      "THAI": "งั้นผมไม่ได้คิดไปคนเดียวสินะ"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "거 솔직해서 좋구만. ",
+      "ENGLISH": "You're refreshingly honest.",
+      "CHINESE_SIMPLIFIED": "你还挺诚实",
+      "CHINESE_TRADITIONAL": "你還挺誠實",
+      "JAPANESE": "あんた、結構正直だな。",
+      "INDONESIAN": "Wah, kamu jujur sekali, aku suka itu.",
+      "PORTUGUESE": "Poxa, você é bem honesto, gosto disso.",
+      "RUSSIAN": "Ты такой(ая) честный(ая), это освежает.",
+      "FRENCH": "Tu es d’une honnêteté rafraîchissante.",
+      "THAI": "คุณซื่อสัตย์ดีนะ สดชื่นมากเลย"
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이런 걸 요즘 엠제트(MZ)라고들 하나?",
+      "ENGLISH": "Is this what they call the Gen Z?",
+      "CHINESE_SIMPLIFIED": "这就是MZ时代的年轻人吗哈哈",
+      "CHINESE_TRADITIONAL": "這就是MZ時代的年輕人嗎哈哈",
+      "JAPANESE": "これが最近言う「MZ世代」ってやつか？",
+      "INDONESIAN": "Apakah ini yang disebut anak Gen Z?",
+      "PORTUGUESE": "É isso que chamam de Gen Z?",
+      "RUSSIAN": "Это то, что называют поколением Z?",
+      "FRENCH": "C’est ça qu’on appelle la génération Z ?",
+      "THAI": "นี่หรือเปล่าที่เขาเรียกว่าคนรุ่นใหม่ Gen Z?"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.8
+    }
+  }
+]

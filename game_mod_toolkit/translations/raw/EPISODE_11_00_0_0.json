@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "들어가도 될까요?",
+      "ENGLISH": "Mind if I come in?",
+      "CHINESE_SIMPLIFIED": "我可以进去吗?",
+      "CHINESE_TRADITIONAL": "我可以進去嗎?",
+      "JAPANESE": "入ってもいいですか？",
+      "INDONESIAN": "Boleh aku masuk?",
+      "PORTUGUESE": "Posso entrar?",
+      "RUSSIAN": "Можно войти?",
+      "FRENCH": "Je peux entrer ?",
+      "THAI": "ขอเข้าไปได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Sure!",
+      "CHINESE_SIMPLIFIED": "嗯!",
+      "CHINESE_TRADITIONAL": "嗯!",
+      "JAPANESE": "はい、どうぞ！",
+      "INDONESIAN": "Tentu!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "ได้เลย!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이거 마셔요.",
+      "ENGLISH": "Here, drink this.",
+      "CHINESE_SIMPLIFIED": "喝点这个吧",
+      "CHINESE_TRADITIONAL": "喝點這個吧",
+      "JAPANESE": "これ、飲んでください。",
+      "INDONESIAN": "Ini, minum ini.",
+      "PORTUGUESE": "Aqui, beba isso.",
+      "RUSSIAN": "Вот, выпей это.",
+      "FRENCH": "Tiens, bois ça.",
+      "THAI": "นี่ ดื่มนี่สิ"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어제는 뭐 하고 지냈어요?",
+      "ENGLISH": "So, what did you do yesterday?",
+      "CHINESE_SIMPLIFIED": "你今天都做什么了?",
+      "CHINESE_TRADITIONAL": "你今天都做什麼了?",
+      "JAPANESE": "昨日は、何して過ごしてたんですか？",
+      "INDONESIAN": "Jadi, apa yang kamu lakukan kemarin?",
+      "PORTUGUESE": "Então, o que você fez ontem?",
+      "RUSSIAN": "Так что ты делал(а) вчера?",
+      "FRENCH": "Alors, qu’est-ce que tu as fait hier ?",
+      "THAI": "ว่าแต่เมื่อวานคุณทำอะไรบ้าง?"
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저 이제 편의점 일도 잘하고요.",
+      "ENGLISH": "I’m getting better at my job at the convenience store.",
+      "CHINESE_SIMPLIFIED": "我现在便利店兼职已经做得很好了",
+      "CHINESE_TRADITIONAL": "我現在便利店兼職已經做得很好了",
+      "JAPANESE": "私、コンビニの仕事もだいぶ慣れてきて",
+      "INDONESIAN": "Aku semakin baik dalam pekerjaanku di toko serba ada.",
+      "PORTUGUESE": "Estou ficando melhor no meu trabalho na loja de conveniência.",
+      "RUSSIAN": "Я становлюсь лучше в своей работе в магазине у дома.",
+      "FRENCH": "Je deviens de plus en plus compétent(e) dans mon travail à la supérette.",
+      "THAI": "ฉันเริ่มทำงานที่ร้านสะดวกซื้อได้ดีขึ้นเรื่อยๆ แล้วนะ"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어제는...",
+      "ENGLISH": "Yesterday...",
+      "CHINESE_SIMPLIFIED": "昨天",
+      "CHINESE_TRADITIONAL": "昨天",
+      "JAPANESE": "昨日は…",
+      "INDONESIAN": "Kemarin...",
+      "PORTUGUESE": "Ontem...",
+      "RUSSIAN": "Вчера...",
+      "FRENCH": "Hier...",
+      "THAI": "เมื่อวาน..."
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "손님들이 인사 잘한다고 칭찬해줬어요!",
+      "ENGLISH": "some customers even complimented me on how well I greet them!",
+      "CHINESE_SIMPLIFIED": "客人们还夸我很会问好",
+      "CHINESE_TRADITIONAL": "客人們還誇我很會問好",
+      "JAPANESE": "お客さんが、挨拶が元気だって褒めてくれたんですよ！",
+      "INDONESIAN": "beberapa pelanggan bahkan memuji cara aku menyapa mereka!",
+      "PORTUGUESE": "alguns clientes até me elogiaram por como os cumprimento bem!",
+      "RUSSIAN": "некоторые клиенты даже похвалили меня за то, как я их приветствую!",
+      "FRENCH": "des clients m’ont même complimenté(e) sur la façon dont je les accueille !",
+      "THAI": "ลูกค้าบางคนยังชมฉันเลยว่าทักทายดีมาก!"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 노력하다 보면은...",
+      "ENGLISH": "If I keep working hard like this...",
+      "CHINESE_SIMPLIFIED": "这样每天进步一点点的话…",
+      "CHINESE_TRADITIONAL": "這樣每天進步一點點的話…",
+      "JAPANESE": "このまま、ずっと頑張っていけば…",
+      "INDONESIAN": "Kalau aku terus bekerja keras seperti ini...",
+      "PORTUGUESE": "Se eu continuar trabalhando duro assim...",
+      "RUSSIAN": "Если я буду так усердно работать...",
+      "FRENCH": "Si je continue à travailler dur comme ça...",
+      "THAI": "ถ้าฉันทำงานหนักแบบนี้ต่อไป..."
+    },
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 27.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저도 바깥으로 나갈 수 있겠죠?",
+      "ENGLISH": "do you think I’ll be able to go out into the world more often?",
+      "CHINESE_SIMPLIFIED": "总有一天我也能在外面独立生存的吧?",
+      "CHINESE_TRADITIONAL": "總有一天我也能在外面獨立生存的吧?",
+      "JAPANESE": "私も、外の世界に出られるようになりますよね？",
+      "INDONESIAN": "kamu pikir aku akan bisa lebih sering pergi keluar?",
+      "PORTUGUESE": "você acha que vou poder sair com mais frequência?",
+      "RUSSIAN": "думаешь, у меня получится чаще выходить в большой мир?",
+      "FRENCH": "tu penses que je pourrai sortir dans le monde plus souvent ?",
+      "THAI": "คุณคิดว่าฉันจะได้ออกไปใช้ชีวิตในโลกกว้างบ่อยขึ้นไหม?"
+    },
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.8
+    }
+  }
+]

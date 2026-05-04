@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오늘도 아주 시원하게 욕 날리네!",
+      "ENGLISH": "Wow, she's in a mood again today!",
+      "CHINESE_SIMPLIFIED": "今天骂人也很痛快啊!",
+      "CHINESE_TRADITIONAL": "今天罵人也很痛快啊!",
+      "JAPANESE": "今日も相変わらず豪快な悪口だな！",
+      "INDONESIAN": "Wah, dia bad mood lagi hari ini!",
+      "PORTUGUESE": "Uau, ela tá de mau humor de novo hoje!",
+      "RUSSIAN": "Ух ты, она опять сегодня не в духе!",
+      "FRENCH": "Wow, elle est encore de mauvaise humeur aujourd'hui !",
+      "THAI": "ว้าว วันนี้เธอก็อารมณ์ไม่ดีอีกแล้ว!",
+      "PERSIAN": "وای، او امروز دوباره در حال و هوا است!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아주 장수할 거 같아!",
+      "ENGLISH": "She's gonna live forever with that attitude!",
+      "CHINESE_SIMPLIFIED": "这么下去应该能长命百岁！",
+      "CHINESE_TRADITIONAL": "這麼下去應該能長命百歲！",
+      "JAPANESE": "そりゃあ、長生きするよな！",
+      "INDONESIAN": "Dengan sikap kayak gitu, dia bakal hidup selamanya!",
+      "PORTUGUESE": "Com essa atitude, ela vai viver pra sempre!",
+      "RUSSIAN": "С такой выдержкой, она будет жить вечно!",
+      "FRENCH": "Avec cette attitude, elle va vivre éternellement !",
+      "THAI": "ท่าทางแบบนี้ เธอคงจะอยู่ยงคงกระพันแน่ๆ!",
+      "PERSIAN": "او با این نگرش برای همیشه زنده خواهد ماند!"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐라고?",
+      "ENGLISH": "What?!",
+      "CHINESE_SIMPLIFIED": "你说什么？",
+      "CHINESE_TRADITIONAL": "你說什麼？",
+      "JAPANESE": "なんて？",
+      "INDONESIAN": "Apa?!",
+      "PORTUGUESE": "O quê?!",
+      "RUSSIAN": "Что?!",
+      "FRENCH": "Quoi ?!",
+      "THAI": "อะไรนะ?!",
+      "PERSIAN": "چی?!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.4
+    }
+  }
+]

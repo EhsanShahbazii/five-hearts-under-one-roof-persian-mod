@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 우유다.",
+      "ENGLISH": "Wow, milk!",
+      "CHINESE_SIMPLIFIED": "哇，是牛奶!",
+      "CHINESE_TRADITIONAL": "哇，是牛奶!",
+      "JAPANESE": "わあ、牛乳だ。",
+      "INDONESIAN": "Wah, susu!",
+      "PORTUGUESE": "Uau, leite!",
+      "RUSSIAN": "Ого, молоко!",
+      "FRENCH": "Waouh, du lait !",
+      "THAI": "ว้าว นม!"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "헉...",
+      "ENGLISH": "OMG!",
+      "CHINESE_SIMPLIFIED": "呃...",
+      "CHINESE_TRADITIONAL": "呃...",
+      "JAPANESE": "はっ…",
+      "INDONESIAN": "OMG!",
+      "PORTUGUESE": "Meu Deus!",
+      "RUSSIAN": "Ого!",
+      "FRENCH": "OMG !",
+      "THAI": "โอ้พระเจ้า!"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "깼다...",
+      "ENGLISH": "You're awake...",
+      "CHINESE_SIMPLIFIED": "你醒了…?",
+      "CHINESE_TRADITIONAL": "你醒了…?",
+      "JAPANESE": "起きた…",
+      "INDONESIAN": "Kamu udah bangun...",
+      "PORTUGUESE": "Você está acordada...",
+      "RUSSIAN": "Ты проснулась...",
+      "FRENCH": "Tu es réveillée...",
+      "THAI": "เธอตื่นแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 6.8
+    }
+  }
+]

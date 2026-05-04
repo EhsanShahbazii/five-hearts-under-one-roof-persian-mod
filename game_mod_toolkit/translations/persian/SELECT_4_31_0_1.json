@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "너 예쁘잖아.",
+      "ENGLISH": "You're pretty.",
+      "CHINESE_SIMPLIFIED": "因为你漂亮啊",
+      "CHINESE_TRADITIONAL": "因爲你漂亮啊",
+      "JAPANESE": "お前、可愛いじゃん。",
+      "INDONESIAN": "Kamu cantik.",
+      "PORTUGUESE": "Você é bonita.",
+      "RUSSIAN": "Ты красивая.",
+      "FRENCH": "T’es jolie.",
+      "THAI": "เธอสวย",
+      "PERSIAN": "تو خوشگلی"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나 너 예뻐서 좋은데?",
+      "ENGLISH": "I like you because you're pretty.",
+      "CHINESE_SIMPLIFIED": "因为你漂亮所以我喜欢你",
+      "CHINESE_TRADITIONAL": "因爲你漂亮所以我喜歡你",
+      "JAPANESE": "お前、可愛いと思うけど？",
+      "INDONESIAN": "Aku suka kamu karena kamu cantik.",
+      "PORTUGUESE": "Eu gosto de você porque você é bonita.",
+      "RUSSIAN": "Ты мне нравишься, потому что ты красивая.",
+      "FRENCH": "Je t’aime parce que t’es jolie.",
+      "THAI": "ฉันชอบเธอเพราะเธอสวย",
+      "PERSIAN": "من تو را دوست دارم چون زیبا هستی"
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너 눈도 이쁘고",
+      "ENGLISH": "Your eyes are pretty.",
+      "CHINESE_SIMPLIFIED": "眼睛也好看",
+      "CHINESE_TRADITIONAL": "眼睛也好看",
+      "JAPANESE": "目も綺麗でで、",
+      "INDONESIAN": "Matamu indah.",
+      "PORTUGUESE": "Seus olhos são lindos.",
+      "RUSSIAN": "У тебя красивые глаза,",
+      "FRENCH": "Tes yeux sont jolis,",
+      "THAI": "ตาของเธอสวย",
+      "PERSIAN": "چشمات قشنگه"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "코도 귀엽고",
+      "ENGLISH": "your nose is cute.",
+      "CHINESE_SIMPLIFIED": "鼻子也很可爱",
+      "CHINESE_TRADITIONAL": "鼻子也很可愛",
+      "JAPANESE": "鼻も綺麗で",
+      "INDONESIAN": "Hidungmu lucu.",
+      "PORTUGUESE": "Seu nariz é fofinho.",
+      "RUSSIAN": "милый носик.",
+      "FRENCH": "ton nez est mignon.",
+      "THAI": "จมูกของเธอก็น่ารัก",
+      "PERSIAN": "بینی تو ناز است"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "가끔... 넋 놓고 볼 때 있는 거 같은데.",
+      "ENGLISH": "Sometimes... I catch you staring at me.",
+      "CHINESE_SIMPLIFIED": "有时候...我看你都会看入迷",
+      "CHINESE_TRADITIONAL": "有時候...我看你都會看入迷",
+      "JAPANESE": "俺も、知らいない間にぼーっと見てるときがあるんだけど",
+      "INDONESIAN": "Kadang... aku memergoki kamu menatapku.",
+      "PORTUGUESE": "Às vezes... eu te pego me olhando.",
+      "RUSSIAN": "Иногда... я ловлю тебя на том, что ты смотришь на меня.",
+      "FRENCH": "Parfois... je te surprends en train de me regarder.",
+      "THAI": "บางครั้ง... ฉันแอบเห็นเธอจ้องฉัน",
+      "PERSIAN": "بعضی وقتا... میگیرم که بهم خیره میشی."
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "잠깐만.",
+      "ENGLISH": "Hold on.",
+      "CHINESE_SIMPLIFIED": "等等",
+      "CHINESE_TRADITIONAL": "等等",
+      "JAPANESE": "ちょっと待って。",
+      "INDONESIAN": "Tunggu sebentar.",
+      "PORTUGUESE": "Espera um pouco.",
+      "RUSSIAN": "Подожди.",
+      "FRENCH": "Attends.",
+      "THAI": "เดี๋ยวนะ",
+      "PERSIAN": "صبر کن ببینم..."
+    },
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그동안 너 설레어서 나랑 어떻게 붙어 있었냐?",
+      "ENGLISH": "How did you stay so close to me without getting nervous?",
+      "CHINESE_SIMPLIFIED": "这么心动你还能一直和我走得这么近?",
+      "CHINESE_TRADITIONAL": "這麼心動你還能一直和我走得這麼近?",
+      "JAPANESE": "そう思ってるのに、今まで私と一緒にいたなんて...",
+      "INDONESIAN": "Gimana kamu bisa sedekat ini denganku tanpa gugup?",
+      "PORTUGUESE": "Como você consegue ficar tão perto de mim sem ficar nervosa?",
+      "RUSSIAN": "Как ты могла быть так близко ко мне и не нервничать?",
+      "FRENCH": "Comment t’as pu rester si près de moi sans être nerveuse ?",
+      "THAI": "เธออยู่ใกล้ฉันขนาดนี้ได้ยังไงโดยไม่รู้สึกประหม่าเลย?",
+      "PERSIAN": "چطور بدون اینکه عصبی بشی اینقدر به من نزدیک شدی؟"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 어이없어..",
+      "ENGLISH": "This is unbelievable...",
+      "CHINESE_SIMPLIFIED": "也是神奇…",
+      "CHINESE_TRADITIONAL": "也是神奇…",
+      "JAPANESE": "ほんと、ありえない...",
+      "INDONESIAN": "Ini gak bisa dipercaya...",
+      "PORTUGUESE": "Isso é inacreditável...",
+      "RUSSIAN": "Это невероятно...",
+      "FRENCH": "C’est incroyable...",
+      "THAI": "ไม่น่าเชื่อจริงๆ...",
+      "PERSIAN": "این غیر قابل باور است..."
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.14
+    }
+  }
+]

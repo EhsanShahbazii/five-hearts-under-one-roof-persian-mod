@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "ENGLISH": "The heck....",
+      "CHINESE_SIMPLIFIED": "阿西...",
+      "CHINESE_TRADITIONAL": "阿西...",
+      "JAPANESE": "くそっ…",
+      "INDONESIAN": "Apa-apaan sih...",
+      "PORTUGUESE": "Que droga...",
+      "RUSSIAN": "Что за черт...",
+      "FRENCH": "C’est quoi ce délire...",
+      "THAI": "อะไรกันวะ...",
+      "PERSIAN": "جهنم...."
+    },
+    "TIME": {
+      "SHOW": 1.18,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "소파 뒤에 숨어 있는 거 아니야?",
+      "ENGLISH": "Maybe they’re behind the sofa?",
+      "CHINESE_SIMPLIFIED": "是不是藏在沙发后面啊?",
+      "CHINESE_TRADITIONAL": "是不是藏在沙發後面啊?",
+      "JAPANESE": "ソファの後ろに隠れてるんじゃないか？",
+      "INDONESIAN": "Mungkin mereka di belakang sofa?",
+      "PORTUGUESE": "Talvez eles estejam atrás do sofá?",
+      "RUSSIAN": "Может, они за диваном?",
+      "FRENCH": "Peut-être derrière le canapé ?",
+      "THAI": "หรืออยู่หลังโซฟา?",
+      "PERSIAN": "شاید پشت مبل هستند؟"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나와라! 다 보인다!",
+      "ENGLISH": "Come out! I can see you! ",
+      "CHINESE_SIMPLIFIED": "快出来! 我看见你!",
+      "CHINESE_TRADITIONAL": "快出來! 我看見你!",
+      "JAPANESE": "出てこい！全部見えてるぞ！",
+      "INDONESIAN": "Keluar! Aku bisa lihat kamu!",
+      "PORTUGUESE": "Sai daí! Eu tô vendo você!",
+      "RUSSIAN": "Выходите! Я вас вижу!",
+      "FRENCH": "Allez, sortez ! Je vous vois !",
+      "THAI": "ออกมาได้แล้ว! ฉันเห็นนะ!",
+      "PERSIAN": "بیا بیرون! من میتونم ببینمت!"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너 보인다, 지금!",
+      "ENGLISH": "Seriously, I can see you right now!",
+      "CHINESE_SIMPLIFIED": "我已经看见你了啊!",
+      "CHINESE_TRADITIONAL": "我已經看見你了啊!",
+      "JAPANESE": "見えてるんだぞ！今！",
+      "INDONESIAN": "Serius, aku bisa lihat kamu sekarang!",
+      "PORTUGUESE": "Sério, eu tô vendo você agora!",
+      "RUSSIAN": "Честно, я прямо сейчас вас вижу!",
+      "FRENCH": "Sérieusement, je vous vois là, maintenant !",
+      "THAI": "จริง ๆ นะ ตอนนี้ฉันเห็นพวกนายอยู่!",
+      "PERSIAN": "جدی میگم الان میتونم ببینمت!"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.25
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "없네...",
+      "ENGLISH": "Not here...",
+      "CHINESE_SIMPLIFIED": "也没有...",
+      "CHINESE_TRADITIONAL": "也沒有...",
+      "JAPANESE": "いないな…",
+      "INDONESIAN": "Nggak ada di sini...",
+      "PORTUGUESE": "Não tá aqui...",
+      "RUSSIAN": "Нет никого...",
+      "FRENCH": "Personne ici...",
+      "THAI": "ไม่มีใครอยู่แถวนี้...",
+      "PERSIAN": "اینجا نه..."
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야...",
+      "ENGLISH": "What the heck...",
+      "CHINESE_SIMPLIFIED": "怎么回事…",
+      "CHINESE_TRADITIONAL": "怎麼回事…",
+      "JAPANESE": "なんだよ…",
+      "INDONESIAN": "Apa-apaan ini...",
+      "PORTUGUESE": "Que coisa...",
+      "RUSSIAN": "Что за ерунда...",
+      "FRENCH": "Mais c’est quoi ce bazar...",
+      "THAI": "นี่มันเรื่องบ้าอะไรกัน...",
+      "PERSIAN": "What the heck..."
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.3
+    }
+  }
+]

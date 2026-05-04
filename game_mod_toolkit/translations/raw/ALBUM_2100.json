@@ -1,0 +1,249 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이번 면접은 좀 잘 봤으면 좋겠네~",
+      "ENGLISH": "I hope this interview goes well...",
+      "CHINESE_SIMPLIFIED": "希望他这次面试能有个好结果~",
+      "CHINESE_TRADITIONAL": "希望他這次面試能有個好結果~",
+      "JAPANESE": "今回の面接はうまくいってほしいな～",
+      "INDONESIAN": "Semoga wawancaranya berjalan lancar...",
+      "PORTUGUESE": "Espero que a entrevista corra bem...",
+      "RUSSIAN": "Надеюсь, что собеседование пройдёт хорошо...",
+      "FRENCH": "J’espère que l’entretien se passera bien...",
+      "THAI": "หวังว่าสัมภาษณ์จะผ่านไปได้ด้วยดี..."
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 저 병신...",
+      "ENGLISH": "Oh, that idiot...",
+      "CHINESE_SIMPLIFIED": "这傻子…",
+      "CHINESE_TRADITIONAL": "這傻子…",
+      "JAPANESE": "あのバカバカなやつ…",
+      "INDONESIAN": "Oh, dasar idiot...",
+      "PORTUGUESE": "Ah, que idiota...",
+      "RUSSIAN": "Ох, этот идиот...",
+      "FRENCH": "Oh, ce crétin...",
+      "THAI": "โธ่ ไอ้บ้าเอ๊ย..."
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 어디 뭐 모자른 거 아니야?",
+      "ENGLISH": "Is something wrong with him?",
+      "CHINESE_SIMPLIFIED": "脑子是不是缺根筋啊？",
+      "CHINESE_TRADITIONAL": "腦子是不是缺根筋啊？",
+      "JAPANESE": "本当に頭おかしいんじゃないか？",
+      "INDONESIAN": "Ada apa sih sama dia?",
+      "PORTUGUESE": "O que há de errado com ele?",
+      "RUSSIAN": "С ним что-то не так?",
+      "FRENCH": "Il a un problème, lui ?",
+      "THAI": "เขาเป็นอะไรหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "취소해.",
+      "ENGLISH": "Take that back.",
+      "CHINESE_SIMPLIFIED": "收回去。",
+      "CHINESE_TRADITIONAL": "收回去。",
+      "JAPANESE": "取り消して。",
+      "INDONESIAN": "Tarik kata-katamu.",
+      "PORTUGUESE": "Retira o que disse",
+      "RUSSIAN": "Забери свои слова обратно.",
+      "FRENCH": "Retire ce que tu viens de dire.",
+      "THAI": "ถอนคำพูดเดี๋ยวนี้เลย."
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Pardon ?",
+      "THAI": "ห้ะ?"
+    },
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그 말 취소하라고",
+      "ENGLISH": "I said take it back.",
+      "CHINESE_SIMPLIFIED": "你把那句话收回去。",
+      "CHINESE_TRADITIONAL": "你把那句話收回去。",
+      "JAPANESE": "その言葉、取り消せって言ってるのよ。",
+      "INDONESIAN": "Aku bilang tarik kata-katamu.",
+      "PORTUGUESE": "Eu disse pra retirar o que disse",
+      "RUSSIAN": "Я сказал, забери их обратно.",
+      "FRENCH": "J’ai dit, retire-le.",
+      "THAI": "ฉันบอกให้ถอนคำพูด!"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "야 쟤 뭐, 뭐라도 돼?",
+      "ENGLISH": "Why? What, is he gonna be somebody?",
+      "CHINESE_SIMPLIFIED": "不是，他，他有那么重要吗？",
+      "CHINESE_TRADITIONAL": "不是，他，他有那麼重要嗎？",
+      "JAPANESE": "おい、あいつが何になれるって言うんだよ。",
+      "INDONESIAN": "Kenapa? Emang dia bakal jadi orang hebat?",
+      "PORTUGUESE": "Por quê? Ele vai ser alguém importante?",
+      "RUSSIAN": "Почему? Он что, станет кем-то?",
+      "FRENCH": "Pourquoi ? Quoi, il va devenir quelqu’un, lui ?",
+      "THAI": "ทำไมล่ะ? คิดว่าเขาจะเป็นคนสำคัญหรือไง?"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어 돼.",
+      "ENGLISH": "Yeah, he is.",
+      "CHINESE_SIMPLIFIED": "嗯，有。",
+      "CHINESE_TRADITIONAL": "嗯，有。",
+      "JAPANESE": "うん、なれるよ。",
+      "INDONESIAN": "Iya, bakal.",
+      "PORTUGUESE": "Sim, vai",
+      "RUSSIAN": "Да, станет.",
+      "FRENCH": "Oui, il va devenir quelqu’un.",
+      "THAI": "ใช่ เขาจะเป็นคนสำคัญ."
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까...",
+      "ENGLISH": "So if...",
+      "CHINESE_SIMPLIFIED": "所以...",
+      "CHINESE_TRADITIONAL": "所以...",
+      "JAPANESE": "だから…",
+      "INDONESIAN": "Jadi kalau...",
+      "PORTUGUESE": "Então se...",
+      "RUSSIAN": "Так что, если",
+      "FRENCH": "Alors, si",
+      "THAI": "เพราะฉะนั้น,"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "앞으로 한 번만 더 내 앞에서 우유만 무시하면",
+      "ENGLISH": "You disrespect Yuman in front of me again",
+      "CHINESE_SIMPLIFIED": "我警告你",
+      "CHINESE_TRADITIONAL": "我警告你",
+      "JAPANESE": "これから、一度でも私の前でユマンをバカにしたら、",
+      "INDONESIAN": "Kamu tidak hormat sama Yuman di depanku lagi",
+      "PORTUGUESE": "Você desrespeitar o Yuman na minha frente de novo",
+      "RUSSIAN": "Ты ещё раз оскорбишь Юмана при мне,",
+      "FRENCH": "Tu manques de respect à Yuman encore une fois devant moi,",
+      "THAI": "ถ้านายกล้าดูถูกยูมันต่อหน้าฉันอีกครั้ง,"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그땐 진짜 가만 안 둬.",
+      "ENGLISH": "I won’t let it slide",
+      "CHINESE_SIMPLIFIED": "再敢在我面前看扁他的话",
+      "CHINESE_TRADITIONAL": "再敢在我面前看扁他的話",
+      "JAPANESE": "許さないから。",
+      "INDONESIAN": "Aku nggak bakal tinggal diam",
+      "PORTUGUESE": "Eu não vou deixar passar",
+      "RUSSIAN": "Я это так не оставлю.",
+      "FRENCH": "Je ne laisserai pas passer ça.",
+      "THAI": "ฉันไม่ปล่อยผ่านแน่."
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "마지막 경고야.",
+      "ENGLISH": "This is my final warning.",
+      "CHINESE_SIMPLIFIED": "我要你好看。",
+      "CHINESE_TRADITIONAL": "我要你好看。",
+      "JAPANESE": "最後の警告よ。",
+      "INDONESIAN": "Ini peringatan terakhirku.",
+      "PORTUGUESE": "Essa é minha última advertência.",
+      "RUSSIAN": "Это последнее предупреждение.",
+      "FRENCH": "C’est mon dernier avertissement.",
+      "THAI": "นี่เป็นคำเตือนครั้งสุดท้าย."
+    },
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 27.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어어..",
+      "ENGLISH": "Uh, okay...",
+      "CHINESE_SIMPLIFIED": "哦哦…",
+      "CHINESE_TRADITIONAL": "哦哦…",
+      "JAPANESE": "お、おう…。",
+      "INDONESIAN": "Uh, oke...",
+      "PORTUGUESE": "Ah, tá...",
+      "RUSSIAN": "Э-э, хорошо...",
+      "FRENCH": "Euh... d’accord.",
+      "THAI": "เอ่อ... โอเค..."
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.6
+    }
+  }
+]

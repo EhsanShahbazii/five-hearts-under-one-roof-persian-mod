@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음... 전 포기할 거 같아요.",
+      "ENGLISH": "I think I'd give up.",
+      "CHINESE_SIMPLIFIED": "嗯…我应该会放弃",
+      "CHINESE_TRADITIONAL": "嗯…我應該會放棄",
+      "JAPANESE": "うーん、諦めるかもしれません。",
+      "INDONESIAN": "Aku rasa aku akan menyerah.",
+      "PORTUGUESE": "Acho que eu desistiria.",
+      "RUSSIAN": "Думаю, я бы сдался(сдалась).",
+      "FRENCH": "Je pense que j’abandonnerais.",
+      "THAI": "ฉันคิดว่าฉันคงยอมแพ้",
+      "PERSIAN": "فکر کنم تسلیم بشم"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜요...?",
+      "ENGLISH": "Why...?",
+      "CHINESE_SIMPLIFIED": "为什么?",
+      "CHINESE_TRADITIONAL": "爲什麼?",
+      "JAPANESE": "どうして…？",
+      "INDONESIAN": "Kenapa...?",
+      "PORTUGUESE": "Por quê...?",
+      "RUSSIAN": "Почему...?",
+      "FRENCH": "Pourquoi...?",
+      "THAI": "ทำไมล่ะ...?",
+      "PERSIAN": "چرا...؟"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제가 팬으로 응원할 순 있지만...",
+      "ENGLISH": "I can support you as a fan,",
+      "CHINESE_SIMPLIFIED": "我可以一直作为粉丝去支持你…",
+      "CHINESE_TRADITIONAL": "我可以一直作爲粉絲去支持你…",
+      "JAPANESE": "ファンとして応援することはできるけど…",
+      "INDONESIAN": "Aku bisa mendukungmu sebagai penggemar,",
+      "PORTUGUESE": "Posso te apoiar como fã,",
+      "RUSSIAN": "Я могу поддерживать тебя как фанат(ка),",
+      "FRENCH": "Je peux te soutenir en tant que fan,",
+      "THAI": "ฉันสนับสนุนเธอได้ในฐานะแฟนคลับ",
+      "PERSIAN": "من می توانم به عنوان یک طرفدار از شما حمایت کنم،"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "제가 옆에 있다는 게",
+      "ENGLISH": "but being by your side",
+      "CHINESE_SIMPLIFIED": "但如果我真在你身边的话",
+      "CHINESE_TRADITIONAL": "但如果我真在你身邊的話",
+      "JAPANESE": "僕がそばにいることが",
+      "INDONESIAN": "tapi berada di sisimu",
+      "PORTUGUESE": "mas estar ao seu lado",
+      "RUSSIAN": "но быть рядом с тобой",
+      "FRENCH": "mais être à tes côtés",
+      "THAI": "แต่การอยู่ข้างเธอ",
+      "PERSIAN": "اما کنارت بودن"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님한테는 짐이 될 수도 있는 거잖아요.",
+      "ENGLISH": "Might be a burden for you.",
+      "CHINESE_SIMPLIFIED": "反而可能会拖累你",
+      "CHINESE_TRADITIONAL": "反而可能會拖累你",
+      "JAPANESE": "ミンジョンさんにとって負担になるかもしれないじゃないですか。",
+      "INDONESIAN": "Mungkin akan menjadi beban untukmu.",
+      "PORTUGUESE": "Pode ser um peso para você.",
+      "RUSSIAN": "может быть тяжело для тебя.",
+      "FRENCH": "pourrait être un fardeau pour toi.",
+      "THAI": "อาจจะเป็นภาระสำหรับเธอ",
+      "PERSIAN": "ممکنه برای شما سنگین باشد"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "전 민정 님이 무조건적으로 행복하길 바라거든요!",
+      "ENGLISH": "I want you to be unconditionally happy, Min-jung.",
+      "CHINESE_SIMPLIFIED": "对我来说，你的幸福才是第一位的",
+      "CHINESE_TRADITIONAL": "對我來說，你的幸福纔是第一位的",
+      "JAPANESE": "僕はただ、ミンジョンさんが心から幸せでいてくれたらそれでいいんです！",
+      "INDONESIAN": "Aku ingin kamu bahagia tanpa beban, Min-jung.",
+      "PORTUGUESE": "Quero que você seja incondicionalmente feliz, Min-jung.",
+      "RUSSIAN": "Я хочу, чтобы ты была безусловно счастлива, Мин-чжун.",
+      "FRENCH": "Je veux que tu sois inconditionnellement heureuse, Min-jung.",
+      "THAI": "ฉันอยากให้เธอมีความสุขแบบไม่มีเงื่อนไข, มินจอง",
+      "PERSIAN": "می‌خوام بدون قید و شرط خوشحال باشی، مین‌جونگ."
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 16.5
+    }
+  }
+]

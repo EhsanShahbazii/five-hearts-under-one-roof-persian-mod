@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "기사님 감사합니다!",
+      "ENGLISH": "Thank you!",
+      "CHINESE_SIMPLIFIED": "谢谢!",
+      "CHINESE_TRADITIONAL": "謝謝!",
+      "JAPANESE": "運転手さん、ありがとうございました！",
+      "INDONESIAN": "Terima kasih!",
+      "PORTUGUESE": "Obrigado!",
+      "RUSSIAN": "Спасибо!",
+      "FRENCH": "Merci !",
+      "THAI": "ขอบคุณนะ!",
+      "PERSIAN": "Thank you!"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "Wait...",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Tunggu...",
+      "PORTUGUESE": "Espera...",
+      "RUSSIAN": "Подожди...",
+      "FRENCH": "Attends...",
+      "THAI": "เดี๋ยวนะ...",
+      "PERSIAN": "Wait..."
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어디갔지?",
+      "ENGLISH": "Where did...?",
+      "CHINESE_SIMPLIFIED": "她去哪儿了?",
+      "CHINESE_TRADITIONAL": "她去哪兒了?",
+      "JAPANESE": "どこ行ったんだ？",
+      "INDONESIAN": "Ke mana...?",
+      "PORTUGUESE": "Cadê...?",
+      "RUSSIAN": "Куда он делся...?",
+      "FRENCH": "Où est-il passé...?",
+      "THAI": "เขาหายไปไหนแล้ว...?",
+      "PERSIAN": "کجا شد...؟"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.8
+    }
+  }
+]

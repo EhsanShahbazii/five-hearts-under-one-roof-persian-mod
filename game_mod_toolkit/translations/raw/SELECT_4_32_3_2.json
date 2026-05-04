@@ -1,0 +1,96 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "준비... ",
+      "ENGLISH": "Ready...",
+      "CHINESE_SIMPLIFIED": "准备…",
+      "CHINESE_TRADITIONAL": "準備…",
+      "JAPANESE": "よーい",
+      "INDONESIAN": "Siap...",
+      "PORTUGUESE": "Pronto...",
+      "RUSSIAN": "Готова...",
+      "FRENCH": "Prête...",
+      "THAI": "พร้อมนะ..."
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "시...작!",
+      "ENGLISH": "Set... Go!",
+      "CHINESE_SIMPLIFIED": "开…始!",
+      "CHINESE_TRADITIONAL": "開…始!",
+      "JAPANESE": "スタート！",
+      "INDONESIAN": "Sedia... Mulai!",
+      "PORTUGUESE": "Preparar... Vai!",
+      "RUSSIAN": "На старт... Вперёд!",
+      "FRENCH": "À vos marques... Partez !",
+      "THAI": "เตรียม... ไป!"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "(말숙과 유만의 힘주는 소리)",
+      "ENGLISH": "(Mal-sook and Yuman grunt with effort as they strain together)",
+      "CHINESE_SIMPLIFIED": "呃...啊....",
+      "CHINESE_TRADITIONAL": "呃...啊....",
+      "JAPANESE": "（マルスクとユマンの力を入れる音）",
+      "INDONESIAN": "(Mal-sook dan Yuman mengerang, berusaha keras bersama)",
+      "PORTUGUESE": "(Mal-sook e Yuman grunhem, se esforçando juntos)",
+      "RUSSIAN": "(Мал-Сук и Юман напрягаются, усиливая напряжение вместе)",
+      "FRENCH": "(Mal-sook et Yuman poussent ensemble avec effort)",
+      "THAI": "(มัลซุกกับยูมันออกแรงด้วยกัน)"
+    },
+    "TIME": {
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 역시... 짜릿해!",
+      "ENGLISH": "Oh, that was thrilling!",
+      "CHINESE_SIMPLIFIED": "啊，惊险刺激的一局!",
+      "CHINESE_TRADITIONAL": "啊，驚險刺激的一局!",
+      "JAPANESE": "やっぱり... スリルだ！",
+      "INDONESIAN": "Wah, itu seru banget!",
+      "PORTUGUESE": "Uau, isso foi emocionante!",
+      "RUSSIAN": "О, это было захватывающе!",
+      "FRENCH": "Oh, c’était excitant !",
+      "THAI": "โอ้ มันน่าตื่นเต้นจัง!"
+    },
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "놀리지 마!",
+      "ENGLISH": "Stop teasing me!",
+      "CHINESE_SIMPLIFIED": "别逗我l啦!",
+      "CHINESE_TRADITIONAL": "別逗我啦!",
+      "JAPANESE": "からかわないで！",
+      "INDONESIAN": "Berhenti ngeledek aku!",
+      "PORTUGUESE": "Para de me zoar!",
+      "RUSSIAN": "Прекрати меня дразнить!",
+      "FRENCH": "Arrête de me taquiner !",
+      "THAI": "หยุดล้อฉันซะที!"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.6
+    }
+  }
+]

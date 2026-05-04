@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "분홍색... 아니었나요?",
+      "ENGLISH": "Was it not pink?",
+      "CHINESE_SIMPLIFIED": "粉色吧..?不是吗？",
+      "CHINESE_TRADITIONAL": "粉色吧..?不是嗎？",
+      "JAPANESE": "ピンク色…じゃなかったですか？",
+      "INDONESIAN": "Bukannya pink?",
+      "PORTUGUESE": "Não era rosa?",
+      "RUSSIAN": "Это не был розовый?",
+      "FRENCH": "Ce n’était pas rose ?",
+      "THAI": "ไม่ใช่สีชมพูเหรอ?",
+      "PERSIAN": "صورتی نبود؟"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요... 잊으실 수도 있죠.",
+      "ENGLISH": "It's okay. Sometimes people forget things.",
+      "CHINESE_SIMPLIFIED": "没事...您会忘也很正常",
+      "CHINESE_TRADITIONAL": "沒事...您會忘也很正常",
+      "JAPANESE": "大丈夫ですよ…忘れることだってありますよね。",
+      "INDONESIAN": "Nggak apa-apa. Kadang-kadang orang lupa hal-hal.",
+      "PORTUGUESE": "Tudo bem. Às vezes as pessoas esquecem as coisas.",
+      "RUSSIAN": "Всё нормально. Иногда люди что-то забывают.",
+      "FRENCH": "C’est bon. Parfois, on oublie des choses.",
+      "THAI": "ไม่เป็นไร บางทีคนเราก็ลืมกันได้",
+      "PERSIAN": "اشکالی ندارد. گاهی اوقات مردم چیزهایی را فراموش می کنند."
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저는 늘 궁금했던 게...",
+      "ENGLISH": "I’ve always wondered...",
+      "CHINESE_SIMPLIFIED": "我一直都很好奇…",
+      "CHINESE_TRADITIONAL": "我一直都很好奇…",
+      "JAPANESE": "ずっと気になってたんですけど…",
+      "INDONESIAN": "Aku selalu bertanya-tanya...",
+      "PORTUGUESE": "Sempre me perguntei...",
+      "RUSSIAN": "Мне всегда было интересно...",
+      "FRENCH": "Je me suis toujours demandé...",
+      "THAI": "ฉันสงสัยมาตลอดเลยว่า...",
+      "PERSIAN": "من همیشه تعجب کرده ام ..."
+    },
+    "TIME": {
+      "SHOW": 6.85,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님도 그렇고, 부모님도 그렇고",
+      "ENGLISH": "Why do you and your parents",
+      "CHINESE_SIMPLIFIED": "宥万您也是, 您父母也是",
+      "CHINESE_TRADITIONAL": "宥萬您也是, 您父母也是",
+      "JAPANESE": "ユマンさんもそうですし、両親もそうなんですけど",
+      "INDONESIAN": "Kenapa kamu dan orang tuamu",
+      "PORTUGUESE": "Por que você e seus pais",
+      "RUSSIAN": "Почему ты и твои родители",
+      "FRENCH": "Pourquoi toi et tes parents",
+      "THAI": "ทำไมคุณกับพ่อแม่ของคุณ",
+      "PERSIAN": "چرا تو و پدر و مادرت"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "왜 다 저를 품어주세요?",
+      "ENGLISH": "Treat me so kindly?",
+      "CHINESE_SIMPLIFIED": "为什么无条件地收留我了呢?",
+      "CHINESE_TRADITIONAL": "爲什麼無條件地收留我了呢?",
+      "JAPANESE": "何で、みなさん私に優しくしてくれるんですか？",
+      "INDONESIAN": "Memperlakukan aku dengan begitu baik?",
+      "PORTUGUESE": "Me tratam com tanta gentileza?",
+      "RUSSIAN": "так добры ко мне?",
+      "FRENCH": "êtes si gentils avec moi ?",
+      "THAI": "ถึงใจดีกับฉันขนาดนี้?",
+      "PERSIAN": "با من اینقدر مهربان رفتار کن؟"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.5
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "예전에 누구 물려준다고 했던 거 같은데?",
+      "ENGLISH": "I think someone said they’d give it to me.",
+      "CHINESE_SIMPLIFIED": "之前爸妈说过要把这些东西留给谁来着…",
+      "CHINESE_TRADITIONAL": "之前爸媽說過要把這些東西留給誰來着…",
+      "JAPANESE": "昔、誰かに譲るって言ってなかったっけ？",
+      "INDONESIAN": "Kayaknya ada yang bilang bakal ngasih itu ke aku.",
+      "PORTUGUESE": "Acho que alguém disse que ia me dar isso.",
+      "RUSSIAN": "Кажется, кто-то говорил, что отдаст его мне.",
+      "FRENCH": "Je crois que quelqu’un avait dit qu’il me la donnerait.",
+      "THAI": "เหมือนมีคนบอกว่าจะให้ฉันนี่นา",
+      "PERSIAN": "فکر می کنم یکی گفته است که اونو به من می دهد."
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이게 여기 있었어?",
+      "ENGLISH": "How did it end up here?",
+      "CHINESE_SIMPLIFIED": "这个原来一直在这?",
+      "CHINESE_TRADITIONAL": "這個原來一直在這?",
+      "JAPANESE": "これ、ここにあったんだ。",
+      "INDONESIAN": "Kok bisa ada di sini?",
+      "PORTUGUESE": "Como isso veio parar aqui?",
+      "RUSSIAN": "Как оно оказалось здесь?",
+      "FRENCH": "Comment elle a fini ici ?",
+      "THAI": "มันมาอยู่ที่นี่ได้ยังไง?",
+      "PERSIAN": "چگونه به اینجا ختم شد؟"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.7
+    }
+  }
+]

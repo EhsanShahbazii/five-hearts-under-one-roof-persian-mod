@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얘는 내 옷을 왜 이렇게 입는 거야...?",
+      "ENGLISH": "Why is she wearing my clothes like that...?",
+      "CHINESE_SIMPLIFIED": "她怎么把我的衣服穿成那样?",
+      "CHINESE_TRADITIONAL": "她怎麼把我的衣服穿成那樣?",
+      "JAPANESE": "こいつ、何で俺の服を脱ぎっぱなしにするんだよ…",
+      "INDONESIAN": "Kenapa dia pakai bajuku kayak gitu...?",
+      "PORTUGUESE": "Por que ela tá usando minhas roupas assim...?",
+      "RUSSIAN": "Почему она носит мою одежду вот так...?",
+      "FRENCH": "Pourquoi elle porte mes vêtements comme ça...?",
+      "THAI": "ทำไมเธอใส่เสื้อผ้าของฉันแบบนั้น...?",
+      "PERSIAN": "چرا اون لباس منو میپوشه..."
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.7
+    }
+  }
+]

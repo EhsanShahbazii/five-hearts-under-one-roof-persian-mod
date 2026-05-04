@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "방 쓰게 해주면 넌 뭐 해 줄 건데?",
+      "ENGLISH": "What will you do for me if I let you use the room?",
+      "CHINESE_SIMPLIFIED": "免费让你住的话，我有什么好处?",
+      "CHINESE_TRADITIONAL": "免費讓你住的話，我有什麼好處?",
+      "JAPANESE": "部屋貸してやる代わりに、お前は何をしてくれるの？",
+      "INDONESIAN": "Apa yang akan kamu lakukan kalau aku izinin kamu pakai kamar ini?",
+      "PORTUGUESE": "O que você vai fazer se eu deixar você usar o quarto?",
+      "RUSSIAN": "А что ты для меня сделаешь, если я позволю тебе пользоваться этой комнатой?",
+      "FRENCH": "Qu’est-ce que tu feras pour moi si je te laisse utiliser cette chambre ?",
+      "THAI": "ถ้าฉันให้เธอใช้ห้องนี้ เธอจะทำอะไรให้ฉันบ้าง?",
+      "PERSIAN": "اگر به شما اجازه بدهم از اتاق استفاده کنید چه کاری برای من انجام می دهید؟"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.4
+    }
+  }
+]

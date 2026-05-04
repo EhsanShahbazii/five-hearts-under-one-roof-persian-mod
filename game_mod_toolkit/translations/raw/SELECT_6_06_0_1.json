@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 갈게.",
+      "ENGLISH": "Go Mal-sook, I'm leaving.",
+      "CHINESE_SIMPLIFIED": "末淑我先走了",
+      "CHINESE_TRADITIONAL": "末淑我先走了",
+      "JAPANESE": "じゃあ、俺行くわ。",
+      "INDONESIAN": "Pergi dulu, ya, Go Mal-sook.",
+      "PORTUGUESE": "Tô indo, Go Mal-sook.",
+      "RUSSIAN": "Го Мал-Сук, я ухожу.",
+      "FRENCH": "Go Mal-sook, je m’en vais.",
+      "THAI": "โก มัลซุก ฉันจะไปแล้ว"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어, 아... 프린트!",
+      "ENGLISH": "Yeah, go! Oh... the print!",
+      "CHINESE_SIMPLIFIED": "嗯，啊...别忘了这个",
+      "CHINESE_TRADITIONAL": "嗯，啊...別忘了這個",
+      "JAPANESE": "あ…プリント！",
+      "INDONESIAN": "Iya, sana pergi! Oh… cetakannya!",
+      "PORTUGUESE": "Vai lá! Ah… a impressão!",
+      "RUSSIAN": "Да, иди! Ой... распечатка!",
+      "FRENCH": "Ouais, va-y ! Oh... l’impression !",
+      "THAI": "ไปเลย! โอ้... งานปริ๊นต์!"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어. 고마워.",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "哦！谢啦",
+      "CHINESE_TRADITIONAL": "哦！謝啦",
+      "JAPANESE": "うん。ありがとう。",
+      "INDONESIAN": "Sudah kuambil!",
+      "PORTUGUESE": "Peguei!",
+      "RUSSIAN": "Есть!",
+      "FRENCH": "Ça y est !",
+      "THAI": "ได้แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.2
+    }
+  }
+]

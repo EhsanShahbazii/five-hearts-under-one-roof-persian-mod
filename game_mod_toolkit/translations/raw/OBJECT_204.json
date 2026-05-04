@@ -1,0 +1,230 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "과장님 안녕하십니까!",
+      "ENGLISH": "Hello, Assistant Manager Dong! ",
+      "CHINESE_SIMPLIFIED": "科长您好!",
+      "CHINESE_TRADITIONAL": "科長您好!",
+      "JAPANESE": "課長、おはようございます！",
+      "INDONESIAN": "Halo, Asisten Manajer Dong!",
+      "PORTUGUESE": "Olá, Assistente Dong!",
+      "RUSSIAN": "Здравствуйте, заместитель менеджера Дон!",
+      "FRENCH": "Bonjour, assistant manager Dong !",
+      "THAI": "สวัสดีครับ ผู้ช่วยผู้จัดการดง!"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 오늘부터 출근하는 우유만입니다!",
+      "ENGLISH": "I’m Yuman, starting today!",
+      "CHINESE_SIMPLIFIED": "我是新来的吴宥万!",
+      "CHINESE_TRADITIONAL": "我是新來的吳宥萬!",
+      "JAPANESE": "今日から出勤しましたウ・ユマンです！",
+      "INDONESIAN": "Aku Yuman, mulai hari ini!",
+      "PORTUGUESE": "Eu sou Yuman, começando hoje!",
+      "RUSSIAN": "Я Юман, с сегодняшнего дня работаю здесь!",
+      "FRENCH": "Je suis Yuman, je commence aujourd’hui !",
+      "THAI": "ผมยูมันครับ วันนี้เป็นวันแรกที่เริ่มงาน!"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뽑아주셔서 감사합니다!",
+      "ENGLISH": "Thank you for hiring me!",
+      "CHINESE_SIMPLIFIED": "谢谢您给我就职的机会!",
+      "CHINESE_TRADITIONAL": "謝謝您給我就職的機會!",
+      "JAPANESE": "この度は採用していただき、ありがとうございます！",
+      "INDONESIAN": "Terima kasih sudah menerima aku bekerja!",
+      "PORTUGUESE": "Obrigado por me contratar!",
+      "RUSSIAN": "Спасибо, что приняли меня!",
+      "FRENCH": "Merci de m’avoir embauché !",
+      "THAI": "ขอบคุณที่รับผมเข้าทำงานนะครับ!"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저 여기... 여기 있습니다...!",
+      "ENGLISH": "I’m here...",
+      "CHINESE_SIMPLIFIED": "啊…在这呢...!",
+      "CHINESE_TRADITIONAL": "啊…在這呢...!",
+      "JAPANESE": "あの、これ…落ちてましたよ…！",
+      "INDONESIAN": "Aku di sini...",
+      "PORTUGUESE": "Estou aqui...",
+      "RUSSIAN": "Я уже на месте...",
+      "FRENCH": "Je suis là...",
+      "THAI": "ผมมาถึงแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 몇 시에 출근했죠?",
+      "ENGLISH": "What time did you get to work today?",
+      "CHINESE_SIMPLIFIED": "你今天几点来的?",
+      "CHINESE_TRADITIONAL": "你今天幾點來的?",
+      "JAPANESE": "今日何時に出勤しましたか？",
+      "INDONESIAN": "Jam berapa kamu datang ke kantor hari ini?",
+      "PORTUGUESE": "A que horas você chegou no trabalho hoje?",
+      "RUSSIAN": "Во сколько ты сегодня пришел?",
+      "FRENCH": "Tu es arrivé à quelle heure ce matin ?",
+      "THAI": "แล้ววันนี้คุณมาถึงกี่โมง?"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저... 9시 조금 넘어서 한 거 같습니다.",
+      "ENGLISH": "I... got here a little after 9.",
+      "CHINESE_SIMPLIFIED": "我好像是…9点多来的",
+      "CHINESE_TRADITIONAL": "我好像是…9點多來的",
+      "JAPANESE": "あ…9時ちょっと過ぎた頃だったかと…思います。",
+      "INDONESIAN": "Aku... sampai sedikit lewat dari jam 9.",
+      "PORTUGUESE": "Eu... cheguei um pouco depois das 9.",
+      "RUSSIAN": "Я... пришел немного после девяти.",
+      "FRENCH": "Euh... un peu après 9h.",
+      "THAI": "เอ่อ... นิดหน่อยหลัง 9 โมงครับ..."
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "‘같습니다’?",
+      "ENGLISH": "“A little after”?",
+      "CHINESE_SIMPLIFIED": "“好像是”?",
+      "CHINESE_TRADITIONAL": "“好像是”?",
+      "JAPANESE": "かと思います？",
+      "INDONESIAN": "“Sedikit lewat”?",
+      "PORTUGUESE": "“Um pouco depois”?",
+      "RUSSIAN": "«Немного после»?",
+      "FRENCH": "« Un peu après » ?",
+      "THAI": "นิดหน่อยหลัง?"
+    },
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "본인이 회사에 몇 시에 오는지도 모르는 직장인이 말이 된다고 생각해요?",
+      "ENGLISH": "Do you think it makes sense not to know exactly when you arrive at work?",
+      "CHINESE_SIMPLIFIED": "连自己是几点来的都不知道，像话吗?",
+      "CHINESE_TRADITIONAL": "連自己是幾點來的都不知道，像話嗎?",
+      "JAPANESE": "自分が何時に出勤したかも分からない社会人がいていいと思ってるんですか？",
+      "INDONESIAN": "Menurutmu masuk akal nggak kalau kamu nggak tahu persis kapan kamu sampai kantor?",
+      "PORTUGUESE": "Você acha que faz sentido não saber exatamente a hora que chegou ao trabalho?",
+      "RUSSIAN": "Ты считаешь нормальным не знать точное время прихода на работу?",
+      "FRENCH": "Tu trouves ça normal de ne pas savoir à quelle heure tu arrives ?",
+      "THAI": "คุณคิดว่ามันสมเหตุสมผลเหรอ ที่ไม่รู้แน่ชัดว่ามาถึงกี่โมง?"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "저 음료수 심부름을 하느라...",
+      "ENGLISH": "I was getting drinks for the office...",
+      "CHINESE_SIMPLIFIED": "啊，那是因为被吩咐去买饮料…",
+      "CHINESE_TRADITIONAL": "啊，那是因爲被吩咐去買飲料…",
+      "JAPANESE": "あの、飲み物の買うのを頼まれて…",
+      "INDONESIAN": "Aku tadi beli minuman buat kantor...",
+      "PORTUGUESE": "Eu estava pegando bebidas para o escritório...",
+      "RUSSIAN": "Я ходил за напитками для офиса...",
+      "FRENCH": "J’étais en train de prendre des boissons pour le bureau...",
+      "THAI": "ผมแวะซื้อเครื่องดื่มมาให้ที่ออฟฟิศครับ..."
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "시간 준수. 기본입니다.",
+      "ENGLISH": "Punctuality is fundamental.",
+      "CHINESE_SIMPLIFIED": "遵守时间，是最基本的",
+      "CHINESE_TRADITIONAL": "遵守時間，是最基本的",
+      "JAPANESE": "時間厳守は基本です。",
+      "INDONESIAN": "Ketepatan waktu itu penting.",
+      "PORTUGUESE": "Pontualidade é fundamental.",
+      "RUSSIAN": "Даже если придется отобрать такси у кого-то,",
+      "FRENCH": "La ponctualité, c’est essentiel.",
+      "THAI": "ตรงต่อเวลาเป็นเรื่องพื้นฐาน"
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "다른 사람 택시를 뺏어 타는 한이 있더라도 지키세요.",
+      "ENGLISH": "Even if you have to steal someone’s taxi, be on time.",
+      "CHINESE_SIMPLIFIED": "哪怕是抢了别人的出租车",
+      "CHINESE_TRADITIONAL": "哪怕是搶了別人的出租車",
+      "JAPANESE": "他の人のタクシーを奪ってでも守ってください。",
+      "INDONESIAN": "Bahkan kalau harus rebut taksi orang lain, kamu harus tepat waktu.",
+      "PORTUGUESE": "Mesmo que tenha que pegar o táxi de outra pessoa, esteja na hora certa.",
+      "RUSSIAN": "приходи вовремя.",
+      "FRENCH": "Même si tu dois piquer un taxi à quelqu’un,sois à l’heure.",
+      "THAI": "ต่อให้ต้องแย่งแท็กซี่ใครมาก็ตาม คุณก็ต้องมาตรงเวลา"
+    },
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 34.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes...",
+      "CHINESE_SIMPLIFIED": "知道了…",
+      "CHINESE_TRADITIONAL": "知道了…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim...",
+      "RUSSIAN": "Да...",
+      "FRENCH": "Oui...",
+      "THAI": "ครับ..."
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.0
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요! / 안녕하세요.",
+      "ENGLISH": "Hello! / Hi there!",
+      "CHINESE_SIMPLIFIED": "您好! / 您好！",
+      "CHINESE_TRADITIONAL": "您好! / 您好！",
+      "JAPANESE": "こんにちは！ / こんにちは",
+      "INDONESIAN": "Halo! / Hai di sana!",
+      "PORTUGUESE": "Olá! / Oi aí!",
+      "RUSSIAN": "Привет! / Здравствуйте!",
+      "FRENCH": "Salut ! / Bonjour !",
+      "THAI": "สวัสดี! / หวัดดีครับ!",
+      "PERSIAN": "سلام! / سلام!"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "처음 뵙는 분 같은데...",
+      "ENGLISH": "I don't think we've met before.",
+      "CHINESE_SIMPLIFIED": "之前没见过您...",
+      "CHINESE_TRADITIONAL": "之前沒見過您...",
+      "JAPANESE": "初めて見る顔ですが…",
+      "INDONESIAN": "Kayaknya kita belum pernah ketemu sebelumnya.",
+      "PORTUGUESE": "Acho que ainda não nos conhecemos.",
+      "RUSSIAN": "Кажется, мы раньше не встречались.",
+      "FRENCH": "Je crois qu’on ne s’est jamais rencontrés avant.",
+      "THAI": "คิดว่าเรายังไม่เคยเจอกันมาก่อนนะ",
+      "PERSIAN": "فکر نمی کنم قبلاً با هم ملاقات کرده باشیم."
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 오셨죠?",
+      "ENGLISH": "What brings you here?",
+      "CHINESE_SIMPLIFIED": "请问有什么事吗?",
+      "CHINESE_TRADITIONAL": "請問有什麼事嗎?",
+      "JAPANESE": "どういったご用件でしょうか？",
+      "INDONESIAN": "Ada perlu apa ke sini?",
+      "PORTUGUESE": "O que te traz aqui?",
+      "RUSSIAN": "Что вас сюда привело?",
+      "FRENCH": "Qu’est-ce qui vous amène ici ?",
+      "THAI": "มาทำอะไรที่นี่เหรอ?",
+      "PERSIAN": "چه چیزی شما را به اینجا می آورد؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아.. 저 오늘 여기 면접 보러 왔습니다!",
+      "ENGLISH": "Oh, I'm here for an interview today!",
+      "CHINESE_SIMPLIFIED": "啊，我是来这里面试的!",
+      "CHINESE_TRADITIONAL": "啊，我是來這裏面試的!",
+      "JAPANESE": "あ…今日、面接を受けに来ました！",
+      "INDONESIAN": "Oh, aku ke sini buat wawancara hari ini!",
+      "PORTUGUESE": "Ah, eu vim pra uma entrevista hoje!",
+      "RUSSIAN": "О, я сегодня на собеседовании!",
+      "FRENCH": "Oh, je suis là pour un entretien aujourd’hui !",
+      "THAI": "อ้อ ผมมาสัมภาษณ์งานวันนี้ครับ!",
+      "PERSIAN": "اوه، امروز برای مصاحبه اینجا هستم!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아 그렇군요!",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "原来如此!",
+      "CHINESE_TRADITIONAL": "原來如此!",
+      "JAPANESE": "ああ、そうですか！",
+      "INDONESIAN": "Oh begitu!",
+      "PORTUGUESE": "Entendi!",
+      "RUSSIAN": "Понял! ",
+      "FRENCH": "D’accord ! ",
+      "THAI": "เข้าใจแล้ว! ",
+      "PERSIAN": "Got it!"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "좋은 결과가 있길 바랍니다.",
+      "ENGLISH": "Best of luck with that.",
+      "CHINESE_SIMPLIFIED": "那祝你面试有个好结果",
+      "CHINESE_TRADITIONAL": "那祝你面試有個好結果",
+      "JAPANESE": "良い結果が出るといいですね。",
+      "INDONESIAN": "Semoga sukses ya.",
+      "PORTUGUESE": "Boa sorte com isso.",
+      "RUSSIAN": "Удачи вам.",
+      "FRENCH": "Bonne chance.",
+      "THAI": "ขอให้โชคดีนะ",
+      "PERSIAN": "با آرزوی موفقیت"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네! 감사합니다!",
+      "ENGLISH": "Thank you!",
+      "CHINESE_SIMPLIFIED": "谢谢您!",
+      "CHINESE_TRADITIONAL": "謝謝您!",
+      "JAPANESE": "はい！ありがとうございます！",
+      "INDONESIAN": "Terima kasih!",
+      "PORTUGUESE": "Obrigado!",
+      "RUSSIAN": "Спасибо!",
+      "FRENCH": "Merci !",
+      "THAI": "ขอบคุณครับ!",
+      "PERSIAN": "Thank you!"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦?",
+      "CHINESE_TRADITIONAL": "哦?",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Хм?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 25.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "면접 시작할까요?",
+      "ENGLISH": "Shall we start the interview?",
+      "CHINESE_SIMPLIFIED": "咱们开始吧？",
+      "CHINESE_TRADITIONAL": "咱們開始吧？",
+      "JAPANESE": "それでは、面接を始めましょうか？",
+      "INDONESIAN": "Kita mulai wawancaranya sekarang?",
+      "PORTUGUESE": "Vamos começar a entrevista?",
+      "RUSSIAN": "Давайте начнём интервью?",
+      "FRENCH": "On commence l’entretien ?",
+      "THAI": "เรามาเริ่มสัมภาษณ์กันเลยไหมครับ?",
+      "PERSIAN": "مصاحبه را شروع کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 28.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "자기소개부터 해주세요.",
+      "ENGLISH": "Please introduce yourself.",
+      "CHINESE_SIMPLIFIED": "请先做个自我介绍",
+      "CHINESE_TRADITIONAL": "請先做個自我介紹",
+      "JAPANESE": "まずは自己紹介からお願いします。",
+      "INDONESIAN": "Silakan perkenalkan diri.",
+      "PORTUGUESE": "Por favor, apresente-se.",
+      "RUSSIAN": "Пожалуйста, представьтесь.",
+      "FRENCH": "Veuillez vous présenter, s’il vous plaît.",
+      "THAI": "รบกวนแนะนำตัวด้วยครับ",
+      "PERSIAN": "لطفا خودتان را معرفی کنید."
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Sure!",
+      "CHINESE_SIMPLIFIED": "好的!",
+      "CHINESE_TRADITIONAL": "好的!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Tentu!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "ได้เลย!",
+      "PERSIAN": "Sure!"
+    },
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 31.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "밀크코퍼레이션의 밝은 미래!",
+      "ENGLISH": "I'm here to lead Milk Corporation!",
+      "CHINESE_SIMPLIFIED": "优乳科技的光明未来！",
+      "CHINESE_TRADITIONAL": "優乳科技的光明未來！",
+      "JAPANESE": "ミルクコーポレーションの明るい未来！",
+      "INDONESIAN": "Aku di sini buat memimpin Milk Corporation",
+      "PORTUGUESE": "Estou aqui para liderar a Milk Corporation",
+      "RUSSIAN": "Я здесь, чтобы вывести Milk Corporation",
+      "FRENCH": "Je suis ici pour mener Milk Corporation",
+      "THAI": "ผมมาที่นี่เพื่อนำ Milk Corporation",
+      "PERSIAN": "من اینجا هستم تا شرکت Milk Corporation را رهبری کنم!"
+    },
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 33.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "내가 이끌어가겠다!",
+      "ENGLISH": "Into a bright future!",
+      "CHINESE_SIMPLIFIED": "将由我来引领！",
+      "CHINESE_TRADITIONAL": "將由我來引領！",
+      "JAPANESE": "私が導きます！",
+      "INDONESIAN": "Menuju masa depan yang cerah!",
+      "PORTUGUESE": "Rumo a um futuro brilhante!",
+      "RUSSIAN": "В светлое будущее!",
+      "FRENCH": "Vers un avenir radieux !",
+      "THAI": "ไปสู่อนาคตที่สดใส!",
+      "PERSIAN": "به آینده ای روشن!"
+    },
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 34.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요! 전략팀에 지원한",
+      "ENGLISH": "Hello! I'm Yuman.",
+      "CHINESE_SIMPLIFIED": "大家好!我是申请策划组的",
+      "CHINESE_TRADITIONAL": "大家好!我是申請策劃組的",
+      "JAPANESE": "こんにちは！戦略チームにエントリーしました、",
+      "INDONESIAN": "Halo! Aku Yuman.",
+      "PORTUGUESE": "Olá! Sou Yuman.",
+      "RUSSIAN": "Здравствуйте! Я Юман.",
+      "FRENCH": "Bonjour ! Je suis Yuman.",
+      "THAI": "สวัสดีครับ! ผมชื่อยูมัน",
+      "PERSIAN": "سلام! من یومان هستم."
+    },
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "우!유!만! 입니다!",
+      "ENGLISH": "Applying for the strategy team!",
+      "CHINESE_SIMPLIFIED": "吴！宥！万!",
+      "CHINESE_TRADITIONAL": "吳！宥！萬!",
+      "JAPANESE": "ウ！ユ！マン！です！",
+      "INDONESIAN": "Melamar di tim strategi!",
+      "PORTUGUESE": "Candidato para a equipe de estratégia!",
+      "RUSSIAN": "Подаю заявку в стратегическую команду!",
+      "FRENCH": "Je postule pour l’équipe stratégie !",
+      "THAI": "มาสมัครเข้าทีมกลยุทธ์!",
+      "PERSIAN": "درخواست برای تیم استراتژی!"
+    },
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 38.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "이끄는 건 저희가 할 테니까",
+      "ENGLISH": "We’ll handle the leading",
+      "CHINESE_SIMPLIFIED": "引领是我们的工作",
+      "CHINESE_TRADITIONAL": "引領是我們的工作",
+      "JAPANESE": "導くのはこちらの仕事なので",
+      "INDONESIAN": "Kami yang bakal memimpin",
+      "PORTUGUESE": "A gente cuida da liderança",
+      "RUSSIAN": "Мы будем вести компанию,",
+      "FRENCH": "Nous nous occuperons de la direction,",
+      "THAI": "พวกเราจะเป็นผู้นำเอง",
+      "PERSIAN": "ما پیشرو را اداره خواهیم کرد"
+    },
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 41.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "잘 따라오기나 하셨으면 좋겠네요.",
+      "ENGLISH": "Just make sure to follow along.",
+      "CHINESE_SIMPLIFIED": "你能跟上我们的脚步就可以了",
+      "CHINESE_TRADITIONAL": "你能跟上我們的腳步就可以了",
+      "JAPANESE": "しっかりついてきてくださいね。",
+      "INDONESIAN": "Kamu tinggal ikuti saja.",
+      "PORTUGUESE": "Só garante que você acompanhe.",
+      "RUSSIAN": "А вы просто следуйте за нами.",
+      "FRENCH": "Vous n’avez qu’à suivre.",
+      "THAI": "คุณก็แค่ตามมาให้ทันก็พอ",
+      "PERSIAN": "فقط حتما دنبال کنید"
+    },
+    "TIME": {
+      "SHOW": 41.9,
+      "HIDE": 43.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Uh, okay...",
+      "CHINESE_SIMPLIFIED": "好的…",
+      "CHINESE_TRADITIONAL": "好的…",
+      "JAPANESE": "は、はい…。",
+      "INDONESIAN": "Uh, oke...",
+      "PORTUGUESE": "Uh, certo...",
+      "RUSSIAN": "Э-э, ладно...",
+      "FRENCH": "Euh, d’accord...",
+      "THAI": "เอ่อ... โอเคครับ...",
+      "PERSIAN": "اوه، باشه..."
+    },
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 45.0
+    }
+  }
+]

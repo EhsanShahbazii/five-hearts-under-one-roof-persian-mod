@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와하하하..... 와 진짜 맛있다...!",
+      "ENGLISH": "Haha... Wow, it's actually delicious...!",
+      "CHINESE_SIMPLIFIED": "哇，这真的是…绝了!",
+      "CHINESE_TRADITIONAL": "哇，這真的是…絕了!",
+      "JAPANESE": "ワハハハ…美味しい！",
+      "INDONESIAN": "Haha... Wow, ternyata enak beneran…!",
+      "PORTUGUESE": "Haha... Uau, é gostoso de verdade...!",
+      "RUSSIAN": "Ха-ха... Вау, это правда вкусно...!",
+      "FRENCH": "Haha... Wow, c’est vraiment délicieux...!",
+      "THAI": "ฮ่าฮ่า... ว้าว อร่อยจริงๆ ด้วย...!",
+      "PERSIAN": "هاها... وای واقعا خوشمزه است...!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "정말요? 다행이다!",
+      "ENGLISH": "Really? I'm glad!",
+      "CHINESE_SIMPLIFIED": "真的吗?那太好了!",
+      "CHINESE_TRADITIONAL": "真的嗎?那太好了!",
+      "JAPANESE": "本当ですか？よかった〜！",
+      "INDONESIAN": "Serius? Syukurlah!",
+      "PORTUGUESE": "Sério? Que bom!",
+      "RUSSIAN": "Правда? Я рад(а)!",
+      "FRENCH": "Vraiment ? Je suis content(e) !",
+      "THAI": "จริงเหรอ? ฉันดีใจจัง!",
+      "PERSIAN": "واقعا؟ خوشحالم!"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "집에서도 종종 만들어 줄게요!",
+      "ENGLISH": "I'll make it for you at home too!",
+      "CHINESE_SIMPLIFIED": "那以后在家我也给你做!",
+      "CHINESE_TRADITIONAL": "那以後在家我也給你做!",
+      "JAPANESE": "家でも作ってあげますね！",
+      "INDONESIAN": "Aku bakal buat ini juga di rumah untukmu!",
+      "PORTUGUESE": "Vou fazer pra você em casa também!",
+      "RUSSIAN": "Я приготовлю это и дома для тебя!",
+      "FRENCH": "Je t’en ferai aussi à la maison !",
+      "THAI": "ฉันจะทำให้เธอกินที่บ้านด้วย!",
+      "PERSIAN": "تو خونه هم برات درست میکنم"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "왜요? 아, 아니 안 되는데...?",
+      "ENGLISH": "What? No! That's not necessary!",
+      "CHINESE_SIMPLIFIED": "什么?不必了!",
+      "CHINESE_TRADITIONAL": "什麼?不必了!",
+      "JAPANESE": "え？い、いやそれは大丈夫です…",
+      "INDONESIAN": "Apa? Nggak usah! Nggak perlu, kok!",
+      "PORTUGUESE": "O quê? Não! Não precisa, não!",
+      "RUSSIAN": "Что? Нет! Не обязательно!",
+      "FRENCH": "Quoi ? Non ! Ce n’est pas nécessaire !",
+      "THAI": "อะไรนะ? ไม่ต้องหรอก! ไม่จำเป็น!",
+      "PERSIAN": "چی؟ نه! این لازم نیست!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "맛있다면서요.",
+      "ENGLISH": "You said it's delicious.",
+      "CHINESE_SIMPLIFIED": "你不是说好喝嘛?",
+      "CHINESE_TRADITIONAL": "你不是說好喝嘛?",
+      "JAPANESE": "何で？美味しいって言ったじゃないですか！",
+      "INDONESIAN": "Tadi kamu bilang enak.",
+      "PORTUGUESE": "Você disse que é gostoso.",
+      "RUSSIAN": "Ты сказал(а), что это вкусно.",
+      "FRENCH": "Tu as dit que c’était délicieux.",
+      "THAI": "เธอบอกว่าอร่อยนี่นา",
+      "PERSIAN": "گفتی خوشمزه است"
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "마, 맛있는데...",
+      "ENGLISH": "It is! But...",
+      "CHINESE_SIMPLIFIED": "是好喝…好是好喝",
+      "CHINESE_TRADITIONAL": "是好喝…好是好喝",
+      "JAPANESE": "ま、まあ美味しいけど…",
+      "INDONESIAN": "Iya, enak! Tapi…",
+      "PORTUGUESE": "É, tá bom! Mas...",
+      "RUSSIAN": "Так и есть! Но...",
+      "FRENCH": "C’est vrai ! Mais...",
+      "THAI": "มันก็อร่อยนะ! แต่...",
+      "PERSIAN": "هست! اما..."
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "너무 자주 먹는 것보다 좀 아껴 먹고 싶은 느낌? ",
+      "ENGLISH": "I want to savor it occasionally rather than have it all the time. ",
+      "CHINESE_SIMPLIFIED": "这么好喝的饮料我得省着点喝",
+      "CHINESE_TRADITIONAL": "這麼好喝的飲料我得省着點喝",
+      "JAPANESE": "頻繁に飲むより、たまには飲みたい感じ？",
+      "INDONESIAN": "Aku lebih suka menikmatinya sesekali daripada setiap hari.",
+      "PORTUGUESE": "Prefiro saborear de vez em quando do que o tempo todo.",
+      "RUSSIAN": "Я хочу наслаждаться этим изредка, а не постоянно.",
+      "FRENCH": "Je préfère en profiter de temps en temps plutôt que tout le temps.",
+      "THAI": "ฉันอยากลิ้มรสมันเป็นครั้งคราวมากกว่ากินบ่อยๆ",
+      "PERSIAN": "من می خواهم گهگاه اونو بچشم نه اینکه همیشه اونو داشته باشم."
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "근데 이거 원래 이렇게... 매워요?",
+      "ENGLISH": "Is it supposed to be this spicy?",
+      "CHINESE_SIMPLIFIED": "不过这玩意本来就这么辣吗?",
+      "CHINESE_TRADITIONAL": "不過這玩意本來就這麼辣嗎?",
+      "JAPANESE": "でもこれって、もともとこんなに…辛いんですか？",
+      "INDONESIAN": "Emang pedasnya begini, ya?",
+      "PORTUGUESE": "É pra ser tão picante assim?",
+      "RUSSIAN": "Оно должно быть таким острым?",
+      "FRENCH": "C’est censé être aussi épicé ?",
+      "THAI": "มันควรจะเผ็ดขนาดนี้เลยเหรอ?",
+      "PERSIAN": "قراره اینقدر تند باشه؟"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 26.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "많이 매워요?",
+      "ENGLISH": "Too spicy?",
+      "CHINESE_SIMPLIFIED": "很辣吗？",
+      "CHINESE_TRADITIONAL": "很辣嗎？",
+      "JAPANESE": "あ、辛すぎましたか？",
+      "INDONESIAN": "Terlalu pedas?",
+      "PORTUGUESE": "Picante demais?",
+      "RUSSIAN": "Слишком остро?",
+      "FRENCH": "Trop épicé ?",
+      "THAI": "เผ็ดไปเหรอ?",
+      "PERSIAN": "خیلی تند؟"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아! 창고에 사탕있는데 그거라도 줄게요!",
+      "ENGLISH": "I'll get you some candy from the storage room!",
+      "CHINESE_SIMPLIFIED": "对了!仓库有糖，我拿给你吧!",
+      "CHINESE_TRADITIONAL": "對了!倉庫有糖，我拿給你吧!",
+      "JAPANESE": "あ！倉庫にキャンディーがあるから、持ってきますね！",
+      "INDONESIAN": "Aku ambilin permen di ruang penyimpanan, ya!",
+      "PORTUGUESE": "Vou pegar um doce no estoque pra você!",
+      "RUSSIAN": "Я принесу тебе конфет из кладовой!",
+      "FRENCH": "Je vais chercher des bonbons dans la réserve !",
+      "THAI": "เดี๋ยวฉันไปหยิบน้ำตาลจากห้องเก็บของให้!",
+      "PERSIAN": "از انباری برایت آب نبات می آورم!"
+    },
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 32.3
+    }
+  }
+]

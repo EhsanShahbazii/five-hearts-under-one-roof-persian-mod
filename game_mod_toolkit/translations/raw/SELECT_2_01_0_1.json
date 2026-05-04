@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "영화에서 보면 이런데 꼭 숨어있던데...!",
+      "ENGLISH": "In movies, they always hide around here...",
+      "CHINESE_SIMPLIFIED": "电影里一般都会藏在这里…！",
+      "CHINESE_TRADITIONAL": "電影裏一般都會藏在這裏…！",
+      "JAPANESE": "映画だとこういう場所に絶対に隠れてるんだけどな…！",
+      "INDONESIAN": "Di film-film, mereka selalu sembunyi di sekitar sini...",
+      "PORTUGUESE": "Nos filmes, eles sempre se escondem por aqui...",
+      "RUSSIAN": "В фильмах они всегда прячутся где-то здесь...",
+      "FRENCH": "Dans les films, ils se cachent toujours par ici...",
+      "THAI": "ในหนัง เขาชอบซ่อนแถวนี้กัน..."
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Oh",
+      "PORTUGUESE": "Ah",
+      "RUSSIAN": "Ох...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้..."
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "없네...",
+      "ENGLISH": "Nothing here...",
+      "CHINESE_SIMPLIFIED": "并没有…",
+      "CHINESE_TRADITIONAL": "並沒有…",
+      "JAPANESE": "いないな…。",
+      "INDONESIAN": "Nggak ada apa-apa di sini...",
+      "PORTUGUESE": "Não tem nada aqui...",
+      "RUSSIAN": "Здесь ничего...",
+      "FRENCH": "Y’a rien ici...",
+      "THAI": "ไม่มีอะไรเลย..."
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.0
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고마워요...",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢你…",
+      "CHINESE_TRADITIONAL": "謝謝你…",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Terima kasih...",
+      "PORTUGUESE": "Obrigado...",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณนะ...",
+      "PERSIAN": "Thank you..."
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.24
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리를 잊지 않아줘서.",
+      "ENGLISH": "For not forgetting us.",
+      "CHINESE_SIMPLIFIED": "还记得我们",
+      "CHINESE_TRADITIONAL": "還記得我們",
+      "JAPANESE": "私たちを忘れないでいてくれて。",
+      "INDONESIAN": "Karena nggak lupa sama kami.",
+      "PORTUGUESE": "Por não se esquecer de nós.",
+      "RUSSIAN": "Что не забыли о нас.",
+      "FRENCH": "De ne pas nous avoir oubliés.",
+      "THAI": "ที่ไม่ลืมพวกเรา.",
+      "PERSIAN": "برای فراموش نکردن ما"
+    },
+    "TIME": {
+      "SHOW": 10.24,
+      "HIDE": 12.0
+    }
+  }
+]

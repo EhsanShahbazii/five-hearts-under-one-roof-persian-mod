@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "지금처럼...",
+      "ENGLISH": "How about...",
+      "CHINESE_SIMPLIFIED": "你愿意...",
+      "CHINESE_TRADITIONAL": "你願意...",
+      "JAPANESE": "今みたいに",
+      "INDONESIAN": "Bagaimana kalau...",
+      "PORTUGUESE": "Que tal...",
+      "RUSSIAN": "А как насчёт...",
+      "FRENCH": "Et si...",
+      "THAI": "แล้วถ้า...",
+      "PERSIAN": "چطور ..."
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "조금씩 나가는 연습하면서...",
+      "ENGLISH": "Practicing going out a bit more...",
+      "CHINESE_SIMPLIFIED": "练习接触外面的世界",
+      "CHINESE_TRADITIONAL": "練習接觸外面的世界",
+      "JAPANESE": "少しずつ外に出る練習をしながら…",
+      "INDONESIAN": "Kita coba latihan pergi keluar lebih sering...",
+      "PORTUGUESE": "Praticarmos sair um pouco mais...",
+      "RUSSIAN": "потренироваться чаще выходить на улицу...",
+      "FRENCH": "on s’entraînait à sortir un peu plus...",
+      "THAI": "เราฝึกออกไปข้างนอกบ่อยขึ้น...",
+      "PERSIAN": "کمی بیشتر تمرین بیرون رفتن..."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "나랑 살래요?",
+      "ENGLISH": "And living with me?",
+      "CHINESE_SIMPLIFIED": "然后和我一起生活吗?",
+      "CHINESE_TRADITIONAL": "然後和我一起生活嗎?",
+      "JAPANESE": "一緒に暮らしませんか？",
+      "INDONESIAN": "Dan tinggal bersamaku?",
+      "PORTUGUESE": "E morarmos juntos?",
+      "RUSSIAN": "и пожить со мной?",
+      "FRENCH": "et qu’on vivait ensemble ?",
+      "THAI": "แล้วมาอยู่ด้วยกันไหม?",
+      "PERSIAN": "و زندگی با من؟"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨만 원한다면",
+      "ENGLISH": "If you want",
+      "CHINESE_SIMPLIFIED": "如果你愿意的话",
+      "CHINESE_TRADITIONAL": "如果你願意的話",
+      "JAPANESE": "スンイさんさえ大丈夫なら",
+      "INDONESIAN": "Kalau kamu mau,",
+      "PORTUGUESE": "Se você quiser,",
+      "RUSSIAN": "Если хочешь,",
+      "FRENCH": "Si tu veux,",
+      "THAI": "ถ้าคุณอยาก",
+      "PERSIAN": "اگر بخواهید"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 집을 우리 세계로 생각하고",
+      "ENGLISH": "We can think of this house as our little world",
+      "CHINESE_SIMPLIFIED": "这个家就是",
+      "CHINESE_TRADITIONAL": "這個家就是",
+      "JAPANESE": "この家を僕たちの世界だと思って",
+      "INDONESIAN": "Kita bisa menganggap rumah ini sebagai dunia kecil kita",
+      "PORTUGUESE": "Podemos pensar nesta casa como nosso pequeno mundo",
+      "RUSSIAN": "мы можем считать этот дом нашим маленьким миром",
+      "FRENCH": "on peut considérer cette maison comme notre petit monde",
+      "THAI": "เราจะถือว่าบ้านหลังนี้คือโลกเล็กๆ ของเรา",
+      "PERSIAN": "ما می توانیم این خونه را دنیای کوچک خود بدانیم"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그렇게... 그냥 둘이 살아요.",
+      "ENGLISH": "And just live together, just the two of us.",
+      "CHINESE_SIMPLIFIED": "只属于我们两个人的世界",
+      "CHINESE_TRADITIONAL": "只屬於我們兩個人的世界",
+      "JAPANESE": "二人で一緒に暮らしていきましょう。",
+      "INDONESIAN": "Dan tinggal bersama, hanya kita berdua.",
+      "PORTUGUESE": "E viver juntos, só nós dois.",
+      "RUSSIAN": "и просто жить вместе, только вдвоём.",
+      "FRENCH": "et vivre ensemble, juste nous deux.",
+      "THAI": "แล้วใช้ชีวิตอยู่ด้วยกัน แค่สองคน",
+      "PERSIAN": "و فقط با هم زندگی کنیم، فقط ما دو نفر."
+    },
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.5
+    }
+  }
+]

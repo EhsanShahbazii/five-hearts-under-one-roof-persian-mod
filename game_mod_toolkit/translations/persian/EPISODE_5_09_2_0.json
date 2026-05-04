@@ -1,0 +1,522 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우유만씨 이런 스타일 좋아하는구나?",
+      "ENGLISH": "So, Yuman, you like this kind of style, huh?",
+      "CHINESE_SIMPLIFIED": "原来吴宥万你喜欢这种类型的啊?",
+      "CHINESE_TRADITIONAL": "原來吳宥萬你喜歡這種類型的啊?",
+      "JAPANESE": "ユマンさん、こういうスタイルが好きなんだ？",
+      "INDONESIAN": "Jadi, Yuman, kamu suka gaya kayak gini, ya?",
+      "PORTUGUESE": "Então, Yuman, você gosta desse tipo de estilo, né?",
+      "RUSSIAN": "Итак, Юман, тебе нравится такой стиль, да?",
+      "FRENCH": "Alors, Yuman, tu aimes ce genre de style, hein ?",
+      "THAI": "งั้น ยูมัน เธอชอบสไตล์แบบนี้สินะ?",
+      "PERSIAN": "بنابراین، یومان، شما این نوع سبک را دوست دارید، ها؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "알았어~",
+      "ENGLISH": "Got it~",
+      "CHINESE_SIMPLIFIED": "我知道了~",
+      "CHINESE_TRADITIONAL": "我知道了~",
+      "JAPANESE": "よく、分かったわ。",
+      "INDONESIAN": "Oke, paham~",
+      "PORTUGUESE": "Entendi~",
+      "RUSSIAN": "Поняла~",
+      "FRENCH": "Compris~",
+      "THAI": "เข้าใจละ~",
+      "PERSIAN": "چشم، حله!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "예? 아니 취향이라기보다는...!",
+      "ENGLISH": "Huh? No, it’s not like that...!",
+      "CHINESE_SIMPLIFIED": "嗯...与其说喜欢…",
+      "CHINESE_TRADITIONAL": "嗯...與其說喜歡…",
+      "JAPANESE": "えっ？いや、好みってわけじゃなくて…！",
+      "INDONESIAN": "Hah? Enggak, bukan gitu...!",
+      "PORTUGUESE": "Hã? Não, não é isso...!",
+      "RUSSIAN": "Что? Нет, это не так...!",
+      "FRENCH": "Quoi ? Non, ce n’est pas ça... !",
+      "THAI": "หือ? ไม่ ไม่ใช่แบบนั้น...!",
+      "PERSIAN": "ها؟ نه اینطوری نیست...!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭔가 신기해서...",
+      "ENGLISH": "It’s just... interesting...",
+      "CHINESE_SIMPLIFIED": "总感觉很神奇…",
+      "CHINESE_TRADITIONAL": "總感覺很神奇…",
+      "JAPANESE": "何か、不思議で…",
+      "INDONESIAN": "Aku cuma... penasaran aja...",
+      "PORTUGUESE": "É só que... achei interessante...",
+      "RUSSIAN": "Это просто... интересно...",
+      "FRENCH": "C’est juste... intéressant...",
+      "THAI": "มันแค่... น่าสนใจ...",
+      "PERSIAN": "فقط ... جالب است ..."
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "신기해?",
+      "ENGLISH": "Interesting?",
+      "CHINESE_SIMPLIFIED": "神奇?",
+      "CHINESE_TRADITIONAL": "神奇?",
+      "JAPANESE": "不思議？",
+      "INDONESIAN": "Penasaran?",
+      "PORTUGUESE": "Interessante?",
+      "RUSSIAN": "Интересно?",
+      "FRENCH": "Intéressant ?",
+      "THAI": "น่าสนใจ?",
+      "PERSIAN": "جالبه؟"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 그렇게 신기한데?",
+      "ENGLISH": "What’s so interesting about it?",
+      "CHINESE_SIMPLIFIED": "哪里神奇啊?",
+      "CHINESE_TRADITIONAL": "哪裏神奇啊?",
+      "JAPANESE": "何がそんなに不思議なの？",
+      "INDONESIAN": "Apa yang bikin penasaran?",
+      "PORTUGUESE": "O que tem de interessante nisso?",
+      "RUSSIAN": "Что в этом такого интересного?",
+      "FRENCH": "Qu’est-ce qui est si intéressant là-dedans ?",
+      "THAI": "น่าสนใจยังไงล่ะ?",
+      "PERSIAN": "چه چیزی در اون جالب است؟"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "안 바르고 뭐 해?",
+      "ENGLISH": "What are you waiting for? Haven't you applied it yet?",
+      "CHINESE_SIMPLIFIED": "怎么还不涂?",
+      "CHINESE_TRADITIONAL": "怎麼還不塗?",
+      "JAPANESE": "オイル塗らないで、何にしてるの？",
+      "INDONESIAN": "Kenapa masih nunggu? Belum diolesin juga?",
+      "PORTUGUESE": "O que tá esperando? Ainda não aplicou?",
+      "RUSSIAN": "Что ты ждёшь? Ты ещё не нанес это?",
+      "FRENCH": "Qu’est-ce que tu attends ? Tu ne l’as pas encore appliqué ?",
+      "THAI": "เธอรออะไรอยู่? ยังไม่ทาน้ำมันอีกเหรอ?",
+      "PERSIAN": "منتظر چی هستی؟ هنوز اعمالش نکردی؟"
+    },
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "설마 오일도 바를 줄 모르는 거 아니지?",
+      "ENGLISH": "Wait... don’t tell me you don’t even know how to apply oil?",
+      "CHINESE_SIMPLIFIED": "你不会连防晒油该怎么涂都不知道吧?",
+      "CHINESE_TRADITIONAL": "你不會連防曬油該怎麼塗都不知道吧?",
+      "JAPANESE": "まさか、オイルの塗り方も知らないとか？",
+      "INDONESIAN": "Tunggu... jangan bilang kamu gak tahu cara olesin minyak?",
+      "PORTUGUESE": "Espera... não me diga que você nem sabe como passar óleo?",
+      "RUSSIAN": "Постой... не говори, что ты даже не знаешь, как нанести масло?",
+      "FRENCH": "Attends... ne me dis pas que tu ne sais même pas comment appliquer de l’huile ?",
+      "THAI": "เดี๋ยวนะ... อย่าบอกนะว่าเธอทาน้ำมันไม่เป็น?",
+      "PERSIAN": "صبر کن... به من نگو ​​که حتی نمی دانی چگونه روغن بزنی؟"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아, 알죠 당연히...",
+      "ENGLISH": "N-no, of course I know!",
+      "CHINESE_SIMPLIFIED": "啊，我当然知道了…",
+      "CHINESE_TRADITIONAL": "啊，我當然知道了…",
+      "JAPANESE": "い、いえ！もちろん知ってますよ…",
+      "INDONESIAN": "N-nggak, tentu aku tahu!",
+      "PORTUGUESE": "N-não, claro que sei!",
+      "RUSSIAN": "Н-нет, конечно знаю!",
+      "FRENCH": "N-non, bien sûr que je sais !",
+      "THAI": "ไ-ไม่ แน่นอนว่าฉันทำเป็น!",
+      "PERSIAN": "نه، البته می دانم!"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "앗 차가!",
+      "ENGLISH": "Ah! That’s cold!",
+      "CHINESE_SIMPLIFIED": "啊好凉!",
+      "CHINESE_TRADITIONAL": "啊好涼!",
+      "JAPANESE": "うわっ、冷たい！",
+      "INDONESIAN": "Ah! Dingin!",
+      "PORTUGUESE": "Ah! Tá frio!",
+      "RUSSIAN": "А! Холодно!",
+      "FRENCH": "Ah ! C’est froid !",
+      "THAI": "อ๊า! เย็นจัง!",
+      "PERSIAN": "آه! این سرد است!"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 29.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "놀랬잖아",
+      "ENGLISH": "See, you scared me.",
+      "CHINESE_SIMPLIFIED": "吓我一跳",
+      "CHINESE_TRADITIONAL": "嚇我一跳",
+      "JAPANESE": "びっくりしたじゃない！",
+      "INDONESIAN": "Tuh kan, kamu bikin aku kaget.",
+      "PORTUGUESE": "Tá vendo? Você me assustou.",
+      "RUSSIAN": "Видишь, ты меня напугал.",
+      "FRENCH": "Tu vois, tu m’as fait peur.",
+      "THAI": "เห็นไหม เธอทำฉันตกใจ",
+      "PERSIAN": "ببین منو ترسوندی"
+    },
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "꼼꼼히 발라줘!",
+      "ENGLISH": "Make sure you apply it properly!",
+      "CHINESE_SIMPLIFIED": "你涂仔细一点啊",
+      "CHINESE_TRADITIONAL": "你塗仔細一點啊",
+      "JAPANESE": "ちゃんと塗ってよ！",
+      "INDONESIAN": "Pastikan olesinnya bener, ya!",
+      "PORTUGUESE": "Passa direitinho, hein!",
+      "RUSSIAN": "Смотри, чтобы всё правильно нанёс!",
+      "FRENCH": "Assure-toi de bien l’appliquer !",
+      "THAI": "อย่าลืมทาให้ทั่วด้วยนะ!",
+      "PERSIAN": "مطمئن شوید که اونو به درستی اعمال می کنید!"
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 33.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Right, okay!",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya, iya!",
+      "PORTUGUESE": "Certo, tá bom!",
+      "RUSSIAN": "Да, ладно!",
+      "FRENCH": "Oui, d’accord !",
+      "THAI": "ได้เลย โอเค!",
+      "PERSIAN": "درسته، باشه!"
+    },
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 35.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "뭐해?",
+      "ENGLISH": "What are you doing?",
+      "CHINESE_SIMPLIFIED": "干嘛呢?",
+      "CHINESE_TRADITIONAL": "幹嘛呢?",
+      "JAPANESE": "何してるの？",
+      "INDONESIAN": "Kamu ngapain?",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "RUSSIAN": "Что ты делаешь?",
+      "FRENCH": "Qu’est-ce que tu fais ?",
+      "THAI": "เธอกำลังทำอะไรอยู่น่ะ?",
+      "PERSIAN": "What are you doing?"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 39.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 39.6,
+      "HIDE": 40.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "풀고 발라줘야지.",
+      "ENGLISH": "You need to loosen it first.",
+      "CHINESE_SIMPLIFIED": "你得解开再涂啊",
+      "CHINESE_TRADITIONAL": "你得解開再塗啊",
+      "JAPANESE": "解いて、塗らないと。",
+      "INDONESIAN": "Kamu harus longgarin dulu.",
+      "PORTUGUESE": "Você precisa afrouxar primeiro.",
+      "RUSSIAN": "Нужно сначала ослабить это.",
+      "FRENCH": "Il faut d’abord desserrer ça.",
+      "THAI": "เธอต้องคลายมันออกก่อนนะ",
+      "PERSIAN": "ابتدا باید اونو شل کنید."
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 42.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "이, 이걸요?",
+      "ENGLISH": "Loosen it? T-this?",
+      "CHINESE_SIMPLIFIED": "这...这个吗?",
+      "CHINESE_TRADITIONAL": "這...這個嗎?",
+      "JAPANESE": "こ、これですか？",
+      "INDONESIAN": "Longgarin? I-ini?",
+      "PORTUGUESE": "Afrouxar? I-isso?",
+      "RUSSIAN": "Ослабить? Э-это?",
+      "FRENCH": "Desserrer ? C-ça ?",
+      "THAI": "คลายมันออก? ต-ตรงนี้?",
+      "PERSIAN": "شلش کنم؟ T-این؟"
+    },
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 44.1
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "뒤에 끈을 풀고 발라야 할 거 아니야?",
+      "ENGLISH": "Yeah, you need to untie the strap to apply it, right?",
+      "CHINESE_SIMPLIFIED": "你得解开泳衣后面的带子再涂啊",
+      "CHINESE_TRADITIONAL": "你得解開泳衣後面的帶子再塗啊",
+      "JAPANESE": "後ろの紐、解いて塗らなきゃダメでしょ？",
+      "INDONESIAN": "Iya, kamu harus lepas talinya dulu biar bisa diolesin, kan?",
+      "PORTUGUESE": "Sim, tem que soltar a alça pra passar direito, né?",
+      "RUSSIAN": "Да, нужно развязать ремешок, чтобы нанести, верно?",
+      "FRENCH": "Oui, il faut détacher la sangle pour l’appliquer, non ?",
+      "THAI": "ใช่ เธอต้องแกะสายออกก่อนถึงจะทาได้ใช่ไหม?",
+      "PERSIAN": "بله، برای اعمال اون باید بند را باز کنید، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 47.2
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "제가요?",
+      "ENGLISH": "Me?!",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "僕がですか？",
+      "INDONESIAN": "Aku?!",
+      "PORTUGUESE": "Eu?!",
+      "RUSSIAN": "Я?!",
+      "FRENCH": "Moi ?!",
+      "THAI": "ฉัน?!",
+      "PERSIAN": "من؟!"
+    },
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 48.6
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "됐어 내가 할게.",
+      "ENGLISH": "Never mind, I’ll do it myself.",
+      "CHINESE_SIMPLIFIED": "算了，我自己来",
+      "CHINESE_TRADITIONAL": "算了，我自己來",
+      "JAPANESE": "もういい、自分でやるから。",
+      "INDONESIAN": "Udahlah, biar aku aja.",
+      "PORTUGUESE": "Deixa, eu faço sozinha.",
+      "RUSSIAN": "Забудь, я сама сделаю.",
+      "FRENCH": "Laisse tomber, je vais le faire moi-même.",
+      "THAI": "ช่างเถอะ ฉันทำเองก็ได้",
+      "PERSIAN": "مهم نیست، خودم این کار را انجام خواهم داد."
+    },
+    "TIME": {
+      "SHOW": 49.4,
+      "HIDE": 50.6
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "저 뒤에 다 발랐습니다...!",
+      "ENGLISH": "I applied it all on your back...!",
+      "CHINESE_SIMPLIFIED": "后背都涂好了…!",
+      "CHINESE_TRADITIONAL": "後背都塗好了…!",
+      "JAPANESE": "後ろ、ちゃんと塗りましたよ…！",
+      "INDONESIAN": "Aku udah olesin semua di punggungmu...!",
+      "PORTUGUESE": "Eu já passei tudo nas suas costas...!",
+      "RUSSIAN": "Я всё нанесла на твою спину...!",
+      "FRENCH": "J’ai tout appliqué sur ton dos... !",
+      "THAI": "ฉันทาให้ทั่วหลังของเธอแล้ว...!",
+      "PERSIAN": "همه رو پشتت گذاشتم...!"
+    },
+    "TIME": {
+      "SHOW": 74.2,
+      "HIDE": 76.4
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 앞에도 발라줘야지.",
+      "ENGLISH": "Now you need to do the front too.",
+      "CHINESE_SIMPLIFIED": "那该涂前面了",
+      "CHINESE_TRADITIONAL": "那該塗前面了",
+      "JAPANESE": "じゃあ、前も塗ってよ。",
+      "INDONESIAN": "Sekarang kamu harus oles di depan juga.",
+      "PORTUGUESE": "Agora você precisa passar na frente também.",
+      "RUSSIAN": "Теперь тебе нужно сделать спереди тоже.",
+      "FRENCH": "Maintenant, il faut en mettre devant aussi.",
+      "THAI": "ทีนี้ก็ต้องทาข้างหน้าด้วยนะ",
+      "PERSIAN": "اکنون باید قسمت جلویی را نیز انجام دهید."
+    },
+    "TIME": {
+      "SHOW": 77.0,
+      "HIDE": 78.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "앞에도요?",
+      "ENGLISH": "The front?",
+      "CHINESE_SIMPLIFIED": "前面也要涂?",
+      "CHINESE_TRADITIONAL": "前面也要塗?",
+      "JAPANESE": "前もですか？",
+      "INDONESIAN": "Di depan?",
+      "PORTUGUESE": "Na frente?",
+      "RUSSIAN": "Спереди?",
+      "FRENCH": "Devant ?",
+      "THAI": "ข้างหน้า?",
+      "PERSIAN": "جلو؟"
+    },
+    "TIME": {
+      "SHOW": 79.3,
+      "HIDE": 80.4
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "당연한 거 아니야?",
+      "ENGLISH": "Isn’t that obvious?",
+      "CHINESE_SIMPLIFIED": "当然要涂啦",
+      "CHINESE_TRADITIONAL": "當然要塗啦",
+      "JAPANESE": "当然でしょ？",
+      "INDONESIAN": "Ya jelas, dong!",
+      "PORTUGUESE": "Não é óbvio?",
+      "RUSSIAN": "Это не очевидно?",
+      "FRENCH": "C’est pas évident ?",
+      "THAI": "มันไม่ชัดเจนเหรอ?",
+      "PERSIAN": "این واضح نیست؟"
+    },
+    "TIME": {
+      "SHOW": 80.4,
+      "HIDE": 81.9
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "뭐해 빨리 후크 채워.",
+      "ENGLISH": "Come on, hurry up and hook it back.",
+      "CHINESE_SIMPLIFIED": "愣着干嘛, 赶紧帮我扣上",
+      "CHINESE_TRADITIONAL": "愣着幹嘛, 趕緊幫我扣上",
+      "JAPANESE": "何してるの、早くフック留めて。",
+      "INDONESIAN": "Ayo, cepetan kancingin lagi.",
+      "PORTUGUESE": "Anda logo, prende de volta.",
+      "RUSSIAN": "Ну же, поторопись и застегни обратно.",
+      "FRENCH": "Allez, dépêche-toi et raccroche-la.",
+      "THAI": "เร็วเข้า รีบติดกลับคืนด้วย",
+      "PERSIAN": "بیا، عجله کن و اونو پس بگیر."
+    },
+    "TIME": {
+      "SHOW": 81.9,
+      "HIDE": 83.7
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "아... 네",
+      "ENGLISH": "Oh... right.",
+      "CHINESE_SIMPLIFIED": "啊..遵命",
+      "CHINESE_TRADITIONAL": "啊..遵命",
+      "JAPANESE": "あ…はい。",
+      "INDONESIAN": "Oh... iya.",
+      "PORTUGUESE": "Ah... certo.",
+      "RUSSIAN": "Ой... точно.",
+      "FRENCH": "Ah... oui, d’accord.",
+      "THAI": "อ๋อ... จริงด้วย",
+      "PERSIAN": "اوه... درسته"
+    },
+    "TIME": {
+      "SHOW": 84.0,
+      "HIDE": 84.5
+    }
+  }
+]

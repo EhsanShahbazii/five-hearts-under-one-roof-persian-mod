@@ -1,0 +1,382 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까...",
+      "ENGLISH": "So...",
+      "CHINESE_SIMPLIFIED": "总结一下的话就是...",
+      "CHINESE_TRADITIONAL": "總結一下的話就是...",
+      "JAPANESE": "つまり…",
+      "INDONESIAN": "Jadi...",
+      "PORTUGUESE": "Então...",
+      "RUSSIAN": "Итак...",
+      "FRENCH": "Alors...",
+      "THAI": "เอาล่ะ...",
+      "PERSIAN": "پس..."
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이분은 너 직장 상사 동그란 님이시고...",
+      "ENGLISH": "This person is your boss, Ms. Dong Gran",
+      "CHINESE_SIMPLIFIED": "这位是你的上司佟圆圆女士…",
+      "CHINESE_TRADITIONAL": "這位是你的上司佟圓圓女士…",
+      "JAPANESE": "この方があんたの職場の上司、ドン・グランさんで…",
+      "INDONESIAN": "Orang ini bosmu, Ibu Dong Geu-ran",
+      "PORTUGUESE": "Essa pessoa é sua chefe, Sra. Dong Geu-ran",
+      "RUSSIAN": "Эта женщина — ваш босс, мисс Донг Гран,",
+      "FRENCH": "Cette personne est votre patronne, Mme Dong Gran,",
+      "THAI": "คนนี้คือหัวหน้าของพวกคุณ คุณดงแกรน",
+      "PERSIAN": "این شخص رئیس شما است، خانم دونگ گران"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이분은 그...",
+      "ENGLISH": "and this person...",
+      "CHINESE_SIMPLIFIED": "这位是…",
+      "CHINESE_TRADITIONAL": "這位是…",
+      "JAPANESE": "この方はその…",
+      "INDONESIAN": "dan orang ini...",
+      "PORTUGUESE": "e essa pessoa...",
+      "RUSSIAN": "а это...",
+      "FRENCH": "et cette personne...",
+      "THAI": "แล้วคนนี้...",
+      "PERSIAN": "و این شخص..."
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "앗 저는...",
+      "ENGLISH": "Uhm... I'm...",
+      "CHINESE_SIMPLIFIED": "啊 我是...",
+      "CHINESE_TRADITIONAL": "啊 我是...",
+      "JAPANESE": "あ、私は…",
+      "INDONESIAN": "Uhm... Aku...",
+      "PORTUGUESE": "Uhm... Eu sou...",
+      "RUSSIAN": "Ээм... Я...",
+      "FRENCH": "Euh... Je suis...",
+      "THAI": "เอ่อ... ฉัน...",
+      "PERSIAN": "اوهوم ... من ..."
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그 밀크걸스 밍밍 님 맞죠?",
+      "ENGLISH": "Is she Mingming from Milk Girls?",
+      "CHINESE_SIMPLIFIED": "那个，牛奶少女的敏敏对吧？",
+      "CHINESE_TRADITIONAL": "那個，牛奶少女的敏敏對吧？",
+      "JAPANESE": "あの、ミルクガールズのミンミンさんですよね？",
+      "INDONESIAN": "Dia Mingming dari Milk Girls?",
+      "PORTUGUESE": "Ela é a Mingming do Milk Girls?",
+      "RUSSIAN": "Это Минг-Минг из Milk Girls?",
+      "FRENCH": "C’est Mingming des Milk Girls ?",
+      "THAI": "นี่ใช่หมิงหมิงจาก Milk Girls เหรอ?",
+      "PERSIAN": "او از Milk Girls مینگ مینگ؟"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 사람 이름이 밍밍이야?",
+      "ENGLISH": "How is someone's name Mingming?",
+      "CHINESE_SIMPLIFIED": "怎么会有人名字叫敏敏啊?",
+      "CHINESE_TRADITIONAL": "怎麼會有人名字叫敏敏啊?",
+      "JAPANESE": "どうして人の名前がミンミンなのかしら？",
+      "INDONESIAN": "Gimana bisa nama seseorang Mingming?",
+      "PORTUGUESE": "Como alguém pode se chamar Mingming?",
+      "RUSSIAN": "Как можно назвать кого-то Минг-Минг?",
+      "FRENCH": "Comment quelqu’un peut s’appeler Mingming ?",
+      "THAI": "มีคนชื่อหมิงหมิงได้ยังไงเนี่ย?",
+      "PERSIAN": "اسم کسی مینگ مینگ چطوره؟"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니 이게 어떻게 된 거야? ",
+      "ENGLISH": "How did this happen?",
+      "CHINESE_SIMPLIFIED": "不过这到底是怎么回事啊?",
+      "CHINESE_TRADITIONAL": "不過這到底是怎麼回事啊?",
+      "JAPANESE": "一体、これはどういうこと？",
+      "INDONESIAN": "Kok bisa begini?",
+      "PORTUGUESE": "Como isso aconteceu?",
+      "RUSSIAN": "Как это вообще получилось?",
+      "FRENCH": "Comment ça a pu arriver ?",
+      "THAI": "เรื่องนี้เกิดขึ้นได้ยังไง?",
+      "PERSIAN": "چگونه این اتفاق افتاد؟"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 님이 어떻게 여기에 있어?",
+      "ENGLISH": "How is Mingming here?",
+      "CHINESE_SIMPLIFIED": "敏敏怎么会在这?",
+      "CHINESE_TRADITIONAL": "敏敏怎麼會在這?",
+      "JAPANESE": "ミンミンさんがどうしてここにいるのよ？",
+      "INDONESIAN": "Kenapa Mingming ada di sini?",
+      "PORTUGUESE": "Por que a Mingming está aqui?",
+      "RUSSIAN": "Как Минг-Минг оказалась здесь?",
+      "FRENCH": "Comment Mingming est ici ?",
+      "THAI": "หมิงหมิงมาอยู่ที่นี่ได้ยังไง?",
+      "PERSIAN": "مینگ مینگ اینجا چطوره؟"
+    },
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "하... 너가 쪽지를 다 섞어놔서 그런 거잖아.",
+      "ENGLISH": "Sigh... It’s because you mixed up all the notes.",
+      "CHINESE_SIMPLIFIED": "还不是因为你把纸条给弄混了…",
+      "CHINESE_TRADITIONAL": "還不是因爲你把紙條給弄混了…",
+      "JAPANESE": "はぁ…お前がメモを全部ぐちゃぐちゃにしたからだろ。",
+      "INDONESIAN": "Hah... Ini semua gara-gara kamu campur aduk semua catatan.",
+      "PORTUGUESE": "Ai... É porque você misturou todas as notas.",
+      "RUSSIAN": "Вздох... Всё из-за того, что ты перепутал все записки.",
+      "FRENCH": "Pfff... C’est parce que tu as mélangé toutes les notes.",
+      "THAI": "เฮ้อ... ก็เพราะนายสลับโน้ตหมดเลยไงล่ะ",
+      "PERSIAN": "آه... به خاطر همین است که همه نت ها را با هم قاطی کردی."
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 19.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그게 무슨 소리야.",
+      "ENGLISH": "What are you talking about?",
+      "CHINESE_SIMPLIFIED": "什么意思啊?",
+      "CHINESE_TRADITIONAL": "什麼意思啊?",
+      "JAPANESE": "それ、どういう意味だよ。",
+      "INDONESIAN": "Kamu ngomong apa sih?",
+      "PORTUGUESE": "Do que você tá falando?",
+      "RUSSIAN": "О чём ты вообще?",
+      "FRENCH": "De quoi tu parles ?",
+      "THAI": "พูดเรื่องอะไรเนี่ย?",
+      "PERSIAN": "What are you talking about?"
+    },
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 어떻게 됐든 그... ",
+      "ENGLISH": "Well, anyway...",
+      "CHINESE_SIMPLIFIED": "反正不管怎么说吧...",
+      "CHINESE_TRADITIONAL": "反正不管怎麼說吧...",
+      "JAPANESE": "まあ、どうなったにせよ…",
+      "INDONESIAN": "Yah, pokoknya...",
+      "PORTUGUESE": "Bom, de qualquer forma...",
+      "RUSSIAN": "Ну, в любом случае...",
+      "FRENCH": "Bon, enfin...",
+      "THAI": "เอาเถอะ...",
+      "PERSIAN": "خب به هر حال..."
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "다 돈 내고 들어와서 사는 거니까 사이좋게 지내자고요.",
+      "ENGLISH": "Since we all paid to live here, let’s get along.",
+      "CHINESE_SIMPLIFIED": "大家都是交了房租住进来的，和睦相处吧~",
+      "CHINESE_TRADITIONAL": "大家都是交了房租住進來的，和睦相處吧~",
+      "JAPANESE": "みんなお金を払ってここに住んでるんだから、仲良くやりましょう。",
+      "INDONESIAN": "Karena kita semua bayar buat tinggal di sini, ayo kita rukun.",
+      "PORTUGUESE": "Já que todos pagamos para morar aqui, vamos nos dar bem.",
+      "RUSSIAN": "Раз уж все заплатили за проживание, давайте жить дружно.",
+      "FRENCH": "Puisque tout le monde a payé pour vivre ici, essayons de bien nous entendre.",
+      "THAI": "ไหน ๆ ทุกคนก็จ่ายแล้ว มาอยู่กันดี ๆ เถอะนะ",
+      "PERSIAN": "از آنجایی که همه ما برای زندگی در اینجا پول دادیم، بیایید کنار بیاییم."
+    },
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 28.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아... 그리고 우유만 옆방은 제 방이거든요?",
+      "ENGLISH": "Oh, and the room next to Yuman's is mine. ",
+      "CHINESE_SIMPLIFIED": "啊…还有，吴宥万隔壁的房间是我的房间",
+      "CHINESE_TRADITIONAL": "啊…還有，吳宥萬隔壁的房間是我的房間",
+      "JAPANESE": "あ…それと、ユマンの隣の部屋は私の部屋だからね？",
+      "INDONESIAN": "Oh, dan kamar di sebelah kamarnya Yuman itu milikku.",
+      "PORTUGUESE": "Ah, e o quarto ao lado do Yuman é meu.",
+      "RUSSIAN": "Ах, и комната рядом с Юманом — моя.",
+      "FRENCH": "Ah, et la chambre à côté de celle de Yuman est la mienne.",
+      "THAI": "อ้อ แล้วห้องข้าง ๆ ของยูมันเป็นของฉันนะ",
+      "PERSIAN": "اوه، و اتاق کنار یومان مال من است."
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 31.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나머지 방들로 서로 나눠 가지세요.",
+      "ENGLISH": "You can split the remaining rooms.",
+      "CHINESE_SIMPLIFIED": "剩下的房间两位看着自行分配吧。",
+      "CHINESE_TRADITIONAL": "剩下的房間兩位看着自行分配吧。",
+      "JAPANESE": "皆さんは他の部屋を使ってください。",
+      "INDONESIAN": "Kalian bisa bagi kamar sisanya.",
+      "PORTUGUESE": "Vocês podem dividir os outros quartos.",
+      "RUSSIAN": "Оставшиеся можете поделить.",
+      "FRENCH": "Vous pouvez partager les autres.",
+      "THAI": "ที่เหลือพวกนายแบ่งกันเองละกัน",
+      "PERSIAN": "می توانید اتاق های باقی مانده را تقسیم کنید."
+    },
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.9
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "하... 넌 돈 안 냈잖아....",
+      "ENGLISH": "You didn’t pay...",
+      "CHINESE_SIMPLIFIED": "哈...你可没交房租啊",
+      "CHINESE_TRADITIONAL": "哈...你可沒交房租啊",
+      "JAPANESE": "はぁ…お前、お金払ってないだろ…",
+      "INDONESIAN": "Kamu nggak bayar...",
+      "PORTUGUESE": "Você não pagou...",
+      "RUSSIAN": "Ты ведь не заплатила...",
+      "FRENCH": "Tu n’as même pas payé...",
+      "THAI": "เธอยังไม่ได้จ่ายเลยนี่...",
+      "PERSIAN": "پرداخت نکردی..."
+    },
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 37.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 아무튼 우리 잘 지내봐요.",
+      "ENGLISH": "Anyway, let’s all get along.",
+      "CHINESE_SIMPLIFIED": "那我们合租愉快",
+      "CHINESE_TRADITIONAL": "那我們合租愉快",
+      "JAPANESE": "まあ、とにかく、これからよろしくお願いします。",
+      "INDONESIAN": "Yah, pokoknya, ayo rukun, ya.",
+      "PORTUGUESE": "Enfim, vamos nos dar bem, tá?",
+      "RUSSIAN": "Ладно, давайте просто уживаться.",
+      "FRENCH": "Bref, essayons de nous entendre.",
+      "THAI": "ช่างเถอะ อยู่กันดี ๆ ก็พอ",
+      "PERSIAN": "به هر حال بیایید با هم کنار بیاییم."
+    },
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 39.9
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "먕..먕..님?",
+      "ENGLISH": "Min... Min...?",
+      "CHINESE_SIMPLIFIED": "米…米?",
+      "CHINESE_TRADITIONAL": "米…米?",
+      "JAPANESE": "ミャン…ミャン…さん？",
+      "INDONESIAN": "Min... Min...?",
+      "PORTUGUESE": "Min... Min...?",
+      "RUSSIAN": "Мин... Мин...?",
+      "FRENCH": "Min... Min...?",
+      "THAI": "มิน... มิน...?",
+      "PERSIAN": "حداقل... حداقل؟"
+    },
+    "TIME": {
+      "SHOW": 41.9,
+      "HIDE": 43.3
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "편하게 그냥 민정이라고 불러주세요! 잘 부탁드려요!",
+      "ENGLISH": "Just call me Min-jung! Nice to meet you all!",
+      "CHINESE_SIMPLIFIED": "叫我敏静就好啦~合租愉快!",
+      "CHINESE_TRADITIONAL": "叫我敏靜就好啦~合租愉快!",
+      "JAPANESE": "ミンジョンって呼んでください！よろしくお願いします！",
+      "INDONESIAN": "Panggil aku Min-jung aja! Senang bertemu dengan kalian!",
+      "PORTUGUESE": "Pode me chamar de Min-jung! Prazer em conhecer todos vocês!",
+      "RUSSIAN": "Просто зовите меня Мин-Джун! Приятно познакомиться!",
+      "FRENCH": "Appelez-moi juste Min-jung ! Enchantée !",
+      "THAI": "เรียกฉันว่ามินจองก็พอ! ยินดีที่ได้รู้จักทุกคน!",
+      "PERSIAN": "فقط منو مین‌جونگ صدا کن! از آشنایی با همه شما خوشحالم!"
+    },
+    "TIME": {
+      "SHOW": 44.0,
+      "HIDE": 47.6
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "땡그란 님!",
+      "ENGLISH": "Thank you, Ms. Dang!",
+      "CHINESE_SIMPLIFIED": "圆滚滚女士~",
+      "CHINESE_TRADITIONAL": "圓滾滾女士~",
+      "JAPANESE": "テン・グランさん！",
+      "INDONESIAN": "Terima kasih, Ibu Dang!",
+      "PORTUGUESE": "Obrigada, Sra. Dang!",
+      "RUSSIAN": "Спасибо, мисс Донг!",
+      "FRENCH": "Merci, Mme Dong !",
+      "THAI": "ขอบคุณค่ะ คุณดง!",
+      "PERSIAN": "ممنون خانم دنگ!"
+    },
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 49.0
+    }
+  }
+]

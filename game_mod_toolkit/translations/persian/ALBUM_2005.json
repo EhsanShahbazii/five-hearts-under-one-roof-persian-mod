@@ -1,0 +1,222 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음, 총각한테는 그게 중요하구나?",
+      "ENGLISH": "So, that's what's important to you, huh?",
+      "CHINESE_SIMPLIFIED": "嗯，对小伙子来说那个很重要啊？",
+      "CHINESE_TRADITIONAL": "嗯，對小夥子來說那個很重要啊？",
+      "JAPANESE": "ふむ、あんたにはそれが大事なんだね？",
+      "INDONESIAN": "Jadi, itu yang penting buat kamu, ya?",
+      "PORTUGUESE": "Então, isso é o que é importante pra você, né?",
+      "RUSSIAN": "Значит, это для тебя важно, да?",
+      "FRENCH": "Donc, c’est ce qui est important pour toi, hein ?",
+      "THAI": "งั้น นั่นคือสิ่งที่สำคัญสำหรับเธอสินะ?",
+      "PERSIAN": "بنابراین، این چیزی است که برای شما مهم است، ها؟"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "근데 할머니 왜요...?",
+      "ENGLISH": "Why do you ask, grandma?",
+      "CHINESE_SIMPLIFIED": "但是奶奶为什么问这个...？",
+      "CHINESE_TRADITIONAL": "但是奶奶爲什麼問這個...？",
+      "JAPANESE": "でもおばあさん、何で…？",
+      "INDONESIAN": "Kenapa tanya begitu, nenek?",
+      "PORTUGUESE": "Por que pergunta isso, vovó?",
+      "RUSSIAN": "Почему ты спрашиваешь, бабушка?",
+      "FRENCH": "Pourquoi tu demandes, grand-mère ?",
+      "THAI": "ทำไมถึงถามล่ะ ยาย?",
+      "PERSIAN": "چرا میپرسی مادربزرگ؟"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그걸 네가 알지 내가 어떻게 알아!",
+      "ENGLISH": "How should I know? That's for you to figure out! ",
+      "CHINESE_SIMPLIFIED": "那个你知道，我怎么知道！",
+      "CHINESE_TRADITIONAL": "那個你知道，我怎麼知道！",
+      "JAPANESE": "それはあんたが一番知ってるんじゃないの？私が知ってるわけないでしょ！",
+      "INDONESIAN": "Bagaimana nenek tahu? Itu urusanmu untuk cari jawabannya!",
+      "PORTUGUESE": "Como vou saber? Isso é algo que você deve descobrir!",
+      "RUSSIAN": "Откуда мне знать? Это тебе предстоит понять!",
+      "FRENCH": "Comment je le saurais ? C’est à toi de le découvrir !",
+      "THAI": "ฉันจะไปรู้ได้ยังไง? นั่นเธอต้องหาคำตอบเอง!",
+      "PERSIAN": "چگونه باید بدانم؟ این برای شماست که بفهمید!"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "암튼 깨끗하게 떼고 가!",
+      "ENGLISH": "Anyway, clean it up before you go!",
+      "CHINESE_SIMPLIFIED": "总之撕干净再走！",
+      "CHINESE_TRADITIONAL": "總之撕乾淨再走！",
+      "JAPANESE": "とにかく、ちゃんと綺麗に剥がしなさいよ！\n",
+      "INDONESIAN": "Pokoknya, bersihkan dulu sebelum kamu pergi!",
+      "PORTUGUESE": "De qualquer forma, limpe tudo antes de ir!",
+      "RUSSIAN": "В любом случае, убери это, прежде чем уйти!",
+      "FRENCH": "Bref, nettoie ça avant de partir !",
+      "THAI": "ยังไงก็ตาม เก็บกวาดให้เรียบร้อยก่อนจะไปนะ!",
+      "PERSIAN": "به هر حال، قبل از رفتن اونو تمیز کنید!"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes...",
+      "CHINESE_SIMPLIFIED": "知道了...",
+      "CHINESE_TRADITIONAL": "知道了...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Sim…",
+      "RUSSIAN": "Да...",
+      "FRENCH": "Oui...",
+      "THAI": "ค่ะ...",
+      "PERSIAN": "بله..."
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "근데 할머니는 어디 사세요?",
+      "ENGLISH": "By the way, where do you live, grandma? ",
+      "CHINESE_SIMPLIFIED": "但是您住在哪里啊？",
+      "CHINESE_TRADITIONAL": "但是您住在哪裏啊？ ",
+      "JAPANESE": "それはそうと、おばあさんはどこに住んでるんですか？",
+      "INDONESIAN": "Ngomong-ngomong, nenek tinggal di mana?",
+      "PORTUGUESE": "A propósito, onde a senhora mora, vovó?",
+      "RUSSIAN": "Кстати, где ты живёшь, бабушка?",
+      "FRENCH": "Au fait, tu habites où, grand-mère ?",
+      "THAI": "ว่าแต่ ยายอยู่ที่ไหนเหรอ?",
+      "PERSIAN": "راستی مامان بزرگ کجا زندگی میکنی؟"
+    },
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "최근에 이사오신 건가...",
+      "ENGLISH": "Did you just move here?",
+      "CHINESE_SIMPLIFIED": "是最近搬来的吗...",
+      "CHINESE_TRADITIONAL": "是最近搬來的嗎...",
+      "JAPANESE": "最近、引っ越してきたのかな…",
+      "INDONESIAN": "Nenek baru pindah ke sini, ya?",
+      "PORTUGUESE": "Acabou de se mudar pra cá?",
+      "RUSSIAN": "Ты только что сюда переехала?",
+      "FRENCH": "Tu viens de déménager ici ?",
+      "THAI": "ยายเพิ่งย้ายมาที่นี่หรือเปล่า?",
+      "PERSIAN": "تازه اینجا نقل مکان کردی؟"
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어 뭐야?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯, 什么鬼？",
+      "CHINESE_TRADITIONAL": "嗯, 什麼鬼？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "할머니! 할머니!",
+      "ENGLISH": "Grandma! Grandma!",
+      "CHINESE_SIMPLIFIED": "奶奶！ 奶奶！",
+      "CHINESE_TRADITIONAL": "奶奶！ 奶奶！",
+      "JAPANESE": "おばあさん！おばあさん！",
+      "INDONESIAN": "Nenek! Nenek!",
+      "PORTUGUESE": "Vovó! Vovó!",
+      "RUSSIAN": "Бабушка! Бабушка!",
+      "FRENCH": "Grand-mère ! Grand-mère !",
+      "THAI": "ยาย! ยาย!",
+      "PERSIAN": "مادربزرگ! مادربزرگ!"
+    },
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 25.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어? 방금까진 여기 계셨는데....",
+      "ENGLISH": "Huh? She was here though...",
+      "CHINESE_SIMPLIFIED": "嗯？刚才还在这儿呢",
+      "CHINESE_TRADITIONAL": "嗯？剛纔還在這兒呢",
+      "JAPANESE": "え？さっきまでここにいたのに…",
+      "INDONESIAN": "Hah? Padahal tadi ada di sini…",
+      "PORTUGUESE": "Hã? Mas ela tava aqui agora...",
+      "RUSSIAN": "А? Но она же здесь была...",
+      "FRENCH": "Hein ? Mais elle était là pourtant...",
+      "THAI": "หือ? แต่เมื่อกี้ยายยังอยู่ตรงนี้เลย...",
+      "PERSIAN": "ها؟ هر چند اون اینجا بود..."
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아... 뭐지?",
+      "ENGLISH": "Huh? This is strange...",
+      "CHINESE_SIMPLIFIED": "嗯？什么情况...",
+      "CHINESE_TRADITIONAL": "嗯？什麼情況...",
+      "JAPANESE": "あれ…どういうことだ…？",
+      "INDONESIAN": "Hah? Ini aneh…",
+      "PORTUGUESE": "Hã? Isso é estranho...",
+      "RUSSIAN": "А? Это странно...",
+      "FRENCH": "Hein ? C’est bizarre...",
+      "THAI": "หือ? แปลกจัง...",
+      "PERSIAN": "ها؟ این عجیبه..."
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.9
+    }
+  }
+]

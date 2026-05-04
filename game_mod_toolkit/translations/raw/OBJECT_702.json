@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와~",
+      "ENGLISH": "Whoa~",
+      "CHINESE_SIMPLIFIED": "哇",
+      "CHINESE_TRADITIONAL": "哇",
+      "JAPANESE": "わぁ～",
+      "INDONESIAN": "Wah~",
+      "PORTUGUESE": "Uau~",
+      "RUSSIAN": "Ого~",
+      "FRENCH": "Wow~",
+      "THAI": "โหว~"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 레전드 짤...!",
+      "ENGLISH": "The legendary Mingming pic...!",
+      "CHINESE_SIMPLIFIED": "敏敏那个出圈的图",
+      "CHINESE_TRADITIONAL": "敏敏那個出圈的圖",
+      "JAPANESE": "ミンミンの伝説の写真だ…！",
+      "INDONESIAN": "Foto legendaris Mingming...!",
+      "PORTUGUESE": "A foto lendária da Mingming...!",
+      "RUSSIAN": "Та самая легендарная фотография Минмин...!",
+      "FRENCH": "La fameuse photo légendaire de Mingming... !",
+      "THAI": "ภาพตำนานของมิงมิง...!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이걸 소장하고 계셨네?",
+      "ENGLISH": "You’ve been holding onto this?",
+      "CHINESE_SIMPLIFIED": "居然一直收藏着呢",
+      "CHINESE_TRADITIONAL": "居然一直收藏着呢",
+      "JAPANESE": "これ持ってたんですね？",
+      "INDONESIAN": "Kamu masih simpen ini?",
+      "PORTUGUESE": "Você ainda tá guardando isso?",
+      "RUSSIAN": "Ты всё это время её хранил?",
+      "FRENCH": "Tu as gardé ça tout ce temps ?",
+      "THAI": "เธอเก็บไว้ตลอดเลยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.7
+    }
+  }
+]

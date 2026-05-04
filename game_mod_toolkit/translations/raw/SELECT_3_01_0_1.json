@@ -1,0 +1,325 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜~",
+      "ENGLISH": "What’s up?",
+      "CHINESE_SIMPLIFIED": "啊，又怎么了?",
+      "CHINESE_TRADITIONAL": "啊，又怎麼了?",
+      "JAPANESE": "何だよ～",
+      "INDONESIAN": "Ada apa?",
+      "PORTUGUESE": "O que foi?",
+      "RUSSIAN": "Что случилось?",
+      "FRENCH": "Qu’est-ce qui se passe ?",
+      "THAI": "เกิดอะไรขึ้น?"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "야! 문을 이렇게 활짝 열면 어떡해!",
+      "ENGLISH": "Why is the door wide open like this?!",
+      "CHINESE_SIMPLIFIED": "喂! 你怎么直接就把门打开了?",
+      "CHINESE_TRADITIONAL": "喂! 你怎麼直接就把門打開了?",
+      "JAPANESE": "ちょっと！ドアをこんなに開けっ放しにしないでよ！",
+      "INDONESIAN": "Kenapa pintunya kebuka lebar begini?!",
+      "PORTUGUESE": "Por que a porta tá escancarada assim?!",
+      "RUSSIAN": "Почему дверь распахнута?!",
+      "FRENCH": "Pourquoi la porte est grande ouverte ?!",
+      "THAI": "ทำไมประตูเปิดกว้างแบบนี้?!"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 미안... ",
+      "ENGLISH": "Oh, sorry...",
+      "CHINESE_SIMPLIFIED": "啊抱歉…",
+      "CHINESE_TRADITIONAL": "啊抱歉…",
+      "JAPANESE": "あ、ごめん…",
+      "INDONESIAN": "Oh, maaf...",
+      "PORTUGUESE": "Ah, desculpa...",
+      "RUSSIAN": "Ой, извини...",
+      "FRENCH": "Ah, désolé...",
+      "THAI": "อ๊ะ ขอโทษ..."
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.17
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "근데 왜 불렀는데?",
+      "ENGLISH": "But why did you call me?",
+      "CHINESE_SIMPLIFIED": "不过你叫我干嘛?",
+      "CHINESE_TRADITIONAL": "不過你叫我幹嘛?",
+      "JAPANESE": "で、何で呼んだんだ？",
+      "INDONESIAN": "Tapi kenapa kamu panggil aku?",
+      "PORTUGUESE": "Mas por que você me chamou?",
+      "RUSSIAN": "Но зачем вы меня позвали?",
+      "FRENCH": "Mais pourquoi m’avoir appelé ?",
+      "THAI": "แต่เรียกฉันมาทำไม?"
+    },
+    "TIME": {
+      "SHOW": 6.17,
+      "HIDE": 7.56
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아 샴푸 다 떨어졌잖아!",
+      "ENGLISH": "We’re out of shampoo!",
+      "CHINESE_SIMPLIFIED": "洗发水没了!",
+      "CHINESE_TRADITIONAL": "洗髮水沒了!",
+      "JAPANESE": "シャンプー、全部なくなったじゃん！",
+      "INDONESIAN": "Shampo habis!",
+      "PORTUGUESE": "Shampoo acabou!",
+      "RUSSIAN": "Шампунь закончился!",
+      "FRENCH": "On n’a plus de shampooing !",
+      "THAI": "แชมพูหมดแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 7.56,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "벌써 다 썼다고?",
+      "ENGLISH": "Already?",
+      "CHINESE_SIMPLIFIED": "这么快就没了?",
+      "CHINESE_TRADITIONAL": "這麼快就沒了?",
+      "JAPANESE": "もう使い切ったのか？",
+      "INDONESIAN": "Habis?",
+      "PORTUGUESE": "Já acabou?",
+      "RUSSIAN": "Уже?",
+      "FRENCH": "Déjà ?",
+      "THAI": "หมดแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "여자 셋인데 그럼 당연한 거 아니야?",
+      "ENGLISH": "There are three women here. Of course, we’re out.",
+      "CHINESE_SIMPLIFIED": "这里有3个女生呢，不是很正常嘛",
+      "CHINESE_TRADITIONAL": "這裏有3個女生呢，不是很正常嘛",
+      "JAPANESE": "女が3人もいれば、それくらい当然でしょ？",
+      "INDONESIAN": "Di sini ada tiga perempuan. Jelas aja cepat habis.",
+      "PORTUGUESE": "Tem três mulheres aqui. É claro que acabou rápido.",
+      "RUSSIAN": "Здесь живут три женщины. Конечно, он быстро закончился.",
+      "FRENCH": "Il y a trois femmes ici. Évidemment qu’on n’en a plus.",
+      "THAI": "ที่นี่มีผู้หญิงตั้งสามคน แชมพูหมดเร็วอยู่แล้ว."
+    },
+    "TIME": {
+      "SHOW": 11.78,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 나보고 사 오라고?",
+      "ENGLISH": "So you want me to buy some?",
+      "CHINESE_SIMPLIFIED": "所以你的意思是让我买洗发水回来?",
+      "CHINESE_TRADITIONAL": "所以你的意思是讓我買洗髮水回來?",
+      "JAPANESE": "俺に買ってこいって？",
+      "INDONESIAN": "Jadi kamu mau aku beli?",
+      "PORTUGUESE": "Então você quer que eu compre?",
+      "RUSSIAN": "То есть ты хочешь, чтобы я купил его?",
+      "FRENCH": "Tu veux que j’en achète ?",
+      "THAI": "จะให้ฉันไปซื้อใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 내가 사 올까?",
+      "ENGLISH": "Should I go get it?",
+      "CHINESE_SIMPLIFIED": "那不然我去买吗?",
+      "CHINESE_TRADITIONAL": "那不然我去買嗎?",
+      "JAPANESE": "じゃあ、私が買ってこようか？",
+      "INDONESIAN": "Haruskah aku pergi beli sekarang?",
+      "PORTUGUESE": "Devo ir agora?",
+      "RUSSIAN": "Мне пойти за ним?",
+      "FRENCH": "Je vais y aller ?",
+      "THAI": "ให้ฉันไปซื้อเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 갔다 와!",
+      "ENGLISH": "Go quickly!",
+      "CHINESE_SIMPLIFIED": "赶紧去买回来!",
+      "CHINESE_TRADITIONAL": "趕緊去買回來!",
+      "JAPANESE": "早く行ってきて！",
+      "INDONESIAN": "Cepat!",
+      "PORTUGUESE": "Vai rápido!",
+      "RUSSIAN": "Быстро иди!",
+      "FRENCH": "Dépêche-toi !",
+      "THAI": "รีบไปสิ!"
+    },
+    "TIME": {
+      "SHOW": 18.05,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "이것도 하숙집 주인이면 해야 되는 일이니까.",
+      "ENGLISH": "This is part of your duties as the share house owner.",
+      "CHINESE_SIMPLIFIED": "这本来就是房东该做的事嘛",
+      "CHINESE_TRADITIONAL": "這本來就是房東該做的事嘛",
+      "JAPANESE": "これも下宿の主人ならやるべき仕事なんだから。",
+      "INDONESIAN": "Ini bagian dari tugasmu sebagai pemilik rumah kos.",
+      "PORTUGUESE": "Isso faz parte das suas obrigações como dono da casa compartilhada.",
+      "RUSSIAN": "Это часть твоих обязанностей как управляющего домом.",
+      "FRENCH": "Ça fait partie de tes responsabilités en tant que propriétaire de la coloc.",
+      "THAI": "นี่เป็นหน้าที่ของนายในฐานะเจ้าของบ้านแชร์."
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "넌 돈도 안 내잖아.",
+      "ENGLISH": "You didn’t even pay rent.",
+      "CHINESE_SIMPLIFIED": "你都没交房租！",
+      "CHINESE_TRADITIONAL": "你都沒交房租！",
+      "JAPANESE": "お前、家賃も払ってないくせに。",
+      "INDONESIAN": "Kamu bahkan nggak bayar sewa.",
+      "PORTUGUESE": "Você nem pagou aluguel.",
+      "RUSSIAN": "Ты даже аренду не заплатил.",
+      "FRENCH": "T’as même pas payé de loyer.",
+      "THAI": "นายยังไม่ได้จ่ายค่าเช่าด้วยซ้ำ."
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.64
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 갔다 오라고!",
+      "ENGLISH": "Just go already!",
+      "CHINESE_SIMPLIFIED": "赶紧去买!",
+      "CHINESE_TRADITIONAL": "趕緊去買!",
+      "JAPANESE": "早く行ってきて！",
+      "INDONESIAN": "Cepat pergi sana!",
+      "PORTUGUESE": "Vai logo!",
+      "RUSSIAN": "Просто иди уже!",
+      "FRENCH": "Vas-y, maintenant !",
+      "THAI": "ไปเร็ว ๆ เลย!"
+    },
+    "TIME": {
+      "SHOW": 23.64,
+      "HIDE": 25.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "喂!",
+      "CHINESE_TRADITIONAL": "喂!",
+      "JAPANESE": "それと！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "RUSSIAN": "Юман!",
+      "FRENCH": "Yuman !",
+      "THAI": "ยูมัน!"
+    },
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "덱스판테놀 함유 0.2%인 거로 사 와!",
+      "ENGLISH": "And get the one with 0.2% dexpanthenol! ",
+      "CHINESE_SIMPLIFIED": "记住要买泛醇含量0.2%的那种!",
+      "CHINESE_TRADITIONAL": "記住要買泛醇含量0.2%的那種!",
+      "JAPANESE": "デキスパンテノール含有0.2%のやつを買ってきてよ！",
+      "INDONESIAN": "Dan beli yang ada 0,2% dexpanthenol!",
+      "PORTUGUESE": "E compra o que tem 0,2% de dexpanthenol!",
+      "RUSSIAN": "И купи тот, в котором 0,2% декспантенола!",
+      "FRENCH": "Et prends celui avec 0,2 % de dexpanthénol !",
+      "THAI": "แล้วอย่าลืมซื้อแบบที่มีเดกซ์แพนธีนอล 0.2%!"
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 29.1
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "이상한 거 사 오지 말고!",
+      "ENGLISH": "Don’t buy something weird!",
+      "CHINESE_SIMPLIFIED": "别买其他的!",
+      "CHINESE_TRADITIONAL": "別買其他的!",
+      "JAPANESE": "変なもの買ってこないでね！",
+      "INDONESIAN": "Jangan beli yang aneh-aneh!",
+      "PORTUGUESE": "Não compra nada esquisito!",
+      "RUSSIAN": "Не бери что попало!",
+      "FRENCH": "Prends pas n’importe quoi !",
+      "THAI": "อย่าซื้ออะไรแปลก ๆ มานะ!"
+    },
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 30.4
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "뭔 테놀? 진짜 어이가 없네...",
+      "ENGLISH": "What’s panthenol? This is ridiculous...",
+      "CHINESE_SIMPLIFIED": "什么啊…真无语…",
+      "CHINESE_TRADITIONAL": "什麼啊…真無語…",
+      "JAPANESE": "何だよ「テノール」って…本当に呆れるな…",
+      "INDONESIAN": "Apa itu panthenol? Ini konyol...",
+      "PORTUGUESE": "O que é panthenol? Isso é ridículo...",
+      "RUSSIAN": "Что такое пантенол? Это просто смешно...",
+      "FRENCH": "C’est quoi, le panthénol ? C’est absurde...",
+      "THAI": "เดกซ์แพนธีนอลคืออะไรเนี่ย? บ้าบอชะมัด..."
+    },
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 35.0
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "힝... 알았어...",
+      "ENGLISH": "Alright, alright... I get it...",
+      "CHINESE_SIMPLIFIED": "哼...知道啦...",
+      "CHINESE_TRADITIONAL": "哼...知道啦...",
+      "JAPANESE": "えぇ…分かったよ…",
+      "INDONESIAN": "Oke, oke... Aku ngerti...",
+      "PORTUGUESE": "Tá bom, tá bom... Eu entendi...",
+      "RUSSIAN": "Ладно, ладно... Я понял...",
+      "FRENCH": "D'accord, d'accord... J'ai compris...",
+      "THAI": "โอเคๆ เข้าใจแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야~",
+      "ENGLISH": "Oh come on~",
+      "CHINESE_SIMPLIFIED": "什么嘛~",
+      "CHINESE_TRADITIONAL": "什麼嘛~",
+      "JAPANESE": "何だよ〜",
+      "INDONESIAN": "Alaaah, ayolah~",
+      "PORTUGUESE": "Ah, qual é~",
+      "RUSSIAN": "О, да ладно тебе~",
+      "FRENCH": "Oh allez, quoi~",
+      "THAI": "โธ่เอ้ย~"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.4
+    }
+  }
+]

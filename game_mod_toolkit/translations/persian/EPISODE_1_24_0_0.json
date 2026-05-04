@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어이 우유만이.",
+      "ENGLISH": "Hey, Yuman.",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万",
+      "CHINESE_TRADITIONAL": "喂，吳宥萬",
+      "JAPANESE": "おい、ユマン。",
+      "INDONESIAN": "Hei, Yuman.",
+      "PORTUGUESE": "Ei, Yuman.",
+      "RUSSIAN": "Эй, Юман.",
+      "FRENCH": "Hé, Yuman.",
+      "THAI": "เฮ้, ยูมัน",
+      "PERSIAN": "Hey, Yuman."
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아이! 깜짝이야!",
+      "ENGLISH": "Whoa! You scared me!",
+      "CHINESE_SIMPLIFIED": "吓我一跳…!",
+      "CHINESE_TRADITIONAL": "嚇我一跳…!",
+      "JAPANESE": "うわっ！びっくりした！",
+      "INDONESIAN": "Wah! Kamu ngagetin!",
+      "PORTUGUESE": "Uau! Você me assustou!",
+      "RUSSIAN": "Ого! Напугал меня!",
+      "FRENCH": "Waouh ! Tu m’as fait peur !",
+      "THAI": "เฮ้ย! นายทำฉันตกใจหมด!",
+      "PERSIAN": "وای تو منو ترسوندی!"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "형 ...!",
+      "ENGLISH": "What’s up...?",
+      "CHINESE_SIMPLIFIED": "哥...!",
+      "CHINESE_TRADITIONAL": "哥...!",
+      "JAPANESE": "兄さん…！",
+      "INDONESIAN": "Ada apa...?",
+      "PORTUGUESE": "O que houve...?",
+      "RUSSIAN": "Чего тебе...?",
+      "FRENCH": "Quoi de neuf...?",
+      "THAI": "มีอะไรเหรอ...?",
+      "PERSIAN": "چه خبر...؟"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭘 그렇게 놀래.",
+      "ENGLISH": "Why are you so jumpy?",
+      "CHINESE_SIMPLIFIED": "我哪有这么吓人",
+      "CHINESE_TRADITIONAL": "我哪有這麼嚇人",
+      "JAPANESE": "そんなに驚くなよ。",
+      "INDONESIAN": "Kenapa kamu kaget banget?",
+      "PORTUGUESE": "Por que tá tão assustado?",
+      "RUSSIAN": "Чего ты такой нервный?",
+      "FRENCH": "Pourquoi tu es si nerveux ?",
+      "THAI": "ทำไมดูตกใจจัง?",
+      "PERSIAN": "چرا انقدر پرت هستی؟"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห้ะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "자.",
+      "ENGLISH": "Here.",
+      "CHINESE_SIMPLIFIED": "给",
+      "CHINESE_TRADITIONAL": "給",
+      "JAPANESE": "ほら。",
+      "INDONESIAN": "Nih.",
+      "PORTUGUESE": "Aqui.",
+      "RUSSIAN": "На, держи.",
+      "FRENCH": "Tiens.",
+      "THAI": "นี่",
+      "PERSIAN": "Here."
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 면접 고생했을 거 같아서 주는 거야.",
+      "ENGLISH": "I thought you might’ve had a tough time at the interview today.",
+      "CHINESE_SIMPLIFIED": "看你面试辛苦才给你的",
+      "CHINESE_TRADITIONAL": "看你面試辛苦纔給你的",
+      "JAPANESE": "今日の面接、大変だっただろうからこれやるよ。",
+      "INDONESIAN": "Aku pikir kamu mungkin kesulitan di wawancara tadi.",
+      "PORTUGUESE": "Achei que você podia ter passado um aperto na entrevista hoje.",
+      "RUSSIAN": "Я подумал, что у тебя сегодня был трудный день на собеседовании.",
+      "FRENCH": "J’ai pensé que t’avais peut-être passé une journée difficile à l’entretien.",
+      "THAI": "ฉันคิดว่าวันนี้นายคงเจองานหนักที่สัมภาษณ์",
+      "PERSIAN": "فکر کردم ممکنه در مصاحبه امروز لحظات سختی را سپری کرده باشید."
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "먹을래?",
+      "ENGLISH": "Want some?",
+      "CHINESE_SIMPLIFIED": "要吃吗？",
+      "CHINESE_TRADITIONAL": "要吃嗎？",
+      "JAPANESE": "食べるか？",
+      "INDONESIAN": "Mau?",
+      "PORTUGUESE": "Quer um pouco?",
+      "RUSSIAN": "Хочешь?",
+      "FRENCH": "T’en veux ?",
+      "THAI": "อยากกินหน่อยไหม?",
+      "PERSIAN": "مقداری می خواهید؟"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thanks...",
+      "CHINESE_SIMPLIFIED": "谢谢哥…",
+      "CHINESE_TRADITIONAL": "謝謝哥…",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih...",
+      "PORTUGUESE": "Obrigado...",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบใจนะ...",
+      "PERSIAN": "Thanks..."
+    },
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "다음에는",
+      "ENGLISH": "Consider",
+      "CHINESE_SIMPLIFIED": "来我们公司的事",
+      "CHINESE_TRADITIONAL": "來我們公司的事",
+      "JAPANESE": "次は、",
+      "INDONESIAN": "Pertimbangkan",
+      "PORTUGUESE": "Considere",
+      "RUSSIAN": "Подумай",
+      "FRENCH": "Pense",
+      "THAI": "ลอง",
+      "PERSIAN": "در نظر بگیرید"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "우리 회사 오는 것도 한번 생각해 보고.",
+      "ENGLISH": "Joining our company next time.",
+      "CHINESE_SIMPLIFIED": "你好好考虑一下",
+      "CHINESE_TRADITIONAL": "你好好考慮一下",
+      "JAPANESE": "うちの会社に来るのも考えてみろよ。",
+      "INDONESIAN": "Buat gabung ke perusahaan kami lain kali.",
+      "PORTUGUESE": "entrar na nossa empresa da próxima vez.",
+      "RUSSIAN": "О том, чтобы присоединиться к нашей компании в следующий раз.",
+      "FRENCH": "À nous rejoindre la prochaine fois.",
+      "THAI": "มาร่วมงานกับบริษัทเราครั้งหน้าดูสิ",
+      "PERSIAN": "دفعه بعد به شرکت ما بپیوندید"
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "말씀만이라도 감사합니다...",
+      "ENGLISH": "Thanks for the offer...",
+      "CHINESE_SIMPLIFIED": "有这份心就很感谢了…",
+      "CHINESE_TRADITIONAL": "有這份心就很感謝了…",
+      "JAPANESE": "お言葉だけでもありがとうございます…",
+      "INDONESIAN": "Makasih atas tawarannya...",
+      "PORTUGUESE": "Valeu pela oferta...",
+      "RUSSIAN": "Спасибо за предложение...",
+      "FRENCH": "Merci pour l’offre...",
+      "THAI": "ขอบคุณสำหรับข้อเสนอ...",
+      "PERSIAN": "ممنون از پیشنهاد..."
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "먼저 들어가 보겠습니다...",
+      "ENGLISH": "I’ll think about it.",
+      "CHINESE_SIMPLIFIED": "我先回去了…",
+      "CHINESE_TRADITIONAL": "我先回去了…",
+      "JAPANESE": "お先に失礼します…。",
+      "INDONESIAN": "Aku pikir-pikir dulu.",
+      "PORTUGUESE": "Vou pensar nisso.",
+      "RUSSIAN": "Я подумаю.",
+      "FRENCH": "J’y réfléchirai.",
+      "THAI": "เดี๋ยวฉันจะคิดดู",
+      "PERSIAN": "من در مورد اون فکر خواهم کرد."
+    },
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 25.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우리 회사 오라는 거 진심이니까",
+      "ENGLISH": "I’m serious about you joining us",
+      "CHINESE_SIMPLIFIED": "让你来我们公司是真心的",
+      "CHINESE_TRADITIONAL": "讓你來我們公司是真心的",
+      "JAPANESE": "俺、本気で言ってるんだから、",
+      "INDONESIAN": "Aku serius soal kamu gabung sama kami",
+      "PORTUGUESE": "Tô falando sério sobre você se juntar a nós",
+      "RUSSIAN": "Я серьёзно насчёт того, чтобы ты к нам присоединился,",
+      "FRENCH": "Je suis sérieux à propos de ton intégration,",
+      "THAI": "ฉันพูดจริงนะ เรื่องให้มาร่วมงานกับเรา",
+      "PERSIAN": "من در مورد پیوستن شما به ما جدی هستم"
+    },
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "한번 생각해 봐!",
+      "ENGLISH": "so give it some thought!",
+      "CHINESE_SIMPLIFIED": "你考虑一下!",
+      "CHINESE_TRADITIONAL": "你考慮一下!",
+      "JAPANESE": "一度は考えてみろよ！",
+      "INDONESIAN": "jadi coba pikirin baik-baik!",
+      "PORTUGUESE": "então pensa com carinho!",
+      "RUSSIAN": "Так что обдумай это хорошенько!",
+      "FRENCH": "Alors réfléchis bien !",
+      "THAI": "คิดให้ดีๆ ล่ะ!",
+      "PERSIAN": "پس کمی فکر کنید!"
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Yeah...!",
+      "CHINESE_SIMPLIFIED": "好…!",
+      "CHINESE_TRADITIONAL": "好…!",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Iya...!",
+      "PORTUGUESE": "É...!",
+      "RUSSIAN": "Ага...!",
+      "FRENCH": "Ouais...!",
+      "THAI": "อืม...!",
+      "PERSIAN": "آره...!"
+    },
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 30.8
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야... ",
+      "ENGLISH": "What’s up...?",
+      "CHINESE_SIMPLIFIED": "什么情况…",
+      "CHINESE_TRADITIONAL": "什麼情況…",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Ada apa...?",
+      "PORTUGUESE": "O que tá rolando...?",
+      "RUSSIAN": "Что с ним...?",
+      "FRENCH": "Pourquoi il est...",
+      "THAI": "ทำไมเขา...",
+      "PERSIAN": "چه خبر...؟"
+    },
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "저 형 갑자기 나한테 왜 이래...!",
+      "ENGLISH": "With him being all nice to me suddenly...?",
+      "CHINESE_SIMPLIFIED": "这哥怎么突然对我这么友善…",
+      "CHINESE_TRADITIONAL": "這哥怎麼突然對我這麼友善…",
+      "JAPANESE": "あの兄さん、急に何なんだ…！",
+      "INDONESIAN": "Kenapa dia tiba-tiba baik banget ke aku...?",
+      "PORTUGUESE": "Por que ele tá tão bonzinho comigo de repente...?",
+      "RUSSIAN": "Почему он вдруг так мил со мной...?",
+      "FRENCH": "Tout d’un coup si gentil avec moi...?",
+      "THAI": "จู่ๆ ก็ดีกับฉันขึ้นมา...?",
+      "PERSIAN": "با این که او یکدفعه با من خوب بود...؟"
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.3
+    }
+  }
+]

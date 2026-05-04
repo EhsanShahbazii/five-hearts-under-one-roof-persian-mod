@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨, 다 왔어요! 일어나요!",
+      "ENGLISH": "Seung-yi! We're here! Get up!",
+      "CHINESE_SIMPLIFIED": "圣依! 已经到啦! 快起来啦！",
+      "CHINESE_TRADITIONAL": "聖依! 已經到啦! 快起來啦！",
+      "JAPANESE": "スンイさん、着きましたよ！起きてください！",
+      "INDONESIAN": "Seung-yi! Kita sudah sampai! Bangun!",
+      "PORTUGUESE": "Seung-yi! Chegamos! Levanta!",
+      "RUSSIAN": "Сын-и! Мы приехали! Подъём!",
+      "FRENCH": "Seung-yi ! On est là ! Réveille-toi !",
+      "THAI": "ซึงอี! เรามาถึงแล้ว! ตื่นเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.5
+    }
+  }
+]

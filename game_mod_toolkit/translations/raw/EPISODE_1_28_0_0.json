@@ -1,0 +1,24 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "할머니가 찢진 않으셨네?",
+      "ENGLISH": "Didn't rip it..."
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "누가 뜯어가긴 뜯어갔나보다..!",
+      "ENGLISH": "Someone ripped it off...!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.0
+    }
+  }
+]

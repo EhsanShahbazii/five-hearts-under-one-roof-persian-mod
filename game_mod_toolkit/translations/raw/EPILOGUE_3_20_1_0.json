@@ -1,0 +1,54 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 한국 오랜만이다!",
+      "ENGLISH": "Ah, it’s been so long since I was in Korea!",
+      "CHINESE_SIMPLIFIED": "哇~真的是好久都没回韩国了!",
+      "CHINESE_TRADITIONAL": "哇~真的是好久都沒回韓國了!"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "은비야 십년잇따 나랑 결혼하자 - 유만이가",
+      "ENGLISH": "Eun-bi, let’s get married in ten years - from Yuman.' \n(A note Yuman gave to Eun-bi when they were kids.)",
+      "CHINESE_SIMPLIFIED": "恩妃啊~10年之后就和我结婚吧  - 宥万 \n（宥万小时候给恩妃留的字条）",
+      "CHINESE_TRADITIONAL": "恩妃啊~10年之後就和我結婚吧  - 宥萬 \n（宥萬小時候給恩妃留的字條）"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우유만",
+      "ENGLISH": "Yuman",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬"
+    },
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 34.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이제 네 인생에 다른 여자는 없어!",
+      "ENGLISH": "There’s no room for other women in your life now!",
+      "CHINESE_SIMPLIFIED": "从现在开始你只属于我!",
+      "CHINESE_TRADITIONAL": "從現在開始你只屬於我!"
+    },
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 36.3
+    }
+  }
+]

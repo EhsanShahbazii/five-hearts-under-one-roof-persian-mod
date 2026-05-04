@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨가 하는 하숙집이면 말이 달라지지.",
+      "ENGLISH": "If it’s Yuman's share house, that’s a different story.",
+      "CHINESE_SIMPLIFIED": "如果是吴宥万管理的合租房，那就另说了",
+      "CHINESE_TRADITIONAL": "如果是吳宥萬管理的合租房，那就另說了",
+      "JAPANESE": "ユマンさんがやってる下宿なら話は別だわ。",
+      "INDONESIAN": "Kalau ini rumah kos-nya Yuman, itu cerita lain.",
+      "PORTUGUESE": "Se é a casa compartilhada do Yuman, aí já é outra história.",
+      "RUSSIAN": "Если это общий дом Юмана, тогда это уже другой разговор.",
+      "FRENCH": "Si c’est la maison partagée de Yuman, c’est une autre histoire.",
+      "THAI": "ถ้าเป็นบ้านแชร์ของยูมัน ก็อีกเรื่องหนึ่งเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "일도 그따위인데 집이라고 다르겠어?",
+      "ENGLISH": "His work is a mess, how could his house be any better?",
+      "CHINESE_SIMPLIFIED": "他工作能力那么差，管理合租也好不到哪里去",
+      "CHINESE_TRADITIONAL": "他工作能力那麼差，管理合租也好不到哪裏去",
+      "JAPANESE": "仕事があんな調子なんだから、家だって同じでしょ？",
+      "INDONESIAN": "Kerjaannya berantakan, gimana mungkin rumahnya bisa lebih baik?",
+      "PORTUGUESE": "O trabalho dele é uma bagunça, como a casa poderia ser melhor?",
+      "RUSSIAN": "Его работа — сплошной бардак, как же его дом может быть лучше?",
+      "FRENCH": "Son travail est un vrai bazar, alors comment sa maison pourrait-elle être mieux ?",
+      "THAI": "งานของเขายุ่งเหยิงไปหมด แล้วบ้านเขาจะดีได้ยังไงล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "과, 과장님! 과장님!",
+      "ENGLISH": "M-manager! Manager!",
+      "CHINESE_SIMPLIFIED": "科，科长!科长!",
+      "CHINESE_TRADITIONAL": "科，科長!科長!",
+      "JAPANESE": "か、課長！課長！",
+      "INDONESIAN": "M-manajer! Manajer!",
+      "PORTUGUESE": "G-gerente! Gerente!",
+      "RUSSIAN": "М-менеджер! Менеджер!",
+      "FRENCH": "M-manger ! Manager !",
+      "THAI": "ผ-ผู้จัดการ! ผู้จัดการ!"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저도... 이건 좀 아닌 거 같아요.",
+      "ENGLISH": "I... I don’t think this is right.",
+      "CHINESE_SIMPLIFIED": "我也觉得…这个好像不太合适。",
+      "CHINESE_TRADITIONAL": "我也覺得…這個好像不太合適。",
+      "JAPANESE": "それは、ちょっと違うと思うんですが。",
+      "INDONESIAN": "A-aku rasa ini nggak benar.",
+      "PORTUGUESE": "E-eu acho que isso não tá certo.",
+      "RUSSIAN": "Я... я думаю, это что-то не то.",
+      "FRENCH": "Je... je crois que ce n’est pas correct.",
+      "THAI": "ฉะ... ฉันว่ามันไม่ถูกต้องเท่าไหร่นะ"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아니... 밍밍 님! 집은 진짜 괜찮은데!",
+      "ENGLISH": "Mingming! The house is actually nice!",
+      "CHINESE_SIMPLIFIED": "敏敏!房子真的很不错!",
+      "CHINESE_TRADITIONAL": "敏敏!房子真的很不錯!",
+      "JAPANESE": "いや…ミンミンさん！本当に大丈夫なんです！",
+      "INDONESIAN": "Mingming! Sebenarnya rumahnya bagus!",
+      "PORTUGUESE": "Mingming! A casa é bem legal, na verdade!",
+      "RUSSIAN": "Минмин! Дом на самом деле хороший!",
+      "FRENCH": "Mingming ! La maison est en fait super !",
+      "THAI": "หมิงหมิง! บ้านนี้จริงๆ แล้วดีมากเลย!"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아니 둘러보고 가시지...!",
+      "ENGLISH": "Why don’t you take a look around...!",
+      "CHINESE_SIMPLIFIED": "你先看一下再走也不迟啊…!",
+      "CHINESE_TRADITIONAL": "你先看一下再走也不遲啊…!",
+      "JAPANESE": "ちょっと、見て行ってくださいよ…！",
+      "INDONESIAN": "Kenapa nggak coba lihat-lihat dulu...!",
+      "PORTUGUESE": "Por que você não dá uma olhada por aí...!",
+      "RUSSIAN": "Почему бы тебе не осмотреться...?",
+      "FRENCH": "Pourquoi ne pas faire un tour pour voir...?",
+      "THAI": "ทำไมไม่ลองเดินดูรอบๆ ล่ะ...!"
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 24.0
+    }
+  }
+]

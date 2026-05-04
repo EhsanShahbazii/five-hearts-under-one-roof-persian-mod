@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야!",
+      "ENGLISH": "What! ",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ！",
+      "INDONESIAN": "Apa!",
+      "PORTUGUESE": "O quê!",
+      "RUSSIAN": "Что?!",
+      "FRENCH": "Quoi !",
+      "THAI": "อะไรนะ!"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우유가 벌써 다 떨어졌어?",
+      "ENGLISH": "We're already out of milk?",
+      "CHINESE_SIMPLIFIED": "牛奶这么快就没啦？",
+      "CHINESE_TRADITIONAL": "牛奶這麼快就沒啦？",
+      "JAPANESE": "いつの間に、牛乳全部なくなったんだろう？",
+      "INDONESIAN": "Susu kita sudah habis?",
+      "PORTUGUESE": "Já acabou o leite?",
+      "RUSSIAN": "Молоко уже закончилось?",
+      "FRENCH": "On est déjà à court de lait ?",
+      "THAI": "นมหมดแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "난 잘 안 먹는데...?",
+      "ENGLISH": "I hardly drink it...?",
+      "CHINESE_SIMPLIFIED": "我也没怎么喝啊…",
+      "CHINESE_TRADITIONAL": "我也沒怎麼喝啊…",
+      "JAPANESE": "俺、あんまり飲まないのに…",
+      "INDONESIAN": "Padahal aku jarang minum...?",
+      "PORTUGUESE": "Eu mal bebo...!?",
+      "RUSSIAN": "Я его почти не пью...",
+      "FRENCH": "Je n’en bois presque jamais...",
+      "THAI": "ฉันแทบไม่เคยดื่มเลยนี่..."
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.1
+    }
+  }
+]

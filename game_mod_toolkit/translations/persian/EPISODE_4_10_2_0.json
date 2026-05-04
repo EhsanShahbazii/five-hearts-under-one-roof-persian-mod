@@ -1,0 +1,368 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고은비 괜찮아? 뭐야?",
+      "ENGLISH": "Eun-bi, are you alright? What’s going on?",
+      "CHINESE_SIMPLIFIED": "高恩妃没事吧?怎么了?",
+      "CHINESE_TRADITIONAL": "高恩妃沒事吧?怎麼了?",
+      "JAPANESE": "ウンビ！大丈夫？何があったの？",
+      "INDONESIAN": "Eun-bi, kamu gak apa-apa? Ada apa ini?",
+      "PORTUGUESE": "Eun-bi, você tá bem? O que tá acontecendo?",
+      "RUSSIAN": "Ын-би, ты в порядке? Что происходит?",
+      "FRENCH": "Eun-bi, ça va ? Qu’est-ce qui se passe ?",
+      "THAI": "อึนบี เธอโอเคไหม? เกิดอะไรขึ้น?",
+      "PERSIAN": "یون بی، حالت خوبه؟ چه خبره؟"
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 일이에요??",
+      "ENGLISH": "What’s happening??",
+      "CHINESE_SIMPLIFIED": "发生什么事了?",
+      "CHINESE_TRADITIONAL": "發生什麼事了?",
+      "JAPANESE": "何事？？",
+      "INDONESIAN": "Apa yang terjadi??",
+      "PORTUGUESE": "O que está acontecendo??",
+      "RUSSIAN": "Что происходит??",
+      "FRENCH": "Que se passe-t-il ??",
+      "THAI": "เกิดอะไรขึ้น??",
+      "PERSIAN": "What’s happening??"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 머리 아파 무슨 일인데.",
+      "ENGLISH": "My head hurts, what’s going on.",
+      "CHINESE_SIMPLIFIED": "啊，我头好疼，怎么了这是?",
+      "CHINESE_TRADITIONAL": "啊，我頭好疼，怎麼了這是?",
+      "JAPANESE": "ああ、頭痛い…何の騒ぎなの。",
+      "INDONESIAN": "Kepalaku sakit, ada apa sih.",
+      "PORTUGUESE": "Minha cabeça dói, o que tá acontecendo.",
+      "RUSSIAN": "У меня болит голова, что происходит?",
+      "FRENCH": "Ma tête me fait mal, qu’est-ce qui se passe ?",
+      "THAI": "ปวดหัวมาก เกิดอะไรขึ้นเนี่ย?",
+      "PERSIAN": "سرم درد می کند، چه خبره."
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "언니, 오빠 이상해!",
+      "ENGLISH": "Sister, oppa is acting weird",
+      "CHINESE_SIMPLIFIED": "姐，哥哥好奇怪",
+      "CHINESE_TRADITIONAL": "姐，哥哥好奇怪",
+      "JAPANESE": "お姉ちゃん、お兄ちゃんがおかしいの！",
+      "INDONESIAN": "Kak, oppa bertingkah aneh,",
+      "PORTUGUESE": "Irmã, o oppa tá estranho,",
+      "RUSSIAN": "Сестра, оппа ведет себя странно...",
+      "FRENCH": "Sœur, oppa agit bizarrement",
+      "THAI": "พี่ สงสัยพี่จะทำอะไรแปลกๆ อีกแล้ว",
+      "PERSIAN": "خواهر، یومان عجیب رفتار می کند"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 여자애도 이상하고!!!",
+      "ENGLISH": "And this girl is too!!!",
+      "CHINESE_SIMPLIFIED": "这女生也好奇怪!!",
+      "CHINESE_TRADITIONAL": "這女生也好奇怪!!",
+      "JAPANESE": "この女の子も変だし！！！",
+      "INDONESIAN": "dan cewek ini juga!!!",
+      "PORTUGUESE": "e essa garota também!!!",
+      "RUSSIAN": "И эта девушка тоже!!!",
+      "FRENCH": "Et cette fille aussi !!!",
+      "THAI": "แล้วผู้หญิงคนนี้ก็ด้วย!!!",
+      "PERSIAN": "و این دختر هم همینطور!!!"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아니 이 방은 뭔데!",
+      "ENGLISH": "What’s with this room!",
+      "CHINESE_SIMPLIFIED": "不是，这房间是什么情况?",
+      "CHINESE_TRADITIONAL": "不是，這房間是什麼情況?",
+      "JAPANESE": "てか、この部屋は何なの！",
+      "INDONESIAN": "Apa-apaan kamar ini!",
+      "PORTUGUESE": "O que é esse quarto!",
+      "RUSSIAN": "Что это за комната?!",
+      "FRENCH": "C’est quoi cette pièce !",
+      "THAI": "แล้วห้องนี้มันอะไรกัน!",
+      "PERSIAN": "چه خبر از این اتاق!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이 여자애는 또 뭐야?",
+      "ENGLISH": "And who is this person?",
+      "CHINESE_SIMPLIFIED": "这女生又是谁啊?",
+      "CHINESE_TRADITIONAL": "這女生又是誰啊?",
+      "JAPANESE": "この女の子、一体誰なの？",
+      "INDONESIAN": "Dan siapa orang ini?",
+      "PORTUGUESE": "E quem é essa pessoa?",
+      "RUSSIAN": "И кто эта девушка?",
+      "FRENCH": "Et qui est cette personne ?",
+      "THAI": "แล้วคนนี้เป็นใคร?",
+      "PERSIAN": "و این شخص کیه؟"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "여기 못 들어오는 방이라고 하지 않았어요?",
+      "ENGLISH": "Isn’t this the room we can't enter?",
+      "CHINESE_SIMPLIFIED": "你不是说这个房间不让进来吗?",
+      "CHINESE_TRADITIONAL": "你不是說這個房間不讓進來嗎?",
+      "JAPANESE": "ここ、入れない部屋って言ってなかった？",
+      "INDONESIAN": "Bukannya ini kamar yang gak boleh dimasukin?",
+      "PORTUGUESE": "Não é o quarto que não podemos entrar?",
+      "RUSSIAN": "Разве это не та комната, в которую нельзя заходить?",
+      "FRENCH": "Ce n'est pas la pièce où on n'a pas le droit d’entrer ?",
+      "THAI": "นี่มันห้องที่เราเข้าไม่ได้ใช่ไหม?",
+      "PERSIAN": "این همون اتاقی نیست که نمی توانیم وارد شویم؟"
+    },
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 공룡 인형 너 옛날에 잃어버렸던 거 아니야?",
+      "ENGLISH": "Isn’t this the dinosaur toy you lost a long time ago?",
+      "CHINESE_SIMPLIFIED": "这个恐龙人偶不是你以前弄丢的那个吗?",
+      "CHINESE_TRADITIONAL": "這個恐龍人偶不是你以前弄丟的那個嗎?",
+      "JAPANESE": "てか、昔なくした恐竜のぬいぐるみじゃないの？",
+      "INDONESIAN": "Bukannya ini mainan dinosaurus yang kamu hilangin dulu?",
+      "PORTUGUESE": "Esse não é o brinquedo de dinossauro que você perdeu faz tempo?",
+      "RUSSIAN": "Разве это не тот динозавр, которого ты давно потерял?",
+      "FRENCH": "C’est pas le jouet dinosaure que tu as perdu il y a longtemps ?",
+      "THAI": "นี่ไม่ใช่ของเล่นไดโนเสาร์ที่พี่ทำหายไปนานแล้วเหรอ?",
+      "PERSIAN": "این اسباب بازی دایناسوری نیست که مدتها پیش از دست داده بودید؟"
+    },
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 그쪽이 뭔데 얘 사진 가지고 있어요?",
+      "ENGLISH": "And why does she have a photo of your family?",
+      "CHINESE_SIMPLIFIED": "她是谁啊?怎么有你们的全家福照片?",
+      "CHINESE_TRADITIONAL": "她是誰啊?怎麼有你們的全家福照片?",
+      "JAPANESE": "それに、あなた一体何者？何でユマンの家族写真を持ってるんですか？",
+      "INDONESIAN": "Dan kenapa dia punya foto keluargamu?",
+      "PORTUGUESE": "E por que ela tem uma foto da sua família?",
+      "RUSSIAN": "И почему у неё фотография твоей семьи?",
+      "FRENCH": "Et pourquoi elle a une photo de ta famille ?",
+      "THAI": "แล้วทำไมเธอถึงมีรูปครอบครัวของพี่ด้วย?",
+      "PERSIAN": "و چرا او یک عکس از خانواده شما دارد؟"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "주세요. 소중한 거예요.",
+      "ENGLISH": "Please give it back. It’s important to me.",
+      "CHINESE_SIMPLIFIED": "请还给我，这对我来说很重要。",
+      "CHINESE_TRADITIONAL": "請還給我，這對我來說很重要。",
+      "JAPANESE": "返してください。私にとって大事なものなんです。",
+      "INDONESIAN": "Tolong kembalikan. Itu penting buatku.",
+      "PORTUGUESE": "Por favor, devolve. Isso é importante pra mim.",
+      "RUSSIAN": "Пожалуйста, отдай её. Это важно для меня.",
+      "FRENCH": "S’il te plaît, rends-la-moi. Elle est importante pour moi.",
+      "THAI": "ช่วยคืนมาเถอะ มันสำคัญกับฉัน",
+      "PERSIAN": "لطفا اونو پس بدهید. برام مهمه"
+    },
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 22.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "이거 글러브도 우유만 씨 거 아니야?",
+      "ENGLISH": "Aren’t these gloves Yuman's too?",
+      "CHINESE_SIMPLIFIED": "这手套不也是宥万你的吗?",
+      "CHINESE_TRADITIONAL": "這手套不也是宥萬你的嗎?",
+      "JAPANESE": "このグローブウユマンさんのものじゃない？",
+      "INDONESIAN": "Bukannya ini juga sarung tangan Yuman?",
+      "PORTUGUESE": "Essas luvas também não são do Yuman?",
+      "RUSSIAN": "А эти перчатки тоже Юмана, да?",
+      "FRENCH": "Ces gants, ils sont à Yuman aussi, non ?",
+      "THAI": "ถุงมือพวกนี้ก็ของยูมันใช่ไหม?",
+      "PERSIAN": "این دستکش ها هم مال یومان نیست؟"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "건드리지 마세요! 소중한 거예요. / 뭐야? 진짜",
+      "ENGLISH": "Don’t touch them! They’re important. / What the... really",
+      "CHINESE_SIMPLIFIED": "请你别碰它们… ",
+      "CHINESE_TRADITIONAL": "請你別碰它們…",
+      "JAPANESE": "触らないでください！大事なものなんです。 / 何なの？",
+      "INDONESIAN": "Jangan sentuh! Itu penting. / Apa-apaan, seriusan deh.",
+      "PORTUGUESE": "Não toque! Elas são importantes. / Mas o quê... sério.",
+      "RUSSIAN": "Не трогай их! Они важны. / Что за... правда?",
+      "FRENCH": "Ne les touche pas ! Ils sont importants. / Quoi… sérieusement ?",
+      "THAI": "อย่าแตะต้อง! มันสำคัญนะ",
+      "PERSIAN": "به اونا دست نزن! اونا مهم هستند / واقعاً چه..."
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.9
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나가주세요...",
+      "ENGLISH": "Please leave...",
+      "CHINESE_SIMPLIFIED": "请你们都出去…",
+      "CHINESE_TRADITIONAL": "請你們都出去…",
+      "JAPANESE": "出て行ってください…",
+      "INDONESIAN": "Tolong keluar...",
+      "PORTUGUESE": "Por favor, saiam...",
+      "RUSSIAN": "Прошу, уходите...",
+      "FRENCH": "S’il vous plaît, partez...",
+      "THAI": "อะไรกัน...จริงหรือเนี่ย",
+      "PERSIAN": "لطفا ترک کنید..."
+    },
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "다 나가주세요...",
+      "ENGLISH": "Everyone, please leave...",
+      "CHINESE_SIMPLIFIED": "都出去…",
+      "CHINESE_TRADITIONAL": "都出去…",
+      "JAPANESE": "みんな、出て行ってください…",
+      "INDONESIAN": "Semuanya, tolong keluar...",
+      "PORTUGUESE": "Todo mundo, por favor, saiam...",
+      "RUSSIAN": "Все, пожалуйста, уходите...",
+      "FRENCH": "Tout le monde, s’il vous plaît, partez...",
+      "THAI": "ได้โปรด ออกไปกันเถอะ...",
+      "PERSIAN": "همه لطفا ترک کنید..."
+    },
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.2
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야? 누가 봐도 우유만 건데 데 왜 자기 거래?",
+      "ENGLISH": "What is this? obviously Yuman's stuff, why is she claiming it’s hers?",
+      "CHINESE_SIMPLIFIED": "这些一看就是吴宥万的东西啊,为什么说是你的？",
+      "CHINESE_TRADITIONAL": "這些一看就是吳宥萬的東西啊,爲什麼說是你的？",
+      "JAPANESE": "何よ、どう見てもウユマンのものなのに、全部自分のものだって言うの？",
+      "INDONESIAN": "Ini apa sih? Jelas barang-barang Yuman, kenapa dia ngaku itu miliknya?",
+      "PORTUGUESE": "O que é isso? São claramente coisas do Yuman. Por que ela diz que são dela?",
+      "RUSSIAN": "Что это? Очевидно, что это вещи Юмана, почему она говорит, что это её?",
+      "FRENCH": "Qu’est-ce que c’est ? Évidemment que c’est les affaires de Yuman, pourquoi elle prétend que c’est les siennes ?",
+      "THAI": "ทุกคน ช่วยออกไปกันเถอะ...",
+      "PERSIAN": "این چیه؟ واضح است که چیزهای یومان است، چرا او ادعا می کند که مال اوست؟"
+    },
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 34.2
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "일단 다 나가시죠! 네....",
+      "ENGLISH": "Everyone, let's just leave!",
+      "CHINESE_SIMPLIFIED": "大家都先出去吧!",
+      "CHINESE_TRADITIONAL": "大家都先出去吧!",
+      "JAPANESE": "とにかくみなさん、出ましょう！",
+      "INDONESIAN": "Semuanya, kita pergi aja!",
+      "PORTUGUESE": "Vamos embora todo mundo!",
+      "RUSSIAN": "Все, давайте просто уйдём!",
+      "FRENCH": "Allons-y, tout le monde !",
+      "THAI": "นี่มันอะไร? ชัดเลยว่าของพี่ยูมัน ทำไมเธอถึงบอกว่านี่เป็นของเธอ?",
+      "PERSIAN": "همه بیایید بریم!"
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.7
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "나가요! 나가! 나가!",
+      "ENGLISH": "Yes, let’s leave! Go out! Go out!",
+      "CHINESE_SIMPLIFIED": "出去出去!快点!",
+      "CHINESE_TRADITIONAL": "出去出去!快點!",
+      "JAPANESE": "出て！出て！出て！",
+      "INDONESIAN": "Iya, kita keluar! Ayo keluar! Keluar!",
+      "PORTUGUESE": "Sim, vamos sair! Saiam! Saiam!",
+      "RUSSIAN": "Да, пошли! Выходите! Выходите!",
+      "FRENCH": "Oui, on sort ! Sortez ! Sortez !",
+      "THAI": "ทุกคน เราออกไปกันเถอะ!",
+      "PERSIAN": "بله، بیایید ترک کنیم! برو بیرون! برو بیرون!"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.0
+    }
+  },
+  {
+    "SCRIPT": {
+      "THAI": "ใช่ ออกไปกันเถอะ! ออกไป! ออกไป!",
+      "PERSIAN": "آره، بزن بریم بیرون! بریم! بریم!"
+    }
+  }
+]

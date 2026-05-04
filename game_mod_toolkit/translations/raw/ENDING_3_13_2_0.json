@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 0.95
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 고양이 옷 입었으니까",
+      "ENGLISH": "Now that we've dressed the cat",
+      "CHINESE_SIMPLIFIED": "猫女装已经穿好了",
+      "CHINESE_TRADITIONAL": "貓女裝已經穿好了",
+      "JAPANESE": "私たち猫の服着たから、",
+      "INDONESIAN": "Sekarang kucingnya udah kita dandani,",
+      "PORTUGUESE": "Agora que a gente já vestiu o gato,",
+      "RUSSIAN": "Теперь, когда мы одели кота,",
+      "FRENCH": "Maintenant qu’on a habillé le chat,",
+      "THAI": "ตอนนี้เราแต่งตัวให้แมวเสร็จแล้ว"
+    },
+    "TIME": {
+      "SHOW": 0.95,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이제 목욕하러 갈까?",
+      "ENGLISH": "Can we go take a bath?",
+      "CHINESE_SIMPLIFIED": "现在去洗澡怎么样?",
+      "CHINESE_TRADITIONAL": "現在去洗澡怎麼樣?",
+      "JAPANESE": "さあ、お風呂行こうか？",
+      "INDONESIAN": "Boleh kita mandi sekarang?",
+      "PORTUGUESE": "Podemos tomar banho?",
+      "RUSSIAN": "можем пойти купаться?",
+      "FRENCH": "on peut aller prendre un bain ?",
+      "THAI": "เราไปอาบน้ำกันได้หรือยัง?"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "넌 뭘 이딴 걸 좋아하냐?",
+      "ENGLISH": "What do you like?",
+      "CHINESE_SIMPLIFIED": "你居然喜欢这种?",
+      "CHINESE_TRADITIONAL": "你居然喜歡這種?",
+      "JAPANESE": "お前、なんでこんなのが好きなんだよ？",
+      "INDONESIAN": "Kamu suka yang kayak gimana?",
+      "PORTUGUESE": "Do que você gosta?",
+      "RUSSIAN": "Что тебе нравится?",
+      "FRENCH": "Qu’est-ce que t’aimes ?",
+      "THAI": "นายชอบอะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "취향 진짜...",
+      "ENGLISH": "You have such bad taste...",
+      "CHINESE_SIMPLIFIED": "品味还真是…",
+      "CHINESE_TRADITIONAL": "品味還真是…",
+      "JAPANESE": "本当に趣味がさぁ…",
+      "INDONESIAN": "Selera kamu jelek banget...",
+      "PORTUGUESE": "Seu gosto é péssimo...",
+      "RUSSIAN": "У тебя такой плохой вкус...",
+      "FRENCH": "T’as vraiment des goûts horribles...",
+      "THAI": "รสนายนี่แย่มากเลย..."
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.9
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Oh,",
+      "PORTUGUESE": "Oh,",
+      "RUSSIAN": "Ой,",
+      "FRENCH": "Oh,",
+      "THAI": "โอ้,",
+      "PERSIAN": "اوه"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이거 뭐야?",
+      "ENGLISH": "this is...?",
+      "CHINESE_SIMPLIFIED": "这是?",
+      "CHINESE_TRADITIONAL": "這是?",
+      "JAPANESE": "これ何？",
+      "INDONESIAN": "ini...?",
+      "PORTUGUESE": "isso é...?",
+      "RUSSIAN": "это...?",
+      "FRENCH": "c’est…?",
+      "THAI": "นี่คือ...?",
+      "PERSIAN": "این است...؟"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "훗....!",
+      "ENGLISH": "Pfft....!",
+      "CHINESE_SIMPLIFIED": "噗…!",
+      "CHINESE_TRADITIONAL": "噗…!",
+      "JAPANESE": "あっ…！",
+      "INDONESIAN": "Pfft...!",
+      "PORTUGUESE": "Pfft...!",
+      "RUSSIAN": "Ха-ха...!",
+      "FRENCH": "Pfff... !",
+      "THAI": "ฮ่าๆๆ!",
+      "PERSIAN": "پففت....!"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "你笑什么!",
+      "CHINESE_TRADITIONAL": "你笑什麼!",
+      "JAPANESE": "何笑ってるのよ！",
+      "INDONESIAN": "Maaf!",
+      "PORTUGUESE": "Com licença!",
+      "RUSSIAN": "Извините!",
+      "FRENCH": "Excuse-moi !",
+      "THAI": "ขอโทษนะ!",
+      "PERSIAN": "Excuse me!"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "不好意思哈…",
+      "CHINESE_TRADITIONAL": "不好意思哈…",
+      "JAPANESE": "あ、すいません。",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Простите...",
+      "FRENCH": "Désolé...",
+      "THAI": "ขอโทษจริงๆ...",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 10.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "생각보다 화려한 거 좋아하시는 거 같아서...",
+      "ENGLISH": "Looks like you like flashy things more than I thought.",
+      "CHINESE_SIMPLIFIED": "没想到你会喜欢这么性感的款式…",
+      "CHINESE_TRADITIONAL": "沒想到你會喜歡這麼性感的款式…",
+      "JAPANESE": "意外に派手なものが好きなんだなって…",
+      "INDONESIAN": "Kayaknya kamu suka barang mencolok lebih dari yang aku kira.",
+      "PORTUGUESE": "Parece que você gosta de coisas chamativas mais do que eu imaginava.",
+      "RUSSIAN": "Похоже, тебе нравятся яркие вещи больше, чем я думал.",
+      "FRENCH": "On dirait que tu aimes les choses flashy plus que je pensais.",
+      "THAI": "ดูเหมือนว่าเธอจะชอบอะไรแวววาวกว่าที่ฉันคิดนะ",
+      "PERSIAN": "به نظر می رسد شما چیزهای پر زرق و برق را بیشتر از آنچه فکر می کردم دوست دارید."
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저 보기보다",
+      "ENGLISH": "I’m much flashier",
+      "CHINESE_SIMPLIFIED": "我比看起来的",
+      "CHINESE_TRADITIONAL": "我比看起來的",
+      "JAPANESE": "私、見た目よりも",
+      "INDONESIAN": "Aku jauh lebih mencolok",
+      "PORTUGUESE": "Eu sou bem mais chamativo(a)",
+      "RUSSIAN": "Я намного ярче,",
+      "FRENCH": "Je suis bien plus flashy",
+      "THAI": "ฉันน่ะ แวววาวกว่าที่เธอเห็นเยอะเลย",
+      "PERSIAN": "من خیلی چشمگیرترم"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "엄청 화려하거든요?",
+      "ENGLISH": "Than I look.",
+      "CHINESE_SIMPLIFIED": "要性感多了好嘛",
+      "CHINESE_TRADITIONAL": "要性感多了好嘛",
+      "JAPANESE": "すっごく派手なんですよ？",
+      "INDONESIAN": "Dari kelihatannya.",
+      "PORTUGUESE": "Do que pareço.",
+      "RUSSIAN": "чем выгляжу.",
+      "FRENCH": "que je n’en ai l’air.",
+      "PERSIAN": "از آنچه که من نگاه می کنم."
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "언니가 키는 큰데...",
+      "ENGLISH": "Sis is tall...",
+      "CHINESE_SIMPLIFIED": "姐姐虽然个子高…",
+      "CHINESE_TRADITIONAL": "姐姐雖然個子高…",
+      "JAPANESE": "お姉ちゃん背は高いけど…",
+      "INDONESIAN": "Kakak itu tinggi...",
+      "PORTUGUESE": "A mana é alta...",
+      "RUSSIAN": "Сестра высокая...",
+      "FRENCH": "Grande sœur est grande...",
+      "THAI": "พี่สาวตัวสูง...",
+      "PERSIAN": "سیس قد بلنده..."
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 무튼 내가 더 화려해!",
+      "ENGLISH": "But oppa, I’m definitely flashier!",
+      "CHINESE_SIMPLIFIED": "哥哥 总之还是我更性感",
+      "CHINESE_TRADITIONAL": "哥哥 總之還是我更性感",
+      "JAPANESE": "お兄ちゃん、でも私の方がもっと派手だよ！",
+      "INDONESIAN": "Tapi, oppa, aku jelas lebih mencolok!",
+      "PORTUGUESE": "Mas, oppa, eu sou definitivamente mais chamativo(a)!",
+      "RUSSIAN": "Но, оппа, я точно ярче!",
+      "FRENCH": "Mais oppa, je suis définitivement plus flashy !",
+      "THAI": "แต่พี่ ฉันนี่แหละแวววาวกว่าแน่นอน!",
+      "PERSIAN": "اما یومان، من مطمئناً درخشان تر هستم!"
+    },
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "다들 무슨 소리 하는 거야!",
+      "ENGLISH": "What are you guys even talking about!",
+      "CHINESE_SIMPLIFIED": "你们叽哩哇啦地说什么呢?",
+      "CHINESE_TRADITIONAL": "你們嘰哩哇啦地說什麼呢?",
+      "JAPANESE": "みんな、何言ってるんだよ。",
+      "INDONESIAN": "Kalian ngomongin apa sih?!",
+      "PORTUGUESE": "Do que vocês estão falando?!",
+      "RUSSIAN": "О чём вы вообще говорите!",
+      "FRENCH": "De quoi vous parlez !",
+      "THAI": "พวกเธอพูดเรื่องอะไรกัน!",
+      "PERSIAN": "بچه ها اصلا در مورد چی صحبت می کنید!"
+    },
+    "TIME": {
+      "SHOW": 21.57,
+      "HIDE": 23.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "확인하기 전엔 모르지~ ",
+      "ENGLISH": "You won't know until we check!",
+      "CHINESE_SIMPLIFIED": "得确认下才知道~",
+      "CHINESE_TRADITIONAL": "得確認下才知道~",
+      "JAPANESE": "確認しないと分からないわ。",
+      "INDONESIAN": "Kita gak bakal tahu sebelum dicek!",
+      "PORTUGUESE": "A gente não vai saber até conferir!",
+      "RUSSIAN": "Не узнаем, пока не проверим!",
+      "FRENCH": "On ne le saura pas tant qu’on n’aura pas vérifié !",
+      "THAI": "ไม่รู้หรอก จนกว่าเราจะลองดูกัน!",
+      "PERSIAN": "تا زمانی که بررسی نکنیم نمی‌دونین!"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "우리 날도 더운데",
+      "ENGLISH": "It's so hot",
+      "CHINESE_SIMPLIFIED": "天也这么热",
+      "CHINESE_TRADITIONAL": "天也這麼熱",
+      "JAPANESE": "せっかくなら、暑いし",
+      "INDONESIAN": "Panas banget,",
+      "PORTUGUESE": "Tá tão quente,",
+      "RUSSIAN": "Так жарко,",
+      "FRENCH": "Il fait si chaud,",
+      "THAI": "ร้อนจัง",
+      "PERSIAN": "خیلی گرمه"
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 26.75
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "다 같이 벗죠?",
+      "ENGLISH": "Let’s all strip down!",
+      "CHINESE_SIMPLIFIED": "都脱掉确认一下吧？",
+      "CHINESE_TRADITIONAL": "都脫掉確認一下吧？",
+      "JAPANESE": "みんな、脱いじゃおうよ。",
+      "INDONESIAN": "Ayo semuanya buka baju!",
+      "PORTUGUESE": "Vamos todos tirar a roupa!",
+      "RUSSIAN": "давайте все снимем верх!",
+      "FRENCH": "enlevons tout !",
+      "THAI": "มาถอดกันเถอะ!",
+      "PERSIAN": "بیایید همه را کنار بگذاریم!"
+    },
+    "TIME": {
+      "SHOW": 26.75,
+      "HIDE": 28.14
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 우리 바다 보러 갈까?",
+      "ENGLISH": "Oppa, should we go to the beach?",
+      "CHINESE_SIMPLIFIED": "哥哥，我们去海边吧",
+      "CHINESE_TRADITIONAL": "哥哥，我們去海邊吧",
+      "JAPANESE": "お兄ちゃん、海見に行かない？",
+      "INDONESIAN": "Oppa, kita ke pantai, yuk?",
+      "PORTUGUESE": "Oppa, vamos pra praia?",
+      "RUSSIAN": "Оппа, может, поедем на пляж?",
+      "FRENCH": "Oppa, si on allait à la plage ?",
+      "THAI": "พี่ ไปทะเลกันไหม?",
+      "PERSIAN": "یومان، باید بریم ساحل؟"
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.16
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "날도 너무 덥구, 어때?",
+      "ENGLISH": "It’s so hot, what do you think?",
+      "CHINESE_SIMPLIFIED": "反正天气这么热，怎么样？",
+      "CHINESE_TRADITIONAL": "反正天氣這麼熱，怎麼樣？",
+      "JAPANESE": "どう？",
+      "INDONESIAN": "Cuaca panas, menurutmu gimana?",
+      "PORTUGUESE": "Tá tão quente, o que você acha?",
+      "RUSSIAN": "Жарко же, как тебе идея?",
+      "FRENCH": "Il fait chaud, tu en dis quoi ?",
+      "THAI": "อากาศร้อนมาก เธอคิดว่าไง?",
+      "PERSIAN": "خیلی گرمه، نظرت چیه؟"
+    },
+    "TIME": {
+      "SHOW": 30.16,
+      "HIDE": 31.9
+    }
+  }
+]

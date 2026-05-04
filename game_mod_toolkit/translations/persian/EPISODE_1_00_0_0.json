@@ -1,0 +1,722 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐지?",
+      "ENGLISH": "What the...?",
+      "CHINESE_SIMPLIFIED": "谁啊？",
+      "CHINESE_TRADITIONAL": "誰啊？",
+      "JAPANESE": "何だ？",
+      "INDONESIAN": "Apa-apaan sih…?",
+      "PORTUGUESE": "Que porra é essa…?",
+      "RUSSIAN": "Что за...?",
+      "FRENCH": "Quoi... ?",
+      "THAI": "อะไรเนี่ย...?",
+      "PERSIAN": "اینجا چه خبره؟!"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 시끄러워 죽겠네 진짜!",
+      "ENGLISH": "Ugh, it's so noisy!",
+      "CHINESE_SIMPLIFIED": "啊!真是吵死了!",
+      "CHINESE_TRADITIONAL": "啊!真是吵死了!",
+      "JAPANESE": "ああ、もううるさすぎ！",
+      "INDONESIAN": "Aduh, berisik banget!",
+      "PORTUGUESE": "Aff, que barulheira!",
+      "RUSSIAN": "Ух, как же шумно!",
+      "FRENCH": "Oh, c’est tellement bruyant !",
+      "THAI": "อืม หนวกหูจริง!",
+      "PERSIAN": "اوه، خیلی سر و صدا است!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 때문에 잠 다 깼잖아!",
+      "ENGLISH": "You woke me up!",
+      "CHINESE_SIMPLIFIED": "因为你都被吵醒了!",
+      "CHINESE_TRADITIONAL": "因爲你都被吵醒了!",
+      "JAPANESE": "あんたのせいでみんな起きちゃったじゃない！",
+      "INDONESIAN": "Kamu bikin aku bangun!",
+      "PORTUGUESE": "Você me acordou!",
+      "RUSSIAN": "Ты меня разбудил!",
+      "FRENCH": "Tu m’as réveillé !",
+      "THAI": "คุณปลุกฉันตื่น!",
+      "PERSIAN": "بیدارم کردی!"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐래~",
+      "ENGLISH": "Why do you care",
+      "CHINESE_SIMPLIFIED": "说什么呢",
+      "CHINESE_TRADITIONAL": "說什麼呢",
+      "JAPANESE": "何言ってんの。",
+      "INDONESIAN": "Kenapa sih kamu peduli",
+      "PORTUGUESE": "Por que você se importa",
+      "RUSSIAN": "Какая тебе разница,",
+      "FRENCH": "Pourquoi ça t’intéresse",
+      "THAI": "คุณจะสนทำไม",
+      "PERSIAN": "چرا اهمیت میدی"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "남이사 알람을 맞추든 말든~",
+      "ENGLISH": "If he sets an alarm or not?",
+      "CHINESE_SIMPLIFIED": "人家的闹钟关你什么事啊?",
+      "CHINESE_TRADITIONAL": "人家的鬧鐘關你什麼事啊?",
+      "JAPANESE": "人がアラームをかけようが、かけまいが関係ないでしょ。",
+      "INDONESIAN": "kalau dia pasang alarm atau enggak?",
+      "PORTUGUESE": "se ele coloca despertador ou não?",
+      "RUSSIAN": "ставит он будильник или нет?",
+      "FRENCH": "s’il met une alarme ou pas ?",
+      "THAI": "ว่าเขาจะตั้งนาฬิกาปลุกหรือไม่?",
+      "PERSIAN": "اگر زنگ بزند یا نه؟"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 잘 잤어?",
+      "ENGLISH": "Did you sleep well?",
+      "CHINESE_SIMPLIFIED": "哥哥你睡得好吗?",
+      "CHINESE_TRADITIONAL": "哥哥你睡得好嗎?",
+      "JAPANESE": "お兄ちゃん、ぐっすり眠れた？",
+      "INDONESIAN": "Kamu tidur nyenyak?",
+      "PORTUGUESE": "Dormiu bem?",
+      "RUSSIAN": "Ты хорошо спал?",
+      "FRENCH": "Tu as bien dormi ?",
+      "THAI": "คุณนอนหลับสบายไหม?",
+      "PERSIAN": "خوب خوابیدی؟"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만!",
+      "ENGLISH": "Hey, Yuman!",
+      "CHINESE_SIMPLIFIED": "喂!吴宥万!",
+      "CHINESE_TRADITIONAL": "喂!吳宥萬!",
+      "JAPANESE": "おい、ウユマン！",
+      "INDONESIAN": "Hei, Yuman!",
+      "PORTUGUESE": "Ei, Yuman!",
+      "RUSSIAN": "Эй, Юман!",
+      "FRENCH": "Hé, Yuman !",
+      "THAI": "นี่ ยูมัน!",
+      "PERSIAN": "Hey, Yuman!"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "일어나지도 못할 거",
+      "ENGLISH": "Why do you set an alarm",
+      "CHINESE_SIMPLIFIED": "起都起不来",
+      "CHINESE_TRADITIONAL": "起都起不來",
+      "JAPANESE": "起きられないくせに、なんでアラームかけてるのよ！",
+      "INDONESIAN": "Ngapain pasang alarm",
+      "PORTUGUESE": "Por que você coloca um despertador",
+      "RUSSIAN": "Зачем ты ставишь будильник,",
+      "FRENCH": "Pourquoi tu mets une alarme",
+      "THAI": "ตั้งนาฬิกาปลุกทำไม",
+      "PERSIAN": "چرا زنگ میزنی"
+    },
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "알람은 왜 맞춰 놓는 거야?",
+      "ENGLISH": "If you can't even get up?",
+      "CHINESE_SIMPLIFIED": "定什么闹钟啊？",
+      "CHINESE_TRADITIONAL": "定什麼鬧鐘啊？",
+      "JAPANESE": "なんでアラームかけてるのよ！",
+      "INDONESIAN": "Kalau ujung-ujungnya enggak bangun juga?",
+      "PORTUGUESE": "Se nem consegue acordar?",
+      "RUSSIAN": "если всё равно не можешь проснуться?",
+      "FRENCH": "si tu n’arrives même pas à te lever ?",
+      "THAI": "ถ้าตื่นไม่ไหวเนี่ย?",
+      "PERSIAN": "اگر حتی نمی توانید بلند شوید؟"
+    },
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "에이, 한두 번도 아닌데 뭐 어때~",
+      "ENGLISH": "It's not the first time, so what's the big deal?",
+      "CHINESE_SIMPLIFIED": "他本来就这样嘛~",
+      "CHINESE_TRADITIONAL": "他本來就這樣嘛~",
+      "JAPANESE": "一度や二度じゃあるまいし、もう許してあげなよ～",
+      "INDONESIAN": "Udah sering kayak gini, jadi apa bedanya?",
+      "PORTUGUESE": "Já fez isso várias vezes, qual é o problema agora?",
+      "RUSSIAN": "Это уже не в первый раз, так в чём проблема?",
+      "FRENCH": "C’est pas la première fois, alors pourquoi tu en fais tout un plat ?",
+      "THAI": "มันไม่ใช่ครั้งแรกเลยนะ เรื่องใหญ่ตรงไหนล่ะ?",
+      "PERSIAN": "این اولین بار نیست، پس مشکل اصلی چیه؟"
+    },
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "새삼스럽게!",
+      "ENGLISH": "So what's the big deal?",
+      "CHINESE_SIMPLIFIED": "大惊小怪!",
+      "CHINESE_TRADITIONAL": "大驚小怪!",
+      "JAPANESE": "今更もう遅いよ。",
+      "INDONESIAN": "Iya, apa bedanya coba?",
+      "PORTUGUESE": "Pois é, qual é o problema?",
+      "RUSSIAN": "Так в чём проблема?",
+      "FRENCH": "Pourquoi tu en fais tout un plat ?",
+      "THAI": "แล้วเรื่องใหญ่ตรงไหนล่ะ?",
+      "PERSIAN": "پس مشکل بزرگ چیه؟"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 깜짝이야!",
+      "ENGLISH": "Oh, you scared me!",
+      "CHINESE_SIMPLIFIED": "啊 吓我一跳！",
+      "CHINESE_TRADITIONAL": "啊 嚇我一跳！",
+      "JAPANESE": "あっ、びっくりした！",
+      "INDONESIAN": "Oh, kagetin aja!",
+      "PORTUGUESE": "Ah, que susto!",
+      "RUSSIAN": "Ох, ты меня напугал!",
+      "FRENCH": "Oh, tu m’as fait peur !",
+      "THAI": "โอ้ คุณทำฉันตกใจหมด!",
+      "PERSIAN": "اوه تو منو ترسوندی!"
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "...우유만!",
+      "ENGLISH": "... Yuman!",
+      "CHINESE_SIMPLIFIED": "吴宥万!",
+      "CHINESE_TRADITIONAL": "吳宥萬!",
+      "JAPANESE": "…ウユマン？",
+      "INDONESIAN": "... Yuman!",
+      "PORTUGUESE": "... Yuman!",
+      "RUSSIAN": "... Юман!",
+      "FRENCH": "... Yuman !",
+      "THAI": "... ยูมัน!",
+      "PERSIAN": "... یومان!"
+    },
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 38.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 일어나야지!",
+      "ENGLISH": "Hurry up and get up!",
+      "CHINESE_SIMPLIFIED": "快点起床啦!",
+      "CHINESE_TRADITIONAL": "快點起牀啦!",
+      "JAPANESE": "早く起きなきゃ！",
+      "INDONESIAN": "Cepetan bangun, dong!",
+      "PORTUGUESE": "Levanta logo, vai!",
+      "RUSSIAN": "Быстро вставай!",
+      "FRENCH": "Dépêche-toi de te lever !",
+      "THAI": "รีบลุกได้แล้ว!",
+      "PERSIAN": "عجله کن و برخیز!"
+    },
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 40.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "이게 무슨 일이야?",
+      "ENGLISH": "What's going on here?!",
+      "CHINESE_SIMPLIFIED": "这是怎么回事？",
+      "CHINESE_TRADITIONAL": "這是怎麼回事？",
+      "JAPANESE": "一体どうなっているんだ？",
+      "INDONESIAN": "Ada apa ini?!",
+      "PORTUGUESE": "O que tá rolando aqui?!",
+      "RUSSIAN": "Что здесь происходит?!",
+      "FRENCH": "Qu’est-ce qu’il se passe ici ?!",
+      "THAI": "เกิดอะไรขึ้นที่นี่?!",
+      "PERSIAN": "اینجا چه خبره؟!"
+    },
+    "TIME": {
+      "SHOW": 40.8,
+      "HIDE": 42.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "다들 누군데 우리 집에 있는 거냐고!",
+      "ENGLISH": "Who are you all, and why are you in my house?!",
+      "CHINESE_SIMPLIFIED": "你们都是谁?为什么在我家啊!!!",
+      "CHINESE_TRADITIONAL": "你們都是誰?爲什麼在我家啊!!!",
+      "JAPANESE": "何で知らないやつが俺の家にいるんだよ！",
+      "INDONESIAN": "Kalian siapa sih, dan kenapa ada di rumahku?!",
+      "PORTUGUESE": "Quem são vocês e por que estão na minha casa?!",
+      "RUSSIAN": "Кто вы все, и почему вы у меня дома?!",
+      "FRENCH": "Vous êtes qui tous, et qu’est-ce que vous faites chez moi ?!",
+      "THAI": "พวกคุณเป็นใคร แล้วมาทำอะไรในบ้านฉัน?!",
+      "PERSIAN": "همه شما کی هستید و چرا در خونه من هستید؟!"
+    },
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 45.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "설마...",
+      "ENGLISH": "No way...",
+      "CHINESE_SIMPLIFIED": "不会吧…",
+      "CHINESE_TRADITIONAL": "不會吧…",
+      "JAPANESE": "まさか...",
+      "INDONESIAN": "Enggak mungkin...",
+      "PORTUGUESE": "Não acredito...",
+      "RUSSIAN": "Не может быть...",
+      "FRENCH": "Impossible...",
+      "THAI": "ไม่นะ...",
+      "PERSIAN": "No way..."
+    },
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 59.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "워!",
+      "ENGLISH": "Whew...!",
+      "CHINESE_SIMPLIFIED": "啊! ",
+      "CHINESE_TRADITIONAL": "啊!",
+      "JAPANESE": "わっ！",
+      "INDONESIAN": "Hah...!",
+      "PORTUGUESE": "Ufa...!",
+      "RUSSIAN": "Фух...!",
+      "FRENCH": "Ouf...!",
+      "THAI": "เฮ้อ...!",
+      "PERSIAN": "وای...!"
+    },
+    "TIME": {
+      "SHOW": 64.4,
+      "HIDE": 65.4
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "없네...",
+      "ENGLISH": "They're gone...",
+      "CHINESE_SIMPLIFIED": "什么都没有...",
+      "CHINESE_TRADITIONAL": "什麼都沒有...",
+      "JAPANESE": "いないな...",
+      "INDONESIAN": "Udah pergi...",
+      "PORTUGUESE": "Já foram...",
+      "RUSSIAN": "Они исчезли...",
+      "FRENCH": "Ils sont partis...",
+      "THAI": "พวกเขาไปแล้ว...",
+      "PERSIAN": "رفته اند..."
+    },
+    "TIME": {
+      "SHOW": 66.8,
+      "HIDE": 67.8
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "おっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hein?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "หา?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 78.0,
+      "HIDE": 79.0
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "어 아들~",
+      "ENGLISH": "Hey, son",
+      "CHINESE_SIMPLIFIED": "儿子",
+      "CHINESE_TRADITIONAL": "兒子",
+      "JAPANESE": "あ、ユマン～",
+      "INDONESIAN": "Hei, Nak",
+      "PORTUGUESE": "Ei, filho",
+      "RUSSIAN": "Эй, сынок,",
+      "FRENCH": "Hé, mon fils,",
+      "THAI": "นี่ ลูกชาย",
+      "PERSIAN": "هی پسر"
+    },
+    "TIME": {
+      "SHOW": 79.4,
+      "HIDE": 80.5
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "일어났어?",
+      "ENGLISH": "You're awake?",
+      "CHINESE_SIMPLIFIED": "你起来啦?",
+      "CHINESE_TRADITIONAL": "你起來啦?",
+      "JAPANESE": "起きたの？",
+      "INDONESIAN": "Kamu udah bangun?",
+      "PORTUGUESE": "Você acordou?",
+      "RUSSIAN": "ты проснулся?",
+      "FRENCH": "t’es réveillé ?",
+      "THAI": "คุณตื่นแล้วเหรอ?",
+      "PERSIAN": "You're awake?"
+    },
+    "TIME": {
+      "SHOW": 80.5,
+      "HIDE": 81.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠 어디가?",
+      "ENGLISH": "Where are you going Mom? Dad?",
+      "CHINESE_SIMPLIFIED": "爸妈你们要去哪啊?",
+      "CHINESE_TRADITIONAL": "爸媽你們要去哪啊?",
+      "JAPANESE": "二人ともどこか出かけるの？",
+      "INDONESIAN": "Kalian mau pergi ke mana, Ma? Pa?",
+      "PORTUGUESE": "Pra onde vocês vão, mãe? pai?",
+      "RUSSIAN": "Куда вы, мама? Папа?",
+      "FRENCH": "Où est-ce que tu vas, maman ? Papa ?",
+      "THAI": "แม่จะไปไหน พ่อ?",
+      "PERSIAN": "کجا میری مامان؟ بابا؟"
+    },
+    "TIME": {
+      "SHOW": 81.7,
+      "HIDE": 83.3
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠 2달 정도 출장 가거든?",
+      "ENGLISH": "Mom and Dad are going on a business trip for two months.",
+      "CHINESE_SIMPLIFIED": "我们要出差两个月",
+      "CHINESE_TRADITIONAL": "我們要出差兩個月",
+      "JAPANESE": "母さんと父さん2ヶ月ほど出張に行くことになった。",
+      "INDONESIAN": "Mama dan Papa pergi dinas dua bulan.",
+      "PORTUGUESE": "Mamãe e papai vão fazer uma viagem de trabalho por dois meses.",
+      "RUSSIAN": "Мама и папа уезжают в командировку на два месяца.",
+      "FRENCH": "Maman et papa partent en voyage d’affaires pour deux mois.",
+      "THAI": "แม่กับพ่อจะไปทำงานต่างประเทศสองเดือน",
+      "PERSIAN": "مامان و بابا دو ماهه میرن یه سفر کاری."
+    },
+    "TIME": {
+      "SHOW": 84.0,
+      "HIDE": 87.0
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "이거 줄 테니까 잘 지내고 있어.",
+      "ENGLISH": "Here's something for you. Take care.",
+      "CHINESE_SIMPLIFIED": "这个给你,你好好的啊",
+      "CHINESE_TRADITIONAL": "這個給你,你好好的啊",
+      "JAPANESE": "これやるから、ちゃんとうまくやるんだよ。",
+      "INDONESIAN": "Ini buat kamu. Jaga diri baik-baik, ya.",
+      "PORTUGUESE": "Aqui, isso é pra você. Se cuida, tá?",
+      "RUSSIAN": "Вот, держи. Позаботься о себе.",
+      "FRENCH": "Tiens, c’est pour toi. Prends soin de toi.",
+      "THAI": "นี่ เอาไว้ดูแลตัวเองนะ",
+      "PERSIAN": "در اینجا چیزی برای شما وجود دارد. مراقب باشید."
+    },
+    "TIME": {
+      "SHOW": 87.0,
+      "HIDE": 89.7
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "또 출장 가?",
+      "ENGLISH": "Another Business trip?",
+      "CHINESE_SIMPLIFIED": "又出差?",
+      "CHINESE_TRADITIONAL": "又出差?",
+      "JAPANESE": "また出張？",
+      "INDONESIAN": "Dinas lagi?",
+      "PORTUGUESE": "Outra viagem de trabalho?",
+      "RUSSIAN": "Опять командировка?",
+      "FRENCH": "Encore un voyage d’affaires ?",
+      "THAI": "ไปทำงานอีกแล้วเหรอ?",
+      "PERSIAN": "سفر کاری دیگر؟"
+    },
+    "TIME": {
+      "SHOW": 91.0,
+      "HIDE": 92.2
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "유만 아빠 얘 소심해서",
+      "ENGLISH": "Yuman, I don't think",
+      "CHINESE_SIMPLIFIED": "孩儿他爸,他性格谨慎",
+      "CHINESE_TRADITIONAL": "孩兒他爸,他性格謹慎",
+      "JAPANESE": "あなた、この子小心者だから",
+      "INDONESIAN": "Yuman, kayaknya",
+      "PORTUGUESE": "Yuman, acho que",
+      "RUSSIAN": "Юман, не думаю,",
+      "FRENCH": "Yuman, je ne pense pas",
+      "THAI": "ยูมัน ฉันไม่คิดว่า",
+      "PERSIAN": "یومان، فکر نمی کنم"
+    },
+    "TIME": {
+      "SHOW": 92.5,
+      "HIDE": 95.0
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "이런 거 못 할 거 같은데...",
+      "ENGLISH": "you can handle this but...",
+      "CHINESE_SIMPLIFIED": "不知道能不能做得来…",
+      "CHINESE_TRADITIONAL": "不知道能不能做得來…",
+      "JAPANESE": "こういうの、できそうにないと思うけど…",
+      "INDONESIAN": "kamu enggak bakal bisa ngurus rumah ini, tapi...",
+      "PORTUGUESE": "você não vai dar conta, mas...",
+      "RUSSIAN": "что ты справишься с этим, но...",
+      "FRENCH": "que tu puisses gérer ça, mais...",
+      "THAI": "เธอจะรับมือไหวหรอก แต่...",
+      "PERSIAN": "تو میتوانی از پس این بر بیای اما..."
+    },
+    "TIME": {
+      "SHOW": 95.0,
+      "HIDE": 96.5
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "사내자식이 나이가 곧 서른인데,",
+      "ENGLISH": "He's almost thirty",
+      "CHINESE_SIMPLIFIED": "快30岁的大男人有什么做不来的!",
+      "CHINESE_TRADITIONAL": "快30歲的大男人有什麼做不來的!",
+      "JAPANESE": "うちの子がもう30になるのに、",
+      "INDONESIAN": "Udah hampir tiga puluh,",
+      "PORTUGUESE": "Tá quase nos trinta",
+      "RUSSIAN": "Ему почти тридцать,",
+      "FRENCH": "Il a presque trente ans",
+      "THAI": "อายุเกือบสามสิบแล้ว",
+      "PERSIAN": "او تقریباً سی ساله است"
+    },
+    "TIME": {
+      "SHOW": 96.5,
+      "HIDE": 99.4
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "그거로 용돈벌이하고 있어!",
+      "ENGLISH": "Still doing chores for pocket money!",
+      "CHINESE_SIMPLIFIED": "用这个赚点零花钱吧!",
+      "CHINESE_TRADITIONAL": "用這個賺點零花錢吧!",
+      "JAPANESE": "小遣いあげる代わりにしっかり働いてもらわないとな！",
+      "INDONESIAN": "masih ngerjain kerjaan rumah buat uang jajan!",
+      "PORTUGUESE": "e ainda faz as tarefas pra ganhar mesada!",
+      "RUSSIAN": "а он всё ещё делает домашние дела за карманные деньги!",
+      "FRENCH": "et il fait encore des tâches ménagères pour de l’argent de poche !",
+      "THAI": "ยังทำงานบ้านแลกค่าขนมอยู่เลย!",
+      "PERSIAN": "هنوز در حال انجام کارهای خونه برای پول جیبی!"
+    },
+    "TIME": {
+      "SHOW": 100.0,
+      "HIDE": 102.5
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "집 잘 지키고!",
+      "ENGLISH": "Take care of the house!",
+      "CHINESE_SIMPLIFIED": "好好看家!",
+      "CHINESE_TRADITIONAL": "好好看家!",
+      "JAPANESE": "留守番よろしく頼むよ！",
+      "INDONESIAN": "Jaga rumah baik-baik, ya!",
+      "PORTUGUESE": "Cuida da casa, hein!",
+      "RUSSIAN": "Следи за домом!",
+      "FRENCH": "Occupe-toi de la maison !",
+      "THAI": "ดูแลบ้านให้ดีล่ะ!",
+      "PERSIAN": "مواظب خونه باش!"
+    },
+    "TIME": {
+      "SHOW": 102.5,
+      "HIDE": 103.8
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "자 갑시다.",
+      "ENGLISH": "Alright, we have to go now. ",
+      "CHINESE_SIMPLIFIED": "快走吧",
+      "CHINESE_TRADITIONAL": "快走吧",
+      "JAPANESE": "さあ、行くぞ。",
+      "INDONESIAN": "Oke, kita harus berangkat sekarang.",
+      "PORTUGUESE": "Tá, precisamos ir agora.",
+      "RUSSIAN": "Ладно, нам пора.",
+      "FRENCH": "Bon, on doit y aller.",
+      "THAI": "เอาล่ะ พวกเราต้องไปแล้ว",
+      "PERSIAN": "باشه الان باید بریم"
+    },
+    "TIME": {
+      "SHOW": 104.0,
+      "HIDE": 105.2
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "안녕~",
+      "ENGLISH": "Bye~",
+      "CHINESE_SIMPLIFIED": "拜拜~",
+      "CHINESE_TRADITIONAL": "拜拜~",
+      "JAPANESE": "じゃあね～",
+      "INDONESIAN": "Daaah~",
+      "PORTUGUESE": "Tchauzinho~",
+      "RUSSIAN": "Пока~",
+      "FRENCH": "Bye~",
+      "THAI": "ลาก่อน~",
+      "PERSIAN": "فعلاً، خدافظ~"
+    },
+    "TIME": {
+      "SHOW": 105.8,
+      "HIDE": 107.3
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "엄마...!",
+      "ENGLISH": "Mom...!",
+      "CHINESE_SIMPLIFIED": "妈!",
+      "CHINESE_TRADITIONAL": "媽!",
+      "JAPANESE": "母さん…！",
+      "INDONESIAN": "Mama...!",
+      "PORTUGUESE": "Mãe...!",
+      "RUSSIAN": "Мама...!",
+      "FRENCH": "Maman... !",
+      "THAI": "แม่...!",
+      "PERSIAN": "مامان...!"
+    },
+    "TIME": {
+      "SHOW": 107.3,
+      "HIDE": 108.1
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "아빠!",
+      "ENGLISH": "Dad!!",
+      "CHINESE_SIMPLIFIED": "爸!",
+      "CHINESE_TRADITIONAL": "爸!",
+      "JAPANESE": "父さん！",
+      "INDONESIAN": "Papa!!",
+      "PORTUGUESE": "Pai!!",
+      "RUSSIAN": "Папа!!",
+      "FRENCH": "Papa !!",
+      "THAI": "พ่อ!!",
+      "PERSIAN": "بابا!!"
+    },
+    "TIME": {
+      "SHOW": 108.9,
+      "HIDE": 109.5
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "...하숙집?",
+      "ENGLISH": "... A boarding house?",
+      "CHINESE_SIMPLIFIED": "…合租房?",
+      "CHINESE_TRADITIONAL": "…合租房?",
+      "JAPANESE": "…下宿？",
+      "INDONESIAN": "... Kosan?",
+      "PORTUGUESE": "... Uma pensão?",
+      "RUSSIAN": "... Пансионат?",
+      "FRENCH": "... Une pension ?",
+      "THAI": "... หอพัก?",
+      "PERSIAN": "... پانسیون؟"
+    },
+    "TIME": {
+      "SHOW": 116.2,
+      "HIDE": 118.2
+    }
+  }
+]

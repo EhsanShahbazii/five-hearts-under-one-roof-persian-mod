@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "기억하지~ ",
+      "ENGLISH": "Yeah~",
+      "CHINESE_SIMPLIFIED": "我当然记得了~",
+      "CHINESE_TRADITIONAL": "我當然記得了~",
+      "JAPANESE": "もちろん、覚えてるよ。",
+      "INDONESIAN": "Iya~",
+      "PORTUGUESE": "Sim~",
+      "RUSSIAN": "Да~",
+      "FRENCH": "Oui~",
+      "THAI": "ใช่~",
+      "PERSIAN": "Yeah~"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너가 다짜고짜 말 걸지 말라며.",
+      "ENGLISH": "You told me not to talk to you out of the blue.",
+      "CHINESE_SIMPLIFIED": "你上次让我别理你来着",
+      "CHINESE_TRADITIONAL": "你上次讓我別理你來着",
+      "JAPANESE": "お前が「話しかけるな」って言ったの",
+      "INDONESIAN": "Kamu bilang supaya aku nggak ngobrol tiba-tiba sama kamu.",
+      "PORTUGUESE": "Você me disse para não falar com você do nada.",
+      "RUSSIAN": "Ты сказал(а) мне не разговаривать с тобой без предупреждения.",
+      "FRENCH": "Tu m’as dit de ne pas te parler comme ça sans prévenir.",
+      "THAI": "เธอบอกฉันว่าอย่ามาคุยกับเธอแบบไม่ให้ซุ่มให้เสียง",
+      "PERSIAN": "تو به من گفتی که با تو حرف نزنم."
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그랬었나?",
+      "ENGLISH": "Did I?",
+      "CHINESE_SIMPLIFIED": "我有吗?",
+      "CHINESE_TRADITIONAL": "我有嗎?",
+      "JAPANESE": "そんなこと言ったっけ？",
+      "INDONESIAN": "Aku bilang begitu?",
+      "PORTUGUESE": "Eu disse isso?",
+      "RUSSIAN": "Я так говорил(а)?",
+      "FRENCH": "J’ai dit ça ?",
+      "THAI": "ฉันพูดแบบนั้นเหรอ?",
+      "PERSIAN": "من؟"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아... 아닌가?",
+      "ENGLISH": "Maybe not...?",
+      "CHINESE_SIMPLIFIED": "没…有吗?",
+      "CHINESE_TRADITIONAL": "沒…有嗎?",
+      "JAPANESE": "ああ…言ったかも？",
+      "INDONESIAN": "Mungkin nggak, ya...?",
+      "PORTUGUESE": "Talvez não...?",
+      "RUSSIAN": "Может, и нет...?",
+      "FRENCH": "Peut-être pas...?",
+      "THAI": "บางทีอาจจะไม่...?",
+      "PERSIAN": "شاید نه...؟"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아니야~",
+      "ENGLISH": "Well...",
+      "CHINESE_SIMPLIFIED": "好了...",
+      "CHINESE_TRADITIONAL": "好了...",
+      "JAPANESE": "いや、やっぱ違うか…",
+      "INDONESIAN": "Yah...",
+      "PORTUGUESE": "Bom...",
+      "RUSSIAN": "Ну...",
+      "FRENCH": "Eh bien...",
+      "THAI": "เอ่อ...",
+      "PERSIAN": "خب..."
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이제 와서 무슨 소용이 있겠어",
+      "ENGLISH": "What’s the point now?",
+      "CHINESE_SIMPLIFIED": "现在说这些也没什么意义",
+      "CHINESE_TRADITIONAL": "現在說這些也沒什麼意義",
+      "JAPANESE": "もう、今さらどうでもいいけどさ。",
+      "INDONESIAN": "Apa gunanya sekarang?",
+      "PORTUGUESE": "Qual é o sentido agora?",
+      "RUSSIAN": "Какой теперь смысл?",
+      "FRENCH": "Quel est l’intérêt maintenant ?",
+      "THAI": "ตอนนี้มันจะมีประโยชน์อะไรล่ะ?",
+      "PERSIAN": "حالا چه فایده ای دارد؟"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그 좀 시간 있으면 나 일 좀 도와줄래?",
+      "ENGLISH": "Can you help me with work if you have time?",
+      "CHINESE_SIMPLIFIED": "你有时间的话帮我干点活吧?",
+      "CHINESE_TRADITIONAL": "你有時間的話幫我乾點活吧?",
+      "JAPANESE": "ちょっと時間あったら、私の仕事手伝ってくれない？",
+      "INDONESIAN": "Kalau ada waktu, bisa bantu aku sedikit dengan pekerjaan?",
+      "PORTUGUESE": "Se tiver um tempinho, pode me ajudar com o trabalho?",
+      "RUSSIAN": "Можешь помочь мне с работой, если у тебя есть время?",
+      "FRENCH": "Tu peux m’aider avec le boulot si tu as le temps ?",
+      "THAI": "ถ้ามีเวลา ช่วยฉันทำงานหน่อยได้ไหม?",
+      "PERSIAN": "اگر وقت دارید می توانید در کار به من کمک کنید؟"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.9
+    }
+  }
+]

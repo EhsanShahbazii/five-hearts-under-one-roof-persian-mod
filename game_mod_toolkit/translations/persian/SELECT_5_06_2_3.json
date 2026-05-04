@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 벌써 도착했어?",
+      "ENGLISH": "What, we’re already here?",
+      "CHINESE_SIMPLIFIED": "怎么这么快就到了?",
+      "CHINESE_TRADITIONAL": "怎麼這麼快就到了?",
+      "JAPANESE": "もう着いたの？",
+      "INDONESIAN": "Apa, kita udah sampai?",
+      "PORTUGUESE": "O quê, já chegamos?",
+      "RUSSIAN": "Что, мы уже здесь?",
+      "FRENCH": "Quoi, on est déjà arrivés ?",
+      "THAI": "อะไรนะ ถึงแล้วเหรอ?",
+      "PERSIAN": "چی، ما الان اینجا هستیم؟"
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어? 어 빨리 나와.",
+      "ENGLISH": "Yeah, hurry up and get out.",
+      "CHINESE_SIMPLIFIED": "嗯，快起来吧",
+      "CHINESE_TRADITIONAL": "嗯，快起來吧",
+      "JAPANESE": "うん？ああ、早く出てこいよ。",
+      "INDONESIAN": "Iya, cepetan keluar.",
+      "PORTUGUESE": "Sim, sai logo.",
+      "RUSSIAN": "Да, давай быстрее выходи.",
+      "FRENCH": "Oui, dépêche-toi de sortir.",
+      "THAI": "ใช่ รีบลงมาเร็วๆ",
+      "PERSIAN": "آره عجله کن برو بیرون"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 근데 나 잘 때...",
+      "ENGLISH": "Oppa, did I... when I was sleeping...",
+      "CHINESE_SIMPLIFIED": "不过哥哥，我睡觉的时候…",
+      "CHINESE_TRADITIONAL": "不過哥哥，我睡覺的時候…",
+      "JAPANESE": "お兄ちゃん、私が寝てる間に…",
+      "INDONESIAN": "Oppa, aku tadi... waktu tidur...",
+      "PORTUGUESE": "Oppa, eu... enquanto eu dormia...",
+      "RUSSIAN": "Оппа, я... когда спала...",
+      "FRENCH": "Oppa, est-ce que... pendant que je dormais...",
+      "THAI": "พี่ ฉัน... ตอนที่ฉันหลับ...",
+      "PERSIAN": "یومان من... وقتی خواب بودم..."
+    },
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "자, 잘 때...?",
+      "ENGLISH": "When you were sleeping...?",
+      "CHINESE_SIMPLIFIED": "睡觉的…时候?",
+      "CHINESE_TRADITIONAL": "睡覺的…時候?",
+      "JAPANESE": "寝てる間に…？",
+      "INDONESIAN": "Waktu kamu tidur...?",
+      "PORTUGUESE": "Enquanto você dormia...?",
+      "RUSSIAN": "Когда ты спала...?",
+      "FRENCH": "Pendant que tu dormais...?",
+      "THAI": "ตอนที่เธอหลับ...?",
+      "PERSIAN": "وقتی خواب بودی...؟"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 방귀 뀐 거 아니지?",
+      "ENGLISH": "I didn’t fart, did I?",
+      "CHINESE_SIMPLIFIED": "没放屁吧?",
+      "CHINESE_TRADITIONAL": "沒放屁吧?",
+      "JAPANESE": "まさか、オナラとかしてないよね？",
+      "INDONESIAN": "Aku gak kentut, kan?",
+      "PORTUGUESE": "Eu não soltei um pum, né?",
+      "RUSSIAN": "Я не пр... не пукнула, да?",
+      "FRENCH": "Je n’ai pas... pété, hein ?",
+      "THAI": "ฉันไม่ได้... ผายลมนะใช่ไหม?",
+      "PERSIAN": "من گوز نزدم، نه؟"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "안 꼈어.",
+      "ENGLISH": "Nope",
+      "CHINESE_SIMPLIFIED": "没有没有",
+      "CHINESE_TRADITIONAL": "沒有沒有",
+      "JAPANESE": "してないよ。",
+      "INDONESIAN": "Enggak.",
+      "PORTUGUESE": "Não.",
+      "RUSSIAN": "Нет.",
+      "FRENCH": "Non.",
+      "THAI": "ไม่เลย",
+      "PERSIAN": "نه"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 19.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 나와, 도착했어!",
+      "ENGLISH": "Now get out, we’re at the beach!",
+      "CHINESE_SIMPLIFIED": "赶紧出来吧，已经到海边了!",
+      "CHINESE_TRADITIONAL": "趕緊出來吧，已經到海邊了!",
+      "JAPANESE": "着いたから、早く起きろ。",
+      "INDONESIAN": "Sekarang keluar, kita udah di pantai!",
+      "PORTUGUESE": "Agora sai, já estamos na praia!",
+      "RUSSIAN": "Теперь выходи, мы на пляже!",
+      "FRENCH": "Allez, sors, on est à la plage !",
+      "THAI": "ตอนนี้ลงมาเถอะ เราอยู่ที่ทะเลแล้ว!",
+      "PERSIAN": "حالا برو بیرون، ما در ساحل هستیم!"
+    },
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 21.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "응...",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tá bom...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "โอเค...",
+      "PERSIAN": "چشم، ممنون..."
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.9
+    }
+  }
+]

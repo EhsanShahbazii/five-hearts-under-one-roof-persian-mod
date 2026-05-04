@@ -1,0 +1,340 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "무지개 핀 파란 하늘같이 녹여줘요",
+      "ENGLISH": "Like a rainbow in the blue sky, melt me away~",
+      "CHINESE_SIMPLIFIED": "像挂满彩虹的蓝天一样融化我~",
+      "CHINESE_TRADITIONAL": "像掛滿彩虹的藍天一樣融化我~",
+      "JAPANESE": "虹色のピン、青い空のように溶かして",
+      "INDONESIAN": "Seperti pelangi di langit biru, lelehkan aku~",
+      "PORTUGUESE": "Como um arco-íris no céu azul, me derreta~",
+      "RUSSIAN": "Как радуга в голубом небе, растопи меня~",
+      "FRENCH": "Comme un arc-en-ciel dans le ciel bleu, fais-moi fondre~",
+      "THAI": "เหมือนสายรุ้งบนท้องฟ้าสีคราม ละลายฉันไปเลย~",
+      "PERSIAN": "مثل رنگین کمان در آسمون آبی، مرا ذوب کن"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "달달한 sweet sweet 바닐라...",
+      "ENGLISH": "Sweet sweet vanilla... ",
+      "CHINESE_SIMPLIFIED": "甜甜的香草 sweet sweet …",
+      "CHINESE_TRADITIONAL": "甜甜的香草 sweet sweet …",
+      "JAPANESE": "甘いsweet sweetバニラ…",
+      "INDONESIAN": "Manis manis vanila...",
+      "PORTUGUESE": "Doce doce baunilha...",
+      "RUSSIAN": "Сладкое-сладкое ванильное...",
+      "FRENCH": "Douce douce vanille...",
+      "THAI": "วานิลลาหอมหวาน...",
+      "PERSIAN": "وانیل شیرین شیرین ..."
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "바닐라 ice cream...",
+      "ENGLISH": "Vanilla Ice cream...",
+      "JAPANESE": "バニラice cream…",
+      "INDONESIAN": "Es krim vanila...",
+      "PORTUGUESE": "Sorvete de baunilha...",
+      "RUSSIAN": "Ванильное мороженое...",
+      "FRENCH": "Glace à la vanille...",
+      "THAI": "ไอศกรีมวานิลลา...",
+      "PERSIAN": "بستنی وانیلی..."
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "민정아.",
+      "ENGLISH": "Min-jung.",
+      "CHINESE_SIMPLIFIED": "敏静啊",
+      "CHINESE_TRADITIONAL": "敏靜啊",
+      "JAPANESE": "ミンジョン。",
+      "INDONESIAN": "Min-jung.",
+      "PORTUGUESE": "Min-jung.",
+      "RUSSIAN": "Мин-Джун.",
+      "FRENCH": "Min-jung.",
+      "THAI": "มินจอง.",
+      "PERSIAN": "مین‌جونگ"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "너 여기 아닌데?",
+      "ENGLISH": "This isn’t your part.",
+      "CHINESE_SIMPLIFIED": "这不是你的部分啊",
+      "CHINESE_TRADITIONAL": "這不是你的部分啊",
+      "JAPANESE": "あんた、ここじゃないでしょ？",
+      "INDONESIAN": "Ini bukan bagianmu.",
+      "PORTUGUESE": "Essa não é a sua parte.",
+      "RUSSIAN": "Это не твоя партия.",
+      "FRENCH": "C’est pas ta partie.",
+      "THAI": "นี่ไม่ใช่ท่อนของเธอ.",
+      "PERSIAN": "این قسمت شما نیست"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "갑자기?",
+      "ENGLISH": "Suddenly?",
+      "CHINESE_SIMPLIFIED": "这么突然?",
+      "CHINESE_TRADITIONAL": "這麼突然?",
+      "JAPANESE": "急に？",
+      "INDONESIAN": "Tiba-tiba?",
+      "PORTUGUESE": "De repente?",
+      "RUSSIAN": "Вдруг?",
+      "FRENCH": "Comme ça, d’un coup ?",
+      "THAI": "เปลี่ยนกระทันหันเหรอ?",
+      "PERSIAN": "Suddenly?"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "RUSSIAN": "Да.",
+      "FRENCH": "Ouais.",
+      "THAI": "ใช่.",
+      "PERSIAN": "آره، حله!"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "나 고음 안 돼서 뒤에 민정이 너가 하기로 했잖아.",
+      "ENGLISH": "I couldn’t hit the high note, so you agreed to take it.",
+      "CHINESE_SIMPLIFIED": "因为我唱不了高音,所以不是安排你唱后面的部分了吗",
+      "CHINESE_TRADITIONAL": "因爲我唱不了高音,所以不是安排你唱後面的部分了嗎",
+      "JAPANESE": "私、高音が出ないから、後ろのパートをミンジョンが歌うことになってたじゃん。",
+      "INDONESIAN": "Aku nggak bisa nyanyi nada tingginya, jadi kamu setuju ambil bagian ini.",
+      "PORTUGUESE": "Eu não consegui atingir a nota alta, então você concordou em cantar.",
+      "RUSSIAN": "Я не смогла взять высокую ноту, и ты согласилась спеть её.",
+      "FRENCH": "Je pouvais pas atteindre la note haute, et tu avais accepté de la chanter.",
+      "THAI": "ฉันร้องโน้ตสูงไม่ได้ แล้วเธอตกลงว่าจะร้องแทน.",
+      "PERSIAN": "من نتوانستم نت بالا را بزنم، بنابراین شما قبول کردید که اونو بگیرید."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그런 얘기가 나왔어?",
+      "ENGLISH": "Did we really talk about that?",
+      "CHINESE_SIMPLIFIED": "还有这种事?",
+      "CHINESE_TRADITIONAL": "還有這種事?",
+      "JAPANESE": "そんな話あったっけ？",
+      "INDONESIAN": "Kita beneran udah bahas itu?",
+      "PORTUGUESE": "A gente realmente falou sobre isso?",
+      "RUSSIAN": "Мы правда об этом говорили?",
+      "FRENCH": "On en avait vraiment parlé ?",
+      "THAI": "เราคุยเรื่องนี้กันจริงเหรอ?",
+      "PERSIAN": "واقعاً در مورد اون صحبت کردیم؟"
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그게 그렇게 중요해?",
+      "ENGLISH": "Is it such a big deal?",
+      "CHINESE_SIMPLIFIED": "有没有的重要吗？",
+      "CHINESE_TRADITIONAL": "有沒有的重要嗎？",
+      "JAPANESE": "それってそんなに大事？",
+      "INDONESIAN": "Segitu pentingnya?",
+      "PORTUGUESE": "É tão grave assim?",
+      "RUSSIAN": "Это так важно?",
+      "FRENCH": "C’est si grave ?",
+      "THAI": "มันสำคัญขนาดนั้นเลย?",
+      "PERSIAN": "این یک معامله بزرگ است؟"
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 좀 넘어가~",
+      "ENGLISH": "Just let it go.",
+      "CHINESE_SIMPLIFIED": "你照着做就行了~",
+      "CHINESE_TRADITIONAL": "你照着做就行了~",
+      "JAPANESE": "ちょっとスルーしようよ～",
+      "INDONESIAN": "Udah, biarin aja.",
+      "PORTUGUESE": "Deixa pra lá.",
+      "RUSSIAN": "Да забудь уже.",
+      "FRENCH": "Laisse tomber.",
+      "THAI": "ช่างมันเถอะ.",
+      "PERSIAN": "فقط ولش کن"
+    },
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아니 그런 걸 나랑 상의도 없이 그러면 어떡해...",
+      "ENGLISH": "You can’t just change things without discussing them with me...",
+      "CHINESE_SIMPLIFIED": "不是，这种事怎么能不和我商量下就…",
+      "CHINESE_TRADITIONAL": "不是，這種事怎麼能不和我商量下就…",
+      "JAPANESE": "いや、そんなこと私に相談もなしに決めてどうするの…",
+      "INDONESIAN": "Kamu nggak bisa ubah begitu aja tanpa diskusi sama aku...",
+      "PORTUGUESE": "Você não pode mudar as coisas sem falar comigo...",
+      "RUSSIAN": "Ты не можешь просто менять вещи, не обсудив их со мной...",
+      "FRENCH": "Tu peux pas juste changer ça sans en discuter avec moi...",
+      "THAI": "เธอเปลี่ยนอะไรเองแบบนี้ไม่ได้ โดยไม่บอกฉันก่อน...",
+      "PERSIAN": "شما نمی توانید چیزها را بدون بحث کردن با من تغییر دهید..."
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 26.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "우리가 단톡에 얘기했는데...",
+      "ENGLISH": "We mentioned it in the group chat",
+      "CHINESE_SIMPLIFIED": "我们在群里说过了啊",
+      "CHINESE_TRADITIONAL": "我們在羣裏說過了啊",
+      "JAPANESE": "私たち、グループチャットで話したけど、",
+      "INDONESIAN": "Kita udah bahas di grup chat,",
+      "PORTUGUESE": "A gente mencionou no chat do grupo,",
+      "RUSSIAN": "Мы упомянули это в групповом чате,",
+      "FRENCH": "On l’a mentionné dans le chat de groupe,",
+      "THAI": "เราพูดถึงเรื่องนี้ในแชทกลุ่มนะ",
+      "PERSIAN": "در چت گروهی به اون اشاره کردیم"
+    },
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 29.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "네가 맨날 처 씹으니까 모르지.",
+      "ENGLISH": "But you never read anything, so of course you didn’t know.",
+      "CHINESE_SIMPLIFIED": "你每天无视群消息当然不知道的啊",
+      "CHINESE_TRADITIONAL": "你每天無視羣消息當然不知道的啊",
+      "JAPANESE": "あんたがいつも無視するから知らないんでしょ。",
+      "INDONESIAN": "Tapi kamu nggak pernah baca, makanya kamu nggak tahu.",
+      "PORTUGUESE": "Mas você nunca lê nada, então claro que não ficou sabendo.",
+      "RUSSIAN": "но ты никогда ничего не читаешь, так что, конечно, не знала.",
+      "FRENCH": "mais comme tu lis jamais rien, évidemment que t’étais pas au courant.",
+      "THAI": "แต่เธอไม่เคยอ่านอะไรเลย ก็เลยไม่รู้เรื่อง.",
+      "PERSIAN": "اما شما هرگز چیزی نخوانده اید، پس مطمئناً نمی دانید."
+    },
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 33.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "그러지 말고",
+      "ENGLISH": "It's okay~ it's okay.",
+      "CHINESE_SIMPLIFIED": "好了好了",
+      "CHINESE_TRADITIONAL": "好了好了",
+      "JAPANESE": "それはそうと",
+      "INDONESIAN": "Santai aja~ santai.",
+      "PORTUGUESE": "Tá tudo bem~ tá tudo bem.",
+      "RUSSIAN": "Всё нормально~ всё нормально.",
+      "FRENCH": "C’est bon~ c’est bon.",
+      "THAI": "ไม่เป็นไร~ ไม่เป็นไร.",
+      "PERSIAN": "اشکالی نداره~ اشکالی نداره."
+    },
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 36.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "물 좀 마실래?",
+      "ENGLISH": "Do you want some water?",
+      "CHINESE_SIMPLIFIED": "我们喝口水休息下吧?",
+      "CHINESE_TRADITIONAL": "我們喝口水休息下吧?",
+      "JAPANESE": "水でも飲む？",
+      "INDONESIAN": "Mau air?",
+      "PORTUGUESE": "Quer água?",
+      "RUSSIAN": "Хочешь воды?",
+      "FRENCH": "Tu veux de l’eau ?",
+      "THAI": "อยากดื่มน้ำไหม?",
+      "PERSIAN": "کمی آب می خواهی؟"
+    },
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 38.1
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "그래...",
+      "ENGLISH": "Sure...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "そうだね…",
+      "INDONESIAN": "Boleh...",
+      "PORTUGUESE": "Claro...",
+      "RUSSIAN": "Да, давай...",
+      "FRENCH": "Oui, je veux bien...",
+      "THAI": "เอาสิ...",
+      "PERSIAN": "Sure..."
+    },
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 39.4
+    }
+  }
+]

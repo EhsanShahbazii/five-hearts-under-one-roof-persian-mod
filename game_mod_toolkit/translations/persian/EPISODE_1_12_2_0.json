@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다! ",
+      "ENGLISH": "Thank you! ",
+      "CHINESE_SIMPLIFIED": "谢谢! ",
+      "CHINESE_TRADITIONAL": "謝謝!",
+      "JAPANESE": "ありがとうございました！",
+      "INDONESIAN": "Terima kasih!",
+      "PORTUGUESE": "Obrigado!",
+      "RUSSIAN": "Спасибо!",
+      "FRENCH": "Merci !",
+      "THAI": "ขอบคุณนะ!",
+      "PERSIAN": "Thank you!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "안전하게 도착했구만~",
+      "ENGLISH": "Phew, I'm safe.",
+      "CHINESE_SIMPLIFIED": "还好顺利到了~",
+      "CHINESE_TRADITIONAL": "還好順利到了~",
+      "JAPANESE": "無事に到着〜",
+      "INDONESIAN": "Hhh, aku aman.",
+      "PORTUGUESE": "Ufa, estou seguro.",
+      "RUSSIAN": "Фух, я в безопасности.",
+      "FRENCH": "Ouf, je suis sauvé.",
+      "THAI": "ฟู่~ รอดแล้วเรา.",
+      "PERSIAN": "وای، من در امانم"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 8.0
+    }
+  }
+]

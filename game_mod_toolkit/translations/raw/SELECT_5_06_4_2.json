@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "일어났어요?",
+      "ENGLISH": "You're awake?",
+      "CHINESE_SIMPLIFIED": "你醒了?",
+      "CHINESE_TRADITIONAL": "你醒了?",
+      "JAPANESE": "起きましたか？",
+      "INDONESIAN": "Kamu udah bangun?",
+      "PORTUGUESE": "Você acordou?",
+      "RUSSIAN": "Ты проснулась?",
+      "FRENCH": "Tu es réveillée ?",
+      "THAI": "เธอตื่นแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "바다 도착했어요!",
+      "ENGLISH": "We’re at the beach!",
+      "CHINESE_SIMPLIFIED": "我们已经到海边了!",
+      "CHINESE_TRADITIONAL": "我們已經到海邊了!",
+      "JAPANESE": "海、着きましたよ！",
+      "INDONESIAN": "Kita udah di pantai!",
+      "PORTUGUESE": "Estamos na praia!",
+      "RUSSIAN": "Мы на пляже!",
+      "FRENCH": "On est à la plage !",
+      "THAI": "เราถึงทะเลแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "벌써요?",
+      "ENGLISH": "Already?",
+      "CHINESE_SIMPLIFIED": "这么快?",
+      "CHINESE_TRADITIONAL": "這麼快?",
+      "JAPANESE": "もう着いたんですか？",
+      "INDONESIAN": "Udah sampai?",
+      "PORTUGUESE": "Já?",
+      "RUSSIAN": "Уже?",
+      "FRENCH": "Déjà ?",
+      "THAI": "ถึงแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님이 저 기다려 주신 거예요?",
+      "ENGLISH": "Did you wait for me, Yuman?",
+      "CHINESE_SIMPLIFIED": "宥万您是在等我吗?",
+      "CHINESE_TRADITIONAL": "宥萬您是在等我嗎?",
+      "JAPANESE": "ユマンさん、待っててくれたんですか？",
+      "INDONESIAN": "Kamu nungguin aku, Yuman?",
+      "PORTUGUESE": "Você me esperou, Yuman?",
+      "RUSSIAN": "Ты ждал меня, Юман?",
+      "FRENCH": "Tu m’as attendu, Yuman ?",
+      "THAI": "เธอรอฉันอยู่เหรอ ยูมัน?"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다..",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢您…",
+      "CHINESE_TRADITIONAL": "謝謝您…",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih...",
+      "PORTUGUESE": "Obrigada...",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณนะ..."
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.5
+    }
+  }
+]

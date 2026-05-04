@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님 그때 밤에... 저 마주치고 엄청 놀라셨잖아요...",
+      "ENGLISH": "That night when you saw me, you were really shocked...",
+      "CHINESE_SIMPLIFIED": "那天晚上宥万您看到我时明明吓了一大跳来着…",
+      "CHINESE_TRADITIONAL": "那天晚上宥萬您看到我時明明嚇了一大跳來着…",
+      "JAPANESE": "ユマンさん、あの夜…私と目が合って、すごく驚いてましたよね。",
+      "INDONESIAN": "Malam itu ketika kamu melihatku, kamu benar-benar terkejut...",
+      "PORTUGUESE": "Naquela noite quando você me viu, você ficou realmente chocado...",
+      "RUSSIAN": "В ту ночь, когда ты меня увидел(а), ты был(а) действительно потрясён(а)...",
+      "FRENCH": "Cette nuit-là, quand tu m’as vu(e), tu étais vraiment choqué(e)...",
+      "THAI": "คืนนั้นตอนที่คุณเห็นฉัน คุณตกใจมากเลยนะ...",
+      "PERSIAN": "اون شب که منو دیدی واقعا شوکه شدی..."
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "사실 그때 쫓아낼 수도 있었는데",
+      "ENGLISH": "You could’ve just left me",
+      "CHINESE_SIMPLIFIED": "那时候明明可以把我赶走的...",
+      "CHINESE_TRADITIONAL": "那時候明明可以把我趕走的...",
+      "JAPANESE": "実はあの時、追い出すこともできたのに、",
+      "INDONESIAN": "Kamu sebenarnya bisa saja meninggalkanku.",
+      "PORTUGUESE": "Você podia simplesmente ter me deixado.",
+      "RUSSIAN": "Ты мог(ла) бы просто уйти,",
+      "FRENCH": "Tu aurais pu simplement partir,",
+      "THAI": "คุณจะปล่อยฉันไปก็ได้",
+      "PERSIAN": "تو می توانستی من را تنها بگذاری"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "왜 도와줬어요?",
+      "ENGLISH": "So why did you help me?",
+      "CHINESE_SIMPLIFIED": "为什么会帮我呢?",
+      "CHINESE_TRADITIONAL": "爲什麼會幫我呢?",
+      "JAPANESE": "どうして助けてくれたんですか？",
+      "INDONESIAN": "Jadi, kenapa kamu membantuku?",
+      "PORTUGUESE": "Então, por que você me ajudou?",
+      "RUSSIAN": "так почему ты помог(ла) мне?",
+      "FRENCH": "alors pourquoi m’as-tu aidé(e) ?",
+      "THAI": "แต่ทำไมถึงช่วยฉันล่ะ?",
+      "PERSIAN": "پس چرا به من کمک کردی؟"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.2
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...",
+      "ENGLISH": "Hello...",
+      "CHINESE_SIMPLIFIED": "你们好",
+      "CHINESE_TRADITIONAL": "你們好",
+      "JAPANESE": "こんばんは…",
+      "INDONESIAN": "Halo…",
+      "PORTUGUESE": "Oi...",
+      "RUSSIAN": "Привет...",
+      "FRENCH": "Salut...",
+      "THAI": "สวัสดี...",
+      "PERSIAN": "سلام... کسی هست؟"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...",
+      "ENGLISH": "Hello...",
+      "CHINESE_SIMPLIFIED": "你好",
+      "CHINESE_TRADITIONAL": "你好",
+      "JAPANESE": "こんばんは…",
+      "INDONESIAN": "Halo…",
+      "PORTUGUESE": "Oi...",
+      "RUSSIAN": "Привет...",
+      "FRENCH": "Salut...",
+      "THAI": "สวัสดี...",
+      "PERSIAN": "سلام... کسی هست؟"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어때 우리 완전 잘 어울리지?",
+      "ENGLISH": "Don't we look great together?",
+      "CHINESE_SIMPLIFIED": "怎么样?我们是不是很般配?",
+      "CHINESE_TRADITIONAL": "怎麼樣?我們是不是很般配?",
+      "JAPANESE": "どう？私たちめっちゃお似合いでしょ？",
+      "INDONESIAN": "Kita kelihatan serasi, kan?",
+      "PORTUGUESE": "A gente fica ótimo junto, não acha?",
+      "RUSSIAN": "Мы же хорошо смотримся вместе?",
+      "FRENCH": "On n’a pas l’air bien ensemble ?",
+      "THAI": "เราเข้ากันดีใช่ไหม?",
+      "PERSIAN": "ما با هم عالی به نظر نمی رسیم؟"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어 잘 어울린다 대박~",
+      "ENGLISH": "Yeah, you two look amazing!",
+      "CHINESE_SIMPLIFIED": "嗯…是啊，太般配了~",
+      "CHINESE_TRADITIONAL": "嗯…是啊，太般配了~",
+      "JAPANESE": "うん、すごくお似合いだね...",
+      "INDONESIAN": "Iya, kalian berdua kelihatan keren banget!",
+      "PORTUGUESE": "Sim, vocês dois estão incríveis!",
+      "RUSSIAN": "Да, вы двое выглядите потрясающе!",
+      "FRENCH": "Oui, vous deux êtes magnifiques !",
+      "THAI": "ใช่, พวกเธอดูดีมาก!",
+      "PERSIAN": "آره، شما دوتا عالی به نظر می رسید!"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "술도 얼마 못 마시는게... 엄청 취했네.",
+      "ENGLISH": "You can't handle your drinks... You're so drunk.",
+      "CHINESE_SIMPLIFIED": "本来酒量就不行…看你醉的",
+      "CHINESE_TRADITIONAL": "本來酒量就不行…看你醉的",
+      "JAPANESE": "酒に弱いくせに、すっかり酔っちゃって...",
+      "INDONESIAN": "Kamu nggak kuat minum… Mabuk banget, deh.",
+      "PORTUGUESE": "Você não aguenta beber… Tá bem bêbada.",
+      "RUSSIAN": "Ты не держишь алкоголь... Ты такая пьяная.",
+      "FRENCH": "Tu ne tiens pas l’alcool... Tu es complètement saoule.",
+      "THAI": "เธอดื่มไม่ไหวแล้ว... เธอเมาหนักเลย",
+      "PERSIAN": "شما نمی توانید نوشیدنی های خود را کنترل کنید ... شما خیلی مست هستید."
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "같이 있어 주셔서 감사합니다!",
+      "ENGLISH": "Thanks for keeping her company!",
+      "CHINESE_SIMPLIFIED": "谢谢你们陪着她啊",
+      "CHINESE_TRADITIONAL": "謝謝你們陪着她啊",
+      "JAPANESE": "今日は、うちのウンビと遊んでいただきありがとうございました。",
+      "INDONESIAN": "Terima kasih sudah menemani dia!",
+      "PORTUGUESE": "Obrigado por fazer companhia pra ela!",
+      "RUSSIAN": "Спасибо, что составили ей компанию!",
+      "FRENCH": "Merci de l’avoir accompagnée !",
+      "THAI": "ขอบคุณที่อยู่เป็นเพื่อนเธอนะ!",
+      "PERSIAN": "برای همراهی با او متشکریم!"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "가자.",
+      "ENGLISH": "Let's go.",
+      "CHINESE_SIMPLIFIED": "我们走吧",
+      "CHINESE_TRADITIONAL": "我們走吧",
+      "JAPANESE": "行こう。",
+      "INDONESIAN": "Ayo kita pergi.",
+      "PORTUGUESE": "Vamos embora.",
+      "RUSSIAN": "Пойдём.",
+      "FRENCH": "Allons-y.",
+      "THAI": "ไปกันเถอะ",
+      "PERSIAN": "برویم"
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "얘들아 안농~",
+      "ENGLISH": "Bye, everyone!",
+      "CHINESE_SIMPLIFIED": "大家拜拜~",
+      "CHINESE_TRADITIONAL": "大家拜拜~",
+      "JAPANESE": "みんな、バイバイ〜！",
+      "INDONESIAN": "Dadah, semuanya!",
+      "PORTUGUESE": "Tchau, pessoal!",
+      "RUSSIAN": "Пока, ребята!",
+      "FRENCH": "Au revoir, tout le monde !",
+      "THAI": "ลาก่อน ทุกคน!",
+      "PERSIAN": "فعلاً، خدافظ، همه!"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 19.9
+    }
+  }
+]

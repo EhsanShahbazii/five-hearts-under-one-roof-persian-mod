@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "당연하죠! 내가 옆에서 같이 도와줄게요!",
+      "ENGLISH": "Of course! I’ll be right by your side to help you.",
+      "CHINESE_SIMPLIFIED": "当然啦!我会在你身边帮你的!",
+      "CHINESE_TRADITIONAL": "當然啦!我會在你身邊幫你的!",
+      "JAPANESE": "もちろん！僕が一緒に手伝いますよ！",
+      "INDONESIAN": "Tentu! Aku akan selalu di sisimu untuk membantumu.",
+      "PORTUGUESE": "Claro! Estarei bem ao seu lado para te ajudar.",
+      "RUSSIAN": "Конечно! Я буду рядом, чтобы помочь тебе.",
+      "FRENCH": "Bien sûr ! Je serai juste à côté pour t’aider.",
+      "THAI": "แน่นอน! ฉันจะอยู่ข้างๆ เพื่อช่วยคุณ"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "고마워요.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢您~",
+      "CHINESE_TRADITIONAL": "謝謝您~",
+      "JAPANESE": "ありがとうございます。",
+      "INDONESIAN": "Terima kasih.",
+      "PORTUGUESE": "Obrigada/Obrigado.",
+      "RUSSIAN": "Спасибо.",
+      "FRENCH": "Merci.",
+      "THAI": "ขอบคุณนะ"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저 유만 님이랑 함께면 해낼 수 있을 거 같아요.",
+      "ENGLISH": "I feel like I can do anything as long as you’re with me.",
+      "CHINESE_SIMPLIFIED": "有您在我什么都能做到!",
+      "CHINESE_TRADITIONAL": "有您在我什麼都能做到!",
+      "JAPANESE": "ユマンさんと一緒なら何でもできる気がします。",
+      "INDONESIAN": "Aku merasa bisa melakukan apa saja selama kamu ada bersamaku.",
+      "PORTUGUESE": "Sinto que posso fazer qualquer coisa, desde que você esteja comigo.",
+      "RUSSIAN": "Мне кажется, что я могу сделать всё, пока ты рядом со мной.",
+      "FRENCH": "Je sens que je peux tout faire tant que tu es avec moi.",
+      "THAI": "ฉันรู้สึกว่าฉันทำได้ทุกอย่าง ตราบใดที่คุณอยู่กับฉัน"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "제가 한강도 가고 바다도 갈 수 있었던 건",
+      "ENGLISH": "I was able to visit the Han River and even the sea",
+      "CHINESE_SIMPLIFIED": "我能去汉江和海边玩也都是",
+      "CHINESE_TRADITIONAL": "我能去漢江和海邊玩也都是",
+      "JAPANESE": "ユマンさんが隣にいてくれたから",
+      "INDONESIAN": "Aku bisa mengunjungi Sungai Han dan bahkan laut",
+      "PORTUGUESE": "Pude visitar o Rio Han e até o mar",
+      "RUSSIAN": "Я смог(ла) побывать на реке Хан и даже у моря,",
+      "FRENCH": "J’ai pu visiter la rivière Han et même la mer",
+      "THAI": "ฉันได้ไปที่แม่น้ำฮันและแม้แต่ทะเล"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 13.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님이 옆에 있었기 때문이에요!",
+      "ENGLISH": "Because you were there with me.",
+      "CHINESE_SIMPLIFIED": "因为有您在~",
+      "CHINESE_TRADITIONAL": "因爲有您在~",
+      "JAPANESE": "私、漢江にも海にも行けたんです。",
+      "INDONESIAN": "Karena kamu ada di sana bersamaku.",
+      "PORTUGUESE": "Porque você estava lá comigo.",
+      "RUSSIAN": "потому что ты был(а) рядом со мной.",
+      "FRENCH": "Parce que tu étais là avec moi.",
+      "THAI": "เพราะว่าคุณอยู่ตรงนั้นกับฉัน"
+    },
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그때 걸었던 자물쇠 에뻤는데...",
+      "ENGLISH": "That lock we put up back then was beautiful...",
+      "CHINESE_SIMPLIFIED": "之前南山上挂的爱情锁真的很漂亮…",
+      "CHINESE_TRADITIONAL": "之前南山上掛的愛情鎖真的很漂亮…",
+      "JAPANESE": "あの時にかけた鍵、すごく綺麗でしたよね…",
+      "INDONESIAN": "Gembok yang kita pasang waktu itu sangat indah...",
+      "PORTUGUESE": "Aquele cadeado que colocamos naquela época era lindo...",
+      "RUSSIAN": "Тот замок, который мы повесили тогда, был таким красивым...",
+      "FRENCH": "Ce cadenas qu’on a accroché à l’époque était magnifique...",
+      "THAI": "แม่กุญแจที่เราคล้องไว้ตอนนั้นมันสวยมากเลย..."
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.4
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨?",
+      "ENGLISH": "Seung-yi?",
+      "CHINESE_SIMPLIFIED": "圣依?",
+      "CHINESE_TRADITIONAL": "聖依?",
+      "JAPANESE": "スンイさん？",
+      "INDONESIAN": "Seung-yi?",
+      "PORTUGUESE": "Seung-yi?",
+      "RUSSIAN": "Сын-и?",
+      "FRENCH": "Seung-yi ?",
+      "THAI": "ซึงอี?"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 꿈이었구나...",
+      "ENGLISH": "Oh, it was just a dream...",
+      "CHINESE_SIMPLIFIED": "啊，原来是梦…",
+      "CHINESE_TRADITIONAL": "啊，原來是夢…",
+      "JAPANESE": "ああ、夢だったんだ…",
+      "INDONESIAN": "Oh, ternyata cuma mimpi...",
+      "PORTUGUESE": "Ah, foi só um sonho...",
+      "RUSSIAN": "Ох, это был всего лишь сон...",
+      "FRENCH": "Oh, ce n’était qu’un rêve...",
+      "THAI": "โอ้ แค่ฝันไปเท่านั้นเอง..."
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "꿈이요?",
+      "ENGLISH": "A dream?",
+      "CHINESE_SIMPLIFIED": "梦?",
+      "CHINESE_TRADITIONAL": "夢?",
+      "JAPANESE": "夢ですか？",
+      "INDONESIAN": "Mimpi?",
+      "PORTUGUESE": "Um sonho?",
+      "RUSSIAN": "Сон?",
+      "FRENCH": "Un rêve ?",
+      "THAI": "ฝันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "엄청 큰 도마뱀이 막 뽀뽀하는 꿈을 꿨어요...",
+      "ENGLISH": "I dreamt about a huge lizard kissing me...",
+      "CHINESE_SIMPLIFIED": "我梦见我在亲一只巨大的蜥蜴…",
+      "CHINESE_TRADITIONAL": "我夢見我在親一隻巨大的蜥蜴…",
+      "JAPANESE": "すごく大きなトカゲにキスされる夢を見たんですよ…",
+      "INDONESIAN": "Aku mimpi ada kadal raksasa cium aku...",
+      "PORTUGUESE": "Sonhei que um lagarto gigante me beijava...",
+      "RUSSIAN": "Мне приснилось, что огромная ящерица поцеловала меня...",
+      "FRENCH": "J’ai rêvé d’un énorme lézard qui m’embrassait...",
+      "THAI": "ฉันฝันว่าโดนจิ้งจกตัวใหญ่มาจูบ..."
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 도마뱀...",
+      "ENGLISH": "A lizard...",
+      "CHINESE_SIMPLIFIED": "啊，蜥蜴…",
+      "CHINESE_TRADITIONAL": "啊，蜥蜴…",
+      "JAPANESE": "トカゲ…か。",
+      "INDONESIAN": "Kadal...",
+      "PORTUGUESE": "Um lagarto...",
+      "RUSSIAN": "Ящерица...",
+      "FRENCH": "Un lézard...",
+      "THAI": "จิ้งจก..."
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 승이 씨 이럴 게 아니라 얼른 일어나요! 바다 도착했어요!",
+      "ENGLISH": "Seung-yi, we should get up! We’re really at the beach!",
+      "CHINESE_SIMPLIFIED": "那快起来吧!我们已经到大海了!",
+      "CHINESE_TRADITIONAL": "那快起來吧!我們已經到大海了!",
+      "JAPANESE": "そんなことより、スンイさん。早く起きてください！海、着きましたよ！",
+      "INDONESIAN": "Seung-yi, kita harus bangun! Kita beneran di pantai!",
+      "PORTUGUESE": "Seung-yi, a gente precisa levantar! Estamos mesmo na praia!",
+      "RUSSIAN": "Сын-и, нам пора вставать! Мы правда на пляже!",
+      "FRENCH": "Seung-yi, on doit se lever ! On est vraiment à la plage !",
+      "THAI": "ซึงอี เราควรลุกแล้วนะ! เราถึงทะเลแล้วจริงๆ!"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 21.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "진짜요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗?",
+      "CHINESE_TRADITIONAL": "真的嗎?",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Beneran?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.9
+    }
+  }
+]

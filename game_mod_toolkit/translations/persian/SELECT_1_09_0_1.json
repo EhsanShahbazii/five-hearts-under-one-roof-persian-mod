@@ -1,0 +1,302 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야! 아씨!",
+      "ENGLISH": "What the heck?! ",
+      "CHINESE_SIMPLIFIED": "啊!什么鬼?",
+      "CHINESE_TRADITIONAL": "啊!什麼鬼?",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Apa-apaan sih?!",
+      "PORTUGUESE": "Que droga é essa?!",
+      "RUSSIAN": "Эй, что за черт?!",
+      "FRENCH": "Quoi, mais c’est quoi ce bordel ?!",
+      "THAI": "เฮ้! นี่มันอะไรกันเนี่ย?!",
+      "PERSIAN": "What the heck?!"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아니 뭐 하세요!",
+      "ENGLISH": "What are you doing right now?!",
+      "CHINESE_SIMPLIFIED": "你到底要做什么?",
+      "CHINESE_TRADITIONAL": "你到底要做什麼?",
+      "JAPANESE": "ちょっと！何なんですか！",
+      "INDONESIAN": "Kamu ngapain barusan?!",
+      "PORTUGUESE": "O que você tá fazendo agora?!",
+      "RUSSIAN": "Ты что творишь?!",
+      "FRENCH": "T’es en train de faire quoi là ?!",
+      "THAI": "นายทำอะไรอยู่ตอนนี้?!",
+      "PERSIAN": "الان داری چیکار میکنی؟!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제가 택시비 낼게요!",
+      "ENGLISH": "I'll cover the fare!",
+      "CHINESE_SIMPLIFIED": "我会给你打车钱的!",
+      "CHINESE_TRADITIONAL": "我會給你打車錢的!",
+      "JAPANESE": "タクシー代、僕が払いますから。",
+      "INDONESIAN": "Aku bayar ongkosnya!",
+      "PORTUGUESE": "Eu pago a passagem!",
+      "RUSSIAN": "Я заплачу за проезд!",
+      "FRENCH": "Je paie la course !",
+      "THAI": "ฉันจ่ายค่าโดยสารเอง!",
+      "PERSIAN": "من کرایه را تامین می کنم!"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 누가 돈이 없어서 그래요?",
+      "ENGLISH": "It's not about the money!",
+      "CHINESE_SIMPLIFIED": "谁说没钱了?",
+      "CHINESE_TRADITIONAL": "誰說沒錢了?",
+      "JAPANESE": "いや、誰も頼んでないんですけど？",
+      "INDONESIAN": "Bukan soal uang!",
+      "PORTUGUESE": "Não é questão de dinheiro!",
+      "RUSSIAN": "Дело не в деньгах!",
+      "FRENCH": "C’est pas une question d’argent !",
+      "THAI": "มันไม่ใช่เรื่องเงิน!",
+      "PERSIAN": "بحث پول نیست!"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "기사님! ",
+      "ENGLISH": "Driver!",
+      "CHINESE_SIMPLIFIED": "师傅!",
+      "CHINESE_TRADITIONAL": "師傅!",
+      "JAPANESE": "運転手さん！",
+      "INDONESIAN": "Pak supir!",
+      "PORTUGUESE": "Motorista!",
+      "RUSSIAN": "Водитель!",
+      "FRENCH": "Chauffeur !",
+      "THAI": "คุณคนขับ!",
+      "PERSIAN": "راننده!"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "출발해주세요!",
+      "ENGLISH": "Just go!",
+      "CHINESE_SIMPLIFIED": "快走吧!",
+      "CHINESE_TRADITIONAL": "快走吧!",
+      "JAPANESE": "出発してください！",
+      "INDONESIAN": "Jalan aja!",
+      "PORTUGUESE": "Vai logo!",
+      "RUSSIAN": "Просто поезжайте!",
+      "FRENCH": "Allez, partez !",
+      "THAI": "ไปเลย!",
+      "PERSIAN": "فقط برو!"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 아침부터 피곤하게 하네.",
+      "ENGLISH": "Man, what a hassle this morning;",
+      "CHINESE_SIMPLIFIED": "真是的，一大早就这么心累",
+      "CHINESE_TRADITIONAL": "真是的，一大早就這麼心累",
+      "JAPANESE": "あー、朝から本当に疲れるわ。",
+      "INDONESIAN": "Wah, ribet banget pagi ini;",
+      "PORTUGUESE": "Nossa, que manhã complicada;",
+      "RUSSIAN": "Вот же утро выдалось... ",
+      "FRENCH": "Quelle galère ce matin… ",
+      "THAI": "โอ๊ย เช้านี้วุ่นวายชะมัด... ",
+      "PERSIAN": "مرد، امروز صبح چه دردسری دارد."
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thanks.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとうございます。",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Valeu.",
+      "RUSSIAN": "Спасибо.",
+      "FRENCH": "Merci.",
+      "THAI": "ขอบคุณนะ",
+      "PERSIAN": "ممنونم ازتون."
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 제가 진짜 중요한 면접이 있는데",
+      "ENGLISH": "I have a really important interview today",
+      "CHINESE_SIMPLIFIED": "我今天有个很重要的面试",
+      "CHINESE_TRADITIONAL": "我今天有個很重要的面試",
+      "JAPANESE": "今日、大事な面接があるのに",
+      "INDONESIAN": "Aku ada wawancara penting banget hari ini,",
+      "PORTUGUESE": "Tenho uma entrevista superimportante hoje,",
+      "RUSSIAN": "У меня сегодня очень важное собеседование.",
+      "FRENCH": "J’ai un entretien super important aujourd’hui.",
+      "THAI": "วันนี้ฉันมีสัมภาษณ์สำคัญมาก",
+      "PERSIAN": "امروز یک مصاحبه واقعا مهم دارم"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "이거 늦으면 좀...",
+      "ENGLISH": "And if I'm lare...",
+      "CHINESE_SIMPLIFIED": "真的不能迟到…",
+      "CHINESE_TRADITIONAL": "真的不能遲到…",
+      "JAPANESE": "これ遅れたら…",
+      "INDONESIAN": "Dan kalau aku telat...",
+      "PORTUGUESE": "E se eu me atrasar...",
+      "RUSSIAN": "Если я опоздаю...",
+      "FRENCH": "Si je suis en retard...",
+      "THAI": "ถ้าฉันไปสาย...",
+      "PERSIAN": "و اگر لارو باشم..."
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "여보세요? 어 엄마.",
+      "ENGLISH": "Hello? Oh, hi Mom.",
+      "CHINESE_SIMPLIFIED": "喂? 嗯，妈",
+      "CHINESE_TRADITIONAL": "喂? 嗯，媽",
+      "JAPANESE": "もしもし？あ、お母さん。",
+      "INDONESIAN": "Halo? Oh, hai, Ma.",
+      "PORTUGUESE": "Alô? Ah, oi, mãe.",
+      "RUSSIAN": "Алло? О, привет, мама.",
+      "FRENCH": "Allô ? Oh, salut maman.",
+      "THAI": "ฮัลโหล? โอ้ สวัสดีครับแม่",
+      "PERSIAN": "سلام؟ اوه، سلام مامان"
+    },
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 30.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "엄마가 그렇게 말해도 나 그 집 다시 안 들어가.",
+      "ENGLISH": "Even if you say that, I'm not going back home.",
+      "CHINESE_SIMPLIFIED": "无论你说什么我都不会回那个家的",
+      "CHINESE_TRADITIONAL": "無論你說什麼我都不會回那個家的",
+      "JAPANESE": "お母さんが何言っても、もうあの家には戻らないわ。",
+      "INDONESIAN": "Mau gimana juga, aku nggak bakal pulang.",
+      "PORTUGUESE": "Mesmo que você diga isso, eu não vou voltar pra casa.",
+      "RUSSIAN": "Даже если ты так говоришь, я не вернусь домой.",
+      "FRENCH": "Même si tu dis ça, je ne rentre pas à la maison.",
+      "THAI": "ถึงแม่จะพูดยังไง ฉันก็ไม่กลับบ้านหรอก",
+      "PERSIAN": "حتی اگر اینو بگویی، من به خونه بر نمی گردم."
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 34.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아니 아빠 사업 때문에 하는 결혼 하기 싫다고!",
+      "ENGLISH": "I said I don't want to get married just for Dad's business!",
+      "CHINESE_SIMPLIFIED": "我说了我不想因为爸的生意而结婚",
+      "CHINESE_TRADITIONAL": "我說了我不想因爲爸的生意而結婚",
+      "JAPANESE": "お父さんの事業のために結婚なんて嫌だって言ってるじゃない！",
+      "INDONESIAN": "Aku udah bilang nggak mau nikah cuma demi bisnis Papa!",
+      "PORTUGUESE": "Eu já falei que não quero casar só por causa dos negócios do papai!",
+      "RUSSIAN": "Я же сказал, что не хочу жениться ради бизнеса отца!",
+      "FRENCH": "J’ai dit que je ne veux pas me marier juste pour l’entreprise de papa !",
+      "THAI": "ฉันบอกแล้วว่าฉันไม่อยากแต่งงานเพื่อธุรกิจของพ่อนะ!",
+      "PERSIAN": "گفتم من نمی خواهم فقط برای کار بابا ازدواج کنم!"
+    },
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 38.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Yeah..",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Tá...",
+      "RUSSIAN": "Да... ",
+      "FRENCH": "Oui... ",
+      "THAI": "ครับ... ",
+      "PERSIAN": "آره.."
+    },
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 40.1
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "집 구하면 다시 연락할게.",
+      "ENGLISH": "I'll call once I find a place.",
+      "CHINESE_SIMPLIFIED": "等我找到房子再和你说",
+      "CHINESE_TRADITIONAL": "等我找到房子再和你說",
+      "JAPANESE": "家見つけたらまた連絡するわ。",
+      "INDONESIAN": "Aku bakal telepon kalau udah nemu tempat.",
+      "PORTUGUESE": "Eu ligo quando achar um lugar.",
+      "RUSSIAN": "Позвоню, как найду себе жильё.",
+      "FRENCH": "Je t’appellerai quand j’aurai trouvé un appart.",
+      "THAI": "เดี๋ยวฉันโทรหาอีกทีเมื่อหาที่อยู่ได้",
+      "PERSIAN": "وقتی جایی پیدا کردم زنگ میزنم"
+    },
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 43.3
+    }
+  }
+]

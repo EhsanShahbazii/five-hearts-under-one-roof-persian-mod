@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "... 집 가라",
+      "ENGLISH": "...Go home.",
+      "CHINESE_SIMPLIFIED": "…你回家吧",
+      "CHINESE_TRADITIONAL": "…你回家吧",
+      "JAPANESE": "…さっさと帰って。",
+      "INDONESIAN": "...Pulang.",
+      "PORTUGUESE": "...Vai pra casa.",
+      "RUSSIAN": "...Иди домой.",
+      "FRENCH": "...Rentre chez toi.",
+      "THAI": "...กลับบ้านไปเถอะ"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.5
+    }
+  }
+]

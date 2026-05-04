@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "민정 씨! 바다 도착했는데...",
+      "ENGLISH": "Min-jung, wake up...! We've arrived at the beach...",
+      "CHINESE_SIMPLIFIED": "敏静 起床啦~ 已经到海边了...",
+      "CHINESE_TRADITIONAL": "敏靜 起牀啦~ 已經到海邊了...",
+      "JAPANESE": "ミンジョンさん！海、着きましたよ…",
+      "INDONESIAN": "Min-jung, bangun...! Kita udah sampai di pantai...",
+      "PORTUGUESE": "Min-jung, acorda...! Chegamos na praia...",
+      "RUSSIAN": "Мин-чжун, просыпайся...! Мы приехали на пляж...",
+      "FRENCH": "Min-jung, réveille-toi... ! On est arrivés à la plage...",
+      "THAI": "มินจอง ตื่นเถอะ...! เรามาถึงทะเลแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "유만 오빠?",
+      "ENGLISH": "Yuman oppa?",
+      "CHINESE_SIMPLIFIED": "宥万哥哥?",
+      "CHINESE_TRADITIONAL": "宥萬哥哥?",
+      "JAPANESE": "ユマンさん？",
+      "INDONESIAN": "Yuman oppa?",
+      "PORTUGUESE": "Yuman oppa?",
+      "RUSSIAN": "Юман-оппа?",
+      "FRENCH": "Yuman oppa ?",
+      "THAI": "ยูมันโอปป้า?"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "많이 피곤했나봐요!",
+      "ENGLISH": "You must have been really tired!",
+      "CHINESE_SIMPLIFIED": "你看来你很累啊",
+      "CHINESE_TRADITIONAL": "你看來你很累啊",
+      "JAPANESE": "すごく疲れてたみたいですね。",
+      "INDONESIAN": "Kamu pasti capek banget!",
+      "PORTUGUESE": "Você devia estar muito cansada!",
+      "RUSSIAN": "Ты, должно быть, очень устала!",
+      "FRENCH": "Tu devais être vraiment fatiguée !",
+      "THAI": "เธอคงเหนื่อยมากจริงๆ!"
+    },
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 내려요!",
+      "ENGLISH": "Yeah, let's get out quickly!",
+      "CHINESE_SIMPLIFIED": "赶紧起来吧",
+      "CHINESE_TRADITIONAL": "趕緊起來吧",
+      "JAPANESE": "早く降りましょう！",
+      "INDONESIAN": "Iya, ayo cepat keluar!",
+      "PORTUGUESE": "Sim, vamos sair logo!",
+      "RUSSIAN": "Да, давай скорее выходить!",
+      "FRENCH": "Oui, allons vite dehors !",
+      "THAI": "ใช่ ไปข้างนอกกันเร็ว!"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.6
+    }
+  }
+]

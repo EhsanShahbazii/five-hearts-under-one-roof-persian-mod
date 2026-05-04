@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey! ",
+      "CHINESE_SIMPLIFIED": "喂!",
+      "CHINESE_TRADITIONAL": "喂!",
+      "JAPANESE": "おい！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!",
+      "PERSIAN": "Hey!"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 0.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "돈 받으라니까?",
+      "ENGLISH": "Collect the money!",
+      "CHINESE_SIMPLIFIED": "我说让你结账!",
+      "CHINESE_TRADITIONAL": "我說讓你結賬!",
+      "JAPANESE": "お金を受け取れって言ってんだろ？",
+      "INDONESIAN": "Kumpulin uangnya!",
+      "PORTUGUESE": "Recolhe o dinheiro!",
+      "RUSSIAN": "Собери деньги!",
+      "FRENCH": "Ramasse l’argent !",
+      "THAI": "เก็บเงินสิ!",
+      "PERSIAN": "پول را جمع کن!"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?!",
+      "ENGLISH": "Huh?!",
+      "CHINESE_SIMPLIFIED": "嗯?!",
+      "CHINESE_TRADITIONAL": "嗯?!",
+      "JAPANESE": "えっ？！",
+      "INDONESIAN": "Hah?!",
+      "PORTUGUESE": "Hã?!",
+      "RUSSIAN": "А?!",
+      "FRENCH": "Hein ?!",
+      "THAI": "ห๊ะ?!",
+      "PERSIAN": "Huh?!"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "ENGLISH": "Damn it...",
+      "CHINESE_SIMPLIFIED": "真TM…",
+      "CHINESE_TRADITIONAL": "真TM…",
+      "JAPANESE": "くそっ…",
+      "INDONESIAN": "Sial...",
+      "PORTUGUESE": "Droga...",
+      "RUSSIAN": "Чёрт...",
+      "FRENCH": "Mince...",
+      "THAI": "แย่แล้ว...",
+      "PERSIAN": "Damn it..."
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.8
+    }
+  }
+]

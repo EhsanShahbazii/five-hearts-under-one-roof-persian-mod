@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "놀이터가 좀 바뀌었네?",
+      "ENGLISH": "The playground has changed a bit.",
+      "CHINESE_SIMPLIFIED": "公园好像有点变化啊？",
+      "CHINESE_TRADITIONAL": "公園好像有點變化啊？",
+      "JAPANESE": "ここ、少し変わったね？",
+      "INDONESIAN": "Taman bermainnya udah agak berubah ya.",
+      "PORTUGUESE": "O parquinho mudou um pouco.",
+      "RUSSIAN": "Площадка немного изменилась.",
+      "FRENCH": "Le terrain de jeu a un peu changé.",
+      "THAI": "สนามเด็กเล่นเปลี่ยนไปนิดหน่อยนะ."
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "없던 놀이기구들이 좀 생기긴 했지.",
+      "ENGLISH": "Yeah, they added some new equipment.",
+      "CHINESE_SIMPLIFIED": "添了一些新设备",
+      "CHINESE_TRADITIONAL": "添了一些新設備",
+      "JAPANESE": "なかった遊具がいくつか増えたよ。",
+      "INDONESIAN": "Iya, mereka tambah beberapa permainan baru.",
+      "PORTUGUESE": "Sim, colocaram alguns brinquedos novos.",
+      "RUSSIAN": "Да, добавили новое оборудование.",
+      "FRENCH": "Oui, ils ont ajouté de nouveaux équipements.",
+      "THAI": "ใช่ พวกเขาเพิ่มเครื่องเล่นใหม่เข้ามาด้วย."
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우리 뭐 할래?",
+      "ENGLISH": "What should we do?",
+      "CHINESE_SIMPLIFIED": "我们玩哪个好呢?",
+      "CHINESE_TRADITIONAL": "我們玩哪個好呢?",
+      "JAPANESE": "私たち、何して遊ぼうか？",
+      "INDONESIAN": "Kita mau main apa?",
+      "PORTUGUESE": "O que vamos fazer?",
+      "RUSSIAN": "Чем займёмся?",
+      "FRENCH": "On fait quoi ?",
+      "THAI": "เราจะทำอะไรกันดี?"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.34
+    }
+  }
+]

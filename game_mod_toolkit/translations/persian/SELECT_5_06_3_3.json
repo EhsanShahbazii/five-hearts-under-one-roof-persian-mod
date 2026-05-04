@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "유만 오빠... ",
+      "ENGLISH": "Yuman oppa...",
+      "CHINESE_SIMPLIFIED": "宥万哥哥…",
+      "CHINESE_TRADITIONAL": "宥萬哥哥…",
+      "JAPANESE": "ユマンさん…",
+      "INDONESIAN": "Yuman oppa...",
+      "PORTUGUESE": "Yuman oppa...",
+      "RUSSIAN": "Юман-оппа...",
+      "FRENCH": "Yuman oppa...",
+      "THAI": "ยูมันโอปป้า...",
+      "PERSIAN": "Yuman oppa..."
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "여기 어디예요?",
+      "ENGLISH": "Where are we?",
+      "CHINESE_SIMPLIFIED": "这是哪里啊?",
+      "CHINESE_TRADITIONAL": "這是哪裏啊?",
+      "JAPANESE": "ここ、どこですか？",
+      "INDONESIAN": "Kita di mana?",
+      "PORTUGUESE": "Onde estamos?",
+      "RUSSIAN": "Где мы?",
+      "FRENCH": "Où est-ce qu’on est ?",
+      "THAI": "เราอยู่ที่ไหนกัน?",
+      "PERSIAN": "ما کجا هستیم؟"
+    },
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "바다 도착한 거예요?",
+      "ENGLISH": "Did we reach the beach?",
+      "CHINESE_SIMPLIFIED": "我们已经到海边了吗?",
+      "CHINESE_TRADITIONAL": "我們已經到海邊了嗎?",
+      "JAPANESE": "海、着いたんですか？",
+      "INDONESIAN": "Kita udah sampai di pantai?",
+      "PORTUGUESE": "Chegamos na praia?",
+      "RUSSIAN": "Мы уже на пляже?",
+      "FRENCH": "On est arrivés à la plage ?",
+      "THAI": "เราถึงทะเลแล้วเหรอ?",
+      "PERSIAN": "به ساحل رسیدیم؟"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네! 그래서 이제 막 깨우려고 했는데!",
+      "ENGLISH": "Yeah! I was just about to wake you up!",
+      "CHINESE_SIMPLIFIED": "对!所以我刚要叫醒你来着!",
+      "CHINESE_TRADITIONAL": "對!所以我剛要叫醒你來着!",
+      "JAPANESE": "はい！起こそうと思って。",
+      "INDONESIAN": "Iya! Aku baru mau bangunin kamu!",
+      "PORTUGUESE": "Sim! Eu tava prestes a te acordar!",
+      "RUSSIAN": "Да! Я как раз собирался разбудить тебя!",
+      "FRENCH": "Oui ! J’allais justement te réveiller !",
+      "THAI": "ใช่! ฉันกำลังจะปลุกเธอพอดี!",
+      "PERSIAN": "آره تازه میخواستم بیدارت کنم!"
+    },
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 20.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아, 기다려줬구나?",
+      "ENGLISH": "You waited for me?",
+      "CHINESE_SIMPLIFIED": "原来你在等我啊?",
+      "CHINESE_TRADITIONAL": "原來你在等我啊?",
+      "JAPANESE": "あ、待っててくれたんですね！",
+      "INDONESIAN": "Kamu nungguin aku?",
+      "PORTUGUESE": "Você me esperou?",
+      "RUSSIAN": "Ты ждал меня?",
+      "FRENCH": "Tu m’as attendue ?",
+      "THAI": "เธอรอฉันเหรอ?",
+      "PERSIAN": "منتظر من بودی؟"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "고마워요! ",
+      "ENGLISH": "Thank you!",
+      "CHINESE_SIMPLIFIED": "谢谢你呀!",
+      "CHINESE_TRADITIONAL": "謝謝你呀!",
+      "JAPANESE": "ありがとうございます！",
+      "INDONESIAN": "Makasih!",
+      "PORTUGUESE": "Obrigada!",
+      "RUSSIAN": "Спасибо!",
+      "FRENCH": "Merci !",
+      "THAI": "ขอบคุณนะ!",
+      "PERSIAN": "Thank you!"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "내릴까요?",
+      "ENGLISH": "Let’s get out.",
+      "CHINESE_SIMPLIFIED": "下车吧?",
+      "CHINESE_TRADITIONAL": "下車吧?",
+      "JAPANESE": "降りましょうか？",
+      "INDONESIAN": "Ayo keluar.",
+      "PORTUGUESE": "Vamos sair.",
+      "RUSSIAN": "Давай выходить.",
+      "FRENCH": "Sortons.",
+      "THAI": "ไปกันเถอะ",
+      "PERSIAN": "بریم بیرون"
+    },
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.6
+    }
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요! 나일만 대리님!",
+      "ENGLISH": "Hello! Manager Ilman!",
+      "CHINESE_SIMPLIFIED": "您好, 罗日万代理! ",
+      "CHINESE_TRADITIONAL": "您好, 羅日萬代理!",
+      "JAPANESE": "こんにちは！イルマン代理！",
+      "INDONESIAN": "Halo! Manajer Ilman!",
+      "PORTUGUESE": "Olá! Gerente Ilman!",
+      "RUSSIAN": "Здравствуйте! Менеджер Ильман!",
+      "FRENCH": "Bonjour ! Manager Ilman !",
+      "THAI": "สวัสดีครับ! ผู้จัดการอิลมาน!",
+      "PERSIAN": "سلام! مدیر ایلمان!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 첫 출근한 우유만입니다!",
+      "ENGLISH": "I'm Yuman, it's my first day of work today!",
+      "CHINESE_SIMPLIFIED": "我是新来的吴宥万!",
+      "CHINESE_TRADITIONAL": "我是新來的吳宥萬!",
+      "JAPANESE": "今日から出勤しましたウ・ユマンです！",
+      "INDONESIAN": "Aku Yuman, ini hari pertama aku kerja!",
+      "PORTUGUESE": "Sou Yuman, hoje é meu primeiro dia de trabalho!",
+      "RUSSIAN": "Я Юман, сегодня мой первый рабочий день!",
+      "FRENCH": "Je suis Yuman, c’est mon premier jour aujourd’hui !",
+      "THAI": "ผมยูมันครับ วันนี้เป็นวันแรกที่มาทำงาน!",
+      "PERSIAN": "من یومان هستم، امروز اولین روز کاری من است!"
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 우 사원!",
+      "ENGLISH": "Oh! Yuman!",
+      "CHINESE_SIMPLIFIED": "啊，小吴啊，你好你好。",
+      "CHINESE_TRADITIONAL": "啊，小吳啊，你好你好。",
+      "JAPANESE": "あ～、ウ社員！",
+      "INDONESIAN": "Oh! Yuman!",
+      "PORTUGUESE": "Oh! Yuman!",
+      "RUSSIAN": "О! Юман!",
+      "FRENCH": "Oh ! Yuman !",
+      "THAI": "โอ้! ยูมัน!",
+      "PERSIAN": "Oh! Yuman!"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "...키가 좀 크네?",
+      "ENGLISH": "... You're pretty tall, huh?",
+      "CHINESE_SIMPLIFIED": "你个子挺高啊。",
+      "CHINESE_TRADITIONAL": "你個子挺高啊。",
+      "JAPANESE": "君…背が高いな？",
+      "INDONESIAN": "... Kamu lumayan tinggi, ya?",
+      "PORTUGUESE": "... Você é bem alto, hein?",
+      "RUSSIAN": "... Ты довольно высокий, да?",
+      "FRENCH": "... Tu es plutôt grand, hein ?",
+      "THAI": "...นายตัวสูงใช้ได้เลยนะเนี่ย?",
+      "PERSIAN": "... تو خیلی قد بلندی، ها؟"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "군대는?",
+      "ENGLISH": "Did you do your military service?",
+      "CHINESE_SIMPLIFIED": "去过军队了吗?",
+      "CHINESE_TRADITIONAL": "去過軍隊了嗎?",
+      "JAPANESE": "軍隊はもう行ってきたのか？",
+      "INDONESIAN": "Kamu udah selesai wajib militer?",
+      "PORTUGUESE": "Você já cumpriu o serviço militar?",
+      "RUSSIAN": "Ты прошел службу в армии?",
+      "FRENCH": "Tu as fait ton service militaire ?",
+      "THAI": "เคยเข้ารับราชการทหารรึยัง?",
+      "PERSIAN": "سربازی ات انجام دادی؟"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "군대 다녀왔습니다!",
+      "ENGLISH": "Yes, I've completed it!",
+      "CHINESE_SIMPLIFIED": "已经去过了",
+      "CHINESE_TRADITIONAL": "已經去過了",
+      "JAPANESE": "はい！行ってきました！",
+      "INDONESIAN": "Iya, aku sudah selesai!",
+      "PORTUGUESE": "Sim, já completei!",
+      "RUSSIAN": "Да, конечно!",
+      "FRENCH": "Oui, je l’ai terminé !",
+      "THAI": "ครับ! ผมผ่านการเกณฑ์ทหารมาแล้ว!",
+      "PERSIAN": "بله، من اونو کامل کردم!"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "역시 이 군대를 다녀와야 좀 이 conversation(대화)이 통하지.",
+      "ENGLISH": "Of course, you gotta go through the army to have a proper conversation.",
+      "CHINESE_SIMPLIFIED": "不错不错，去过军队conversation(对话)才聊得来嘛",
+      "CHINESE_TRADITIONAL": "不錯不錯，去過軍隊conversation(對話)才聊得來嘛",
+      "JAPANESE": "やっぱり軍隊に行ってこそ、こうしてconversation（会話）が通じるんだよな。",
+      "INDONESIAN": "Tentu, harus lewat wajib militer dulu biar bisa ngobrol dengan benar.",
+      "PORTUGUESE": "Claro, precisa passar pelo exército pra ter uma conversa de verdade.",
+      "RUSSIAN": "Ну, понятно, чтобы нормально разговаривать, надо через армию пройти.",
+      "FRENCH": "Évidemment, il faut passer par l’armée pour bien savoir discuter.",
+      "THAI": "แน่นอนสิ ต้องผ่านทหารมาก่อนถึงจะคุยกันรู้เรื่องจริงๆ",
+      "PERSIAN": "البته، شما باید از طریق ارتش بروید تا یک گفتگوی مناسب داشته باشید."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "회사는 어때요, 괜찮은 거 같아?",
+      "ENGLISH": "How’s the company, feeling good about it?",
+      "CHINESE_SIMPLIFIED": "感觉公司怎么样?还可以吗?",
+      "CHINESE_TRADITIONAL": "感覺公司怎麼樣?還可以嗎?",
+      "JAPANESE": "会社はどう？大丈夫そうか？",
+      "INDONESIAN": "Gimana perusahaan ini, udah merasa nyaman?",
+      "PORTUGUESE": "E aí, gostando da empresa?",
+      "RUSSIAN": "Как тебе компания? Все устраивает?",
+      "FRENCH": "Alors, comment tu trouves l’entreprise ? Ça va ?",
+      "THAI": "บริษัทเป็นยังไงบ้าง รู้สึกโอเคมั้ย?",
+      "PERSIAN": "شرکت چطوره، احساس خوبی در مورد اون دارید؟"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "네! 좋은 거 같습니다!",
+      "ENGLISH": "Yes! It seems great!",
+      "CHINESE_SIMPLIFIED": "都挺好的!",
+      "CHINESE_TRADITIONAL": "都挺好的!",
+      "JAPANESE": "はい！何とかうまくやっていけそうです！",
+      "INDONESIAN": "Iya! Kelihatannya keren!",
+      "PORTUGUESE": "Sim! Parece ótima!",
+      "RUSSIAN": "Да! Она выглядит отличной!",
+      "FRENCH": "Oui ! Ça a l’air super !",
+      "THAI": "ครับ! ดูเหมือนเป็นที่ที่ดีมากเลย!",
+      "PERSIAN": "بله! عالی به نظر می رسد!"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "우리 회사가 또 여직원들이 예쁘거든~",
+      "ENGLISH": "Our company has some pretty female employees, too~",
+      "CHINESE_SIMPLIFIED": "是吧?而且我们公司女职员都很漂亮~",
+      "CHINESE_TRADITIONAL": "是吧?而且我們公司女職員都很漂亮~",
+      "JAPANESE": "うちの会社、女性社員がまた綺麗なんだよな～",
+      "INDONESIAN": "Di sini juga ada beberapa karyawan cewek yang cantik~",
+      "PORTUGUESE": "Nossa empresa também tem umas funcionárias bem bonitas~",
+      "RUSSIAN": "У нас тут и симпатичные сотрудницы есть~",
+      "FRENCH": "Il y a aussi des collègues plutôt jolies, hein~",
+      "THAI": "ที่นี่ก็มีพนักงานผู้หญิงสวยๆ ด้วยนะ~",
+      "PERSIAN": "شرکت ما چند کارمند زن زیبا نیز دارد"
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아... 네...",
+      "ENGLISH": "Uh... yeah...",
+      "CHINESE_SIMPLIFIED": "啊…是吗",
+      "CHINESE_TRADITIONAL": "啊…是嗎",
+      "JAPANESE": "あ…はい…",
+      "INDONESIAN": "Uh... iya...",
+      "PORTUGUESE": "Ah... é...",
+      "RUSSIAN": "Эээ... ну да...",
+      "FRENCH": "Euh... ouais...",
+      "THAI": "เอ่อ... ใช่...",
+      "PERSIAN": "اوه ... آره ..."
+    },
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "무튼 그럼... ",
+      "ENGLISH": "Anyway...",
+      "CHINESE_SIMPLIFIED": "那么...",
+      "CHINESE_TRADITIONAL": "那麼...",
+      "JAPANESE": "まあ、とにかく…",
+      "INDONESIAN": "Pokoknya...",
+      "PORTUGUESE": "Enfim...",
+      "RUSSIAN": "В общем... Удачи!",
+      "FRENCH": "Bon... Prends soin de toi !",
+      "THAI": "ยังไงก็...",
+      "PERSIAN": "به هر حال..."
+    },
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "수고해요~?",
+      "ENGLISH": "Take care~!",
+      "CHINESE_SIMPLIFIED": "你接着干活吧~",
+      "CHINESE_TRADITIONAL": "你接着幹活吧~",
+      "JAPANESE": "頑張れよ～",
+      "INDONESIAN": "Jaga diri, ya~!",
+      "PORTUGUESE": "Cuide-se~!",
+      "RUSSIAN": "Спасибо!",
+      "FRENCH": "Merci !",
+      "THAI": "ดูแลตัวเองด้วยละกัน~!",
+      "PERSIAN": "مراقب باش ~!"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야...",
+      "ENGLISH": "What the...",
+      "CHINESE_SIMPLIFIED": "什么鬼…",
+      "CHINESE_TRADITIONAL": "什麼鬼…",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Apa-apaan...",
+      "PORTUGUESE": "Mas que coisa...",
+      "RUSSIAN": "Что за...",
+      "FRENCH": "Qu’est-ce que...",
+      "THAI": "อะไรของเขาวะเนี่ย...",
+      "PERSIAN": "این چیه دیگه..."
+    },
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 32.7
+    }
+  }
+]

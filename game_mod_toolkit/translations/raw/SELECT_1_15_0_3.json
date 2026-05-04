@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "제가 왜 그런 것에 대답해야 하죠?",
+      "ENGLISH": "Why should I answer that?",
+      "CHINESE_SIMPLIFIED": "我为什么要回答这种问题啊?",
+      "CHINESE_TRADITIONAL": "我爲什麼要回答這種問題啊?",
+      "JAPANESE": "こんな簡単な問題に意味がありますか？",
+      "INDONESIAN": "Kenapa aku harus jawab itu?",
+      "PORTUGUESE": "Por que eu deveria responder isso?",
+      "RUSSIAN": "Зачем мне на это отвечать?",
+      "FRENCH": "Pourquoi je devrais répondre à ça ?",
+      "THAI": "ทำไมผมต้องตอบด้วยล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저는 그런 질문을 받기 위해 이곳에 온 게 아닌데요?",
+      "ENGLISH": "I didn't come here to answer those kinds of questions.",
+      "CHINESE_SIMPLIFIED": "我来这可不是为了回答这种问题的",
+      "CHINESE_TRADITIONAL": "我來這可不是爲了回答這種問題的",
+      "JAPANESE": "そんな質問をされるためにここに来たわけじゃないんですけど。",
+      "INDONESIAN": "Aku ke sini bukan buat jawab pertanyaan kayak gitu.",
+      "PORTUGUESE": "Eu não vim aqui para responder esse tipo de pergunta.",
+      "RUSSIAN": "Я пришёл сюда не ради таких вопросов.",
+      "FRENCH": "Je suis pas venu ici pour ce genre de questions.",
+      "THAI": "ผมไม่ได้มาที่นี่เพื่อมาตอบคำถามแบบนี้นะ."
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 6.3
+    }
+  }
+]

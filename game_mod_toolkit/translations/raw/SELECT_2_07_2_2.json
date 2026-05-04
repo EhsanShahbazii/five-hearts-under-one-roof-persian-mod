@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 뭐 해! 미쳤어?",
+      "ENGLISH": "Hey, what are you doing! are you crazy?",
+      "CHINESE_SIMPLIFIED": "你干嘛呢！发疯啦？",
+      "CHINESE_TRADITIONAL": "你幹嘛呢！發瘋啦？",
+      "JAPANESE": "おい、何してんだよ！頭おかしくなったのか？",
+      "INDONESIAN": "Hei, kamu ngapain sih! Kamu gila, ya?",
+      "PORTUGUESE": "Ei, o que você tá fazendo? Você tá maluco?",
+      "RUSSIAN": "Эй, ты что делаешь?! Ты с ума сошёл?",
+      "FRENCH": "Hé, qu’est-ce que tu fais ?! T’es fou ou quoi ?",
+      "THAI": "เฮ้ นายทำอะไรน่ะ! นายบ้าไปแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห้ะ?"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "월 40이다.",
+      "ENGLISH": "It’s 400 USD a month.",
+      "CHINESE_SIMPLIFIED": "月租2500拿来!",
+      "CHINESE_TRADITIONAL": "月租2500拿來!",
+      "JAPANESE": "月4万な。",
+      "INDONESIAN": "Biayanya Rp6 juta per bulan.",
+      "PORTUGUESE": "São €380 por mês.",
+      "RUSSIAN": "400 долларов в месяц.",
+      "FRENCH": "400 dollars par mois.",
+      "THAI": "400 ดอลลาร์ต่อเดือน."
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 몰라~ 돈 없어!",
+      "ENGLISH": "I don’t care~ I don’t have the money!",
+      "CHINESE_SIMPLIFIED": "不管~反正我没钱!",
+      "CHINESE_TRADITIONAL": "不管~反正我沒錢!",
+      "JAPANESE": "もう知らない～お金なんてないわ！",
+      "INDONESIAN": "Aku nggak peduli~ Aku nggak punya uang!",
+      "PORTUGUESE": "Não tô nem aí~ Eu não tenho dinheiro!",
+      "RUSSIAN": "Мне всё равно~ У меня нет денег!",
+      "FRENCH": "Je m’en fiche~ J’ai pas l’argent !",
+      "THAI": "ฉันไม่สน~ ฉันไม่มีเงิน!"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "여기가 시내랑 가깝고 좋단 말이야.",
+      "ENGLISH": "This place is close to everything, and I really like it here.",
+      "CHINESE_SIMPLIFIED": "这里多好啊，离市中心那么近",
+      "CHINESE_TRADITIONAL": "這裏多好啊，離市中心那麼近",
+      "JAPANESE": "ここ街中にも近くて、いい場所なんだもん。",
+      "INDONESIAN": "Tempat ini deket ke mana-mana, dan aku beneran suka di sini.",
+      "PORTUGUESE": "Esse lugar é perto de tudo, e eu gosto muito daqui.",
+      "RUSSIAN": "Это место так удобно расположено, и мне здесь правда нравится.",
+      "FRENCH": "Cet endroit est pratique, et je l’aime vraiment ici.",
+      "THAI": "ที่นี่สะดวกมาก แล้วฉันก็ชอบที่นี่จริง ๆ."
+    },
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.3
+    }
+  }
+]

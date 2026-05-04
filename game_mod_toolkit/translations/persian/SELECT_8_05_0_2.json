@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 알잖아요.",
+      "ENGLISH": "You know",
+      "CHINESE_SIMPLIFIED": "你自己知道吧",
+      "CHINESE_TRADITIONAL": "你自己知道吧",
+      "JAPANESE": "正直、ミンジョンさんも分かってますよね？",
+      "INDONESIAN": "Kamu tahu,",
+      "PORTUGUESE": "Sabe,",
+      "RUSSIAN": "Знаешь,",
+      "FRENCH": "Tu sais,",
+      "THAI": "เธอรู้ไหม",
+      "PERSIAN": "شما می دانید"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "본인 웃을 때 진짜 이쁜 거...",
+      "ENGLISH": "you're really pretty when you smile...",
+      "CHINESE_SIMPLIFIED": "本人笑起来很迷人这一点",
+      "CHINESE_TRADITIONAL": "本人笑起來很迷人這一點",
+      "JAPANESE": "笑うとすごく可愛いって…",
+      "INDONESIAN": "kamu cantik banget kalau tersenyum...",
+      "PORTUGUESE": "você fica realmente linda quando sorri...",
+      "RUSSIAN": "ты очень красивая, когда улыбаешься...",
+      "FRENCH": "tu es vraiment belle quand tu souris...",
+      "THAI": "เวลายิ้มเธอน่ารักมากเลยนะ...",
+      "PERSIAN": "وقتی لبخند میزنی واقعا زیبا هستی..."
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "전 그냥 민정 님 웃는 거만 보면",
+      "ENGLISH": "I just feel happy",
+      "CHINESE_SIMPLIFIED": "我是想说",
+      "CHINESE_TRADITIONAL": "我是想說",
+      "JAPANESE": "僕はただ、ミンジョンさんの笑顔を見るだけで",
+      "INDONESIAN": "Aku cuma merasa bahagia",
+      "PORTUGUESE": "Eu só me sinto feliz",
+      "RUSSIAN": "Я просто счастлив(а),",
+      "FRENCH": "Je suis juste heureux/heureuse",
+      "THAI": "ฉันรู้สึกมีความสุข",
+      "PERSIAN": "من فقط احساس خوشبختی می کنم"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "행복하더라고요.",
+      "ENGLISH": "When I see you smile.",
+      "CHINESE_SIMPLIFIED": "我每次看到你笑都觉得很幸福",
+      "CHINESE_TRADITIONAL": "我每次看到你笑都覺得很幸福",
+      "JAPANESE": "幸せになれるんです。",
+      "INDONESIAN": "Kalau melihat kamu tersenyum.",
+      "PORTUGUESE": "Quando vejo você sorrir.",
+      "RUSSIAN": "когда вижу твою улыбку.",
+      "FRENCH": "quand je te vois sourire.",
+      "THAI": "เวลาที่เห็นเธอยิ้ม",
+      "PERSIAN": "وقتی میبینم لبخند میزنی"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "진짜요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Benarkah?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?",
+      "PERSIAN": "جدی می‌گی؟"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.5
+    }
+  }
+]

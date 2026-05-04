@@ -1,0 +1,262 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얘 왜 이렇게 취했어...",
+      "ENGLISH": "Why is she so drunk...?",
+      "CHINESE_SIMPLIFIED": "你怎么醉成这样…",
+      "CHINESE_TRADITIONAL": "你怎麼醉成這樣…",
+      "JAPANESE": "この子、こんなに酔っちゃって…",
+      "INDONESIAN": "Kenapa dia mabuk banget…?",
+      "PORTUGUESE": "Por que ela tá tão bêbada…?",
+      "RUSSIAN": "Почему она так напилась...?",
+      "FRENCH": "Pourquoi elle est si saoule...?",
+      "THAI": "ทำไมเธอถึงเมาขนาดนี้...?",
+      "PERSIAN": "چرا اینقدر مست است...؟"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "으이구 우리 은비 취했어요~",
+      "ENGLISH": "She’s really drunk...",
+      "CHINESE_SIMPLIFIED": "看你醉的~",
+      "CHINESE_TRADITIONAL": "看你醉的~",
+      "JAPANESE": "まったく、うちのウンビがすっかり酔っちゃいましたね〜",
+      "INDONESIAN": "Dia benar-benar mabuk…",
+      "PORTUGUESE": "Ela tá muito bêbada…",
+      "RUSSIAN": "Она действительно пьяна...",
+      "FRENCH": "Elle est vraiment ivre...",
+      "THAI": "เธอเมามากเลย...",
+      "PERSIAN": "او واقعا مست است ..."
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오우씨...",
+      "ENGLISH": "Oh man...",
+      "CHINESE_SIMPLIFIED": "咦…",
+      "CHINESE_TRADITIONAL": "咦…",
+      "JAPANESE": "うわぁ…",
+      "INDONESIAN": "Aduh…",
+      "PORTUGUESE": "Ai, ai…",
+      "RUSSIAN": "Ох, чёрт...",
+      "FRENCH": "Oh là là...",
+      "THAI": "โอ้พระเจ้า...",
+      "PERSIAN": "ای مرد..."
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "얘들아 내가 오빠에 대해 얼마나 많이 아는지 알아?",
+      "ENGLISH": "Hey everyone, do you know how much I know about oppa? ",
+      "CHINESE_SIMPLIFIED": "你们知道我对哥哥有多了解吗?",
+      "CHINESE_TRADITIONAL": "你們知道我對哥哥有多瞭解嗎?",
+      "JAPANESE": "みんな、私がお兄ちゃんのこと、どれだけ知ってるか分かる？",
+      "INDONESIAN": "Hei semuanya, kalian tahu seberapa kenal aku sama oppa?",
+      "PORTUGUESE": "Ei pessoal, vocês sabem o quanto eu conheço o oppa?",
+      "RUSSIAN": "Эй, все, вы знаете, насколько я хорошо знаю оппу?",
+      "FRENCH": "Hé, tout le monde, vous savez à quel point je connais oppa ?",
+      "THAI": "เฮ้ ทุกคน พวกเธอรู้ไหมว่าฉันรู้จักโอปป้าดีแค่ไหน?",
+      "PERSIAN": "سلام به همه، می دانید من چقدر در مورد یومان می دانم؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "며칠 전에도 이~따만한 오빠 꼬ㅊ~",
+      "ENGLISH": "Just a few days ago, he gave me this huuuuge F!!",
+      "CHINESE_SIMPLIFIED": "前不久我还看到了哥哥的这~~~么大的鸡…",
+      "CHINESE_TRADITIONAL": "前不久我還看到了哥哥的這~~~麼大的雞…",
+      "JAPANESE": "数日前にも、こ〜んな大きなチ…",
+      "INDONESIAN": "Beberapa hari yang lalu, dia kasih aku B beeesar sekali!!",
+      "PORTUGUESE": "Dias atrás, ele me deu um “F” beeem grandão!!",
+      "RUSSIAN": "Буквально пару дней назад он поставил мне огромную двойку!!",
+      "FRENCH": "Il y a quelques jours, il m’a donné un énorme zéro !!",
+      "THAI": "ไม่กี่วันก่อน เขาให้ฉันได้ F ใหญ่มาก!!",
+      "PERSIAN": "همین چند روز پیش این huuuuge F را به من داد!!"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "꽃!...꽃을 제가 선물했거든요!",
+      "ENGLISH": "Flower!...Real flowers I gave her",
+      "CHINESE_SIMPLIFIED": "鸡腿… 我给她送的! ",
+      "CHINESE_TRADITIONAL": "雞腿… 我給她送的!",
+      "JAPANESE": "チッ！…チワワをプレゼントしたんですよ！",
+      "INDONESIAN": "Bunga!… Bunga asli yang kuberikan padanya.",
+      "PORTUGUESE": "Flor!... Uma flor de verdade que eu dei pra ela.",
+      "RUSSIAN": "Цветок!... Настоящие цветы, которые я ей подарил.",
+      "FRENCH": "Fleur !... Des vraies fleurs que je lui ai offertes.",
+      "THAI": "ดอกไม้!... ดอกไม้จริงๆ ที่ฉันให้เธอ",
+      "PERSIAN": "گل!...گلهای واقعی بهش دادم"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "엄청 큰 진짜 꽃.",
+      "ENGLISH": "Really big one.",
+      "CHINESE_SIMPLIFIED": "超级大的鸡腿",
+      "CHINESE_TRADITIONAL": "超級大的雞腿",
+      "JAPANESE": "めっちゃ大きな本物の花！",
+      "INDONESIAN": "Besar banget.",
+      "PORTUGUESE": "Bem grande.",
+      "RUSSIAN": "Очень большой.",
+      "FRENCH": "Vraiment grosse.",
+      "THAI": "ดอกใหญ่จริงๆ",
+      "PERSIAN": "واقعا بزرگه"
+    },
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 25.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아...하하하.",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ、そうなんですか…",
+      "INDONESIAN": "Uh…",
+      "PORTUGUESE": "Uh…",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ...",
+      "PERSIAN": "Uh..."
+    },
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "우리 은비 취, 취했네! 취했어!",
+      "ENGLISH": "Eunbi's so drunk! I'll take her inside now. ",
+      "CHINESE_SIMPLIFIED": "恩妃喝醉了! 我们就先回去了!",
+      "CHINESE_TRADITIONAL": "恩妃喝醉了! 我們就先回去了!",
+      "JAPANESE": "うちのウンビ、すごく酔っちゃってるんで",
+      "INDONESIAN": "Eun-bi mabuk banget! Aku bawa dia masuk sekarang.",
+      "PORTUGUESE": "A Eun-bi tá muito bêbada! Vou levar ela lá pra dentro agora.",
+      "RUSSIAN": "Ынби так напилась! Я отведу её внутрь.",
+      "FRENCH": "Eun-bi est tellement saoule ! Je vais la ramener à l’intérieur.",
+      "THAI": "อึนบีเมาหนักเลย! ฉันจะพาเธอเข้าไปข้างในแล้วนะ",
+      "PERSIAN": "یونبی خیلی مست است! الان میبرمش داخل"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "먼저 들어가볼게요!",
+      "ENGLISH": "I'll take her inside now.",
+      "CHINESE_SIMPLIFIED": "我们就先回去了!",
+      "CHINESE_TRADITIONAL": "我們就先回去了!",
+      "JAPANESE": "じゃあ、先に失礼します！",
+      "INDONESIAN": "Aku bawa dia masuk sekarang.",
+      "PORTUGUESE": "Vou levar ela lá pra dentro agora.",
+      "RUSSIAN": "Я отведу её внутрь.",
+      "FRENCH": "Je vais la ramener à l’intérieur.",
+      "THAI": "ฉันจะพาเธอเข้าไปข้างใน",
+      "PERSIAN": "الان میبرمش داخل"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 31.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "가자.",
+      "ENGLISH": "Let's go.",
+      "CHINESE_SIMPLIFIED": "我们走吧",
+      "CHINESE_TRADITIONAL": "我們走吧",
+      "JAPANESE": "行こう。",
+      "INDONESIAN": "Ayo pergi.",
+      "PORTUGUESE": "Vamos.",
+      "RUSSIAN": "Пойдём.",
+      "FRENCH": "Allons-y.",
+      "THAI": "ไปกันเถอะ",
+      "PERSIAN": "برویم"
+    },
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "안농~",
+      "ENGLISH": "Bye~",
+      "CHINESE_SIMPLIFIED": "再见！",
+      "CHINESE_TRADITIONAL": "再見！",
+      "JAPANESE": "バイバイ〜！",
+      "INDONESIAN": "Dadah~",
+      "PORTUGUESE": "Tchau~",
+      "RUSSIAN": "Пока~",
+      "FRENCH": "Salut~",
+      "THAI": "บ๊ายบาย~",
+      "PERSIAN": "فعلاً، خدافظ~"
+    },
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 35.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "놀다 가세요!",
+      "ENGLISH": "Take care!",
+      "CHINESE_SIMPLIFIED": "路上小心~",
+      "CHINESE_TRADITIONAL": "路上小心~",
+      "JAPANESE": "残りの時間、楽しんで！",
+      "INDONESIAN": "Hati-hati, ya!",
+      "PORTUGUESE": "Se cuidem!",
+      "RUSSIAN": "Берегитесь!",
+      "FRENCH": "Prenez soin de vous !",
+      "THAI": "ดูแลตัวเองนะ!",
+      "PERSIAN": "Take care!"
+    },
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 36.8
+    }
+  }
+]

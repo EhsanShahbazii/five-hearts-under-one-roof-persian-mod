@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 지금 방귀 꼈어?",
+      "ENGLISH": "Did you just fart?",
+      "CHINESE_SIMPLIFIED": "你刚才放屁了吗？",
+      "CHINESE_TRADITIONAL": "你剛纔放屁了嗎？",
+      "JAPANESE": "もしかして、今おならした？",
+      "INDONESIAN": "Kamu baru aja kentut?",
+      "PORTUGUESE": "Você acabou de soltar um pum?",
+      "RUSSIAN": "Ты только что пукнула?",
+      "FRENCH": "T’as pété ?",
+      "THAI": "เธอเพิ่งผายลมใช่ไหม?",
+      "PERSIAN": "فقط گوز زدی؟"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "냄새 나?",
+      "ENGLISH": "Does it smell?",
+      "CHINESE_SIMPLIFIED": "有味道吗？",
+      "CHINESE_TRADITIONAL": "有味道嗎？",
+      "JAPANESE": "臭い？",
+      "INDONESIAN": "Baunya kecium?",
+      "PORTUGUESE": "Tá com cheiro?",
+      "RUSSIAN": "Пахнет?",
+      "FRENCH": "Ça sent ?",
+      "THAI": "มีกลิ่นเหรอ?",
+      "PERSIAN": "بو میده؟"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "당연하지. 난 너 방귀 냄새가 제일 좋아.",
+      "ENGLISH": "Of course. I like your fart smell.",
+      "CHINESE_SIMPLIFIED": "当然啦 我最喜欢你的屁味了",
+      "CHINESE_TRADITIONAL": "當然啦 我最喜歡你的屁味了",
+      "JAPANESE": "当然だよ。お前のおならの匂いが一番好きなんだから。",
+      "INDONESIAN": "Ya jelas. Aku suka bau kentutmu.",
+      "PORTUGUESE": "Claro. Eu gosto do cheiro do seu pum.",
+      "RUSSIAN": "Конечно. Мне нравится запах твоего пука.",
+      "FRENCH": "Bien sûr. J’aime bien l’odeur de tes pets.",
+      "THAI": "แน่นอน ฉันชอบกลิ่นผายลมของเธอ",
+      "PERSIAN": "البته. بوی گوز تو را دوست دارم"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 변태냐?",
+      "ENGLISH": "Are you a pervert?",
+      "CHINESE_SIMPLIFIED": "你是变态吗？",
+      "CHINESE_TRADITIONAL": "你是變態嗎？",
+      "JAPANESE": "あんた、変態なの？",
+      "INDONESIAN": "Kamu mesum, ya?",
+      "PORTUGUESE": "Você é um(a) pervertido(a)?",
+      "RUSSIAN": "Ты извращенка?",
+      "FRENCH": "T’es une perverse ?",
+      "THAI": "เธอเป็นคนโรคจิตหรือเปล่า?",
+      "PERSIAN": "شما یک منحرف هستید؟"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아니... 약간...",
+      "ENGLISH": "No... it’s kind of...",
+      "CHINESE_SIMPLIFIED": "它有种醇厚的… ",
+      "CHINESE_TRADITIONAL": "它有種醇厚的…",
+      "JAPANESE": "いや... ちょっと...",
+      "INDONESIAN": "Enggak... baunya tuh kayak...",
+      "PORTUGUESE": "Não... é meio que...",
+      "RUSSIAN": "Нет... это как-то...",
+      "FRENCH": "Non... c’est un peu...",
+      "THAI": "เปล่านะ... มันออกจะ...",
+      "PERSIAN": "نه... یه جورایی..."
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "말랑해. 말랑고소해!",
+      "ENGLISH": "Mellow and... savory?",
+      "CHINESE_SIMPLIFIED": "香喷喷的味道？",
+      "CHINESE_TRADITIONAL": "香噴噴的味道？",
+      "JAPANESE": "柔らかい。柔らかくて香ばしい！",
+      "INDONESIAN": "Lembut dan... gurih?",
+      "PORTUGUESE": "Suave e... saboroso?",
+      "RUSSIAN": "Мягкий и... аппетитный?",
+      "FRENCH": "Doux et... savoureux ?",
+      "THAI": "นุ่มๆ แล้วก็... หอมๆ?",
+      "PERSIAN": "ملوس و ... شور؟"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 네 방귀가 세상에서 제일 좋아!",
+      "ENGLISH": "Really, your fart is the best!",
+      "CHINESE_SIMPLIFIED": "真的,我最~喜欢你的屁味了！",
+      "CHINESE_TRADITIONAL": "真的,我最~喜歡你的屁味了！",
+      "JAPANESE": "マジで、お前のおならが世界で一番好きだ！",
+      "INDONESIAN": "Serius deh, kentut kamu yang terbaik!",
+      "PORTUGUESE": "Sério, seu pum é o melhor!",
+      "RUSSIAN": "Правда, твой пук — лучший!",
+      "FRENCH": "Sérieux, ton pet est le meilleur !",
+      "THAI": "จริงๆ นะ ผายลมเธอดีที่สุดเลย!",
+      "PERSIAN": "واقعاً گوز شما بهترین است!"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "최고의 방귀!",
+      "ENGLISH": "The best fart ever.",
+      "CHINESE_SIMPLIFIED": "有史以来最好的屁~",
+      "CHINESE_TRADITIONAL": "有史以來最好的屁~",
+      "JAPANESE": "最高のおならだ！",
+      "INDONESIAN": "Kentut terbaik sepanjang masa.",
+      "PORTUGUESE": "O melhor pum de todos os tempos.",
+      "RUSSIAN": "Лучший пук на свете.",
+      "FRENCH": "Le meilleur pet du monde.",
+      "THAI": "ผายลมที่ดีที่สุดในโลกเลย",
+      "PERSIAN": "بهترین گوز تا به حال"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.8
+    }
+  }
+]

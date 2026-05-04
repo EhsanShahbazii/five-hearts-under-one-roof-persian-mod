@@ -1,0 +1,268 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 음료수 좀 드시면서 하세요!",
+      "ENGLISH": "Here, have a drink while you work!",
+      "CHINESE_SIMPLIFIED": "大家来喝饮料吧!",
+      "CHINESE_TRADITIONAL": "大家來喝飲料吧!",
+      "JAPANESE": "皆さん！飲み物でもどうぞ！",
+      "INDONESIAN": "Ini, minum dulu sambil kerja!",
+      "PORTUGUESE": "Aqui, toma uma bebida enquanto trabalha!",
+      "RUSSIAN": "Вот, выпей что-нибудь, пока работаешь!",
+      "FRENCH": "Tiens, prends un verre pendant que tu travailles !",
+      "THAI": "นี่ เอาเครื่องดื่มไปดื่มระหว่างทำงาน!"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어디 보자~",
+      "ENGLISH": "Let’s see~",
+      "CHINESE_SIMPLIFIED": "来啦~",
+      "CHINESE_TRADITIONAL": "來啦~",
+      "JAPANESE": "さてさて～",
+      "INDONESIAN": "Coba lihat~",
+      "PORTUGUESE": "Vamos ver~",
+      "RUSSIAN": "Посмотрим~",
+      "FRENCH": "Voyons voir~",
+      "THAI": "ลองดูสิ~"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어 뭐예요? 잘 마실게요./맛있겠다",
+      "ENGLISH": "Oh, what’s this? Thanks, I’ll enjoy it~ / Looks good!",
+      "CHINESE_SIMPLIFIED": "-居然有饮料? 谢谢啦~ -看起来不错",
+      "CHINESE_TRADITIONAL": "-居然有飲料? 謝謝啦~ -看起來不錯",
+      "JAPANESE": "お、何ですか？いただきますね～ / ありがとうございます～",
+      "INDONESIAN": "Oh, apa ini? Makasih, aku akan menikmatinya~ / Kelihatannya enak!",
+      "PORTUGUESE": "Oh, o que é isso? Obrigado, vou aproveitar~ / Parece bom!",
+      "RUSSIAN": "О, что это? Спасибо, я наслажусь~ / Выглядит неплохо!",
+      "FRENCH": "Oh, c’est quoi ça ? Merci, je vais me régaler~ / Ça a l’air bon !",
+      "THAI": "โอ๊ะ นี่อะไรน่ะ? ขอบคุณนะ จะดื่มให้เต็มที่เลย~ / ดูดีนะ!"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저 부장님 영수증 청구는 어떻게.../잘 먹겠습니다!",
+      "ENGLISH": "Uh, Manager! How do we handle the receipt for this...? / Thanks for the drink!",
+      "CHINESE_SIMPLIFIED": "-不过经理，报销我该找谁…-饮料谢了啊",
+      "CHINESE_TRADITIONAL": "-不過經理，報銷我該找誰…-飲料謝了啊",
+      "JAPANESE": "あの…部長！領収書の請求はどう… / いただきます～",
+      "INDONESIAN": "Uh, Manajer! Gimana cara ngurus kuitansi ini...? / Makasih buat minumannya!",
+      "PORTUGUESE": "Uh, Gerente! Como registramos o recibo disso...? / Obrigado pela bebida!",
+      "RUSSIAN": "Эй, менеджер! Как нам оформить чек за это...? / Спасибо за напиток!",
+      "FRENCH": "Euh, Manager ! Comment on gère le reçu pour ça...? / Merci pour la boisson !",
+      "THAI": "เอ่อ ผู้จัดการ! ใบเสร็จนี่จัดการยังไงดี...? / ขอบคุณสำหรับเครื่องดื่ม!"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "확실히 요즘 친구들이 센스가 좋아요!",
+      "ENGLISH": "I have to admit, you younger guys have a great taste.",
+      "CHINESE_SIMPLIFIED": "现在的年轻人就是不一样啊!",
+      "CHINESE_TRADITIONAL": "現在的年輕人就是不一樣啊!",
+      "JAPANESE": "最近の子たちは気が利くからいいね～",
+      "INDONESIAN": "Aku akui, anak muda kayak kamu punya selera yang bagus.",
+      "PORTUGUESE": "Tenho que admitir, vocês jovens têm um ótimo gosto.",
+      "RUSSIAN": "Надо признать, у вас, молодых, отличный вкус.",
+      "FRENCH": "Je dois avouer que vous, les jeunes, vous avez du goût.",
+      "THAI": "ยอมรับเลยว่า รสนิยมของคนรุ่นใหม่อย่างพวกนายเยี่ยมจริง ๆ"
+    },
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "고마워! 잘 마실게~?",
+      "ENGLISH": "Thanks! I'll enjoy this!",
+      "CHINESE_SIMPLIFIED": "谢啦! 我会好好享用的~",
+      "CHINESE_TRADITIONAL": "謝啦! 我會好好享用的~",
+      "JAPANESE": "ありがとね～",
+      "INDONESIAN": "Makasih! Aku bakal nikmatin ini!",
+      "PORTUGUESE": "Obrigado! Vou aproveitar!",
+      "RUSSIAN": "Спасибо! Я с удовольствием это выпью!",
+      "FRENCH": "Merci ! Je vais profiter de ça !",
+      "THAI": "ขอบใจ! จะดื่มให้หมดเลย!"
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "나한테 청구해요.",
+      "ENGLISH": "You can charge it to me.",
+      "CHINESE_SIMPLIFIED": "报销找我",
+      "CHINESE_TRADITIONAL": "報銷找我",
+      "JAPANESE": "私に請求してね。",
+      "INDONESIAN": "Bebankan pembayarannya ke aku aja.",
+      "PORTUGUESE": "Pode colocar na minha conta.",
+      "RUSSIAN": "Можешь списать это на меня.",
+      "FRENCH": "Mets ça sur mon compte.",
+      "THAI": "คิดเงินใส่บัญชีฉันได้เลย"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "네 알겠습니다!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "はい！わかりました！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Certo!",
+      "RUSSIAN": "Окей!",
+      "FRENCH": "D'accord !",
+      "THAI": "โอเค!"
+    },
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "과장님, 여기요...!",
+      "ENGLISH": "Manager... here...!",
+      "CHINESE_SIMPLIFIED": "科长，这杯...!",
+      "CHINESE_TRADITIONAL": "科長，這杯...!",
+      "JAPANESE": "課長、こちらになります。",
+      "INDONESIAN": "Manajer... ini...!",
+      "PORTUGUESE": "Gerente... aqui...!",
+      "RUSSIAN": "Менеджер... вот!",
+      "FRENCH": "Manager... tiens !",
+      "THAI": "ผู้จัดการ... นี่ครับ!"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "우유만씨가 알아서 사 온 거예요?",
+      "ENGLISH": "Did you buy this on your own?",
+      "CHINESE_SIMPLIFIED": "这是你挑的饮料?",
+      "CHINESE_TRADITIONAL": "這是你挑的飲料?",
+      "JAPANESE": "これ全部、ユマンさんが買ってきたんですか？",
+      "INDONESIAN": "Kamu beli ini sendiri?",
+      "PORTUGUESE": "Você comprou isso sozinho?",
+      "RUSSIAN": "Ты это сам купил?",
+      "FRENCH": "Tu as acheté ça toi-même ?",
+      "THAI": "นี่ซื้อมาด้วยตัวเองเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 35.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네..! 어떻게 입에 좀 맞으시나요?",
+      "ENGLISH": "Yeah! Does it suit your taste?",
+      "CHINESE_SIMPLIFIED": "是的！怎么样还合您胃口吗？",
+      "CHINESE_TRADITIONAL": "是的！怎麼樣還合您胃口嗎？",
+      "JAPANESE": "はい…！お口に合いますか？",
+      "INDONESIAN": "Iya! Cocok sama seleramu?",
+      "PORTUGUESE": "Sim! Combina com o seu gosto?",
+      "RUSSIAN": "Да! По вкусу подходит?",
+      "FRENCH": "Ouais ! Ça te plaît ?",
+      "THAI": "ใช่! เข้ากับรสนายไหม?"
+    },
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 37.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "맛있는데?",
+      "ENGLISH": "It’s pretty good!",
+      "CHINESE_SIMPLIFIED": "味道不错嘛",
+      "CHINESE_TRADITIONAL": "味道不錯嘛",
+      "JAPANESE": "美味しいですね。",
+      "INDONESIAN": "Enak juga!",
+      "PORTUGUESE": "É bem bom!",
+      "RUSSIAN": "Да, неплохо!",
+      "FRENCH": "C’est pas mal !",
+      "THAI": "อืม อร่อยดี!"
+    },
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 38.5
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그거 영수증 맞죠?",
+      "ENGLISH": "That’s the receipt, right?",
+      "CHINESE_SIMPLIFIED": "这是小票吧?",
+      "CHINESE_TRADITIONAL": "這是小票吧?",
+      "JAPANESE": "これ、領収書ですよね？",
+      "INDONESIAN": "Itu kuitansinya, kan?",
+      "PORTUGUESE": "Esse é o recibo, né?",
+      "RUSSIAN": "Это чек, да?",
+      "FRENCH": "C’est bien le reçu, ça ?",
+      "THAI": "นี่ใบเสร็จใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 40.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "내가 청구할게요!",
+      "ENGLISH": "I’ll handle the charge!",
+      "CHINESE_SIMPLIFIED": "我来报销",
+      "CHINESE_TRADITIONAL": "我來報銷",
+      "JAPANESE": "私が請求しておきます！",
+      "INDONESIAN": "Biar aku aja yang urus pembayarannya!",
+      "PORTUGUESE": "Deixa que eu cuido do pagamento!",
+      "RUSSIAN": "Я всё оплачу!",
+      "FRENCH": "Je m’en occupe !",
+      "THAI": "เดี๋ยวฉันจัดการเอง!"
+    },
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 44.3
+    }
+  }
+]

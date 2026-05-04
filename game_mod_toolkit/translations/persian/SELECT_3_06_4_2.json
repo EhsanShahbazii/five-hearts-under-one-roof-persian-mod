@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "옛날에 여기서 풀피리도 불고 그랬는데.",
+      "ENGLISH": "We used to play the grass flute here back in the day.",
+      "CHINESE_SIMPLIFIED": "我们以前还在这里用树叶吹笛子来着",
+      "CHINESE_TRADITIONAL": "我們以前還在這裏用樹葉吹笛子來着",
+      "JAPANESE": "昔、ここで草笛吹いたりもしたよね。",
+      "INDONESIAN": "Dulu kita sering main seruling rumput di sini.",
+      "PORTUGUESE": "A gente costumava tocar flauta de grama aqui antigamente.",
+      "RUSSIAN": "Раньше мы играли здесь на травяной дудочке.",
+      "FRENCH": "On jouait à faire de la flûte avec de l’herbe ici avant.",
+      "THAI": "เมื่อก่อนเรามาเป่าขลุ่ยใบหญ้าที่นี่บ่อย ๆ",
+      "PERSIAN": "ما قبلاً اینجا فلوت چمن می زدیم."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그러면~",
+      "ENGLISH": "So~",
+      "CHINESE_SIMPLIFIED": "那么~",
+      "CHINESE_TRADITIONAL": "那麼~",
+      "JAPANESE": "それじゃあ～",
+      "INDONESIAN": "Jadi~",
+      "PORTUGUESE": "Então~",
+      "RUSSIAN": "Так~",
+      "FRENCH": "Alors~",
+      "THAI": "แล้ว~",
+      "PERSIAN": "پس ~"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이것도 기억나?",
+      "ENGLISH": "Do you remember this too?",
+      "CHINESE_SIMPLIFIED": "你还记得这个吗?",
+      "CHINESE_TRADITIONAL": "你還記得這個嗎?",
+      "JAPANESE": "これも覚えてる？",
+      "INDONESIAN": "Kamu ingat ini juga?",
+      "PORTUGUESE": "Você se lembra disso também?",
+      "RUSSIAN": "Ты это тоже помнишь?",
+      "FRENCH": "Tu te souviens aussi de ça ?",
+      "THAI": "นายจำสิ่งนี้ได้ไหม?",
+      "PERSIAN": "اینو هم یادت هست؟"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야~",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么嘛~",
+      "CHINESE_TRADITIONAL": "什麼嘛~",
+      "JAPANESE": "何それ～",
+      "INDONESIAN": "Apa tuh?",
+      "PORTUGUESE": "O que é?",
+      "RUSSIAN": "Что это?",
+      "FRENCH": "Qu’est-ce que c’est ?",
+      "THAI": "อะไรเหรอ?",
+      "PERSIAN": "What is it?"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네 번째에 끼워라?",
+      "ENGLISH": "Put it on your fourth finger?",
+      "CHINESE_SIMPLIFIED": "给我戴在无名指上~",
+      "CHINESE_TRADITIONAL": "給我戴在無名指上~",
+      "JAPANESE": "4番目の指にはめるんだよ？",
+      "INDONESIAN": "Pakai di jari manismu?",
+      "PORTUGUESE": "Coloca no seu dedo anelar?",
+      "RUSSIAN": "Надень на четвёртый палец.",
+      "FRENCH": "Mets-le sur ton quatrième doigt.",
+      "THAI": "ใส่ไว้ที่นิ้วนางนะ.",
+      "PERSIAN": "روی انگشت چهارمت بگذاری؟"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "음....",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хмм...",
+      "FRENCH": "Hmm...",
+      "THAI": "ฮืม...",
+      "PERSIAN": "هوم..."
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 간지럽게 손을 만지고 그래~",
+      "ENGLISH": "Hey, your hand is tickling me.",
+      "CHINESE_SIMPLIFIED": "啊，干嘛在人家手上挠痒痒?",
+      "CHINESE_TRADITIONAL": "啊，幹嘛在人家手上撓癢癢?",
+      "JAPANESE": "あ～くすぐったい、何やってんの～",
+      "INDONESIAN": "Eh, tangan kamu bikin geli.",
+      "PORTUGUESE": "Ei, sua mão tá me fazendo cócegas.",
+      "RUSSIAN": "Эй, твоя рука щекочет меня.",
+      "FRENCH": "Hé, ta main me chatouille.",
+      "THAI": "เฮ้ มือของนายทำฉันจั๊กจี้.",
+      "PERSIAN": "هی دستت داره منو قلقلک میده"
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "응? 누가?",
+      "ENGLISH": "Huh? Who is?",
+      "CHINESE_SIMPLIFIED": "嗯？谁挠你痒痒了?",
+      "CHINESE_TRADITIONAL": "嗯？誰撓你癢癢了?",
+      "JAPANESE": "ん？誰が？",
+      "INDONESIAN": "Hah? Siapa?",
+      "PORTUGUESE": "Hã? Quem?",
+      "RUSSIAN": "А? Кто?",
+      "FRENCH": "Hein ? Qui ça ?",
+      "THAI": "ห๊ะ? ใครเหรอ?",
+      "PERSIAN": "ها؟ کیه؟"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야! 벌레잖아!!!!",
+      "ENGLISH": "Oh, gross! It’s a bug!",
+      "CHINESE_SIMPLIFIED": "啊!!!!有虫子!!!",
+      "CHINESE_TRADITIONAL": "啊!!!!有蟲子!!!",
+      "JAPANESE": "何これ！虫じゃん！！！",
+      "INDONESIAN": "Ih, jorok! Ada serangga!",
+      "PORTUGUESE": "Ai, que nojo! É um inseto!",
+      "RUSSIAN": "Фу! Это жук!",
+      "FRENCH": "Ah ! Dégueu ! C’est un insecte !",
+      "THAI": "อี๊! แมลง!",
+      "PERSIAN": "اوه، افتضاح! این یک اشکال است!"
+    },
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아이~ 무슨 소리야!",
+      "ENGLISH": "No way!",
+      "CHINESE_SIMPLIFIED": "诶~这才不是虫子",
+      "CHINESE_TRADITIONAL": "誒~這纔不是蟲子",
+      "JAPANESE": "何言ってんだよ！",
+      "INDONESIAN": "Nggak mungkin!",
+      "PORTUGUESE": "Não é possível!",
+      "RUSSIAN": "Не может быть!",
+      "FRENCH": "Impossible !",
+      "THAI": "ไม่จริงน่า!",
+      "PERSIAN": "No way!"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "이거 장난감이야.",
+      "ENGLISH": "It's just a toy.",
+      "CHINESE_SIMPLIFIED": "只是玩具而已",
+      "CHINESE_TRADITIONAL": "只是玩具而已",
+      "JAPANESE": "これ、おもちゃだよ。",
+      "INDONESIAN": "Cuma mainan kok.",
+      "PORTUGUESE": "É só um brinquedo.",
+      "RUSSIAN": "Да это просто игрушка.",
+      "FRENCH": "C’est juste un jouet.",
+      "THAI": "มันก็แค่ของเล่นเอง.",
+      "PERSIAN": "این فقط یک اسباب بازی است."
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 우유만 진짜!",
+      "ENGLISH": "Ah, Yuman, seriously!",
+      "CHINESE_SIMPLIFIED": "吴宥万你个讨厌鬼!",
+      "CHINESE_TRADITIONAL": "吳宥萬你個討厭鬼!",
+      "JAPANESE": "あ～お兄ちゃんってば、本当！",
+      "INDONESIAN": "Ah, Yuman, serius deh!",
+      "PORTUGUESE": "Ah, Yuman, fala sério!",
+      "RUSSIAN": "Ах, Юман, да серьёзно?!",
+      "FRENCH": "Ah, Yuman, sérieux !",
+      "THAI": "ยูมัน! จริงจังหน่อยสิ!",
+      "PERSIAN": "آه، یومان، جدی!"
+    },
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 34.0
+    }
+  }
+]

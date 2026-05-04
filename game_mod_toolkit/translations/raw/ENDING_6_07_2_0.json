@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "먹을래? / 아아아~~!",
+      "ENGLISH": "Want some? / Ah~~",
+      "CHINESE_SIMPLIFIED": "来一口? / 啊~~",
+      "CHINESE_TRADITIONAL": "來一口? / 啊~~",
+      "JAPANESE": "食べる？ / あ〜ん！",
+      "INDONESIAN": "Mau coba? / Ah~~",
+      "PORTUGUESE": "Quer um pouco? / Ah~~",
+      "RUSSIAN": "Хочешь немного? / Ааа~~",
+      "FRENCH": "Tu en veux ? / Ah~~",
+      "THAI": "เอาบ้างไหม? / อ้า~~"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아아아~~!",
+      "ENGLISH": "Ah~~!",
+      "CHINESE_SIMPLIFIED": "啊~~!",
+      "CHINESE_TRADITIONAL": "啊~~!",
+      "JAPANESE": "あ〜ん！",
+      "INDONESIAN": "Ah~~!",
+      "PORTUGUESE": "Ah~~!",
+      "RUSSIAN": "Ааа~~!",
+      "FRENCH": "Ah~~!",
+      "THAI": "อ้า~~!"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.3
+    }
+  }
+]

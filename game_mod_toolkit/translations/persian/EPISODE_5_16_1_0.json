@@ -1,0 +1,602 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왔어? ",
+      "ENGLISH": "You're here?",
+      "CHINESE_SIMPLIFIED": "你来了?",
+      "CHINESE_TRADITIONAL": "你來了?",
+      "JAPANESE": "やっと、来たのね。",
+      "INDONESIAN": "Kamu di sini?",
+      "PORTUGUESE": "Você está aqui?",
+      "RUSSIAN": "Ты здесь?",
+      "FRENCH": "Tu es là ?",
+      "THAI": "เธอมาถึงแล้วเหรอ?",
+      "PERSIAN": "تو اینجایی؟"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "기다리고 있었어.",
+      "ENGLISH": "I’ve been waiting for you.",
+      "CHINESE_SIMPLIFIED": "我一直在等你",
+      "CHINESE_TRADITIONAL": "我一直在等你",
+      "JAPANESE": "待ってたわ。",
+      "INDONESIAN": "Aku udah nunggu kamu.",
+      "PORTUGUESE": "Eu estava esperando por você.",
+      "RUSSIAN": "Я ждала тебя.",
+      "FRENCH": "Je t’attendais.",
+      "THAI": "ฉันรอเธออยู่เลยนะ",
+      "PERSIAN": "من منتظرت بودم"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네... 하실 말씀이란 게 어떤 거죠?",
+      "ENGLISH": "Yes... What did you want to talk about?",
+      "CHINESE_SIMPLIFIED": "您要说的是什么事?",
+      "CHINESE_TRADITIONAL": "您要說的是什麼事?",
+      "JAPANESE": "はい…話って、何でしょうか？",
+      "INDONESIAN": "Iya... Kamu mau ngomongin apa?",
+      "PORTUGUESE": "Sim... Sobre o que você queria falar?",
+      "RUSSIAN": "Да... О чём ты хотела поговорить?",
+      "FRENCH": "Oui... De quoi voulais-tu parler ?",
+      "THAI": "ใช่... เธออยากคุยเรื่องอะไรเหรอ?",
+      "PERSIAN": "بله... در مورد چه چیزی می خواستید صحبت کنید؟"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 알지?",
+      "ENGLISH": "Yuman, you know that",
+      "CHINESE_SIMPLIFIED": "宥万你应该知道",
+      "CHINESE_TRADITIONAL": "宥萬你應該知道",
+      "JAPANESE": "ユマンさん、分かってるよね？",
+      "INDONESIAN": "Yuman, kamu tahu kan",
+      "PORTUGUESE": "Yuman, você sabe que",
+      "RUSSIAN": "Юман, ты же знаешь, что",
+      "FRENCH": "Yuman, tu sais que",
+      "THAI": "ยูมัน เธอรู้ใช่ไหมว่า",
+      "PERSIAN": "یومان، تو اینو می دانی"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "나 이성보다 감정이 앞서는 거 싫어하는 거.",
+      "ENGLISH": "I prefer rationality over emotions, right?",
+      "CHINESE_SIMPLIFIED": "我以前最讨厌感情用事的人",
+      "CHINESE_TRADITIONAL": "我以前最討厭感情用事的人",
+      "JAPANESE": "私、感情よりも理性を大事にする人間なの。",
+      "INDONESIAN": "Kalau aku lebih suka rasionalitas daripada emosi?",
+      "PORTUGUESE": "Eu prefiro a racionalidade às emoções, né?",
+      "RUSSIAN": "я предпочитаю рациональность эмоциям, верно?",
+      "FRENCH": "je préfère la rationalité aux émotions, non ?",
+      "THAI": "ฉันชอบความเป็นเหตุเป็นผลมากกว่าความรู้สึกน่ะ?",
+      "PERSIAN": "من عقلانیت را بر احساسات ترجیح می دهم، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "알죠.",
+      "ENGLISH": "Yes, I know.",
+      "CHINESE_SIMPLIFIED": "知道",
+      "CHINESE_TRADITIONAL": "知道",
+      "JAPANESE": "はい。",
+      "INDONESIAN": "Iya, aku tahu.",
+      "PORTUGUESE": "Sim, eu sei.",
+      "RUSSIAN": "Да, знаю.",
+      "FRENCH": "Oui, je sais.",
+      "THAI": "ใช่ ฉันรู้",
+      "PERSIAN": "بله، می دانم."
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "유치한 거 싫어하고.",
+      "ENGLISH": "I hate childish things.",
+      "CHINESE_SIMPLIFIED": "我还讨厌幼稚的事",
+      "CHINESE_TRADITIONAL": "我還討厭幼稚的事",
+      "JAPANESE": "子供じみたのも嫌いだし",
+      "INDONESIAN": "Aku benci hal-hal kekanak-kanakan.",
+      "PORTUGUESE": "Eu odeio coisas infantis.",
+      "RUSSIAN": "Я ненавижу детские поступки.",
+      "FRENCH": "Je déteste les choses enfantines.",
+      "THAI": "ฉันไม่ชอบอะไรที่ดูเป็นเด็กๆ",
+      "PERSIAN": "از چیزهای بچگانه متنفرم"
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "또 혼자인 게 좋아.",
+      "ENGLISH": "And I like being alone.",
+      "CHINESE_SIMPLIFIED": "而且我喜欢独处",
+      "CHINESE_TRADITIONAL": "而且我喜歡獨處",
+      "JAPANESE": "一人でいる方が好き。",
+      "INDONESIAN": "Dan aku suka sendirian.",
+      "PORTUGUESE": "E eu gosto de ficar sozinha.",
+      "RUSSIAN": "Мне нравится быть одной.",
+      "FRENCH": "Et j’aime être seule.",
+      "THAI": "และฉันชอบอยู่คนเดียว",
+      "PERSIAN": "و من تنها بودن را دوست دارم"
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "독립이 내 적성이니까.",
+      "ENGLISH": "Independence suits me.",
+      "CHINESE_SIMPLIFIED": "从小性格就比较独立",
+      "CHINESE_TRADITIONAL": "從小性格就比較獨立",
+      "JAPANESE": "なぜなら、私は独立的な性格だから。",
+      "INDONESIAN": "Kemandirian cocok buatku.",
+      "PORTUGUESE": "Independência combina comigo.",
+      "RUSSIAN": "Мне подходит независимость.",
+      "FRENCH": "L’indépendance me va bien.",
+      "THAI": "ความเป็นอิสระเหมาะกับฉันดี",
+      "PERSIAN": "استقلال به من می آید."
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그것도 알죠.",
+      "ENGLISH": "I know that, too.",
+      "CHINESE_SIMPLIFIED": "嗯，我都知道",
+      "CHINESE_TRADITIONAL": "嗯，我都知道",
+      "JAPANESE": "それも知ってます。",
+      "INDONESIAN": "Aku tahu itu juga.",
+      "PORTUGUESE": "Eu sei disso também.",
+      "RUSSIAN": "Это я тоже знаю.",
+      "FRENCH": "Ça, je le sais aussi.",
+      "THAI": "อันนั้นฉันก็รู้เหมือนกัน",
+      "PERSIAN": "من هم اینو می دانم."
+    },
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "남자 같은 거",
+      "ENGLISH": "Men...",
+      "CHINESE_SIMPLIFIED": "男人对我来说",
+      "CHINESE_TRADITIONAL": "男人對我來說",
+      "JAPANESE": "男なんて、",
+      "INDONESIAN": "Pria...",
+      "PORTUGUESE": "Homens...",
+      "RUSSIAN": "Мужчины...",
+      "FRENCH": "Les hommes...",
+      "THAI": "ผู้ชาย...",
+      "PERSIAN": "مردان..."
+    },
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "내가 이루고 싶은 커리어에 비비지도 못할 만큼",
+      "ENGLISH": "They’ve always been such a small part of my life",
+      "CHINESE_SIMPLIFIED": "只是生活中很小的一部分",
+      "CHINESE_TRADITIONAL": "只是生活中很小的一部分",
+      "JAPANESE": "私が目指してるキャリアに比べたら",
+      "INDONESIAN": "Selalu jadi bagian kecil dalam hidupku",
+      "PORTUGUESE": "Sempre foram uma parte pequena da minha vida,",
+      "RUSSIAN": "Они всегда занимали маленькое место в моей жизни,",
+      "FRENCH": "Ils ont toujours occupé une place minuscule dans ma vie,",
+      "THAI": "พวกเขาเป็นแค่ส่วนเล็กๆ ในชีวิตฉัน",
+      "PERSIAN": "اونا همیشه بخش کوچکی از زندگی من بوده اند"
+    },
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "작은 부분이었다고 나한테.",
+      "ENGLISH": "Not worth interfering with my career.",
+      "CHINESE_SIMPLIFIED": "和我的事业根本没法比",
+      "CHINESE_TRADITIONAL": "和我的事業根本沒法比",
+      "JAPANESE": "どうでもいい存在だと思ってたわ。",
+      "INDONESIAN": "Gak layak mengganggu karierku.",
+      "PORTUGUESE": "Sem valer a pena interferir na minha carreira.",
+      "RUSSIAN": "не стоящее того, чтобы мешать моей карьере.",
+      "FRENCH": "indigne de perturber ma carrière.",
+      "THAI": "ไม่คุ้มที่จะมากวนใจในเรื่องงานของฉัน",
+      "PERSIAN": "ارزش دخالت در حرفه ام را ندارد."
+    },
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 31.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "근데 우유만 씨를 만나고",
+      "ENGLISH": "But meeting you, Yuman",
+      "CHINESE_SIMPLIFIED": "但遇到你之后",
+      "CHINESE_TRADITIONAL": "但遇到你之後",
+      "JAPANESE": "でも、ユマンさんに会ってから",
+      "INDONESIAN": "Tapi sejak ketemu kamu, Yuman,",
+      "PORTUGUESE": "Mas, desde que te conheci, Yuman,",
+      "RUSSIAN": "Но встретив тебя, Юман,",
+      "FRENCH": "Mais en te rencontrant, Yuman,",
+      "THAI": "แต่พอได้เจอเธอ ยูมัน",
+      "PERSIAN": "اما ملاقات با تو، یومان"
+    },
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 34.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "자꾸 내 우선순위가 흔들려.",
+      "ENGLISH": "My priorities keep getting shaken.",
+      "CHINESE_SIMPLIFIED": "我的想法总会被你动摇",
+      "CHINESE_TRADITIONAL": "我的想法總會被你動搖",
+      "JAPANESE": "私の優先順位が揺らぐの。",
+      "INDONESIAN": "Prioritasku jadi sering goyah.",
+      "PORTUGUESE": "Minhas prioridades estão sempre se abalando.",
+      "RUSSIAN": "мои приоритеты стали шататься.",
+      "FRENCH": "mes priorités commencent à vaciller.",
+      "THAI": "ลำดับความสำคัญของฉันมันเริ่มสั่นคลอน",
+      "PERSIAN": "اولویت های من مدام متزلزل می شوند."
+    },
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 36.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "난 차가운 이성이 좋은데",
+      "ENGLISH": "I like being logical and rational",
+      "CHINESE_SIMPLIFIED": "我本来是个沉着冷静的人",
+      "CHINESE_TRADITIONAL": "我本來是個沉着冷靜的人",
+      "JAPANESE": "クールな人が好きなのに",
+      "INDONESIAN": "Aku suka berpikir logis dan rasional",
+      "PORTUGUESE": "Eu gosto de ser lógica e racional,",
+      "RUSSIAN": "Мне нравится быть логичной и рациональной,",
+      "FRENCH": "J’aime être logique et rationnelle,",
+      "THAI": "ฉันชอบการใช้เหตุผล",
+      "PERSIAN": "من منطقی و منطقی بودن را دوست دارم"
+    },
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 39.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "너랑 붙어 있으면",
+      "ENGLISH": "But when I'm with you",
+      "CHINESE_SIMPLIFIED": "但和你在一起的时候",
+      "CHINESE_TRADITIONAL": "但和你在一起的時候",
+      "JAPANESE": "あなたと一緒にいると",
+      "INDONESIAN": "Tapi kalau aku sama kamu,",
+      "PORTUGUESE": "Mas quando estou com você,",
+      "RUSSIAN": "но когда я с тобой,",
+      "FRENCH": "mais avec toi,",
+      "THAI": "แต่เวลาอยู่กับเธอ",
+      "PERSIAN": "اما وقتی با تو هستم"
+    },
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 41.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "불처럼 감정적이게 돼.",
+      "ENGLISH": "I become emotional, like a fire.",
+      "CHINESE_SIMPLIFIED": "就变得头脑发热失去理智",
+      "CHINESE_TRADITIONAL": "就變得頭腦發熱失去理智",
+      "JAPANESE": "感情に振り回されている自分がいるの。",
+      "INDONESIAN": "Aku jadi emosional, kayak api.",
+      "PORTUGUESE": "Eu me torno emocional, como fogo.",
+      "RUSSIAN": "я становлюсь эмоциональной, как огонь.",
+      "FRENCH": "je deviens émotionnelle, comme un feu.",
+      "THAI": "ฉันกลับมีอารมณ์เหมือนไฟลุก",
+      "PERSIAN": "احساساتی می شوم، مثل آتش."
+    },
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 44.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "과장님...",
+      "ENGLISH": "Manager...",
+      "CHINESE_SIMPLIFIED": "科长…",
+      "CHINESE_TRADITIONAL": "科長…",
+      "JAPANESE": "課長…",
+      "INDONESIAN": "Manajer...",
+      "PORTUGUESE": "Gerente...",
+      "RUSSIAN": "Менеджер...",
+      "FRENCH": "Manager...",
+      "THAI": "ผู้จัดการ...",
+      "PERSIAN": "مدیر..."
+    },
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 45.4
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "근데 생각보다...",
+      "ENGLISH": "But the problem is",
+      "CHINESE_SIMPLIFIED": "但问题是",
+      "CHINESE_TRADITIONAL": "但問題是",
+      "JAPANESE": "でも、意外とね…",
+      "INDONESIAN": "Tapi masalahnya",
+      "PORTUGUESE": "Mas o problema é",
+      "RUSSIAN": "Но проблема в том,",
+      "FRENCH": "Mais le problème, c’est que",
+      "THAI": "แต่ปัญหาคือ",
+      "PERSIAN": "اما مشکل اینجاست"
+    },
+    "TIME": {
+      "SHOW": 47.5,
+      "HIDE": 48.9
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "이런 내 모습이 싫지 않은 게 문제라고.",
+      "ENGLISH": "I don't hate this side of myself as much as I thought I would.",
+      "CHINESE_SIMPLIFIED": "我并不讨厌这样的自己",
+      "CHINESE_TRADITIONAL": "我並不討厭這樣的自己",
+      "JAPANESE": "そんな自分も悪くないなって思い始めてるのが、問題なんだよ。",
+      "INDONESIAN": "Aku gak benci sisi diriku ini seburuk yang kupikir.",
+      "PORTUGUESE": "Que eu não odeio tanto esse lado meu quanto achei que odiaria.",
+      "RUSSIAN": "что мне это нравится больше, чем я думала.",
+      "FRENCH": "je n’aime pas cette facette de moi-même autant que je l’aurais cru.",
+      "THAI": "ฉันไม่ได้เกลียดด้านนี้ของตัวเองเท่าที่คิดไว้เลย",
+      "PERSIAN": "من آنقدر که فکر می کردم از این طرف خودم متنفر نیستم."
+    },
+    "TIME": {
+      "SHOW": 48.9,
+      "HIDE": 51.7
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "저 근데 너무 갑작스러워서",
+      "ENGLISH": "This is so sudden... ",
+      "CHINESE_SIMPLIFIED": "那个…对我来说有些突然",
+      "CHINESE_TRADITIONAL": "那個…對我來說有些突然",
+      "JAPANESE": "す、すいません、ちょっと突然すぎて…",
+      "INDONESIAN": "Ini tiba-tiba banget...",
+      "PORTUGUESE": "Isso é tão repentino...",
+      "RUSSIAN": "Это так неожиданно...",
+      "FRENCH": "C’est si soudain...",
+      "THAI": "มันกะทันหันมาก...",
+      "PERSIAN": "این خیلی ناگهانی است..."
+    },
+    "TIME": {
+      "SHOW": 52.7,
+      "HIDE": 55.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "시간이 필요할 것 같아요.",
+      "ENGLISH": "I think I need some time to process it.",
+      "CHINESE_SIMPLIFIED": "我需要一些时间来考虑",
+      "CHINESE_TRADITIONAL": "我需要一些時間來考慮",
+      "JAPANESE": "少し時間が必要かもしれません。",
+      "INDONESIAN": "Kayaknya aku butuh waktu buat mencerna semuanya.",
+      "PORTUGUESE": "Acho que preciso de um tempo para processar tudo.",
+      "RUSSIAN": "Мне нужно немного времени, чтобы осознать это.",
+      "FRENCH": "Je pense que j’ai besoin d’un peu de temps pour y réfléchir.",
+      "THAI": "ฉันขอเวลาทำใจหน่อยนะ",
+      "PERSIAN": "فکر می کنم برای پردازش اون به زمان نیاز دارم."
+    },
+    "TIME": {
+      "SHOW": 55.7,
+      "HIDE": 57.6
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "좋아.",
+      "ENGLISH": "Alright. ",
+      "CHINESE_SIMPLIFIED": "可以",
+      "CHINESE_TRADITIONAL": "可以",
+      "JAPANESE": "分かったわ。",
+      "INDONESIAN": "Baiklah.",
+      "PORTUGUESE": "Certo.",
+      "RUSSIAN": "Хорошо.",
+      "FRENCH": "D’accord.",
+      "THAI": "ก็ได้",
+      "PERSIAN": "Alright."
+    },
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 59.1
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "근데 나 참을성 없으니까 너무 오래 끌진 말고.",
+      "ENGLISH": "But I’m not very patient, so don’t take too long.",
+      "CHINESE_SIMPLIFIED": "不过你知道我没什么耐心吧，所以最好别拖太久",
+      "CHINESE_TRADITIONAL": "不過你知道我沒什麼耐心吧，所以最好別拖太久",
+      "JAPANESE": "でも、私、我慢強くないから",
+      "INDONESIAN": "Tapi aku gak terlalu sabaran, jadi jangan lama-lama.",
+      "PORTUGUESE": "Mas eu não sou muito paciente, então não demore.",
+      "RUSSIAN": "Но у меня мало терпения, так что не затягивай.",
+      "FRENCH": "Mais je ne suis pas très patiente, alors ne prends pas trop de temps.",
+      "THAI": "แต่ฉันไม่ค่อยอดทนเท่าไหร่ เพราะงั้นอย่าช้าเกินไปล่ะ",
+      "PERSIAN": "اما من زیاد صبور نیستم، پس زیاد طول نکشید."
+    },
+    "TIME": {
+      "SHOW": 59.3,
+      "HIDE": 62.7
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "네, 저 그럼",
+      "ENGLISH": "Okay",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "あんまり時間をかけないでね。",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Tá bom.",
+      "RUSSIAN": "Хорошо.",
+      "FRENCH": "D’accord.",
+      "THAI": "ตกลง",
+      "PERSIAN": "باشه"
+    },
+    "TIME": {
+      "SHOW": 63.4,
+      "HIDE": 64.5
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "나가볼게요...",
+      "ENGLISH": "I’ll step out for now...",
+      "CHINESE_SIMPLIFIED": "那我先出去了…",
+      "CHINESE_TRADITIONAL": "那我先出去了…",
+      "JAPANESE": "はい…じゃあ、失礼します。",
+      "INDONESIAN": "Aku keluar dulu...",
+      "PORTUGUESE": "Vou sair por enquanto...",
+      "RUSSIAN": "Я пока выйду...",
+      "FRENCH": "Je vais sortir pour le moment...",
+      "THAI": "ฉันจะออกไปก่อนละกัน...",
+      "PERSIAN": "فعلا بیرون میام..."
+    },
+    "TIME": {
+      "SHOW": 64.5,
+      "HIDE": 66.2
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "... 근데 내가 말한 보고서는 다 됐어?",
+      "ENGLISH": "...By the way, is the report I asked for done?",
+      "CHINESE_SIMPLIFIED": "不过…我需要的报告书做好了吗?",
+      "CHINESE_TRADITIONAL": "不過…我需要的報告書做好了嗎?",
+      "JAPANESE": "…そうだ、例の報告書はできたの？",
+      "INDONESIAN": "...Ngomong-ngomong, laporan yang aku minta udah selesai?",
+      "PORTUGUESE": "...A propósito, o relatório que pedi está pronto?",
+      "RUSSIAN": "Кстати, отчёт, который я просила, готов?",
+      "FRENCH": "Au fait, le rapport que je t’ai demandé, il est prêt ?",
+      "THAI": "ว่าแต่ รายงานที่ฉันขอ เธอทำเสร็จแล้วใช่ไหม?",
+      "PERSIAN": "...در ضمن گزارشی که درخواست کردم انجام شده؟"
+    },
+    "TIME": {
+      "SHOW": 66.6,
+      "HIDE": 69.4
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "어, 그 내일 드릴게요...",
+      "ENGLISH": "I’ll have it by tomorrow...",
+      "CHINESE_SIMPLIFIED": "我明天交给您",
+      "CHINESE_TRADITIONAL": "我明天交給您",
+      "JAPANESE": "あ、あれは…明日お渡しします…",
+      "INDONESIAN": "Besok selesai...",
+      "PORTUGUESE": "Vou entregar amanhã...",
+      "RUSSIAN": "Завтра он будет готов...",
+      "FRENCH": "Je l’aurai pour demain...",
+      "THAI": "จะเสร็จพรุ่งนี้แน่นอน...",
+      "PERSIAN": "تا فردا دارمش..."
+    },
+    "TIME": {
+      "SHOW": 70.0,
+      "HIDE": 72.9
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "그러던가.",
+      "ENGLISH": "Make sure you do.",
+      "CHINESE_SIMPLIFIED": "就这样吧",
+      "CHINESE_TRADITIONAL": "就這樣吧",
+      "JAPANESE": "分かったわ。",
+      "INDONESIAN": "Pastikan kamu kerjain.",
+      "PORTUGUESE": "Certifique-se de que faça isso.",
+      "RUSSIAN": "Проследи, чтобы так и было.",
+      "FRENCH": "Assure-toi que ce soit fait.",
+      "THAI": "ต้องเสร็จตามนั้นเลยนะ",
+      "PERSIAN": "مطمئن شوید که انجام می دهید."
+    },
+    "TIME": {
+      "SHOW": 73.4,
+      "HIDE": 74.5
+    }
+  }
+]

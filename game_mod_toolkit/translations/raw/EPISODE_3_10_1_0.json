@@ -1,0 +1,553 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "너 내가 왜 이러는지 알지?",
+      "ENGLISH": "You know why I’m doing this, right?",
+      "CHINESE_SIMPLIFIED": "你知道我为什么要找你谈话吗?",
+      "CHINESE_TRADITIONAL": "你知道我爲什麼要找你談話嗎?",
+      "JAPANESE": "あんた、私が何で怒っているのか分かってるわよね？",
+      "INDONESIAN": "Kamu tahu kenapa aku ngelakuin ini, kan?",
+      "PORTUGUESE": "Você sabe por que eu tô fazendo isso, né?",
+      "RUSSIAN": "Ты же знаешь, зачем я это делаю, да?",
+      "FRENCH": "Tu sais pourquoi je fais ça, hein ?",
+      "THAI": "นายก็รู้ใช่ไหมว่าฉันทำแบบนี้ทำไม?"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "...왜 그러는데?",
+      "ENGLISH": "...Why are you doing this?",
+      "CHINESE_SIMPLIFIED": "…不知道!",
+      "CHINESE_TRADITIONAL": "…不知道!",
+      "JAPANESE": "…何でよ",
+      "INDONESIAN": "...Kenapa kamu ngelakuin ini?",
+      "PORTUGUESE": "...Por que você tá fazendo isso?",
+      "RUSSIAN": "...Почему ты это делаешь?",
+      "FRENCH": "...Pourquoi tu fais ça ?",
+      "THAI": "...ทำไมเธอทำแบบนี้ล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "언니한테도 이야기 안 하고 오면 어떡해!",
+      "ENGLISH": "How could you come back without telling me or even telling mom and dad?",
+      "CHINESE_SIMPLIFIED": "你怎么能不和我说一声就回来呢?",
+      "CHINESE_TRADITIONAL": "你怎麼能不和我說一聲就回來呢?",
+      "JAPANESE": "私に何も言わずに帰って来るなんてどういうことよ！",
+      "INDONESIAN": "Kok kamu bisa balik tanpa bilang sama aku atau bahkan sama mama dan papa?",
+      "PORTUGUESE": "Como você pôde voltar sem avisar pra mim ou mesmo pros nossos pais?",
+      "RUSSIAN": "Как ты могла вернуться, не сказав ни мне, ни даже маме с папой?",
+      "FRENCH": "Comment t’as pu revenir sans me prévenir, ni prévenir papa et maman ?",
+      "THAI": "เธอกลับมาโดยไม่บอกฉัน หรือแม้แต่พ่อแม่ได้ยังไง?"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠는 알아?",
+      "ENGLISH": "Do they know?",
+      "CHINESE_SIMPLIFIED": "爸妈知道吗?",
+      "CHINESE_TRADITIONAL": "爸媽知道嗎?",
+      "JAPANESE": "お母さんとお父さんは知ってるの？",
+      "INDONESIAN": "Mereka tahu nggak?",
+      "PORTUGUESE": "Eles sabem?",
+      "RUSSIAN": "Они знают?",
+      "FRENCH": "Ils le savent ?",
+      "THAI": "พวกเขารู้หรือยัง?"
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그럼, 왜 왔는데.",
+      "ENGLISH": "So why are you here?",
+      "CHINESE_SIMPLIFIED": "所以你到底为什么回来?",
+      "CHINESE_TRADITIONAL": "所以你到底爲什麼回來?",
+      "JAPANESE": "じゃあ、何で帰ってきたのよ。",
+      "INDONESIAN": "Jadi, kenapa kamu di sini?",
+      "PORTUGUESE": "Então, por que você tá aqui?",
+      "RUSSIAN": "Так зачем ты здесь?",
+      "FRENCH": "Alors pourquoi t’es là ?",
+      "THAI": "แล้วเธอมาที่นี่ทำไม?"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 오빠 보러.",
+      "ENGLISH": "To see Yuman oppa.",
+      "CHINESE_SIMPLIFIED": "我回来看吴宥万欧巴",
+      "CHINESE_TRADITIONAL": "我回來看吳宥萬歐巴",
+      "JAPANESE": "ユマンお兄ちゃんに会いたかったから。",
+      "INDONESIAN": "Untuk ketemu Yuman oppa.",
+      "PORTUGUESE": "Pra ver o Yuman oppa.",
+      "RUSSIAN": "Чтобы увидеть Юмана-оппу.",
+      "FRENCH": "Pour voir Oppa Yuman.",
+      "THAI": "ก็มาเจออปป้ายูมันไง."
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "나?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "看我?",
+      "CHINESE_TRADITIONAL": "看我?",
+      "JAPANESE": "俺に？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Eu?",
+      "RUSSIAN": "Меня?",
+      "FRENCH": "Moi ?",
+      "THAI": "ฉันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "언니는 왜 여기 있는데. 친구라며.",
+      "ENGLISH": "Why are you here? You said you were friends.",
+      "CHINESE_SIMPLIFIED": "姐你又为什么会在这?不是说你俩只是朋友吗?",
+      "CHINESE_TRADITIONAL": "姐你又爲什麼會在這?不是說你倆只是朋友嗎?",
+      "JAPANESE": "お姉ちゃんはなんでここにいるの？友達だって言ってたよね。",
+      "INDONESIAN": "Kenapa kamu di sini? Katanya kalian cuma teman.",
+      "PORTUGUESE": "Por que você tá aqui? Vocês disseram que eram só amigos.",
+      "RUSSIAN": "А ты зачем здесь? Вы ведь друзья, ты сама так говорила.",
+      "FRENCH": "Et toi, pourquoi t’es là ? Vous disiez que vous étiez juste amis.",
+      "THAI": "แล้วเธอมาที่นี่ทำไม? เธอบอกว่าเป็นแค่เพื่อนกันนี่."
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나도 여기 같이 살 거야!",
+      "ENGLISH": "I’m going to live here too!",
+      "CHINESE_SIMPLIFIED": "不管我要一起住在这!",
+      "CHINESE_TRADITIONAL": "不管我要一起住在這!",
+      "JAPANESE": "私もここで一緒に住むんだから！",
+      "INDONESIAN": "Aku juga mau tinggal di sini!",
+      "PORTUGUESE": "Eu também vou morar aqui!",
+      "RUSSIAN": "Я тоже собираюсь здесь жить!",
+      "FRENCH": "Moi aussi, je vais vivre ici !",
+      "THAI": "ฉันก็จะมาอยู่ที่นี่เหมือนกัน!"
+    },
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "갑자기 와서 그게 무슨 소리야!",
+      "ENGLISH": "What do you mean by that, just showing up out of nowhere!",
+      "CHINESE_SIMPLIFIED": "你突然跑过来说什么胡话?",
+      "CHINESE_TRADITIONAL": "你突然跑過來說什麼胡話?",
+      "JAPANESE": "急に来て、そんなこと言われても！",
+      "INDONESIAN": "Apa maksudmu, tiba-tiba nongol kayak gini!",
+      "PORTUGUESE": "Como assim, você aparece do nada desse jeito!",
+      "RUSSIAN": "Что значит \"жить\"? Просто так взяла и появилась ниоткуда!",
+      "FRENCH": "Comment ça, vivre ici ? Tu débarques comme ça de nulle part !",
+      "THAI": "หมายความว่ายังไง อยู่ดี ๆ ก็โผล่มาแบบนี้!"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "나 어렸을 때부터 오빠랑 같이 사는 게 꿈이라 그랬잖아!",
+      "ENGLISH": "I’ve told you since I was a kid that my dream was to live with oppa!",
+      "CHINESE_SIMPLIFIED": "小的时候我的梦想就是和哥哥一起住啊!",
+      "CHINESE_TRADITIONAL": "小的時候我的夢想就是和哥哥一起住啊!",
+      "JAPANESE": "私、昔からお兄ちゃんと一緒に住むのが夢だったって言ったでしょ！",
+      "INDONESIAN": "Dari kecil aku udah bilang kalau impianku itu tinggal bareng oppa!",
+      "PORTUGUESE": "Desde criança eu já dizia que meu sonho era morar com o oppa!",
+      "RUSSIAN": "Я же с детства говорила, что моя мечта — жить с оппой!",
+      "FRENCH": "Depuis que je suis petite, je dis que mon rêve, c’est de vivre avec Oppa !",
+      "THAI": "ฉันบอกตั้งแต่เด็กแล้วว่าฝันอยากอยู่กับอปป้า!"
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "그게 언제 적인데. 너 지금 성인이잖아!",
+      "ENGLISH": "That was ages ago. You’re an adult now!",
+      "CHINESE_SIMPLIFIED": "那是小时候，你现在已经是成年人了!",
+      "CHINESE_TRADITIONAL": "那是小時候，你現在已經是成年人了!",
+      "JAPANESE": "それ、いつの話だよ。今、もう大人なんだから！",
+      "INDONESIAN": "Itu udah lama banget. Sekarang kamu udah dewasa!",
+      "PORTUGUESE": "Isso foi há muito tempo. Agora você é adulta!",
+      "RUSSIAN": "Это было сто лет назад! Ты теперь взрослая!",
+      "FRENCH": "C’était y a des années ! Maintenant t’es adulte !",
+      "THAI": "นั่นมันนานมาแล้วนะ ตอนนี้เธอโตแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 30.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "맞아~ 나 성인이야!",
+      "ENGLISH": "Exactly~ I’m an adult!",
+      "CHINESE_SIMPLIFIED": "没错!我现在是成年人!",
+      "CHINESE_TRADITIONAL": "沒錯!我現在是成年人!",
+      "JAPANESE": "そうだよ～私はもう大人だもん！",
+      "INDONESIAN": "Persis~ Aku udah dewasa!",
+      "PORTUGUESE": "Exatamente~ Eu sou adulta!",
+      "RUSSIAN": "Вот именно~ Я теперь взрослая!",
+      "FRENCH": "Exactement~ Maintenant, je suis adulte !",
+      "THAI": "ใช่เลย~ ตอนนี้ฉันเป็นผู้ใหญ่แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나 이제 언니보다 가슴도 크고 엉덩이도 커!",
+      "ENGLISH": "I’m bigger than you now, both in chest and butt!",
+      "CHINESE_SIMPLIFIED": "我现在胸比你还挺，屁股比你还翘!",
+      "CHINESE_TRADITIONAL": "我現在胸比你還挺，屁股比你還翹!",
+      "JAPANESE": "今はもう、お姉ちゃんより胸も大きいし、ヒップも大きいんだから！",
+      "INDONESIAN": "Sekarang aku lebih gede dari kamu, baik di dada maupun bokong!",
+      "PORTUGUESE": "Agora eu sou maior que você, tanto no peito quanto no bumbum!",
+      "RUSSIAN": "Я уже больше тебя — и в груди, и в попе!",
+      "FRENCH": "J’ai même plus de seins et de fesses que toi !",
+      "THAI": "หน้าอกกับสะโพกฉันใหญ่กว่าของเธอด้วย!"
+    },
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비!!! 너 진짜 죽을래?",
+      "ENGLISH": "Hey, Go Eunbi!!! Do you want to die?",
+      "CHINESE_SIMPLIFIED": "喂!高恩妃!我看你是活腻了!",
+      "CHINESE_TRADITIONAL": "喂!高恩妃!我看你是活膩了!",
+      "JAPANESE": "ちょっと、あんた！！！",
+      "INDONESIAN": "Hei, Go Eun-bi!!! Mau mati, ya?!",
+      "PORTUGUESE": "Ei, Go Eun-bi!!! Quer morrer, é?!",
+      "RUSSIAN": "Эй, Го Ынби!!! Ты жить надоела?!",
+      "FRENCH": "Hé, Go Eunbi !!! Tu veux mourir ou quoi ?!",
+      "THAI": "เฮ้! โก อึนบี!!! อยากตายรึไง?!"
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.4
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "둘이 간만에 보는데 싸우지 말고...",
+      "ENGLISH": "Hey, don’t fight when you haven’t seen each other in so long...",
+      "CHINESE_SIMPLIFIED": "这么久没见你俩就别吵了…",
+      "CHINESE_TRADITIONAL": "這麼久沒見你倆就別吵了…",
+      "JAPANESE": "二人とも久しぶりに会ったんだから、ケンカするなよ…",
+      "INDONESIAN": "Hei, jangan ribut gitu, kan kalian udah lama nggak ketemu...",
+      "PORTUGUESE": "Ei, não briguem, vocês não se viam fazia tanto tempo...",
+      "RUSSIAN": "Эй, не ссорьтесь, вы ведь давно не виделись...",
+      "FRENCH": "Hé, vous venez de vous retrouver, alors arrêtez de vous battre...",
+      "THAI": "พอเลย พวกเธอเพิ่งได้เจอกัน อย่าทะเลาะกันสิ..."
+    },
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 38.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么?",
+      "CHINESE_TRADITIONAL": "怎麼?",
+      "JAPANESE": "何で？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 40.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "간만에 은비 보니까 여자로 느껴져?",
+      "ENGLISH": "Do you see Eunbi as a woman now that it’s been a while?",
+      "CHINESE_SIMPLIFIED": "这么久没见，她现在对你来说是个女人了?",
+      "CHINESE_TRADITIONAL": "這麼久沒見，她現在對你來說是個女人了?",
+      "JAPANESE": "久しぶりにウンビ見たら、女っぽくなった？",
+      "INDONESIAN": "Apa sekarang kamu lihat Eun-bi sebagai wanita karena udah lama nggak ketemu?",
+      "PORTUGUESE": "Agora você tá vendo a Eun-bi como mulher porque faz tempo que não se encontram?",
+      "RUSSIAN": "Ты видишь в Ынби женщину теперь, когда столько времени прошло?",
+      "FRENCH": "Tu commences à voir Eunbi comme une femme maintenant que ça fait un moment ?",
+      "THAI": "หรือว่านายมองอึนบีเป็นผู้หญิงหลังจากไม่ได้เจอกันนาน?"
+    },
+    "TIME": {
+      "SHOW": 40.4,
+      "HIDE": 42.7
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아니 그런 게 아니고....",
+      "ENGLISH": "No, it’s not like that...",
+      "CHINESE_SIMPLIFIED": "我不是那个意思…",
+      "CHINESE_TRADITIONAL": "我不是那個意思…",
+      "JAPANESE": "いや、そういうわけじゃなくて…",
+      "INDONESIAN": "Bukan gitu maksudnya...",
+      "PORTUGUESE": "Não é bem isso...",
+      "RUSSIAN": "Нет, это не так...",
+      "FRENCH": "Non, c’est pas ça...",
+      "THAI": "ไม่ใช่แบบนั้น..."
+    },
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 44.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "넌 그리고 우유만이 왜 아직도 좋아?",
+      "ENGLISH": "And why do you still like Yuman?",
+      "CHINESE_SIMPLIFIED": "还有，你怎么到现在还喜欢宥万啊?",
+      "CHINESE_TRADITIONAL": "還有，你怎麼到現在還喜歡宥萬啊?",
+      "JAPANESE": "あんた、何でまだユマンのことが好きなのよ。",
+      "INDONESIAN": "Terus, kenapa kamu masih suka sama Yuman?",
+      "PORTUGUESE": "Então por que você ainda gosta do Yuman?",
+      "RUSSIAN": "И почему ты всё ещё любишь Юмана?",
+      "FRENCH": "Et pourquoi t’aimes toujours Yuman ?",
+      "THAI": "แล้วทำไมเธอยังชอบยูมันอยู่?"
+    },
+    "TIME": {
+      "SHOW": 44.0,
+      "HIDE": 46.9
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "얘 얼굴을 봐.",
+      "ENGLISH": "Look at his face.",
+      "CHINESE_SIMPLIFIED": "你看看这张脸",
+      "CHINESE_TRADITIONAL": "你看看這張臉",
+      "JAPANESE": "こいつの顔、見てみなよ。",
+      "INDONESIAN": "Liat deh mukanya.",
+      "PORTUGUESE": "Olha pra cara dele.",
+      "RUSSIAN": "Посмотри на его лицо.",
+      "FRENCH": "Regarde son visage.",
+      "THAI": "ดูหน้าหมอนั่นสิ."
+    },
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 48.1
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "완전 엉망진창이잖아!",
+      "ENGLISH": "It’s a total mess!",
+      "CHINESE_SIMPLIFIED": "长得乱七八糟的!",
+      "CHINESE_TRADITIONAL": "長得亂七八糟的!",
+      "JAPANESE": "ブサイクじゃん！",
+      "INDONESIAN": "Berantakan banget!",
+      "PORTUGUESE": "Tá toda bagunçada!",
+      "RUSSIAN": "У него же полный бардак!",
+      "FRENCH": "C’est une vraie catastrophe !",
+      "THAI": "เละเทะไปหมด!"
+    },
+    "TIME": {
+      "SHOW": 48.1,
+      "HIDE": 49.9
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "좋아! 못생긴 게 귀엽잖아!",
+      "ENGLISH": "I like it! His scruffy look is cute!",
+      "CHINESE_SIMPLIFIED": "那我也喜欢!丑丑的才可爱",
+      "CHINESE_TRADITIONAL": "那我也喜歡!醜醜的纔可愛",
+      "JAPANESE": "それがいいの！可愛いんじゃん！",
+      "INDONESIAN": "Aku suka! Tampangnya yang awut-awutan itu imut!",
+      "PORTUGUESE": "Eu gosto! Esse jeitinho largado dele é fofo!",
+      "RUSSIAN": "Мне нравится! Он милый с этой небритостью!",
+      "FRENCH": "Moi, j’aime bien ! Son côté négligé est mignon !",
+      "THAI": "แต่ฉันชอบนะ! ลุคเซอร์ ๆ ของเขาน่ารักดี!"
+    },
+    "TIME": {
+      "SHOW": 49.9,
+      "HIDE": 51.6
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "내가 언니보다 오빠에 대해 더 많이 알걸!",
+      "ENGLISH": "I bet I know more about oppa than you do!",
+      "CHINESE_SIMPLIFIED": "而且我比你更了解宥万哥哥!",
+      "CHINESE_TRADITIONAL": "而且我比你更瞭解宥萬哥哥!",
+      "JAPANESE": "私、お姉ちゃんよりお兄ちゃんのこと、詳しいんだから！",
+      "INDONESIAN": "Aku yakin aku lebih tahu soal oppa daripada kamu!",
+      "PORTUGUESE": "Aposto que eu sei mais sobre o oppa do que você!",
+      "RUSSIAN": "Я уверена, что знаю об оппе больше, чем ты!",
+      "FRENCH": "Je parie que je connais Oppa mieux que toi !",
+      "THAI": "ฉันรู้จักอปป้ามากกว่าเธอแน่นอน!"
+    },
+    "TIME": {
+      "SHOW": 52.6,
+      "HIDE": 54.7
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "오빠도 언니보다 나에 대해 더 많이 알 거야.",
+      "ENGLISH": "And oppa knows more about me than he does about you.",
+      "CHINESE_SIMPLIFIED": "哥哥也比你更了解我",
+      "CHINESE_TRADITIONAL": "哥哥也比你更瞭解我",
+      "JAPANESE": "お兄ちゃんだって、お姉ちゃんより私のこと、詳しいわよね？",
+      "INDONESIAN": "Dan oppa juga lebih tahu tentang aku daripada tentang kamu.",
+      "PORTUGUESE": "E o oppa sabe mais sobre mim do que sobre você.",
+      "RUSSIAN": "И оппа знает обо мне больше, чем о тебе.",
+      "FRENCH": "Et Oppa me connaît mieux que toi.",
+      "THAI": "แล้วอปป้าก็รู้จักฉันดีกว่าเธอด้วย."
+    },
+    "TIME": {
+      "SHOW": 54.7,
+      "HIDE": 57.1
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!"
+    },
+    "TIME": {
+      "SHOW": 57.1,
+      "HIDE": 57.9
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 맨날 어렸을 때",
+      "ENGLISH": "Remember how you always teased me",
+      "CHINESE_SIMPLIFIED": "你还记得小时候",
+      "CHINESE_TRADITIONAL": "你還記得小時候",
+      "JAPANESE": "子供の頃、いつも",
+      "INDONESIAN": "Ingat nggak dulu kamu sering ngeledek aku",
+      "PORTUGUESE": "Lembra de como você sempre me zoava",
+      "RUSSIAN": "Помнишь, как ты дразнил меня в детстве",
+      "FRENCH": "Tu te souviens quand tu te moquais de moi",
+      "THAI": "จำได้ไหมว่านายเคยล้อฉันเรื่อง"
+    },
+    "TIME": {
+      "SHOW": 57.9,
+      "HIDE": 59.2
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "내 점 가지고 놀린 거 기억나지?",
+      "ENGLISH": "About my mole when we were kids?",
+      "CHINESE_SIMPLIFIED": "你总拿我的痣开玩笑吗?",
+      "CHINESE_TRADITIONAL": "你總拿我的痣開玩笑嗎?",
+      "JAPANESE": "私のホクロのこと、からかってたの覚えてるでしょ？",
+      "INDONESIAN": "Soal tahi lalatku waktu kita kecil?",
+      "PORTUGUESE": "Por causa da minha pinta quando a gente era criança?",
+      "RUSSIAN": "из-за моей родинки?",
+      "FRENCH": "à cause de mon grain de beauté quand on était petits ?",
+      "THAI": "ไฝของฉันตอนเด็ก ๆ?"
+    },
+    "TIME": {
+      "SHOW": 59.2,
+      "HIDE": 61.05
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "그거 어디에 있는 점인지 기억나?",
+      "ENGLISH": "Do you remember where it is?",
+      "CHINESE_SIMPLIFIED": "那个痣在哪你还记得吗?",
+      "CHINESE_TRADITIONAL": "那個痣在哪你還記得嗎?",
+      "JAPANESE": "そのホクロ、どこにあるのか覚えてる？",
+      "INDONESIAN": "Kamu masih ingat di mana tahi lalat itu?",
+      "PORTUGUESE": "Você ainda lembra onde ela fica?",
+      "RUSSIAN": "Помнишь, где она?",
+      "FRENCH": "Tu te rappelles où il est ?",
+      "THAI": "นายจำได้ไหมว่าไฝฉันอยู่ตรงไหน?"
+    },
+    "TIME": {
+      "SHOW": 61.1,
+      "HIDE": 63.0
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "호우~",
+      "ENGLISH": "Wow~",
+      "CHINESE_SIMPLIFIED": "哦吼~",
+      "CHINESE_TRADITIONAL": "哦吼~",
+      "JAPANESE": "おお〜",
+      "INDONESIAN": "Wah~",
+      "PORTUGUESE": "Uau~",
+      "RUSSIAN": "Ух ты~",
+      "FRENCH": "Waouh~",
+      "THAI": "ว้าว~",
+      "PERSIAN": "عجب ~"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 좀 신나 보이는군.",
+      "ENGLISH": "You seem pretty excited today.",
+      "CHINESE_SIMPLIFIED": "你今天心情不错嘛",
+      "CHINESE_TRADITIONAL": "你今天心情不錯嘛",
+      "JAPANESE": "今日は何だ、テンションが高いね。",
+      "INDONESIAN": "Kamu kelihatan bersemangat banget hari ini.",
+      "PORTUGUESE": "Você parece bem animado hoje.",
+      "RUSSIAN": "Ты сегодня такой воодушевлённый.",
+      "FRENCH": "Tu as l’air sacrément excité aujourd’hui.",
+      "THAI": "วันนี้ดูจะตื่นเต้นเป็นพิเศษนะครับ",
+      "PERSIAN": "امروز خیلی هیجان زده به نظر می رسید."
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.5
+    }
+  }
+]

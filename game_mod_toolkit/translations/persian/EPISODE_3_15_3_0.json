@@ -1,0 +1,381 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "덕분에 전 남친도 보고",
+      "ENGLISH": "Thanks for the lovely surprise visit from my ex-boyfriend.",
+      "CHINESE_SIMPLIFIED": "托你的福还碰到了前男友",
+      "CHINESE_TRADITIONAL": "託你的福還碰到了前男友",
+      "JAPANESE": "おかげで元カレにも会って、",
+      "INDONESIAN": "Terima kasih atas kunjungan kejutan manis dari mantan pacarku.",
+      "PORTUGUESE": "Obrigada pela adorável visita surpresa do meu ex-namorado.",
+      "RUSSIAN": "Спасибо за такой чудесный визит от моего бывшего парня.",
+      "FRENCH": "Merci pour la charmante visite surprise de mon ex-petit ami.",
+      "THAI": "ขอบคุณสำหรับเซอร์ไพรส์จากแฟนเก่า.",
+      "PERSIAN": "از بازدید شگفت انگیز دوست پسر سابقم ممنونم."
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아주 고마워 우유만 씨?",
+      "ENGLISH": "Thank you Yuman?",
+      "CHINESE_SIMPLIFIED": "我可真该谢谢你啊，吴宥万",
+      "CHINESE_TRADITIONAL": "我可真該謝謝你啊，吳宥萬",
+      "JAPANESE": "本当にありがとうね、ユマンさん？",
+      "INDONESIAN": "Makasih, Yuman?",
+      "PORTUGUESE": "Obrigado, Yuman?",
+      "RUSSIAN": "Спасибо, Юман?",
+      "FRENCH": "Merci, Yuman ?",
+      "THAI": "ขอบคุณนะ ยูมัน?",
+      "PERSIAN": "ممنون یومان؟"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "(유만의 힘주는 소리)",
+      "ENGLISH": "(a laborious voice of Yuman)",
+      "CHINESE_SIMPLIFIED": "(宥万使劲的声音)",
+      "CHINESE_TRADITIONAL": "(宥萬使勁的聲音)",
+      "JAPANESE": "（ユマンの力を入れる音）",
+      "INDONESIAN": "(Yuman dengan suara lelah)",
+      "PORTUGUESE": "(Yuman com uma voz cansada)",
+      "RUSSIAN": "(утомлённый голос Юмана)",
+      "FRENCH": "(voix laborieuse de Yuman)",
+      "THAI": "(เสียงเหนื่อยล้าของยูมัน)",
+      "PERSIAN": "(صدای پر زحمت یومان)"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 11.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "呀!",
+      "CHINESE_TRADITIONAL": "呀!",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!",
+      "PERSIAN": "Hey!"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "에?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "넌 그거 안전벨트도 혼자 못 매?",
+      "ENGLISH": "Can’t you even buckle your seatbelt by yourself? ",
+      "CHINESE_SIMPLIFIED": "怎么连安全带都不会系啊?",
+      "CHINESE_TRADITIONAL": "怎麼連安全帶都不會系啊?",
+      "JAPANESE": "あんた、シートベルトもひとりでできないの？",
+      "INDONESIAN": "Kamu bahkan nggak bisa pasang sabuk pengaman sendiri?",
+      "PORTUGUESE": "Você nem consegue colocar o cinto de segurança sozinho?",
+      "RUSSIAN": "Ты что, даже не можешь застегнуть ремень сама?",
+      "FRENCH": "Tu peux même pas attacher ta ceinture toute seule ?",
+      "THAI": "แม้แต่คาดเข็มขัดเองก็ทำไม่ได้เหรอ?",
+      "PERSIAN": "حتی نمی توانید کمربند ایمنی خود را به تنهایی ببندید؟"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아씨...",
+      "ENGLISH": "Ugh...",
+      "CHINESE_SIMPLIFIED": "啊西...",
+      "CHINESE_TRADITIONAL": "啊西...",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Ugh...",
+      "PORTUGUESE": "Ugh...",
+      "RUSSIAN": "Уф...",
+      "FRENCH": "Pff...",
+      "THAI": "อืม...",
+      "PERSIAN": "Ugh..."
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "哎?",
+      "CHINESE_TRADITIONAL": "哎?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Uh?",
+      "PORTUGUESE": "Uh?",
+      "RUSSIAN": "Эм?",
+      "FRENCH": "Euh ?",
+      "THAI": "เอ่อ?",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "ENGLISH": "[Mal-sook: Grab some drinks on your way! We’re throwing a party to celebrate Eun-bi coming over.]",
+      "CHINESE_SIMPLIFIED": "[高末淑:买点酒来！今晚是恩妃的欢迎派对]",
+      "CHINESE_TRADITIONAL": "[高末淑:買點酒來！今晚是恩妃的歡迎派對]",
+      "JAPANESE": "[マルスク：後でワインを買ってきて！ウンビ帰国のお祝いパーティーしようと思って。]",
+      "INDONESIAN": "[Mal-sook: Ambil minuman di jalan! Kita pesta buat ngerayain kedatangan Eun-bi.]",
+      "PORTUGUESE": "[Mal-sook: Pega umas bebidas no caminho! Vamos fazer uma festa pra comemorar a chegada da Eun-bi.]",
+      "RUSSIAN": "[Мал-Сук: Купи напитков по дороге! У нас вечеринка в честь приезда Ынби.]",
+      "FRENCH": "[Mal-sook : Prenez des boissons en venant ! On fait une fête pour l’arrivée d’Eunbi.]",
+      "THAI": "[มัลซุก: ซื้อเครื่องดื่มมาด้วย! เราจะจัดปาร์ตี้ต้อนรับอึนบี.]",
+      "PERSIAN": "[مال‌سوک: در راهت مقداری نوشیدنی بخور! ما برای جشن آمدن یون بی جشنی ترتیب می دهیم.]"
+    },
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 25.97
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오늘... 아까 은비 온 기념으로 술 파티하자는데 괜찮아요?",
+      "ENGLISH": "The others want to have a drinking party to celebrate Eun-bi's arrival. Is that okay with you?",
+      "CHINESE_SIMPLIFIED": "为了庆祝恩妃入住, 今晚要开个欢迎派对, ok吗？",
+      "CHINESE_TRADITIONAL": "爲了慶祝恩妃入住, 今晚要開個歡迎派對, ok嗎？",
+      "JAPANESE": "今日…ウンビの帰国パーティーしようってなってるんですけど、大丈夫ですか？",
+      "INDONESIAN": "Yang lain mau adain pesta minum buat sambut kedatangan Eun-bi. Kamu oke?",
+      "PORTUGUESE": "O pessoal quer fazer uma festa de boas-vindas pra Eun-bi. Tá tudo bem pra você?",
+      "RUSSIAN": "Другие хотят устроить вечеринку с выпивкой, чтобы отпраздновать приезд Ынби. Ты не против?",
+      "FRENCH": "Les autres veulent faire une soirée pour fêter l’arrivée d’Eunbi. Ça te va ?",
+      "THAI": "พวกคนอื่นอยากจัดปาร์ตี้ฉลองที่อึนบีย้ายมา นายโอเคไหม?",
+      "PERSIAN": "بقیه می خواهند برای جشن ورود یون بی یک مهمانی نوشیدنی برگزار کنند. برای شما اشکالی ندارد؟"
+    },
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 30.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "타이밍 좋네...",
+      "ENGLISH": "Perfect timing...",
+      "CHINESE_SIMPLIFIED": "那正好",
+      "CHINESE_TRADITIONAL": "那正好",
+      "JAPANESE": "ちょうどいいタイミングだね…",
+      "INDONESIAN": "Pas banget...",
+      "PORTUGUESE": "Perfeito...",
+      "RUSSIAN": "В самый раз...",
+      "FRENCH": "Parfait...",
+      "THAI": "พอดีเลย...",
+      "PERSIAN": "زمان بندی عالی ..."
+    },
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "나도 오늘 좀 마시고 싶었는데.",
+      "ENGLISH": "I wanted to drink too.",
+      "CHINESE_SIMPLIFIED": "刚好我也想喝酒",
+      "CHINESE_TRADITIONAL": "剛好我也想喝酒",
+      "JAPANESE": "私も今日はちょっと飲みたい気分だったんだよね。",
+      "INDONESIAN": "Aku juga lagi pengen minum.",
+      "PORTUGUESE": "Eu também tava querendo beber.",
+      "RUSSIAN": "Я тоже хотела выпить.",
+      "FRENCH": "J’avais envie de boire aussi.",
+      "THAI": "ฉันก็อยากดื่มเหมือนกัน.",
+      "PERSIAN": "من هم می خواستم مشروب بخورم."
+    },
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 33.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "너도 먹을 거지?",
+      "ENGLISH": "You’ll join, right?",
+      "CHINESE_SIMPLIFIED": "你也会参加的吧?",
+      "CHINESE_TRADITIONAL": "你也會參加的吧?",
+      "JAPANESE": "あんたも飲むんだろ？",
+      "INDONESIAN": "Kamu ikut, kan?",
+      "PORTUGUESE": "Você vai participar, né?",
+      "RUSSIAN": "Ты же присоединишься, да?",
+      "FRENCH": "Tu viens, hein ?",
+      "THAI": "นายต้องมานะ, ใช่ไหม?",
+      "PERSIAN": "شما ملحق خواهید شد، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.1
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "당연하죠!",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然了!",
+      "CHINESE_TRADITIONAL": "當然了!",
+      "JAPANESE": "もちろんですよ！",
+      "INDONESIAN": "Tentu!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "แน่นอน!",
+      "PERSIAN": "الـ... البته که میشه!"
+    },
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "들어갈 때 사 가자 그럼.",
+      "ENGLISH": "We’ll grab something on the way in, then.",
+      "CHINESE_SIMPLIFIED": "那我们回去就顺便把酒买了吧",
+      "CHINESE_TRADITIONAL": "那我們回去就順便把酒買了吧",
+      "JAPANESE": "じゃあ、お酒は帰るときに買っていきましょう。",
+      "INDONESIAN": "Kita beli sesuatu di jalan aja.",
+      "PORTUGUESE": "Vamos pegar alguma coisa no caminho.",
+      "RUSSIAN": "Захватим что-нибудь по дороге.",
+      "FRENCH": "On prend quelque chose en route alors.",
+      "THAI": "งั้นแวะซื้อของระหว่างทางด้วยกัน.",
+      "PERSIAN": "پس از اون، در مسیر ورود، چیزی می گیریم."
+    },
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 38.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 가면서 밀크걸스 노래 틀어도 되죠?",
+      "ENGLISH": "Can we play Milk Girls' songs on the way?",
+      "CHINESE_SIMPLIFIED": "回去的路上我能放牛奶少女的歌听吗?",
+      "CHINESE_TRADITIONAL": "回去的路上我能放牛奶少女的歌聽嗎?",
+      "JAPANESE": "あの、ミルクガールズの曲流してもいいですか？",
+      "INDONESIAN": "Boleh nggak kita putar lagu Milk Girls di jalan?",
+      "PORTUGUESE": "Podemos tocar músicas das Milk Girls no caminho?",
+      "RUSSIAN": "Можно включить песни Milk Girls по пути?",
+      "FRENCH": "On peut écouter les chansons de Milk Girls en chemin ?",
+      "THAI": "เปิดเพลงของ Milk Girls ระหว่างไปได้ไหม?",
+      "PERSIAN": "می توانیم آهنگ های Milk Girls را در راه پخش کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 41.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아 그 하숙생?",
+      "ENGLISH": "Oh, that boarder?",
+      "CHINESE_SIMPLIFIED": "啊~那个敏敏?",
+      "CHINESE_TRADITIONAL": "啊~那個敏敏?",
+      "JAPANESE": "ああ、あの下宿生？",
+      "INDONESIAN": "Oh, si anak kost itu?",
+      "PORTUGUESE": "Ah, a hóspede?",
+      "RUSSIAN": "Этот жилец?",
+      "FRENCH": "Cet occupant ?",
+      "THAI": "คนที่พักที่นี่น่ะเหรอ?",
+      "PERSIAN": "اوه، اون مرزی؟"
+    },
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 43.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "틀던가~",
+      "ENGLISH": "Go ahead.",
+      "CHINESE_SIMPLIFIED": "放呗~",
+      "CHINESE_TRADITIONAL": "放唄~",
+      "JAPANESE": "流せば？",
+      "INDONESIAN": "Silakan.",
+      "PORTUGUESE": "Vai em frente.",
+      "RUSSIAN": "Включай.",
+      "FRENCH": "Vas-y.",
+      "THAI": "เปิดเลย.",
+      "PERSIAN": "برو جلو."
+    },
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 44.6
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아싸...!",
+      "ENGLISH": "Sweet...!",
+      "CHINESE_SIMPLIFIED": "太好了…!",
+      "CHINESE_TRADITIONAL": "太好了…!",
+      "JAPANESE": "やった…！",
+      "INDONESIAN": "Asik...!",
+      "PORTUGUESE": "Massa...!",
+      "RUSSIAN": "Отлично...!",
+      "FRENCH": "Génial... !",
+      "THAI": "ดีสุด ๆ...!",
+      "PERSIAN": "شیرین...!"
+    },
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 46.2
+    }
+  }
+]

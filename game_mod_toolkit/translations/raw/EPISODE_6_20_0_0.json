@@ -1,0 +1,268 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얼마나 마신 거야...",
+      "ENGLISH": "How much did you drink...",
+      "CHINESE_SIMPLIFIED": "你到底喝了多少…",
+      "CHINESE_TRADITIONAL": "你到底喝了多少…",
+      "JAPANESE": "どれくらい飲んだんだ…？",
+      "INDONESIAN": "Kamu minum berapa banyak, sih…",
+      "PORTUGUESE": "Quanto você bebeu...?",
+      "RUSSIAN": "Сколько ты выпила...",
+      "FRENCH": "Combien t’as bu...",
+      "THAI": "เธอดื่มไปเท่าไหร่เนี่ย..."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "캬~",
+      "ENGLISH": "Gulp~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "くぅ〜！",
+      "INDONESIAN": "Glek~",
+      "PORTUGUESE": "Gole~",
+      "RUSSIAN": "Глоток~",
+      "FRENCH": "Gulp~",
+      "THAI": "ซด~"
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "집 앞에 수상한 사람 돌아다녀서 위험하다고 했잖아.",
+      "ENGLISH": "I told you it’s dangerous to walk around alone at night.",
+      "CHINESE_SIMPLIFIED": "我不是说过家附近有可疑的人在转悠，很危险吗",
+      "CHINESE_TRADITIONAL": "我不是說過家附近有可疑的人在轉悠，很危險嗎",
+      "JAPANESE": "家の前で怪しい人がウロウロしてて危ないって言っただろ。",
+      "INDONESIAN": "Aku sudah bilang, bahaya kalau jalan sendirian malam-malam.",
+      "PORTUGUESE": "Eu já te disse que é perigoso andar sozinha à noite.",
+      "RUSSIAN": "Я же говорила, что опасно гулять одной ночью.",
+      "FRENCH": "Je t’avais dit que c’était dangereux de marcher seule la nuit.",
+      "THAI": "ฉันบอกแล้วว่าอันตรายที่จะเดินคนเดียวตอนกลางคืน"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 오빠 불렀지!",
+      "ENGLISH": "That's why I called you!",
+      "CHINESE_SIMPLIFIED": "所以我这不是叫哥哥来了嘛!",
+      "CHINESE_TRADITIONAL": "所以我這不是叫哥哥來了嘛!",
+      "JAPANESE": "だから、を呼んだんじゃん！",
+      "INDONESIAN": "Makanya aku panggil kamu!",
+      "PORTUGUESE": "Por isso que eu te chamei!",
+      "RUSSIAN": "Вот почему я тебя позвала!",
+      "FRENCH": "C’est pour ça que je t’ai appelée !",
+      "THAI": "เพราะงั้นฉันถึงเรียกเธอมาไง!"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "나 안 왔으면?",
+      "ENGLISH": "What if I didn’t come?",
+      "CHINESE_SIMPLIFIED": "我要是没来呢?",
+      "CHINESE_TRADITIONAL": "我要是沒來呢?",
+      "JAPANESE": "俺が来なかったら？",
+      "INDONESIAN": "Kalau aku nggak datang?",
+      "PORTUGUESE": "E se eu não viesse?",
+      "RUSSIAN": "А что если бы я не пришёл?",
+      "FRENCH": "Et si je n’étais pas venu ?",
+      "THAI": "แล้วถ้าฉันไม่มา?"
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 안 왔으면..",
+      "ENGLISH": "If you didn’t come...",
+      "CHINESE_SIMPLIFIED": "没来的话…",
+      "CHINESE_TRADITIONAL": "沒來的話…",
+      "JAPANESE": "来なかったら…",
+      "INDONESIAN": "Kalau kamu nggak datang…",
+      "PORTUGUESE": "Se você não viesse...",
+      "RUSSIAN": "Если бы ты не пришёл...",
+      "FRENCH": "Si tu n’étais pas venu...",
+      "THAI": "ถ้าเธอไม่มา..."
+    },
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 불러야지!",
+      "ENGLISH": "I’d call you again!",
+      "CHINESE_SIMPLIFIED": "就再叫哥哥来呗~",
+      "CHINESE_TRADITIONAL": "就再叫哥哥來唄~",
+      "JAPANESE": "呼ぶしかないでしょ！",
+      "INDONESIAN": "Aku telepon kamu lagi!",
+      "PORTUGUESE": "Eu te ligaria de novo!",
+      "RUSSIAN": "Я бы позвонила тебе снова!",
+      "FRENCH": "Je t’aurais rappelé !",
+      "THAI": "ฉันจะโทรหาเธออีก!"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그래도 안 왔으면?",
+      "ENGLISH": "And if I still didn’t come?",
+      "CHINESE_SIMPLIFIED": "我要是还不来呢?",
+      "CHINESE_TRADITIONAL": "我要是還不來呢?",
+      "JAPANESE": "それでも来なかったら？",
+      "INDONESIAN": "Dan kalau aku tetap nggak datang?",
+      "PORTUGUESE": "E se eu ainda assim não viesse?",
+      "RUSSIAN": "А если бы я всё равно не пришёл?",
+      "FRENCH": "Et si je n’étais toujours pas venu ?",
+      "THAI": "แล้วถ้าฉันยังไม่มาอีกล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그러면...",
+      "ENGLISH": "Then...",
+      "CHINESE_SIMPLIFIED": "那就…",
+      "CHINESE_TRADITIONAL": "那就…",
+      "JAPANESE": "そしたら…",
+      "INDONESIAN": "Kalau gitu…",
+      "PORTUGUESE": "Então...",
+      "RUSSIAN": "Тогда...",
+      "FRENCH": "Alors...",
+      "THAI": "งั้น..."
+    },
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 불러야지!",
+      "ENGLISH": "I'd call you again!",
+      "CHINESE_SIMPLIFIED": "那就接着叫哥哥来呗~",
+      "CHINESE_TRADITIONAL": "那就接着叫哥哥來唄~",
+      "JAPANESE": "呼ぶしかないでしょ！",
+      "INDONESIAN": "Aku telepon kamu lagi!",
+      "PORTUGUESE": "Eu te ligaria de novo!",
+      "RUSSIAN": "Я бы позвонила тебе ещё раз!",
+      "FRENCH": "Je t’aurais encore rappelé !",
+      "THAI": "ฉันจะโทรอีกครั้ง!"
+    },
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 내 친구 얘긴데...",
+      "ENGLISH": "Oppa, my friend has a problem... ",
+      "CHINESE_SIMPLIFIED": "哥哥，我有一个朋友...",
+      "CHINESE_TRADITIONAL": "哥哥，我有一個朋友...",
+      "JAPANESE": "私の友達…",
+      "INDONESIAN": "Oppa, temanku punya masalah…",
+      "PORTUGUESE": "Oppa, minha amiga tem um problema...",
+      "RUSSIAN": "Оппа, у моей подруги проблема...",
+      "FRENCH": "Oppa, ma copine a un problème...",
+      "THAI": "โอปป้า เพื่อนฉันมีปัญหา..."
+    },
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 30.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 짱친! 완전 짱친!",
+      "ENGLISH": "Like a real friend! My friend!",
+      "CHINESE_SIMPLIFIED": "真的是好朋友! 最好的朋友!",
+      "CHINESE_TRADITIONAL": "真的是好朋友! 最好的朋友!",
+      "JAPANESE": "大親友の話なんだけど！",
+      "INDONESIAN": "Kayak teman yang sebenarnya! Temanku!",
+      "PORTUGUESE": "Como uma amiga de verdade! Minha amiga!",
+      "RUSSIAN": "Настоящей подруги! У подруги!",
+      "FRENCH": "Une vraie copine ! Ma copine !",
+      "THAI": "เพื่อนจริงๆ นะ! เพื่อนของฉัน!"
+    },
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 32.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "걔가 자기 좋아하는 사람이 자기 안 좋아하면 어떻게 하냐는데...",
+      "ENGLISH": "She really likes someone who doesn’t like her back. ",
+      "CHINESE_SIMPLIFIED": "她说她喜欢的人不喜欢她…",
+      "CHINESE_TRADITIONAL": "她說她喜歡的人不喜歡她…",
+      "JAPANESE": "好きな人がもし自分を好きじゃなかったら、どうするって聞いたんだけど…",
+      "INDONESIAN": "Dia suka banget sama seseorang yang nggak suka balik.",
+      "PORTUGUESE": "Ela gosta muito de alguém que não gosta dela de volta.",
+      "RUSSIAN": "Она действительно любит кого-то, кто её не любит.",
+      "FRENCH": "Elle aime vraiment quelqu’un qui ne l’aime pas en retour.",
+      "THAI": "เธอชอบคนที่ไม่ชอบเธอตอบจริงๆ"
+    },
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 37.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "그럴 땐 어떻게 해야 해?",
+      "ENGLISH": "What should she do?",
+      "CHINESE_SIMPLIFIED": "这种情况该怎么办才好啊?",
+      "CHINESE_TRADITIONAL": "這種情況該怎麼辦纔好啊?",
+      "JAPANESE": "そういう時って、どうすればいいかな？",
+      "INDONESIAN": "Harus gimana, ya?",
+      "PORTUGUESE": "O que ela deve fazer?",
+      "RUSSIAN": "Что ей делать?",
+      "FRENCH": "Elle devrait faire quoi ?",
+      "THAI": "เธอควรทำยังไงดี?"
+    },
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 40.0
+    }
+  }
+]

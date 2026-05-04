@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님, 일어나세요!",
+      "ENGLISH": "Min-jung, wake up!",
+      "CHINESE_SIMPLIFIED": "敏静，快起来啦",
+      "CHINESE_TRADITIONAL": "敏靜，快起來啦",
+      "JAPANESE": "おい、ウンビ！起きてみろよ！",
+      "INDONESIAN": "Min-jung, bangun!",
+      "PORTUGUESE": "Min-jung, acorda!",
+      "RUSSIAN": "Мин-чжун, просыпайся!",
+      "FRENCH": "Min-jung, réveille-toi !",
+      "THAI": "มินจอง, ตื่นเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.4
+    }
+  }
+]

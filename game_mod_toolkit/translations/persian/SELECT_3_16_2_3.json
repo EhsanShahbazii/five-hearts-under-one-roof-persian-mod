@@ -1,0 +1,280 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "제가 그래도 될까요?",
+      "ENGLISH": "Can I really do this?",
+      "CHINESE_SIMPLIFIED": "我真的可以做你的经纪人吗?",
+      "CHINESE_TRADITIONAL": "我真的可以做你的經紀人嗎?",
+      "JAPANESE": "僕で大丈夫ですか？",
+      "INDONESIAN": "Apa aku benar-benar bisa melakukan ini?",
+      "PORTUGUESE": "Será que eu realmente posso fazer isso?",
+      "RUSSIAN": "Я правда справлюсь с этим?",
+      "FRENCH": "Je peux vraiment faire ça ?",
+      "THAI": "ฉันทำได้จริง ๆ เหรอ?",
+      "PERSIAN": "واقعا می توانم این کار را انجام دهم؟"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 옆에 있어도",
+      "ENGLISH": "I feel like",
+      "CHINESE_SIMPLIFIED": "今天一整天",
+      "CHINESE_TRADITIONAL": "今天一整天",
+      "JAPANESE": "今日ずっと隣にいたのに、",
+      "INDONESIAN": "Aku merasa",
+      "PORTUGUESE": "Sinto que",
+      "RUSSIAN": "Кажется, что сегодня",
+      "FRENCH": "J’ai l’impression",
+      "THAI": "ฉันรู้สึกว่า",
+      "PERSIAN": "من احساس می کنم"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "하나도 도움 안 된 거 같은데...",
+      "ENGLISH": "I wasn’t much help today...",
+      "CHINESE_SIMPLIFIED": "感觉我也没帮上什么忙…",
+      "CHINESE_TRADITIONAL": "感覺我也沒幫上什麼忙…",
+      "JAPANESE": "何の役にも立たなかったみたいだから…",
+      "INDONESIAN": "Hari ini aku nggak banyak membantu...",
+      "PORTUGUESE": "Hoje eu não ajudei muito...",
+      "RUSSIAN": "я ничем особо не помогла...",
+      "FRENCH": "de n’avoir pas été d’une grande aide aujourd’hui...",
+      "THAI": "ไม่ได้ช่วยอะไรมากเลยวันนี้...",
+      "PERSIAN": "امروز کمک زیادی نکردم..."
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요!",
+      "ENGLISH": "Nope!",
+      "CHINESE_SIMPLIFIED": "怎么会!",
+      "CHINESE_TRADITIONAL": "怎麼會!",
+      "JAPANESE": "そんなことないですよ！",
+      "INDONESIAN": "Nggak kok!",
+      "PORTUGUESE": "Claro que não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Pas du tout !",
+      "THAI": "ไม่จริงเลย!",
+      "PERSIAN": "نه!"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 옆에 있어 주시는 것만으로도",
+      "ENGLISH": "Just having you by my side",
+      "CHINESE_SIMPLIFIED": "你光是在我身边就",
+      "CHINESE_TRADITIONAL": "你光是在我身邊就",
+      "JAPANESE": "ただ隣にいてくれるだけで、",
+      "INDONESIAN": "Cuma kamu ada di sampingku",
+      "PORTUGUESE": "Só de você estar ao meu lado",
+      "RUSSIAN": "Просто то, ",
+      "FRENCH": "Le simple ",
+      "THAI": "แค่เธออยู่ข้าง ๆ ฉัน",
+      "PERSIAN": "فقط داشتن تو در کنارم"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너무 의지가 됐어요.",
+      "ENGLISH": "Was really reassuring",
+      "CHINESE_SIMPLIFIED": "已经能给我很大的力量了",
+      "CHINESE_TRADITIONAL": "已經能給我很大的力量了",
+      "JAPANESE": "すごく心強かったです。",
+      "INDONESIAN": "Udah bikin aku tenang banget.",
+      "PORTUGUESE": "Já foi muito reconfortante.",
+      "RUSSIAN": "что ты была рядом,",
+      "FRENCH": "fait que tu sois à mes côtés",
+      "THAI": "ก็ทำให้ฉันสบายใจแล้ว.",
+      "PERSIAN": "واقعا آرامش بخش بود"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저 그러면 매니저 시켜주세요!",
+      "ENGLISH": "Then please make me your manager!",
+      "CHINESE_SIMPLIFIED": "那就让我做你的经纪人吧!",
+      "CHINESE_TRADITIONAL": "那就讓我做你的經紀人吧!",
+      "JAPANESE": "それなら、僕をマネージャーにしてください！",
+      "INDONESIAN": "Kalau gitu, jadikan aku manajermu!",
+      "PORTUGUESE": "Então, por favor, me deixa ser seu gerente!",
+      "RUSSIAN": "уже очень меня успокаивало.",
+      "FRENCH": "m’a vraiment rassuré.",
+      "PERSIAN": "پس لطفا منو مدیر خودت کن!"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그렇게라도",
+      "ENGLISH": "If it means",
+      "CHINESE_SIMPLIFIED": "毕竟做经纪人",
+      "CHINESE_TRADITIONAL": "畢竟做經紀人",
+      "JAPANESE": "そうすれば、",
+      "INDONESIAN": "Kalau itu berarti",
+      "PORTUGUESE": "Se isso significa",
+      "RUSSIAN": "Тогда сделай меня своим менеджером!",
+      "FRENCH": "Alors fais de moi ton manager !",
+      "THAI": "งั้นทำให้ฉันเป็นผู้จัดการของนายเถอะ!",
+      "PERSIAN": "اگر معنی دارد"
+    },
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "민정 님 자주 볼 수 있으면 너무 좋을 거 같아요",
+      "ENGLISH": "I can see you often, I’d love it.",
+      "CHINESE_SIMPLIFIED": "还可以经常看到你，多好啊",
+      "CHINESE_TRADITIONAL": "還可以經常看到你，多好啊",
+      "JAPANESE": "ミンジョンさんに頻繁に会えるのがすごく嬉しいんです。",
+      "INDONESIAN": "Aku bisa sering ketemu kamu, aku mau banget.",
+      "PORTUGUESE": "Que eu posso te ver sempre, eu adoraria.",
+      "RUSSIAN": "Если это значит, что я смогу видеть тебя чаще, я буду рада.",
+      "FRENCH": "Si ça veut dire que je peux te voir souvent, je serai ravi(e).",
+      "THAI": "ถ้านั่นหมายความว่าฉันจะได้เจอนายบ่อย ๆ ฉันยินดีเลย.",
+      "PERSIAN": "من می توانم اغلب شما را ببینم، دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "감사해요.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢你啊",
+      "CHINESE_TRADITIONAL": "謝謝你啊",
+      "JAPANESE": "ありがとうございます。",
+      "INDONESIAN": "Terima kasih.",
+      "PORTUGUESE": "Obrigada.",
+      "RUSSIAN": "Спасибо.",
+      "FRENCH": "Merci.",
+      "THAI": "ขอบคุณนะ.",
+      "PERSIAN": "خیلی لطف کردین، دستتون درد نکنه."
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "유만 오빠...!",
+      "ENGLISH": "Yuman oppa...!",
+      "CHINESE_SIMPLIFIED": "宥万哥哥…!",
+      "CHINESE_TRADITIONAL": "宥萬哥哥…!",
+      "JAPANESE": "ユマンお兄ちゃん…！",
+      "INDONESIAN": "Yuman oppa...!",
+      "PORTUGUESE": "Yuman oppa...!",
+      "RUSSIAN": "Юман-оппа...!",
+      "FRENCH": "Yuman oppa...!",
+      "THAI": "ยูมันอปป้า...!",
+      "PERSIAN": "یومان یومان...!"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어 잠시만요!",
+      "ENGLISH": "Oh, hold on a second!",
+      "CHINESE_SIMPLIFIED": "啊，稍等!",
+      "CHINESE_TRADITIONAL": "啊，稍等!",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Oh, tunggu sebentar!",
+      "PORTUGUESE": "Ah, espera um segundo!",
+      "RUSSIAN": "Ой, секундочку!",
+      "FRENCH": "Oh, attends une seconde !",
+      "THAI": "โอ๊ะ รอแป๊บนะ!",
+      "PERSIAN": "اوه، یک ثانیه صبر کن!"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "ENGLISH": "[Mal-sook: Buy some wine when you come! Party to celebrate Eunbi's arrival] / Looks like you’ve made up... ",
+      "CHINESE_SIMPLIFIED": "[高末淑:买点酒来！今晚是恩妃的欢迎派对]",
+      "CHINESE_TRADITIONAL": "[高末淑:買點酒來！今晚是恩妃的歡迎派對]",
+      "JAPANESE": "[マルスク：後でワインを買ってきて！ウンビ帰国のお祝いパーティーしようと思って。]",
+      "INDONESIAN": "[Mal-sook: Beli wine pas datang ya! Pesta buat ngerayain kedatangan Eun-bi] / Sepertinya kalian udah baikan...",
+      "PORTUGUESE": "[Mal-sook: Compra vinho quando vier! Festa pra comemorar a chegada da Eun-bi] / Parece que vocês já fizeram as pazes...",
+      "RUSSIAN": "[Мал-Сук: Купи вина по дороге! Вечеринка в честь приезда Ынби] / Похоже, вы уже помирились...",
+      "FRENCH": "[Mal-sook : Achète du vin en venant ! Fête pour l’arrivée d’Eunbi] / On dirait que vous vous êtes réconciliés...",
+      "THAI": "[มัลซุก: ซื้อไวน์มาด้วย! ปาร์ตี้ต้อนรับอึนบี] / ดูเหมือนว่าจะดีกันแล้วนะ...",
+      "PERSIAN": "[مال‌سوک: وقتی آمدی مقداری شراب بخر! مهمانی برای جشن ورود یونبی] / به نظر می رسد که آرایش کرده اید ..."
+    },
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "이만 들어갈까요?",
+      "ENGLISH": "Shall we head in?",
+      "CHINESE_SIMPLIFIED": "那我们回去吧?",
+      "CHINESE_TRADITIONAL": "那我們回去吧?",
+      "JAPANESE": "そろそろ帰りましょうか？",
+      "INDONESIAN": "Kita masuk sekarang?",
+      "PORTUGUESE": "Vamos entrar?",
+      "RUSSIAN": "Пойдём внутрь?",
+      "FRENCH": "On y va ?",
+      "THAI": "เข้าไปกันเถอะ?",
+      "PERSIAN": "بریم داخل؟"
+    },
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 28.9
+    }
+  }
+]

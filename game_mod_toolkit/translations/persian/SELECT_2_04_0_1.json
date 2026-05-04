@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 허리 안 좋다며.",
+      "ENGLISH": "Hey, I thought your back hurt.",
+      "CHINESE_SIMPLIFIED": "你腰不好还趴着",
+      "CHINESE_TRADITIONAL": "你腰不好還趴着",
+      "JAPANESE": "お前、腰が悪いって言ってたなかった？",
+      "INDONESIAN": "Hei, aku kira punggungmu sakit.",
+      "PORTUGUESE": "Ei, achei que suas costas estivessem doendo.",
+      "RUSSIAN": "Эй, я думал, у тебя болит спина.",
+      "FRENCH": "Hé, je croyais que t’avais mal au dos.",
+      "THAI": "เฮ้ ฉันนึกว่านายปวดหลังซะอีก.",
+      "PERSIAN": "هی فکر کردم کمرت درد میکنه"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "난 이 자세가 편하단 말이야.",
+      "ENGLISH": "I’m comfortable like this.",
+      "CHINESE_SIMPLIFIED": "趴着舒服嘛~",
+      "CHINESE_TRADITIONAL": "趴着舒服嘛~",
+      "JAPANESE": "この姿勢が楽なのよ。",
+      "INDONESIAN": "Aku nyaman kayak gini.",
+      "PORTUGUESE": "Tô confortável assim.",
+      "RUSSIAN": "Мне и так удобно.",
+      "FRENCH": "Je suis bien comme ça.",
+      "THAI": "ฉันนอนแบบนี้สบายดี.",
+      "PERSIAN": "من اینجوری راحتم"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아파서 누우면 나한테 또 심부름시키려고 그러지.",
+      "ENGLISH": "You just want to ask me to run errands when you lie down.",
+      "CHINESE_SIMPLIFIED": "到时候又该借口腰疼让我帮你跑腿了",
+      "CHINESE_TRADITIONAL": "到時候又該藉口腰疼讓我幫你跑腿了",
+      "JAPANESE": "痛くて寝込んだら、また俺をこき使おうと企んでるんだろ？",
+      "INDONESIAN": "Kamu cuma mau nyuruh aku belanja kalau kamu rebahan.",
+      "PORTUGUESE": "Você só quer me mandar fazer favores quando se deita.",
+      "RUSSIAN": "Ты просто хочешь попросить меня сбегать по делам, когда валяешься.",
+      "FRENCH": "Tu veux juste me demander de faire tes courses pendant que tu restes allongé.",
+      "THAI": "นายแค่อยากให้ฉันไปทำธุระให้นายตอนที่นอนอยู่นี่ใช่ไหมล่ะ.",
+      "PERSIAN": "فقط میخوای از من بخوای وقتی دراز میکشی کارها رو انجام بدم."
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야 그건 내가 안 아파도 네가 원래 해야 하는 일이고~",
+      "ENGLISH": "Well, even if I’m not hurt, you’re the one who’s supposed to do it anyway~",
+      "CHINESE_SIMPLIFIED": "就算我腰不疼那些事情也是你的活啊",
+      "CHINESE_TRADITIONAL": "就算我腰不疼那些事情也是你的活啊",
+      "JAPANESE": "それは私が痛くなくても、あんたが本来やるべきことなんだよ～。",
+      "INDONESIAN": "Yah, meskipun aku nggak sakit, kamu tetap yang seharusnya ngerjain~",
+      "PORTUGUESE": "Bom, mesmo que eu não estivesse machucado, é você que devia fazer de qualquer jeito~",
+      "RUSSIAN": "Ну, даже если мне ничего не болит, это всё равно твоя работа, знаешь ли~",
+      "FRENCH": "De toute façon, même si j’ai pas mal, c’est toi qui devrais le faire, hein~",
+      "THAI": "ยังไงซะ ถึงฉันไม่เจ็บ แต่มันก็ควรเป็นงานของนายอยู่ดี~",
+      "PERSIAN": "خوب، حتی اگر من صدمه نبینم، شما کسی هستید که به هر حال باید این کار را انجام دهید."
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 13.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 재밌었다!",
+      "ENGLISH": "That was fun!",
+      "CHINESE_SIMPLIFIED": "真有意思!",
+      "CHINESE_TRADITIONAL": "真有意思!",
+      "JAPANESE": "あ～楽しかった！",
+      "INDONESIAN": "Tadi seru banget!",
+      "PORTUGUESE": "Isso foi divertido!",
+      "RUSSIAN": "Это было весело!",
+      "FRENCH": "C’était sympa !",
+      "THAI": "สนุกดีนะ!",
+      "PERSIAN": "این سرگرم کننده بود!"
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 맞다.",
+      "ENGLISH": "Oh right. ",
+      "CHINESE_SIMPLIFIED": "哦对了",
+      "CHINESE_TRADITIONAL": "哦對了",
+      "JAPANESE": "あ、そうだ。",
+      "INDONESIAN": "Oh iya.",
+      "PORTUGUESE": "Ah, é.",
+      "RUSSIAN": "Ах да.",
+      "FRENCH": "Ah oui, au fait.",
+      "THAI": "อ้อ จริงด้วย.",
+      "PERSIAN": "اوه درسته"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "짠~",
+      "ENGLISH": "Ta-da~",
+      "CHINESE_SIMPLIFIED": "看~",
+      "CHINESE_TRADITIONAL": "看~",
+      "JAPANESE": "じゃーん！",
+      "INDONESIAN": "Ta-da~",
+      "PORTUGUESE": "Tcharam~",
+      "RUSSIAN": "Та-да~",
+      "FRENCH": "Ta-da~",
+      "THAI": "ทาด้า~",
+      "PERSIAN": "تا-دا~"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아? 그거 떼어간 게 너였어?",
+      "ENGLISH": "Wait, you took that down?",
+      "CHINESE_SIMPLIFIED": "哎?原来这个是被你拿走了啊?",
+      "CHINESE_TRADITIONAL": "哎?原來這個是被你拿走了啊?",
+      "JAPANESE": "え？それ持ってったの、お前だったのか？",
+      "INDONESIAN": "Tunggu, kamu turunin itu?",
+      "PORTUGUESE": "Espera, você tirou isso?",
+      "RUSSIAN": "Постой, ты это убрал?",
+      "FRENCH": "Attends, t’as enlevé ça ?",
+      "THAI": "เดี๋ยวนะ นายเอามันลงไปแล้วเหรอ?",
+      "PERSIAN": "صبر کن، اونو حذف کردی؟"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나 이 옆방 엄청 탐냈던 거 알지?",
+      "ENGLISH": "You know I really wanted this room next to yours.",
+      "CHINESE_SIMPLIFIED": "你知道我一直都很想要隔壁房间吧?",
+      "CHINESE_TRADITIONAL": "你知道我一直都很想要隔壁房間吧?",
+      "JAPANESE": "私、この隣の部屋すごく気に入ってんだよね。",
+      "INDONESIAN": "Kamu tahu aku beneran pengen kamar ini di sebelah kamarmu.",
+      "PORTUGUESE": "Sabe que eu realmente queria esse quarto ao lado do seu.",
+      "RUSSIAN": "Ты же знаешь, как сильно я хотел эту комнату рядом с твоей.",
+      "FRENCH": "Tu sais bien que je voulais vraiment cette chambre à côté de la tienne.",
+      "THAI": "นายก็รู้ว่าฉันอยากได้ห้องข้าง ๆ ห้องนายแค่ไหน.",
+      "PERSIAN": "میدونی من خیلی دلم میخواست این اتاق کنار تو باشه."
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나 이 옆방 내가 쓰면 안 돼?",
+      "ENGLISH": "Can I use it?",
+      "CHINESE_SIMPLIFIED": "隔壁房间给我用不行嘛？",
+      "CHINESE_TRADITIONAL": "隔壁房間給我用不行嘛？",
+      "JAPANESE": "隣の部屋、私が使っていい？",
+      "INDONESIAN": "Boleh aku pakai?",
+      "PORTUGUESE": "Posso usá-lo?",
+      "RUSSIAN": "Можно я её займу?",
+      "FRENCH": "Je peux l’utiliser ?",
+      "THAI": "ฉันใช้ได้ไหม?",
+      "PERSIAN": "می توانم از اون استفاده کنم؟"
+    },
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 30.2
+    }
+  }
+]

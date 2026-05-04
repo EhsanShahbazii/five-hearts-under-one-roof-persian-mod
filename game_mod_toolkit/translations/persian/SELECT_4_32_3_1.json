@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "준비... ",
+      "ENGLISH": "Ready... ",
+      "CHINESE_SIMPLIFIED": "准备…",
+      "CHINESE_TRADITIONAL": "準備…",
+      "JAPANESE": "よーい",
+      "INDONESIAN": "Siap...",
+      "PORTUGUESE": "Pronto...",
+      "RUSSIAN": "Готова...",
+      "FRENCH": "Prête...",
+      "THAI": "พร้อมนะ...",
+      "PERSIAN": "آماده..."
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "시...작!",
+      "ENGLISH": "Set... Go!",
+      "CHINESE_SIMPLIFIED": "开…始!",
+      "CHINESE_TRADITIONAL": "開…始!",
+      "JAPANESE": "スタート！",
+      "INDONESIAN": "Sedia... Mulai!",
+      "PORTUGUESE": "Preparar... Vai!",
+      "RUSSIAN": "На старт... Вперёд!",
+      "FRENCH": "À vos marques... Partez !",
+      "THAI": "เตรียม... ไป!",
+      "PERSIAN": "تنظیم... برو!"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "(유만의 힘 주는 소리)",
+      "ENGLISH": "(Yuman grunts, straining with effort)",
+      "CHINESE_SIMPLIFIED": "呃...啊...",
+      "CHINESE_TRADITIONAL": "呃...啊...",
+      "JAPANESE": "（ユマンの力を入れる音）",
+      "INDONESIAN": "(Yuman mengerang, berusaha keras)",
+      "PORTUGUESE": "(Yuman grunhe, se esforçando)",
+      "RUSSIAN": "(Юман напрягается, стараясь изо всех сил)",
+      "FRENCH": "(Yuman gronde, forçant de toutes ses forces)",
+      "THAI": "(ยูมันคราง ใช้แรงเต็มที่)",
+      "PERSIAN": "(یومان غرغر می کند، با تلاش زور می زند)"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "...아!",
+      "ENGLISH": "...Ah!",
+      "CHINESE_SIMPLIFIED": "…啊!",
+      "CHINESE_TRADITIONAL": "…啊!",
+      "JAPANESE": "...あ！",
+      "INDONESIAN": "...Ah!",
+      "PORTUGUESE": "...Ah!",
+      "RUSSIAN": "...Ах!",
+      "FRENCH": "...Ah !",
+      "THAI": "...อ๊า!",
+      "PERSIAN": "...آه!"
+    },
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "에이~ 고말숙 답지않게 왜 힘을 안 줘!",
+      "ENGLISH": "Hey, Go Mal-sook, why aren't you using your strength!",
+      "CHINESE_SIMPLIFIED": "怎么不用劲啊?一点都不像你",
+      "CHINESE_TRADITIONAL": "怎麼不用勁啊?一點都不像你",
+      "JAPANESE": "どうした～、負けるなんてマルスクらしくないぞ",
+      "INDONESIAN": "Hei, Go Mal-sook, kenapa kamu gak pakai kekuatanmu!",
+      "PORTUGUESE": "Ei, Go Mal-sook, por que você não tá usando sua força!",
+      "RUSSIAN": "Эй, Го Мал-Сук, почему ты не используешь свою силу!",
+      "FRENCH": "Hé, Go Mal-sook, pourquoi tu utilises pas ta force !",
+      "THAI": "เฮ้ โก มัลซุก ทำไมเธอไม่ใช้แรงเลย!",
+      "PERSIAN": "هی برو مال‌سوک چرا از قدرتت استفاده نمیکنی!"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 몰라, 너랑 얘기하니까 힘 빠져.",
+      "ENGLISH": "I don’t know, talking to you makes me lose strength.",
+      "CHINESE_SIMPLIFIED": "你刚刚和我说那个, 害得我分心了",
+      "CHINESE_TRADITIONAL": "你剛剛和我說那個, 害得我分心了",
+      "JAPANESE": "知らないよ、あんたと話してたら力が抜けちゃう。",
+      "INDONESIAN": "Gak tahu, ngobrol sama kamu bikin aku hilang tenaga.",
+      "PORTUGUESE": "Não sei, falar com você faz eu perder a força.",
+      "RUSSIAN": "Не знаю, разговор с тобой лишает меня сил.",
+      "FRENCH": "Je sais pas, parler avec toi me fait perdre ma force.",
+      "THAI": "ไม่รู้สิ คุยกับเธอแล้วแรงหายหมด",
+      "PERSIAN": "نمی دانم، حرف زدن با تو باعث می شود قدرتم را از دست بدهم."
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.0
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 죄송해요.. 제가 신이 나서.. 실수한 거 같습니다! ",
+      "ENGLISH": "Oh, I'm sorry... I got a bit carried away.",
+      "CHINESE_SIMPLIFIED": "啊对不起…我刚才一时兴起…不小心失误了!",
+      "CHINESE_TRADITIONAL": "啊對不起…我剛纔一時興起…不小心失誤了!",
+      "JAPANESE": "あっ、すいません…ついテンション上がって…失礼しました！",
+      "INDONESIAN": "Oh, maaf... Aku sedikit kebawa suasana.",
+      "PORTUGUESE": "Ah, desculpa... Eu me empolguei um pouco.",
+      "RUSSIAN": "Ой, простите... Я немного увлёкся.",
+      "FRENCH": "Oh, je suis désolé... Je me suis un peu laissé emporter.",
+      "THAI": "โอ้ ขอโทษนะครับ... ผมคงลืมตัวไปหน่อย"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "죄송합니다.",
+      "ENGLISH": "My bad!",
+      "CHINESE_SIMPLIFIED": "对不起!",
+      "CHINESE_TRADITIONAL": "對不起!",
+      "JAPANESE": "すいませんでした。",
+      "INDONESIAN": "Salahku!",
+      "PORTUGUESE": "Foi mal!",
+      "RUSSIAN": "Моя ошибка!",
+      "FRENCH": "C’est ma faute !",
+      "THAI": "ขอโทษจริงๆ!"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.0
+    }
+  }
+]

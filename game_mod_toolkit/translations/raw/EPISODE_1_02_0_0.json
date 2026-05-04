@@ -1,0 +1,78 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 늦었다 진짜! ",
+      "ENGLISH": "Oh no, I'm late!",
+      "CHINESE_SIMPLIFIED": "糟了，要迟到了!",
+      "CHINESE_TRADITIONAL": "糟了，要遲到了!",
+      "JAPANESE": "ああ、遅刻だ、本当に！",
+      "INDONESIAN": "Aduh, aku telat!",
+      "PORTUGUESE": "Ai não, estou atrasado!",
+      "RUSSIAN": "О нет, я опаздываю!",
+      "FRENCH": "Oh non, je suis en retard !",
+      "THAI": "โอ้ไม่! ฉันสายแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이게 왜 여깄어!",
+      "ENGLISH": "Why is this here?!",
+      "CHINESE_SIMPLIFIED": "领带怎么在这？",
+      "CHINESE_TRADITIONAL": "領帶怎麼在這？",
+      "JAPANESE": "なんでこれがここにあるんだよ！",
+      "INDONESIAN": "Kenapa ini ada di sini?!",
+      "PORTUGUESE": "Por que isso tá aqui?!",
+      "RUSSIAN": "Почему это здесь?!",
+      "FRENCH": "Pourquoi c'est là, ça ?!",
+      "THAI": "ทำไมสิ่งนี้มาอยู่ตรงนี้?!"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "늦겠네 진짜!",
+      "ENGLISH": "I'm seriously gonna be late!",
+      "CHINESE_SIMPLIFIED": "真的要迟到了!",
+      "CHINESE_TRADITIONAL": "真的要遲到了!",
+      "JAPANESE": "遅れちゃうじゃないか！",
+      "INDONESIAN": "Aku beneran bakal telat nih!",
+      "PORTUGUESE": "Vou me atrasar de verdade!",
+      "RUSSIAN": "Я точно опоздаю!",
+      "FRENCH": "Je vais vraiment être en retard !",
+      "THAI": "ฉันจะต้องสายจริงๆ แล้วนะ!"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.2
+    }
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "자 날계란의 세 시 데이트! 오늘의 게스트는...",
+      "ENGLISH": "Alright, welcome to the 'Three O'Clock Date' with Raw Egg!",
+      "CHINESE_SIMPLIFIED": "欢迎来到《生鸡蛋的3点钟约会》! 今天的嘉宾是…",
+      "CHINESE_TRADITIONAL": "歡迎來到《生雞蛋的3點鐘約會》! 今天的嘉賓是…",
+      "JAPANESE": "さて、ナル・ケランの「3時のデート」！今日のゲストは…",
+      "INDONESIAN": "Baiklah, selamat datang di 'Three O'Clock Date' bersama Raw Egg!",
+      "PORTUGUESE": "Certo, bem-vindos ao 'Three O'Clock Date' com Raw Egg!",
+      "RUSSIAN": "Добро пожаловать на \"Свидание в Три Часа\" с Raw Egg!",
+      "FRENCH": "Bienvenue dans l’émission \"Rendez-vous à trois heures\" avec Raw Egg !",
+      "THAI": "ยินดีต้อนรับสู่รายการ 'เดทบ่ายสามโมง' กับ Raw Egg!"
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 너무 핫하시죠!",
+      "ENGLISH": "Today’s guest is... the one and only",
+      "CHINESE_SIMPLIFIED": "最近爆火的! ",
+      "CHINESE_TRADITIONAL": "最近爆火的! ",
+      "JAPANESE": "最近、大注目されている方ですね！",
+      "INDONESIAN": "Tamu kita hari ini adalah... satu-satunya",
+      "PORTUGUESE": "A convidada de hoje é... a incomparável",
+      "RUSSIAN": "Сегодня у нас в гостях… неподражаемая, ",
+      "FRENCH": "Aujourd’hui, notre invitée est... l’unique et incroyable",
+      "THAI": "วันนี้แขกรับเชิญของเราไม่ใช่ใครที่ไหน…"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "솔로 가수의 대표주자 박민정 님 모셨습니다!",
+      "ENGLISH": "Super hot solo artist, Park Min-jung!",
+      "CHINESE_SIMPLIFIED": "让我们欢迎SOLO歌手朴敏静!",
+      "CHINESE_TRADITIONAL": "讓我們歡迎SOLO歌手樸敏靜!",
+      "JAPANESE": "ソロアーティストの代表格、パク・ミンジョンさんにお越しいただきました！",
+      "INDONESIAN": "Artis solo yang super hot, Park Min-jung!",
+      "PORTUGUESE": "Super estrela solo, Park Min-jung!",
+      "RUSSIAN": "горячая сольная артистка, Пак Мин-джун!",
+      "FRENCH": "chanteuse solo ultra sexy, Park Min-jung !",
+      "THAI": "ศิลปินเดี่ยวสุดฮอต ปาร์ค มินจอง!"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어서 오세요!",
+      "ENGLISH": "Everyone, give it up for her!",
+      "CHINESE_SIMPLIFIED": "欢迎欢迎!",
+      "CHINESE_TRADITIONAL": "歡迎歡迎!",
+      "JAPANESE": "ようこそ！",
+      "INDONESIAN": "Semua, beri tepuk tangan untuk dia!",
+      "PORTUGUESE": "Pessoal, uma salva de palmas para ela!",
+      "RUSSIAN": "Аплодисменты для неё, друзья!",
+      "FRENCH": "Tout le monde, applaudissez-la bien fort !",
+      "THAI": "ทุกคนปรบมือให้เธอกันหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~ 안녕하세요! 박민정입니다~",
+      "ENGLISH": "Hello, hello! Thanks for having me! I’m Park Min-jung!",
+      "CHINESE_SIMPLIFIED": "HELLO大家好!我是朴敏静!",
+      "CHINESE_TRADITIONAL": "HELLO大家好!我是樸敏靜!",
+      "JAPANESE": "こんにちは〜こんにちは！パク・ミンジョンです〜！",
+      "INDONESIAN": "Halo, halo! Terima kasih sudah mengundangku! Aku Park Min-jung!",
+      "PORTUGUESE": "Olá, olá! Obrigada por me receberem! Sou Park Min-jung!",
+      "RUSSIAN": "Привет-привет! Спасибо, что пригласили меня! Я Пак Мин-джун!",
+      "FRENCH": "Salut, salut ! Merci de m’accueillir ! Je suis Park Min-jung !",
+      "THAI": "สวัสดีค่ะ! ขอบคุณที่เชิญฉันมานะคะ! ฉันคือ ปาร์ค มินจอง!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "사실 민정님 모시기가 정말 어려웠었는데",
+      "ENGLISH": "We’ve been trying to get you on the show for ages,",
+      "CHINESE_SIMPLIFIED": "其实能邀请到敏静真的很不容易",
+      "CHINESE_TRADITIONAL": "其實能邀請到敏靜真的很不容易",
+      "JAPANESE": "実はですね、ミンジョンさんをお呼びするのが本当に難しかったんですが",
+      "INDONESIAN": "Kami sudah berusaha mengundangmu ke acara ini sejak lama,",
+      "PORTUGUESE": "Temos tentado te trazer ao programa há séculos,",
+      "RUSSIAN": "Мы так долго пытались пригласить вас на шоу,",
+      "FRENCH": "On a essayé de t’avoir dans l’émission depuis une éternité,",
+      "THAI": "พวกเราพยายามเชิญคุณมาร่วมรายการมานานมาก,"
+    },
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 16.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 나와주셔서 너무 감사드립니다.",
+      "ENGLISH": "so thank you so much for being here!",
+      "CHINESE_SIMPLIFIED": "非常感谢你来做客我们节目",
+      "CHINESE_TRADITIONAL": "非常感謝你來做客我們節目",
+      "JAPANESE": "こうして来ていただけて、本当に感謝しています。",
+      "INDONESIAN": "jadi terima kasih banyak sudah datang!",
+      "PORTUGUESE": "então muito obrigada por estar aqui!",
+      "RUSSIAN": "поэтому огромное спасибо, что наконец пришли!",
+      "FRENCH": "alors merci beaucoup d’être venue !",
+      "THAI": "ขอบคุณมากๆ ที่มาวันนี้!"
+    },
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "근데 이제 사실 또 민정 님 나오신다고 하니까",
+      "ENGLISH": "But I gotta say... there’s something everyone’s been dying to know,",
+      "CHINESE_SIMPLIFIED": "不过您既然来了",
+      "CHINESE_TRADITIONAL": "不過您既然來了",
+      "JAPANESE": "でも、あの…ミンジョンさんが出演されると聞いて",
+      "INDONESIAN": "Tapi aku harus bilang... ada sesuatu yang semua orang ingin tahu,",
+      "PORTUGUESE": "Mas tenho que dizer... tem algo que todo mundo está morrendo de vontade de saber,",
+      "RUSSIAN": "Но знаешь, есть кое-что, что все умирают от желания узнать,",
+      "FRENCH": "Mais il faut que je te dise… il y a quelque chose que tout le monde meurt d’envie de savoir,",
+      "THAI": "แต่ต้องบอกว่า... มีเรื่องที่ทุกคนอยากรู้ใจจะขาด"
+    },
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 21.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 이걸 물어봐도 될지 모르겠는데,",
+      "ENGLISH": "and I’m not sure if I should even ask this.",
+      "CHINESE_SIMPLIFIED": "我们有个问题不知道该不该问…",
+      "CHINESE_TRADITIONAL": "我們有個問題不知道該不該問…",
+      "JAPANESE": "これを聞いていいのかちょっと迷ったんですけど",
+      "INDONESIAN": "dan aku nggak yakin apakah aku harus bertanya ini.",
+      "PORTUGUESE": "e não sei se devo perguntar.",
+      "RUSSIAN": "и я даже не уверен, стоит ли мне это спрашивать.",
+      "FRENCH": "et je ne suis même pas sûr de devoir poser la question.",
+      "THAI": "และฉันไม่แน่ใจเลยว่าจะถามดีไหม."
+    },
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "우리 민정 씨가 최근에...",
+      "ENGLISH": "Well... you recently went public with your relationship",
+      "CHINESE_SIMPLIFIED": "敏静你最近",
+      "CHINESE_TRADITIONAL": "敏靜你最近",
+      "JAPANESE": "最近、ミンジョンさんが公開恋愛をされていることで",
+      "INDONESIAN": "Jadi... kamu baru-baru ini mengumumkan hubunganmu ke publik",
+      "PORTUGUESE": "Bom... você recentemente tornou público o seu relacionamento",
+      "RUSSIAN": "Ну… недавно ты публично заявила о своих отношениях,",
+      "FRENCH": "Eh bien… tu as récemment rendu publique ta relation,",
+      "THAI": "เอ่อ... คุณเพิ่งประกาศความสัมพันธ์ออกสื่อเมื่อไม่นานมานี้"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "공개 연애를 하셔서 엄청 화제예요 사실!",
+      "ENGLISH": "And it’s been a huge topic!",
+      "CHINESE_SIMPLIFIED": "公开恋爱的事情成了热门话题",
+      "CHINESE_TRADITIONAL": "公開戀愛的事情成了熱門話題",
+      "JAPANESE": "すごく話題になっていますよね！",
+      "INDONESIAN": "Dan itu jadi topik besar!",
+      "PORTUGUESE": "E isso tem sido um grande assunto!",
+      "RUSSIAN": "и это вызвало настоящий ажиотаж!",
+      "FRENCH": "et c’est devenu un sujet énorme !",
+      "THAI": "มันกลายเป็นเรื่องใหญ่โตมากเลย!"
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게, 행복... 하신가요!",
+      "ENGLISH": "So... are you happy?",
+      "CHINESE_SIMPLIFIED": "感觉怎么样，是不是很幸福?",
+      "CHINESE_TRADITIONAL": "感覺怎麼樣，是不是很幸福?",
+      "JAPANESE": "どうですか、順調…ですか！？",
+      "INDONESIAN": "Jadi... kamu bahagia?",
+      "PORTUGUESE": "Então... você está feliz?",
+      "RUSSIAN": "Так что... ты счастлива?",
+      "FRENCH": "Alors... es-tu heureuse ?",
+      "THAI": "แล้ว... คุณมีความสุขไหม?"
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "네 행복해요.",
+      "ENGLISH": "Yeah, I’m really happy.",
+      "CHINESE_SIMPLIFIED": "嗯,非常幸福~",
+      "CHINESE_TRADITIONAL": "嗯,非常幸福~",
+      "JAPANESE": "はい、順調です。",
+      "INDONESIAN": "Iya, aku benar-benar bahagia.",
+      "PORTUGUESE": "Sim, estou muito feliz.",
+      "RUSSIAN": "Да, я очень счастлива.",
+      "FRENCH": "Oui, je suis vraiment heureuse.",
+      "THAI": "ใช่ค่ะ, ฉันมีความสุขมากๆ เลย."
+    },
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 34.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "생각보다 응원해주시는 분들이 진짜 너무 많아가지고",
+      "ENGLISH": "Honestly, I’ve received so much support from my fans",
+      "CHINESE_SIMPLIFIED": "大家比想象中的要支持我",
+      "CHINESE_TRADITIONAL": "大家比想象中的要支持我",
+      "JAPANESE": "思った以上に応援してくれる方が本当に多くて",
+      "INDONESIAN": "Jujur, aku menerima begitu banyak dukungan dari para penggemar",
+      "PORTUGUESE": "Sinceramente, recebi tanto apoio dos meus fãs",
+      "RUSSIAN": "Честно говоря, я получила столько поддержки от своих фанатов —",
+      "FRENCH": "Honnêtement, j’ai reçu tellement de soutien de la part de mes fans,",
+      "THAI": "จริงๆ แล้ว ฉันได้รับกำลังใจจากแฟนๆ มากมาย"
+    },
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 37.7
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 너무 행복합니다.",
+      "ENGLISH": "It’s been amazing.",
+      "CHINESE_SIMPLIFIED": "所以真的很幸福~",
+      "CHINESE_TRADITIONAL": "所以真的很幸福~",
+      "JAPANESE": "最近。すごく幸せです。",
+      "INDONESIAN": "Itu luar biasa.",
+      "PORTUGUESE": "Tem sido incrível.",
+      "RUSSIAN": "это было просто невероятно.",
+      "FRENCH": "c’était incroyable.",
+      "THAI": "มันน่าทึ่งสุดๆ ไปเลย."
+    },
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 39.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "아니 어떻게 그럼.",
+      "ENGLISH": "Can you give us a little hint",
+      "CHINESE_SIMPLIFIED": "那你能给我们",
+      "CHINESE_TRADITIONAL": "那你能給我們",
+      "JAPANESE": "えっ、じゃあ、",
+      "INDONESIAN": "Bisa kasih sedikit petunjuk",
+      "PORTUGUESE": "Pode dar uma pequena dica",
+      "RUSSIAN": "Можешь дать нам маленькую подсказку,",
+      "FRENCH": "Tu peux nous donner un petit indice",
+      "THAI": "คุณช่วยบอกใบ้หน่อยได้ไหม"
+    },
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 41.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "어떤 분이신지 살짝만 들려주실 수 있나요?",
+      "ENGLISH": "About who this special someone is?",
+      "CHINESE_SIMPLIFIED": "讲讲你的男朋友吗?稍微讲一下就好",
+      "CHINESE_TRADITIONAL": "講講你的男朋友嗎?稍微講一下就好",
+      "JAPANESE": "どんな方なのか、少しだけ教えていただけますか？",
+      "INDONESIAN": "Tentang siapa sosok spesial ini?",
+      "PORTUGUESE": "Sobre quem é essa pessoa especial?",
+      "RUSSIAN": "кто же этот особенный человек? ",
+      "FRENCH": "sur cette personne spéciale ? ",
+      "THAI": "ว่าใครคือคนพิเศษคนนั้น? "
+    },
+    "TIME": {
+      "SHOW": 41.9,
+      "HIDE": 46.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "살짝 조금만!",
+      "ENGLISH": "Just a bit!",
+      "CHINESE_SIMPLIFIED": "就透露一点点!",
+      "CHINESE_TRADITIONAL": "就透露一點點!",
+      "JAPANESE": "ちょっとだけ、少しだけで！",
+      "INDONESIAN": "Sedikit saja!",
+      "PORTUGUESE": "Só um pouquinho!",
+      "RUSSIAN": "Хотя бы чуть-чуть!",
+      "FRENCH": "Juste un tout petit peu !",
+      "THAI": "สักนิดก็ยังดี!"
+    },
+    "TIME": {
+      "SHOW": 46.4,
+      "HIDE": 47.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "어... 제 1호 팬이나 다름없는 분인데요.",
+      "ENGLISH": "Well... let’s just say he’s been my number one fan, ",
+      "CHINESE_SIMPLIFIED": "他…可以说是我的头号粉丝",
+      "CHINESE_TRADITIONAL": "他…可以說是我的頭號粉絲",
+      "JAPANESE": "えっと…その方はですね、私の最初にファンで",
+      "INDONESIAN": "Yah... katakan saja dia adalah penggemar nomor satuku,",
+      "PORTUGUESE": "Bom... digamos que ele é meu fã número um,",
+      "RUSSIAN": "Ну... скажу так: он был моим фанатом номер один,",
+      "FRENCH": "Eh bien... disons juste qu’il a toujours été mon plus grand fan,",
+      "THAI": "อืม... ก็ขอบอกว่า เขาเป็นแฟนเบอร์หนึ่งของฉัน"
+    },
+    "TIME": {
+      "SHOW": 48.4,
+      "HIDE": 51.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "너무 힘들 때 옆에서 팬분들만큼이나 저를 응원해줬던 그런 분입니다.",
+      "ENGLISH": "always cheering me on, even through the tough times.",
+      "CHINESE_SIMPLIFIED": "和其他粉丝一样，在我人生低谷的时候一直在身边为我打气",
+      "CHINESE_TRADITIONAL": "和其他粉絲一樣，在我人生低谷的時候一直在身邊爲我打氣",
+      "JAPANESE": "私が辛い時、ファンの皆さんと同じくらい私を応援してくれた人なんです。",
+      "INDONESIAN": "selalu menyemangatiku, bahkan di saat-saat sulit.",
+      "PORTUGUESE": "sempre me apoiando, até nos momentos difíceis.",
+      "RUSSIAN": "всегда поддерживал меня, даже в трудные времена.",
+      "FRENCH": "il m’a soutenue même dans les moments difficiles.",
+      "THAI": "คอยเชียร์ฉันตลอด แม้ในช่วงเวลาที่ยากลำบาก."
+    },
+    "TIME": {
+      "SHOW": 51.7,
+      "HIDE": 57.5
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "팬 분이랑?",
+      "ENGLISH": "A fan, huh?",
+      "CHINESE_SIMPLIFIED": "粉丝?和粉丝谈恋爱吗?",
+      "CHINESE_TRADITIONAL": "粉絲?和粉絲談戀愛嗎?",
+      "JAPANESE": "ファンの方と…？",
+      "INDONESIAN": "Seorang penggemar, ya?",
+      "PORTUGUESE": "Um fã, hein?",
+      "RUSSIAN": "Фанат, да?",
+      "FRENCH": "Un fan, hein ?",
+      "THAI": "แฟนคลับเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 58.3,
+      "HIDE": 59.2
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "아니 근데 또 오늘 현장에도 같이 오셨다고 들었거든요? 어디 계세요?",
+      "ENGLISH": "Oh, and I hear he’s here today? Where is he?",
+      "CHINESE_SIMPLIFIED": "然后我还听说他今天也来到了现场，可以告诉我们在哪里吗?",
+      "CHINESE_TRADITIONAL": "然後我還聽說他今天也來到了現場，可以告訴我們在哪裏嗎?",
+      "JAPANESE": "でも、今日もその方が会場に来ていると聞いたんですが、どこにいらっしゃいますか？",
+      "INDONESIAN": "Oh, dan kudengar dia ada di sini hari ini? Di mana dia?",
+      "PORTUGUESE": "Ah, e ouvi dizer que ele está aqui hoje? Onde ele está?",
+      "RUSSIAN": "О, и мне сказали, что он здесь сегодня? Где он?",
+      "FRENCH": "Oh, et j’ai entendu dire qu’il est là aujourd’hui ? Où est-il ?",
+      "THAI": "โอ้, แล้วฉันได้ยินว่าเขาอยู่ที่นี่วันนี้ใช่ไหม? อยู่ไหนเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 59.2,
+      "HIDE": 63.6
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "아 저깄다!",
+      "ENGLISH": "Oh, there he is!",
+      "CHINESE_SIMPLIFIED": "他在那边~",
+      "CHINESE_TRADITIONAL": "他在那邊~",
+      "JAPANESE": "あっ、あそこに！",
+      "INDONESIAN": "Oh, itu dia!",
+      "PORTUGUESE": "Ah, ali está ele!",
+      "RUSSIAN": "А, вон он!",
+      "FRENCH": "Oh, là-bas !",
+      "THAI": "อ๊ะ, อยู่ตรงนั้น!"
+    },
+    "TIME": {
+      "SHOW": 65.3,
+      "HIDE": 66.0
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "아 손 흔드시는 분? ",
+      "ENGLISH": "Is it the guy waving over there?",
+      "CHINESE_SIMPLIFIED": "啊!正在招手的那位?",
+      "CHINESE_TRADITIONAL": "啊!正在招手的那位?",
+      "JAPANESE": "手を振っている方ですね？",
+      "INDONESIAN": "Apa itu orang yang melambaikan tangan di sana?",
+      "PORTUGUESE": "É o cara acenando ali?",
+      "RUSSIAN": "Это тот парень, который машет нам рукой?",
+      "FRENCH": "C’est le gars qui nous fait signe, là-bas ?",
+      "THAI": "คนที่โบกมืออยู่ตรงนั้นใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 67.5,
+      "HIDE": 68.7
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "어우 스튜디오에 아주 그냥 깨가 쏟아집니다!",
+      "ENGLISH": "Wow, the energy in this studio just shot through the roof!",
+      "CHINESE_SIMPLIFIED": "哎呦喂，二位在演播室撒狗粮啦~",
+      "CHINESE_TRADITIONAL": "哎呦喂，二位在演播室撒狗糧啦~",
+      "JAPANESE": "いや〜スタジオ中がもう、ラブラブムードですね～",
+      "INDONESIAN": "Wow, energi di studio ini langsung melonjak!",
+      "PORTUGUESE": "Uau, a energia neste estúdio acabou de disparar!",
+      "RUSSIAN": "Ого, энергия в студии просто зашкаливает!",
+      "FRENCH": "Waouh, l’énergie dans ce studio vient de monter en flèche !",
+      "THAI": "ว้าว, พลังในสตูดิโอนี่พุ่งกระฉูดเลย!"
+    },
+    "TIME": {
+      "SHOW": 69.9,
+      "HIDE": 73.1
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "아니 나 작가님들 저렇게 웃는 거 처음 봐!",
+      "ENGLISH": "Even our writers are all smiles!",
+      "CHINESE_SIMPLIFIED": "我还是第一次看到我们工作人员笑成那样!",
+      "CHINESE_TRADITIONAL": "我還是第一次看到我們工作人員笑成那樣!",
+      "JAPANESE": "それに、作家さんたちがあんなに笑っているの初めて見ましたよ！",
+      "INDONESIAN": "Bahkan penulis kami semua tersenyum!",
+      "PORTUGUESE": "Até os nossos roteiristas estão todos sorrindo!",
+      "RUSSIAN": "Даже наши сценаристы сияют от счастья!",
+      "FRENCH": "Même nos scénaristes ont le sourire jusqu’aux oreilles !",
+      "THAI": "แม้แต่นักเขียนของพวกเรายังยิ้มแก้มปริ!"
+    },
+    "TIME": {
+      "SHOW": 73.4,
+      "HIDE": 75.8
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "(사랑해)",
+      "ENGLISH": "(I love you)",
+      "CHINESE_SIMPLIFIED": "(爱你呦）",
+      "CHINESE_TRADITIONAL": "(愛你呦）",
+      "JAPANESE": "（愛してる）",
+      "INDONESIAN": "(Aku cinta kamu)",
+      "PORTUGUESE": "(Eu te amo)",
+      "RUSSIAN": "(Я тебя люблю!)",
+      "FRENCH": "(Je t’aime !)",
+      "THAI": "(ฉันรักคุณ)"
+    },
+    "TIME": {
+      "SHOW": 77.3,
+      "HIDE": 78.3
+    }
+  }
+]

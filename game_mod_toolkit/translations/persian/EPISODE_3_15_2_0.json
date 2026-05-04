@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저희 초창기 팬이시기도 해서...",
+      "ENGLISH": "I wanted to show you a good performance",
+      "CHINESE_SIMPLIFIED": "从出道你就是我们粉丝",
+      "CHINESE_TRADITIONAL": "從出道你就是我們粉絲",
+      "JAPANESE": "私たちの初期からのファンでもあったので…",
+      "INDONESIAN": "Aku pengen banget nunjukin penampilan yang bagus",
+      "PORTUGUESE": "Eu queria tanto mostrar uma boa performance",
+      "RUSSIAN": "Я хотела показать тебе хорошее выступление,",
+      "FRENCH": "Je voulais te montrer une belle performance,",
+      "THAI": "ฉันอยากแสดงให้ดี",
+      "PERSIAN": "می خواستم یک اجرای خوب را به شما نشان دهم"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "좋은 모습 보여드리고 싶었는데.",
+      "ENGLISH": "Since you've been a fan from the beginning.",
+      "CHINESE_SIMPLIFIED": "本来想在你面前展现积极向上的一面来着",
+      "CHINESE_TRADITIONAL": "本來想在你面前展現積極向上的一面來着",
+      "JAPANESE": "いい姿を見せたかったんです。",
+      "INDONESIAN": "Karena kamu udah jadi penggemar dari awal.",
+      "PORTUGUESE": "Já que você é fã desde o começo.",
+      "RUSSIAN": "ведь ты был фанатом с самого начала.",
+      "FRENCH": "puisque tu es fan depuis le début.",
+      "THAI": "เพราะนายเป็นแฟนคลับตั้งแต่แรกเริ่ม.",
+      "PERSIAN": "از آنجایی که از ابتدا طرفدار بودید."
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안해요!",
+      "ENGLISH": "I'm sorry!",
+      "CHINESE_SIMPLIFIED": "对不起",
+      "CHINESE_TRADITIONAL": "對不起",
+      "JAPANESE": "ごめんなさい！",
+      "INDONESIAN": "Maaf!",
+      "PORTUGUESE": "Desculpa!",
+      "RUSSIAN": "Прости!",
+      "FRENCH": "Je suis désolé(e) !",
+      "THAI": "ขอโทษนะ!",
+      "PERSIAN": "متاسفم!"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요...",
+      "ENGLISH": "No, it’s okay...",
+      "CHINESE_SIMPLIFIED": "没有没有",
+      "CHINESE_TRADITIONAL": "沒有沒有",
+      "JAPANESE": "いえいえ…",
+      "INDONESIAN": "Nggak, nggak apa-apa...",
+      "PORTUGUESE": "Não, tá tudo bem...",
+      "RUSSIAN": "Нет, всё нормально...",
+      "FRENCH": "Non, ça va...",
+      "THAI": "ไม่เป็นไร...",
+      "PERSIAN": "نه اشکالی نداره..."
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "오히려 이런 일 있을 때",
+      "ENGLISH": "Actually, I’m glad",
+      "CHINESE_SIMPLIFIED": "反倒是这种时候",
+      "CHINESE_TRADITIONAL": "反倒是這種時候",
+      "JAPANESE": "むしろ、こういう時に",
+      "INDONESIAN": "Sebenarnya, aku senang",
+      "PORTUGUESE": "Na verdade, fico feliz",
+      "RUSSIAN": "Честно говоря, я рад,",
+      "FRENCH": "En fait, je suis content(e)",
+      "THAI": "จริง ๆ แล้ว ฉันดีใจนะ",
+      "PERSIAN": "در واقع، من خوشحالم"
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "제가 민정 씨랑 같이 있어서",
+      "ENGLISH": "I was with you when this happened.",
+      "CHINESE_SIMPLIFIED": "能和敏静你在一起",
+      "CHINESE_TRADITIONAL": "能和敏靜你在一起",
+      "JAPANESE": "ミンジョンさんと一緒にいられて、",
+      "INDONESIAN": "Bisa bareng kamu pas ini terjadi.",
+      "PORTUGUESE": "De estar com você quando isso aconteceu.",
+      "RUSSIAN": "что это произошло, когда ты был со мной.",
+      "FRENCH": "d’avoir été avec toi quand ça s’est passé.",
+      "THAI": "ที่นายอยู่กับฉันตอนที่มันเกิดขึ้น.",
+      "PERSIAN": "من با شما بودم که این اتفاق افتاد."
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "다행이었다고 생각해요",
+      "ENGLISH": "Glad to know that.",
+      "CHINESE_SIMPLIFIED": "我觉得很幸运",
+      "CHINESE_TRADITIONAL": "我覺得很幸運",
+      "JAPANESE": "よかったと思っています。",
+      "INDONESIAN": "Senang dengar itu.",
+      "PORTUGUESE": "Bom saber disso.",
+      "RUSSIAN": "Рад это знать.",
+      "FRENCH": "Content(e) de l’entendre.",
+      "THAI": "ดีใจที่ได้ยินแบบนั้น.",
+      "PERSIAN": "خوشحالم که بدانم."
+    },
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨.",
+      "ENGLISH": "Yuman,",
+      "CHINESE_SIMPLIFIED": "宥万",
+      "CHINESE_TRADITIONAL": "宥萬",
+      "JAPANESE": "ユマンさん。",
+      "INDONESIAN": "Yuman,",
+      "PORTUGUESE": "Yuman,",
+      "RUSSIAN": "Юман,",
+      "FRENCH": "Yuman,",
+      "THAI": "ยูมัน,",
+      "PERSIAN": "یومان،"
+    },
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 22.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 괜찮으면",
+      "ENGLISH": "If it’s alright with you",
+      "CHINESE_SIMPLIFIED": "如果可以的话",
+      "CHINESE_TRADITIONAL": "如果可以的話",
+      "JAPANESE": "もしよかったら、",
+      "INDONESIAN": "Kalau kamu nggak keberatan,",
+      "PORTUGUESE": "Se você não se importar,",
+      "RUSSIAN": "если ты не против,",
+      "FRENCH": "si ça te va,",
+      "THAI": "ถ้านายไม่ว่าอะไร,",
+      "PERSIAN": "اگر با شما خوب است"
+    },
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "다음에도...",
+      "ENGLISH": "Could you stay with us",
+      "CHINESE_SIMPLIFIED": "下次也...",
+      "CHINESE_TRADITIONAL": "下次也...",
+      "JAPANESE": "次も…",
+      "INDONESIAN": "Bisa nggak kamu tetap bareng kami",
+      "PORTUGUESE": "Você poderia ficar com a gente",
+      "RUSSIAN": "мог бы ты остаться с нами",
+      "FRENCH": "tu pourrais rester avec nous",
+      "THAI": "ช่วยอยู่กับพวกเราต่อ",
+      "PERSIAN": "میشه با ما بمونی"
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "같이 있어 줄래요?",
+      "ENGLISH": "Next time?",
+      "CHINESE_SIMPLIFIED": "陪我一起来好吗？",
+      "CHINESE_TRADITIONAL": "陪我一起來好嗎？",
+      "JAPANESE": "一緒にいてくれますか？",
+      "INDONESIAN": "Lain kali?",
+      "PORTUGUESE": "Na próxima vez?",
+      "RUSSIAN": "в следующий раз?",
+      "FRENCH": "la prochaine fois ?",
+      "THAI": "คราวหน้าได้ไหม?",
+      "PERSIAN": "دفعه بعد؟"
+    },
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 28.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "매니저로?",
+      "ENGLISH": "As my manager?",
+      "CHINESE_SIMPLIFIED": "我的专属经纪人",
+      "CHINESE_TRADITIONAL": "我的專屬經紀人",
+      "JAPANESE": "マネージャーとして？",
+      "INDONESIAN": "Sebagai manajerku?",
+      "PORTUGUESE": "Como meu gerente?",
+      "RUSSIAN": "В качестве моего менеджера?",
+      "FRENCH": "En tant que mon manager ?",
+      "THAI": "เป็นผู้จัดการของฉัน?",
+      "PERSIAN": "به عنوان مدیر من؟"
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.0
+    }
+  }
+]

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+game_mod_toolkit/backup/
+game_mod_toolkit/test_data.unity3d
+.DS_Store

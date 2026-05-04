@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비",
+      "ENGLISH": "Eun-bi, what are you talking about, who do you mean?",
+      "CHINESE_SIMPLIFIED": "喂 高恩妃",
+      "CHINESE_TRADITIONAL": "喂 高恩妃",
+      "JAPANESE": "おい。",
+      "INDONESIAN": "Eun-bi, kamu ngomong apa sih, maksudnya siapa?",
+      "PORTUGUESE": "Eun-bi, do que você está falando, de quem você está falando?",
+      "RUSSIAN": "Ын-би, о чём ты говоришь, кого ты имеешь в виду?",
+      "FRENCH": "Eun-bi, de quoi tu parles, de qui tu parles ?",
+      "THAI": "อึนบี เธอพูดถึงอะไร ใครเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 0.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 지금 무슨 소리를 하는 거야",
+      "ENGLISH": "What are you talking about",
+      "CHINESE_SIMPLIFIED": "你说什么呢?",
+      "CHINESE_TRADITIONAL": "你說什麼呢?",
+      "JAPANESE": "お前今、何言ってるんだ？",
+      "INDONESIAN": "Ngomong apa sih?",
+      "PORTUGUESE": "Do que você está falando?",
+      "RUSSIAN": "О чём ты говоришь?",
+      "FRENCH": "De quoi tu parles ?",
+      "THAI": "เธอพูดถึงอะไรน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "쟤가 누구냐니.",
+      "ENGLISH": "Who do you mean?",
+      "CHINESE_SIMPLIFIED": "她是谁啊?",
+      "CHINESE_TRADITIONAL": "她是誰啊?",
+      "JAPANESE": "あいつが誰だって？",
+      "INDONESIAN": "Kamu maksud siapa?",
+      "PORTUGUESE": "Quem você quer dizer?",
+      "RUSSIAN": "Кого ты имеешь в виду?",
+      "FRENCH": "Qui ça, “de qui tu parles” ?",
+      "THAI": "ใครเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "여기에 나 말고 누가 있다고 그래?",
+      "ENGLISH": "Who else is here besides me?",
+      "CHINESE_SIMPLIFIED": "这里除了我没有其他人啊?",
+      "CHINESE_TRADITIONAL": "這裏除了我沒有其他人啊?",
+      "JAPANESE": "ここに俺以外誰がいるって言うんだよ？",
+      "INDONESIAN": "Siapa lagi yang ada di sini selain aku?",
+      "PORTUGUESE": "Quem mais está aqui além de mim?",
+      "RUSSIAN": "Кто здесь ещё, кроме меня?",
+      "FRENCH": "Y a quelqu’un d’autre ici à part moi ?",
+      "THAI": "มีใครนอกจากฉันอีกหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.65
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 오빠가 왜 이래?",
+      "ENGLISH": "What's wrong with oppa?",
+      "CHINESE_SIMPLIFIED": "哥哥你怎么了?",
+      "CHINESE_TRADITIONAL": "哥哥你怎麼了?",
+      "JAPANESE": "お兄ちゃん、ふざけてるの？",
+      "INDONESIAN": "Oppa kenapa?",
+      "PORTUGUESE": "O que há de errado com o oppa?",
+      "RUSSIAN": "Что с тобой, оппа?",
+      "FRENCH": "Qu’est-ce qui va pas, oppa ?",
+      "THAI": "เป็นอะไรไปหรือเปล่าพี่?"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너 자꾸 장난치면 오빠 화낸다.",
+      "ENGLISH": "If you keep joking, oppa will get angry.",
+      "CHINESE_SIMPLIFIED": "你再这样捉弄人的话，我可要生气了",
+      "CHINESE_TRADITIONAL": "你再這樣捉弄人的話，我可要生氣了",
+      "JAPANESE": "お前こそ、ふざけてるんじゃないかのか？",
+      "INDONESIAN": "Kalau terus bercanda, oppa bakal marah.",
+      "PORTUGUESE": "Se você continuar brincando, o oppa vai ficar bravo.",
+      "RUSSIAN": "Если будешь продолжать, оппа рассердится.",
+      "FRENCH": "Si tu continues comme ça, oppa va se fâcher.",
+      "THAI": "ถ้าเธอเล่นแบบนี้ต่อไป พี่จะโกรธแล้วนะ"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭔 소리야... 오빠 얘 안 보여?",
+      "ENGLISH": "What are you saying... Can’t you see this person next to you, oppa?",
+      "CHINESE_SIMPLIFIED": "哥哥你在说什么啊…你看不见她吗?",
+      "CHINESE_TRADITIONAL": "哥哥你在說什麼啊…你看不見她嗎?",
+      "JAPANESE": "何言ってるの…お兄ちゃん、あの子見えないの？",
+      "INDONESIAN": "Kamu ngomong apa... Gak lihat orang ini di sebelahmu, oppa?",
+      "PORTUGUESE": "O que você está dizendo... Não tá vendo essa pessoa do seu lado, oppa?",
+      "RUSSIAN": "Ты что... Разве ты не видишь этого человека рядом с тобой, оппа?",
+      "FRENCH": "Qu’est-ce que tu racontes... Tu vois vraiment pas cette personne à côté de toi, oppa ?",
+      "THAI": "นี่พูดอะไรน่ะ... พี่มองไม่เห็นคนที่อยู่ข้างๆ จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "누구?",
+      "ENGLISH": "Who?",
+      "CHINESE_SIMPLIFIED": "谁?",
+      "CHINESE_TRADITIONAL": "誰?",
+      "JAPANESE": "誰？",
+      "INDONESIAN": "Siapa?",
+      "PORTUGUESE": "Quem?",
+      "RUSSIAN": "Кто?",
+      "FRENCH": "Qui ?",
+      "THAI": "ใคร?"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 옆에 있는 애!",
+      "ENGLISH": "The person next to you, oppa!",
+      "CHINESE_SIMPLIFIED": "你旁边的那个人啊!",
+      "CHINESE_TRADITIONAL": "你旁邊的那個人啊!",
+      "JAPANESE": "お兄ちゃんの隣にいる子だよ！",
+      "INDONESIAN": "Orang di sebelahmu, oppa!",
+      "PORTUGUESE": "A pessoa do seu lado, oppa!",
+      "RUSSIAN": "Человека рядом с тобой, оппа!",
+      "FRENCH": "La personne à côté de toi, oppa !",
+      "THAI": "คนที่อยู่ข้างพี่น่ะ!"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "... 언니!!!!",
+      "ENGLISH": "... Sister!!!!",
+      "CHINESE_SIMPLIFIED": "…姐!!!",
+      "CHINESE_TRADITIONAL": "…姐!!!",
+      "JAPANESE": "…お姉ちゃん！！！",
+      "INDONESIAN": "...Kakak!!!!",
+      "PORTUGUESE": "...Irmã!!!!",
+      "RUSSIAN": "... Сестра!!!!",
+      "FRENCH": "... Grande sœur !!!!",
+      "THAI": "... พี่สาว!!!!"
+    },
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.3
+    }
+  }
+]

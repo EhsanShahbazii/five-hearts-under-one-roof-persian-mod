@@ -1,0 +1,439 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어어어 허리 다쳐요...! ",
+      "ENGLISH": "Whoa, whoa, careful! You’ll hurt your back doing that!",
+      "CHINESE_SIMPLIFIED": "哎呀，别伤到腰了…!",
+      "CHINESE_TRADITIONAL": "哎呀，別傷到腰了…!",
+      "JAPANESE": "お、お、お、ケガしますよ…！",
+      "INDONESIAN": "Whoa, hati-hati! Kamu bisa sakit punggung kalau begitu!",
+      "PORTUGUESE": "Whoa, calma aí! Vai machucar as costas fazendo isso!",
+      "RUSSIAN": "Эй, эй, осторожно! Спину повредишь!",
+      "FRENCH": "Whoa, whoa, fais attention ! Tu vas te faire mal au dos comme ça !",
+      "THAI": "เฮ้ย ระวังหน่อย! เดี๋ยวจะเจ็บหลังเอานะ!"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 왔어요?",
+      "ENGLISH": "Oh, you’re here?",
+      "CHINESE_SIMPLIFIED": "哥哥你来啦?",
+      "CHINESE_TRADITIONAL": "哥哥你來啦?",
+      "JAPANESE": "あ、ユマンさん！",
+      "INDONESIAN": "Oh, kamu di sini?",
+      "PORTUGUESE": "Oh, você está aqui?",
+      "RUSSIAN": "О, ты здесь?",
+      "FRENCH": "Oh, t’es là ?",
+      "THAI": "อ๋อ เธอมาแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "다치면 어쩌려고 이걸 혼자 하고 있어요!",
+      "ENGLISH": "What are you thinking?",
+      "CHINESE_SIMPLIFIED": "怎么自己搬啊，受伤了怎么办！",
+      "CHINESE_TRADITIONAL": "怎麼自己搬啊，受傷了怎麼辦！",
+      "JAPANESE": "何で、こんなこと一人で...ケガするじゃないですか！",
+      "INDONESIAN": "Lagi mikirin apa?",
+      "PORTUGUESE": "No que está pensando?",
+      "RUSSIAN": "О чём ты думаешь?",
+      "FRENCH": "À quoi tu penses ?",
+      "THAI": "คิดอะไรอยู่หรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "나와봐요.",
+      "ENGLISH": "You could really injure yourself!",
+      "CHINESE_SIMPLIFIED": "你起来",
+      "CHINESE_TRADITIONAL": "你起來",
+      "JAPANESE": "ちょっと、待ってくださいね。",
+      "INDONESIAN": "Kamu bisa beneran cedera!",
+      "PORTUGUESE": "Pode se machucar de verdade!",
+      "RUSSIAN": "Ты действительно можешь себе навредить!",
+      "FRENCH": "Tu pourrais vraiment te blesser !",
+      "THAI": "เธออาจจะบาดเจ็บจริงๆ ได้นะ!"
+    },
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 무거운 걸 혼자 들려고 했던 거예요?",
+      "ENGLISH": "Let me take care of that.",
+      "CHINESE_SIMPLIFIED": "这么重的东西你打算自己搬来着？",
+      "CHINESE_TRADITIONAL": "這麼重的東西你打算自己搬來着？",
+      "JAPANESE": "こんな重いの、どうやってを一人で...",
+      "INDONESIAN": "Biar aku aja yang urus ini.",
+      "PORTUGUESE": "Deixa que eu cuido disso.",
+      "RUSSIAN": "Позволь, я сам разберусь.",
+      "FRENCH": "Laisse-moi m’en occuper.",
+      "THAI": "ให้ฉันจัดการเองเถอะ"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "에이 오빠! 나 은근 튼튼해요!",
+      "ENGLISH": "Pshh, come on, I’m tougher than I look!",
+      "CHINESE_SIMPLIFIED": "哥哥，我没那么娇气啦~",
+      "CHINESE_TRADITIONAL": "哥哥，我沒那麼嬌氣啦~",
+      "JAPANESE": "大丈夫ですよ！私こう見えて、結構力持ちなんですから！",
+      "INDONESIAN": "Pshh, ayolah, aku lebih kuat daripada kelihatannya!",
+      "PORTUGUESE": "Pshh, fala sério, eu sou mais forte do que pareço!",
+      "RUSSIAN": "Пфф, да ладно, я крепче, чем выгляжу!",
+      "FRENCH": "Pff, allez, je suis plus solide que j’en ai l’air !",
+      "THAI": "แหม ฉันแข็งแรงกว่าที่เห็นเยอะนะ!"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그것보다 오늘 얘기할 거 있어서 불렀는데.",
+      "ENGLISH": "Actually, I called you over to talk about something today.",
+      "CHINESE_SIMPLIFIED": "我叫你来是有事想和你说",
+      "CHINESE_TRADITIONAL": "我叫你來是有事想和你說",
+      "JAPANESE": "それより、今日は話があって呼んだんです。",
+      "INDONESIAN": "Sebenarnya, aku panggil kamu ke sini untuk ngomong sesuatu hari ini.",
+      "PORTUGUESE": "Na verdade, eu te chamei aqui hoje pra conversar sobre uma coisa.",
+      "RUSSIAN": "На самом деле, я позвала тебя, чтобы кое-что обсудить сегодня.",
+      "FRENCH": "En fait, je t’ai appelée parce que j’ai un truc à te dire aujourd’hui.",
+      "THAI": "จริงๆ แล้วฉันเรียกเธอมาวันนี้เพราะมีเรื่องจะบอก"
+    },
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "뭔데요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么事?",
+      "CHINESE_TRADITIONAL": "什麼事?",
+      "JAPANESE": "何の話ですか？",
+      "INDONESIAN": "Apa itu?",
+      "PORTUGUESE": "O que foi?",
+      "RUSSIAN": "Что такое?",
+      "FRENCH": "Quoi donc ?",
+      "THAI": "อะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나 카페 그만둘 거예요.",
+      "ENGLISH": "I'm quitting the cafe.",
+      "CHINESE_SIMPLIFIED": "我要从咖啡店辞职了",
+      "CHINESE_TRADITIONAL": "我要從咖啡店辭職了",
+      "JAPANESE": "実は私、カフェ辞めることにしたんです。",
+      "INDONESIAN": "Aku mau berhenti kerja di kafe.",
+      "PORTUGUESE": "Eu vou sair do café.",
+      "RUSSIAN": "Я ухожу из кафе.",
+      "FRENCH": "Je quitte le café.",
+      "THAI": "ฉันจะลาออกจากร้านกาแฟ"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 31.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그리고...",
+      "ENGLISH": "And...",
+      "CHINESE_SIMPLIFIED": "还有…",
+      "CHINESE_TRADITIONAL": "還有…",
+      "JAPANESE": "それと…",
+      "INDONESIAN": "Dan…",
+      "PORTUGUESE": "E…",
+      "RUSSIAN": "И...",
+      "FRENCH": "Et...",
+      "THAI": "แล้วก็..."
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 33.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그리고...?",
+      "ENGLISH": "And...?",
+      "CHINESE_SIMPLIFIED": "还有…?",
+      "CHINESE_TRADITIONAL": "還有…?",
+      "JAPANESE": "それと？",
+      "INDONESIAN": "Dan...?",
+      "PORTUGUESE": "E…?",
+      "RUSSIAN": "И...?",
+      "FRENCH": "Et...?",
+      "THAI": "แล้วก็...?"
+    },
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 34.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "저 솔로 데뷔해요!",
+      "ENGLISH": "I'm debuting as a solo artist!",
+      "CHINESE_SIMPLIFIED": "我要SOLO出道了!",
+      "CHINESE_TRADITIONAL": "我要SOLO出道了!",
+      "JAPANESE": "ソロデビューすることにしたんです！",
+      "INDONESIAN": "Aku akan debut sebagai artis solo!",
+      "PORTUGUESE": "Vou estrear como artista solo!",
+      "RUSSIAN": "Я дебютирую как сольная артистка!",
+      "FRENCH": "Je débute en tant qu’artiste solo !",
+      "THAI": "ฉันจะเปิดตัวในฐานะศิลปินเดี่ยว!"
+    },
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 37.5
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어? 솔로? 솔로로 나온다고요?",
+      "ENGLISH": "Wait, solo? Like, you're going solo?",
+      "CHINESE_SIMPLIFIED": "哦？SOLO?你要单独出道啦?",
+      "CHINESE_TRADITIONAL": "哦？SOLO?你要單獨出道啦?",
+      "JAPANESE": "えっ？ソロ？ソロですか？",
+      "INDONESIAN": "Tunggu, solo? Maksudnya, kamu jadi solois?",
+      "PORTUGUESE": "Espera, solo? Tipo, você vai seguir carreira solo?",
+      "RUSSIAN": "Постой, сольная? Ты идёшь в сольное плавание?",
+      "FRENCH": "Attends, solo ? Genre, tu te lances en solo ?",
+      "THAI": "เดี๋ยวนะ เดี่ยว? เธอจะเดบิวต์เดี่ยวเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 41.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우와 대박! 완전 축하해요!",
+      "ENGLISH": "Wow, that's amazing! Congratulations!",
+      "CHINESE_SIMPLIFIED": "哇 太棒了!恭喜恭喜!",
+      "CHINESE_TRADITIONAL": "哇 太棒了!恭喜恭喜!",
+      "JAPANESE": "うわぁ、すごい！おめでとうございます！",
+      "INDONESIAN": "Wow, luar biasa! Selamat, ya!",
+      "PORTUGUESE": "Uau, isso é incrível! Parabéns!",
+      "RUSSIAN": "Вау, это потрясающе! Поздравляю!",
+      "FRENCH": "Wow, c’est incroyable ! Félicitations !",
+      "THAI": "ว้าว น่าทึ่งมาก! ยินดีด้วยนะ!"
+    },
+    "TIME": {
+      "SHOW": 42.3,
+      "HIDE": 44.7
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "나 소름 돋았어...",
+      "ENGLISH": "I got goosebumps...",
+      "CHINESE_SIMPLIFIED": "我都起鸡皮疙瘩了…",
+      "CHINESE_TRADITIONAL": "我都起雞皮疙瘩了…",
+      "JAPANESE": "鳥肌立った…",
+      "INDONESIAN": "Sampai merinding, nih…",
+      "PORTUGUESE": "Fiquei até arrepiado...",
+      "RUSSIAN": "У меня мурашки по коже...",
+      "FRENCH": "J’en ai des frissons...",
+      "THAI": "ฉันขนลุกเลย..."
+    },
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 46.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "사실 예전부터 얘기는 나오고 있었는데",
+      "ENGLISH": "They've been talking about it for a while",
+      "CHINESE_SIMPLIFIED": "其实这件事以前就有在讨论",
+      "CHINESE_TRADITIONAL": "其實這件事以前就有在討論",
+      "JAPANESE": "実は、前から話は出てたんですけど",
+      "INDONESIAN": "Mereka udah ngomongin soal ini cukup lama.",
+      "PORTUGUESE": "Estavam comentando sobre isso já faz um tempo.",
+      "RUSSIAN": "Об этом говорили уже давно,",
+      "FRENCH": "Ils en parlaient depuis un moment,",
+      "THAI": "เขาพูดถึงเรื่องนี้มานานแล้ว"
+    },
+    "TIME": {
+      "SHOW": 46.6,
+      "HIDE": 49.4
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 아침에 확정 발표가 나서...",
+      "ENGLISH": "But it was confirmed this morning.",
+      "CHINESE_SIMPLIFIED": "今天早上终于确定了…",
+      "CHINESE_TRADITIONAL": "今天早上終於確定了…",
+      "JAPANESE": "今朝、正式に決まって…",
+      "INDONESIAN": "Dan baru dikonfirmasi pagi ini.",
+      "PORTUGUESE": "Mas foi confirmado hoje de manhã.",
+      "RUSSIAN": "но подтвердили только сегодня утром.",
+      "FRENCH": "mais c’est confirmé ce matin.",
+      "THAI": "แต่เพิ่งจะยืนยันเมื่อเช้านี้เอง"
+    },
+    "TIME": {
+      "SHOW": 49.9,
+      "HIDE": 52.1
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "哦~",
+      "CHINESE_TRADITIONAL": "哦~",
+      "JAPANESE": "あ～",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "RUSSIAN": "Ах~",
+      "FRENCH": "Ah~",
+      "THAI": "อา~"
+    },
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.7
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "오빠한테 제일 먼저 얘기해주고 싶어서 불렀어요!",
+      "ENGLISH": "I wanted you to be the first to know!",
+      "CHINESE_SIMPLIFIED": "叫哥哥来也是因为最想第一个告诉你!",
+      "CHINESE_TRADITIONAL": "叫哥哥來也是因爲最想第一個告訴你!",
+      "JAPANESE": "それで、一番に最初にユマンさんに報告したくて。",
+      "INDONESIAN": "Aku pengin kamu yang pertama tahu!",
+      "PORTUGUESE": "Queria que você fosse o primeiro a saber!",
+      "RUSSIAN": "Я хотела, чтобы ты был первым, кто узнает!",
+      "FRENCH": "Je voulais que tu sois le premier à le savoir !",
+      "THAI": "ฉันอยากให้เธอเป็นคนแรกที่รู้!"
+    },
+    "TIME": {
+      "SHOW": 54.0,
+      "HIDE": 56.5
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "이제 밍밍이 아니라 박민정으로 서려고요.",
+      "ENGLISH": "You'll be known as Park Min-jung, not Mingming anymore.",
+      "CHINESE_SIMPLIFIED": "以后站在舞台上的不再是敏敏，而是朴敏静",
+      "CHINESE_TRADITIONAL": "以後站在舞臺上的不再是敏敏，而是樸敏靜",
+      "JAPANESE": "これからはミンミンじゃなくて、パク・ミンジョンとして立つことになるんです！",
+      "INDONESIAN": "Aku akan dikenal sebagai Park Min-jung, bukan Mingming lagi.",
+      "PORTUGUESE": "Serei conhecida como Park Min-jung, não mais como Mingming.",
+      "RUSSIAN": "Теперь тебя будут знать как Пак Мин-чжун, а не Минмин.",
+      "FRENCH": "On te connaîtra comme Park Min-jung, plus comme Mingming.",
+      "THAI": "จากนี้เธอจะได้รู้จักฉันในชื่อ พัค มินจอง ไม่ใช่มิงมิงอีกแล้ว"
+    },
+    "TIME": {
+      "SHOW": 57.4,
+      "HIDE": 61.4
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "역시 민정 님은 뭐든 해낼 줄 알았다니깐요!",
+      "ENGLISH": "I always knew you’d do something big.",
+      "CHINESE_SIMPLIFIED": "我就知道敏静你做什么都会成功!",
+      "CHINESE_TRADITIONAL": "我就知道敏靜你做什麼都會成功!",
+      "JAPANESE": "さすが、ミンジョンさん！信じてましたよ！",
+      "INDONESIAN": "Aku selalu tahu kamu bakal melakukan hal besar.",
+      "PORTUGUESE": "Eu sempre soube que você ia fazer algo grandioso.",
+      "RUSSIAN": "Я всегда знала, что ты добьёшься чего-то большого.",
+      "FRENCH": "J’ai toujours su que tu ferais quelque chose de grand.",
+      "THAI": "ฉันรู้อยู่แล้วว่าเธอต้องไปได้ไกลแน่"
+    },
+    "TIME": {
+      "SHOW": 62.0,
+      "HIDE": 64.6
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "암튼 알바생 마지막 날이니까",
+      "ENGLISH": "Thanks! Oh, and since it’s my last day as a barista",
+      "CHINESE_SIMPLIFIED": "今天是我兼职的最后一天",
+      "CHINESE_TRADITIONAL": "今天是我兼職的最後一天",
+      "JAPANESE": "とにかく、今日がバイト最後の日なので",
+      "INDONESIAN": "Terima kasih! Oh, dan karena ini hari terakhirku sebagai barista,",
+      "PORTUGUESE": "Obrigada! Ah, e como hoje é meu último dia de barista,",
+      "RUSSIAN": "Спасибо! Ах, и раз это мой последний день в качестве баристы,",
+      "FRENCH": "Merci ! Ah, et comme c’est mon dernier jour en tant que barista,",
+      "THAI": "ขอบใจ! อ้อ และเพราะวันนี้เป็นวันสุดท้ายของฉันในฐานะบาริสต้า"
+    },
+    "TIME": {
+      "SHOW": 65.4,
+      "HIDE": 67.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "내가 신메뉴 만들어 줄게요!",
+      "ENGLISH": "Let me whip up a special drink for you.",
+      "CHINESE_SIMPLIFIED": "我给你做个新品吧!",
+      "CHINESE_TRADITIONAL": "我給你做個新品吧!",
+      "JAPANESE": "新メニュー作ってあげますね！",
+      "INDONESIAN": "Biar aku buat minuman spesial untukmu.",
+      "PORTUGUESE": "Deixa eu preparar uma bebida especial pra você.",
+      "RUSSIAN": "позволь мне приготовить для тебя особый напиток.",
+      "FRENCH": "laisse-moi te préparer une boisson spéciale.",
+      "THAI": "ให้ฉันทำเครื่องดื่มพิเศษให้เธอหน่อยนะ"
+    },
+    "TIME": {
+      "SHOW": 67.7,
+      "HIDE": 69.4
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이건 살스랑 다를 게 없잖아.",
+      "ENGLISH": "This is just the same as my skin color, isn't it?",
+      "CHINESE_SIMPLIFIED": "这个太贴近肤色了",
+      "CHINESE_TRADITIONAL": "這個太貼近膚色了",
+      "JAPANESE": "これシースルーと変わりないじゃない。",
+      "INDONESIAN": "Ini hampir sama dengan warna kulitku, kan?",
+      "PORTUGUESE": "Isso é praticamente da cor da minha pele, não é?",
+      "RUSSIAN": "Это ведь почти моего цвета кожи, да?",
+      "FRENCH": "C’est presque de la même couleur que ma peau, non ?",
+      "THAI": "นี่มันสีเดียวกับผิวฉันเลยใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 검정 스타킹 줘.",
+      "ENGLISH": "Just give me the black one.",
+      "CHINESE_SIMPLIFIED": "还是给我黑色的吧",
+      "CHINESE_TRADITIONAL": "還是給我黑色的吧",
+      "JAPANESE": "黒いストッキングでいいからちょうだい。",
+      "INDONESIAN": "Kasih aku yang hitam aja.",
+      "PORTUGUESE": "Me dá a preta.",
+      "RUSSIAN": "Просто дай мне чёрные.",
+      "FRENCH": "Donne-moi juste les noirs.",
+      "THAI": "เอาสีดำมาให้ฉันดีกว่า"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "앞으로 스타킹 사 오라고 하면 이거 사와.",
+      "ENGLISH": "From now on, if I ask for stockings, get these ones.",
+      "CHINESE_SIMPLIFIED": "以后让你买丝袜的时候就买这个",
+      "CHINESE_TRADITIONAL": "以後讓你買絲襪的時候就買這個",
+      "JAPANESE": "今後、ストッキングを買ってきてって言ったら、これを買ってきて。",
+      "INDONESIAN": "Mulai sekarang, kalau aku minta stoking, belikan yang ini.",
+      "PORTUGUESE": "A partir de agora, se eu pedir meias, pegue essas.",
+      "RUSSIAN": "С этого момента, если я попрошу чулки, приноси такие.",
+      "FRENCH": "À partir de maintenant, si je demande des bas, prends ceux-là.",
+      "THAI": "ต่อไปถ้าฉันขอถุงน่อง เอาแบบนี้มาให้เท่านั้น"
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아닌 경우엔 내가 따로 말 해줄 테니깐. ",
+      "ENGLISH": "... If I need something different, I’ll let you know.",
+      "CHINESE_SIMPLIFIED": "除非我另有指示",
+      "CHINESE_TRADITIONAL": "除非我另有指示",
+      "JAPANESE": "違う場合は、私が直接言うから。",
+      "INDONESIAN": "... Kalau aku butuh yang lain, aku kasih tahu nanti.",
+      "PORTUGUESE": "... Se eu precisar de algo diferente, te aviso.",
+      "RUSSIAN": "...Если мне понадобится что-то другое, я скажу.",
+      "FRENCH": "...Si j’ai besoin d’autre chose, je te le dirai.",
+      "THAI": "...ถ้าฉันต้องการแบบอื่น เดี๋ยวบอกเอง"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 29.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네.. 알겠습니다!",
+      "ENGLISH": "Understood",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "はい…分かりました！",
+      "INDONESIAN": "Baik, mengerti",
+      "PORTUGUESE": "Certo, entendido",
+      "RUSSIAN": "Понял?",
+      "FRENCH": "Compris ?",
+      "THAI": "เข้าใจไหม?"
+    },
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 32.9
+    }
+  }
+]

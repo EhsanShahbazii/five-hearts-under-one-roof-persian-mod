@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "으응..",
+      "ENGLISH": "Ugh...",
+      "CHINESE_SIMPLIFIED": "额…",
+      "CHINESE_TRADITIONAL": "額…",
+      "JAPANESE": "んん…",
+      "INDONESIAN": "Ugh…",
+      "PORTUGUESE": "Ugh…",
+      "RUSSIAN": "Эх...",
+      "FRENCH": "Ugh...",
+      "THAI": "อึ...",
+      "PERSIAN": "Ugh..."
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "싫어?",
+      "ENGLISH": "You don't like it?",
+      "CHINESE_SIMPLIFIED": "你不想吃?",
+      "CHINESE_TRADITIONAL": "你不想吃?",
+      "JAPANESE": "嫌なんですか？",
+      "INDONESIAN": "Kamu nggak suka?",
+      "PORTUGUESE": "Não gostou?",
+      "RUSSIAN": "Тебе не понравилось?",
+      "FRENCH": "Tu n’aimes pas ?",
+      "THAI": "ไม่ชอบเหรอ?",
+      "PERSIAN": "شما اونو دوست ندارید؟"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "형 소시지 말고...",
+      "ENGLISH": "Not the sausage, ",
+      "CHINESE_SIMPLIFIED": "我比起香肠，更想吃…",
+      "CHINESE_TRADITIONAL": "我比起香腸，更想吃…",
+      "JAPANESE": "兄さんのソーセージじゃなくて…",
+      "INDONESIAN": "Bukan sosisnya,",
+      "PORTUGUESE": "Não é a linguiça,",
+      "RUSSIAN": "Не сосиска,",
+      "FRENCH": "Pas la saucisse,",
+      "THAI": "ไม่ใช่ไส้กรอก,",
+      "PERSIAN": "نه سوسیس،"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bise",
+      "THAI": "จุ๊บ",
+      "PERSIAN": "*پیک*"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우유만...",
+      "ENGLISH": "Just... milk, please...",
+      "CHINESE_SIMPLIFIED": "吴宥万…",
+      "CHINESE_TRADITIONAL": "吳宥萬…",
+      "JAPANESE": "ユマン…",
+      "INDONESIAN": "Cuma... minta susu aja...",
+      "PORTUGUESE": "Só... me dá leite, por favor...",
+      "RUSSIAN": "Просто... молока, пожалуйста...",
+      "FRENCH": "Juste... du lait, s’il te plaît...",
+      "THAI": "แค่อยากได้... นมหน่อย...",
+      "PERSIAN": "فقط...شیر لطفا..."
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.2
+    }
+  }
+]

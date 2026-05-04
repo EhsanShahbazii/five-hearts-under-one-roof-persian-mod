@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "동 과장님이 그렇게 안 보여도",
+      "ENGLISH": "You know, even though Manager Dong doesn’t show it",
+      "CHINESE_SIMPLIFIED": "虽然外表看起来冷冰冰的",
+      "CHINESE_TRADITIONAL": "雖然外表看起來冷冰冰的",
+      "JAPANESE": "ドン課長、見た目じゃ誤解されやすいんですけど",
+      "INDONESIAN": "Kamu tahu, meskipun Manajer Dong tidak menunjukkannya,",
+      "PORTUGUESE": "Sabe, mesmo que a Gerente Dong não demonstre,",
+      "RUSSIAN": "Знаешь, хотя Менеджер Дон не показывает это,",
+      "FRENCH": "Tu sais, même si Manager Dong ne le montre pas,",
+      "THAI": "คุณรู้ไหม ผู้จัดการดงน่ะ ถึงจะไม่แสดงออก"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "마음이 진짜 고우시거든요.",
+      "ENGLISH": "She’s actually got a really kind heart.",
+      "CHINESE_SIMPLIFIED": "但她的心地真的很善良",
+      "CHINESE_TRADITIONAL": "但她的心地真的很善良",
+      "JAPANESE": "心が本当に綺麗な方なんです。",
+      "INDONESIAN": "Dia sebenarnya punya hati yang sangat baik.",
+      "PORTUGUESE": "Ela tem um coração muito bondoso.",
+      "RUSSIAN": "у неё на самом деле доброе сердце.",
+      "FRENCH": "elle a en réalité un cœur très gentil.",
+      "THAI": "แต่จริงๆ แล้วเธอใจดีมาก"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "좋은 부모님 밑에서 자란 티가 난달까요?",
+      "ENGLISH": "You can tell she was raised well.",
+      "CHINESE_SIMPLIFIED": "感觉她的家教很好",
+      "CHINESE_TRADITIONAL": "感覺她的家教很好",
+      "JAPANESE": "良いご両親に育てられたのが、伝わってきますよね。",
+      "INDONESIAN": "Kelihatan banget kalau dia dibesarkan dengan baik.",
+      "PORTUGUESE": "Dá pra ver que ela foi bem educada.",
+      "RUSSIAN": "Сразу видно, что её хорошо воспитали.",
+      "FRENCH": "On voit bien qu’elle a été bien éduquée.",
+      "THAI": "ดูออกเลยว่าได้รับการเลี้ยงดูมาอย่างดี"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "허허허! 그렇게 보였나요?",
+      "ENGLISH": "Hah! You think so?",
+      "CHINESE_SIMPLIFIED": "哈哈哈，是这样吗？",
+      "CHINESE_TRADITIONAL": "哈哈哈，是這樣嗎？",
+      "JAPANESE": "ははは！そう、思ってたんですか？",
+      "INDONESIAN": "Hah! Kamu pikir begitu?",
+      "PORTUGUESE": "Hah! Você acha mesmo?",
+      "RUSSIAN": "Ха! Ты так думаешь?",
+      "FRENCH": "Ah ! Tu penses vraiment ça ?",
+      "THAI": "ฮะ! คิดแบบนั้นเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "거 솔직해서 좋구만.",
+      "ENGLISH": "Well, I appreciate the honesty.",
+      "CHINESE_SIMPLIFIED": "有一说一这点很好",
+      "CHINESE_TRADITIONAL": "有一說一這點很好",
+      "JAPANESE": "あんた、結構正直だな。",
+      "INDONESIAN": "Yah, aku menghargai kejujuranmu.",
+      "PORTUGUESE": "Bom, eu aprecio a sinceridade.",
+      "RUSSIAN": "Ну что ж, я ценю твою откровенность.",
+      "FRENCH": "Eh bien, j’apprécie ta franchise.",
+      "THAI": "เอาล่ะ ผมชอบในความตรงไปตรงมาของคุณนะ"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이런 걸 요즘 요즘 엠제트(MZ)라고들 하나?",
+      "ENGLISH": "Is this what they call MZ—one of those new-generation traits?",
+      "CHINESE_SIMPLIFIED": "这就是MZ时代的年轻人吗哈哈",
+      "CHINESE_TRADITIONAL": "這就是MZ時代的年輕人嗎哈哈",
+      "JAPANESE": "これが最近言う「MZ世代」ってやつか？",
+      "INDONESIAN": "Apa ini yang disebut MZ, ciri khas generasi baru itu?",
+      "PORTUGUESE": "É isso que chamam de MZ, uma dessas características da nova geração?",
+      "RUSSIAN": "Это то, что называют МЗ—вот эти качества нового поколения?",
+      "FRENCH": "C’est ça qu’on appelle la génération MZ, ce genre de traits de la nouvelle génération ?",
+      "THAI": "นี่หรือเปล่าที่เขาเรียกว่า MZ คุณลักษณะของคนรุ่นใหม่?"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 16.0
+    }
+  }
+]

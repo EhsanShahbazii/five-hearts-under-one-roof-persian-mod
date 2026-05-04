@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "빨간색이요!",
+      "ENGLISH": "Red!",
+      "CHINESE_SIMPLIFIED": "红色!",
+      "CHINESE_TRADITIONAL": "紅色!",
+      "JAPANESE": "赤色ですよね！",
+      "INDONESIAN": "Merah!",
+      "PORTUGUESE": "Vermelho!",
+      "RUSSIAN": "Красный!",
+      "FRENCH": "Rouge !",
+      "THAI": "สีแดง!",
+      "PERSIAN": "قرمز!"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "기억하시는 구나!",
+      "ENGLISH": "So, you remember!",
+      "CHINESE_SIMPLIFIED": "原来您还记得!",
+      "CHINESE_TRADITIONAL": "原來您還記得!",
+      "JAPANESE": "覚えてたんですね！",
+      "INDONESIAN": "Jadi, kamu ingat!",
+      "PORTUGUESE": "Então, você se lembra!",
+      "RUSSIAN": "Так ты помнишь!",
+      "FRENCH": "Donc tu t’en souviens !",
+      "THAI": "แสดงว่าคุณจำได้!",
+      "PERSIAN": "بنابراین، شما به یاد داشته باشید!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저는 늘 궁금했던 게...",
+      "ENGLISH": "I’ve always wondered...",
+      "CHINESE_SIMPLIFIED": "我一直都很好奇…",
+      "CHINESE_TRADITIONAL": "我一直都很好奇…",
+      "JAPANESE": "ずっと気になってたんですけど…",
+      "INDONESIAN": "Aku selalu bertanya-tanya...",
+      "PORTUGUESE": "Sempre me perguntei...",
+      "RUSSIAN": "Мне всегда было интересно...",
+      "FRENCH": "Je me suis toujours demandé...",
+      "THAI": "ฉันสงสัยมาตลอดเลยว่า...",
+      "PERSIAN": "من همیشه تعجب کرده ام ..."
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님도 그렇고, 부모님도 그렇고",
+      "ENGLISH": "Why do you and your parents",
+      "CHINESE_SIMPLIFIED": "宥万您也是, 您父母也是",
+      "CHINESE_TRADITIONAL": "宥萬您也是, 您父母也是",
+      "JAPANESE": "ユマンさんもそうですし、両親もそうなんですけど",
+      "INDONESIAN": "Kenapa kamu dan orang tuamu",
+      "PORTUGUESE": "Por que você e seus pais",
+      "RUSSIAN": "Почему ты и твои родители",
+      "FRENCH": "Pourquoi toi et tes parents",
+      "THAI": "ทำไมคุณกับพ่อแม่ของคุณ",
+      "PERSIAN": "چرا تو و پدر و مادرت"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "왜 다 저를 품어주세요?",
+      "ENGLISH": "Treat me so kindly?",
+      "CHINESE_SIMPLIFIED": "为什么无条件地收留我了呢?",
+      "CHINESE_TRADITIONAL": "爲什麼無條件地收留我了呢?",
+      "JAPANESE": "何で、みなさん私に優しくしてくれるんですか？",
+      "INDONESIAN": "Memperlakukan aku dengan begitu baik?",
+      "PORTUGUESE": "Me tratam com tanta gentileza?",
+      "RUSSIAN": "так добры ко мне?",
+      "FRENCH": "êtes si gentils avec moi ?",
+      "THAI": "ถึงใจดีกับฉันขนาดนี้?",
+      "PERSIAN": "با من اینقدر مهربان رفتار کن؟"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.8
+    }
+  }
+]

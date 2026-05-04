@@ -1,0 +1,222 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아! 너 그거 잘 부르잖아.",
+      "ENGLISH": "Oh! You’re good at that one song.",
+      "CHINESE_SIMPLIFIED": "对了!你不是擅长唱那首歌吗!",
+      "CHINESE_TRADITIONAL": "對了!你不是擅長唱那首歌嗎!",
+      "JAPANESE": "あ！お前、あの曲うまいじゃん。",
+      "INDONESIAN": "Oh! Kamu jago banget nyanyi lagu itu.",
+      "PORTUGUESE": "Oh! Você é muito bom naquela música.",
+      "RUSSIAN": "О! Ты хорошо поёшь эту песню.",
+      "FRENCH": "Oh ! T’es doué(e) pour cette chanson.",
+      "THAI": "โอ้! นายร้องเพลงนั้นเก่งมากเลย.",
+      "PERSIAN": "اوه! شما در اون یک آهنگ خوب هستید."
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나 간만에 너 그거 부르는 거 듣고 싶은데...",
+      "ENGLISH": "I want to hear you sing it.",
+      "CHINESE_SIMPLIFIED": "久违的想听你唱那个来着",
+      "CHINESE_TRADITIONAL": "久違的想聽你唱那個來着",
+      "JAPANESE": "久しぶりにお前があの曲歌うの聞きたいな…",
+      "INDONESIAN": "Aku mau dengar kamu nyanyiin.",
+      "PORTUGUESE": "Quero ouvir você cantar.",
+      "RUSSIAN": "Я хочу услышать, как ты её споёшь.",
+      "FRENCH": "Je veux t’entendre la chanter.",
+      "THAI": "ฉันอยากฟังนายร้อง.",
+      "PERSIAN": "می خواهم بشنوم که اونو می خوانی."
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "솜사탕?",
+      "ENGLISH": "“Cotton Candy,” right?",
+      "CHINESE_SIMPLIFIED": "《棉花糖》?",
+      "CHINESE_TRADITIONAL": "《棉花糖》?",
+      "JAPANESE": "「わたあめ」？",
+      "INDONESIAN": "“Cotton Candy,” kan?",
+      "PORTUGUESE": "“Cotton Candy,” certo?",
+      "RUSSIAN": "Сахарная вата, да?",
+      "FRENCH": "Barbe à papa, c’est ça ?",
+      "THAI": "สายไหม ใช่ไหม?",
+      "PERSIAN": "\"نبات پنبه\"، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그걸 기억해?",
+      "ENGLISH": "You remember that?",
+      "CHINESE_SIMPLIFIED": "你居然还记得那首歌?",
+      "CHINESE_TRADITIONAL": "你居然還記得那首歌?",
+      "JAPANESE": "覚えてるの？",
+      "INDONESIAN": "Kamu ingat itu?",
+      "PORTUGUESE": "Você se lembra?",
+      "RUSSIAN": "Ты помнишь?",
+      "FRENCH": "Tu t’en souviens ?",
+      "THAI": "นายจำได้ด้วยเหรอ?",
+      "PERSIAN": "You remember that?"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "당연하지!",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然啦!",
+      "CHINESE_TRADITIONAL": "當然啦!",
+      "JAPANESE": "もちろんだよ！",
+      "INDONESIAN": "Tentu saja!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "แน่นอนสิ!",
+      "PERSIAN": "الـ... البته که میشه!"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 근데 나 안 보고 싶었어?",
+      "ENGLISH": "Oppa, didn’t you miss me?",
+      "CHINESE_SIMPLIFIED": "不过哥哥，你没想我吗?",
+      "CHINESE_TRADITIONAL": "不過哥哥，你沒想我嗎?",
+      "JAPANESE": "お兄ちゃん、私のこと会いたくなかった？",
+      "INDONESIAN": "Oppa, kamu kangen aku, nggak?",
+      "PORTUGUESE": "Oppa, você sentiu minha falta?",
+      "RUSSIAN": "Оппа, ты ведь скучал по мне?",
+      "FRENCH": "Oppa, tu t’es ennuyé de moi, non ?",
+      "THAI": "อปป้า คิดถึงฉันไหม?",
+      "PERSIAN": "یومان، دلت برام تنگ نشده بود؟"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "보고 싶었지!",
+      "ENGLISH": "Of course I missed you!",
+      "CHINESE_SIMPLIFIED": "我当然想了",
+      "CHINESE_TRADITIONAL": "我當然想了",
+      "JAPANESE": "会いたかったさ！",
+      "INDONESIAN": "Tentu aku kangen kamu!",
+      "PORTUGUESE": "Claro que senti sua falta!",
+      "RUSSIAN": "Конечно, я скучал по тебе!",
+      "FRENCH": "Bien sûr que tu m’as manqué !",
+      "THAI": "แน่นอน คิดถึงสิ!",
+      "PERSIAN": "البته دلم برات تنگ شده بود!"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그 쪼그마했던 게 언제 이렇게 커 가지고...",
+      "ENGLISH": "You’ve grown so much since you were little...",
+      "CHINESE_SIMPLIFIED": "之前的小不点儿居然都已经长这么大了…",
+      "CHINESE_TRADITIONAL": "之前的小不點兒居然都已經長這麼大了…",
+      "JAPANESE": "あんな小さかったのが、いつの間にこんなに大きくなったんだよ…",
+      "INDONESIAN": "Nggak nyangka, kamu sekarang udah segede ini...",
+      "PORTUGUESE": "Você cresceu tanto desde que era pequena...",
+      "RUSSIAN": "Ты так выросла с тех пор, как была маленькой...",
+      "FRENCH": "T’as tellement grandi depuis que t’étais petit(e)...",
+      "THAI": "เธอโตขึ้นเยอะเลยตั้งแต่เด็ก ๆ...",
+      "PERSIAN": "از بچگی خیلی بزرگ شدی..."
+    },
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나도.",
+      "ENGLISH": "Me too. ",
+      "CHINESE_SIMPLIFIED": "我也",
+      "CHINESE_TRADITIONAL": "我也",
+      "JAPANESE": "私も。",
+      "INDONESIAN": "Aku juga.",
+      "PORTUGUESE": "Eu também.",
+      "RUSSIAN": "Я тоже.",
+      "FRENCH": "Moi aussi.",
+      "THAI": "ฉันก็เหมือนกัน.",
+      "PERSIAN": "منم همینطور"
+    },
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나도 오빠 엄청 보고 싶었어.",
+      "ENGLISH": "I missed you a lot, Oppa.",
+      "CHINESE_SIMPLIFIED": "我也超级想你~！",
+      "CHINESE_TRADITIONAL": "我也超級想你~！",
+      "JAPANESE": "私もお兄ちゃんにすごく会いたかった。",
+      "INDONESIAN": "Aku kangen banget sama kamu, Oppa.",
+      "PORTUGUESE": "Eu senti muito a sua falta, Oppa.",
+      "RUSSIAN": "Я очень скучала по тебе, оппа.",
+      "FRENCH": "Tu m’as beaucoup manqué, Oppa.",
+      "THAI": "คิดถึงอปป้ามากเลย.",
+      "PERSIAN": "خیلی دلم برات تنگ شده بود یومان"
+    },
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아 밀지 말라고~ 술 취했냐?",
+      "ENGLISH": "Stop pushing me~ lolol",
+      "CHINESE_SIMPLIFIED": "哎呀，别再推我了!",
+      "CHINESE_TRADITIONAL": "哎呀，別再推我了!",
+      "JAPANESE": "あ、押さないでよ～！酔っ払ったの？",
+      "INDONESIAN": "Berhenti dorong-dorong aku~ wkwkwk",
+      "PORTUGUESE": "Para de me empurrar~ kkkkk",
+      "RUSSIAN": "Перестань толкать меня~ лолол",
+      "FRENCH": "Arrête de me pousser~ lolol",
+      "THAI": "หยุดดันฉันสักที~ ลอลอล",
+      "PERSIAN": "دست از فشار دادن من بردارید~ lolol"
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.5
+    }
+  }
+]

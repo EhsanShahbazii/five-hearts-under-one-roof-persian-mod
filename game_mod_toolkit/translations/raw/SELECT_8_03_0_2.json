@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "근데 무리하는 거 아니에요?",
+      "ENGLISH": "Are you sure you’re not overdoing it?",
+      "CHINESE_SIMPLIFIED": "是不是太努力啦？",
+      "CHINESE_TRADITIONAL": "是不是太努力啦？",
+      "JAPANESE": "でも、無理してないですか？",
+      "INDONESIAN": "Kamu yakin nggak berlebihan?",
+      "PORTUGUESE": "Tem certeza de que não está exagerando?",
+      "RUSSIAN": "Ты уверен(а), что не переутомляешься?",
+      "FRENCH": "Tu es sûr(e) que tu ne forces pas trop ?",
+      "THAI": "แน่ใจนะว่าไม่ได้หักโหมเกินไป?"
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "땀 흘리는 거 봐.",
+      "ENGLISH": "You’re sweating like crazy.",
+      "CHINESE_SIMPLIFIED": "看看都流汗了",
+      "CHINESE_TRADITIONAL": "看看都流汗了",
+      "JAPANESE": "汗かいてるし。",
+      "INDONESIAN": "Kamu berkeringat banget.",
+      "PORTUGUESE": "Você está suando muito.",
+      "RUSSIAN": "Ты весь(вся) в поту.",
+      "FRENCH": "Tu transpires comme un fou/une folle.",
+      "THAI": "เธอเหงื่อออกเยอะมากเลย"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "잘 될 거 같아요?",
+      "ENGLISH": "You think it’s going to do well?",
+      "CHINESE_SIMPLIFIED": "你觉得这首歌会红吗?",
+      "CHINESE_TRADITIONAL": "你覺得這首歌會紅嗎?",
+      "JAPANESE": "上手くいくと思いますか？",
+      "INDONESIAN": "Menurutmu ini akan sukses?",
+      "PORTUGUESE": "Acha que vai se sair bem?",
+      "RUSSIAN": "Как думаешь, песня выстрелит?",
+      "FRENCH": "Tu crois que ça va marcher ?",
+      "THAI": "คิดว่าเพลงจะไปได้ดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "무조건이요!",
+      "ENGLISH": "No doubt in my mind!",
+      "CHINESE_SIMPLIFIED": "当然!",
+      "CHINESE_TRADITIONAL": "當然!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Nggak ada keraguan sama sekali!",
+      "PORTUGUESE": "Não tenho dúvida nenhuma!",
+      "RUSSIAN": "Без сомнений!",
+      "FRENCH": "Aucun doute là-dessus !",
+      "THAI": "ฉันมั่นใจเต็มร้อย!"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 엄청 무리했는데 잘 될 것 같다고 하니까 하나도 안 힘들어요!",
+      "ENGLISH": "Honestly, I’ve been pushing myself to the limit, but hearing that makes it all worth it!",
+      "CHINESE_SIMPLIFIED": "说实话是有点勉强自己了，但是想到它会红就觉得没那么累了!",
+      "CHINESE_TRADITIONAL": "說實話是有點勉強自己了，但是想到它會紅就覺得沒那麼累了!",
+      "JAPANESE": "正直、すごく無理はしたけど、上手くいくって言ってもらえたので、全然平気です！",
+      "INDONESIAN": "Jujur, aku sudah mendorong diriku sampai batas, tapi mendengar itu bikin semuanya sepadan!",
+      "PORTUGUESE": "Sinceramente, tenho me esforçado ao máximo, mas ouvir isso faz tudo valer a pena!",
+      "RUSSIAN": "Честно говоря, я выкладывалась на полную, но услышать это было того сто́ит!",
+      "FRENCH": "Franchement, je me suis donné(e) à fond, mais entendre ça, ça vaut tout l’effort !",
+      "THAI": "จริงๆ ฉันทุ่มสุดตัว แต่พอได้ยินแบบนี้แล้ว มันคุ้มค่ามากเลย!"
+    },
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "근데 나 전부터 물어보고 싶은 거 있었는데",
+      "ENGLISH": "Well, I’ve been wanting to ask you something for a while now...",
+      "CHINESE_SIMPLIFIED": "不过一直以来我都有一个问题想问你",
+      "CHINESE_TRADITIONAL": "不過一直以來我都有一個問題想問你",
+      "JAPANESE": "それと、前から聞きたかったことがあるんですけど。",
+      "INDONESIAN": "Yah, aku sudah lama ingin menanyakan sesuatu padamu...",
+      "PORTUGUESE": "Bem, tem algo que eu queria te perguntar faz tempo...",
+      "RUSSIAN": "Ну, я давно хотел(а) тебя кое-что спросить...",
+      "FRENCH": "Bon, il y a quelque chose que je voulais te demander depuis un moment...",
+      "THAI": "อันที่จริง ฉันอยากถามเธออะไรบางอย่างมาสักพักแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭔데요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "何ですか？",
+      "INDONESIAN": "Apa itu?",
+      "PORTUGUESE": "O que é?",
+      "RUSSIAN": "Что именно?",
+      "FRENCH": "Quoi donc ?",
+      "THAI": "อะไรเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 22.5
+    }
+  }
+]

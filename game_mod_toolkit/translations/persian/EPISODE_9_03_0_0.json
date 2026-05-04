@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그나저나 오늘은 음료 심부름하지 않는 날인가 보죠?",
+      "ENGLISH": "Anyway, no drink run today, I see?",
+      "CHINESE_SIMPLIFIED": "不过今天没人叫你跑腿买饮料啊",
+      "CHINESE_TRADITIONAL": "不過今天沒人叫你跑腿買飲料啊",
+      "JAPANESE": "それにしても、今日は珍しく飲み物のお使いはないのかい？",
+      "INDONESIAN": "Ngomong-ngomong, nggak ada misi beli minuman hari ini, ya?",
+      "PORTUGUESE": "Enfim, sem missão de buscar bebidas hoje, né?",
+      "RUSSIAN": "Так что, сегодня без похода за напитками?",
+      "FRENCH": "Alors, pas de tournée de boissons aujourd’hui ?",
+      "THAI": "ว่าแต่ วันนี้ไม่มีไปซื้อเครื่องดื่มใช่ไหม?",
+      "PERSIAN": "به هر حال، امروز هیچ نوشیدنی اجرا نمی شود، می بینم؟"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네! 오늘은 따로 말씀이 없으셔서요.",
+      "ENGLISH": "Nope! No specific requests today.",
+      "CHINESE_SIMPLIFIED": "对，今天没什么特别吩咐",
+      "CHINESE_TRADITIONAL": "對，今天沒什麼特別吩咐",
+      "JAPANESE": "はい！今日は特に何も言われなかったので。",
+      "INDONESIAN": "Nggak! Nggak ada permintaan khusus hari ini.",
+      "PORTUGUESE": "Não! Nenhum pedido específico hoje.",
+      "RUSSIAN": "Нет! Сегодня никто ничего конкретного не заказывал.",
+      "FRENCH": "Non ! Pas de demandes spéciales aujourd’hui.",
+      "THAI": "ใช่! วันนี้ไม่มีใครขออะไรเป็นพิเศษเลย",
+      "PERSIAN": "نه! امروز درخواست خاصی وجود ندارد."
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "보통 동 과장님은 어떤 음료 심부름을 해야 하던가요?",
+      "ENGLISH": "What kind of drink runs does Manager Dong usually ask for?",
+      "CHINESE_SIMPLIFIED": "那一般佟科长都会叫你买什么饮料啊?",
+      "CHINESE_TRADITIONAL": "那一般佟科長都會叫你買什麼飲料啊?",
+      "JAPANESE": "普段、ドン課長はどんな飲み物の頼むんですか？",
+      "INDONESIAN": "Biasanya, minuman seperti apa yang diminta oleh Manajer Dong?",
+      "PORTUGUESE": "Que tipo de bebidas o Gerente Dong costuma pedir?",
+      "RUSSIAN": "А какие напитки обычно просит Менеджер Дон?",
+      "FRENCH": "Quels types de boissons demande habituellement le Manager Dong ?",
+      "THAI": "แล้วปกติ ผู้จัดการดงชอบสั่งเครื่องดื่มแบบไหนเหรอ?",
+      "PERSIAN": "مدیر دونگ معمولاً چه نوع نوشیدنی می خواهد؟"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.9
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아, 완전 곤히 잠들었네...",
+      "ENGLISH": "Wow, you’re really out cold...",
+      "CHINESE_SIMPLIFIED": "她睡得好香…",
+      "CHINESE_TRADITIONAL": "她睡得好香…",
+      "JAPANESE": "ああ、ぐっすり寝ちゃってるね…",
+      "INDONESIAN": "Wah, kamu bener-bener pingsan nih...",
+      "PORTUGUESE": "Uau, você tá completamente apagado(a)...",
+      "RUSSIAN": "Вау, ты действительно вырубилась...",
+      "FRENCH": "Waouh, tu es vraiment KO...",
+      "THAI": "ว้าว เธอหลับสนิทเลยนะเนี่ย..."
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.2
+    }
+  }
+]

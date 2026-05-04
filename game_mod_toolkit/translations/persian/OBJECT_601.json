@@ -1,0 +1,61 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와~ ",
+      "ENGLISH": "Wow~",
+      "CHINESE_SIMPLIFIED": "哇~",
+      "CHINESE_TRADITIONAL": "哇~",
+      "JAPANESE": "わぁ～",
+      "INDONESIAN": "Wah~",
+      "PORTUGUESE": "Uau~",
+      "RUSSIAN": "Вау~",
+      "FRENCH": "Waouh~",
+      "THAI": "ว้าว~",
+      "PERSIAN": "عجب ~"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "고은비가 대학도 가네...?",
+      "ENGLISH": "Go Eun-bi, going to college...?",
+      "CHINESE_SIMPLIFIED": "高恩妃真去念大学了啊",
+      "CHINESE_TRADITIONAL": "高恩妃真去念大學了啊",
+      "JAPANESE": "ウンビも大学に入学するのか...",
+      "INDONESIAN": "Go Eun-bi mau kuliah...?",
+      "PORTUGUESE": "Go Eun-bi indo para a faculdade...?",
+      "RUSSIAN": "Го Ын-би поступила в университет...?",
+      "FRENCH": "Go Eun-bi, à l’université...?",
+      "THAI": "โก อึนบี, กำลังจะไปมหาวิทยาลัยเหรอ...?",
+      "PERSIAN": "برو یون بی، بری دانشگاه...؟"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "ENGLISH": "(This is Eun-bi’s university acceptance letter.)",
+      "CHINESE_SIMPLIFIED": "(恩妃的大学录取通知)",
+      "CHINESE_TRADITIONAL": "(恩妃的大學錄取通知)",
+      "JAPANESE": "（ウンビの大学合格通知）",
+      "INDONESIAN": "(Ini surat penerimaan universitas Eun-bi.)",
+      "PORTUGUESE": "(Esta é a carta de aceitação da universidade da Eun-bi.)",
+      "RUSSIAN": "(Это письмо о зачислении Ын-би в университет.)",
+      "FRENCH": "(C’est la lettre d’acceptation à l’université d’Eun-bi.)",
+      "THAI": "(นี่คือจดหมายตอบรับเข้ามหาวิทยาลัยของอึนบี)",
+      "PERSIAN": "(این نامه پذیرش دانشگاه یون بی است.)"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    }
+  }
+]

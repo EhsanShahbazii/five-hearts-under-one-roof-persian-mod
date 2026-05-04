@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우유가 어딨지...",
+      "ENGLISH": "Where’s the milk...",
+      "CHINESE_SIMPLIFIED": "牛奶在哪…",
+      "CHINESE_TRADITIONAL": "牛奶在哪…",
+      "JAPANESE": "牛乳どこだ…",
+      "INDONESIAN": "Mana susunya...",
+      "PORTUGUESE": "Cadê o leite...",
+      "RUSSIAN": "Где молоко...",
+      "FRENCH": "Où est le lait...",
+      "THAI": "นมอยู่ไหน..."
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "여기 있다.",
+      "ENGLISH": "Ah, here it is.",
+      "CHINESE_SIMPLIFIED": "找到了",
+      "CHINESE_TRADITIONAL": "找到了",
+      "JAPANESE": "あ、あった。",
+      "INDONESIAN": "Ah, ini dia.",
+      "PORTUGUESE": "Ah, aqui está.",
+      "RUSSIAN": "А, вот оно.",
+      "FRENCH": "Ah, le voilà.",
+      "THAI": "อ้อ นี่ไง."
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.5
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어디 있는 거야...",
+      "ENGLISH": "Where are they...",
+      "CHINESE_SIMPLIFIED": "到底在哪啊...",
+      "CHINESE_TRADITIONAL": "到底在哪啊...",
+      "JAPANESE": "どこにいるんだ…",
+      "INDONESIAN": "Di mana mereka...",
+      "PORTUGUESE": "Onde eles estão...",
+      "RUSSIAN": "Где они...",
+      "FRENCH": "Où sont-ils...",
+      "THAI": "พวกเขาอยู่ไหน...",
+      "PERSIAN": "کجا هستند..."
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어어 이야!!!!!!!",
+      "ENGLISH": "Aaaaah!!!!!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "啊啊啊啊啊！！！",
+      "JAPANESE": "おおお、うああああ！！！",
+      "INDONESIAN": "Aaaaah!!!!!!",
+      "PORTUGUESE": "Aaaaah!!!!!!",
+      "RUSSIAN": "Ааааааа!!!!!!",
+      "FRENCH": "Aaaaah !!!!!",
+      "THAI": "อ๊ากกกก!!!!!!",
+      "PERSIAN": "آاااااا!!!!!!"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아악!!!!!",
+      "ENGLISH": "Ahhhh!!!!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "うわああ！！！",
+      "INDONESIAN": "Ahhhh!!!!",
+      "PORTUGUESE": "Ahhhh!!!!",
+      "RUSSIAN": "Ааааааа!!!!",
+      "FRENCH": "Aaaah !!!!",
+      "THAI": "อ๊ากกก!!!!",
+      "PERSIAN": "آهان!!!!"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห้ะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 19.26,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "고말숙?",
+      "ENGLISH": "Malsook?",
+      "CHINESE_SIMPLIFIED": "高末淑?",
+      "CHINESE_TRADITIONAL": "高末淑?",
+      "JAPANESE": "マルスク？",
+      "INDONESIAN": "Mal-sook?",
+      "PORTUGUESE": "Mal-sook?",
+      "RUSSIAN": "Мал-сук?",
+      "FRENCH": "Mal-sook ?",
+      "THAI": "มัลซุก?",
+      "PERSIAN": "مال‌سوک؟"
+    },
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜 빗자루 들고 설쳐!",
+      "ENGLISH": "Why are you swinging that broom around?!",
+      "CHINESE_SIMPLIFIED": "你干嘛拿个扫帚啊?",
+      "CHINESE_TRADITIONAL": "你幹嘛拿個掃帚啊?",
+      "JAPANESE": "ほうき持って何してるのよ！",
+      "INDONESIAN": "Kenapa kamu ayun-ayunin sapu?!",
+      "PORTUGUESE": "Por que você tá balançando essa vassoura?!",
+      "RUSSIAN": "Почему ты размахиваешь этой метлой?!",
+      "FRENCH": "Pourquoi tu agites ce balai comme ça ?!",
+      "THAI": "ทำไมเธอถึงฟาดไม้กวาดไปทั่วแบบนั้น?!",
+      "PERSIAN": "چرا اون جارو را به اطراف می چرخانید؟!"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "도둑인 줄 알았잖아!",
+      "ENGLISH": "I thought you were burglar!",
+      "CHINESE_SIMPLIFIED": "我还以为进了小偷呢!",
+      "CHINESE_TRADITIONAL": "我還以爲進了小偷呢!",
+      "JAPANESE": "泥棒かと思ったじゃん！",
+      "INDONESIAN": "Aku kira kamu maling!",
+      "PORTUGUESE": "Achei que você era um ladrão!",
+      "RUSSIAN": "Я подумал, что ты грабитель!",
+      "FRENCH": "J’ai cru que t’étais un cambrioleur !",
+      "THAI": "ฉันนึกว่าเป็นโจรซะอีก!",
+      "PERSIAN": "فکر کردم دزدی!"
+    },
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 26.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 놀래라.../문을 열어두면 어떡해!",
+      "ENGLISH": "You scared the crap out of me.../Why'd you leave the door open?!?!",
+      "CHINESE_SIMPLIFIED": "啊，吓死我了…/你怎么不关门呢?",
+      "CHINESE_TRADITIONAL": "啊，嚇死我了…/你怎麼不關門呢?",
+      "JAPANESE": "びっくりした… / ドア開けっぱなしにしてどうするんだよ！",
+      "INDONESIAN": "Kamu bikin aku kaget setengah mati... / Kenapa kamu tinggal pintunya kebuka?!?!",
+      "PORTUGUESE": "Você quase me matou de susto... / Por que deixou a porta aberta?!?!",
+      "RUSSIAN": "Ты до смерти меня напугала... / Почему ты оставила дверь открытой?!",
+      "FRENCH": "Tu m’as fichu la trouille de ma vie... / Pourquoi t’as laissé la porte ouverte ?!",
+      "THAI": "เธอทำฉันตกใจแทบตาย... / แล้วทำไมเธอถึงเปิดประตูทิ้งไว้ล่ะ?!",
+      "PERSIAN": "تو منو ترسوندی.../چرا درو باز گذاشتی؟!؟!"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 29.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나야말로 도둑 든 줄 알았잖아..",
+      "ENGLISH": "I thought there was a burglar in the house...",
+      "CHINESE_SIMPLIFIED": "我还以为家里进了小偷…",
+      "CHINESE_TRADITIONAL": "我還以爲家裏進了小偷…",
+      "JAPANESE": "俺こそ泥棒が入ったかと思ったじゃないか…",
+      "INDONESIAN": "Aku kira ada maling di rumah...",
+      "PORTUGUESE": "Achei que tinha um ladrão em casa...",
+      "RUSSIAN": "Я подумал, что в доме грабитель...",
+      "FRENCH": "Je pensais qu’il y avait un cambrioleur dans la maison...",
+      "THAI": "ฉันคิดว่ามีโจรเข้าบ้านซะอีก...",
+      "PERSIAN": "فکر کردم یه سارق تو خونه هست..."
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 내가 문을 안 닫고 들어왔나?",
+      "ENGLISH": "Did I leave the door open when I came in?",
+      "CHINESE_SIMPLIFIED": "啊，我进来的时候没关门吗?",
+      "CHINESE_TRADITIONAL": "啊，我進來的時候沒關門嗎?",
+      "JAPANESE": "あ、私がドア閉めてなかったっけ？",
+      "INDONESIAN": "Apa aku ninggalin pintunya kebuka waktu masuk?",
+      "PORTUGUESE": "Eu deixei a porta aberta quando entrei?",
+      "RUSSIAN": "Я что, оставил дверь открытой, когда вошел?",
+      "FRENCH": "J’ai vraiment laissé la porte ouverte en entrant ?",
+      "THAI": "ฉันเปิดประทูไว้ตอนเข้ามาหรอ?",
+      "PERSIAN": "وقتی وارد شدم در را باز گذاشتم؟"
+    },
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어... 언제 들어왔어?",
+      "ENGLISH": "W-When did you get here?",
+      "CHINESE_SIMPLIFIED": "嗯…你什么时候来的?",
+      "CHINESE_TRADITIONAL": "嗯…你什麼時候來的?",
+      "JAPANESE": "うん…いつ入ってきたんだ？",
+      "INDONESIAN": "K-Kapan kamu sampai?",
+      "PORTUGUESE": "Q-Quando você chegou?",
+      "RUSSIAN": "К-когда ты успела прийти?",
+      "FRENCH": "Q-quand est-ce que t’es arrivée ?",
+      "THAI": "แ-แล้วเธอมาตั้งแต่เมื่อไหร่?",
+      "PERSIAN": "و-کی اومدی اینجا؟"
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 36.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "나 피방 끝나고 바로 왔지",
+      "ENGLISH": "I came right after finishing my part-time job",
+      "CHINESE_SIMPLIFIED": "我下班后就过来了。",
+      "CHINESE_TRADITIONAL": "我下班後就過來了。",
+      "JAPANESE": "ネットカフェ終わってすぐ来たの。",
+      "INDONESIAN": "Aku datang begitu selesai kerja part-time.",
+      "PORTUGUESE": "Vim logo depois de terminar meu trabalho de meio período.",
+      "RUSSIAN": "Я пришла сразу после работы.",
+      "FRENCH": "Je suis venue juste après mon boulot à mi-temps.",
+      "THAI": "ฉันมาหลังเลิกงานพาร์ทไทม์เลย",
+      "PERSIAN": "بلافاصله بعد از اتمام کار پاره وقتم آمدم"
+    },
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 38.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "너 면접 합격했대서 맥주 한잔하려고.",
+      "ENGLISH": "Wanted to have some beer since you passed your interview.",
+      "CHINESE_SIMPLIFIED": "你面试合格了正好喝酒庆祝一下",
+      "CHINESE_TRADITIONAL": "你面試合格了正好喝酒慶祝一下",
+      "JAPANESE": "面接合格したって聞いたから一緒にビールでも飲もうかと思ってさ。",
+      "INDONESIAN": "Mau minum bir buat rayain kamu lolos wawancara.",
+      "PORTUGUESE": "Queria beber uma cerveja pra comemorar que você passou na entrevista.",
+      "RUSSIAN": "Хотела выпить пива, раз ты прошел собеседование.",
+      "FRENCH": "Je voulais boire une bière pour fêter ton entretien réussi.",
+      "THAI": "ว่าจะมาดื่มเบียร์ฉลองที่นายผ่านสัมภาษณ์",
+      "PERSIAN": "از زمانی که مصاحبه خود را پشت سر گذاشتید، می خواستم کمی آبجو بخورم."
+    },
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 41.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야. 이게 그 사인 CD야?",
+      "ENGLISH": "What's this? Is this the signed CD",
+      "CHINESE_SIMPLIFIED": "这就是那个亲签专辑？",
+      "CHINESE_TRADITIONAL": "這就是那個親籤專輯？",
+      "JAPANESE": "これ、何？これがサインCD？",
+      "INDONESIAN": "Apa ini? Ini CD bertanda tangan",
+      "PORTUGUESE": "O que é isso? É o CD autografado",
+      "RUSSIAN": "Что это? Это подписанный диск от",
+      "FRENCH": "C’est quoi ça ? ",
+      "THAI": "นี่อะไร? ",
+      "PERSIAN": "این چیه؟ این سی دی امضا شده است؟"
+    },
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 47.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍인가 뭔가 걔?",
+      "ENGLISH": "From Ming-Ming?",
+      "CHINESE_SIMPLIFIED": "那个叫敏敏还是明明的",
+      "CHINESE_TRADITIONAL": "那個叫敏敏還是明明的",
+      "JAPANESE": "ミンミンとかいう子？",
+      "INDONESIAN": "Dari Ming-Ming?",
+      "PORTUGUESE": "Da Ming-Ming?",
+      "RUSSIAN": "Мин-Мин?",
+      "FRENCH": "Le CD signé de Ming-Ming ?",
+      "THAI": "CD ที่มีลายเซ็นของมิงมิงเหรอ?",
+      "PERSIAN": "از مینگ مینگ؟"
+    },
+    "TIME": {
+      "SHOW": 47.8,
+      "HIDE": 49.5
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "얜 왜 이렇게 정이 안 가냐",
+      "ENGLISH": "I don't know but I can't get into her.",
+      "CHINESE_SIMPLIFIED": "我怎么get不到呢",
+      "CHINESE_TRADITIONAL": "我怎麼get不到呢",
+      "JAPANESE": "この子、何か好きになれないんだよね。",
+      "INDONESIAN": "Aku nggak tahu kenapa, tapi aku nggak bisa suka dia.",
+      "PORTUGUESE": "Não sei por quê, mas eu não consigo gostar dela.",
+      "RUSSIAN": "Да не знаю, она мне как-то не нравится.",
+      "FRENCH": "Je sais pas, mais j’arrive pas à accrocher avec elle.",
+      "THAI": "ไม่รู้สิ แต่ฉันไม่ชอบเธอเท่าไหร่",
+      "PERSIAN": "نمی دانم اما نمی توانم وارد او شوم."
+    },
+    "TIME": {
+      "SHOW": 50.1,
+      "HIDE": 51.6
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "그래?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "不会吧?",
+      "CHINESE_TRADITIONAL": "不會吧?",
+      "JAPANESE": "そう？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?",
+      "PERSIAN": "جدی می‌گی؟"
+    },
+    "TIME": {
+      "SHOW": 51.9,
+      "HIDE": 52.9
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "여자들도 예쁜 여자 좋아하지 않나?",
+      "ENGLISH": "Don't girls usually like pretty girls?",
+      "CHINESE_SIMPLIFIED": "不是都说女生也喜欢漂亮女生吗?",
+      "CHINESE_TRADITIONAL": "不是都說女生也喜歡漂亮女生嗎?",
+      "JAPANESE": "女子も可愛い女の子が好きなんじゃないのか？",
+      "INDONESIAN": "Bukannya cewek biasanya suka cewek cantik?",
+      "PORTUGUESE": "As meninas normalmente não gostam de garotas bonitas?",
+      "RUSSIAN": "Девушки обычно любят красивых девушек, не так ли?",
+      "FRENCH": "Les filles aiment bien les jolies filles, non ?",
+      "THAI": "ปกติผู้หญิงชอบคนสวย ๆ ไม่ใช่เหรอ?",
+      "PERSIAN": "دخترها معمولاً دختران زیبا را دوست ندارند؟"
+    },
+    "TIME": {
+      "SHOW": 53.2,
+      "HIDE": 55.3
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "야 얘가 뭐가 예뻐!",
+      "ENGLISH": "What's so pretty about her?!",
+      "CHINESE_SIMPLIFIED": "她哪里漂亮了?",
+      "CHINESE_TRADITIONAL": "她哪裏漂亮了?",
+      "JAPANESE": "いや、この子のどこが可愛いいのよ！",
+      "INDONESIAN": "Apa sih yang cantik dari dia?!",
+      "PORTUGUESE": "O que tem de bonito nela?!",
+      "RUSSIAN": "Что в ней красивого?!",
+      "FRENCH": "Qu’est-ce qu’elle a de si jolie ?!",
+      "THAI": "สวยตรงไหนเนี่ย?!",
+      "PERSIAN": "چه چیزی در مورد او زیبا است؟!"
+    },
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 57.5
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 예쁜데...?",
+      "ENGLISH": "She's really pretty though!",
+      "CHINESE_SIMPLIFIED": "明明就很漂亮啊...?",
+      "CHINESE_TRADITIONAL": "明明就很漂亮啊...?",
+      "JAPANESE": "めっちゃ可愛いじゃん…？",
+      "INDONESIAN": "Dia cantik banget, tahu!",
+      "PORTUGUESE": "Mas ela é superbonita!",
+      "RUSSIAN": "Она же очень красивая!",
+      "FRENCH": "Mais elle est super belle !",
+      "THAI": "แต่เธอสวยจริง ๆ นะ!",
+      "PERSIAN": "هر چند او واقعاً زیباست!"
+    },
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 59.5
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "아 맞다",
+      "ENGLISH": "Oh right",
+      "CHINESE_SIMPLIFIED": "对了",
+      "CHINESE_TRADITIONAL": "對了",
+      "JAPANESE": "あ、そうだ！",
+      "INDONESIAN": "Oh iya",
+      "PORTUGUESE": "Ah, é",
+      "RUSSIAN": "Ах да!",
+      "FRENCH": "Ah, au fait !",
+      "THAI": "อ้อ จริงด้วย!",
+      "PERSIAN": "اوه درسته"
+    },
+    "TIME": {
+      "SHOW": 59.5,
+      "HIDE": 60.0
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "나 아까 토마토한 사람이 밍밍이었잖아!",
+      "ENGLISH": "I met Ming-Ming earlier!",
+      "CHINESE_SIMPLIFIED": "刚才和我交易的人就是敏敏本人!",
+      "CHINESE_TRADITIONAL": "剛纔和我交易的人就是敏敏本人!",
+      "JAPANESE": "さっき取引の連絡してきたの、ミンミンだったんだよ！",
+      "INDONESIAN": "Aku tadi ketemu Ming-Ming!",
+      "PORTUGUESE": "Eu encontrei a Ming-Ming mais cedo!",
+      "RUSSIAN": "Я встретил Мин-Мин раньше!",
+      "FRENCH": "J’ai croisé Ming-Ming tout à l’heure !",
+      "THAI": "ฉันเจอมิงมิงเมื่อตะกี้เอง!",
+      "PERSIAN": "من قبلا مینگ مینگ را ملاقات کردم!"
+    },
+    "TIME": {
+      "SHOW": 60.0,
+      "HIDE": 63.7
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "하.. 진짜 지랄 좀 하지 마. 제발...",
+      "ENGLISH": "Stop talking nonsense.",
+      "CHINESE_SIMPLIFIED": "拜托...别胡说八道了",
+      "CHINESE_TRADITIONAL": "拜託...別胡說八道了",
+      "JAPANESE": "はあ…いい加減にしてよ。本当に…",
+      "INDONESIAN": "Jangan ngomong yang nggak-nggak.",
+      "PORTUGUESE": "Para de falar besteira.",
+      "RUSSIAN": "Не неси чепуху.",
+      "FRENCH": "Arrête de dire n’importe quoi.",
+      "THAI": "อย่ามาพูดไร้สาระน่า.",
+      "PERSIAN": "حرف بیهوده را بس کن"
+    },
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 67.0
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "아니 진짜로...",
+      "ENGLISH": "I'm dead serious...",
+      "CHINESE_SIMPLIFIED": "是真的！",
+      "CHINESE_TRADITIONAL": "是真的！",
+      "JAPANESE": "いや、マジでさ…",
+      "INDONESIAN": "Aku serius...",
+      "PORTUGUESE": "Eu tô falando sério...",
+      "RUSSIAN": "Я серьезно...",
+      "FRENCH": "Je suis sérieux...",
+      "THAI": "ฉันพูดจริงนะ...",
+      "PERSIAN": "من جدی ام..."
+    },
+    "TIME": {
+      "SHOW": 66.5,
+      "HIDE": 67.78
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "모자 쓰고 있었는데, 그 모자가 날아갔...",
+      "ENGLISH": "She was wearing a hat and it flew off...",
+      "CHINESE_SIMPLIFIED": "她本来戴着帽子的，帽子突然飞了…",
+      "CHINESE_TRADITIONAL": "她本來戴着帽子的，帽子突然飛了…",
+      "JAPANESE": "帽子被ってたんだけど、その帽子が飛んでいっちゃって…",
+      "INDONESIAN": "Dia pakai topi dan topinya terbang...",
+      "PORTUGUESE": "Ela tava usando um chapéu e ele voou...",
+      "RUSSIAN": "У нее была шляпа, и её сдуло ветром...",
+      "FRENCH": "Elle portait un chapeau, et il s’est envolé...",
+      "THAI": "เธอใส่หมวก แล้วหมวกก็บินไป...",
+      "PERSIAN": "کلاه سرش بود و از سرش پرید..."
+    },
+    "TIME": {
+      "SHOW": 67.78,
+      "HIDE": 69.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "아 유만아 제발 현실을 좀 살아!",
+      "ENGLISH": "Yuman, get a grip on reality! ",
+      "CHINESE_SIMPLIFIED": "拜托你醒醒吧! ",
+      "CHINESE_TRADITIONAL": "拜託你醒醒吧!",
+      "JAPANESE": "ユマン、お願いだからしっかりして！",
+      "INDONESIAN": "Yuman, sadarlah!",
+      "PORTUGUESE": "Yuman, cai na real!",
+      "RUSSIAN": "Юман, спустись на землю!",
+      "FRENCH": "Yuman, reviens à la réalité !",
+      "THAI": "ยูมัน! กลับมาสู่โลกความจริงหน่อย!",
+      "PERSIAN": "یومان، واقعیت را درک کن!"
+    },
+    "TIME": {
+      "SHOW": 69.6,
+      "HIDE": 72.2
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "언제까지 그러고 살래?",
+      "ENGLISH": "How long are you going to live in a dream?",
+      "CHINESE_SIMPLIFIED": "打算活在幻想里多久啊？",
+      "CHINESE_TRADITIONAL": "打算活在幻想裏多久啊？",
+      "JAPANESE": "いつまでこんなことしてんの？",
+      "INDONESIAN": "Sampai kapan kamu mau hidup di dunia mimpi?",
+      "PORTUGUESE": "Até quando você vai viver no mundo dos sonhos?",
+      "RUSSIAN": "Как долго ты еще собираешься жить в мечтах?",
+      "FRENCH": "Tu comptes rêver encore combien de temps ?",
+      "THAI": "นายจะฝันไปอีกนานแค่ไหนกัน?",
+      "PERSIAN": "تا کی قرار است در رویا زندگی کنید؟"
+    },
+    "TIME": {
+      "SHOW": 73.0,
+      "HIDE": 74.5
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "아니 진짜로!",
+      "ENGLISH": "I'm serious!",
+      "CHINESE_SIMPLIFIED": "真的是真的! ",
+      "CHINESE_TRADITIONAL": "真的是真的!",
+      "JAPANESE": "いや、本当なんだって！",
+      "INDONESIAN": "Aku serius!",
+      "PORTUGUESE": "Tô falando sério!",
+      "RUSSIAN": "Я серьёзно!",
+      "FRENCH": "Je suis sérieux !",
+      "THAI": "ฉันพูดจริง!",
+      "PERSIAN": "جدی میگم!"
+    },
+    "TIME": {
+      "SHOW": 74.5,
+      "HIDE": 76.13
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "모자를 쓰고 나왔는데! 모자가 날아갔거든?",
+      "ENGLISH": "I said she had a hat on and it flew off!",
+      "CHINESE_SIMPLIFIED": "她本来戴着帽子, 然后帽子飞走了",
+      "CHINESE_TRADITIONAL": "她本來戴着帽子, 然後帽子飛走了",
+      "JAPANESE": "帽子被ってたんだけどさ！帽子が飛んでいってさ、",
+      "INDONESIAN": "Aku bilang dia pakai topi dan topinya terbang!",
+      "PORTUGUESE": "Eu falei que ela tava de chapéu e ele voou!",
+      "RUSSIAN": "Говорю же, на ней была шляпа, и её сдуло!",
+      "FRENCH": "Je t’ai dit qu’elle avait un chapeau et qu’il s’est envolé !",
+      "THAI": "บอกแล้วไงว่าเธอใส่หมวก แล้วมันก็บินไป!",
+      "PERSIAN": "گفتم کلاه سرش بود و پرید!"
+    },
+    "TIME": {
+      "SHOW": 76.13,
+      "HIDE": 78.9
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "근데 밍밍이었다니까?",
+      "ENGLISH": "And she was really Ming-Ming!",
+      "CHINESE_SIMPLIFIED": "我一看那人真的是敏敏!",
+      "CHINESE_TRADITIONAL": "我一看那人真的是敏敏!",
+      "JAPANESE": "それがミンミンだったんだよ！",
+      "INDONESIAN": "Dan dia beneran Ming-Ming!",
+      "PORTUGUESE": "E ela era mesmo a Ming-Ming!",
+      "RUSSIAN": "И это точно была Мин-Мин!",
+      "FRENCH": "Et c’était vraiment Ming-Ming !",
+      "THAI": "แล้วเธอคือมิงมิงจริง ๆ!",
+      "PERSIAN": "و او واقعا مینگ مینگ بود!"
+    },
+    "TIME": {
+      "SHOW": 79.0,
+      "HIDE": 80.4
+    }
+  }
+]

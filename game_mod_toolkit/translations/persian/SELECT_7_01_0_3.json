@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜 왔긴~",
+      "ENGLISH": "Anyway,",
+      "CHINESE_SIMPLIFIED": "还能为什么~",
+      "CHINESE_TRADITIONAL": "還能爲什麼~",
+      "JAPANESE": "何しに来たって？",
+      "INDONESIAN": "Ngomong-ngomong,",
+      "PORTUGUESE": "Enfim,",
+      "RUSSIAN": "В любом случае,",
+      "FRENCH": "De toute façon,",
+      "THAI": "ยังไงก็เถอะ",
+      "PERSIAN": "به هر حال،"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 일 도와주러 왔지.",
+      "ENGLISH": "I came to help you with work.",
+      "CHINESE_SIMPLIFIED": "来帮你干活呗?",
+      "CHINESE_TRADITIONAL": "來幫你幹活唄?",
+      "JAPANESE": "仕事手伝いにしに来たんだよ。",
+      "INDONESIAN": "Aku datang untuk membantumu dengan pekerjaan.",
+      "PORTUGUESE": "Vim aqui para te ajudar com o trabalho.",
+      "RUSSIAN": "я пришёл(а), чтобы помочь тебе с работой.",
+      "FRENCH": "je suis venu(e) pour t’aider au travail.",
+      "THAI": "ฉันมาที่นี่เพื่อช่วยเธอทำงาน",
+      "PERSIAN": "اومدم تو کار کمکت کنم"
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 그 이유야?",
+      "ENGLISH": "Is that really why?",
+      "CHINESE_SIMPLIFIED": "真的吗?",
+      "CHINESE_TRADITIONAL": "真的嗎?",
+      "JAPANESE": "本当にそれだけ？",
+      "INDONESIAN": "Benarkah itu alasannya?",
+      "PORTUGUESE": "É realmente por isso?",
+      "RUSSIAN": "Это правда единственная причина?",
+      "FRENCH": "C’est vraiment pour ça ?",
+      "THAI": "นี่เป็นเหตุผลจริงๆ เหรอ?",
+      "PERSIAN": "واقعاً به همین دلیل است؟"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 뭐... 뭐가 있어야 하나?",
+      "ENGLISH": "Of course. Why else?",
+      "CHINESE_SIMPLIFIED": "那还能是假的吗…再说了一定要有理由吗?",
+      "CHINESE_TRADITIONAL": "那還能是假的嗎…再說了一定要有理由嗎?",
+      "JAPANESE": "じゃあ、何の理由があるんだよ。",
+      "INDONESIAN": "Tentu saja. Memangnya kenapa lagi?",
+      "PORTUGUESE": "Claro. Por que mais seria?",
+      "RUSSIAN": "Конечно. А что ещё?",
+      "FRENCH": "Bien sûr. Pourquoi sinon ?",
+      "THAI": "แน่นอน จะมีเหตุผลอะไรอีกล่ะ?",
+      "PERSIAN": "البته. چرا دیگه؟"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아니 일 도와주러 그렇게 뛰어왔다고?",
+      "ENGLISH": "You ran all the way here just to help me?",
+      "CHINESE_SIMPLIFIED": "你跑着过来就为了帮我干活?",
+      "CHINESE_TRADITIONAL": "你跑着過來就爲了幫我幹活?",
+      "JAPANESE": "いや、仕事手伝うためにそんなに走ってきたってわけ？",
+      "INDONESIAN": "Kamu lari ke sini cuma untuk membantuku?",
+      "PORTUGUESE": "Você correu até aqui só para me ajudar?",
+      "RUSSIAN": "Ты бежал(а) сюда только ради того, чтобы помочь мне?",
+      "FRENCH": "Tu as couru jusqu’ici juste pour m’aider ?",
+      "THAI": "เธอวิ่งมาที่นี่แค่เพื่อช่วยฉันเหรอ?",
+      "PERSIAN": "تو تمام راه را تا اینجا دویدی تا به من کمک کنی؟"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 10.0
+    }
+  }
+]

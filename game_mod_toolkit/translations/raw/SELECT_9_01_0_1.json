@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요!",
+      "ENGLISH": "Hello!",
+      "CHINESE_SIMPLIFIED": "您好！",
+      "CHINESE_TRADITIONAL": "您好！",
+      "JAPANESE": "こんにちは！",
+      "INDONESIAN": "Halo!",
+      "PORTUGUESE": "Olá!",
+      "RUSSIAN": "Привет!",
+      "FRENCH": "Salut !",
+      "THAI": "สวัสดีครับ!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저번에 음료 준 거 고마워요! ",
+      "ENGLISH": "Thanks for the drink last time! ",
+      "CHINESE_SIMPLIFIED": "上次的饮料，谢谢了啊。",
+      "CHINESE_TRADITIONAL": "上次的飲料，謝謝了啊。",
+      "JAPANESE": "この前、飲み物くれてありがとうね！",
+      "INDONESIAN": "Terima kasih untuk minumannya waktu itu!",
+      "PORTUGUESE": "Obrigado pela bebida da outra vez!",
+      "RUSSIAN": "Спасибо за напиток в прошлый раз!",
+      "FRENCH": "Merci pour la boisson la dernière fois !",
+      "THAI": "ขอบคุณสำหรับเครื่องดื่มครั้งก่อนนะครับ!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 젊은 친구답지 않아~",
+      "ENGLISH": "You're not like most young people these days.",
+      "CHINESE_SIMPLIFIED": "你比一般年轻人有礼貌多了~",
+      "CHINESE_TRADITIONAL": "你比一般年輕人有禮貌多了~",
+      "JAPANESE": "最近の若い子には珍しいくらい、礼儀正しいね。",
+      "INDONESIAN": "Kamu nggak seperti kebanyakan anak muda zaman sekarang.",
+      "PORTUGUESE": "Você não é como a maioria dos jovens de hoje em dia.",
+      "RUSSIAN": "Ты совсем не похож на большинство молодых людей сейчас.",
+      "FRENCH": "Tu n’es pas comme la plupart des jeunes de nos jours.",
+      "THAI": "คุณไม่เหมือนวัยรุ่นสมัยนี้เลย"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.9
+    }
+  }
+]

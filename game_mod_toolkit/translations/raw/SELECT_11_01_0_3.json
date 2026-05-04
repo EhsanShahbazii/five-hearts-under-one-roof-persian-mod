@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그럼요! 당연하죠!",
+      "ENGLISH": "Of course! You will well at!",
+      "CHINESE_SIMPLIFIED": "当然！ 你会好起来的！",
+      "CHINESE_TRADITIONAL": "當然！ 你會好起來的！",
+      "JAPANESE": "もちろん！",
+      "INDONESIAN": "Tentu! Kamu akan melakukannya dengan baik!",
+      "PORTUGUESE": "Claro! Você vai se sair bem!",
+      "RUSSIAN": "Конечно! Ты справишься!",
+      "FRENCH": "Bien sûr ! Tu vas y arriver !",
+      "THAI": "แน่นอน! คุณจะทำได้ดีแน่ๆ!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "혼자서도 잘 살 수 있을 거에요.",
+      "ENGLISH": "You’re going to do just fine on your own.",
+      "CHINESE_SIMPLIFIED": "你自己完全可以独立生活的很好",
+      "CHINESE_TRADITIONAL": "你自己完全可以獨立生活的很好",
+      "JAPANESE": "一人でもきっと立派に生きていけますよ。",
+      "INDONESIAN": "Kamu akan baik-baik saja sendiri.",
+      "PORTUGUESE": "Você vai ficar bem sozinho.",
+      "RUSSIAN": "Ты отлично справишься и сам(а).",
+      "FRENCH": "Tu vas très bien t’en sortir tout(e) seul(e).",
+      "THAI": "คุณจะไปได้ดีด้วยตัวเอง"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아... 네...",
+      "ENGLISH": "Oh... okay...",
+      "CHINESE_SIMPLIFIED": "啊 是吗...",
+      "CHINESE_TRADITIONAL": "啊 是嗎...",
+      "JAPANESE": "あ…はい…",
+      "INDONESIAN": "Oh... oke...",
+      "PORTUGUESE": "Oh... certo...",
+      "RUSSIAN": "Ох... ладно...",
+      "FRENCH": "Oh... d’accord...",
+      "THAI": "อ้อ... โอเค..."
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님은 저를 어떻게 생각하세요?",
+      "ENGLISH": "Yuman, what do you think of me? ",
+      "CHINESE_SIMPLIFIED": "宥万您觉得我怎么样呢?",
+      "CHINESE_TRADITIONAL": "宥萬您覺得我怎麼樣呢?",
+      "JAPANESE": "ユマンさんは、私のことどう思ってますか？",
+      "INDONESIAN": "Yuman, apa pendapatmu tentang aku?",
+      "PORTUGUESE": "Yuman, o que você acha de mim?",
+      "RUSSIAN": "Юман, что ты обо мне думаешь?",
+      "FRENCH": "Yuman, qu’est-ce que tu penses de moi ?",
+      "THAI": "ยูมัน คุณคิดยังไงกับฉัน?"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저한테 마음이 하나도 없나요?",
+      "ENGLISH": "Do you really have no feelings for me at all?",
+      "CHINESE_SIMPLIFIED": "您对我，一点点心动的感觉都没有吗?",
+      "CHINESE_TRADITIONAL": "您對我，一點點心動的感覺都沒有嗎?",
+      "JAPANESE": "少しも気持ちがないんですか？",
+      "INDONESIAN": "Apa benar-benar nggak ada perasaan sama sekali untukku?",
+      "PORTUGUESE": "Você realmente não tem nenhum sentimento por mim?",
+      "RUSSIAN": "Правда, никаких чувств ко мне совсем нет?",
+      "FRENCH": "Tu n’as vraiment aucun sentiment pour moi ?",
+      "THAI": "คุณไม่มีความรู้สึกอะไรกับฉันจริงๆ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 13.3
+    }
+  }
+]

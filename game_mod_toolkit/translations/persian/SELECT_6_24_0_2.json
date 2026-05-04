@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "에이~ 원래 처음은 본인이 먹어야 해요!",
+      "ENGLISH": "Hey, hey~ You know, the first bite always has to go to you!",
+      "CHINESE_SIMPLIFIED": "不过本来就应该本人先吃!",
+      "CHINESE_TRADITIONAL": "不過本來就應該本人先吃!",
+      "JAPANESE": "いやいや、最初はスンイさんが食べなきゃ！",
+      "INDONESIAN": "Hey, hey~ Kamu tahu kan, gigitan pertama selalu buat kamu!",
+      "PORTUGUESE": "Ei, ei~ Sabe, a primeira mordida sempre é pra você!",
+      "RUSSIAN": "Эй, эй~ Знаешь, первый кусочек всегда для тебя!",
+      "FRENCH": "Hé, hé~ Tu sais, la première bouchée est toujours pour toi !",
+      "THAI": "เฮ้, เฮ้~ เธอรู้ไหมว่าคำแรกต้องเป็นของเธอเสมอ!",
+      "PERSIAN": "هی، هی~ میدونی، اولین لقمه همیشه باید به تو برسه!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네? 정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "啊，这样啊",
+      "CHINESE_TRADITIONAL": "啊，這樣啊",
+      "JAPANESE": "え？本当ですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?",
+      "PERSIAN": "جدی می‌گی؟"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그럼요!",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然了!",
+      "CHINESE_TRADITIONAL": "當然了!",
+      "JAPANESE": "もちろんですよ！",
+      "INDONESIAN": "Tentu saja!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "แน่นอน!",
+      "PERSIAN": "الـ... البته که میشه!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "남한테 주면 안 돼요!",
+      "ENGLISH": "You can’t give it to someone else.",
+      "CHINESE_SIMPLIFIED": "给别人可不行!",
+      "CHINESE_TRADITIONAL": "給別人可不行!",
+      "JAPANESE": "他の人にあげちゃダメです！",
+      "INDONESIAN": "Nggak boleh dikasih ke orang lain.",
+      "PORTUGUESE": "Não pode dar pra mais ninguém.",
+      "RUSSIAN": "Нельзя отдать его кому-то другому.",
+      "FRENCH": "Tu ne peux pas la donner à quelqu’un d’autre.",
+      "THAI": "เธอให้คนอื่นไม่ได้หรอก",
+      "PERSIAN": "شما نمی توانید اونو به دیگری بدهید."
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이거 다 승이 님 거예요!",
+      "ENGLISH": "It’s all yours, Seung-yi!",
+      "CHINESE_SIMPLIFIED": "这些都是圣依你的",
+      "CHINESE_TRADITIONAL": "這些都是聖依你的",
+      "JAPANESE": "これは全部スンイさんの分ですよ！",
+      "INDONESIAN": "Ini semua buatmu, Seung-yi!",
+      "PORTUGUESE": "É todo seu, Seung-yi!",
+      "RUSSIAN": "Он весь твой, Сын-и!",
+      "FRENCH": "Elle est toute à toi, Seung-yi !",
+      "THAI": "มันเป็นของเธอทั้งหมดเลย, ซึงอี!",
+      "PERSIAN": "همه چیز مال توست، سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh…",
+      "PORTUGUESE": "Ah…",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้...",
+      "PERSIAN": "Oh..."
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 저는...",
+      "ENGLISH": "Then I guess I’ll...",
+      "CHINESE_SIMPLIFIED": "那我就…",
+      "CHINESE_TRADITIONAL": "那我就…",
+      "JAPANESE": "じゃあ、私は…",
+      "INDONESIAN": "Kalau gitu aku…",
+      "PORTUGUESE": "Então acho que eu vou…",
+      "RUSSIAN": "Тогда я, наверное...",
+      "FRENCH": "Alors je vais...",
+      "THAI": "งั้นฉันจะ...",
+      "PERSIAN": "سپس حدس می زنم که ..."
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "천천히 먹어요!",
+      "ENGLISH": "Take your time and enjoy it!",
+      "CHINESE_SIMPLIFIED": "你慢慢吃…",
+      "CHINESE_TRADITIONAL": "你慢慢吃…",
+      "JAPANESE": "ゆっくり食べてください！",
+      "INDONESIAN": "Santai aja dan nikmati, ya!",
+      "PORTUGUESE": "Vai com calma e aproveita!",
+      "RUSSIAN": "Не торопись и наслаждайся!",
+      "FRENCH": "Prends ton temps et savoure-la !",
+      "THAI": "ค่อยๆ กินแล้วกัน!",
+      "PERSIAN": "وقت بگذارید و از اون لذت ببرید!"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그리고... 이것도 마시고...",
+      "ENGLISH": "And don’t forget to drink this too.",
+      "CHINESE_SIMPLIFIED": "你再喝一口这个…",
+      "CHINESE_TRADITIONAL": "你再喝一口這個…",
+      "JAPANESE": "それと…これも飲んでください…",
+      "INDONESIAN": "Dan jangan lupa minum ini juga.",
+      "PORTUGUESE": "E não esquece de beber isso também.",
+      "RUSSIAN": "И не забудь выпить это тоже.",
+      "FRENCH": "Et n’oublie pas de boire ça aussi.",
+      "THAI": "แล้วก็อย่าลืมดื่มนี่ด้วยนะ",
+      "PERSIAN": "و نوشیدن اینو نیز فراموش نکنید."
+    },
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 24.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "고맙습니다..",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢…",
+      "CHINESE_TRADITIONAL": "謝謝…",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Terima kasih...",
+      "PORTUGUESE": "Obrigada…",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณ...",
+      "PERSIAN": "Thank you..."
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.8
+    }
+  }
+]

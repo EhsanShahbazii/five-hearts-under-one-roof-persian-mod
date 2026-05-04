@@ -1,0 +1,571 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 유만 님",
+      "ENGLISH": "Yuman",
+      "CHINESE_SIMPLIFIED": "宥万",
+      "CHINESE_TRADITIONAL": "宥萬",
+      "JAPANESE": "ユマンさん",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "RUSSIAN": "Юман",
+      "FRENCH": "Yuman",
+      "THAI": "ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "嗯 ?",
+      "CHINESE_TRADITIONAL": "嗯 ?",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Uh?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หือ?"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저 혹시 이거 다 올라온 거 맞나요?",
+      "ENGLISH": "Have we made it all the way up?",
+      "CHINESE_SIMPLIFIED": "这个是会把我们送上去吗?",
+      "CHINESE_TRADITIONAL": "這個是會把我們送上去嗎?",
+      "JAPANESE": "これ、ちゃんと上がっていってるんですよね？",
+      "INDONESIAN": "Kita udah sampai atas?",
+      "PORTUGUESE": "A gente chegou lá em cima?",
+      "RUSSIAN": "Мы добрались до самой вершины?",
+      "FRENCH": "On est arrivés tout en haut ?",
+      "THAI": "เรามาถึงข้างบนสุดแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네 이제 곧 정상인 거 같은데.",
+      "ENGLISH": "Yes, we’re almost there.",
+      "CHINESE_SIMPLIFIED": "嗯，就快到了",
+      "CHINESE_TRADITIONAL": "嗯，就快到了",
+      "JAPANESE": "はい、もうすぐ頂上ですよ。",
+      "INDONESIAN": "Iya, kita hampir sampai.",
+      "PORTUGUESE": "Sim, estamos quase lá.",
+      "RUSSIAN": "Да, почти.",
+      "FRENCH": "Oui, on y est presque.",
+      "THAI": "ใช่ เกือบถึงแล้ว"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이거 비행기 맞죠..?",
+      "ENGLISH": "This is... a plane, right?",
+      "CHINESE_SIMPLIFIED": "这个就是飞机吧…?",
+      "CHINESE_TRADITIONAL": "這個就是飛機吧…?",
+      "JAPANESE": "これ、飛行機ですよね…？",
+      "INDONESIAN": "Ini... pesawat, kan?",
+      "PORTUGUESE": "Isso... é um avião, certo?",
+      "RUSSIAN": "Это... самолёт, да?",
+      "FRENCH": "C’est... un avion, non ?",
+      "THAI": "นี่คือ... เครื่องบินใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 큰 집이 뜬다는 게 진짜였네요.",
+      "ENGLISH": "I can’t believe such a big house can actually fly!",
+      "CHINESE_SIMPLIFIED": "这么大的房子真的可以飞起来啊",
+      "CHINESE_TRADITIONAL": "這麼大的房子真的可以飛起來啊",
+      "JAPANESE": "こんな大きな家が浮くなんて、本当にあるんですね。",
+      "INDONESIAN": "Gak nyangka rumah sebesar ini bisa terbang!",
+      "PORTUGUESE": "Não acredito que uma casa tão grande possa voar!",
+      "RUSSIAN": "Не верится, что такой большой дом может летать!",
+      "FRENCH": "Je n’arrive pas à croire qu’une si grande maison puisse vraiment voler !",
+      "THAI": "ไม่อยากเชื่อเลยว่าบ้านหลังใหญ่แบบนี้จะบินได้!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "비행기... 비슷하긴 한데!",
+      "ENGLISH": "It’s like a plane, but not exactly!",
+      "CHINESE_SIMPLIFIED": "飞机...差不多吧...",
+      "CHINESE_TRADITIONAL": "飛機...差不多吧...",
+      "JAPANESE": "飛行機…似てるけど！",
+      "INDONESIAN": "Ini mirip pesawat, tapi gak persis!",
+      "PORTUGUESE": "Parece um avião, mas não exatamente!",
+      "RUSSIAN": "Похоже на самолёт, но не совсем!",
+      "FRENCH": "C’est comme un avion, mais pas tout à fait !",
+      "THAI": "มันเหมือนเครื่องบิน แต่ไม่ใช่ซะทีเดียว!"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "근데... 괜찮아요?",
+      "ENGLISH": "Are you... okay?",
+      "CHINESE_SIMPLIFIED": "你...还好吗?",
+      "CHINESE_TRADITIONAL": "你...還好嗎?",
+      "JAPANESE": "でも…大丈夫ですか？",
+      "INDONESIAN": "Kamu... gak apa-apa?",
+      "PORTUGUESE": "Você... tá bem?",
+      "RUSSIAN": "Ты... в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "เธอโอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저 사실은 ",
+      "ENGLISH": "I really want",
+      "CHINESE_SIMPLIFIED": "其实…",
+      "CHINESE_TRADITIONAL": "其實…",
+      "JAPANESE": "実は",
+      "INDONESIAN": "Aku sebenarnya pengen...",
+      "PORTUGUESE": "Na verdade, eu quero...",
+      "RUSSIAN": "На самом деле, я хочу...",
+      "FRENCH": "J’aimerais bien...",
+      "THAI": "จริงๆ แล้วฉันอยาก..."
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "바깥에 보고 싶은데 좀 무서워서....",
+      "ENGLISH": "Actually, I want to look outside... but I’m kind of scared.",
+      "CHINESE_SIMPLIFIED": "我看外面还是有点害怕的…",
+      "CHINESE_TRADITIONAL": "我看外面還是有點害怕的…",
+      "JAPANESE": "外を見たいんですけど、ちょっと怖くて…",
+      "INDONESIAN": "Pengen lihat ke luar, tapi aku agak takut.",
+      "PORTUGUESE": "Eu quero olhar lá fora, mas estou meio com medo.",
+      "RUSSIAN": "Хочу посмотреть наружу... но мне немного страшно.",
+      "FRENCH": "En fait, j’aimerais regarder dehors... mais j’ai un peu peur.",
+      "THAI": "ฉันอยากมองออกไปข้างนอก...แต่ก็กลัวนิดหน่อย"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 23.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 손 좀 잡아도 되나요...?",
+      "ENGLISH": "Could I... maybe hold your hand?",
+      "CHINESE_SIMPLIFIED": "您可以抓着我的手吗?",
+      "CHINESE_TRADITIONAL": "您可以抓着我的手嗎?",
+      "JAPANESE": "手をつないでもいいですか…？",
+      "INDONESIAN": "Boleh... aku pegang tanganmu?",
+      "PORTUGUESE": "Será que... eu posso segurar sua mão?",
+      "RUSSIAN": "Могу я... может быть, взять тебя за руку?",
+      "FRENCH": "Je peux... peut-être te tenir la main ?",
+      "THAI": "ฉันขอ... จับมือเธอได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 25.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Sure!",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Tentu!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "แน่นอน!"
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 26.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "우리 다 왔어요!",
+      "ENGLISH": "We’re here!",
+      "CHINESE_SIMPLIFIED": "我们马上就到了!",
+      "CHINESE_TRADITIONAL": "我們馬上就到了!",
+      "JAPANESE": "着きましたよ！",
+      "INDONESIAN": "Kita sampai!",
+      "PORTUGUESE": "Chegamos!",
+      "RUSSIAN": "Мы здесь!",
+      "FRENCH": "Nous y sommes !",
+      "THAI": "ถึงแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 39.7
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 가요!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "快走吧!",
+      "CHINESE_TRADITIONAL": "快走吧!",
+      "JAPANESE": "早く行きましょう！",
+      "INDONESIAN": "Ayo pergi!",
+      "PORTUGUESE": "Vamos!",
+      "RUSSIAN": "Пойдём!",
+      "FRENCH": "Allons-y !",
+      "THAI": "ไปกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 40.7
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Ouais !",
+      "THAI": "ใช่!"
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 42.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "와 세상이 엄청 반짝거려요!",
+      "ENGLISH": "Wow, everything’s sparkling! The world looks so bright!",
+      "CHINESE_SIMPLIFIED": "哇，整个世界闪亮亮的诶！",
+      "CHINESE_TRADITIONAL": "哇，世界閃亮亮的誒！",
+      "JAPANESE": "わぁ、世界がすごくキラキラしてる！",
+      "INDONESIAN": "Wah, semuanya berkilau! Dunia kelihatan terang banget!",
+      "PORTUGUESE": "Uau, tá tudo brilhando! O mundo parece tão claro!",
+      "RUSSIAN": "Вау, всё сверкает! Мир такой яркий!",
+      "FRENCH": "Waouh, tout scintille ! Le monde est tellement lumineux !",
+      "THAI": "ว้าว ทุกอย่างระยิบระยับเลย! โลกช่างสดใสจริงๆ!"
+    },
+    "TIME": {
+      "SHOW": 47.3,
+      "HIDE": 49.8
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 예쁘죠?",
+      "ENGLISH": "Beautiful, right?",
+      "CHINESE_SIMPLIFIED": "很漂亮吧？",
+      "CHINESE_TRADITIONAL": "很漂亮吧？",
+      "JAPANESE": "本当にきれい！",
+      "INDONESIAN": "Indah, kan?",
+      "PORTUGUESE": "Bonito, né?",
+      "RUSSIAN": "Красиво, правда?",
+      "FRENCH": "Magnifique, non ?",
+      "THAI": "สวยใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 49.8,
+      "HIDE": 51.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "네! 유만 님 집은 어디에 있어요?",
+      "ENGLISH": "It really is! So, where’s your house, Yuman?",
+      "CHINESE_SIMPLIFIED": "嗯！宥万家在哪里呀？",
+      "CHINESE_TRADITIONAL": "嗯！宥萬家在哪裏呀？",
+      "JAPANESE": "はい！ユマンさんの家はどこですか？",
+      "INDONESIAN": "Beneran indah! Jadi, rumahmu di mana, Yuman?",
+      "PORTUGUESE": "É mesmo! Então, onde é sua casa, Yuman?",
+      "RUSSIAN": "Очень! А где твой дом, Юман?",
+      "FRENCH": "Vraiment ! Alors, où est ta maison, Yuman ?",
+      "THAI": "ใช่จริงๆ! แล้วบ้านเธออยู่ที่ไหน ยูมัน?"
+    },
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 53.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "어...음...",
+      "ENGLISH": "Uh... well...",
+      "CHINESE_SIMPLIFIED": "呃...嗯...",
+      "CHINESE_TRADITIONAL": "呃...嗯...",
+      "JAPANESE": "え…うーん…",
+      "INDONESIAN": "Uh... itu...",
+      "PORTUGUESE": "Uh... bem...",
+      "RUSSIAN": "Эм... ну...",
+      "FRENCH": "Euh... là-bas...",
+      "THAI": "เอ่อ... เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 53.8,
+      "HIDE": 56.3
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "어! 저기요.",
+      "ENGLISH": "There!",
+      "CHINESE_SIMPLIFIED": "诶！喂！",
+      "CHINESE_TRADITIONAL": "誒！喂！",
+      "JAPANESE": "あ！あそこです。",
+      "INDONESIAN": "Di sana!",
+      "PORTUGUESE": "Lá!",
+      "RUSSIAN": "Вон там!",
+      "FRENCH": "Attends, où ça ?",
+      "THAI": "ตรงนั้น!"
+    },
+    "TIME": {
+      "SHOW": 56.8,
+      "HIDE": 58.4
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "저기요?",
+      "ENGLISH": "Wait, where?",
+      "CHINESE_SIMPLIFIED": "在那吗？",
+      "CHINESE_TRADITIONAL": "在那嗎？",
+      "JAPANESE": "あそこ？",
+      "INDONESIAN": "Tunggu, di mana?",
+      "PORTUGUESE": "Espera, onde?",
+      "RUSSIAN": "Подожди, где?",
+      "FRENCH": "Pas là...",
+      "THAI": "เดี๋ยวนะ ตรงไหน?"
+    },
+    "TIME": {
+      "SHOW": 58.9,
+      "HIDE": 59.9
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "아니~ 어...",
+      "ENGLISH": "Not there...",
+      "CHINESE_SIMPLIFIED": "不是~ 是...",
+      "CHINESE_TRADITIONAL": "不是~ 是...",
+      "JAPANESE": "いいえ〜えっと…",
+      "INDONESIAN": "Bukan di situ...",
+      "PORTUGUESE": "Não, não ali...",
+      "RUSSIAN": "Не там...",
+      "FRENCH": "Juste... ",
+      "THAI": "ไม่ใช่ตรงนั้น..."
+    },
+    "TIME": {
+      "SHOW": 60.1,
+      "HIDE": 61.6
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "저~기요!",
+      "ENGLISH": "Right... over there!",
+      "CHINESE_SIMPLIFIED": "在那~里",
+      "CHINESE_TRADITIONAL": "在那~裏",
+      "JAPANESE": "あ、あっちです！",
+      "INDONESIAN": "Tepatnya... di sana!",
+      "PORTUGUESE": "Bem... ali!",
+      "RUSSIAN": "Прямо... вон там!",
+      "FRENCH": "là-bas !",
+      "THAI": "ตรงนั้นต่างหาก!"
+    },
+    "TIME": {
+      "SHOW": 62.2,
+      "HIDE": 63.6
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "저기요?!",
+      "ENGLISH": "Over there?!",
+      "CHINESE_SIMPLIFIED": "是在那吗?!",
+      "CHINESE_TRADITIONAL": "是在那嗎?!",
+      "JAPANESE": "あっち？",
+      "INDONESIAN": "Di sana?!",
+      "PORTUGUESE": "Ali?!",
+      "RUSSIAN": "Там?!",
+      "FRENCH": "Là-bas ?!",
+      "THAI": "ตรงนั้นเหรอ?!"
+    },
+    "TIME": {
+      "SHOW": 63.6,
+      "HIDE": 64.7
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 어... 어!",
+      "ENGLISH": "Yeah... there!",
+      "CHINESE_SIMPLIFIED": "不是，嗯... ",
+      "CHINESE_TRADITIONAL": "不是，嗯...",
+      "JAPANESE": "いや、",
+      "INDONESIAN": "Iya... di sana!",
+      "PORTUGUESE": "Sim... lá!",
+      "RUSSIAN": "Да... там!",
+      "FRENCH": "Oui... là !",
+      "THAI": "ใช่... ตรงนั้นเลย!"
+    },
+    "TIME": {
+      "SHOW": 64.7,
+      "HIDE": 67.8
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "저~~~기요!",
+      "ENGLISH": "Over~~ there!",
+      "CHINESE_SIMPLIFIED": "在那~~~~里",
+      "CHINESE_TRADITIONAL": "在那~~~~裏",
+      "JAPANESE": "あっちです！",
+      "INDONESIAN": "Jauh~~ di sana!",
+      "PORTUGUESE": "Láááá longe!",
+      "RUSSIAN": "Вооон там!",
+      "FRENCH": "Tout là-bas !",
+      "THAI": "อ้อออ เข้าใจละ!"
+    },
+    "TIME": {
+      "SHOW": 68.8,
+      "HIDE": 70.6
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 그렇구나!",
+      "ENGLISH": "Ohhh, I see!",
+      "CHINESE_SIMPLIFIED": "啊~ 原来如此！",
+      "CHINESE_TRADITIONAL": "啊~ 原來如此！",
+      "JAPANESE": "あ〜、なるほど！",
+      "INDONESIAN": "Ohhh, aku lihat!",
+      "PORTUGUESE": "Ohhh, entendi!",
+      "RUSSIAN": "Ооо, понятно!",
+      "FRENCH": "Ahhh, je vois !",
+      "THAI": "ว้าว ดูแม่กุญแจพวกนี้สิที่ติดอยู่บนรั้ว!"
+    },
+    "TIME": {
+      "SHOW": 71.7,
+      "HIDE": 73.6
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "오! 자물쇠들이 엄청 많아요!",
+      "ENGLISH": "Wow, look at all the locks on the fence!",
+      "CHINESE_SIMPLIFIED": "哦！这里有很多锁头！",
+      "CHINESE_TRADITIONAL": "哦！這裏有很多鎖頭！",
+      "JAPANESE": "お！鍵がたくさんありますよ！",
+      "INDONESIAN": "Wah, lihat semua gembok di pagar!",
+      "PORTUGUESE": "Olha só todos os cadeados na cerca!",
+      "RUSSIAN": "Вау, смотри, сколько замков на заборе!",
+      "FRENCH": "Waouh, regarde tous les cadenas sur la clôture !",
+      "THAI": "ว้าว!!"
+    },
+    "TIME": {
+      "SHOW": 74.5,
+      "HIDE": 76.5
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "우와...",
+      "ENGLISH": "Wow!!",
+      "CHINESE_SIMPLIFIED": "呜哇...",
+      "CHINESE_TRADITIONAL": "嗚哇...",
+      "JAPANESE": "わぁ…",
+      "INDONESIAN": "Wah!!",
+      "PORTUGUESE": "Uau!!",
+      "RUSSIAN": "Вау!!",
+      "FRENCH": "Waouh !!",
+      "THAI": "ดูนี่สิ!"
+    },
+    "TIME": {
+      "SHOW": 83.4,
+      "HIDE": 84.6
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "이거 봐봐요!",
+      "ENGLISH": "Check this out!",
+      "CHINESE_SIMPLIFIED": "看这个！",
+      "CHINESE_TRADITIONAL": "看這個！",
+      "JAPANESE": "これ見てください！",
+      "INDONESIAN": "Lihat ini!",
+      "PORTUGUESE": "Vê isso aqui!",
+      "RUSSIAN": "Посмотри на это!",
+      "FRENCH": "Regarde ça !"
+    },
+    "TIME": {
+      "SHOW": 85.0,
+      "HIDE": 86.5
+    }
+  }
+]

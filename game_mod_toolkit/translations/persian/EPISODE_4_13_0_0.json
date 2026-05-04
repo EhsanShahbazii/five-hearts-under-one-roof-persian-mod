@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "집에만 있는 건 안 좋다고 봐요.",
+      "ENGLISH": "Staying home all the time isn’t good.",
+      "CHINESE_SIMPLIFIED": "其实一直呆在家里也不是什么好事",
+      "CHINESE_TRADITIONAL": "其實一直呆在家裏也不是什麼好事",
+      "JAPANESE": "家の中にばかりいるのはよくないと思いますよ。",
+      "INDONESIAN": "Di rumah terus gak baik, lho.",
+      "PORTUGUESE": "Ficar em casa o tempo todo não faz bem.",
+      "RUSSIAN": "Постоянно оставаться дома — это нехорошо.",
+      "FRENCH": "Rester à la maison tout le temps, ce n’est pas bon.",
+      "THAI": "อยู่แต่ในบ้านตลอดมันไม่ดีนะ",
+      "PERSIAN": "همیشه در خونه ماندن خوب نیست."
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 밖에 나가게 옷부터 골라볼까요?",
+      "ENGLISH": "How about we pick some clothes to wear outside?",
+      "CHINESE_SIMPLIFIED": "我们先选一下外出穿的衣服吧?",
+      "CHINESE_TRADITIONAL": "我們先選一下外出穿的衣服吧?",
+      "JAPANESE": "じゃあ、外に出かけるためにまずは服を選んでみましょうか？",
+      "INDONESIAN": "Gimana kalau kita pilih baju buat dipakai di luar?",
+      "PORTUGUESE": "Que tal a gente escolher uma roupa pra você usar lá fora?",
+      "RUSSIAN": "Как насчёт того, чтобы выбрать одежду для выхода на улицу?",
+      "FRENCH": "Et si on choisissait des vêtements pour sortir ?",
+      "THAI": "ลองเลือกเสื้อผ้าไปใส่ข้างนอกกันดีไหม?",
+      "PERSIAN": "در مورد اینکه ما چند لباس برای پوشیدن در بیرون انتخاب کنیم چطور؟"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "밖에는 어, 어떤 옷을 입어야 돼요...?",
+      "ENGLISH": "What kind of... What kind of clothes should I wear outside...?",
+      "CHINESE_SIMPLIFIED": "外出的话要穿什么衣服才好呢…?",
+      "CHINESE_TRADITIONAL": "外出的話要穿什麼衣服纔好呢…?",
+      "JAPANESE": "外では、ど、どんな服を着たらいいんですか…？",
+      "INDONESIAN": "Baju macam apa ya... Baju apa yang harus kupakai di luar...?",
+      "PORTUGUESE": "Que tipo de... Que tipo de roupa eu deveria usar lá fora...?",
+      "RUSSIAN": "Какую... какую одежду мне стоит надеть для улицы...?",
+      "FRENCH": "Quel... quel genre de vêtements je devrais porter dehors...?",
+      "THAI": "แล้ว... แล้วฉันควรใส่ชุดแบบไหนไปข้างนอกล่ะ...?",
+      "PERSIAN": "چه جور ... بیرون چه لباسی بپوشم ...؟"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Well...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Bom...",
+      "RUSSIAN": "Ну...",
+      "FRENCH": "Eh bien...",
+      "THAI": "เอ่อ...",
+      "PERSIAN": "خب..."
+    },
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨가 좋아하는 옷...?",
+      "ENGLISH": "How about something you like...?",
+      "CHINESE_SIMPLIFIED": "穿你喜欢穿的衣服?",
+      "CHINESE_TRADITIONAL": "穿你喜歡穿的衣服?",
+      "JAPANESE": "スンイさんが好きな服でいいんじゃないですか…？",
+      "INDONESIAN": "Gimana kalau pilih yang kamu suka aja...?",
+      "PORTUGUESE": "Que tal escolher algo que você goste...?",
+      "RUSSIAN": "Может, что-нибудь, что тебе нравится...?",
+      "FRENCH": "Pourquoi pas quelque chose que tu aimes bien...?",
+      "THAI": "ใส่อะไรที่เธอชอบดีไหม...?",
+      "PERSIAN": "چیزی که دوست داری چطور...؟"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "哦！",
+      "CHINESE_TRADITIONAL": "哦！",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "여기서 하나만 골라서 입어볼까요?",
+      "ENGLISH": "How about picking one from here?",
+      "CHINESE_SIMPLIFIED": "你从这几件里选一件怎么样?",
+      "CHINESE_TRADITIONAL": "你從這幾件裏選一件怎麼樣?",
+      "JAPANESE": "ここから一つ選んで着てみましょうか？",
+      "INDONESIAN": "Gimana kalau pilih salah satu dari sini?",
+      "PORTUGUESE": "Que tal escolher uma daqui?",
+      "RUSSIAN": "Как насчёт того, чтобы выбрать что-то из этого?",
+      "FRENCH": "Et si tu choisissais quelque chose d’ici ?",
+      "THAI": "ลองเลือกจากตรงนี้ดูดีไหม?",
+      "PERSIAN": "در مورد انتخاب یکی از اینجا چطور؟"
+    },
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 28.6
+    }
+  }
+]

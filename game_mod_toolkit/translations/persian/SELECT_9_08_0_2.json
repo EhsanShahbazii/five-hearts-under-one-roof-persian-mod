@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "검은 머리가 파뿌리 될 때까지 이 여자만을 사랑할 겁니다!",
+      "ENGLISH": "I'd love them until our hair turns gray!",
+      "CHINESE_SIMPLIFIED": "我会执子之手与子白头偕老！",
+      "CHINESE_TRADITIONAL": "我會執子之手與子白頭偕老！",
+      "JAPANESE": "髪の毛が白髪になるまで、愛するつもりです！",
+      "INDONESIAN": "Aku akan mencintainya sampai rambut kami memutih!",
+      "PORTUGUESE": "Eu a amaria até nossos cabelos ficarem grisalhos!",
+      "RUSSIAN": "Я бы любил(а) их, пока наши волосы не поседеют!",
+      "FRENCH": "Je les aimerais jusqu’à ce que nos cheveux deviennent gris !",
+      "THAI": "ผมจะรักเขาจนผมหงอกไปด้วยกันเลย!",
+      "PERSIAN": "من اونا رو دوست دارم تا زمانی که موهایمان خاکستری شود!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "거 파 뿌리면... 금방 끝나겠구만.",
+      "ENGLISH": "If it's about gray hair... that might not last long.",
+      "CHINESE_SIMPLIFIED": "什么白头偕老...染个头不就得了",
+      "CHINESE_TRADITIONAL": "什麼白頭偕老...染個頭不就得了",
+      "JAPANESE": "白髪になるまでって…すぐ終わりそうだな。",
+      "INDONESIAN": "Kalau soal rambut putih... mungkin itu akan cepat selesai.",
+      "PORTUGUESE": "Se for sobre cabelos grisalhos... isso vai acabar rápido.",
+      "RUSSIAN": "Если речь идёт о седине... это может случиться довольно скоро.",
+      "FRENCH": "Si c’est pour parler de cheveux gris... ça pourrait ne pas durer longtemps.",
+      "THAI": "ถ้าพูดถึงผมหงอก... อาจจะไม่ต้องรอนานขนาดนั้น",
+      "PERSIAN": "اگر در مورد موهای خاکستری باشد... ممکنه مدت زیادی دوام نیاورد."
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 9.1
+    }
+  }
+]

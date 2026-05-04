@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "기억이 안 나는데...",
+      "ENGLISH": "I don't remember...",
+      "CHINESE_SIMPLIFIED": "我不记得了…",
+      "CHINESE_TRADITIONAL": "我不記得了…",
+      "JAPANESE": "覚えてないな…",
+      "INDONESIAN": "Aku nggak ingat...",
+      "PORTUGUESE": "Eu não lembro...",
+      "RUSSIAN": "Я не помню...",
+      "FRENCH": "Je m’en souviens pas...",
+      "THAI": "ฉันจำไม่ได้..."
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너무해",
+      "ENGLISH": "You're so mean.",
+      "CHINESE_SIMPLIFIED": "好过分",
+      "CHINESE_TRADITIONAL": "好過分",
+      "JAPANESE": "ひどいよ…",
+      "INDONESIAN": "Kamu jahat banget.",
+      "PORTUGUESE": "Você é muito malvado.",
+      "RUSSIAN": "Ты такой вредный.",
+      "FRENCH": "T’es méchant.",
+      "THAI": "นายใจร้ายจัง."
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안...",
+      "ENGLISH": "Sorry... ",
+      "CHINESE_SIMPLIFIED": "不好意思啊…",
+      "CHINESE_TRADITIONAL": "不好意思啊…",
+      "JAPANESE": "ごめん…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Прости...",
+      "FRENCH": "Désolé...",
+      "THAI": "ขอโทษ..."
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너무 옛날이라.",
+      "ENGLISH": "It was so long ago.",
+      "CHINESE_SIMPLIFIED": "实在过去太久了",
+      "CHINESE_TRADITIONAL": "實在過去太久了",
+      "JAPANESE": "昔のことだから。",
+      "INDONESIAN": "Itu kan udah lama banget.",
+      "PORTUGUESE": "Faz tanto tempo.",
+      "RUSSIAN": "Это было так давно.",
+      "FRENCH": "C’était il y a tellement longtemps.",
+      "THAI": "มันนานมากแล้วนี่นา."
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아 오빠. ",
+      "ENGLISH": "It’s okay, oppa.",
+      "CHINESE_SIMPLIFIED": "没关系 哥哥",
+      "CHINESE_TRADITIONAL": "沒關係 哥哥",
+      "JAPANESE": "大丈夫だよ、お兄ちゃん。",
+      "INDONESIAN": "Nggak apa-apa, oppa.",
+      "PORTUGUESE": "Tudo bem, oppa.",
+      "RUSSIAN": "Ничего, оппа.",
+      "FRENCH": "C’est pas grave, oppa.",
+      "THAI": "ไม่เป็นไรหรอก อปป้า."
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "다시 기억하면 되지",
+      "ENGLISH": "We can just make new memories.",
+      "CHINESE_SIMPLIFIED": "现在帮你回忆不就行了",
+      "CHINESE_TRADITIONAL": "現在幫你回憶不就行了",
+      "JAPANESE": "また思い出せばいいんだよ。",
+      "INDONESIAN": "Kita bisa bikin kenangan baru aja.",
+      "PORTUGUESE": "A gente pode criar novas memórias.",
+      "RUSSIAN": "Мы можем создать новые воспоминания.",
+      "FRENCH": "On peut juste créer de nouveaux souvenirs.",
+      "THAI": "เรามาสร้างความทรงจำใหม่ก็ได้."
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Huh? ",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "뭐, 뭐 해...?",
+      "ENGLISH": "Wh-what are you doing...?",
+      "CHINESE_SIMPLIFIED": "你，你这是要干什么…?",
+      "CHINESE_TRADITIONAL": "你，你這是要幹什麼…?",
+      "JAPANESE": "な、何してんるんだよ…？",
+      "INDONESIAN": "A-apa yang kamu lakukan...?",
+      "PORTUGUESE": "O-o que você tá fazendo...?",
+      "RUSSIAN": "Ч-что ты делаешь...?",
+      "FRENCH": "Qu-qu’est-ce que tu fais...?",
+      "THAI": "ท-ทำอะไรน่ะ...?"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "지금이라도 같이 목욕하면 그때가 기억나지 않겠어?",
+      "ENGLISH": "If we take a bath together now, wouldn’t that help jog your memory?",
+      "CHINESE_SIMPLIFIED": "我们现在一起洗澡的话，你就会想起来了吧?",
+      "CHINESE_TRADITIONAL": "我們現在一起洗澡的話，你就會想起來了吧?",
+      "JAPANESE": "今からでも一緒にお風呂入ったら、思い出すんじゃない？",
+      "INDONESIAN": "Kalau kita mandi bareng sekarang, mungkin ingatanmu bakal balik?",
+      "PORTUGUESE": "Se a gente tomar banho junto agora, será que isso ajuda a refrescar sua memória?",
+      "RUSSIAN": "Если мы примем ванну вместе сейчас, это не освежит твою память?",
+      "FRENCH": "Si on prenait un bain ensemble maintenant, ça n’aiderait pas à rafraîchir ta mémoire ?",
+      "THAI": "ถ้าเราอาบน้ำด้วยกันตอนนี้ มันจะช่วยให้นายจำได้ไหมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비 너 진짜 미쳤어?!",
+      "ENGLISH": "Hey, Eun-bi, are you crazy?!",
+      "CHINESE_SIMPLIFIED": "喂!高恩妃你疯啦!!!",
+      "CHINESE_TRADITIONAL": "喂!高恩妃你瘋啦!!!",
+      "JAPANESE": "ちょっとあんた、本当に頭おかしいんじゃないの？！",
+      "INDONESIAN": "Hei, Eun-bi, kamu gila ya?!",
+      "PORTUGUESE": "Ei, Eun-bi, você ficou louca?!",
+      "RUSSIAN": "Эй, Ынби, ты с ума сошла?!",
+      "FRENCH": "Hé, Eunbi, t’es folle ou quoi ?!",
+      "THAI": "เฮ้! อึนบี บ้าหรือเปล่าเนี่ย?!"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.8
+    }
+  }
+]

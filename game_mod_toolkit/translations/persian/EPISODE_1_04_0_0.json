@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고말숙 하이~",
+      "ENGLISH": "Hey, Mal-sook!",
+      "CHINESE_SIMPLIFIED": "高末淑 Hi~",
+      "CHINESE_TRADITIONAL": "高末淑 Hi~",
+      "JAPANESE": "やっほ～、マルスク！",
+      "INDONESIAN": "Hei, Mal-sook!",
+      "PORTUGUESE": "Ei, Mal-sook!",
+      "RUSSIAN": "Эй, Мал-сук!",
+      "FRENCH": "Hé, Mal-sook !",
+      "THAI": "เฮ้ มัลซุก!",
+      "PERSIAN": "Hey, Mal-sook!"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 손님 블랙이거든요?",
+      "ENGLISH": "Hey, customer, you're on the blacklist here.",
+      "CHINESE_SIMPLIFIED": "你在本店黑名单上呢",
+      "CHINESE_TRADITIONAL": "你在本店黑名單上呢",
+      "JAPANESE": "あ、お客さんブラックリストに入っているんで",
+      "INDONESIAN": "Hei, pelanggan, kamu masuk daftar hitam di sini.",
+      "PORTUGUESE": "Ei, cliente, você tá na lista negra daqui.",
+      "RUSSIAN": "Эй, клиент, ты в черном списке.",
+      "FRENCH": "Hé, toi, t'es sur la liste noire ici.",
+      "THAI": "เฮ้ คุณ ลูกค้าคุณติดแบล็กลิสต์อยู่ที่นี่",
+      "PERSIAN": "سلام، مشتری، شما در لیست سیاه اینجا هستید."
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "꺼지시라고요.",
+      "ENGLISH": "Get lost.",
+      "CHINESE_SIMPLIFIED": "走开走开",
+      "CHINESE_TRADITIONAL": "走開走開",
+      "JAPANESE": "出てってもらえますか？",
+      "INDONESIAN": "Pergi sana.",
+      "PORTUGUESE": "Cai fora.",
+      "RUSSIAN": "Проваливай.",
+      "FRENCH": "Dégage.",
+      "THAI": "ไปให้พ้น",
+      "PERSIAN": "گم شو"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 나가라고~",
+      "ENGLISH": "I said leave.",
+      "CHINESE_SIMPLIFIED": "我让你出去~",
+      "CHINESE_TRADITIONAL": "我讓你出去~",
+      "JAPANESE": "さっさと出てってば！",
+      "INDONESIAN": "Aku bilang pergi.",
+      "PORTUGUESE": "Eu disse pra ir embora.",
+      "RUSSIAN": "Я сказал, уходи.",
+      "FRENCH": "J'ai dit, dégage.",
+      "THAI": "ฉันบอกให้ไป!",
+      "PERSIAN": "I said leave."
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.0
+    }
+  }
+]

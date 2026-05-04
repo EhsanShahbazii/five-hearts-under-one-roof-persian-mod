@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "부, 불이야!!!!!",
+      "ENGLISH": "F-fire!!!!!",
+      "CHINESE_SIMPLIFIED": "着,着火啦!!!",
+      "CHINESE_TRADITIONAL": "着,着火啦!!!",
+      "JAPANESE": "火、火事だ！！！",
+      "INDONESIAN": "A-a-api!!!!!",
+      "PORTUGUESE": "F-fogo!!!!!",
+      "RUSSIAN": "П-пожар!!!!!",
+      "FRENCH": "F-feu !!!!!",
+      "THAI": "ไ-ไฟ!!!!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "불이야!!",
+      "ENGLISH": "Fire! Oh no...!!!",
+      "CHINESE_SIMPLIFIED": "着火啦!!!",
+      "CHINESE_TRADITIONAL": "着火啦!!!",
+      "JAPANESE": "火事だ！！",
+      "INDONESIAN": "Kebakaran! Oh tidak...!!!",
+      "PORTUGUESE": "Fogo! Ah não...!!!",
+      "RUSSIAN": "Пожар! О, нет...!!!",
+      "FRENCH": "Feu ! Oh non... !!!",
+      "THAI": "ไฟไหม้! โอ้ไม่...!!!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "신토불이야~",
+      "ENGLISH": "Fire on up~",
+      "CHINESE_SIMPLIFIED": "你在我的芳心纵火~",
+      "CHINESE_TRADITIONAL": "你在我的芳心縱火~",
+      "JAPANESE": "シントブリだ～",
+      "INDONESIAN": "Bakar habis~",
+      "PORTUGUESE": "Fogo lá em cima~",
+      "RUSSIAN": "«Огня, огня~»",
+      "FRENCH": "«Du feu, du feu~»",
+      "THAI": "«จุดไฟ จุดไฟ~»"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너, 나 피하면서 저딴 거랑 붙어 다닌 거냐?",
+      "ENGLISH": "You've been hanging out with that instead of avoiding me?",
+      "CHINESE_SIMPLIFIED": "你躲着我就算了还和这种傻缺在一起混?",
+      "CHINESE_TRADITIONAL": "你躲着我就算了還和這種傻缺在一起混?",
+      "JAPANESE": "お前、俺を避けてこんな奴と付き合ってたのか？",
+      "INDONESIAN": "Kamu malah sibuk dengan itu daripada menghindar dariku?",
+      "PORTUGUESE": "Você tava mexendo com isso em vez de me evitar?",
+      "RUSSIAN": "Ты с этим тусовался, вместо того чтобы избегать меня?",
+      "FRENCH": "Tu traînais avec ça au lieu de m’éviter ?",
+      "THAI": "นายไปมัวอยู่กับเรื่องนั้นแทนที่จะเลี่ยงฉันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "알 거 없잖아!",
+      "ENGLISH": "It's none of your business!",
+      "CHINESE_SIMPLIFIED": "关你屁事!",
+      "CHINESE_TRADITIONAL": "關你屁事!",
+      "JAPANESE": "関係ないでしょ！",
+      "INDONESIAN": "Bukan urusan kamu!",
+      "PORTUGUESE": "Não é da sua conta!",
+      "RUSSIAN": "Это не твоё дело!",
+      "FRENCH": "Ça ne te regarde pas !",
+      "THAI": "มันไม่ใช่เรื่องของนาย!"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아악!!",
+      "ENGLISH": "Argh!!",
+      "CHINESE_SIMPLIFIED": "啊啊!",
+      "CHINESE_TRADITIONAL": "啊啊!",
+      "JAPANESE": "ああっ！！",
+      "INDONESIAN": "Argh!!",
+      "PORTUGUESE": "Argh!!",
+      "RUSSIAN": "Ааа!!",
+      "FRENCH": "Aargh !!",
+      "THAI": "อ๊าก!!"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이게 불쌍해서 몇 번 만나줬더니",
+      "ENGLISH": "I felt sorry for you and met you a few times",
+      "CHINESE_SIMPLIFIED": "看你可怜才勉强和你见几次面",
+      "CHINESE_TRADITIONAL": "看你可憐才勉強和你見幾次面",
+      "JAPANESE": "哀れに思って何度か会ってやっただけなのに、",
+      "INDONESIAN": "Aku kasihan sama kamu, makanya ketemu beberapa kali,",
+      "PORTUGUESE": "Senti pena de você e saí com você algumas vezes,",
+      "RUSSIAN": "Я из жалости встречалась с тобой пару раз,",
+      "FRENCH": "Je t’ai rencontré par pitié quelques fois,",
+      "THAI": "ฉันสงสารนาย เลยไปเจอนายไม่กี่ครั้ง,"
+    },
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "안 꺼져?",
+      "ENGLISH": "And now you won’t leave me alone?",
+      "CHINESE_SIMPLIFIED": "还不赶紧滚?",
+      "CHINESE_TRADITIONAL": "還不趕緊滾?",
+      "JAPANESE": "消えてよね？",
+      "INDONESIAN": "Dan sekarang kamu nggak mau pergi?",
+      "PORTUGUESE": "E agora você não me deixa em paz?",
+      "RUSSIAN": "и теперь ты меня не оставляешь в покое?",
+      "FRENCH": "et maintenant tu me colles ?",
+      "THAI": "แล้วตอนนี้นายก็ไม่เลิกตามฉัน?"
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "넌 주차하고 올라와.",
+      "ENGLISH": "Park the car and come up.",
+      "CHINESE_SIMPLIFIED": "停好车再上来",
+      "CHINESE_TRADITIONAL": "停好車再上來",
+      "JAPANESE": "あんたは車を停めて上がってきて。",
+      "INDONESIAN": "Parkir mobil dan naik ke atas.",
+      "PORTUGUESE": "Estaciona o carro e sobe.",
+      "RUSSIAN": "Припаркуй машину и поднимайся.",
+      "FRENCH": "Gare la voiture et monte.",
+      "THAI": "จอดรถแล้วขึ้นมา."
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.3
+    }
+  }
+]

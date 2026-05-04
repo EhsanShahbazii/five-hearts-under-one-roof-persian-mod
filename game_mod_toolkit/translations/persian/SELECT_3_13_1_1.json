@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "기억나지~",
+      "ENGLISH": "Of course I remember!",
+      "CHINESE_SIMPLIFIED": "我当然记得了~",
+      "CHINESE_TRADITIONAL": "我當然記得了~",
+      "JAPANESE": "覚えてるよ～",
+      "INDONESIAN": "Tentu aku ingat!",
+      "PORTUGUESE": "Claro que eu lembro!",
+      "RUSSIAN": "Конечно, помню!",
+      "FRENCH": "Bien sûr que je m’en souviens !",
+      "THAI": "จำได้สิ!",
+      "PERSIAN": "البته یادمه!"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 그때도",
+      "ENGLISH": "You threw such a fit about not taking a bath",
+      "CHINESE_SIMPLIFIED": "你那时候",
+      "CHINESE_TRADITIONAL": "你那時候",
+      "JAPANESE": "お前、あの時も",
+      "INDONESIAN": "Kamu ngamuk banget kalau nggak boleh mandi",
+      "PORTUGUESE": "Você fazia um escândalo kalau não deixavam você tomar banho",
+      "RUSSIAN": "Ты тогда такую сцену закатила и отказалась мыться,",
+      "FRENCH": "Tu avais fait une telle crise,",
+      "THAI": "เธอร้องโวยวายใหญ่โต บอกจะไม่อาบน้ำ",
+      "PERSIAN": "تو حمام نکردن اینقدر هوس کردی"
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그 옷 안 입으면 목욕 안 한다고 엄청 난리 쳤잖아!",
+      "ENGLISH": "Unless you wore that outfit!",
+      "CHINESE_SIMPLIFIED": "不穿那件衣服就不洗澡闹脾气来着!",
+      "CHINESE_TRADITIONAL": "不穿那件衣服就不洗澡鬧脾氣來着!",
+      "JAPANESE": "猫の服を着なきゃお風呂に入らないって、すごいクズいてたじゃん！",
+      "INDONESIAN": "Kecuali pakai kostum itu!",
+      "PORTUGUESE": "A menos que usasse aquela roupa!",
+      "RUSSIAN": "если не наденешь этот костюм!",
+      "FRENCH": "refusant de te laver sans ton costume !",
+      "THAI": "ถ้าไม่ได้ใส่ชุดนั้น!",
+      "PERSIAN": "مگر اینکه اون لباس را پوشیدی!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "나만 그런 거 아니거든?",
+      "ENGLISH": "It wasn't just me, okay?",
+      "CHINESE_SIMPLIFIED": "又不只我一个人",
+      "CHINESE_TRADITIONAL": "又不只我一個人",
+      "JAPANESE": "私だけじゃないわ！",
+      "INDONESIAN": "Bukan cuma aku doang, oke?",
+      "PORTUGUESE": "Não era só eu, tá?",
+      "RUSSIAN": "Это была не только я, ладно?",
+      "FRENCH": "Ce n’était pas que moi, d’accord ?",
+      "THAI": "ไม่ใช่แค่ฉันนะ โอเคไหม?",
+      "PERSIAN": "فقط من نبودم، باشه؟"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "언니도 입겠다고 엄청 난리였거든?",
+      "ENGLISH": "My sister made a huge fuss about wearing it too!",
+      "CHINESE_SIMPLIFIED": "姐姐那时候不也吵着闹着着要穿猫咪装吗!",
+      "CHINESE_TRADITIONAL": "姐姐那時候不也吵着鬧着着要穿貓咪裝嗎!",
+      "JAPANESE": "お姉ちゃんも着たいって、すごいグズいてたんだから！",
+      "INDONESIAN": "Kakakku juga ribut banget mau pakai itu!",
+      "PORTUGUESE": "Minha irmã também fazia a maior bagunça pra usar aquilo!",
+      "RUSSIAN": "Моя сестра тоже устроила истерику, требуя его надеть!",
+      "FRENCH": "Ma sœur aussi avait fait une scène pour le porter !",
+      "THAI": "น้องสาวฉันก็ทำเรื่องใหญ่เพราะอยากใส่เหมือนกัน!",
+      "PERSIAN": "خواهرم هم برای پوشیدنش سر و صدای زیادی به پا کرد!"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.0
+    }
+  }
+]

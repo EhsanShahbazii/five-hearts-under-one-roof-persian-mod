@@ -1,0 +1,223 @@
+[
+  {
+    "INDEX": 70000.0,
+    "STRING_INDEX": 70000.0,
+    "THUMBNAIL": 70000.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "EPISODE_7_00_0_0",
+    "NEXT": [
+      {
+        "INDEX": 70100.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70100.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_01_0_0"
+  },
+  {
+    "INDEX": 70101.0,
+    "TYPE": 1.0,
+    "VIDEO_FILE": "SELECT_7_01_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70300.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70102.0,
+    "TYPE": 1.0,
+    "VIDEO_FILE": "SELECT_7_01_0_2",
+    "NEXT": [
+      {
+        "INDEX": 70300.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70103.0,
+    "STRING_INDEX": 70103.0,
+    "THUMBNAIL": 70103.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "SELECT_7_01_0_3",
+    "NEXT": [
+      {
+        "INDEX": 70200.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70200.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_02_0_0"
+  },
+  {
+    "INDEX": 70201.0,
+    "TYPE": 1.0,
+    "VIDEO_FILE": "SELECT_7_02_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70300.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70202.0,
+    "TYPE": 1.0,
+    "VIDEO_FILE": "SELECT_7_02_0_2",
+    "NEXT": [
+      {
+        "INDEX": 70930.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70300.0,
+    "STRING_INDEX": 70300.0,
+    "THUMBNAIL": 70300.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "EPISODE_7_03_0_0",
+    "NEXT": [
+      {
+        "INDEX": 70400.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70400.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_04_0_0"
+  },
+  {
+    "INDEX": 70401.0,
+    "STRING_INDEX": 70401.0,
+    "THUMBNAIL": 70401.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "SELECT_7_04_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70500.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70402.0,
+    "TYPE": 1.0,
+    "VIDEO_FILE": "SELECT_7_04_0_2",
+    "NEXT": [
+      {
+        "INDEX": 70910.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70403.0,
+    "TYPE": 1.0,
+    "VIDEO_FILE": "SELECT_7_04_0_3",
+    "NEXT": [
+      {
+        "INDEX": 70920.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70500.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_04_0_0"
+  },
+  {
+    "INDEX": 70501.0,
+    "STRING_INDEX": 70401.0,
+    "THUMBNAIL": 70401.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "SELECT_7_05_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70600.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70600.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_04_0_0"
+  },
+  {
+    "INDEX": 70601.0,
+    "STRING_INDEX": 70401.0,
+    "THUMBNAIL": 70401.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "SELECT_7_06_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70700.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70700.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_04_0_0"
+  },
+  {
+    "INDEX": 70701.0,
+    "STRING_INDEX": 70401.0,
+    "THUMBNAIL": 70401.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "SELECT_7_07_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70800.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70800.0,
+    "TYPE": 3.0,
+    "VIDEO_FILE": "SELECT_7_04_0_0"
+  },
+  {
+    "INDEX": 70801.0,
+    "STRING_INDEX": 70401.0,
+    "THUMBNAIL": 70401.0,
+    "TYPE": 2.0,
+    "VIDEO_FILE": "SELECT_7_08_0_1",
+    "NEXT": [
+      {
+        "INDEX": 70500.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70910.0,
+    "TYPE": 9.0,
+    "VIDEO_FILE": "ENDING_7_09_1_0",
+    "REWARD": [
+      {
+        "INDEX": 2106.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70920.0,
+    "TYPE": 9.0,
+    "VIDEO_FILE": "ENDING_7_09_2_0",
+    "REWARD": [
+      {
+        "INDEX": 2107.0
+      }
+    ]
+  },
+  {
+    "INDEX": 70930.0,
+    "TYPE": 9.0,
+    "VIDEO_FILE": "ENDING_7_09_3_0",
+    "REWARD": [
+      {
+        "INDEX": 2108.0
+      }
+    ]
+  }
+]

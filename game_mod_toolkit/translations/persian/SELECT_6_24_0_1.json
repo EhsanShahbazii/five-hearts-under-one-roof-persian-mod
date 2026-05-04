@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "잘 먹겠습니다~",
+      "ENGLISH": "Thanks! I'll enjoy it!",
+      "CHINESE_SIMPLIFIED": "谢谢你啊，那我开吃了!",
+      "CHINESE_TRADITIONAL": "謝謝你啊，那我開吃了!",
+      "JAPANESE": "いただきます〜",
+      "INDONESIAN": "Terima kasih! Aku akan menikmatinya!",
+      "PORTUGUESE": "Obrigada! Vou aproveitar!",
+      "RUSSIAN": "Спасибо! Я наслажусь этим!",
+      "FRENCH": "Merci ! Je vais en profiter !",
+      "THAI": "ขอบใจนะ! ฉันจะกินให้อร่อย!",
+      "PERSIAN": "با تشکر من از اون لذت خواهم برد!"
+    },
+    "TIME": {
+      "SHOW": 1.06,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어, 밥풀...!",
+      "ENGLISH": "Hey, you have rice on your cheek...",
+      "CHINESE_SIMPLIFIED": "啊，饭粒…",
+      "CHINESE_TRADITIONAL": "啊，飯粒…",
+      "JAPANESE": "あ、ご飯粒ついますよ…！",
+      "INDONESIAN": "Hey, ada nasi di pipimu…",
+      "PORTUGUESE": "Ei, tem arroz na sua bochecha…",
+      "RUSSIAN": "Эй, у тебя рис на щеке...",
+      "FRENCH": "Hé, tu as du riz sur la joue...",
+      "THAI": "เฮ้, มีข้าวติดแก้มเธออยู่นะ...",
+      "PERSIAN": "هی برنج داری روی گونه ات..."
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "고마워요. 맛있게 먹어줘서...!",
+      "ENGLISH": "Thanks for enjoying it...!",
+      "CHINESE_SIMPLIFIED": "谢谢您这么喜欢我带回来的食物…!",
+      "CHINESE_TRADITIONAL": "謝謝您這麼喜歡我帶回來的食物…!",
+      "JAPANESE": "食べてくれて、ありがとうございます…！",
+      "INDONESIAN": "Terima kasih sudah menikmatinya…!",
+      "PORTUGUESE": "Obrigada por aproveitar…!",
+      "RUSSIAN": "Спасибо, что наслаждаешься этим...!",
+      "FRENCH": "Merci de t’en réjouir... !",
+      "THAI": "ขอบคุณที่กินให้อร่อยนะ...!",
+      "PERSIAN": "ممنون که لذت بردید...!"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.5
+    }
+  }
+]

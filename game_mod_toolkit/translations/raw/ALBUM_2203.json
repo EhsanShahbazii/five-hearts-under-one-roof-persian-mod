@@ -1,0 +1,29 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "ENGLISH": "Min-jung's SNS: Ugh, my door's broken... Wish someone could come fix itㅠㅠ",
+      "CHINESE_SIMPLIFIED": "敏静的 SNS: 呜呜家里的门锁坏了... 哪个好人能帮我修一下啊ㅠㅠ",
+      "CHINESE_TRADITIONAL": "敏靜的 SNS: 嗚嗚家裏的門鎖壞了... 哪個好人能幫我修一下啊ㅠㅠ",
+      "JAPANESE": "ミンジョンのSNS: うぅ、ドアが壊れた...誰か直しに来てくれないかなぁ。"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "툭 치면 부러지겠네.",
+      "ENGLISH": "That looks like that'd break with a slight touch.",
+      "CHINESE_SIMPLIFIED": "一锤子下去就会坏掉吧",
+      "CHINESE_TRADITIONAL": "一錘子下去就會壞掉吧",
+      "JAPANESE": "ちょっと触れただけでも折れそうだね。"
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.7
+    }
+  }
+]

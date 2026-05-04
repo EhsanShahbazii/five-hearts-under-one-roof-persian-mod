@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 얘기해 준다는 건 뭐예요?",
+      "ENGLISH": "What did you want to talk about today?",
+      "CHINESE_SIMPLIFIED": "你说今天有事要讲，是什么事啊?",
+      "CHINESE_TRADITIONAL": "你說今天有事要講，是什麼事啊?",
+      "JAPANESE": "今日、話してくれるって言ってたのは何ですか？",
+      "INDONESIAN": "Apa yang ingin kamu bicarakan hari ini?",
+      "PORTUGUESE": "Sobre o que você queria falar hoje?",
+      "RUSSIAN": "Так что ты хотел(а) сказать мне сегодня?",
+      "FRENCH": "Alors, qu’est-ce que tu voulais me dire aujourd’hui ?",
+      "THAI": "แล้ววันนี้เธออยากบอกอะไรฉัน?"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나...",
+      "ENGLISH": "I...",
+      "CHINESE_SIMPLIFIED": "我...",
+      "CHINESE_TRADITIONAL": "我...",
+      "JAPANESE": "私…",
+      "INDONESIAN": "Aku...",
+      "PORTUGUESE": "Eu...",
+      "RUSSIAN": "Я...",
+      "FRENCH": "J’ai...",
+      "THAI": "ฉัน..."
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "솔로 앨범 곡 나왔어요.",
+      "ENGLISH": "I’ve got my solo album ready.",
+      "CHINESE_SIMPLIFIED": "SOLO专辑制作的差不多了",
+      "CHINESE_TRADITIONAL": "SOLO專輯製作的差不多了",
+      "JAPANESE": "ソロアルバムの曲が完成したんです。",
+      "INDONESIAN": "Album solo-ku sudah siap.",
+      "PORTUGUESE": "Tenho meu álbum solo pronto.",
+      "RUSSIAN": "У меня готов сольный альбом.",
+      "FRENCH": "mon album solo prêt.",
+      "THAI": "ฉันมีอัลบั้มเดี่ยวพร้อมแล้ว"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "예? 진짜?",
+      "ENGLISH": "What? Really?",
+      "CHINESE_SIMPLIFIED": "真的假的?",
+      "CHINESE_TRADITIONAL": "真的假的?",
+      "JAPANESE": "え？本当ですか？",
+      "INDONESIAN": "Apa? Serius?",
+      "PORTUGUESE": "O quê? Sério?",
+      "RUSSIAN": "Что? Правда?",
+      "FRENCH": "Quoi ? Vraiment ?",
+      "THAI": "อะไรนะ? จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "생각보다 금방 나왔네요!",
+      "ENGLISH": "That was fast!",
+      "CHINESE_SIMPLIFIED": "这么快?",
+      "CHINESE_TRADITIONAL": "這麼快?",
+      "JAPANESE": "思ったより早く出たんですね！",
+      "INDONESIAN": "Cepat banget!",
+      "PORTUGUESE": "Foi rápido!",
+      "RUSSIAN": "Это было быстро!",
+      "FRENCH": "C’était rapide !",
+      "THAI": "เร็วมากเลยนะ!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 오빠한테 제일 먼저 들려주고 싶어서 불렀어요.",
+      "ENGLISH": "I called you because I wanted you to hear it first.",
+      "CHINESE_SIMPLIFIED": "我想最先告诉哥哥你，所以才叫你过来的",
+      "CHINESE_TRADITIONAL": "我想最先告訴哥哥你，所以才叫你過來的",
+      "JAPANESE": "だから、ユマンさんに一番最初に聞かせたくて。",
+      "INDONESIAN": "Aku meneleponmu karena aku ingin kamu yang mendengarnya pertama kali.",
+      "PORTUGUESE": "Te liguei porque queria que você fosse o primeiro a ouvir.",
+      "RUSSIAN": "Я позвал(а) тебя, потому что хочу, чтобы ты послушал(а) первым.",
+      "FRENCH": "Je t’ai appelé(e) parce que je voulais que tu l’écoutes en premier.",
+      "THAI": "ฉันเรียกเธอมาเพราะอยากให้เธอฟังเป็นคนแรก"
+    },
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "제가요? 감히?",
+      "ENGLISH": "Me? Seriously?",
+      "CHINESE_SIMPLIFIED": "我? 那太荣幸了",
+      "CHINESE_TRADITIONAL": "我? 那太榮幸了",
+      "JAPANESE": "あ、僕にですか？",
+      "INDONESIAN": "Aku? Serius?",
+      "PORTUGUESE": "Eu? Sério?",
+      "RUSSIAN": "Я? Серьёзно?",
+      "FRENCH": "Moi ? Sérieusement ?",
+      "THAI": "ฉันเหรอ? จริงๆ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "준비 됐어요?",
+      "ENGLISH": "You ready?",
+      "CHINESE_SIMPLIFIED": "准备好了吗？",
+      "CHINESE_TRADITIONAL": "準備好了嗎？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu siap?",
+      "PORTUGUESE": "Está pronto?",
+      "RUSSIAN": "Готов(а)?",
+      "FRENCH": "Prêt(e) ?",
+      "THAI": "พร้อมไหม?"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Born ready!",
+      "CHINESE_SIMPLIFIED": "好了！",
+      "CHINESE_TRADITIONAL": "好了！",
+      "JAPANESE": "はい、もちろん！",
+      "INDONESIAN": "Selalu siap!",
+      "PORTUGUESE": "Nasci pronto!",
+      "RUSSIAN": "Всегда готов(а)!",
+      "FRENCH": "Né(e) prêt(e) !",
+      "THAI": "พร้อมเสมอ!"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.5
+    }
+  }
+]

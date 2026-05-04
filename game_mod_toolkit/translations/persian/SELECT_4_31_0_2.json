@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나는 너 키 커서 좋아.",
+      "ENGLISH": "I like you because you're tall.",
+      "CHINESE_SIMPLIFIED": "我喜欢你个子高",
+      "CHINESE_TRADITIONAL": "我喜歡你個子高",
+      "JAPANESE": "お前は背が高くていいと思うな。",
+      "INDONESIAN": "Aku suka kamu karena kamu tinggi.",
+      "PORTUGUESE": "Eu gosto de você porque você é alto.",
+      "RUSSIAN": "Ты мне нравишься, потому что ты высокая.",
+      "FRENCH": "Je t’aime parce que tu es grande.",
+      "THAI": "ฉันชอบเธอเพราะเธอตัวสูง",
+      "PERSIAN": "من تو را دوست دارم چون قدت بلند است."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 4m 조금 안 되지 않나?",
+      "ENGLISH": "Almost 4 meters, right?",
+      "CHINESE_SIMPLIFIED": "你快有4米了吧?",
+      "CHINESE_TRADITIONAL": "你快有4米了吧?",
+      "JAPANESE": "4メートルくらいありそうだけど？",
+      "INDONESIAN": "Hampir 4 meter, ya?",
+      "PORTUGUESE": "Quase 4 metros, né?",
+      "RUSSIAN": "Почти 4 метра, да?",
+      "FRENCH": "Presque 4 mètres, non ?",
+      "THAI": "เกือบ 4 เมตรใช่ไหม?",
+      "PERSIAN": "تقریبا 4 متر درسته؟"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 뒤진다 진짜.",
+      "ENGLISH": "You're dead meat.",
+      "CHINESE_SIMPLIFIED": "你是不是找死?",
+      "CHINESE_TRADITIONAL": "你是不是找死?",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Kamu cari masalah.",
+      "PORTUGUESE": "Você tá ferrado.",
+      "RUSSIAN": "Ты труп.",
+      "FRENCH": "T’es fichue.",
+      "THAI": "เธอแย่แน่",
+      "PERSIAN": "تو گوشت مرده ای"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "가끔 너가 나 내려보는 거 좋던데?",
+      "ENGLISH": "Sometimes I like when you look down at me.",
+      "CHINESE_SIMPLIFIED": "有时候我还挺喜欢被你俯视的感觉的",
+      "CHINESE_TRADITIONAL": "有時候我還挺喜歡被你俯視的感覺的",
+      "JAPANESE": "お前がたまに俺を見下ろすの、好きなんだけどな～",
+      "INDONESIAN": "Kadang aku suka waktu kamu melihatku dari atas.",
+      "PORTUGUESE": "Às vezes, eu gosto quando você olha pra mim de cima.",
+      "RUSSIAN": "Иногда мне нравится, когда ты смотришь на меня сверху вниз.",
+      "FRENCH": "Parfois, j’aime quand tu me regardes d’en haut.",
+      "THAI": "บางครั้งฉันก็ชอบที่เธอมองลงมาที่ฉัน",
+      "PERSIAN": "گاهی اوقات دوست دارم وقتی از بالا به من نگاه می کنی."
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "너 다리도 두 번꼴 수 있지?",
+      "ENGLISH": "You can cross your legs twice, right?",
+      "CHINESE_SIMPLIFIED": "你的腿长到能交叉两次吧?",
+      "CHINESE_TRADITIONAL": "你的腿長到能交叉兩次吧?",
+      "JAPANESE": "脚も長いから二回組めるし。",
+      "INDONESIAN": "Kamu bisa nyilangin kaki dua kali, kan?",
+      "PORTUGUESE": "Você consegue cruzar as pernas duas vezes, né?",
+      "RUSSIAN": "Ты можешь скрестить ноги дважды, да?",
+      "FRENCH": "Tu peux croiser tes jambes deux fois, non ?",
+      "THAI": "เธอไขว้ขาได้สองรอบใช่ไหม?",
+      "PERSIAN": "می توانید دو بار پاهای خود را روی هم قرار دهید، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너 자꾸 놀릴래?",
+      "ENGLISH": "Are you going to keep teasing me?",
+      "CHINESE_SIMPLIFIED": "你有完没完?",
+      "CHINESE_TRADITIONAL": "你有完沒完?",
+      "JAPANESE": "またからかうつもり？",
+      "INDONESIAN": "Kamu mau terus godain aku?",
+      "PORTUGUESE": "Vai continuar me provocando?",
+      "RUSSIAN": "Ты собираешься продолжать дразнить меня?",
+      "FRENCH": "Tu vas continuer à me taquiner ?",
+      "THAI": "เธอจะล้อเล่นกับฉันไปเรื่อยๆ ไหมเนี่ย?",
+      "PERSIAN": "میخوای مدام منو اذیت کنی؟"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "근데 두 번꼴 수 있긴 해...!",
+      "ENGLISH": "But yes, I can cross them twice...!",
+      "CHINESE_SIMPLIFIED": "不过我确实可以…!",
+      "CHINESE_TRADITIONAL": "不過我確實可以…!",
+      "JAPANESE": "でも、確かに二回組めるとは思うけど..？",
+      "INDONESIAN": "Tapi iya, aku bisa nyilangin dua kali...!",
+      "PORTUGUESE": "Mas sim, eu consigo cruzá-las duas vezes...!",
+      "RUSSIAN": "Но да, я могу их скрестить дважды...!",
+      "FRENCH": "Mais oui, je peux les croiser deux fois...!",
+      "THAI": "ใช่ ฉันไขว้ขาสองรอบได้จริงๆ...!",
+      "PERSIAN": "اما آره دوبار میتونم ازشون عبور کنم...!"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아무튼 난 너가 키 커서 좋아",
+      "ENGLISH": "Anyway, I like you because you're tall.",
+      "CHINESE_SIMPLIFIED": "反正，我喜欢你个子高这一点",
+      "CHINESE_TRADITIONAL": "反正，我喜歡你個子高這一點",
+      "JAPANESE": "とにかく、お前は背が高くていいと思うな。",
+      "INDONESIAN": "Tapi ya, aku suka kamu karena kamu tinggi.",
+      "PORTUGUESE": "De qualquer forma, eu gosto de você porque você é alto.",
+      "RUSSIAN": "В общем, ты мне нравишься, потому что ты высокая.",
+      "FRENCH": "Bref, je t’aime parce que tu es grande.",
+      "THAI": "ยังไงก็ตาม ฉันชอบเธอเพราะเธอตัวสูง",
+      "PERSIAN": "به هر حال من تو را دوست دارم چون قدت بلند است."
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.3
+    }
+  }
+]

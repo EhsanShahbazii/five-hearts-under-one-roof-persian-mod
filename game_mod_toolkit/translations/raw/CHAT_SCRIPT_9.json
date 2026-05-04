@@ -1,0 +1,321 @@
+[
+  {
+    "INDEX": 1.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 4일 전 -",
+      "ENGLISH": "- 4 days ago -",
+      "CHINESE_SIMPLIFIED": "- 4天前 -",
+      "CHINESE_TRADITIONAL": "- 4天前 -",
+      "JAPANESE": "- 4日前 -",
+      "INDONESIAN": "- 4 hari yang lalu -",
+      "PORTUGUESE": "- 4 dias atrás -",
+      "RUSSIAN": "- 4 дня назад -",
+      "FRENCH": "- Il y a 4 jours -",
+      "THAI": "- 4 วันที่แล้ว -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "밥 알아서 잘 챙겨 먹고",
+      "ENGLISH": "Make sure you eat properly",
+      "CHINESE_SIMPLIFIED": "你记得好好吃饭",
+      "CHINESE_TRADITIONAL": "你記得好好吃飯",
+      "JAPANESE": "ご飯はちゃんと食べてる？",
+      "INDONESIAN": "Pastikan kamu makan yang benar.",
+      "PORTUGUESE": "Certifique-se de se alimentar direito.",
+      "RUSSIAN": "Смотри, чтобы питался нормально.",
+      "FRENCH": "Assure-toi de bien manger.",
+      "THAI": "อย่าลืมกินข้าวให้เรียบร้อยนะ"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "늦게까지 게임하지 말고",
+      "ENGLISH": "Don’t stay up too late playing games.",
+      "CHINESE_SIMPLIFIED": "玩游戏不要玩得太晚",
+      "CHINESE_TRADITIONAL": "玩遊戲不要玩得太晚",
+      "JAPANESE": "遅くまでゲームしないで。",
+      "INDONESIAN": "Jangan begadang main game.",
+      "PORTUGUESE": "Não fique acordado até tarde jogando.",
+      "RUSSIAN": "Не засиживайся за играми допоздна.",
+      "FRENCH": "Ne te couche pas trop tard à jouer aux jeux vidéo.",
+      "THAI": "อย่านอนดึกเพราะมัวเล่นเกมล่ะ"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "응",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Ok.",
+      "RUSSIAN": "— Хорошо.",
+      "FRENCH": "— D’accord.",
+      "THAI": "— โอเค"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "3층 괜히 들어갈 생각하지 말고",
+      "ENGLISH": "And don’t even think about going up to the third floor.",
+      "CHINESE_SIMPLIFIED": "千万别去3楼阁楼啊",
+      "CHINESE_TRADITIONAL": "千萬別去3樓閣樓啊",
+      "JAPANESE": "あと、3階に絶対に入らないこと。",
+      "INDONESIAN": "Dan jangan coba-coba naik ke lantai tiga.",
+      "PORTUGUESE": "E nem pense em subir para o terceiro andar.",
+      "RUSSIAN": "И даже не думай подниматься на третий этаж.",
+      "FRENCH": "Et n’essaie même pas de monter au troisième étage.",
+      "THAI": "แล้วก็ อย่าคิดจะขึ้นไปชั้นสามเด็ดขาด"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "엄마가 열지 말라던 방에 있는 여자애 누구야?",
+      "ENGLISH": "Who’s the girl in that room Mom told me not to open?",
+      "CHINESE_SIMPLIFIED": "那个不让我进的房间里有个女生，是谁啊?",
+      "CHINESE_TRADITIONAL": "那個不讓我進的房間裏有個女生，是誰啊?",
+      "JAPANESE": "開けるなって言ってた部屋にいる女の子なんだけど、誰？",
+      "INDONESIAN": "Siapa gadis di kamar yang Ibu bilang jangan dibuka?",
+      "PORTUGUESE": "Quem é a garota naquele quarto que a mamãe disse para eu não abrir?",
+      "RUSSIAN": "Кто эта девушка в комнате, которую мама велела мне не открывать?",
+      "FRENCH": "C’est qui, la fille dans cette pièce que maman m’a dit de ne pas ouvrir ?",
+      "THAI": "ผู้หญิงในห้องที่แม่บอกไม่ให้เปิดคือใครน่ะ?"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "있는 거 알고 있었어?",
+      "ENGLISH": "You knew she was there?",
+      "CHINESE_SIMPLIFIED": "你早知道那里有人?",
+      "CHINESE_TRADITIONAL": "你早知道那裏有人?",
+      "JAPANESE": "いるのは知ってた？",
+      "INDONESIAN": "Kamu tahu dia ada di sana?",
+      "PORTUGUESE": "Você sabia que ela estava lá?",
+      "RUSSIAN": "Ты знал, что она там?",
+      "FRENCH": "Tu savais qu’elle était là ?",
+      "THAI": "นายรู้ด้วยเหรอว่าเธออยู่ที่นั่น?"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "엄마?",
+      "ENGLISH": "Mom?",
+      "CHINESE_SIMPLIFIED": "妈?",
+      "CHINESE_TRADITIONAL": "媽?",
+      "JAPANESE": "お母さん？",
+      "INDONESIAN": "Ibu?",
+      "PORTUGUESE": "Mãe?",
+      "RUSSIAN": "Мама?",
+      "FRENCH": "Maman ?",
+      "THAI": "แม่?"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "^^",
+      "ENGLISH": ":>",
+      "CHINESE_SIMPLIFIED": "^^",
+      "CHINESE_TRADITIONAL": "^^",
+      "JAPANESE": "^^",
+      "INDONESIAN": ":>",
+      "PORTUGUESE": ":>",
+      "RUSSIAN": ":>",
+      "FRENCH": ":>",
+      "THAI": ":>"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "GROUP_CODE": 40901.0,
+    "SCRIPT": {
+      "KOREAN": "혹시 걔...",
+      "ENGLISH": "Wait, is she… ",
+      "CHINESE_SIMPLIFIED": "那个女孩",
+      "CHINESE_TRADITIONAL": "那個女孩",
+      "JAPANESE": "もしかして、あの子…",
+      "INDONESIAN": "Tunggu, dia...",
+      "PORTUGUESE": "Espera, ela é...",
+      "RUSSIAN": "Постой, она... моя сестра?",
+      "FRENCH": "Attends, c’est… ma sœur ?",
+      "THAI": "เดี๋ยวนะ เธอคือ...น้องสาวฉันเหรอ?"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내 동생이야?",
+      "ENGLISH": "my sister?",
+      "CHINESE_SIMPLIFIED": "是我妹妹？",
+      "CHINESE_TRADITIONAL": "是我妹妹？",
+      "JAPANESE": "俺の妹？",
+      "INDONESIAN": "adikku?",
+      "PORTUGUESE": "minha irmã?",
+      "RUSSIAN": "Подожди, о чем ты вообще говоришь?!",
+      "FRENCH": "Attends une seconde, de quoi tu parles là ?!",
+      "THAI": "เดี๋ยวๆ พูดอะไรน่ะ?!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "얘는... 무슨 소리야!",
+      "ENGLISH": "Hold on, what are you talking about?!",
+      "CHINESE_SIMPLIFIED": "她是...怎么可能啊！",
+      "CHINESE_TRADITIONAL": "她是...怎麼可能啊！",
+      "JAPANESE": "何言ってるの…！",
+      "INDONESIAN": "Tunggu, kamu ngomong apa sih?!",
+      "PORTUGUESE": "Espera aí, do que você está falando?!",
+      "RUSSIAN": "Ты ведь не похитила её, правда?",
+      "FRENCH": "Tu ne l’as pas enlevée, hein ?",
+      "THAI": "แม่ไม่ได้ลักพาตัวเธอมาหรอกใช่ไหม?"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "납치한 거 아니지?",
+      "ENGLISH": "You didn’t kidnap her, right?",
+      "CHINESE_SIMPLIFIED": "是绑架来的？",
+      "CHINESE_TRADITIONAL": "是綁架來的？",
+      "JAPANESE": "誘拐したわけじゃないよな？",
+      "INDONESIAN": "Kamu nggak menculiknya, kan?",
+      "PORTUGUESE": "Você não a sequestrou, né?",
+      "RUSSIAN": "А вся эта история с командировкой тебя и папы...",
+      "FRENCH": "Et cette histoire de voyage d’affaires pour toi et papa…",
+      "THAI": "แล้วเรื่องที่แม่กับพ่อไปทำธุรกิจล่ะ…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "엄마랑 아빠 출장간 것도 사실...",
+      "ENGLISH": "And this whole thing about you and Dad being on a business trip…",
+      "CHINESE_SIMPLIFIED": "爸妈你们去出差该不会是跑路吧...",
+      "CHINESE_TRADITIONAL": "爸媽你們去出差該不會是跑路吧...",
+      "JAPANESE": "母さんと父さんが出張に行ってるのも本当は…",
+      "INDONESIAN": "Dan soal kamu dan Ayah yang katanya lagi perjalanan bisnis...",
+      "PORTUGUESE": "E essa história toda de você e o papai estarem em uma viagem de negócios...",
+      "RUSSIAN": "Что у тебя творится в голове?!",
+      "FRENCH": "Mais qu’est-ce qui te passe par la tête ?!",
+      "THAI": "เธอคิดอะไรอยู่ในหัวกันแน่?!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "얘가 얘가... 무슨 생각 하는 거야?!",
+      "ENGLISH": "What’s going on in that head of yours?!",
+      "CHINESE_SIMPLIFIED": "孩儿啊...你想啥呢？",
+      "CHINESE_TRADITIONAL": "孩兒啊...你想啥呢？",
+      "JAPANESE": "何言ってるの？！",
+      "INDONESIAN": "Apa yang ada di kepalamu?!",
+      "PORTUGUESE": "O que está passando na sua cabeça?!",
+      "RUSSIAN": "Как ты можешь так разговаривать с матерью?!",
+      "FRENCH": "Comment oses-tu parler à ta mère comme ça ?!",
+      "THAI": "พูดแบบนี้กับแม่ได้ยังไง?!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "엄마한테 못하는 소리가 없어!",
+      "ENGLISH": "How can you talk to your mom like that?",
+      "CHINESE_SIMPLIFIED": "整天没大没小的",
+      "CHINESE_TRADITIONAL": "整天沒大沒小的",
+      "JAPANESE": "お母さんに言えないことなんてないのに！",
+      "INDONESIAN": "Bagaimana bisa kamu bicara seperti itu pada ibumu?",
+      "PORTUGUESE": "Como você pode falar assim com sua mãe?",
+      "RUSSIAN": "Она просто бедная девушка. ",
+      "FRENCH": "C’est juste une pauvre fille. ",
+      "THAI": "เธอก็แค่เด็กน่าสงสาร "
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "EPISODE_INDEX": 41100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "가여운 애니까 니가 잘 챙겨줘",
+      "ENGLISH": "She’s just a poor girl. Make sure you take good care of her.",
+      "CHINESE_SIMPLIFIED": "这孩子挺可怜的，你好好照顾她",
+      "CHINESE_TRADITIONAL": "這孩子挺可憐的，你好好照顧她",
+      "JAPANESE": "可愛い子だから、ちゃんと面倒見てあげてね。",
+      "INDONESIAN": "Dia hanya seorang gadis malang. Pastikan kamu menjaga dia dengan baik.",
+      "PORTUGUESE": "Ela é apenas uma garota pobre. Certifique-se de cuidar bem dela.",
+      "RUSSIAN": "Проследи, чтобы ты хорошо о ней заботился.",
+      "FRENCH": "Assure-toi de bien t’occuper d’elle.",
+      "THAI": "ดูแลเธอให้ดีด้วยนะ"
+    }
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "노래 들으면서 오니까 금방이네요!",
+      "ENGLISH": "It’s so quick when you listen to music on the way!",
+      "CHINESE_SIMPLIFIED": "听着歌回家马上就到了呢",
+      "CHINESE_TRADITIONAL": "聽着歌回家馬上就到了呢",
+      "JAPANESE": "曲を聞きながら来たら、すぐ着きましたね！",
+      "INDONESIAN": "Cepet banget kalau dengerin musik di jalan!",
+      "PORTUGUESE": "É tão rápido quando você ouve música no caminho!",
+      "RUSSIAN": "Так быстро ехать, когда слушаешь музыку по пути!",
+      "FRENCH": "Ça passe tellement vite avec de la musique en chemin !",
+      "THAI": "เดินทางเร็วขึ้นเยอะเลย เมื่อฟังเพลงระหว่างทาง!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그러게.",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "就是说啊",
+      "CHINESE_TRADITIONAL": "就是說啊",
+      "JAPANESE": "そうね。",
+      "INDONESIAN": "Iya, kan?",
+      "PORTUGUESE": "Né?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "N’est-ce pas ?",
+      "THAI": "จริงไหม?"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "哎?",
+      "CHINESE_TRADITIONAL": "哎?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Oh?",
+      "RUSSIAN": "О?",
+      "FRENCH": "Oh ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 6.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "잠시만요!",
+      "ENGLISH": "Wait a second!",
+      "CHINESE_SIMPLIFIED": "等一下!",
+      "CHINESE_TRADITIONAL": "等一下!",
+      "JAPANESE": "ちょっと、隠れて！",
+      "INDONESIAN": "Tunggu sebentar!",
+      "PORTUGUESE": "Espera um segundo!",
+      "RUSSIAN": "Подожди секунду!",
+      "FRENCH": "Attends une seconde !",
+      "THAI": "เดี๋ยวก่อน!"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 7.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "왜 그래?!",
+      "ENGLISH": "What’s wrong?!",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "どうしたの？！",
+      "INDONESIAN": "Kenapa?!",
+      "PORTUGUESE": "O que foi?!",
+      "RUSSIAN": "Что случилось?!",
+      "FRENCH": "Qu’est-ce qui se passe ?!",
+      "THAI": "มีอะไรหรือเปล่า?!"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "빨리빨리!",
+      "ENGLISH": "Hurry, hurry!",
+      "CHINESE_SIMPLIFIED": "快!快！",
+      "CHINESE_TRADITIONAL": "快!快！",
+      "JAPANESE": "早く早く！",
+      "INDONESIAN": "Cepetan, cepetan!",
+      "PORTUGUESE": "Rápido, rápido!",
+      "RUSSIAN": "Быстрее, быстрее!",
+      "FRENCH": "Dépêche-toi, dépêche-toi !",
+      "THAI": "รีบ ๆ!"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭔데...!",
+      "ENGLISH": "What is it...!",
+      "CHINESE_SIMPLIFIED": "什么呀!",
+      "CHINESE_TRADITIONAL": "什麼呀!",
+      "JAPANESE": "何よ…！",
+      "INDONESIAN": "Ada apa...?!",
+      "PORTUGUESE": "O que houve...?!",
+      "RUSSIAN": "Что там...!",
+      "FRENCH": "Quoi...?!",
+      "THAI": "อะไรนะ...!"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "쉿...!!",
+      "ENGLISH": "Shh...!!",
+      "CHINESE_SIMPLIFIED": "嘘…!!",
+      "CHINESE_TRADITIONAL": "噓…!!",
+      "JAPANESE": "シーッ…！！",
+      "INDONESIAN": "Shh...!!",
+      "PORTUGUESE": "Shh...!!",
+      "RUSSIAN": "Тсс...!!",
+      "FRENCH": "Chut...!!",
+      "THAI": "ชู่...!!"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저 사람 누구야?",
+      "ENGLISH": "Who is that?",
+      "CHINESE_SIMPLIFIED": "那人谁啊?",
+      "CHINESE_TRADITIONAL": "那人誰啊?",
+      "JAPANESE": "あの人、誰？",
+      "INDONESIAN": "Siapa itu?",
+      "PORTUGUESE": "Quem é aquele?",
+      "RUSSIAN": "Кто это?",
+      "FRENCH": "C’est qui, ça ?",
+      "THAI": "ใครน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "모르겠어요...",
+      "ENGLISH": "I don’t know...",
+      "CHINESE_SIMPLIFIED": "我也不认识...",
+      "CHINESE_TRADITIONAL": "我也不認識...",
+      "JAPANESE": "分かりません…",
+      "INDONESIAN": "Aku nggak tahu...",
+      "PORTUGUESE": "Não sei...",
+      "RUSSIAN": "Не знаю...",
+      "FRENCH": "Je sais pas...",
+      "THAI": "ไม่รู้สิ..."
+    },
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 아침에도 저희 집 근처로 어슬렁거리더라고요.",
+      "ENGLISH": "But He was lurking near our place this morning.",
+      "CHINESE_SIMPLIFIED": "今天早上就看到他在咱们家门口晃悠来着",
+      "CHINESE_TRADITIONAL": "今天早上就看到他在咱們家門口晃悠來着",
+      "JAPANESE": "でも、今朝、家の近くをうろうろしてたんですよ。",
+      "INDONESIAN": "Tapi dia keluyuran di dekat tempat kita tadi pagi.",
+      "PORTUGUESE": "Mas ele tava rondando perto do nosso lugar de manhã.",
+      "RUSSIAN": "Но он ошивался возле нашего дома утром.",
+      "FRENCH": "Mais il rôdait près de chez nous ce matin.",
+      "THAI": "แต่เขาเดินป้วนเปี้ยนแถวบ้านเราตอนเช้า."
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜? ",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的假的?",
+      "CHINESE_TRADITIONAL": "真的假的?",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "경찰에 신고해야 되는 거 아니야?",
+      "ENGLISH": "Shouldn’t we call the police?",
+      "CHINESE_SIMPLIFIED": "那是不是应该叫警察啊?",
+      "CHINESE_TRADITIONAL": "那是不是應該叫警察啊?",
+      "JAPANESE": "警察に通報しないといけないんじゃない？",
+      "INDONESIAN": "Apa kita harus panggil polisi?",
+      "PORTUGUESE": "Será que a gente devia chamar a polícia?",
+      "RUSSIAN": "Может, стоит вызвать полицию?",
+      "FRENCH": "On devrait appeler la police, non ?",
+      "THAI": "เราควรแจ้งตำรวจไหม?"
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "일단은 사람들한테도 조심하라고 얘기해야겠어요.",
+      "ENGLISH": "We should at least warn the others to be careful.",
+      "CHINESE_SIMPLIFIED": "先告诉大家让大家小心点吧",
+      "CHINESE_TRADITIONAL": "先告訴大家讓大家小心點吧",
+      "JAPANESE": "まずは、他の人にも気をつけるように言わないといけませんね。",
+      "INDONESIAN": "Setidaknya kita harus kasih tahu yang lain biar hati-hati.",
+      "PORTUGUESE": "Pelo menos precisamos avisar os outros pra terem cuidado.",
+      "RUSSIAN": "По крайней мере, нужно предупредить других, чтобы были осторожны.",
+      "FRENCH": "Au moins, il faudrait prévenir les autres de faire attention.",
+      "THAI": "อย่างน้อยก็ควรเตือนคนอื่นให้ระวังตัว."
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 31.9
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "경호를 붙여야 하나... ",
+      "ENGLISH": "Maybe we need bodyguards...",
+      "CHINESE_SIMPLIFIED": "我们是不是应该雇个保安…",
+      "CHINESE_TRADITIONAL": "我們是不是應該僱個保安…",
+      "JAPANESE": "警護をつけた方がいいのかな…",
+      "INDONESIAN": "Mungkin kita butuh bodyguard...",
+      "PORTUGUESE": "Talvez a gente precise de um segurança...",
+      "RUSSIAN": "Может, нам нужны телохранители...",
+      "FRENCH": "Peut-être qu’il nous faut des gardes du corps...",
+      "THAI": "บางทีเราต้องจ้างบอดี้การ์ด..."
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.2
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "경호요??",
+      "ENGLISH": "Bodyguard?",
+      "CHINESE_SIMPLIFIED": "保安?",
+      "CHINESE_TRADITIONAL": "保安?",
+      "JAPANESE": "警護ですか？？",
+      "INDONESIAN": "Bodyguard?",
+      "PORTUGUESE": "Segurança?",
+      "RUSSIAN": "Телохранитель?",
+      "FRENCH": "Garde du corps ?",
+      "THAI": "บอดี้การ์ด?"
+    },
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 36.3
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "경호가 돈이 얼만데!",
+      "ENGLISH": "Do you know how expensive bodyguards are?",
+      "CHINESE_SIMPLIFIED": "雇保安得多少钱啊！",
+      "CHINESE_TRADITIONAL": "僱保安得多少錢啊！",
+      "JAPANESE": "警護って、いくらかかると思ってるんですか！",
+      "INDONESIAN": "Kamu tahu nggak berapa mahalnya bodyguard?",
+      "PORTUGUESE": "Você sabe o quão caro é contratar segurança?",
+      "RUSSIAN": "Ты знаешь, сколько стоят телохранители?",
+      "FRENCH": "Tu sais combien ça coûte, un garde du corps ?",
+      "THAI": "รู้ไหมว่าจ้างบอดี้การ์ดแพงแค่ไหน?"
+    },
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 38.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "드라마를 너무 많이 보신 거 아니에요?",
+      "ENGLISH": "You’ve been watching too many dramas!",
+      "CHINESE_SIMPLIFIED": "你电视剧看太多啦",
+      "CHINESE_TRADITIONAL": "你電視劇看太多啦",
+      "JAPANESE": "ドラマの見すぎじゃないですか？",
+      "INDONESIAN": "Kamu kebanyakan nonton drama!",
+      "PORTUGUESE": "Você anda assistindo muito drama!",
+      "RUSSIAN": "Ты слишком много дорам смотришь!",
+      "FRENCH": "Tu regardes trop de dramas !",
+      "THAI": "ดูละครเยอะไปหรือเปล่า!"
+    },
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 40.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 제가 24시간 붙어 있을게요!",
+      "ENGLISH": "I’ll just stick with you 24/7!",
+      "CHINESE_SIMPLIFIED": "还是我来24小时保护大家吧!",
+      "CHINESE_TRADITIONAL": "還是我來24小時保護大家吧!",
+      "JAPANESE": "私が24時間見張りますよ！",
+      "INDONESIAN": "Aku aja deh, jagain kamu 24/7!",
+      "PORTUGUESE": "Eu mesmo fico com você 24 horas por dia!",
+      "RUSSIAN": "Я просто буду с тобой 24/7!",
+      "FRENCH": "Je vais juste rester avec toi 24/7 !",
+      "THAI": "ฉันจะอยู่กับเธอตลอด 24 ชั่วโมงเอง!"
+    },
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 44.2
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 말이 그렇다는 거지! ",
+      "ENGLISH": "I was just saying!",
+      "CHINESE_SIMPLIFIED": "我也只是说说而已",
+      "CHINESE_TRADITIONAL": "我也只是說說而已",
+      "JAPANESE": "ただの言い方がそうだったってわけじゃない！",
+      "INDONESIAN": "Aku cuma bercanda!",
+      "PORTUGUESE": "Eu só tava brincando!",
+      "RUSSIAN": "Да я так, к слову!",
+      "FRENCH": "Je disais ça juste comme ça !",
+      "THAI": "ฉันแค่พูดเล่น!"
+    },
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 47.2
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 집 가자.",
+      "ENGLISH": "Let’s just go home.",
+      "CHINESE_SIMPLIFIED": "赶紧回家吧",
+      "CHINESE_TRADITIONAL": "趕緊回家吧",
+      "JAPANESE": "早く家に入りましょ。",
+      "INDONESIAN": "Udah, kita pulang aja.",
+      "PORTUGUESE": "Vamos pra casa.",
+      "RUSSIAN": "Давай просто пойдём домой.",
+      "FRENCH": "Rentrons à la maison.",
+      "THAI": "กลับบ้านกันเถอะ."
+    },
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 48.6
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Yeah...!",
+      "CHINESE_SIMPLIFIED": "嗯…!",
+      "CHINESE_TRADITIONAL": "嗯…!",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Iya...!",
+      "PORTUGUESE": "Sim...!",
+      "RUSSIAN": "Да...!",
+      "FRENCH": "Ouais...!",
+      "THAI": "อืม...!"
+    },
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 49.5
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그래 이렇게 시간 끄는 건 아니야.",
+      "ENGLISH": "I can't keep stalling like this. ",
+      "CHINESE_SIMPLIFIED": "确实不能再拖时间了",
+      "CHINESE_TRADITIONAL": "確實不能再拖時間了",
+      "JAPANESE": "そうだ、こんな風に時間を引き延ばしてちゃダメだ。",
+      "INDONESIAN": "Aku nggak bisa terus menunda begini.",
+      "PORTUGUESE": "Eu não posso continuar enrolando assim.",
+      "RUSSIAN": "Я не могу больше тянуть.",
+      "FRENCH": "Je ne peux plus traîner comme ça.",
+      "THAI": "ฉันไม่สามารถถ่วงเวลาแบบนี้ต่อไปได้อีก"
+    },
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "내일은 내 마음을 전해야겠어.",
+      "ENGLISH": "Tomorrow, I'll tell her how I feel.",
+      "CHINESE_SIMPLIFIED": "明天就告诉她我的心意",
+      "CHINESE_TRADITIONAL": "明天就告訴她我的心意",
+      "JAPANESE": "明日こそ、自分の気持ちを伝えよう。",
+      "INDONESIAN": "Besok, aku akan ungkapkan perasaanku padanya.",
+      "PORTUGUESE": "Amanhã, vou contar a ela o que sinto.",
+      "RUSSIAN": "Завтра я скажу ей, что чувствую.",
+      "FRENCH": "Demain, je lui dirai ce que je ressens.",
+      "THAI": "พรุ่งนี้ ฉันจะบอกเธอว่าฉันรู้สึกยังไง"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 21.6
+    }
+  }
+]

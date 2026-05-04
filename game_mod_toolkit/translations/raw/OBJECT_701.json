@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와~ ",
+      "ENGLISH": "Wow~",
+      "CHINESE_SIMPLIFIED": "哇",
+      "CHINESE_TRADITIONAL": "哇",
+      "JAPANESE": "わぁ～",
+      "INDONESIAN": "Wah~",
+      "PORTUGUESE": "Uau~",
+      "RUSSIAN": "Вау~",
+      "FRENCH": "Waouh~",
+      "THAI": "ว้าว~"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이때 쇼케이스, 진짜 재밌었는데!",
+      "ENGLISH": "That showcase was so much fun back then!",
+      "CHINESE_SIMPLIFIED": "那次新歌发布会，很有趣来着!",
+      "CHINESE_TRADITIONAL": "那次新歌發佈會，很有趣來着!",
+      "JAPANESE": "この時のショーケース、ほんと楽しかったな！",
+      "INDONESIAN": "Showcasenya seru banget waktu itu!",
+      "PORTUGUESE": "Aquele showcase foi tão divertido na época!",
+      "RUSSIAN": "Тот показ был таким весёлым в своё время!",
+      "FRENCH": "Ce showcase était tellement amusant à l’époque !",
+      "THAI": "โชว์เคสนั้นสนุกมากในตอนนั้น!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.5
+    }
+  }
+]

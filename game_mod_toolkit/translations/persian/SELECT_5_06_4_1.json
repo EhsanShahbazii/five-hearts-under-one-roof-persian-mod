@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아... 승이 씨 일어나야 되는데... ",
+      "ENGLISH": "Ah... Seung-yi, you really need to wake up...",
+      "CHINESE_SIMPLIFIED": "啊...圣依得起床啦",
+      "CHINESE_TRADITIONAL": "啊...聖依得起牀啦",
+      "JAPANESE": "ああ…スンイさん、起きないといけないのに…",
+      "INDONESIAN": "Ah... Seung-yi, kamu beneran harus bangun...",
+      "PORTUGUESE": "Ah... Seung-yi, você precisa mesmo acordar...",
+      "RUSSIAN": "Ах... Сын-и, тебе правда пора проснуться...",
+      "FRENCH": "Ah... Seung-yi, il faut vraiment que tu te réveilles...",
+      "THAI": "อา... ซึงอี เธอต้องตื่นได้แล้วนะ...",
+      "PERSIAN": "آه... سونگ یی، تو واقعا باید بیدار شوی..."
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨! 일어나 봐요!",
+      "ENGLISH": "Seung-yi! Wake up!",
+      "CHINESE_SIMPLIFIED": "圣依，起来啦!",
+      "CHINESE_TRADITIONAL": "聖依，起來啦!",
+      "JAPANESE": "スンイさん！起きてください！",
+      "INDONESIAN": "Seung-yi! Bangun!",
+      "PORTUGUESE": "Seung-yi! Acorda!",
+      "RUSSIAN": "Сын-и! Просыпайся!",
+      "FRENCH": "Seung-yi ! Réveille-toi !",
+      "THAI": "ซึงอี! ตื่นเถอะ!",
+      "PERSIAN": "سونگ یی! بیدار شو"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依！",
+      "CHINESE_TRADITIONAL": "聖依！",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!",
+      "PERSIAN": "سونگ یی!"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "스, 승이 씨!",
+      "ENGLISH": "S-Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣，圣依啊",
+      "CHINESE_TRADITIONAL": "聖，聖依啊",
+      "JAPANESE": "ス、スンイさん！",
+      "INDONESIAN": "S-Seung-yi!",
+      "PORTUGUESE": "S-Seung-yi!",
+      "RUSSIAN": "С-Сын-и!",
+      "FRENCH": "S-Seung-yi !",
+      "THAI": "ซ-ซึงอี!",
+      "PERSIAN": "S-Seung-yi!"
+    },
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Hmm?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "んん？",
+      "INDONESIAN": "Hmm?",
+      "PORTUGUESE": "Hmm?",
+      "RUSSIAN": "Хм?",
+      "FRENCH": "Hmm ?",
+      "THAI": "หืม?",
+      "PERSIAN": "Hmm?"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아, 죄송해요...!",
+      "ENGLISH": "Sorry...!",
+      "CHINESE_SIMPLIFIED": "对不起…!",
+      "CHINESE_TRADITIONAL": "對不起…!",
+      "JAPANESE": "あ、ごめんなさい…！",
+      "INDONESIAN": "Maaf...!",
+      "PORTUGUESE": "Desculpa...!",
+      "RUSSIAN": "Прости...!",
+      "FRENCH": "Désolé... !",
+      "THAI": "ขอโทษ...!",
+      "PERSIAN": "ببخشید...!"
+    },
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저도 모르게... 따듯해서...",
+      "ENGLISH": "I didn't mean to... It’s so warm...",
+      "CHINESE_SIMPLIFIED": "手臂太温暖了,不知不觉…",
+      "CHINESE_TRADITIONAL": "手臂太溫暖了,不知不覺…",
+      "JAPANESE": "つい、暖かくて…",
+      "INDONESIAN": "Aku gak sengaja... Ini hangat banget...",
+      "PORTUGUESE": "Eu não queria... Tá tão quentinho...",
+      "RUSSIAN": "Я не хотел... Здесь так тепло...",
+      "FRENCH": "Je ne voulais pas... C’est si chaud...",
+      "THAI": "ฉันไม่ได้ตั้งใจ... มันอุ่นมากเลย...",
+      "PERSIAN": "من قصد نداشتم ... خیلی گرم است ..."
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.8
+    }
+  }
+]

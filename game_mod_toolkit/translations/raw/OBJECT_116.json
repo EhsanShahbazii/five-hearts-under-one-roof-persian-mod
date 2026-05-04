@@ -1,0 +1,58 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "ENGLISH": "(Yuman's handwritten letter to Ming-Ming)",
+      "CHINESE_SIMPLIFIED": "（给敏敏写的手信）",
+      "CHINESE_TRADITIONAL": "（給敏敏寫的手信）",
+      "JAPANESE": "（ユマンからミンミン宛の手紙）",
+      "INDONESIAN": "(Surat tulisan tangan Yuman untuk Ming-Ming)",
+      "PORTUGUESE": "(Carta escrita à mão por Yuman para Ming-Ming)",
+      "RUSSIAN": "(Письмо от Юмана Мин-Мин)",
+      "FRENCH": "(Lettre manuscrite de Yuman à Ming-Ming)",
+      "THAI": "(จดหมายลายมือยูมันถึงหมิง-หมิง)"
+    },
+    "TIME": {
+      "SHOW": 1.35,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "언젠간 밍밍 님께",
+      "ENGLISH": "Someday, I must give this",
+      "CHINESE_SIMPLIFIED": "总有一天我要把它",
+      "CHINESE_TRADITIONAL": "總有一天我要把它",
+      "JAPANESE": "いつかミンミンさんに",
+      "INDONESIAN": "Suatu hari, aku harus kasih ini",
+      "PORTUGUESE": "Algum dia, eu preciso entregar isso",
+      "RUSSIAN": "Когда-нибудь, я должен",
+      "FRENCH": "Un jour, je dois",
+      "THAI": "สักวันหนึ่ง"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "꼭 드려야지!",
+      "ENGLISH": "To Ming-Ming!",
+      "CHINESE_SIMPLIFIED": "送给敏敏!",
+      "CHINESE_TRADITIONAL": "送給敏敏!",
+      "JAPANESE": "渡さないと！",
+      "INDONESIAN": "Ke Ming-Ming!",
+      "PORTUGUESE": "Para a Ming-Ming!",
+      "RUSSIAN": "передать это Мин-Мин!",
+      "FRENCH": "remettre ça à Ming-Ming !",
+      "THAI": "ฉันต้องมอบสิ่งนี้ให้หมิง-หมิง!"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.2
+    }
+  }
+]

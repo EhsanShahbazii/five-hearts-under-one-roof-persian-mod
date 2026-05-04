@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭘.. 사 오라고 했더라?",
+      "ENGLISH": "What should I buy?",
+      "CHINESE_SIMPLIFIED": "部长让我买什么来着?",
+      "CHINESE_TRADITIONAL": "部長讓我買什麼來着?",
+      "JAPANESE": "何を…買ってこいって言われたんだっけ？",
+      "INDONESIAN": "Apa yang harus aku beli?",
+      "PORTUGUESE": "O que eu devo comprar",
+      "RUSSIAN": "Что мне купить?",
+      "FRENCH": "Qu’est-ce que je devrais acheter ?",
+      "THAI": "ฉันควรซื้ออะไรดี?",
+      "PERSIAN": "چی بخرم؟"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    }
+  }
+]

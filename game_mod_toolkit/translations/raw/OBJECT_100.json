@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "RUSSIAN": "А~",
+      "FRENCH": "Ah~",
+      "THAI": "อา~"
+    },
+    "TIME": {
+      "SHOW": 1.54,
+      "HIDE": 2.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너무 잘 잤다!",
+      "ENGLISH": "I slept so well!",
+      "CHINESE_SIMPLIFIED": "睡得好饱!",
+      "CHINESE_TRADITIONAL": "睡得好飽!",
+      "JAPANESE": "よく眠れた！",
+      "INDONESIAN": "Aku tidur nyenyak sekali!",
+      "PORTUGUESE": "Dormi tão bem!",
+      "RUSSIAN": "Как же я хорошо выспался!",
+      "FRENCH": "J’ai tellement bien dormi !",
+      "THAI": "ฉันหลับสบายมาก!"
+    },
+    "TIME": {
+      "SHOW": 3.65,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오늘따라 왜 이렇게 개운하지?",
+      "ENGLISH": "Why do I feel so refreshed today?",
+      "CHINESE_SIMPLIFIED": "今天状态相当可以啊!",
+      "CHINESE_TRADITIONAL": "今天狀態相當可以啊!",
+      "JAPANESE": "今日に限って何でこんなに気持ちいいんだろう？",
+      "INDONESIAN": "Kenapa rasanya segar banget hari ini?",
+      "PORTUGUESE": "Por que estou me sentindo tão renovado hoje?",
+      "RUSSIAN": "Почему я чувствую себя таким бодрым сегодня?",
+      "FRENCH": "Pourquoi je me sens si en forme aujourd’hui ?",
+      "THAI": "ทำไมวันนี้รู้สึกสดชื่นจัง?"
+    },
+    "TIME": {
+      "SHOW": 5.75,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "11시?",
+      "ENGLISH": "11 o'clock?!?!",
+      "CHINESE_SIMPLIFIED": "11点了?",
+      "CHINESE_TRADITIONAL": "11點了?",
+      "JAPANESE": "えっ、11時！？",
+      "INDONESIAN": "Jam 11?!?!",
+      "PORTUGUESE": "11 horas?!?!",
+      "RUSSIAN": "Одиннадцать часов?!?!",
+      "FRENCH": "Onze heures ?!?",
+      "THAI": "สิบเอ็ดโมงแล้ว?!?!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아.. 오늘 면접 이력서도 뽑고 가야 되는데!",
+      "ENGLISH": "Oh crap, I need to print my resume for the interview!",
+      "CHINESE_SIMPLIFIED": "糟了，还得打印今天面试用的简历呢!",
+      "CHINESE_TRADITIONAL": "糟了，還得打印今天面試用的簡歷呢!",
+      "JAPANESE": "ああもう、面接の履歴書も印刷しないといけないのに！",
+      "INDONESIAN": "Aduh, aku harus cetak resume buat wawancara!",
+      "PORTUGUESE": "Droga, preciso imprimir meu currículo para a entrevista!",
+      "RUSSIAN": "Чёрт, мне же нужно распечатать резюме для собеседования!",
+      "FRENCH": "Oh non, je dois imprimer mon CV pour l’entretien !",
+      "THAI": "แย่แล้ว ฉันต้องพิมพ์เรซูเม่ไปสัมภาษณ์งาน!"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "정장은 여기 있고...",
+      "ENGLISH": "The suit is here...",
+      "CHINESE_SIMPLIFIED": "西装在这…",
+      "CHINESE_TRADITIONAL": "西裝在這…",
+      "JAPANESE": "スーツはここで…",
+      "INDONESIAN": "Setelan jasnya sudah siap...",
+      "PORTUGUESE": "O terno tá aqui...",
+      "RUSSIAN": "Костюм на месте...",
+      "FRENCH": "Le costume est là...",
+      "THAI": "สูทอยู่ตรงนี้..."
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "넥타이가 어디 갔지??",
+      "ENGLISH": "Where's the necktie??",
+      "CHINESE_SIMPLIFIED": "领带呢?",
+      "CHINESE_TRADITIONAL": "領帶呢?",
+      "JAPANESE": "ネクタイはどこだ？",
+      "INDONESIAN": "Dasi mana ya??",
+      "PORTUGUESE": "Cadê a gravata??",
+      "RUSSIAN": "Где мой галстук??",
+      "FRENCH": "Où est ma cravate ??",
+      "THAI": "เนกไทล่ะ??"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아이 넥타이 어디 갔어...!",
+      "ENGLISH": "Where is my necktie...?!?!",
+      "CHINESE_SIMPLIFIED": "啊！领带又去哪了…?",
+      "CHINESE_TRADITIONAL": "啊！領帶又去哪了…?",
+      "JAPANESE": "もう、一体どこいったんだよ…！",
+      "INDONESIAN": "Di mana dasiku...?!?!",
+      "PORTUGUESE": "Onde está minha gravata...?!?!",
+      "RUSSIAN": "Где мой галстук...?!?!",
+      "FRENCH": "Où est ma cravate...?!?!",
+      "THAI": "เนกไทของฉันอยู่ไหน...?!?!"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.0
+    }
+  }
+]

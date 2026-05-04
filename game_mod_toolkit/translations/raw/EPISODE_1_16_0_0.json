@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "100을 반으로 나누고",
+      "ENGLISH": "If you divide 100 by 2",
+      "CHINESE_SIMPLIFIED": "把100先对半分",
+      "CHINESE_TRADITIONAL": "把100先對半分",
+      "JAPANESE": "100の半分を",
+      "INDONESIAN": "Kalau kamu bagi 100 dengan 2",
+      "PORTUGUESE": "Se você dividir 100 por 2",
+      "RUSSIAN": "Если разделить 100 на 2,",
+      "FRENCH": "Si vous divisez 100 par 2,",
+      "THAI": "ถ้าคุณแบ่ง 100 ด้วย 2"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "또 2분의 1로 나누면 어떻게 될까요?",
+      "ENGLISH": "And then divide that by 1/2 again, what do you get?",
+      "CHINESE_SIMPLIFIED": "再除以二分之一，结果是多少？",
+      "CHINESE_TRADITIONAL": "再除以二分之一，結果是多少？",
+      "JAPANESE": "さらに半分に分けるといくつになるでしょうか？",
+      "INDONESIAN": "Lalu bagi lagi dengan 1/2, berapa hasilnya?",
+      "PORTUGUESE": "E depois dividir isso por 1/2 de novo, qual é o resultado?",
+      "RUSSIAN": "А затем ещё раз разделить на 1/2, что получится?",
+      "FRENCH": "Puis divisez encore une fois par 1/2, quel résultat obtenez-vous ?",
+      "THAI": "แล้วแบ่งอีกทีด้วย 1/2 จะได้เท่าไหร่?"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.5
+    }
+  }
+]

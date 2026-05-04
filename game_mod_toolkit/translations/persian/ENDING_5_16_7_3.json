@@ -1,0 +1,522 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "다들 뭐 하는 거예요!",
+      "ENGLISH": "Hey, stop it!",
+      "CHINESE_SIMPLIFIED": "你们这是干什么?",
+      "CHINESE_TRADITIONAL": "你們這是幹什麼?",
+      "JAPANESE": "ちょっと、みんな何してるんですか！",
+      "INDONESIAN": "Hei, berhenti!",
+      "PORTUGUESE": "Ei, parem com isso!",
+      "RUSSIAN": "Эй, прекратите!",
+      "FRENCH": "Hé, arrêtez !",
+      "THAI": "เฮ้ หยุดนะ!",
+      "PERSIAN": "هی، بس کن!"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 집에서 싸움은 안 됩니다!",
+      "ENGLISH": "No fighting in my house!",
+      "CHINESE_SIMPLIFIED": "在我家不能吵架!",
+      "CHINESE_TRADITIONAL": "在我家不能吵架!",
+      "JAPANESE": "僕の家でケンカしないでください！",
+      "INDONESIAN": "Jangan bertengkar di rumahku!",
+      "PORTUGUESE": "Nada de brigas na minha casa!",
+      "RUSSIAN": "Никаких драк в моём доме!",
+      "FRENCH": "Pas de bagarres dans ma maison !",
+      "THAI": "ห้ามทะเลาะกันในบ้านของฉัน!",
+      "PERSIAN": "دعوا در خونه من نیست!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 오빠!",
+      "ENGLISH": "Oppa! ",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "あ、お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "พี่!",
+      "PERSIAN": "Oppa!"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "언니들이 먼저 시비 걸어!",
+      "ENGLISH": "They started it!",
+      "CHINESE_SIMPLIFIED": "是姐姐们先开始找茬的!",
+      "CHINESE_TRADITIONAL": "是姐姐們先開始找茬的!",
+      "JAPANESE": "お姉さんたちが先にケンカふっかけてきたの！",
+      "INDONESIAN": "Mereka yang mulai!",
+      "PORTUGUESE": "Eles começaram!",
+      "RUSSIAN": "Это они начали!",
+      "FRENCH": "C’est eux qui ont commencé !",
+      "THAI": "พวกเขาเริ่มก่อน!",
+      "PERSIAN": "شروع کردند!"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "은비는 맨날 남 탓하더라?",
+      "ENGLISH": "Eun-bi always blames others!",
+      "CHINESE_SIMPLIFIED": "高恩妃就知道怪别人!",
+      "CHINESE_TRADITIONAL": "高恩妃就知道怪別人!",
+      "JAPANESE": "ウンビって、いつも人のせいにするよね？",
+      "INDONESIAN": "Eun-bi selalu nyalahin orang lain!",
+      "PORTUGUESE": "A Eun-bi sempre culpa os outros!",
+      "RUSSIAN": "Ын-би всегда винит других!",
+      "FRENCH": "Eun-bi rejette toujours la faute sur les autres !",
+      "THAI": "อึนบีโทษคนอื่นตลอดเลย!",
+      "PERSIAN": "یون بی همیشه دیگران را مقصر می داند!"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭔데 남의 동생한테 훈계질이야?",
+      "ENGLISH": "Why are you lecturing my little sister?",
+      "CHINESE_SIMPLIFIED": "你算老几啊就随便训别人的妹妹?",
+      "CHINESE_TRADITIONAL": "你算老幾啊就隨便訓別人的妹妹?",
+      "JAPANESE": "何であんたたちがうちの妹に説教してんの？",
+      "INDONESIAN": "Kenapa kamu nasihati adikku?",
+      "PORTUGUESE": "Por que você tá dando sermão na minha irmãzinha?",
+      "RUSSIAN": "Почему ты отчитываешь мою младшую сестру?",
+      "FRENCH": "Pourquoi tu gronde ma petite sœur ?",
+      "THAI": "ทำไมต้องมาว่าพี่สาวของฉันล่ะ?",
+      "PERSIAN": "چرا برای خواهر کوچک من سخنرانی می کنی؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "맞아!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "就是就是!",
+      "CHINESE_TRADITIONAL": "就是就是!",
+      "JAPANESE": "そうだよ！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "É isso aí!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Ouais !",
+      "THAI": "ใช่!",
+      "PERSIAN": "آره!"
+    },
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그만!!!! 제발 그만들 좀 하세요!",
+      "ENGLISH": "Enough!!!! Stop it, please!",
+      "CHINESE_SIMPLIFIED": "行了!别吵了!",
+      "CHINESE_TRADITIONAL": "行了!別吵了!",
+      "JAPANESE": "やめろ！お願いだからやめてください！",
+      "INDONESIAN": "Cukup!!!! Berhenti, tolong!",
+      "PORTUGUESE": "Chega!!!! Parem, por favor!",
+      "RUSSIAN": "Хватит!!!! Прекратите, пожалуйста!",
+      "FRENCH": "Ça suffit !!!! Arrêtez, s’il vous plaît !",
+      "THAI": "พอได้แล้ว!!!! หยุดเถอะ ได้โปรด!",
+      "PERSIAN": "بسه!!!! بس کن لطفا!"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "싸우지 말라는 거 안 들려요??",
+      "ENGLISH": "Don’t you hear me telling you to stop fighting??",
+      "CHINESE_SIMPLIFIED": "我说的话没听见吗?",
+      "CHINESE_TRADITIONAL": "我說的話沒聽見嗎?",
+      "JAPANESE": "ケンカするなって聞こえないんですか！？",
+      "INDONESIAN": "Kalian gak denger aku bilang berhenti bertengkar??",
+      "PORTUGUESE": "Vocês não tão ouvindo eu mandar pararem de brigar??",
+      "RUSSIAN": "Вы разве не слышите, как я прошу вас перестать драться??",
+      "FRENCH": "Vous n’entendez pas que je vous dis d’arrêter de vous battre ??",
+      "THAI": "พวกเธอไม่ได้ยินฉันบอกให้หยุดทะเลาะกันเหรอ??",
+      "PERSIAN": "نمیشنوی که بهت میگم دست از جنگ بردار؟؟"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "남의 집에서 지금 뭐 하는 짓이에요!",
+      "ENGLISH": "This is my house!",
+      "CHINESE_SIMPLIFIED": "在别人家里干什么呢这是!",
+      "CHINESE_TRADITIONAL": "在別人家裏幹什麼呢這是!",
+      "JAPANESE": "他人の家で何してるんですか！",
+      "INDONESIAN": "Ini rumahku!",
+      "PORTUGUESE": "Essa é minha casa!",
+      "RUSSIAN": "Это мой дом!",
+      "FRENCH": "C’est ma maison !",
+      "THAI": "นี่มันบ้านของฉัน!",
+      "PERSIAN": "این خونه من است!"
+    },
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아무리 제가 편해졌다고 해도",
+      "ENGLISH": "You are all my tenants and I am the landlord.",
+      "CHINESE_SIMPLIFIED": "就算我和大家再熟",
+      "CHINESE_TRADITIONAL": "就算我和大家再熟",
+      "JAPANESE": "いくら僕が慣れてきたからって、",
+      "INDONESIAN": "Kalian semua penyewa, dan aku yang pemiliknya.",
+      "PORTUGUESE": "Vocês todos são meus inquilinos, e eu sou o dono.",
+      "RUSSIAN": "Вы все мои жильцы, а я здесь хозяин.",
+      "FRENCH": "Vous êtes tous mes locataires, et moi, je suis le propriétaire.",
+      "THAI": "พวกเธอทุกคนเป็นผู้เช่า และฉันเป็นเจ้าของบ้าน",
+      "PERSIAN": "شما همه مستاجر من هستید و من صاحبخانه."
+    },
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "여러분들은 엄연히 세입자고",
+      "ENGLISH": "Does being the landlord mean you can act like this?",
+      "CHINESE_SIMPLIFIED": "你们也依然是租客",
+      "CHINESE_TRADITIONAL": "你們也依然是租客",
+      "JAPANESE": "皆さんはあくまで入居者で",
+      "INDONESIAN": "Jadi karena kamu pemilik, kamu bisa bertindak begini?",
+      "PORTUGUESE": "Então, só porque você é o dono, pode agir assim?",
+      "RUSSIAN": "А быть хозяином значит, что ты можешь себя так вести?",
+      "FRENCH": "Être propriétaire veut dire que tu peux te comporter comme ça ?",
+      "THAI": "การเป็นเจ้าของบ้านหมายความว่าเธอจะทำแบบนี้ได้เหรอ?",
+      "PERSIAN": "صاحبخانه بودن به این معنی است که می توانید اینگونه رفتار کنید؟"
+    },
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "저는 집주인입니다.",
+      "ENGLISH": "I am the landlord here.",
+      "CHINESE_SIMPLIFIED": "我也依然是房东",
+      "CHINESE_TRADITIONAL": "我也依然是房東",
+      "JAPANESE": "僕は家主です！",
+      "INDONESIAN": "Aku yang punya rumah ini.",
+      "PORTUGUESE": "Eu sou o dono dessa casa.",
+      "RUSSIAN": "Да, я хозяин здесь.",
+      "FRENCH": "Oui, je suis le propriétaire ici.",
+      "THAI": "ใช่ ฉันเป็นเจ้าของบ้านที่นี่",
+      "PERSIAN": "من صاحبخانه اینجا هستم."
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 ",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ユマンさん",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "RUSSIAN": "Юман.",
+      "FRENCH": "Yuman.",
+      "THAI": "ยูมัน.",
+      "PERSIAN": "Yuman."
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 24.7
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "집주인이면 이래도 되는 거야?",
+      "ENGLISH": "So because you are the landlord you can do this?",
+      "CHINESE_SIMPLIFIED": "你是房东就可以这么做吗？",
+      "CHINESE_TRADITIONAL": "你是房東就可以這麼做嗎？",
+      "JAPANESE": "家主ならこんなことしていいんですか？",
+      "INDONESIAN": "Jadi karena kamu pemiliknya, kamu boleh begini?",
+      "PORTUGUESE": "Então, porque você é o dono, pode fazer isso?",
+      "RUSSIAN": "Так, значит, раз ты хозяин, ты можешь так поступать?",
+      "FRENCH": "Donc parce que tu es le propriétaire, tu peux faire ça ?",
+      "THAI": "เพราะว่าเธอเป็นเจ้าของบ้านเลยทำแบบนี้ได้ใช่ไหม?",
+      "PERSIAN": "بنابراین چون شما صاحبخانه هستید می توانید این کار را انجام دهید؟"
+    },
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "네! 됩니다!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "怎么不可以?",
+      "CHINESE_TRADITIONAL": "怎麼不可以?",
+      "JAPANESE": "当然でしょ！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.6
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 듣기 싫으면 다들 나가세요!",
+      "ENGLISH": "So if you don’t like it, you can leave!",
+      "CHINESE_SIMPLIFIED": "不爱听我说话可以出去!",
+      "CHINESE_TRADITIONAL": "不愛聽我說話可以出去!",
+      "JAPANESE": "だから、僕の言うこと、守れないなら、出て行ってください！",
+      "INDONESIAN": "Kalau kalian gak suka, kalian bisa keluar!",
+      "PORTUGUESE": "Se vocês não gostam, podem ir embora!",
+      "RUSSIAN": "Если вам не нравится, можете уехать!",
+      "FRENCH": "Si ça ne vous plaît pas, vous pouvez partir !",
+      "THAI": "ถ้าไม่ชอบ ก็ออกไปได้เลย!",
+      "PERSIAN": "بنابراین اگر اونو دوست ندارید، می توانید اونو ترک کنید!"
+    },
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "그렇게 듣기 싫으면 우유만 씨가 나가!",
+      "ENGLISH": "If we don’t like it, why don’t you leave instead, Yuman?",
+      "CHINESE_SIMPLIFIED": "应该你出去才是!",
+      "CHINESE_TRADITIONAL": "應該你出去纔是!",
+      "JAPANESE": "そんなに嫌なら、ユマンさんが出て行けば？",
+      "INDONESIAN": "Kalau kami gak suka, kenapa gak kamu aja yang keluar, Yuman?",
+      "PORTUGUESE": "Se nós não gostamos, por que não você que vai embora, Yuman?",
+      "RUSSIAN": "Если нам не нравится, почему бы тебе самому не уйти, Юман?",
+      "FRENCH": "Si ça ne nous plaît pas, pourquoi ce ne serait pas toi qui pars, Yuman ?",
+      "THAI": "ถ้าพวกเราไม่ชอบ ทำไมไม่เป็นเธอที่ออกไปแทนล่ะ ยูมัน?",
+      "PERSIAN": "اگر ما اونو دوست نداریم، چرا در عوض اونو ترک نمی کنی، یومان؟"
+    },
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 32.1
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "우린 뭐 여기 공짜로 들어왔어?",
+      "ENGLISH": "We didn’t stay here for free;",
+      "CHINESE_SIMPLIFIED": "我们又不是白住在这里",
+      "CHINESE_TRADITIONAL": "我們又不是白住在這裏",
+      "JAPANESE": "私たち、タダでここに住んでるんじゃないんだから！",
+      "INDONESIAN": "Kami gak tinggal di sini gratis,",
+      "PORTUGUESE": "Nós não ficamos aqui de graça;",
+      "RUSSIAN": "Мы ведь здесь не бесплатно живём;",
+      "FRENCH": "On n’habite pas ici gratuitement ;",
+      "THAI": "พวกเราไม่ได้อยู่ที่นี่ฟรีๆ นะ;",
+      "PERSIAN": "ما اینجا مجانی نماندیم؛"
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 34.2
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "다 돈 내고 들어온 거 아니야!",
+      "ENGLISH": "we all paid rent!",
+      "CHINESE_SIMPLIFIED": "都是交了钱的!",
+      "CHINESE_TRADITIONAL": "都是交了錢的!",
+      "JAPANESE": "ちゃんとお金払って住んでるでしょ！",
+      "INDONESIAN": "kami semua bayar sewa!",
+      "PORTUGUESE": "todos pagamos aluguel!",
+      "RUSSIAN": "мы все платим за аренду!",
+      "FRENCH": "on a tous payé un loyer !",
+      "THAI": "เราทุกคนจ่ายค่าเช่า!",
+      "PERSIAN": "ما همه اجاره پرداختیم!"
+    },
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 36.2
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "예? 다...?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？払ってる…？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 37.8
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 5:1이거든?",
+      "ENGLISH": "And there are five of us and one of you. ",
+      "CHINESE_SIMPLIFIED": "而且现在是5比1",
+      "CHINESE_TRADITIONAL": "而且現在是5比1",
+      "JAPANESE": "それに、5対1だよ？",
+      "INDONESIAN": "Dan ada lima orang dari kami dan satu dari kamu.",
+      "PORTUGUESE": "E somos cinco contra um.",
+      "RUSSIAN": "Нас пятеро, а ты один.",
+      "FRENCH": "Et nous sommes cinq, et toi, tu es seul.",
+      "THAI": "แล้วพวกเรามีกันห้าคน ส่วนเธอมีแค่คนเดียว",
+      "PERSIAN": "و ما پنج نفر هستیم و یک نفر شما."
+    },
+    "TIME": {
+      "SHOW": 38.1,
+      "HIDE": 39.6
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "나갈 거면 네가 나가는 게 맞지 않아?",
+      "ENGLISH": "Wouldn’t it make more sense for you to leave?",
+      "CHINESE_SIMPLIFIED": "要出去也应该是你出去",
+      "CHINESE_TRADITIONAL": "要出去也應該是你出去",
+      "JAPANESE": "出て行くなら、あんたが出て行くべきじゃない？",
+      "INDONESIAN": "Gak lebih masuk akal kalau kamu yang keluar?",
+      "PORTUGUESE": "Não faria mais sentido se você saísse?",
+      "RUSSIAN": "Разве не логичнее, чтобы ты ушёл?",
+      "FRENCH": "Ce ne serait pas plus logique que tu partes ?",
+      "THAI": "มันไม่สมเหตุสมผลกว่าที่เธอจะไปเหรอ?",
+      "PERSIAN": "رفتن شما منطقی تر نیست؟"
+    },
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 41.9
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "그게 더 빠를 수도...",
+      "ENGLISH": "That might be faster...",
+      "CHINESE_SIMPLIFIED": "你搬出去更快…",
+      "CHINESE_TRADITIONAL": "你搬出去更快…",
+      "JAPANESE": "そっちの方が早いかも…",
+      "INDONESIAN": "Itu mungkin lebih cepat...",
+      "PORTUGUESE": "Isso talvez fosse mais rápido...",
+      "RUSSIAN": "Это может быть быстрее...",
+      "FRENCH": "Ça irait peut-être plus vite...",
+      "THAI": "อาจจะเร็วกว่าด้วยซ้ำ...",
+      "PERSIAN": "شاید سریعتر باشه..."
+    },
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 43.8
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 47.2
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "저, 저기요...",
+      "ENGLISH": "E-excuse me...",
+      "CHINESE_SIMPLIFIED": "不是，我说…",
+      "CHINESE_TRADITIONAL": "不是，我說…",
+      "JAPANESE": "あの、ちょっと…",
+      "INDONESIAN": "P-permisi...",
+      "PORTUGUESE": "L-licença...",
+      "RUSSIAN": "И-извините...",
+      "FRENCH": "E-euh, excusez-moi...",
+      "THAI": "ข-ขอโทษนะ...",
+      "PERSIAN": "الکترونیکی ببخشید..."
+    },
+    "TIME": {
+      "SHOW": 55.7,
+      "HIDE": 57.1
+    }
+  }
+]

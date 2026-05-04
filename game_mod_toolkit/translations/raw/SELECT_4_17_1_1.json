@@ -1,0 +1,287 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이건 뭐예요? 이거 어떻게 타는 거예요?",
+      "ENGLISH": "What’s this? How do you ride it?",
+      "CHINESE_SIMPLIFIED": "这是什么呀?是怎么玩的呢?",
+      "CHINESE_TRADITIONAL": "這是什麼呀?是怎麼玩的呢?",
+      "JAPANESE": "これ、何ですか？ どうやって乗るんですか？",
+      "INDONESIAN": "Ini apa? Gimana cara naiknya?",
+      "PORTUGUESE": "O que é isso? Como se anda nisso?",
+      "RUSSIAN": "Что это? Как на этом кататься?",
+      "FRENCH": "C’est quoi ça ? Comment on fait pour monter dessus ?",
+      "THAI": "นี่มันอะไร? ขี่แบบไหนล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 이거...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊 这个",
+      "CHINESE_TRADITIONAL": "啊 這個",
+      "JAPANESE": "あ、これは…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "อ่า..."
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "여기 앉아서 타는 거예요.",
+      "ENGLISH": "You sit here and ride.",
+      "CHINESE_SIMPLIFIED": "直接坐上去就可以了",
+      "CHINESE_TRADITIONAL": "直接坐上去就可以了",
+      "JAPANESE": "ここに座って乗るんですよ。",
+      "INDONESIAN": "Kamu duduk di sini dan naik.",
+      "PORTUGUESE": "Você senta aqui e anda.",
+      "RUSSIAN": "Ты садишься сюда и катаешься.",
+      "FRENCH": "Tu t’assieds ici et tu te balances.",
+      "THAI": "เธอนั่งตรงนี้แล้วขี่ไปเลย"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저 이거 한번 타봐도 돼요...?",
+      "ENGLISH": "Can I try it?",
+      "CHINESE_SIMPLIFIED": "那我能玩一下吗?",
+      "CHINESE_TRADITIONAL": "那我能玩一下嗎?",
+      "JAPANESE": "私、一度乗ってみてもいいですか…？",
+      "INDONESIAN": "Boleh aku coba?",
+      "PORTUGUESE": "Posso tentar?",
+      "RUSSIAN": "Можно попробовать?",
+      "FRENCH": "Je peux essayer ?",
+      "THAI": "ฉันลองได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Yes...!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Iya...!",
+      "PORTUGUESE": "Sim...!",
+      "RUSSIAN": "Да...!",
+      "FRENCH": "Oui...!",
+      "THAI": "ได้สิ...!"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "꽉 잡았죠?",
+      "ENGLISH": "Hold on tight, okay?",
+      "CHINESE_SIMPLIFIED": "抓紧了吗?",
+      "CHINESE_TRADITIONAL": "抓緊了嗎?",
+      "JAPANESE": "しっかりつかまってくださいね！",
+      "INDONESIAN": "Pegangan yang kuat, ya?",
+      "PORTUGUESE": "Segura firme, tá?",
+      "RUSSIAN": "Держись крепко, ладно?",
+      "FRENCH": "Tiens-toi bien, d’accord ?",
+      "THAI": "จับให้แน่นๆ นะ โอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Yes...!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Iya...!",
+      "PORTUGUESE": "Sim...!",
+      "RUSSIAN": "Да...!",
+      "FRENCH": "Oui...!",
+      "THAI": "โอเค...!"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "출발~",
+      "ENGLISH": "Here we go!",
+      "CHINESE_SIMPLIFIED": "出发喽~",
+      "CHINESE_TRADITIONAL": "出發嘍~",
+      "JAPANESE": "出発～",
+      "INDONESIAN": "Ayo jalan!",
+      "PORTUGUESE": "Lá vamos nós!",
+      "RUSSIAN": "Поехали!",
+      "FRENCH": "C’est parti !",
+      "THAI": "ไปแล้วนะ!"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you alright?",
+      "CHINESE_SIMPLIFIED": "你还好吗?",
+      "CHINESE_TRADITIONAL": "你還好嗎?",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu gak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "RUSSIAN": "Ты в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "เธอโอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 28.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "네! 좀 무서운데 재밌어요!",
+      "ENGLISH": "Yes! It’s a bit scary but fun!",
+      "CHINESE_SIMPLIFIED": "还好，虽然有点吓人但是也很有趣!",
+      "CHINESE_TRADITIONAL": "還好，雖然有點嚇人但是也很有趣!",
+      "JAPANESE": "はい！ちょっと怖いけど楽しいです！",
+      "INDONESIAN": "Iya! Agak seram, tapi seru!",
+      "PORTUGUESE": "Sim! Dá um pouco de medo, mas é divertido!",
+      "RUSSIAN": "Да! Немного страшно, но весело!",
+      "FRENCH": "Oui ! C’est un peu effrayant mais amusant !",
+      "THAI": "โอเค! มันน่ากลัวนิดหน่อยแต่สนุกดี!"
+    },
+    "TIME": {
+      "SHOW": 29.08,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님도 한번 타 보세요!",
+      "ENGLISH": "Yuman, you should try it too!",
+      "CHINESE_SIMPLIFIED": "宥万您也玩一次吧!",
+      "CHINESE_TRADITIONAL": "宥萬您也玩一次吧!",
+      "JAPANESE": "ユマンさんも乗ってみてくださいよ！",
+      "INDONESIAN": "Yuman, kamu juga coba dong!",
+      "PORTUGUESE": "Yuman, você também devia tentar!",
+      "RUSSIAN": "Юман, тебе тоже стоит попробовать!",
+      "FRENCH": "Yuman, tu devrais essayer aussi !",
+      "THAI": "ยูมัน เธอก็ลองบ้างสิ!"
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 33.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "이건 어린이들만 타는 거라 전 안 돼요~",
+      "ENGLISH": "Oh, this is for kids only, so I can't...",
+      "CHINESE_SIMPLIFIED": "啊~这个是只有小孩子才能玩的我不信~",
+      "CHINESE_TRADITIONAL": "啊~這個是隻有小孩子才能玩的我不信~",
+      "JAPANESE": "これは子供用だから、僕は乗れませんよ～",
+      "INDONESIAN": "Oh, ini cuma buat anak-anak, jadi aku gak bisa...",
+      "PORTUGUESE": "Ah, isso é só pra crianças, então eu não posso...",
+      "RUSSIAN": "Ой, это только для детей, так что я не могу...",
+      "FRENCH": "Oh, c’est juste pour les enfants, donc je ne peux pas...",
+      "THAI": "อ๋อ อันนี้สำหรับเด็กเท่านั้น ฉันเลยขี่ไม่ได้..."
+    },
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 36.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그렇지만 저도 탔는데요..?",
+      "ENGLISH": "But I rode it too...",
+      "CHINESE_SIMPLIFIED": "但是我刚才也玩了啊…?",
+      "CHINESE_TRADITIONAL": "但是我剛纔也玩了啊…?",
+      "JAPANESE": "私も乗ったのに…？",
+      "INDONESIAN": "Tapi aku juga naik tadi...",
+      "PORTUGUESE": "Mas eu também andei...",
+      "RUSSIAN": "Но ведь я тоже каталась...",
+      "FRENCH": "Mais moi aussi, je l’ai fait...",
+      "THAI": "แต่ฉันก็นั่งนะ..."
+    },
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.95
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "승이 님은 귀여우니까 괜찮아요!",
+      "ENGLISH": "Seung-yi, you're cute, so it’s fine!",
+      "CHINESE_SIMPLIFIED": "因为你可爱所以可以破例!",
+      "CHINESE_TRADITIONAL": "因爲你可愛所以可以破例!",
+      "JAPANESE": "スンイさんは可愛いから大丈夫ですよ！",
+      "INDONESIAN": "Seung-yi, kamu imut, jadi gak apa-apa!",
+      "PORTUGUESE": "Seung-yi, você é fofa, então tudo bem!",
+      "RUSSIAN": "Сын-и, ты милая, поэтому тебе можно!",
+      "FRENCH": "Seung-yi, tu es mignonne, donc ça va !",
+      "THAI": "ซึงอี เธอน่ารักดี เลยไม่เป็นไร!"
+    },
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 40.3
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네...?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Apa...?",
+      "PORTUGUESE": "O quê...?",
+      "RUSSIAN": "Что...?",
+      "FRENCH": "Quoi... ?",
+      "THAI": "อะไรนะ...?"
+    },
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 41.2
+    }
+  }
+]

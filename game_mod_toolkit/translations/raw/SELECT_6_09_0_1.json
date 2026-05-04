@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "켁! 켁! 커흑...",
+      "ENGLISH": "*cough!* *cough!*",
+      "CHINESE_SIMPLIFIED": "咳咳...",
+      "CHINESE_TRADITIONAL": "咳咳...",
+      "JAPANESE": "ゴホッ、ゴホッ、ゴホッ…",
+      "INDONESIAN": "*uhuk!* *uhuk!*",
+      "PORTUGUESE": "*cof!* *cof!*",
+      "RUSSIAN": "кашель! кашель!",
+      "FRENCH": "tousse! tousse!",
+      "THAI": "แค่ก! แค่ก!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "哥哥你还好吗?",
+      "CHINESE_TRADITIONAL": "哥哥你還好嗎?",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu baik-baik saja?",
+      "PORTUGUESE": "Você tá bem?",
+      "RUSSIAN": "Ты в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "เธอโอเคไหม?"
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "사, 사레가 들려서",
+      "ENGLISH": "I... just swallowed wrong.",
+      "CHINESE_SIMPLIFIED": "我就是有点呛着了。",
+      "CHINESE_TRADITIONAL": "我就是有點嗆着了。",
+      "JAPANESE": "む、むせちゃって…",
+      "INDONESIAN": "Aku... cuma salah telan.",
+      "PORTUGUESE": "Eu... só engoli errado.",
+      "RUSSIAN": "Я... просто неправильно сглотнула.",
+      "FRENCH": "J’ai... juste avalé de travers.",
+      "THAI": "ฉัน... แค่กลืนผิดทาง"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "조심하지... 제가 얼른 다시 만들어 올게요!",
+      "ENGLISH": "Jeez, be more careful! I’ll make you another one, hang tight!",
+      "CHINESE_SIMPLIFIED": "你小心一点呀…我马上再给你做一杯!",
+      "CHINESE_TRADITIONAL": "你小心一點呀…我馬上再給你做一杯!",
+      "JAPANESE": "気をつけないと…すぐ新しいの作ってきますね！",
+      "INDONESIAN": "Duh, hati-hati dong! Aku buatkan lagi, tunggu bentar!",
+      "PORTUGUESE": "Nossa, cuidado! Vou fazer outro pra você, espera aí!",
+      "RUSSIAN": "Чёрт, будь осторожнее! Я сделаю тебе ещё одну, подожди!",
+      "FRENCH": "Fais attention, bon sang ! Je vais t’en faire un autre, reste là !",
+      "THAI": "เฮ้ ระวังหน่อยสิ! ฉันจะทำให้ใหม่ รอแป๊บนะ!"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Wait, why?",
+      "CHINESE_SIMPLIFIED": "为什么?",
+      "CHINESE_TRADITIONAL": "爲什麼?",
+      "JAPANESE": "え...？",
+      "INDONESIAN": "Tunggu, kenapa?",
+      "PORTUGUESE": "Espera, por quê?",
+      "RUSSIAN": "Постой, зачем?",
+      "FRENCH": "Attends, pourquoi ?",
+      "THAI": "เดี๋ยว ทำไมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "음... 얼마 못 마셨으니까? ",
+      "ENGLISH": "Because you barely drank it, duh!",
+      "CHINESE_SIMPLIFIED": "嗯…你这杯没喝多少就撒了",
+      "CHINESE_TRADITIONAL": "嗯…你這杯沒喝多少就撒了",
+      "JAPANESE": "えっと…あんまり飲めてないし？",
+      "INDONESIAN": "Karena kamu belum habis minum yang tadi, dong!",
+      "PORTUGUESE": "Porque você mal tomou o primeiro, né!",
+      "RUSSIAN": "Потому что ты едва выпила, конечно!",
+      "FRENCH": "Parce que tu n’as presque rien bu, évidemment !",
+      "THAI": "ก็เธอยังแทบไม่ได้ดื่มเลยไง!"
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요! 금방 해요!",
+      "ENGLISH": "Don't worry, I'll make it fast!",
+      "CHINESE_SIMPLIFIED": "没关系！很快的!",
+      "CHINESE_TRADITIONAL": "沒關係！很快的!",
+      "JAPANESE": "大丈夫ですよ！すぐ作りますから！",
+      "INDONESIAN": "Tenang aja, aku buat cepat kok!",
+      "PORTUGUESE": "Não se preocupe, vai ser rapidinho!",
+      "RUSSIAN": "Не переживай, я сделаю быстро!",
+      "FRENCH": "T’inquiète, je vais le faire vite !",
+      "THAI": "ไม่ต้องห่วง ฉันจะทำให้เร็วๆ!"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "왜? 왜 다시 만들지? 왜요?",
+      "ENGLISH": "Why’s she making another one?",
+      "CHINESE_SIMPLIFIED": "啊？不是! 要重新做?",
+      "CHINESE_TRADITIONAL": "啊？不是! 要重新做?",
+      "JAPANESE": "何で、作り直すんですか？何で？",
+      "INDONESIAN": "Kenapa dia bikin lagi, sih?",
+      "PORTUGUESE": "Por que ela tá fazendo outro?",
+      "RUSSIAN": "Зачем она делает ещё одну?",
+      "FRENCH": "Pourquoi elle en refait un ?",
+      "THAI": "ทำไมเธอทำอีกแก้วล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 25.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "다시 만들면 안 되는데....",
+      "ENGLISH": "I’m not sure I can handle a second round...",
+      "CHINESE_SIMPLIFIED": "千万不能让她重新做啊!",
+      "CHINESE_TRADITIONAL": "千萬不能讓她重新做啊!",
+      "JAPANESE": "作り直したらダメなんだけど…",
+      "INDONESIAN": "Kayaknya aku nggak sanggup minum yang kedua...",
+      "PORTUGUESE": "Acho que não aguento uma segunda rodada...",
+      "RUSSIAN": "Не уверен, что выдержу второй раунд...",
+      "FRENCH": "Je ne suis pas sûr de pouvoir supporter un deuxième round...",
+      "THAI": "ฉันไม่แน่ใจว่าฉันจะรับมือรอบสองได้..."
+    },
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "안 되겠다...",
+      "ENGLISH": "This could end badly...",
+      "CHINESE_SIMPLIFIED": "不行…",
+      "CHINESE_TRADITIONAL": "不行…",
+      "JAPANESE": "これはマズいな…",
+      "INDONESIAN": "Ini bisa berakhir buruk...",
+      "PORTUGUESE": "Isso pode acabar mal...",
+      "RUSSIAN": "Это может плохо кончиться...",
+      "FRENCH": "Ça risque de mal finir...",
+      "THAI": "อาจจะแย่ลงได้เลย..."
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.2
+    }
+  }
+]

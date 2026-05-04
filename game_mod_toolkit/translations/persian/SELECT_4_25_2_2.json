@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 동 과장님이 제일 좋아.",
+      "ENGLISH": "I like Manager Dong.",
+      "CHINESE_SIMPLIFIED": "我最喜欢佟科长",
+      "CHINESE_TRADITIONAL": "我最喜歡佟科長",
+      "JAPANESE": "ドン課長が一番いいかな。",
+      "INDONESIAN": "Aku suka Manajer Dong.",
+      "PORTUGUESE": "Eu gosto do Gerente Dong.",
+      "RUSSIAN": "Мне нравится менеджер Дон.",
+      "FRENCH": "J’aime bien le manager Dong.",
+      "THAI": "ฉันชอบผู้จัดการดง",
+      "PERSIAN": "من مدیر دونگ را دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.58
+    }
+  }
+]

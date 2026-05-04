@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Wait?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Подожди?",
+      "FRENCH": "Attends ?",
+      "THAI": "เดี๋ยวนะ?",
+      "PERSIAN": "صبر کن؟"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "What’s this...",
+      "CHINESE_SIMPLIFIED": "什么情况…",
+      "CHINESE_TRADITIONAL": "什麼情況…",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Apa ini...",
+      "PORTUGUESE": "O que é isso...",
+      "RUSSIAN": "Что это...",
+      "FRENCH": "C’est quoi ça...",
+      "THAI": "อะไรนี่...?",
+      "PERSIAN": "این چیه..."
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "대박...",
+      "ENGLISH": "WOW...",
+      "CHINESE_SIMPLIFIED": "我去..",
+      "CHINESE_TRADITIONAL": "我去..",
+      "JAPANESE": "やばい…",
+      "INDONESIAN": "WOW...",
+      "PORTUGUESE": "UAU...",
+      "RUSSIAN": "ВАУ...",
+      "FRENCH": "WOW...",
+      "THAI": "ว้าว...",
+      "PERSIAN": "عجب..."
+    },
+    "TIME": {
+      "SHOW": 4.64,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "What the...",
+      "CHINESE_SIMPLIFIED": "什么情况…",
+      "CHINESE_TRADITIONAL": "什麼情況…",
+      "JAPANESE": "何だあれ…",
+      "INDONESIAN": "Apa-apaan...",
+      "PORTUGUESE": "Que coisa...",
+      "RUSSIAN": "Что за...",
+      "FRENCH": "C’est quoi ce truc...",
+      "THAI": "อะไรกัน...",
+      "PERSIAN": "این چیه دیگه..."
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어머 어머 어머...",
+      "ENGLISH": "Oh my gosh...",
+      "CHINESE_SIMPLIFIED": "哇...",
+      "CHINESE_TRADITIONAL": "哇...",
+      "JAPANESE": "うわうわうわ…",
+      "INDONESIAN": "Ya ampun...",
+      "PORTUGUESE": "Meu Deus...",
+      "RUSSIAN": "О боже...",
+      "FRENCH": "Oh mon dieu...",
+      "THAI": "โอ้พระเจ้า...",
+      "PERSIAN": "وای خدای من..."
+    },
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 젊은 것들은 진짜....",
+      "ENGLISH": "Kids these days...",
+      "CHINESE_SIMPLIFIED": "现在的年轻人真的是…",
+      "CHINESE_TRADITIONAL": "現在的年輕人真的是…",
+      "JAPANESE": "最近の若い奴ら理解できないな…",
+      "INDONESIAN": "Anak-anak zaman sekarang...",
+      "PORTUGUESE": "Essas crianças de hoje em dia...",
+      "RUSSIAN": "Молодёжь нынче...",
+      "FRENCH": "Les jeunes de nos jours...",
+      "THAI": "เด็กสมัยนี้นี่นะ...",
+      "PERSIAN": "بچه های این روزها..."
+    },
+    "TIME": {
+      "SHOW": 24.17,
+      "HIDE": 26.2
+    }
+  }
+]

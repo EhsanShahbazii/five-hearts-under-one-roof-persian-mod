@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 오빠",
+      "ENGLISH": "Oppa",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "ちょっと、お兄ちゃん。",
+      "INDONESIAN": "Oppa",
+      "PORTUGUESE": "Oppa",
+      "RUSSIAN": "Оппа,",
+      "FRENCH": "Oppa,",
+      "THAI": "โอปป้า,"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나 진짜 공부해야 된다고~",
+      "ENGLISH": "I really need to study~",
+      "CHINESE_SIMPLIFIED": "我现在真的得学习~",
+      "CHINESE_TRADITIONAL": "我現在真的得學習~",
+      "JAPANESE": "私、本当に勉強しなきゃだめなんだって〜。",
+      "INDONESIAN": "Aku benar-benar perlu belajar~",
+      "PORTUGUESE": "Eu realmente preciso estudar~",
+      "RUSSIAN": "мне правда нужно заниматься~",
+      "FRENCH": "je dois vraiment étudier~",
+      "THAI": "ฉันต้องอ่านหนังสือจริงๆ นะ~"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.8
+    }
+  }
+]

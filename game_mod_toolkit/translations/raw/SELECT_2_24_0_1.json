@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저기요! 왜 따라오세요?",
+      "ENGLISH": "Why are you following me?",
+      "CHINESE_SIMPLIFIED": "喂！为什么一直跟着我?",
+      "CHINESE_TRADITIONAL": "喂！爲什麼一直跟着我?",
+      "JAPANESE": "ちょっと！何でついてくるんですか？",
+      "INDONESIAN": "Kenapa kamu ngikutin aku?",
+      "PORTUGUESE": "Por que você está me seguindo?",
+      "RUSSIAN": "Почему ты идёшь за мной?",
+      "FRENCH": "Pourquoi tu me suis ?",
+      "THAI": "ทำไมต้องเดินตามฉันด้วย?"
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우유만?",
+      "ENGLISH": "You, Yuman?",
+      "CHINESE_SIMPLIFIED": "吴宥万?",
+      "CHINESE_TRADITIONAL": "吳宥萬?",
+      "JAPANESE": "ユマンさん？",
+      "INDONESIAN": "Kamu, Yuman?",
+      "PORTUGUESE": "Você, Yuman?",
+      "RUSSIAN": "Ты, Юман?",
+      "FRENCH": "Toi, Yuman ?",
+      "THAI": "ยูมันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...",
+      "ENGLISH": "Hi...",
+      "CHINESE_SIMPLIFIED": "晚上好...",
+      "CHINESE_TRADITIONAL": "晚上好...",
+      "JAPANESE": "こんばんは…",
+      "INDONESIAN": "Hai...",
+      "PORTUGUESE": "Oi...",
+      "RUSSIAN": "Привет...",
+      "FRENCH": "Salut...",
+      "THAI": "หวัดดี..."
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨가 날 왜 따라오지?",
+      "ENGLISH": "Why is Yuman following me?",
+      "CHINESE_SIMPLIFIED": "你为什么要跟着我?",
+      "CHINESE_TRADITIONAL": "你爲什麼要跟着我?",
+      "JAPANESE": "何で私をつけてくるの？",
+      "INDONESIAN": "Kenapa Yuman ngikutin aku?",
+      "PORTUGUESE": "Por que o Yuman está me seguindo?",
+      "RUSSIAN": "Почему Юман идёт за мной?",
+      "FRENCH": "Pourquoi Yuman me suit ?",
+      "THAI": "ทำไมยูมันเดินตามฉันล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아! 아니요! 따라가는 건 아니고...",
+      "ENGLISH": "Oh, I’m not following you...",
+      "CHINESE_SIMPLIFIED": "我没跟着…",
+      "CHINESE_TRADITIONAL": "我沒跟着…",
+      "JAPANESE": "あ！いや、ついていってるんじゃなくて…",
+      "INDONESIAN": "Oh, aku nggak ngikutin kamu...",
+      "PORTUGUESE": "Ah, eu não tô te seguindo...",
+      "RUSSIAN": "Ой, я не за тобой иду...",
+      "FRENCH": "Oh, je te suis pas...",
+      "THAI": "อ๋อ ผมไม่ได้ตามนะ..."
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "제 집 방향이 이쪽이라서요.",
+      "ENGLISH": "My house is just in this direction too.",
+      "CHINESE_SIMPLIFIED": "我家也在这个方向",
+      "CHINESE_TRADITIONAL": "我家也在這個方向",
+      "JAPANESE": "僕の家、こっちの方面なんです。",
+      "INDONESIAN": "Rumahku juga ke arah sini.",
+      "PORTUGUESE": "Minha casa também é pra esse lado.",
+      "RUSSIAN": "Мой дом просто тоже в этом направлении.",
+      "FRENCH": "C’est juste que ma maison est dans la même direction.",
+      "THAI": "บ้านผมก็ไปทางนี้เหมือนกันน่ะสิ"
+    },
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그걸 나보고 믿으라고?",
+      "ENGLISH": "And I'm supposed to believe that? ",
+      "CHINESE_SIMPLIFIED": "鬼才信呢! ",
+      "CHINESE_TRADITIONAL": "鬼才信呢!",
+      "JAPANESE": "それ信じろって言うの？",
+      "INDONESIAN": "Aku harus percaya itu?",
+      "PORTUGUESE": "E eu devo acreditar nisso?",
+      "RUSSIAN": "И я должна в это поверить?",
+      "FRENCH": "Et je suis censée te croire ?",
+      "THAI": "แล้วฉันต้องเชื่ออย่างนั้นเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 26.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 내 앞으로 가.",
+      "ENGLISH": "Fine, walk ahead of me.",
+      "CHINESE_SIMPLIFIED": "那你走前面",
+      "CHINESE_TRADITIONAL": "那你走前面",
+      "JAPANESE": "だったら、私の前を歩きなさい。",
+      "INDONESIAN": "Baiklah, jalan di depanku.",
+      "PORTUGUESE": "Tá bom, anda na minha frente.",
+      "RUSSIAN": "Ладно, иди впереди меня.",
+      "FRENCH": "Très bien, passe devant.",
+      "THAI": "ก็ได้ เดินนำไปเลย"
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Alright...!",
+      "CHINESE_SIMPLIFIED": "好…!",
+      "CHINESE_TRADITIONAL": "好…!",
+      "JAPANESE": "はい…！",
+      "INDONESIAN": "Oke...!",
+      "PORTUGUESE": "Certo...!",
+      "RUSSIAN": "Хорошо...!",
+      "FRENCH": "D’accord...!",
+      "THAI": "โอเค...!"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 30.8
+    }
+  }
+]

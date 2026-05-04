@@ -1,0 +1,402 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "확실한데? 무조건인데?",
+      "ENGLISH": "You’re sure? Like, really sure?",
+      "CHINESE_SIMPLIFIED": "我确定一定以及肯定玩了啊?",
+      "CHINESE_TRADITIONAL": "我確定一定以及肯定玩了啊?",
+      "JAPANESE": "絶対やったよね？間違いないよね？",
+      "INDONESIAN": "Kamu yakin? Beneran yakin?",
+      "PORTUGUESE": "Você tem certeza? Tipo, muita certeza?",
+      "RUSSIAN": "Ты уверен? Ну, прям совсем уверен?",
+      "FRENCH": "Tu es sûr ? Vraiment sûr ?",
+      "THAI": "แน่ใจเหรอ? แบบ แน่ใจจริงๆ?",
+      "PERSIAN": "مطمئنی؟ مثل، واقعا مطمئنی؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 무조건이야.",
+      "ENGLISH": "Totally sure!",
+      "CHINESE_SIMPLIFIED": "什么肯定啊?",
+      "CHINESE_TRADITIONAL": "什麼肯定啊?",
+      "JAPANESE": "何が、間違いないなのよ！",
+      "INDONESIAN": "Sangat yakin!",
+      "PORTUGUESE": "Totalmente certo!",
+      "RUSSIAN": "Абсолютно уверен!",
+      "FRENCH": "Absolument sûr !",
+      "THAI": "แน่ใจสุดๆ เลย!",
+      "PERSIAN": "Totally sure!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니야.",
+      "ENGLISH": "No, we didn’t.",
+      "CHINESE_SIMPLIFIED": "没玩过",
+      "CHINESE_TRADITIONAL": "沒玩過",
+      "JAPANESE": "いや",
+      "INDONESIAN": "Nggak, kita nggak main.",
+      "PORTUGUESE": "Não, não jogamos.",
+      "RUSSIAN": "Нет, мы не играли.",
+      "FRENCH": "Non, on n’a pas joué.",
+      "THAI": "ไม่ใช่ เราไม่ได้เล่น",
+      "PERSIAN": "نه، نداشتیم."
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니 했다니까?",
+      "ENGLISH": "Yes, we did!",
+      "CHINESE_SIMPLIFIED": "不是,真玩了!",
+      "CHINESE_TRADITIONAL": "不是,真玩了!",
+      "JAPANESE": "やったってば！",
+      "INDONESIAN": "Iya, kita main!",
+      "PORTUGUESE": "Sim, jogamos!",
+      "RUSSIAN": "Да играли же!",
+      "FRENCH": "Mais si, on l’a fait !",
+      "THAI": "ใช่ เราเล่นกัน!",
+      "PERSIAN": "بله، ما انجام دادیم!"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 이런 걸 우겨?",
+      "ENGLISH": "Why are you being so stubborn?",
+      "CHINESE_SIMPLIFIED": "干嘛要纠结这个",
+      "CHINESE_TRADITIONAL": "幹嘛要糾結這個",
+      "JAPANESE": "何で、こんなことで言い張るの？",
+      "INDONESIAN": "Kenapa kamu keras kepala banget sih?",
+      "PORTUGUESE": "Por que você está sendo tão teimoso?",
+      "RUSSIAN": "Почему ты такой упрямый?",
+      "FRENCH": "Pourquoi tu es si têtu ?",
+      "THAI": "ทำไมคุณถึงดื้อจังล่ะ?",
+      "PERSIAN": "چرا اینقدر لجبازی؟"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠",
+      "ENGLISH": "Oppa",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん",
+      "INDONESIAN": "Oppa",
+      "PORTUGUESE": "Oppa",
+      "RUSSIAN": "Оппа,",
+      "FRENCH": "Oppa,",
+      "THAI": "โอปป้า,",
+      "PERSIAN": "یومان"
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "우리 그날 총 게임 안 했다니까?",
+      "ENGLISH": "We didn’t play the shooting game.",
+      "CHINESE_SIMPLIFIED": "我们那天根本就没玩打枪游戏!",
+      "CHINESE_TRADITIONAL": "我們那天根本就沒玩打槍遊戲!",
+      "JAPANESE": "私たち、シューティングゲームやってないってば。",
+      "INDONESIAN": "Kita nggak main game tembak-tembakan.",
+      "PORTUGUESE": "A gente não jogou o jogo de tiro.",
+      "RUSSIAN": "мы не играли в стрелялку.",
+      "FRENCH": "on n’a pas joué au jeu de tir.",
+      "THAI": "เราไม่ได้เล่นเกมยิงปืนนะ",
+      "PERSIAN": "ما بازی تیراندازی را انجام ندادیم."
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 맞다고 해주면 안 돼?",
+      "ENGLISH": "Just say I’m right, can’t you?",
+      "CHINESE_SIMPLIFIED": "你就不能顺着我说吗?",
+      "CHINESE_TRADITIONAL": "你就不能順着我說嗎?",
+      "JAPANESE": "ただ、そうだねって言ってくれるだけでいいだろ？",
+      "INDONESIAN": "Bilang saja aku benar, bisa nggak?",
+      "PORTUGUESE": "Só diz que eu estou certa, não dá?",
+      "RUSSIAN": "Признай, что я права, ну же?",
+      "FRENCH": "Dis que j’ai raison, tu ne peux pas ?",
+      "THAI": "ยอมรับว่าฉันถูกเถอะ ได้ไหม?",
+      "PERSIAN": "فقط بگو من درست می گویم، نمی توانید؟"
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아닌 걸 아니라고 하는데 왜.",
+      "ENGLISH": "Because it didn’t happen, that’s why.",
+      "CHINESE_SIMPLIFIED": "明明没玩我为什么要说玩了啊?",
+      "CHINESE_TRADITIONAL": "明明沒玩我爲什麼要說玩了啊?",
+      "JAPANESE": "やってないのに、何で？",
+      "INDONESIAN": "Karena itu nggak terjadi, makanya.",
+      "PORTUGUESE": "Porque isso não aconteceu, por isso.",
+      "RUSSIAN": "Потому что этого не было, вот почему.",
+      "FRENCH": "Parce que ça ne s’est pas passé, voilà pourquoi.",
+      "THAI": "เพราะมันไม่เคยเกิดขึ้นไงล่ะ",
+      "PERSIAN": "چون این اتفاق نیفتاد، به همین دلیل است."
+    },
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.03
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 다른 애랑 했나 보다.",
+      "ENGLISH": "Maybe you played it with someone else, then.",
+      "CHINESE_SIMPLIFIED": "那我应该是和别人玩的吧",
+      "CHINESE_TRADITIONAL": "那我應該是和別人玩的吧",
+      "JAPANESE": "じゃあ、他の子とやったんじゃないの？",
+      "INDONESIAN": "Mungkin kamu main sama orang lain, deh.",
+      "PORTUGUESE": "Talvez você tenha jogado com outra pessoa, então.",
+      "RUSSIAN": "Может, ты играл в неё с кем-то другим?",
+      "FRENCH": "Peut-être que tu y as joué avec quelqu’un d’autre, alors.",
+      "THAI": "บางทีคุณอาจจะเล่นกับคนอื่นก็ได้",
+      "PERSIAN": "شاید شما اونو با شخص دیگری بازی کرده اید."
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "그게 지금 무슨 말이야?",
+      "ENGLISH": "What did you just say?",
+      "CHINESE_SIMPLIFIED": "你什么意思?",
+      "CHINESE_TRADITIONAL": "你什麼意思?",
+      "JAPANESE": "今のどういう意味？",
+      "INDONESIAN": "Kamu barusan bilang apa?",
+      "PORTUGUESE": "O que você acabou de dizer?",
+      "RUSSIAN": "Что ты только что сказала?",
+      "FRENCH": "Qu’est-ce que tu viens de dire ?",
+      "THAI": "เมื่อกี้คุณพูดว่าอะไร?",
+      "PERSIAN": "تازه چی گفتی؟"
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "야, 오빠가 오늘 기껏 학교까지 왔는데",
+      "ENGLISH": "C’mon, does it even matter what we played?",
+      "CHINESE_SIMPLIFIED": "我今天开开心心地来学校看你",
+      "CHINESE_TRADITIONAL": "我今天開開心心地來學校看你",
+      "JAPANESE": "俺が今日、せっかく学校まで来たのに",
+      "INDONESIAN": "Ayolah, apa pentingnya sih game apa yang kita main?",
+      "PORTUGUESE": "Ah, qual é, importa mesmo o que a gente jogou?",
+      "RUSSIAN": "Да ладно, разве важно, во что мы играли?",
+      "FRENCH": "Allez, est-ce que c’est si important de savoir à quoi on a joué ?",
+      "THAI": "เฮ้ มันสำคัญด้วยเหรอว่าเราเล่นอะไรไป?",
+      "PERSIAN": "بیا، اصلاً مهم است که ما چه بازی کردیم؟"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 22.14
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그날 뭐 했는지가 그렇게 중요해?",
+      "ENGLISH": "I came all the way to your school, and this is what we’re stuck on?",
+      "CHINESE_SIMPLIFIED": "那天玩了什么有那么重要吗?",
+      "CHINESE_TRADITIONAL": "那天玩了什麼有那麼重要嗎?",
+      "JAPANESE": "その日に、何やったかがそんなに大事なのか？",
+      "INDONESIAN": "Aku datang jauh-jauh ke sekolahmu, dan kita malah bahas ini?",
+      "PORTUGUESE": "Vim até a sua escola, e é nisso que ficamos presos?",
+      "RUSSIAN": "Я пришла в твою школу, и мы спорим об этом?",
+      "FRENCH": "Je suis venue jusqu’à ton école, et on se dispute pour ça ?",
+      "THAI": "ฉันมาไกลถึงโรงเรียนคุณ แล้วเราจะมาติดอยู่ตรงนี้เหรอ?",
+      "PERSIAN": "من تمام راه را به مدرسه شما رساندم، و این چیزی است که ما در اون گیر کرده ایم؟"
+    },
+    "TIME": {
+      "SHOW": 22.14,
+      "HIDE": 24.04
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "알았어.",
+      "ENGLISH": "Alright, alright. ",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "分かったわよ。",
+      "INDONESIAN": "Baiklah, baiklah.",
+      "PORTUGUESE": "Tá bom, tá bom.",
+      "RUSSIAN": "Ладно, ладно.",
+      "FRENCH": "D’accord, d’accord.",
+      "THAI": "โอเค โอเค",
+      "PERSIAN": "باشه، باشه"
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "그만하면 되잖아.",
+      "ENGLISH": "Fine.",
+      "CHINESE_SIMPLIFIED": "我不说了好了吧",
+      "CHINESE_TRADITIONAL": "我不說了好了吧",
+      "JAPANESE": "もういいでしょ。",
+      "INDONESIAN": "Oke, deh.",
+      "PORTUGUESE": "Certo.",
+      "RUSSIAN": "Хорошо.",
+      "FRENCH": "Très bien.",
+      "THAI": "ก็ได้",
+      "PERSIAN": "خوب"
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "바쁠 텐데 얼른 가봐.",
+      "ENGLISH": "You should go, you’ve got things to do.",
+      "CHINESE_SIMPLIFIED": "你也挺忙的，赶紧走吧",
+      "CHINESE_TRADITIONAL": "你也挺忙的，趕緊走吧",
+      "JAPANESE": "忙しいんだから早く行きなよ。",
+      "INDONESIAN": "Kamu harus pergi, kan? Banyak yang harus kamu lakukan.",
+      "PORTUGUESE": "Você devia ir, tem coisas pra fazer.",
+      "RUSSIAN": "Ты должна идти, у тебя дел полно.",
+      "FRENCH": "Tu devrais y aller, tu as des choses à faire.",
+      "THAI": "คุณควรไปได้แล้ว คุณมีอะไรต้องทำเยอะเลย",
+      "PERSIAN": "باید بروی، کارهایی برای انجام دادن داری."
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 28.2
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 여기까지 왔는데 그냥 간다고?",
+      "ENGLISH": "Wait, I came all this way and you’re just telling me to leave?",
+      "CHINESE_SIMPLIFIED": "我来都来了你就直接让我走?",
+      "CHINESE_TRADITIONAL": "我來都來了你就直接讓我走?",
+      "JAPANESE": "ここまで来て、ほんとに帰るだけか？",
+      "INDONESIAN": "Tunggu, aku datang jauh-jauh dan kamu malah nyuruh aku pergi?",
+      "PORTUGUESE": "Espera, eu vim até aqui e você só me manda embora?",
+      "RUSSIAN": "Подожди, я пришла так далеко, а ты просто говоришь мне уйти?",
+      "FRENCH": "Attends, je suis venue jusqu’ici et tu me dis de partir ?",
+      "THAI": "เดี๋ยวนะ ฉันมาไกลขนาดนี้ แล้วคุณบอกให้ฉันไปเนี่ยนะ?",
+      "PERSIAN": "صبر کن، من این همه راه آمدم و تو فقط به من می گویی که بروم؟"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 32.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비!",
+      "ENGLISH": "Hey, Eun-bi!",
+      "CHINESE_SIMPLIFIED": "喂! 高恩妃!",
+      "CHINESE_TRADITIONAL": "喂! 高恩妃!",
+      "JAPANESE": "おい、ウンビ！",
+      "INDONESIAN": "Hei, Eun-bi!",
+      "PORTUGUESE": "Ei, Eun-bi!",
+      "RUSSIAN": "Эй, Ын-би!",
+      "FRENCH": "Hé, Eun-bi !",
+      "THAI": "นี่ อึนบี!",
+      "PERSIAN": "هی، یون بی!"
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "고은비!",
+      "ENGLISH": "Eun-bi!",
+      "CHINESE_SIMPLIFIED": "高恩妃!",
+      "CHINESE_TRADITIONAL": "高恩妃!",
+      "JAPANESE": "ウンビ！",
+      "INDONESIAN": "Eun-bi!",
+      "PORTUGUESE": "Eun-bi!",
+      "RUSSIAN": "Ын-би!",
+      "FRENCH": "Eun-bi !",
+      "THAI": "อึนบี!",
+      "PERSIAN": "یون بی!"
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 34.8
+    }
+  }
+]

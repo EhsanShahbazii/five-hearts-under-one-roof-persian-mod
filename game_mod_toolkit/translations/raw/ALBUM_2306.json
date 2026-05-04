@@ -1,0 +1,324 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요! <하숙생이 전부 미녀입니다만?>에서",
+      "ENGLISH": "Hey everyone! I’m Dong Gran,",
+      "CHINESE_SIMPLIFIED": "大家好，我是在《阿西,美女室友竟然...》中",
+      "CHINESE_TRADITIONAL": "大家好，我是在《阿西,美女室友竟然...》中",
+      "JAPANESE": "こんにちは！<まさか！下宿生が美女ですって？>で",
+      "INDONESIAN": "Hai semuanya! Aku Dong Gran,",
+      "PORTUGUESE": "Oi pessoal! Eu sou Dong Gran,",
+      "RUSSIAN": "Эй, всем привет! Я Дон Гран,",
+      "FRENCH": "Salut tout le monde ! Je suis Dong Gran,",
+      "THAI": "สวัสดีทุกคน! ฉันชื่อ ดง แกรน,"
+    },
+    "TIME": {
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "'동그란 과장' 역을 맡은 동그란 이라고 합니다. ",
+      "ENGLISH": "playing the role of ‘Manager Dong or Gran’ in 'Five Hearts Under One Roof'.",
+      "CHINESE_SIMPLIFIED": "扮演\"佟科长\"的佟圆圆",
+      "CHINESE_TRADITIONAL": "扮演\"佟科長\"的佟圓圓",
+      "JAPANESE": "ドン・グラン課長を演じたドン・グランと申します。",
+      "INDONESIAN": "memerankan ‘Manajer Dong atau Gran’ di 'Five Hearts Under One Roof'.",
+      "PORTUGUESE": "interpretando o papel de ‘Gerente Dong ou Gran’ em 'Five Hearts Under One Roof'.",
+      "RUSSIAN": "играю роль «Менеджера Дон или Гран» в Пять сердец под одной крышей.",
+      "FRENCH": "j’incarne le rôle de « Manager Dong ou Gran » dans Cinq Cœurs Sous Un Même Toit.",
+      "THAI": "รับบทเป็น ‘ผู้จัดการดง หรือ แกรน’ ใน ห้าหัวใจใต้ชายคาเดียวกัน"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제가 맡은 캐릭터는",
+      "ENGLISH": "My character is a workaholic ",
+      "CHINESE_SIMPLIFIED": "我饰演的角色是",
+      "CHINESE_TRADITIONAL": "我飾演的角色是",
+      "JAPANESE": "私が演じたキャラクターは",
+      "INDONESIAN": "Karakterku adalah seorang yang gila kerja",
+      "PORTUGUESE": "Minha personagem é uma workaholic",
+      "RUSSIAN": "Мой персонаж — трудоголик,",
+      "FRENCH": "Mon personnage est une vraie bourreau de travail,",
+      "THAI": "ตัวละครของฉันเป็นคนบ้างาน"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "연애보다는 일에 미쳐있는 워커홀릭 캐릭터인데",
+      "ENGLISH": "who’s completely focused on her career rather than romance.",
+      "CHINESE_SIMPLIFIED": "比起恋爱更专注于工作的工作狂",
+      "CHINESE_TRADITIONAL": "比起戀愛更專注於工作的工作狂",
+      "JAPANESE": "恋愛よりも仕事に没頭している仕事中毒なキャラクターなんですけど",
+      "INDONESIAN": "yang sepenuhnya fokus pada kariernya daripada romansa.",
+      "PORTUGUESE": "que está completamente focada em sua carreira ao invés de romance.",
+      "RUSSIAN": "полностью сосредоточенный на карьере, а не на романтике.",
+      "FRENCH": "qui se concentre totalement sur sa carrière plutôt que sur la romance.",
+      "THAI": "ที่โฟกัสกับหน้าที่การงานมากกว่าความรัก"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우유만을 만나고 나서 뭔가 새로운 변화를 느끼는",
+      "ENGLISH": "But after meeting Yuman, she starts to experience some changes in her life.",
+      "CHINESE_SIMPLIFIED": "但是在遇到吴宥万之后发生变化的",
+      "CHINESE_TRADITIONAL": "但是在遇到吳宥萬之後發生變化的",
+      "JAPANESE": "ユマンに出会ってから、彼女の中で新たな変化が芽生えていく",
+      "INDONESIAN": "Tapi setelah bertemu Yuman, dia mulai mengalami beberapa perubahan dalam hidupnya.",
+      "PORTUGUESE": "Mas depois de conhecer Yuman, ela começa a experimentar algumas mudanças em sua vida.",
+      "RUSSIAN": "Но после встречи с Юманом в её жизни начинают происходить перемены.",
+      "FRENCH": "Mais après sa rencontre avec Yuman, elle commence à changer.",
+      "THAI": "แต่หลังจากได้พบกับยูมัน ชีวิตของเธอก็เริ่มเปลี่ยนแปลงไป"
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "차갑지만 따뜻한 구석이 있는",
+      "ENGLISH": "She might seem cold on the outside, ",
+      "CHINESE_SIMPLIFIED": "外表高冷内心温暖的",
+      "CHINESE_TRADITIONAL": "外表高冷內心溫暖的",
+      "JAPANESE": "冷たさの中にも温かさを秘めた",
+      "INDONESIAN": "Dia mungkin terlihat dingin di luar,",
+      "PORTUGUESE": "Ela pode parecer fria por fora,",
+      "RUSSIAN": "Снаружи она может казаться холодной,",
+      "FRENCH": "Elle peut paraître froide à l’extérieur,",
+      "THAI": "เธออาจดูเย็นชาจากภายนอก,"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "캐릭터입니다.",
+      "ENGLISH": "but she’s got a warm side too.",
+      "CHINESE_SIMPLIFIED": "这么一个反差角色",
+      "CHINESE_TRADITIONAL": "這麼一個反差角色",
+      "JAPANESE": "そんなキャラクターです。",
+      "INDONESIAN": "tapi dia juga punya sisi hangat.",
+      "PORTUGUESE": "mas também tem um lado caloroso.",
+      "RUSSIAN": "но у неё есть и тёплая сторона.",
+      "FRENCH": "mais elle a aussi un côté chaleureux.",
+      "THAI": "แต่เธอก็มีด้านที่อบอุ่นเหมือนกัน"
+    },
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "잘 공략해서 재밌게 플레이해  주세요!",
+      "ENGLISH": "Make sure you work hard to win her over, and enjoy the game!",
+      "CHINESE_SIMPLIFIED": "希望大家好好攻略这个角色，享受游戏的乐趣！",
+      "CHINESE_TRADITIONAL": "希望大家好好攻略這個角色，享受遊戲的樂趣！",
+      "JAPANESE": "ぜひうまく攻略して、プレイを楽しんでくださいね！",
+      "INDONESIAN": "Pastikan kamu bekerja keras untuk memenangkan hatinya, dan nikmati permainannya!",
+      "PORTUGUESE": "Certifiquem-se de se esforçar para conquistá-la e aproveitem o jogo!",
+      "RUSSIAN": "Постарайтесь завоевать её сердце и наслаждайтесь игрой!",
+      "FRENCH": "Assurez-vous de travailler dur pour conquérir son cœur, et profitez du jeu !",
+      "THAI": "พยายามทำให้เธอหลงรักให้ได้นะ แล้วสนุกกับเกมไปด้วยกัน!"
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "\"벌써 와있었어? 회장님은 좀 쉬라니깐~\"",
+      "ENGLISH": "\"You’re already here? I told the chairman to take it easy, didn’t I?\"",
+      "CHINESE_SIMPLIFIED": "\"这么早就来了? 都让你休息一下了~\"",
+      "CHINESE_TRADITIONAL": "這麼早就來了? 都讓你休息一下了~",
+      "JAPANESE": "「もう来てたの？会長も少しは休んだ方がいいんじゃないの〜？」",
+      "INDONESIAN": "\"Kamu sudah di sini? Aku bilang ke direktur untuk santai, kan?\"",
+      "PORTUGUESE": "\"Você já está aqui? Eu disse ao presidente para pegar leve, não disse?\"",
+      "RUSSIAN": "«Ты уже здесь? Я ведь сказала председателю не торопиться, разве нет?»",
+      "FRENCH": "« Tu es déjà là ? J’avais dit au président d’y aller doucement, non ? »",
+      "THAI": "“เธอมาแล้วเหรอ? ฉันบอกท่านประธานไปแล้วไม่ใช่เหรอว่าให้ค่อยๆ ทำ”"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 25.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "\"너무 일만 하는거 아니야?\"",
+      "ENGLISH": "\"Aren’t you overworking yourself?\"",
+      "CHINESE_SIMPLIFIED": "\"你是不是工作太拼了？\"",
+      "CHINESE_TRADITIONAL": "你是不是工作太拼了？",
+      "JAPANESE": "「仕事しすぎじゃない？」",
+      "INDONESIAN": "\"Kamu nggak merasa terlalu banyak bekerja?\"",
+      "PORTUGUESE": "\"Você não acha que está se sobrecarregando?\"",
+      "RUSSIAN": "«Ты себя не перерабатываешь?»",
+      "FRENCH": "« Tu ne te surmènes pas ? »",
+      "THAI": "“เธอไม่หักโหมเกินไปเหรอ?”"
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 28.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "\"자꾸 나혼자 집에서 기다리게 할 거야?\"",
+      "ENGLISH": "\"Are you going to keep making me wait home alone?\"",
+      "CHINESE_SIMPLIFIED": "\"要一直让我一个人在家等你吗？\"",
+      "CHINESE_TRADITIONAL": "要一直讓我一個人在家等你嗎？",
+      "JAPANESE": "「いつまで家で待たせるつもり？」",
+      "INDONESIAN": "\"Apa kamu akan terus membuatku menunggu sendirian di rumah?\"",
+      "PORTUGUESE": "\"Vai continuar me deixando esperando sozinha em casa?\"",
+      "RUSSIAN": "«Ты что, и дальше собираешься заставлять меня ждать дома одной?»",
+      "FRENCH": "« Tu comptes continuer à me laisser attendre toute seule à la maison ? »",
+      "THAI": "“เธอจะปล่อยให้ฉันรออยู่บ้านคนเดียวต่อไปเหรอ?”"
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 31.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "\"아빠! 아.. 씨.. 이거 놓으라고!\"",
+      "ENGLISH": "\"Dad! Ugh, for crying out loud, let go of me!\"",
+      "CHINESE_SIMPLIFIED": "\"爸！啊.. 西... 我让你放手！\"",
+      "CHINESE_TRADITIONAL": "爸！啊.. 西... 我讓你放手！",
+      "JAPANESE": "「お父さん！ちょっと、離してよ！」",
+      "INDONESIAN": "\"Ayah! Aduh, demi Tuhan, lepaskan aku!\"",
+      "PORTUGUESE": "\"Papai! Ai, pelo amor de Deus, me solta!\"",
+      "RUSSIAN": "«Папа! Да ради всего святого, отпусти меня!»",
+      "FRENCH": "« Papa ! Bon sang, lâche-moi ! »",
+      "THAI": "“พ่อ! โธ่เอ้ย ปล่อยฉันนะ!”"
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 35.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "\"유만아...!",
+      "ENGLISH": "\"Yuman...\"",
+      "CHINESE_SIMPLIFIED": "“宥万啊...!”",
+      "CHINESE_TRADITIONAL": "“宥萬啊...!”",
+      "JAPANESE": "「ユマン…！」",
+      "INDONESIAN": "\"Yuman...\"",
+      "PORTUGUESE": "\"Yuman...\"",
+      "RUSSIAN": "«Юман...»",
+      "FRENCH": "« Yuman... »",
+      "THAI": "“ยูมัน...”"
+    },
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "\"인수합시다. 무슨 일이 있어도 인수해야 해요.\"",
+      "ENGLISH": "\"We’re going through with the acquisition. No matter what, we have to make it happen.\"",
+      "CHINESE_SIMPLIFIED": "\"必须收购，不管怎样都必须拿下\"",
+      "CHINESE_TRADITIONAL": "必須收購，不管怎樣都必須拿下",
+      "JAPANESE": "「買収しましょう。何があっても買収すべきです。」",
+      "INDONESIAN": "\"Kita akan melanjutkan akuisisi ini. Apa pun yang terjadi, kita harus mewujudkannya.\"",
+      "PORTUGUESE": "\"Estamos indo adiante com a aquisição. Não importa o que aconteça, temos que fazer isso acontecer.\"",
+      "RUSSIAN": "«Мы завершим это приобретение. Что бы ни случилось, мы должны это сделать.»",
+      "FRENCH": "« Nous allons finaliser l’acquisition. Quoi qu’il arrive, on doit y arriver. »",
+      "THAI": "“เราจะทำการเข้าซื้อกิจการให้สำเร็จ ไม่ว่ายังไงเราก็ต้องทำให้ได้”"
+    },
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 39.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "\"기회를 아무리 줘도. 멍청한 건 고쳐지지가 않네?\"",
+      "ENGLISH": "\"No matter how many chances you get, you just can’t fix stupid, can you?\"",
+      "CHINESE_SIMPLIFIED": "\"给了你多少机会？蠢东西真是一点也改不了\"",
+      "CHINESE_TRADITIONAL": "給了你多少機會？蠢東西真是一點也改不了",
+      "JAPANESE": "「いくらチャンスを与えても、バカは治らないのね？」",
+      "INDONESIAN": "\"Berapa kali pun kamu diberi kesempatan, kebodohan nggak bisa diperbaiki, ya?\"",
+      "PORTUGUESE": "\"Por mais chances que você receba, a estupidez não tem conserto, tem?\"",
+      "RUSSIAN": "«Сколько бы ни было у тебя шансов, глупость не исправишь, да?»",
+      "FRENCH": "« Peu importe combien de chances on te donne, tu ne peux pas réparer l’idiotie, hein ? »",
+      "THAI": "“ไม่ว่าจะได้โอกาสมากี่ครั้ง เธอก็ไม่เคยแก้ความโง่ได้เลย ใช่ไหม?”"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 44.2
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "\"회사에서 줬던 모든 순간이 내가 줬던 기회란 걸 몰랐어?\"",
+      "ENGLISH": "\"Didn’t you realize every moment you spent at this company was a chance I gave you?\"",
+      "CHINESE_SIMPLIFIED": "你在这公司的每分每秒都是我给你的机会，你心里没数吗?",
+      "CHINESE_TRADITIONAL": "你在這公司的每分每秒都是我給你的機會，你心裏沒數嗎?",
+      "JAPANESE": "「会社で過ごしたすべてが、私が与えてあげたチャンスだったこと、分からなかったの？」",
+      "INDONESIAN": "\"Kamu nggak sadar setiap momen yang kamu habiskan di perusahaan ini adalah kesempatan yang kuberikan?\"",
+      "PORTUGUESE": "\"Você não percebeu que cada momento que passou nesta empresa foi uma chance que eu te dei?\"",
+      "RUSSIAN": "«Разве ты не понял, что каждое мгновение, проведённое в этой компании, — это шанс, который я тебе дала?»",
+      "FRENCH": "« Tu n’as pas réalisé que chaque moment passé dans cette entreprise était une chance que je t’ai donnée ? »",
+      "THAI": "“เธอไม่รู้หรือไง ว่าทุกวินาทีที่เธอใช้ในบริษัทนี้คือโอกาสที่ฉันให้เธอ?”"
+    },
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 47.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "\"놓고 가서 기어들어 오는 일 없게, 다 챙겨가세요!\"",
+      "ENGLISH": "\"Take everything with you when you leave. I don’t want to see you crawling back in here later.\"",
+      "CHINESE_SIMPLIFIED": "\"把东西都带走吧，别想再回来！\"",
+      "CHINESE_TRADITIONAL": "把東西都帶走吧，別想再回來！",
+      "JAPANESE": "「今日中に荷物をまとめて出て行って。」",
+      "INDONESIAN": "\"Bawa semuanya saat kamu pergi. Aku nggak mau melihatmu mengemis kembali ke sini nanti.\"",
+      "PORTUGUESE": "\"Leve tudo com você quando sair. Não quero te ver voltando aqui rastejando depois.\"",
+      "RUSSIAN": "«Забери всё с собой, когда будешь уходить. Не хочу видеть, как ты потом приползёшь обратно сюда.»",
+      "FRENCH": "« Emporte tout avec toi en partant. Je ne veux pas te voir ramper ici plus tard. »",
+      "THAI": "“เก็บทุกอย่างไปด้วยตอนเธอออกไป ฉันไม่อยากเห็นเธอคลานกลับมาที่นี่ทีหลัง”"
+    },
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 51.9
+    }
+  }
+]

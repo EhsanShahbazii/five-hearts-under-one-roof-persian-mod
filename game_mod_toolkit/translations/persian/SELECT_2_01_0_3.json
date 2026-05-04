@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "낙낙",
+      "ENGLISH": "Knock, knock",
+      "CHINESE_SIMPLIFIED": "敲敲",
+      "CHINESE_TRADITIONAL": "敲敲",
+      "JAPANESE": "コンコン",
+      "INDONESIAN": "Tok, tok",
+      "PORTUGUESE": "Toc, toc",
+      "RUSSIAN": "Тук-тук.",
+      "FRENCH": "Toc toc.",
+      "THAI": "ก๊อก ๆ",
+      "PERSIAN": "در بزن، در بزن"
+    },
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "계십니까...",
+      "ENGLISH": "Anyone there?",
+      "CHINESE_SIMPLIFIED": "有人在吗?",
+      "CHINESE_TRADITIONAL": "有人在嗎?",
+      "JAPANESE": "どなたかいらっしゃいますか…",
+      "INDONESIAN": "Ada orang?",
+      "PORTUGUESE": "Tem alguém aí?",
+      "RUSSIAN": "Есть кто?",
+      "FRENCH": "Y’a quelqu’un ?",
+      "THAI": "มีใครอยู่ไหม?",
+      "PERSIAN": "کسی آنجاست؟"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "워!",
+      "ENGLISH": "Whoa!",
+      "CHINESE_SIMPLIFIED": "哇!",
+      "CHINESE_TRADITIONAL": "哇!",
+      "JAPANESE": "おっ！",
+      "INDONESIAN": "Wah!",
+      "PORTUGUESE": "Uau!",
+      "RUSSIAN": "Ого!",
+      "FRENCH": "Wouah !",
+      "THAI": "เฮ้ย!",
+      "PERSIAN": "Whoa!"
+    },
+    "TIME": {
+      "SHOW": 4.75,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "없네...",
+      "ENGLISH": "No one here...",
+      "CHINESE_SIMPLIFIED": "并没有…",
+      "CHINESE_TRADITIONAL": "並沒有…",
+      "JAPANESE": "いないな…",
+      "INDONESIAN": "Nggak ada orang di sini...",
+      "PORTUGUESE": "Não tem ninguém aqui...",
+      "RUSSIAN": "Никого нет...",
+      "FRENCH": "Personne ici non plus...",
+      "THAI": "ไม่มีใครจริง ๆ...",
+      "PERSIAN": "هیچکس اینجا نیست..."
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.9
+    }
+  }
+]

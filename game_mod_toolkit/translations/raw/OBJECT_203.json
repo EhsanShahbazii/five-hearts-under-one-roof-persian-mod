@@ -1,0 +1,287 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "부장님 안녕하십니까!",
+      "ENGLISH": "Good morning, Manager!",
+      "CHINESE_SIMPLIFIED": "部长您好!",
+      "CHINESE_TRADITIONAL": "部長您好!",
+      "JAPANESE": "部長、おはようございます！",
+      "INDONESIAN": "Selamat pagi, Manajer!",
+      "PORTUGUESE": "Bom dia, Gerente!",
+      "RUSSIAN": "Доброе утро, менеджер!",
+      "FRENCH": "Bonjour, manager !",
+      "THAI": "สวัสดีครับ ผู้จัดการ!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어 두유만 사원!",
+      "ENGLISH": "Oh, it’s Yunam!",
+      "CHINESE_SIMPLIFIED": "噢~新人胡宥万!",
+      "CHINESE_TRADITIONAL": "噢~新人胡宥萬!",
+      "JAPANESE": "おう、トゥ・ユマン社員！",
+      "INDONESIAN": "Oh, ini Yunam!",
+      "PORTUGUESE": "Ah, é o Yunam!",
+      "RUSSIAN": "О, это Юнам!",
+      "FRENCH": "Oh, c’est Yunam !",
+      "THAI": "อ้อ ยูนาม มาแล้วเหรอ!"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아... 저 우유만...입니다!",
+      "ENGLISH": "Uh, it’s Yuman...",
+      "CHINESE_SIMPLIFIED": "啊…我叫吴宥万!",
+      "CHINESE_TRADITIONAL": "啊…我叫吳宥萬!",
+      "JAPANESE": "あ…私、ウ・ユマンと申します。",
+      "INDONESIAN": "Uh, maksudnya Yuman...",
+      "PORTUGUESE": "Uh, é Yuman...",
+      "RUSSIAN": "Эээ, Юман...",
+      "FRENCH": "Euh, Yuman...",
+      "THAI": "เอ่อ... ผมชื่อยูมันครับ..."
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그래그래!",
+      "ENGLISH": "Right, right!",
+      "CHINESE_SIMPLIFIED": "知道知道!",
+      "CHINESE_TRADITIONAL": "知道知道!",
+      "JAPANESE": "ああ、そうだったな！",
+      "INDONESIAN": "Iya, iya!",
+      "PORTUGUESE": "Certo, certo!",
+      "RUSSIAN": "Точно, точно!",
+      "FRENCH": "Oui, c’est ça !",
+      "THAI": "อ๋อๆ ใช่ๆ!"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우리 우유만 사원 들어와서 내 기분이 참 좋아. 응?",
+      "ENGLISH": "I’m glad you joined, it feels good. Uh?",
+      "CHINESE_SIMPLIFIED": "你能进我们公司我真是太高兴了~",
+      "CHINESE_TRADITIONAL": "你能進我們公司我真是太高興了~",
+      "JAPANESE": "ユマン社員が入社して、私の気分もすごくいいよ。うん？",
+      "INDONESIAN": "Aku senang kamu bergabung, rasanya senang. Eh?",
+      "PORTUGUESE": "Fico feliz que você tenha entrado, é bom estar com você. Hein?",
+      "RUSSIAN": "Рад, что ты присоединился. Ух?",
+      "FRENCH": "Content que tu nous aies rejoints. Hein ?",
+      "THAI": "ดีใจนะที่นายมาร่วมงานด้วย รู้สึกดีเลย เอ๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "인서 씨 막내 탈출해서 좋겠어?",
+      "ENGLISH": "In-seo, you must be happy to not be the newbie anymore?",
+      "CHINESE_SIMPLIFIED": "仁书，你终于不是老幺了开心吧？",
+      "CHINESE_TRADITIONAL": "仁書，你終於不是老幺了開心吧？",
+      "JAPANESE": "インソさん、もう一番年下じゃないから嬉しいだろう？",
+      "INDONESIAN": "In-seo, kamu pasti senang nggak jadi anak baru lagi?",
+      "PORTUGUESE": "In-seo, você deve estar feliz por não ser mais o novato, né?",
+      "RUSSIAN": "Ин-со, рад, что ты больше не новенький?",
+      "FRENCH": "In-seo, t’es content de ne plus être le petit nouveau ?",
+      "THAI": "อินซอ คงดีใจแหละ ที่ไม่ต้องเป็นน้องใหม่อีกแล้ว ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 22.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아무튼 모르는 거 있으면...",
+      "ENGLISH": "Anyway, if you have any questions...",
+      "CHINESE_SIMPLIFIED": "反正你有什么不懂的,",
+      "CHINESE_TRADITIONAL": "反正你有什麼不懂的,",
+      "JAPANESE": "とにかく、分からないことがあったら…",
+      "INDONESIAN": "Pokoknya, kalau kamu punya pertanyaan...",
+      "PORTUGUESE": "Enfim, se você tiver alguma dúvida...",
+      "RUSSIAN": "Если будут вопросы...",
+      "FRENCH": "Si tu as des questions...",
+      "THAI": "ยังไงก็เถอะ ถ้ามีคำถามอะไร..."
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "나 말고!",
+      "ENGLISH": "Don’t ask me!",
+      "CHINESE_SIMPLIFIED": "别来问我! ",
+      "CHINESE_TRADITIONAL": "別來問我!",
+      "JAPANESE": "私じゃなくて！",
+      "INDONESIAN": "Jangan tanya aku!",
+      "PORTUGUESE": "Não pergunte pra mim!",
+      "RUSSIAN": "Меня не спрашивай!",
+      "FRENCH": "Ne me demande pas !",
+      "THAI": "อย่ามาถามฉันนะ!"
+    },
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 28.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "우리 여기 동 과장",
+      "ENGLISH": "Assistant Manager Dong.",
+      "CHINESE_SIMPLIFIED": "佟科长",
+      "CHINESE_TRADITIONAL": "佟科長",
+      "JAPANESE": "ここにいる",
+      "INDONESIAN": "Asisten Manajer Dong.",
+      "PORTUGUESE": "Assistente Dong.",
+      "RUSSIAN": "Обращайся ",
+      "FRENCH": "Va voir ",
+      "THAI": "ถามผู้ช่วยผู้จัดการดงแทน"
+    },
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 31.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "동 과장한테 한번 물어보라고.",
+      "ENGLISH": "Ask Assistant Manager Dong.",
+      "CHINESE_SIMPLIFIED": "你去问佟科长",
+      "CHINESE_TRADITIONAL": "你去問佟科長",
+      "JAPANESE": "ドン課長に聞いてみな。",
+      "INDONESIAN": "Tanyakan ke Asisten Manajer Dong.",
+      "PORTUGUESE": "Pergunte para o Assistente Dong.",
+      "RUSSIAN": "к заместителю менеджера Дону.",
+      "FRENCH": "l’assistant manager Dong.",
+      "THAI": "เข้าใจนะ?"
+    },
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 34.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그럼...",
+      "ENGLISH": "Alright...",
+      "CHINESE_SIMPLIFIED": "那么...",
+      "CHINESE_TRADITIONAL": "那麼...",
+      "JAPANESE": "それじゃあ…",
+      "INDONESIAN": "Baiklah...",
+      "PORTUGUESE": "Beleza...",
+      "RUSSIAN": "Хорошо...",
+      "FRENCH": "D’accord...",
+      "THAI": "อ่า... ครับ..."
+    },
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 36.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "우리 두유만 사원 퐈이팅이야!",
+      "ENGLISH": "Yunam, good luck!",
+      "CHINESE_SIMPLIFIED": "我们胡宥万加油啊!",
+      "CHINESE_TRADITIONAL": "我們胡宥萬加油啊!",
+      "JAPANESE": "トゥ・ユマン社員、頑張るんだぞ！",
+      "INDONESIAN": "Yunam, semoga sukses!",
+      "PORTUGUESE": "Yunam, boa sorte!",
+      "RUSSIAN": "Юнам, удачи!",
+      "FRENCH": "Yunam, bonne chance !",
+      "THAI": "ยูนาม สู้ๆ นะ!"
+    },
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 42.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "예...! 알겠습니다!",
+      "ENGLISH": "Yes...! Thank you!",
+      "CHINESE_SIMPLIFIED": "好的!我知道了!",
+      "CHINESE_TRADITIONAL": "好的!我知道了!",
+      "JAPANESE": "はい…！分かりました！",
+      "INDONESIAN": "Iya...! Terima kasih!",
+      "PORTUGUESE": "Sim...! Obrigado!",
+      "RUSSIAN": "Да...! Спасибо!",
+      "FRENCH": "Oui...! Merci !",
+      "THAI": "ครับ...! ขอบคุณครับ!"
+    },
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 44.7
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "어~ 가서 일 봐!",
+      "ENGLISH": "Now go get to work!",
+      "CHINESE_SIMPLIFIED": "嗯~去干活吧~",
+      "CHINESE_TRADITIONAL": "嗯~去幹活吧~",
+      "JAPANESE": "早速、あそこに行って仕事始めようか！",
+      "INDONESIAN": "Sekarang mulai kerja, ya!",
+      "PORTUGUESE": "Agora vá trabalhar!",
+      "RUSSIAN": "Ну, давай за работу!",
+      "FRENCH": "Allez, au travail !",
+      "THAI": "งั้นไปลุยงานได้แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 45.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "가 가~ / 네...",
+      "ENGLISH": "Go, go~ / Okay...",
+      "CHINESE_SIMPLIFIED": "去吧~ / 好的...",
+      "CHINESE_TRADITIONAL": "去吧~ / 好的...",
+      "JAPANESE": "さあ、行って～ / はい…",
+      "INDONESIAN": "Ayo, ayo~ / Oke...",
+      "PORTUGUESE": "Vai, vai~ / Tá bom...",
+      "RUSSIAN": "Пошел, пошел~ / Ладно...",
+      "FRENCH": "Vas-y, vas-y~ / D’accord...",
+      "THAI": "ไปๆ~ / ครับ..."
+    },
+    "TIME": {
+      "SHOW": 46.2,
+      "HIDE": 47.2
+    }
+  }
+]

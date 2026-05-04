@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨 데려다주고, 이따가 PC방으로 갈게.",
+      "ENGLISH": "I’ll drop Seung-yi off and then head to the internet cafe later.",
+      "CHINESE_SIMPLIFIED": "那我把圣依送回家就去网吧找你",
+      "CHINESE_TRADITIONAL": "那我把聖依送回家就去網吧找你",
+      "JAPANESE": "スンイさんを送ってから、後で、ネットカフェまでに行くよ。",
+      "INDONESIAN": "Aku bakal antar Seung-yi dulu, habis itu baru ke warnet.",
+      "PORTUGUESE": "Eu vou deixar a Seung-yi em casa e depois vou para a lan house.",
+      "RUSSIAN": "Я отвезу Сын-и, а потом загляну в интернет-кафе.",
+      "FRENCH": "Je dépose Seung-yi puis je passe à l’internet café après.",
+      "THAI": "ฉันจะไปส่งซึงอีก่อน แล้วค่อยไปที่อินเทอร์เน็ตคาเฟ่ทีหลัง"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨, 우리 또 다음에 놀아요!",
+      "ENGLISH": "Seungyi, let’s hang out again sometime!",
+      "CHINESE_SIMPLIFIED": "圣依我们下次再出来玩!",
+      "CHINESE_TRADITIONAL": "聖依我們下次再出來玩!",
+      "JAPANESE": "スンイさん、また今度遊びにきましょう！",
+      "INDONESIAN": "Seung-yi, kita main bareng lagi kapan-kapan, ya!",
+      "PORTUGUESE": "Seung-yi, vamos sair juntos de novo algum dia!",
+      "RUSSIAN": "Сын-и, давай ещё как-нибудь встретимся!",
+      "FRENCH": "Seung-yi, on traînera ensemble une autre fois !",
+      "THAI": "ซึงอี ไว้ไปเที่ยวด้วยกันอีกนะ!"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네... 감사했습니다...!",
+      "ENGLISH": "Yes... Thank you so much...!",
+      "CHINESE_SIMPLIFIED": "好…今天谢谢您!",
+      "CHINESE_TRADITIONAL": "好…今天謝謝您!",
+      "JAPANESE": "はい…ありがとうございました…！",
+      "INDONESIAN": "Iya... Makasih banyak...!",
+      "PORTUGUESE": "Sim... Muito obrigado...!",
+      "RUSSIAN": "Да... Спасибо вам большое...!",
+      "FRENCH": "Oui... Merci beaucoup...!",
+      "THAI": "ค่ะ... ขอบคุณมากๆ เลยค่ะ...!"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.5
+    }
+  }
+]

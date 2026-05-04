@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "ENTJ가 아니라고요?",
+      "ENGLISH": "You're not an ENTJ? ",
+      "CHINESE_SIMPLIFIED": "你居然不是ENTJ？",
+      "CHINESE_TRADITIONAL": "你居然不是ENTJ？",
+      "JAPANESE": "ENTJじゃないって？",
+      "INDONESIAN": "Kamu bukan ENTJ?",
+      "PORTUGUESE": "Você não é ENTJ?",
+      "RUSSIAN": "Ты не ENTJ?",
+      "FRENCH": "Tu n’es pas ENTJ ?",
+      "THAI": "นายไม่ใช่ ENTJ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼요!",
+      "ENGLISH": "That’s impossible!",
+      "CHINESE_SIMPLIFIED": "我不信!",
+      "CHINESE_TRADITIONAL": "我不信!",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Itu mustahil!",
+      "PORTUGUESE": "Isso é impossível!",
+      "RUSSIAN": "Это просто невозможно!",
+      "FRENCH": "C’est pas possible !",
+      "THAI": "เป็นไปไม่ได้เด็ดขาด!"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.0
+    }
+  }
+]

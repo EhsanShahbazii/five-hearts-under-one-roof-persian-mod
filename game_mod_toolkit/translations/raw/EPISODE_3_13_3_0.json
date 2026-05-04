@@ -1,0 +1,401 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "사실...",
+      "ENGLISH": "Actually...",
+      "CHINESE_SIMPLIFIED": "其实…",
+      "CHINESE_TRADITIONAL": "其實…",
+      "JAPANESE": "実は…",
+      "INDONESIAN": "Sebenarnya...",
+      "PORTUGUESE": "Na verdade...",
+      "RUSSIAN": "На самом деле...",
+      "FRENCH": "En fait...",
+      "THAI": "จริง ๆ แล้ว..."
+    },
+    "TIME": {
+      "SHOW": 3.04,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 애들이랑 사이도 별로 안 좋고...",
+      "ENGLISH": "I haven’t been getting along well with the others lately,",
+      "CHINESE_SIMPLIFIED": "我最近和成员们的关系不太好",
+      "CHINESE_TRADITIONAL": "我最近和成員們的關係不太好",
+      "JAPANESE": "最近、他の子たちとあんまりうまくいかなくて…",
+      "INDONESIAN": "Akhir-akhir ini aku nggak terlalu akur sama yang lain,",
+      "PORTUGUESE": "Ultimamente eu não tenho me dado muito bem com as outras,",
+      "RUSSIAN": "У меня в последнее время не ладится с другими,",
+      "FRENCH": "Je ne m’entends pas très bien avec les autres en ce moment,",
+      "THAI": "ช่วงนี้ฉันเข้ากับคนอื่นไม่ค่อยได้,"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.92
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "혼자 가기 무서워서",
+      "ENGLISH": "And I was scared to come alone",
+      "CHINESE_SIMPLIFIED": "实在不敢一个人去",
+      "CHINESE_TRADITIONAL": "實在不敢一個人去",
+      "JAPANESE": "だから、一人で行くのが怖くて",
+      "INDONESIAN": "Dan aku takut datang sendirian.",
+      "PORTUGUESE": "E fiquei com medo de vir sozinha.",
+      "RUSSIAN": "и мне было страшно прийти одной,",
+      "FRENCH": "et j’avais peur de venir seule,",
+      "THAI": "แล้วฉันก็กลัวที่จะมาคนเดียว"
+    },
+    "TIME": {
+      "SHOW": 6.92,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "매니저 있다고 거짓말한 거예요. 유만 씨한테.",
+      "ENGLISH": "So I lied about having a manager. Sorry, Yuman.",
+      "CHINESE_SIMPLIFIED": "所以才骗她们说你是经纪人的",
+      "CHINESE_TRADITIONAL": "所以才騙她們說你是經紀人的",
+      "JAPANESE": "ユマンさんにマネージャーがいるって嘘ついちゃったんです。",
+      "INDONESIAN": "Jadi aku bohong bilang ada manajer. Maaf, Yuman.",
+      "PORTUGUESE": "Então eu menti dizendo que tinha um gerente. Desculpa, Yuman.",
+      "RUSSIAN": "поэтому я соврала, что со мной менеджер. Прости, Юман.",
+      "FRENCH": "alors j’ai menti en disant que j’avais un manager. Désolé(e), Yuman.",
+      "THAI": "เลยโกหกว่า มากับผู้จัดการน่ะ ขอโทษนะ ยูมัน."
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "미안하긴요!",
+      "ENGLISH": "Don’t worry about it! Isn’t it too much ",
+      "CHINESE_SIMPLIFIED": "有什么对不起的",
+      "CHINESE_TRADITIONAL": "有什麼對不起的",
+      "JAPANESE": "謝らなくて大丈夫ですよ！",
+      "INDONESIAN": "Nggak apa-apa! Bukannya keterlaluan",
+      "PORTUGUESE": "Não se preocupa! Não é demais",
+      "RUSSIAN": "Не переживай! Разве это не слишком,",
+      "FRENCH": "T’inquiète pas ! C’est pas un peu abusé",
+      "THAI": "ไม่ต้องห่วงหรอก! มันไม่เกินไปหน่อยเหรอ"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아니 저 사람들 활동비도 다 민정 님이 알바해서 버는 돈으로 하는 건데",
+      "ENGLISH": "That Min-jung is using her part-time money",
+      "CHINESE_SIMPLIFIED": "明明你们的活动经费都是你打工赚来的",
+      "CHINESE_TRADITIONAL": "明明你們的活動經費都是你打工賺來的",
+      "JAPANESE": "だって、あの子たちの活動費も全部ミンジョンさんがアルバイトして稼いだお金でなんでしょ？",
+      "INDONESIAN": "Kalau Min-jung pakai uang kerja paruh waktunya",
+      "PORTUGUESE": "A Min-jung usar o dinheiro do trabalho dela",
+      "RUSSIAN": "что Мин-Джон тратит свои деньги с подработки",
+      "FRENCH": "que Min-jung utilise l’argent de son travail à mi-temps",
+      "THAI": "ที่มินจองต้องใช้เงินจากงานพาร์ทไทม์"
+    },
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 17.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "너무한 거 아니에요?",
+      "ENGLISH": "For the group’s expenses?",
+      "CHINESE_SIMPLIFIED": "她们也太过分了",
+      "CHINESE_TRADITIONAL": "她們也太過分了",
+      "JAPANESE": "それって、ちょっとひどくないですか？",
+      "INDONESIAN": "Buat biaya grup?",
+      "PORTUGUESE": "Pra pagar as despesas do grupo?",
+      "RUSSIAN": "на расходы группы?",
+      "FRENCH": "pour les dépenses du groupe ?",
+      "THAI": "ไปกับค่าใช้จ่ายของวง?"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요..",
+      "ENGLISH": "It’s fine, really. ",
+      "CHINESE_SIMPLIFIED": "我没事啦",
+      "CHINESE_TRADITIONAL": "我沒事啦",
+      "JAPANESE": "大丈夫ですよ…",
+      "INDONESIAN": "Nggak apa-apa, sungguh.",
+      "PORTUGUESE": "Tá tudo bem, de verdade.",
+      "RUSSIAN": "Всё нормально, правда.",
+      "FRENCH": "Ça va, vraiment.",
+      "THAI": "ไม่เป็นไรจริง ๆ นะ."
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 옷은 진짜 감사해요..!",
+      "ENGLISH": "Thank you for the clothes!",
+      "CHINESE_SIMPLIFIED": "谢谢你的衣服!",
+      "CHINESE_TRADITIONAL": "謝謝你的衣服!",
+      "JAPANESE": "それと、服ありがとうございます…！",
+      "INDONESIAN": "Terima kasih buat bajunya!",
+      "PORTUGUESE": "Obrigada pelas roupas!",
+      "RUSSIAN": "Спасибо за одежду!",
+      "FRENCH": "Merci pour les vêtements !",
+      "THAI": "ขอบคุณสำหรับเสื้อผ้านะ!"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 23.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "제가 커피라도 살게요!",
+      "ENGLISH": "Let me buy you a coffee!",
+      "CHINESE_SIMPLIFIED": "我请你喝咖啡吧!",
+      "CHINESE_TRADITIONAL": "我請你喝咖啡吧!",
+      "JAPANESE": "コーヒーくらいおごらせてください！",
+      "INDONESIAN": "Biar aku traktir kopi!",
+      "PORTUGUESE": "Deixa eu te pagar um café!",
+      "RUSSIAN": "Давай я угощу тебя кофе!",
+      "FRENCH": "Laisse-moi t’offrir un café !",
+      "THAI": "ให้ฉันเลี้ยงกาแฟนายไหม?"
+    },
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 25.05
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "전 다 좋아요.",
+      "ENGLISH": "That sounds great, haha.",
+      "CHINESE_SIMPLIFIED": "好啊~",
+      "CHINESE_TRADITIONAL": "好啊~",
+      "JAPANESE": "私は何でもいいですよ。",
+      "INDONESIAN": "Wah, kedengarannya enak, haha.",
+      "PORTUGUESE": "Parece ótimo, haha.",
+      "RUSSIAN": "Отлично, звучит здорово, ха-ха.",
+      "FRENCH": "Avec plaisir, haha.",
+      "THAI": "ฟังดูดีเลย ฮ่า ๆ."
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어...?!",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "哦？!",
+      "CHINESE_TRADITIONAL": "哦？!",
+      "JAPANESE": "えっ…？！",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Uh...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 27.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 밍밍 아니세요?",
+      "ENGLISH": "Aren’t you Mingming from Milk Girls?",
+      "CHINESE_SIMPLIFIED": "您是牛奶女孩敏敏吧?",
+      "CHINESE_TRADITIONAL": "您是牛奶女孩敏敏吧?",
+      "JAPANESE": "ミルクガールズのミンミンさんじゃないですか？",
+      "INDONESIAN": "Kamu Mingming dari Milk Girls, ya?",
+      "PORTUGUESE": "Você é a Mingming do Milk Girls?",
+      "RUSSIAN": "Ты не... Мин-Мин из Milk Girls?",
+      "FRENCH": "T’es pas Mingming de Milk Girls ?",
+      "THAI": "นี่ไม่ใช่ มิงมิง จาก Milk Girls เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Oh...",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้..."
+    },
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 35.3
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "네 맞아요! 안녕하세요~",
+      "ENGLISH": "Yes, that’s me! Hello~",
+      "CHINESE_SIMPLIFIED": "对，您好~",
+      "CHINESE_TRADITIONAL": "對，您好~",
+      "JAPANESE": "はい、そうですけど。こんばんは。",
+      "INDONESIAN": "Iya, itu aku! Halo~",
+      "PORTUGUESE": "Sim, sou eu! Olá~",
+      "RUSSIAN": "Да, это я! Привет~",
+      "FRENCH": "Oui, c’est moi ! Bonjour~",
+      "THAI": "ใช่แล้วค่ะ! สวัสดี~"
+    },
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 37.9
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "와 대박...",
+      "ENGLISH": "Wow..",
+      "CHINESE_SIMPLIFIED": "哇!",
+      "CHINESE_TRADITIONAL": "哇!",
+      "JAPANESE": "わあ、ヤバい…",
+      "INDONESIAN": "Wow...",
+      "PORTUGUESE": "Uau...",
+      "RUSSIAN": "Вау...",
+      "FRENCH": "Wow...",
+      "THAI": "ว้าว..."
+    },
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 40.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "인사 받아주시네요..",
+      "ENGLISH": "Thank you for acknowledging me...",
+      "CHINESE_SIMPLIFIED": "居然还会回应我…",
+      "CHINESE_TRADITIONAL": "居然還會迴應我…",
+      "JAPANESE": "挨拶してもらえるなんて…",
+      "INDONESIAN": "Terima kasih udah ngenalin aku...",
+      "PORTUGUESE": "Obrigada por me reconhecer...",
+      "RUSSIAN": "Спасибо, что признал меня...",
+      "FRENCH": "Merci de m’avoir reconnue...",
+      "THAI": "ขอบคุณนะ ที่จำฉันได้..."
+    },
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 42.35
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "진작할걸...",
+      "ENGLISH": "I should’ve greeted you earlier...",
+      "CHINESE_SIMPLIFIED": "早这么做多好…",
+      "CHINESE_TRADITIONAL": "早這麼做多好…",
+      "JAPANESE": "もっと早く挨拶すればよかった…",
+      "INDONESIAN": "Harusnya aku nyapa kamu duluan...",
+      "PORTUGUESE": "Eu devia ter te cumprimentado antes...",
+      "RUSSIAN": "Мне следовало поприветствовать тебя раньше...",
+      "FRENCH": "J’aurais dû te saluer plus tôt...",
+      "THAI": "ฉันควรจะทักนายก่อนซะอีก..."
+    },
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 44.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 45.0
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "아니 저기 그...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "啊，没什么",
+      "CHINESE_TRADITIONAL": "啊，沒什麼",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Uh...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "เอ่อ..."
+    },
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 48.9
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "그러지 말고 사진 한 장만 찍어주면 안 돼요?",
+      "ENGLISH": "Could we take a photo together?",
+      "CHINESE_SIMPLIFIED": "请问能合张照吗?",
+      "CHINESE_TRADITIONAL": "請問能合張照嗎?",
+      "JAPANESE": "写真一枚だけ撮ってもらえませんか？",
+      "INDONESIAN": "Boleh kita foto bareng?",
+      "PORTUGUESE": "Podemos tirar uma foto juntos?",
+      "RUSSIAN": "Можем сделать фото вместе?",
+      "FRENCH": "On pourrait prendre une photo ensemble ?",
+      "THAI": "เราถ่ายรูปด้วยกันได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 48.9,
+      "HIDE": 51.0
+    }
+  }
+]

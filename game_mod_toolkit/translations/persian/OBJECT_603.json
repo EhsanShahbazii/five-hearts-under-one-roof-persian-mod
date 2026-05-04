@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아니 얜, 스무살인데 교복이 왜 있는거야?",
+      "ENGLISH": "Wait, why does she still have a school uniform? She’s adult though!",
+      "CHINESE_SIMPLIFIED": "诶？20岁了怎么还穿高中校服",
+      "CHINESE_TRADITIONAL": "誒？20歲了怎麼還穿高中校服",
+      "JAPANESE": "うん？二十歳にもなるのに、何で制服持ってるんだ？",
+      "INDONESIAN": "Tunggu, kenapa dia masih punya seragam sekolah? Kan dia udah dewasa!",
+      "PORTUGUESE": "Espera, por que ela ainda tem um uniforme escolar? Ela já é adulta!",
+      "RUSSIAN": "Постой, почему у неё всё ещё школьная форма? Она ведь уже взрослая!",
+      "FRENCH": "Attends, pourquoi elle a encore un uniforme scolaire ? Elle est adulte pourtant !",
+      "THAI": "เดี๋ยวนะ ทำไมเธอยังมีชุดนักเรียนอยู่ล่ะ? เธอเป็นผู้ใหญ่แล้วนี่!",
+      "PERSIAN": "صبر کنید، چرا او هنوز لباس مدرسه دارد؟ با این حال او بالغ است!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "신기하네...",
+      "ENGLISH": "That’s kinda amusing?",
+      "CHINESE_SIMPLIFIED": "真神奇...",
+      "CHINESE_TRADITIONAL": "真神奇...",
+      "JAPANESE": "不思議だな…",
+      "INDONESIAN": "Itu agak lucu, ya?",
+      "PORTUGUESE": "Isso é meio engraçado, né?",
+      "RUSSIAN": "Забавно, правда?",
+      "FRENCH": "C’est un peu drôle, non ?",
+      "THAI": "มันขำๆ ดีใช่ไหม?",
+      "PERSIAN": "این تا حدودی سرگرم کننده است؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.1
+    }
+  }
+]

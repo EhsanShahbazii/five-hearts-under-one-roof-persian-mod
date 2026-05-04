@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "다리 드세요!",
+      "ENGLISH": "Have some more!",
+      "CHINESE_SIMPLIFIED": "你吃个鸡腿吧!",
+      "CHINESE_TRADITIONAL": "你吃個雞腿吧!",
+      "JAPANESE": "骨付きの方、よかったら食べてください！",
+      "INDONESIAN": "Ambil lagi, dong!",
+      "PORTUGUESE": "Pega mais um pouco!",
+      "RUSSIAN": "Бери ещё!",
+      "FRENCH": "Sers-toi encore !",
+      "THAI": "เอาเพิ่มอีกสิ!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "대박...",
+      "ENGLISH": "Wow... ",
+      "CHINESE_SIMPLIFIED": "哇...",
+      "CHINESE_TRADITIONAL": "哇...",
+      "JAPANESE": "うわ…",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Uau...",
+      "RUSSIAN": "Вау...",
+      "FRENCH": "Wow...",
+      "THAI": "โห..."
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "역시 밍밍 님은 진짜 다정하신 거 같아요!",
+      "ENGLISH": "Mingming, you're always so considerate!",
+      "CHINESE_SIMPLIFIED": "敏敏你真的太体贴了!",
+      "CHINESE_TRADITIONAL": "敏敏你真的太體貼了!",
+      "JAPANESE": "ミンミンさん、本当に優しいですね！",
+      "INDONESIAN": "Mingming, kamu selalu perhatian banget!",
+      "PORTUGUESE": "Mingming, você sempre é tão atenciosa!",
+      "RUSSIAN": "Минг-Минг, ты всегда такой заботливый!",
+      "FRENCH": "Mingming, tu es toujours aussi attentionné !",
+      "THAI": "หมิงหมิง นายใส่ใจคนอื่นเสมอเลยนะ!"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "MBTI가 어떻게 되세요?",
+      "ENGLISH": "What’s your MBTI?",
+      "CHINESE_SIMPLIFIED": "你的MBTI是什么啊?",
+      "CHINESE_TRADITIONAL": "你的MBTI是什麼啊?",
+      "JAPANESE": "MBTI何でしたっけ？",
+      "INDONESIAN": "MBTI kamu apa?",
+      "PORTUGUESE": "Qual é o seu MBTI?",
+      "RUSSIAN": "Какой у тебя MBTI?",
+      "FRENCH": "C’est quoi ton MBTI ?",
+      "THAI": "MBTI ของนายคืออะไร?"
+    },
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "프로필 정보엔 아직 안 올라와 계시던데?",
+      "ENGLISH": "It’s not on your profile yet.",
+      "CHINESE_SIMPLIFIED": "我看你的个人情报里没有写",
+      "CHINESE_TRADITIONAL": "我看你的個人情報裏沒有寫",
+      "JAPANESE": "プロフィール情報にはまだ載っていなかったと思うんですけど。",
+      "INDONESIAN": "Belum ada di profil kamu, nih.",
+      "PORTUGUESE": "Ainda não tá no seu perfil.",
+      "RUSSIAN": "В твоём профиле его ещё нет.",
+      "FRENCH": "Ce n’est pas encore sur ton profil.",
+      "THAI": "โปรไฟล์นายยังไม่มีบอกเลย"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저 뭐일 거 같아요?",
+      "ENGLISH": "What do you think it is?",
+      "CHINESE_SIMPLIFIED": "你觉得我会是什么呢?",
+      "CHINESE_TRADITIONAL": "你覺得我會是什麼呢?",
+      "JAPANESE": "何だと思います～？",
+      "INDONESIAN": "Menurut kamu, apa tipeku?",
+      "PORTUGUESE": "O que você acha que é?",
+      "RUSSIAN": "Как думаешь, какой он?",
+      "FRENCH": "D’après toi, c’est quoi ?",
+      "THAI": "คิดว่าเป็นแบบไหนล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.3
+    }
+  }
+]

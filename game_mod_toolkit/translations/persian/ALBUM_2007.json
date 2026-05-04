@@ -1,0 +1,450 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 뒤에 같이 타요!",
+      "ENGLISH": "Yuman, sit with me in the back seat!",
+      "CHINESE_SIMPLIFIED": "宥万！一起坐后排吧！",
+      "CHINESE_TRADITIONAL": "宥萬！一起坐後排吧！",
+      "JAPANESE": "ユマンさん！一緒に乗りましょうよ！",
+      "INDONESIAN": "Yuman, duduk sama aku di kursi belakang!",
+      "PORTUGUESE": "Yuman, senta comigo no banco de trás!",
+      "RUSSIAN": "Юман, сядь со мной на заднее сиденье!",
+      "FRENCH": "Yuman, assieds-toi avec moi à l’arrière !",
+      "THAI": "ยูมัน, มานั่งกับฉันที่เบาะหลัง!",
+      "PERSIAN": "یومان، با من در صندلی عقب بنشین!"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "갑자기 여기 들어오니깐 바람이 부네~",
+      "ENGLISH": "Feels like the wind’s picking up now that I’m here~",
+      "CHINESE_SIMPLIFIED": "我们刚进到这里就突然刮风了诶~",
+      "CHINESE_TRADITIONAL": "我們剛進到這裏就突然颳風了誒~",
+      "JAPANESE": "急に、ここにいたら風が吹いてきました〜",
+      "INDONESIAN": "Rasanya angin mulai berhembus sejak aku di sini~",
+      "PORTUGUESE": "Parece que o vento ficou mais forte desde que eu cheguei~",
+      "RUSSIAN": "Похоже, ветер поднялся теперь, когда я здесь~",
+      "FRENCH": "On dirait que le vent s’est levé maintenant que je suis là~",
+      "THAI": "รู้สึกเหมือนลมเริ่มพัดแรงขึ้นเพราะฉันมาอยู่ตรงนี้~",
+      "PERSIAN": "الان که اینجا هستم احساس می کنم باد در حال تند شدن است"
+    },
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 37.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "여기 전과 3범~ 여기 전과 7범~ (제작진을 놀리는 말숙)",
+      "ENGLISH": "We’ve got a three-time offender here, and over there is a seven-time offender! \n(Mal-sook teasing the production staff)",
+      "CHINESE_SIMPLIFIED": "这里有3次前科~ 这里有7次前科~ (戏弄制作组的末淑)",
+      "CHINESE_TRADITIONAL": "這裏有3次前科~ 這裏有7次前科~ (戲弄製作組的末淑)",
+      "JAPANESE": "紹介します。こちらは前科3犯。 そしてこちらは前科7犯 (スタッフをからかうマルスク)",
+      "INDONESIAN": "Di sini ada pelanggar tiga kali, dan di sana ada pelanggar tujuh kali! \n(Mal-sook menggoda staf produksi)",
+      "PORTUGUESE": "Aqui temos um infrator de três vezes, e ali um infrator de sete vezes! \n(Mal-sook provocando a equipe de produção)",
+      "RUSSIAN": "У нас тут трижды нарушитель, а там нарушитель семь раз!",
+      "FRENCH": "On a ici un récidiviste trois fois, et là un récidiviste sept fois !",
+      "THAI": "เรามีผู้กระทำผิดสามครั้งตรงนี้ และตรงนั้นก็มีผู้กระทำผิดเจ็ดครั้ง!",
+      "PERSIAN": "ما اینجا یک مجرم سه بار داریم و یک مجرم هفت بار! (مال‌سوک کارکنان تولید را اذیت می کند)"
+    },
+    "TIME": {
+      "SHOW": 37.1,
+      "HIDE": 40.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저긴 이제 문방구 지우개 훔치다가 들어갔다 오셨어요",
+      "ENGLISH": "That one got caught stealing erasers from the stationery store.",
+      "CHINESE_SIMPLIFIED": "那边是偷文具店橡皮擦的时候进去的",
+      "CHINESE_TRADITIONAL": "那邊是偷文具店橡皮擦的時候進去的",
+      "JAPANESE": "この方は。文房具店で消しゴム盗んで捕まったらしいです。",
+      "INDONESIAN": "Yang itu ketahuan nyolong penghapus dari toko alat tulis.",
+      "PORTUGUESE": "Aquele ali foi pego roubando borrachas da papelaria.",
+      "RUSSIAN": "(Мал-сук дразнит съёмочную группу)",
+      "FRENCH": "(Mal-sook taquine l’équipe de production)",
+      "THAI": "(มัลซุกล้อเลียนทีมงาน)",
+      "PERSIAN": "اون یکی در دزدی پاک کن از فروشگاه لوازم التحریر دستگیر شد."
+    },
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 46.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저는 폭행 전과 5범입니다.",
+      "ENGLISH": "I’m a five-time offender for assault.",
+      "CHINESE_SIMPLIFIED": "我有5次施暴前科",
+      "CHINESE_TRADITIONAL": "我有5次施暴前科",
+      "JAPANESE": "私は暴行罪で前科5犯です。",
+      "INDONESIAN": "Aku pelanggar lima kali karena penyerangan.",
+      "PORTUGUESE": "Eu sou infratora cinco vezes por agressão.",
+      "RUSSIAN": "Тот поймался на краже ластиков в канцелярском магазине.",
+      "FRENCH": "Celui-là s’est fait attraper en train de voler des gommes dans la papeterie.",
+      "THAI": "คนนั้นโดนจับข้อหาขโมดยางลบจากร้านเครื่องเขียน",
+      "PERSIAN": "من پنج بار مجرم برای تجاوز هستم."
+    },
+    "TIME": {
+      "SHOW": 47.4,
+      "HIDE": 49.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "(제작진) 진짜예요?",
+      "ENGLISH": "(Production Staff) Wait, is that true?",
+      "CHINESE_SIMPLIFIED": "（制作组）是真的吗？",
+      "CHINESE_TRADITIONAL": "（製作組）是真的嗎？",
+      "JAPANESE": "(スタッフ) 本当ですか？",
+      "INDONESIAN": "(Staf Produksi) Tunggu, itu beneran?",
+      "PORTUGUESE": "(Equipe de Produção) Espera, é sério?",
+      "RUSSIAN": "А я нарушитель пять раз за нападение.",
+      "FRENCH": "Moi, je suis récidiviste cinq fois pour agression.",
+      "THAI": "ฉันเป็นผู้กระทำผิดห้าครั้งข้อหาทำร้ายร่างกาย",
+      "PERSIAN": "(کارکنان تولید) صبر کنید، این درست است؟"
+    },
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 50.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니요~",
+      "ENGLISH": "Nope!",
+      "CHINESE_SIMPLIFIED": "没有~",
+      "CHINESE_TRADITIONAL": "沒有~",
+      "JAPANESE": "違いますよ〜",
+      "INDONESIAN": "Nggak!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "(Съёмочная группа) Постойте, это правда?",
+      "FRENCH": "(Équipe de production) Attendez, c’est vrai ?",
+      "THAI": "(ทีมงาน) เดี๋ยวนะ เรื่องจริงเหรอ?",
+      "PERSIAN": "نه!"
+    },
+    "TIME": {
+      "SHOW": 50.5,
+      "HIDE": 51.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "민정: 맞아요! / 말숙: 저는 아니고...",
+      "ENGLISH": "Min-jung: Yeah, right! / Mal-sook: I'm not...",
+      "CHINESE_SIMPLIFIED": "敏静: 没错！/末淑:不是我",
+      "CHINESE_TRADITIONAL": "敏靜: 沒錯！/末淑:不是我",
+      "JAPANESE": "ミンジョン：そうですよ！ / マルスク：私は違うけど…",
+      "INDONESIAN": "Min-jung: Iya, kan! / Mal-sook: Aku nggak...",
+      "PORTUGUESE": "Min-jung: É mesmo! / Mal-sook: Não sou eu…",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "ไม่ใช่!",
+      "PERSIAN": "مین‌جونگ: آره، درسته! / مال‌سوک: من نیستم..."
+    },
+    "TIME": {
+      "SHOW": 52.0,
+      "HIDE": 53.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "(전과 5범) 맞아요 맞아요!",
+      "ENGLISH": "we’ve got a five-time offender right here!",
+      "CHINESE_SIMPLIFIED": "(有5次前科) 没错 没错！",
+      "CHINESE_TRADITIONAL": "(有5次前科) 沒錯 沒錯！",
+      "JAPANESE": "(前科5犯) そうそう！",
+      "INDONESIAN": "kita punya pelanggar lima kali di sini!",
+      "PORTUGUESE": "temos um infrator de cinco vezes aqui!",
+      "RUSSIAN": "Мин-чжун: Да ладно! / Мал-сук: Я не...",
+      "FRENCH": "Min-jung : Ouais, c’est ça ! / Mal-sook : Je ne suis pas...",
+      "THAI": "มินจอง: ใช่ซะที่ไหนล่ะ! / มัลซุก: ฉันไม่ใช่...",
+      "PERSIAN": "ما یک مجرم پنج بار در اینجا داریم!"
+    },
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 54.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "(민정이는) 꽃뱀으로 전과 6범",
+      "ENGLISH": "And Min-jung is a six-time offender for... being a femme fatale!",
+      "CHINESE_SIMPLIFIED": "敏静是花蛇，有6次前科",
+      "CHINESE_TRADITIONAL": "敏靜是花蛇，有6次前科",
+      "JAPANESE": "(ミンジョンは) 美人罪で前科6犯。",
+      "INDONESIAN": "Dan Min-jung itu pelanggar enam kali karena... jadi femme fatale!",
+      "PORTUGUESE": "E Min-jung é uma infratora de seis vezes por... ser uma femme fatale!",
+      "RUSSIAN": "у нас тут нарушитель пять раз!",
+      "FRENCH": "on a ici un récidiviste cinq fois !",
+      "THAI": "เรามีผู้กระทำผิดห้าครั้งตรงนี้!",
+      "PERSIAN": "و مین‌جونگ یک مجرم شش بار به دلیل ... بودن یک زن مهلک است!"
+    },
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 56.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "\"이런 거 싫어한다더니 엄청 보네...\"",
+      "ENGLISH": "\"Look at you, pretending not to care but checking me out!\"",
+      "CHINESE_SIMPLIFIED": "\"以为你不感兴趣，没想到看得挺起劲的嘛…\"",
+      "CHINESE_TRADITIONAL": "\"以爲你不感興趣，沒想到看得挺起勁的嘛…\"",
+      "JAPANESE": "こういうの嫌いって言ってたのに、めっちゃ見てるじゃん…",
+      "INDONESIAN": "“Lihat deh, pura-pura nggak peduli, tapi ngintip juga!”",
+      "PORTUGUESE": "“Olha só, fingindo que não se importa, mas dando aquela olhadinha!”",
+      "RUSSIAN": "А Мин-чжун — нарушитель шесть раз за... обольщение!",
+      "FRENCH": "Et Min-jung est une récidiviste six fois pour... être une femme fatale !",
+      "THAI": "แล้วมินจองก็เป็นผู้กระทำผิดหกครั้งข้อหา... เป็นสาวร้าย!",
+      "PERSIAN": "\"به تو نگاه کن، وانمود کن که اهمیتی نمی دهی، اما مرا چک می کنی!\""
+    },
+    "TIME": {
+      "SHOW": 79.6,
+      "HIDE": 81.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 나와요?",
+      "ENGLISH": "How are you still out here?",
+      "CHINESE_SIMPLIFIED": "拍的怎么样？",
+      "CHINESE_TRADITIONAL": "拍的怎麼樣？",
+      "JAPANESE": "ちゃんと、撮れました？",
+      "INDONESIAN": "Kok kamu masih bisa bebas di sini?",
+      "PORTUGUESE": "Como você ainda tá solto por aí?",
+      "RUSSIAN": "«Смотри-ка, делаешь вид, что всё равно, но всё же поглядываешь на меня!»",
+      "FRENCH": "« Regarde-toi, tu fais semblant de ne pas faire attention mais tu me regardes ! »",
+      "THAI": "“ดูสิ เธอทำเหมือนว่าไม่สนใจ แต่แอบมองอยู่!”",
+      "PERSIAN": "چطوری هنوز اینجایی؟"
+    },
+    "TIME": {
+      "SHOW": 93.7,
+      "HIDE": 95.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "약간... 뉴진스 같다",
+      "ENGLISH": "You kind of remind me of NewJeans!",
+      "CHINESE_SIMPLIFIED": "有点... 像NEW JINS",
+      "CHINESE_TRADITIONAL": "有點... 像NEW JINS",
+      "JAPANESE": "何か…New Jeansみたいですね。",
+      "INDONESIAN": "Kamu agak ngingetin aku sama NewJeans!",
+      "PORTUGUESE": "Você me lembra um pouco o NewJeans!",
+      "RUSSIAN": "Как ты ещё здесь находишься?",
+      "FRENCH": "Comment tu es encore là ?",
+      "THAI": "เธอยังออกมาอยู่ตรงนี้ได้ยังไง?",
+      "PERSIAN": "یه جورایی منو یاد نیو جین میندازی!"
+    },
+    "TIME": {
+      "SHOW": 98.5,
+      "HIDE": 100.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "안 추워요 언니?",
+      "ENGLISH": "Aren’t you cold?",
+      "CHINESE_SIMPLIFIED": "姐姐不冷吗？",
+      "CHINESE_TRADITIONAL": "姐姐不冷嗎？",
+      "JAPANESE": "寒くないですか？",
+      "INDONESIAN": "Kamu nggak kedinginan?",
+      "PORTUGUESE": "Você não tá com frio?",
+      "RUSSIAN": "Ты немного напоминаешь мне NewJeans!",
+      "FRENCH": "Tu me fais un peu penser à NewJeans !",
+      "THAI": "เธอทำให้ฉันนึกถึง NewJeans นิดหน่อย!",
+      "PERSIAN": "سردت نیست؟"
+    },
+    "TIME": {
+      "SHOW": 123.2,
+      "HIDE": 124.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "비슷한 처지...",
+      "ENGLISH": "Same situation here...",
+      "CHINESE_SIMPLIFIED": "咱俩穿的差不多吧",
+      "CHINESE_TRADITIONAL": "咱倆穿的差不多吧",
+      "JAPANESE": "私たち、似た者同士だね。",
+      "INDONESIAN": "Sama juga nih keadaannya...",
+      "PORTUGUESE": "Aqui tá igual...",
+      "RUSSIAN": "Тебе не холодно?",
+      "FRENCH": "T’as pas froid ?",
+      "THAI": "หนาวไหม?",
+      "PERSIAN": "اینجا هم همین وضعیت..."
+    },
+    "TIME": {
+      "SHOW": 126.0,
+      "HIDE": 127.8
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 빨리 빨리 빨리 빨리!",
+      "ENGLISH": "Quick, quick, quick, quick, quick!",
+      "CHINESE_SIMPLIFIED": "快点，快点，快点！",
+      "CHINESE_TRADITIONAL": "快點，快點，快點！",
+      "JAPANESE": "早く、早く！",
+      "INDONESIAN": "Cepet, cepet, cepet, cepet, cepet!",
+      "PORTUGUESE": "Rápido, rápido, rápido, rápido, rápido!",
+      "RUSSIAN": "Та же ситуация здесь...",
+      "FRENCH": "Même situation ici...",
+      "THAI": "เหมือนกันเลย...",
+      "PERSIAN": "سریع، سریع، سریع، سریع، سریع!"
+    },
+    "TIME": {
+      "SHOW": 163.4,
+      "HIDE": 164.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "\"화보 찍을 때만 입다가 이렇게 간만에 입으니까 어색하다...\"",
+      "ENGLISH": "\"It feels weird wearing this again, after only putting it on for photoshoots...\"",
+      "CHINESE_SIMPLIFIED": "\"我只在拍海报的时候穿过这种衣服这么突然一穿还有点尴尬…\"",
+      "CHINESE_TRADITIONAL": "\"我只在拍海報的時候穿過這種衣服這麼突然一穿還有點尷尬…\"",
+      "JAPANESE": "撮影の時にしか着ないから、久しぶりに着ると、何だか違和感あるなぁ…",
+      "INDONESIAN": "“Rasanya aneh pakai ini lagi, biasanya cuma buat pemotretan...”",
+      "PORTUGUESE": "“Parece estranho vestir isso de novo, depois de só usar em ensaios fotográficos…”",
+      "RUSSIAN": "Быстро, быстро, быстро, быстро, быстро!",
+      "FRENCH": "Vite, vite, vite, vite, vite !",
+      "THAI": "เร็วๆ เร็วๆ เร็วๆ เร็วๆ!",
+      "PERSIAN": "پوشیدن دوباره اون احساس عجیبی دارد، بعد از اینکه اونو فقط برای عکاسی گذاشتم..."
+    },
+    "TIME": {
+      "SHOW": 168.2,
+      "HIDE": 172.2
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "\"꼼꼼히 잘 발라주세요!\"",
+      "ENGLISH": "\"Can you make sure to apply it thoroughly?\"",
+      "CHINESE_SIMPLIFIED": "\"你涂的时候可以轻一点吗?\"",
+      "CHINESE_TRADITIONAL": "\"你塗的時候可以輕一點嗎?\"",
+      "JAPANESE": "ちゃんと、塗ってくださいね！",
+      "INDONESIAN": "“Kamu bisa pastikan olesnya merata?”",
+      "PORTUGUESE": "“Você pode passar direitinho, por favor?”",
+      "RUSSIAN": "«Странно снова надевать это, ведь раньше я надевала только для фотосессий...»",
+      "FRENCH": "« Ça fait bizarre de porter ça de nouveau, alors que je l’avais mis que pour des séances photo... »",
+      "THAI": "“มันรู้สึกแปลกที่ใส่อีกครั้ง หลังจากใส่แค่ตอนถ่ายแบบ...”",
+      "PERSIAN": "\"می توانید مطمئن شوید که اونو به طور کامل اعمال می کنید؟\""
+    },
+    "TIME": {
+      "SHOW": 172.5,
+      "HIDE": 174.4
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "입술도 한 번~ 깨물었어요~",
+      "ENGLISH": "Even bit my lip for it~",
+      "CHINESE_SIMPLIFIED": "我还咬了一下嘴唇~",
+      "CHINESE_TRADITIONAL": "我還咬了一下嘴脣~",
+      "JAPANESE": "唇もちゃんと、かみながら撮りましたよ～",
+      "INDONESIAN": "Sampai aku gigit bibir buat ini~",
+      "PORTUGUESE": "Até mordi o lábio por isso~",
+      "RUSSIAN": "«Ты можешь убедиться, что нанесла это тщательно?»",
+      "FRENCH": "« Tu peux t’assurer de bien l’appliquer partout ? »",
+      "THAI": "“ช่วยทาให้ทั่วด้วยนะ?”",
+      "PERSIAN": "حتی لبم را به خاطرش گاز گرفت"
+    },
+    "TIME": {
+      "SHOW": 176.2,
+      "HIDE": 178.9
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "근데 잘 나온 것 같아요!",
+      "ENGLISH": "It actually came out pretty good!",
+      "CHINESE_SIMPLIFIED": "但是感觉拍得很好！",
+      "CHINESE_TRADITIONAL": "但是感覺拍得很好！",
+      "JAPANESE": "でも、いい感じに撮れたよね！",
+      "INDONESIAN": "Ternyata hasilnya lumayan bagus!",
+      "PORTUGUESE": "Até que saiu bem legal!",
+      "RUSSIAN": "Даже прикусила губу ради этого~",
+      "FRENCH": "J’ai même mordu ma lèvre pour ça~",
+      "THAI": "ฉันถึงกับกัดริมฝีปากเพื่อมัน~",
+      "PERSIAN": "در واقع خیلی خوب بیرون آمد!"
+    },
+    "TIME": {
+      "SHOW": 180.0,
+      "HIDE": 182.0
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "이게 더 자연스럽잖아요!",
+      "ENGLISH": "It looks more natural this way!",
+      "CHINESE_SIMPLIFIED": "这样更自然嘛！",
+      "CHINESE_TRADITIONAL": "這樣更自然嘛！",
+      "JAPANESE": "こっちの方が自然だし",
+      "INDONESIAN": "Kelihatannya lebih alami gini!",
+      "PORTUGUESE": "Fica mais natural assim!",
+      "RUSSIAN": "На самом деле вышло довольно хорошо!",
+      "FRENCH": "Ça a vraiment bien rendu !",
+      "THAI": "ออกมาดูดีจริงๆ ด้วย!",
+      "PERSIAN": "اینجوری طبیعی تر به نظر میرسه!"
+    },
+    "TIME": {
+      "SHOW": 182.0,
+      "HIDE": 183.5
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "아니 자연스러워서!",
+      "ENGLISH": "Yeah, it’s definitely more natural.",
+      "CHINESE_SIMPLIFIED": "因为更自然才咬的嘴唇！",
+      "CHINESE_TRADITIONAL": "因爲更自然才咬的嘴脣！",
+      "JAPANESE": "いい感じだと思います！",
+      "INDONESIAN": "Iya, lebih alami pastinya.",
+      "PORTUGUESE": "Sim, definitivamente mais natural.",
+      "RUSSIAN": "Так выглядит более естественно!",
+      "FRENCH": "Ça a l’air plus naturel comme ça !",
+      "THAI": "มันดูเป็นธรรมชาติมากขึ้น!",
+      "PERSIAN": "بله، قطعا طبیعی تر است."
+    },
+    "TIME": {
+      "SHOW": 183.5,
+      "HIDE": 185.0
+    }
+  },
+  {
+    "SCRIPT": {
+      "RUSSIAN": "Да, определённо естественнее.",
+      "FRENCH": "Oui, c’est définitivement plus naturel.",
+      "THAI": "ใช่, ธรรมชาติขึ้นเยอะเลย.",
+      "PERSIAN": "آره، اینجوری خیلی طبیعی‌تره."
+    }
+  }
+]

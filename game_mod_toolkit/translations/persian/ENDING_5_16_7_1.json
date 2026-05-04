@@ -1,0 +1,897 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "다들 뭐 하는 거예요!",
+      "ENGLISH": "What’s everyone doing?!",
+      "CHINESE_SIMPLIFIED": "你们这是干什么?",
+      "CHINESE_TRADITIONAL": "你們這是幹什麼?",
+      "JAPANESE": "ちょっと、みんな何してるんですか！",
+      "INDONESIAN": "Apa yang kalian lakukan?!",
+      "PORTUGUESE": "O que vocês estão fazendo?!",
+      "RUSSIAN": "Что все делают?!",
+      "FRENCH": "Qu’est-ce que tout le monde fait ?!",
+      "THAI": "ทุกคนทำอะไรกัน?!",
+      "PERSIAN": "همه چیکار میکنن؟!"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 집에서 싸움은 안 됩니다!",
+      "ENGLISH": "No fighting in my house!",
+      "CHINESE_SIMPLIFIED": "在我家不可以吵架!",
+      "CHINESE_TRADITIONAL": "在我家不可以吵架!",
+      "JAPANESE": "僕の家でケンカしないでください！",
+      "INDONESIAN": "Jangan bertengkar di rumahku!",
+      "PORTUGUESE": "Nada de brigas na minha casa!",
+      "RUSSIAN": "Никаких драк в моём доме!",
+      "FRENCH": "Pas de bagarres dans ma maison !",
+      "THAI": "ห้ามทะเลาะกันในบ้านของฉัน!",
+      "PERSIAN": "دعوا در خونه من نیست!"
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안해.",
+      "ENGLISH": "Sorry.",
+      "CHINESE_SIMPLIFIED": "对不起",
+      "CHINESE_TRADITIONAL": "對不起",
+      "JAPANESE": "ごめんなさい。",
+      "INDONESIAN": "Maaf.",
+      "PORTUGUESE": "Desculpa.",
+      "RUSSIAN": "Простите.",
+      "FRENCH": "Désolée.",
+      "THAI": "ขอโทษค่ะ.",
+      "PERSIAN": "متاسفم"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "남의 집에서 언성 높여서.",
+      "ENGLISH": "for raising my voice in someone else’s home.",
+      "CHINESE_SIMPLIFIED": "我们在别人家还这么大声",
+      "CHINESE_TRADITIONAL": "我們在別人家還這麼大聲",
+      "JAPANESE": "他人の家で大声出して…",
+      "INDONESIAN": "Karena mengeraskan suara di rumah orang lain.",
+      "PORTUGUESE": "Por ter levantado a voz na casa de outra pessoa.",
+      "RUSSIAN": "за то, что повысила голос в чужом доме.",
+      "FRENCH": "d’avoir haussé la voix chez quelqu’un d’autre.",
+      "THAI": "ที่ขึ้นเสียงในบ้านของคนอื่น",
+      "PERSIAN": "برای بلند کردن صدایم در خونه دیگران"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.75
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아니요!",
+      "ENGLISH": "No!",
+      "CHINESE_SIMPLIFIED": "不是",
+      "CHINESE_TRADITIONAL": "不是",
+      "JAPANESE": "いえ！",
+      "INDONESIAN": "Enggak!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "ไม่!",
+      "PERSIAN": "No!"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "여러분들을 이렇게 방치한",
+      "ENGLISH": "It’s my fault for leaving you all",
+      "CHINESE_SIMPLIFIED": "是我没照顾好你们",
+      "CHINESE_TRADITIONAL": "是我沒照顧好你們",
+      "JAPANESE": "皆さんをこうしてほったらかしていた",
+      "INDONESIAN": "Ini salahku karena ninggalin kalian semua",
+      "PORTUGUESE": "A culpa é minha por deixar vocês todos",
+      "RUSSIAN": "Это моя вина, что я оставил вас всех",
+      "FRENCH": "C’est de ma faute de vous avoir laissés",
+      "THAI": "มันเป็นความผิดของฉันเองที่ปล่อยให้พวกเธอ",
+      "PERSIAN": "تقصیر من است که همه شما را ترک کردم"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "바보 같은 제 탓입니다.",
+      "ENGLISH": "to deal with this on your own. I’m such an idiot.",
+      "CHINESE_SIMPLIFIED": "都是我的错…",
+      "CHINESE_TRADITIONAL": "都是我的錯…",
+      "JAPANESE": "僕が悪いんです。",
+      "INDONESIAN": "buat ngurus ini sendiri. Aku bodoh banget.",
+      "PORTUGUESE": "lidarem com isso sozinhos. Eu sou tão idiota.",
+      "RUSSIAN": "разбираться с этим самим. Я такой идиот.",
+      "FRENCH": "gérer ça tout seuls. Je suis tellement idiot.",
+      "THAI": "จัดการเรื่องนี้กันเอง ฉันมันโง่จริงๆ",
+      "PERSIAN": "برای مقابله با این موضوع به تنهایی من اینقدر احمقم"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "바보! 바보 우유만!",
+      "ENGLISH": "Stupid Yuman! Stupid!",
+      "CHINESE_SIMPLIFIED": "傻子",
+      "CHINESE_TRADITIONAL": "傻子",
+      "JAPANESE": "バカ！バカ！ウ・ユマン！",
+      "INDONESIAN": "Bodoh, Yuman! Bodoh!",
+      "PORTUGUESE": "Idiota, Yuman! Idiota!",
+      "RUSSIAN": "Глупый Юман! Глупый!",
+      "FRENCH": "Stupide Yuman ! Stupide !",
+      "THAI": "ยูมันโง่! โง่จริงๆ!",
+      "PERSIAN": "یومان احمق! احمق!"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "바보! 바보!",
+      "ENGLISH": "Yuman! Stupid!",
+      "CHINESE_SIMPLIFIED": "吴宥万你这个大傻子!",
+      "CHINESE_TRADITIONAL": "吳宥萬你這個大傻子!",
+      "JAPANESE": "バカ！バカ！",
+      "INDONESIAN": "Yuman! Bodoh!",
+      "PORTUGUESE": "Yuman! Idiota!",
+      "RUSSIAN": "Юман! Глупый!",
+      "FRENCH": "Yuman ! Stupide !",
+      "THAI": "ยูมัน! โง่!",
+      "PERSIAN": "یومان! احمق!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "야 뭐 그렇게까지 해",
+      "ENGLISH": "Okay, don’t go that far...",
+      "CHINESE_SIMPLIFIED": "哎呀，不至于",
+      "CHINESE_TRADITIONAL": "哎呀，不至於",
+      "JAPANESE": "おい、そこまですることないでしょ！",
+      "INDONESIAN": "Oke, jangan sampai segitunya...",
+      "PORTUGUESE": "Certo, não vai tão longe assim...",
+      "RUSSIAN": "Ладно, не надо так уж...",
+      "FRENCH": "Bon, n’exagère pas...",
+      "THAI": "โอเค อย่ารุนแรงขนาดนั้นเลย...",
+      "PERSIAN": "باشه انقدر دور نرو..."
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 오빠 뭐 하는 거야! 빨리 일어나!",
+      "ENGLISH": "Oppa, what are you doing? Get up already! ",
+      "CHINESE_SIMPLIFIED": "哥哥你这是干什么?还不赶紧起来!",
+      "CHINESE_TRADITIONAL": "哥哥你這是幹什麼?還不趕緊起來!",
+      "JAPANESE": "あ、お兄ちゃん！何してんの！早く起きて！",
+      "INDONESIAN": "Oppa, kamu ngapain sih? Cepetan bangun!",
+      "PORTUGUESE": "Oppa, o que você tá fazendo? Levanta logo!",
+      "RUSSIAN": "Оппа, что ты делаешь? Вставай уже!",
+      "FRENCH": "Oppa, qu’est-ce que tu fais ? Lève-toi !",
+      "THAI": "พี่ ทำอะไรอยู่น่ะ? ลุกขึ้นมาได้แล้ว!",
+      "PERSIAN": "یومان، چه کار می کنی؟ از قبل برخیز!"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "다 오빠 탓이야... ",
+      "ENGLISH": "This is all my fault...",
+      "CHINESE_SIMPLIFIED": "都是我的错…",
+      "CHINESE_TRADITIONAL": "都是我的錯…",
+      "JAPANESE": "全部お兄ちゃんのせいだよ…",
+      "INDONESIAN": "Ini semua salahku...",
+      "PORTUGUESE": "Isso tudo é culpa minha...",
+      "RUSSIAN": "Это всё моя вина...",
+      "FRENCH": "C’est toute ma faute...",
+      "THAI": "นี่มันเป็นความผิดของฉันทั้งหมด...",
+      "PERSIAN": "همش تقصیر منه..."
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "죄많은 남자...",
+      "ENGLISH": "I'm a sinful man...",
+      "CHINESE_SIMPLIFIED": "我是个戴罪之人…",
+      "CHINESE_TRADITIONAL": "我是個戴罪之人…",
+      "JAPANESE": "罪深い男…",
+      "INDONESIAN": "Aku orang penuh dosa...",
+      "PORTUGUESE": "Sou um homem pecador...",
+      "RUSSIAN": "Я грешный человек...",
+      "FRENCH": "Je suis un homme pécheur...",
+      "THAI": "ฉันมันคนบาป...",
+      "PERSIAN": "من یک مرد گناهکارم..."
+    },
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그게 왜 유만 님 탓이에요!",
+      "ENGLISH": "Why is this Yuman’s fault?!",
+      "CHINESE_SIMPLIFIED": "这怎么能是你的错呢!",
+      "CHINESE_TRADITIONAL": "這怎麼能是你的錯呢!",
+      "JAPANESE": "それが何でユマンさんのせいなんですか！",
+      "INDONESIAN": "Kenapa ini salah Yuman?!",
+      "PORTUGUESE": "Por que isso é culpa do Yuman?!",
+      "RUSSIAN": "Почему это вина Юмана?!",
+      "FRENCH": "Pourquoi это la faute de Yuman ?!",
+      "THAI": "ทำไมถึงเป็นความผิดของยูมันล่ะ?!",
+      "PERSIAN": "چرا این تقصیر یومان است؟!"
+    },
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 22.47
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 일어나세요!",
+      "ENGLISH": "Come on, get up already!",
+      "CHINESE_SIMPLIFIED": "赶快起来吧!",
+      "CHINESE_TRADITIONAL": "趕快起來吧!",
+      "JAPANESE": "早く起きてください！",
+      "INDONESIAN": "Ayo, bangun cepat!",
+      "PORTUGUESE": "Anda, levanta logo!",
+      "RUSSIAN": "Давай, вставай уже!",
+      "FRENCH": "Allez, lève-toi !",
+      "THAI": "มาเถอะ ลุกขึ้นมาได้แล้ว!",
+      "PERSIAN": "بیا، از قبل برخیز!"
+    },
+    "TIME": {
+      "SHOW": 22.47,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요...",
+      "ENGLISH": "It's not that... ",
+      "CHINESE_SIMPLIFIED": "不是的",
+      "CHINESE_TRADITIONAL": "不是的",
+      "JAPANESE": "いや、",
+      "INDONESIAN": "Bukan itu...",
+      "PORTUGUESE": "Não é bem isso...",
+      "RUSSIAN": "Дело не в этом...",
+      "FRENCH": "Ce n’est pas ça...",
+      "THAI": "มันไม่ใช่อย่างนั้น...",
+      "PERSIAN": "این نیست که..."
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "여러분이 싸우는 건",
+      "ENGLISH": "No... It’s all my fault.",
+      "CHINESE_SIMPLIFIED": "都是因为我做得不够好",
+      "CHINESE_TRADITIONAL": "都是因爲我做得不夠好",
+      "JAPANESE": "みんながケンカするのは、",
+      "INDONESIAN": "Enggak... Ini semua salahku.",
+      "PORTUGUESE": "Não... É tudo culpa minha.",
+      "RUSSIAN": "Нет... Всё моя вина.",
+      "FRENCH": "Non... Tout est ma faute.",
+      "THAI": "ไม่... ทั้งหมดนี้เป็นความผิดของฉันเอง",
+      "PERSIAN": "نه... همش تقصیر منه."
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.1
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "다 제가 부족한 탓입니다.",
+      "ENGLISH": "You’re fighting because I’m lacking.",
+      "CHINESE_SIMPLIFIED": "所以大家才会吵架",
+      "CHINESE_TRADITIONAL": "所以大家纔會吵架",
+      "JAPANESE": "僕の力不足が原因です。",
+      "INDONESIAN": "Kalian berantem karena aku kurang.",
+      "PORTUGUESE": "Vocês estão brigando porque eu sou insuficiente.",
+      "RUSSIAN": "Вы ссоритесь, потому что мне чего-то не хватает.",
+      "FRENCH": "Vous vous disputez parce que je не suis pas assez.",
+      "THAI": "พวกเธอทะเลาะกันเพราะฉันมันไม่ดีพอ",
+      "PERSIAN": "تو میجنگی چون من کم دارم"
+    },
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 28.2
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "죄송합니다.",
+      "ENGLISH": "I'm sorry.",
+      "CHINESE_SIMPLIFIED": "对不起!",
+      "CHINESE_TRADITIONAL": "對不起!",
+      "JAPANESE": "すいませんでした。",
+      "INDONESIAN": "Maafkan aku.",
+      "PORTUGUESE": "Desculpa.",
+      "RUSSIAN": "Извините меня.",
+      "FRENCH": "Je suis désolé.",
+      "THAI": "ฉันขอโทษนะ",
+      "PERSIAN": "I'm sorry."
+    },
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 죄송한데?",
+      "ENGLISH": "Sorry for what?",
+      "CHINESE_SIMPLIFIED": "哪里对不起了?",
+      "CHINESE_TRADITIONAL": "哪裏對不起了?",
+      "JAPANESE": "何が「すいませんでした」なの？",
+      "INDONESIAN": "Maaf buat apa?",
+      "PORTUGUESE": "Desculpa pelo quê?",
+      "RUSSIAN": "За что ты извиняешься?",
+      "FRENCH": "Désolé de quoi ?",
+      "THAI": "ขอโทษเรื่องอะไร?",
+      "PERSIAN": "متاسفم برای چی؟"
+    },
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 31.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หือ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 32.6
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 죄송하냐고 그래서.",
+      "ENGLISH": "I asked, what are you sorry for?",
+      "CHINESE_SIMPLIFIED": "你哪里对不起我们了?",
+      "CHINESE_TRADITIONAL": "你哪裏對不起我們了?",
+      "JAPANESE": "何が「全部」なのよ。",
+      "INDONESIAN": "Aku tanya, maaf buat apa?",
+      "PORTUGUESE": "Eu perguntei, desculpa pelo quê?",
+      "RUSSIAN": "Я спросила, за что ты извиняешься?",
+      "FRENCH": "Je t’ai demandé, de quoi tu es désolé ?",
+      "THAI": "ฉันถามว่าเธอขอโทษเรื่องอะไร?",
+      "PERSIAN": "پرسیدم برای چی متاسفید؟"
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 35.2
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "전부...",
+      "ENGLISH": "For everything...",
+      "CHINESE_SIMPLIFIED": "全都对不起…",
+      "CHINESE_TRADITIONAL": "全都對不起…",
+      "JAPANESE": "全部…",
+      "INDONESIAN": "Buat semuanya...",
+      "PORTUGUESE": "Por tudo...",
+      "RUSSIAN": "За всё...",
+      "FRENCH": "Pour tout...",
+      "THAI": "ทุกอย่าง...",
+      "PERSIAN": "برای همه چیز..."
+    },
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "전부 뭐.",
+      "ENGLISH": "Everything? ",
+      "CHINESE_SIMPLIFIED": "全都是指什么?",
+      "CHINESE_TRADITIONAL": "全都是指什麼?",
+      "JAPANESE": "だから、全部って何？",
+      "INDONESIAN": "Semuanya?",
+      "PORTUGUESE": "Tudo?",
+      "RUSSIAN": "Всё?",
+      "FRENCH": "Tout ?",
+      "THAI": "ทุกอย่าง?",
+      "PERSIAN": "همه چیز؟"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.6
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "다...?",
+      "ENGLISH": "For everything I’ve done.",
+      "CHINESE_SIMPLIFIED": "所有的一切…",
+      "CHINESE_TRADITIONAL": "所有的一切…",
+      "JAPANESE": "全部...？",
+      "INDONESIAN": "Buat semua yang udah kulakukan.",
+      "PORTUGUESE": "Por tudo que eu fiz.",
+      "RUSSIAN": "За всё, что я сделал.",
+      "FRENCH": "Pour tout ce que j’ai fait.",
+      "THAI": "ทุกสิ่งที่ฉันทำ",
+      "PERSIAN": "برای هر کاری که انجام داده ام"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 39.7
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 죄송하냐고 묻는데 다가 뭐야!",
+      "ENGLISH": "What do you mean by everything?",
+      "CHINESE_SIMPLIFIED": "问你哪错了, 什么叫全都错了啊!",
+      "CHINESE_TRADITIONAL": "問你哪錯了, 什麼叫全都錯了啊!",
+      "JAPANESE": "何がって聞いてるのに、全部って何なのよ！",
+      "INDONESIAN": "Apa maksudmu dengan semuanya?",
+      "PORTUGUESE": "O que você quer dizer com tudo?",
+      "RUSSIAN": "Что ты имеешь в виду под \"всё\"?",
+      "FRENCH": "Qu’est-ce que tu veux dire par tout ?",
+      "THAI": "หมายความว่ายังไงที่บอกว่าทุกอย่าง?",
+      "PERSIAN": "منظورت از همه چیز چیه؟"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 42.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "한심해 진짜!",
+      "ENGLISH": "You’re pathetic.",
+      "CHINESE_SIMPLIFIED": "真下头",
+      "CHINESE_TRADITIONAL": "真下頭",
+      "JAPANESE": "はっきりしないヤツ！",
+      "INDONESIAN": "Kamu menyedihkan.",
+      "PORTUGUESE": "Você é patético.",
+      "RUSSIAN": "Ты жалкий.",
+      "FRENCH": "Tu es pathétique.",
+      "THAI": "น่าสมเพชจริงๆ",
+      "PERSIAN": "تو رقت انگیزی"
+    },
+    "TIME": {
+      "SHOW": 43.3,
+      "HIDE": 44.8
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "내가 저런 걸 왜 좋아해가지고.",
+      "ENGLISH": "Why did I even like you?",
+      "CHINESE_SIMPLIFIED": "也不知道我喜欢上他什么了",
+      "CHINESE_TRADITIONAL": "也不知道我喜歡上他什麼了",
+      "JAPANESE": "どうしてこんなの好きになっちゃったんだろ…",
+      "INDONESIAN": "Kenapa aku bisa suka sama kamu?",
+      "PORTUGUESE": "Por que eu gostei de você?",
+      "RUSSIAN": "Почему я вообще тебя полюбила?",
+      "FRENCH": "Pourquoi j’ai même eu le béguin pour toi ?",
+      "THAI": "ทำไมฉันถึงเคยชอบเธอด้วยซ้ำ?",
+      "PERSIAN": "اصلا چرا دوستت داشتم؟"
+    },
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 46.9
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비",
+      "ENGLISH": "Hey, Eun-bi",
+      "CHINESE_SIMPLIFIED": "喂!高恩妃",
+      "CHINESE_TRADITIONAL": "喂!高恩妃",
+      "JAPANESE": "ねえ、ウンビ。",
+      "INDONESIAN": "Hei, Eun-bi",
+      "PORTUGUESE": "Ei, Eun-bi",
+      "RUSSIAN": "Эй, Ын-би,",
+      "FRENCH": "Hé, Eun-bi,",
+      "THAI": "เฮ้ อึนบี",
+      "PERSIAN": "هی، یون بی"
+    },
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 48.0
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "너 저래도 쟤가 좋아?",
+      "ENGLISH": "Do you still like him after all this?",
+      "CHINESE_SIMPLIFIED": "就这个德性你也喜欢?",
+      "CHINESE_TRADITIONAL": "就這個德性你也喜歡?",
+      "JAPANESE": "こんなヤツ好きなの？",
+      "INDONESIAN": "Apa kamu masih suka sama dia setelah semua ini?",
+      "PORTUGUESE": "Você ainda gosta dele depois de tudo isso?",
+      "RUSSIAN": "ты всё ещё любишь его после всего этого?",
+      "FRENCH": "tu l’aimes encore après tout ça ?",
+      "THAI": "เธอยังชอบเขาอยู่หลังจากเรื่องทั้งหมดนี้เหรอ?",
+      "PERSIAN": "بعد از این همه هنوز دوستش داری؟"
+    },
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 49.2
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "언니가 먼저 더 좋아했거든?",
+      "ENGLISH": "I liked him first, okay?",
+      "CHINESE_SIMPLIFIED": "是姐姐先喜欢的!",
+      "CHINESE_TRADITIONAL": "是姐姐先喜歡的!",
+      "JAPANESE": "お姉ちゃんが先に好きになったんだからね！",
+      "INDONESIAN": "Aku yang duluan suka sama dia, oke?",
+      "PORTUGUESE": "Eu que gostei dele primeiro, tá?",
+      "RUSSIAN": "Я его первая полюбила, ясно?",
+      "FRENCH": "Je l’ai aimé la première, d’accord ?",
+      "THAI": "ฉันชอบเขาก่อนนะ เข้าใจไหม?",
+      "PERSIAN": "من اول از او خوشم آمد، باشه؟"
+    },
+    "TIME": {
+      "SHOW": 49.8,
+      "HIDE": 51.9
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "근데...",
+      "ENGLISH": "But...",
+      "CHINESE_SIMPLIFIED": "不过",
+      "CHINESE_TRADITIONAL": "不過",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Tapi...",
+      "PORTUGUESE": "Mas...",
+      "RUSSIAN": "Но...",
+      "FRENCH": "Mais...",
+      "THAI": "แต่...",
+      "PERSIAN": "اما..."
+    },
+    "TIME": {
+      "SHOW": 52.0,
+      "HIDE": 53.1
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "어디서 쉰내 나는 거 같지 않아요?",
+      "ENGLISH": "Is it just me or does something smell off in here?",
+      "CHINESE_SIMPLIFIED": "这里好像有股怪味?",
+      "CHINESE_TRADITIONAL": "這裏好像有股怪味?",
+      "JAPANESE": "何か臭くないですか？",
+      "INDONESIAN": "Apa cuma aku atau ini beneran bau?",
+      "PORTUGUESE": "Sou só eu ou tem algo fedendo aqui?",
+      "RUSSIAN": "Это только мне кажется, или тут что-то странно пахнет?",
+      "FRENCH": "C’est moi ou ça sent bizarre ici ?",
+      "THAI": "หรือเป็นแค่ฉันที่รู้สึกว่ามีกลิ่นแปลกๆ ในนี้?",
+      "PERSIAN": "فقط من هستم یا چیزی اینجا بویی می دهد؟"
+    },
+    "TIME": {
+      "SHOW": 53.1,
+      "HIDE": 56.1
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 56.7,
+      "HIDE": 58.0
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "근데 얼굴이 원래 이렇게 컸나?",
+      "ENGLISH": "Did his face always look this big?",
+      "CHINESE_SIMPLIFIED": "不过他本来脸就这么大吗?",
+      "CHINESE_TRADITIONAL": "不過他本來臉就這麼大嗎?",
+      "JAPANESE": "それに、顔こんなに大きかったっけ？",
+      "INDONESIAN": "Mukanya selalu segede ini ya?",
+      "PORTUGUESE": "O rosto dele sempre foi tão grande assim?",
+      "RUSSIAN": "Его лицо всегда было таким большим?",
+      "FRENCH": "Son visage a toujours été aussi gros ?",
+      "THAI": "หน้าของเขาเคยใหญ่ขนาดนี้ไหม?",
+      "PERSIAN": "صورتش همیشه اینقدر بزرگ به نظر می رسید؟"
+    },
+    "TIME": {
+      "SHOW": 58.8,
+      "HIDE": 60.6
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "왜 이렇게 커?",
+      "ENGLISH": "It looks huge.",
+      "CHINESE_SIMPLIFIED": "怎么这么大啊?",
+      "CHINESE_TRADITIONAL": "怎麼這麼大啊?",
+      "JAPANESE": "何でこんなに大きいの？",
+      "INDONESIAN": "Kelihatan gede banget.",
+      "PORTUGUESE": "Parece enorme.",
+      "RUSSIAN": "Оно кажется огромным.",
+      "FRENCH": "Il a l’air énorme.",
+      "THAI": "มันดูใหญ่มากเลย",
+      "PERSIAN": "بزرگ به نظر می رسد."
+    },
+    "TIME": {
+      "SHOW": 61.3,
+      "HIDE": 62.4
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หือ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 63.6
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "멍청하게 대답하는 것 좀 봐.",
+      "ENGLISH": "Look at him. Answering like a total idiot.",
+      "CHINESE_SIMPLIFIED": "回个话都支支吾吾的!",
+      "CHINESE_TRADITIONAL": "回個話都支支吾吾的!",
+      "JAPANESE": "バカみたいな返事しちゃってさ。",
+      "INDONESIAN": "Lihat dia. Jawab kayak orang bodoh total.",
+      "PORTUGUESE": "Olha ele. Respondendo que nem um completo idiota.",
+      "RUSSIAN": "Посмотри на него. Отвечает, как полный идиот.",
+      "FRENCH": "Regarde-le. Il répond comme un imbécile total.",
+      "THAI": "ดูสิ ตอบแบบคนโง่จริงๆ",
+      "PERSIAN": "نگاهش کن مثل یک احمق کامل جواب میده"
+    },
+    "TIME": {
+      "SHOW": 64.5,
+      "HIDE": 66.5
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "찐따 같아서 못 봐주겠어!",
+      "ENGLISH": "I can’t even stand to look at him anymore.",
+      "CHINESE_SIMPLIFIED": "真没用，看不下去了! ",
+      "CHINESE_TRADITIONAL": "真沒用，看不下去了!",
+      "JAPANESE": "こんなバカみたいなやつ、見てられない！",
+      "INDONESIAN": "Aku gak kuat liat dia lagi.",
+      "PORTUGUESE": "Não aguento mais olhar pra ele.",
+      "RUSSIAN": "Не могу даже смотреть на него больше.",
+      "FRENCH": "Je ne peux même plus le regarder.",
+      "THAI": "ฉันมองเขาไม่ไหวแล้ว",
+      "PERSIAN": "من حتی تحمل نگاه کردن به اونو ندارم."
+    },
+    "TIME": {
+      "SHOW": 66.5,
+      "HIDE": 68.8
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哎?",
+      "CHINESE_TRADITIONAL": "哎?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หือ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 82.1,
+      "HIDE": 82.3
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "다들 어디가요...!",
+      "ENGLISH": "Where is everyone going...!",
+      "CHINESE_SIMPLIFIED": "你们要去哪啊?",
+      "CHINESE_TRADITIONAL": "你們要去哪啊?",
+      "JAPANESE": "みんな、どこ行んですか…！？",
+      "INDONESIAN": "Kalian semua mau ke mana...!",
+      "PORTUGUESE": "Pra onde vocês estão indo...!",
+      "RUSSIAN": "Куда вы все уходите...!",
+      "FRENCH": "Où est-ce que vous allez tous... !",
+      "THAI": "ทุกคนจะไปไหนกัน...!",
+      "PERSIAN": "همه کجا می روند...!"
+    },
+    "TIME": {
+      "SHOW": 84.0,
+      "HIDE": 84.7
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "예...?",
+      "ENGLISH": "H-hey...",
+      "CHINESE_SIMPLIFIED": "诶...?",
+      "CHINESE_TRADITIONAL": "誒...?",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "H-hei...",
+      "PORTUGUESE": "E-ei...",
+      "RUSSIAN": "П-постойте...",
+      "FRENCH": "H-hé...",
+      "THAI": "เ-เฮ้...",
+      "PERSIAN": "هی..."
+    },
+    "TIME": {
+      "SHOW": 85.3,
+      "HIDE": 85.5
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "내가 미안해요...!",
+      "ENGLISH": " I’m sorry!",
+      "CHINESE_SIMPLIFIED": "对不起嘛...!",
+      "CHINESE_TRADITIONAL": "對不起嘛...!",
+      "JAPANESE": "ごめんなさい…！",
+      "INDONESIAN": "Maaf!",
+      "PORTUGUESE": "Desculpa!",
+      "RUSSIAN": "Простите!",
+      "FRENCH": "Je suis désolé !",
+      "THAI": "ขอโทษนะ!",
+      "PERSIAN": "متاسفم!"
+    },
+    "TIME": {
+      "SHOW": 87.4,
+      "HIDE": 88.4
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "SCRIPT": {
+      "KOREAN": "어디 가요...!",
+      "ENGLISH": "Where are you going?!",
+      "CHINESE_SIMPLIFIED": "别走啊...!",
+      "CHINESE_TRADITIONAL": "別走啊...!",
+      "JAPANESE": "どこ行くんですか…！",
+      "INDONESIAN": "Kalian mau ke mana?!",
+      "PORTUGUESE": "Pra onde vocês vão?!",
+      "RUSSIAN": "Куда вы идёте?!",
+      "FRENCH": "Où allez-vous ?!",
+      "THAI": "พวกเธอจะไปไหนกัน?!",
+      "PERSIAN": "Where are you going?!"
+    },
+    "TIME": {
+      "SHOW": 89.2,
+      "HIDE": 90.0
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "SCRIPT": {
+      "KOREAN": "스, 승이 씨...",
+      "ENGLISH": "S, Seung-yi...",
+      "CHINESE_SIMPLIFIED": "圣，圣依啊…",
+      "CHINESE_TRADITIONAL": "聖，聖依啊…",
+      "JAPANESE": "ス、スンイさん…",
+      "INDONESIAN": "S-Seung-yi...",
+      "PORTUGUESE": "S-Seung-yi...",
+      "RUSSIAN": "С, Сын-и...",
+      "FRENCH": "S, Seung-yi...",
+      "THAI": "ซ, ซึงอี...",
+      "PERSIAN": "اس، سونگ یی..."
+    },
+    "TIME": {
+      "SHOW": 97.6,
+      "HIDE": 98.5
+    }
+  }
+]

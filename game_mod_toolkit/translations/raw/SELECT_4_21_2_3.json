@@ -1,0 +1,191 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어? 야야",
+      "ENGLISH": "Hey...",
+      "CHINESE_SIMPLIFIED": "哦!快看",
+      "CHINESE_TRADITIONAL": "哦!快看",
+      "JAPANESE": "ちょっと、見て！",
+      "INDONESIAN": "Hei...",
+      "PORTUGUESE": "Ei...",
+      "RUSSIAN": "Эй...",
+      "FRENCH": "Hé...",
+      "THAI": "เฮ้..."
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "60시간 지나간다.",
+      "ENGLISH": "it’s been 60 hours.",
+      "CHINESE_SIMPLIFIED": "60个小时那个人走了",
+      "CHINESE_TRADITIONAL": "60個小時那個人走了",
+      "JAPANESE": "もう、60時間も経ったわ。",
+      "INDONESIAN": "Udah 60 jam.",
+      "PORTUGUESE": "Já se passaram 60 horas.",
+      "RUSSIAN": "прошло уже 60 часов.",
+      "FRENCH": "ça fait déjà 60 heures.",
+      "THAI": "ผ่านไป 60 ชั่วโมงแล้วนะ"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 저 아저씨야?",
+      "ENGLISH": "That guy?",
+      "CHINESE_SIMPLIFIED": "啊，那个大叔吗?",
+      "CHINESE_TRADITIONAL": "啊，那個大叔嗎?",
+      "JAPANESE": "あ、あのおじさんか？",
+      "INDONESIAN": "Orang itu?",
+      "PORTUGUESE": "Aquele cara?",
+      "RUSSIAN": "Тот парень?",
+      "FRENCH": "Ce gars-là ?",
+      "THAI": "หมอนั่นเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그럼, 저 자리 내가 치워도 돼?",
+      "ENGLISH": "Should I clean up his table?",
+      "CHINESE_SIMPLIFIED": "那他那个位置我去收拾一下",
+      "CHINESE_TRADITIONAL": "那他那個位置我去收拾一下",
+      "JAPANESE": "じゃあ、あの席、俺が片付けてもいい？",
+      "INDONESIAN": "Haruskah aku bersihin mejanya?",
+      "PORTUGUESE": "Devo limpar a mesa dele?",
+      "RUSSIAN": "Мне убрать его стол?",
+      "FRENCH": "Je devrais aller nettoyer sa table ?",
+      "THAI": "ฉันควรไปเช็คที่โต๊ะเขาไหม?"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어어, 네가 한번 가서 봐봐.",
+      "ENGLISH": "Yeah, go check it out.",
+      "CHINESE_SIMPLIFIED": "嗯嗯，你去看看吧",
+      "CHINESE_TRADITIONAL": "嗯嗯，你去看看吧",
+      "JAPANESE": "うん、ちょっと見に行って来てよ！",
+      "INDONESIAN": "Iya, coba cek dulu.",
+      "PORTUGUESE": "Sim, dá uma olhada.",
+      "RUSSIAN": "Да, пойди проверь.",
+      "FRENCH": "Oui, va voir.",
+      "THAI": "ใช่ ไปดูก็ได้"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "왜 이걸 보고 있어?",
+      "ENGLISH": "What is he looking at? ",
+      "CHINESE_SIMPLIFIED": "他怎么在看这种东西?",
+      "CHINESE_TRADITIONAL": "他怎麼在看這種東西?",
+      "JAPANESE": "何でこれ見てるんだよ。",
+      "INDONESIAN": "Dia lagi lihat apa sih?",
+      "PORTUGUESE": "O que ele tá vendo?",
+      "RUSSIAN": "Что он там смотрит?",
+      "FRENCH": "Qu’est-ce qu’il regarde ?",
+      "THAI": "เขาดูอะไรอยู่น่ะ?"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스?",
+      "ENGLISH": "Milk Girls?",
+      "CHINESE_SIMPLIFIED": "牛奶少女?",
+      "CHINESE_TRADITIONAL": "牛奶少女?",
+      "JAPANESE": "ミルクガールズ？",
+      "INDONESIAN": "Milk Girls?",
+      "PORTUGUESE": "Milk Girls?",
+      "RUSSIAN": "«Молочные Девушки»?",
+      "FRENCH": "Milk Girls ?",
+      "THAI": "Milk Girls?"
+    },
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "ENGLISH": "(Team Conflict to Blame? Milk Girls on the Verge of Disbanding!)",
+      "CHINESE_SIMPLIFIED": "原因为“成员不和” 牛奶少女或面临解散危机？ ",
+      "CHINESE_TRADITIONAL": "原因爲“成員不和” 牛奶少女或面臨解散危機？",
+      "JAPANESE": "(チームの対立が原因？ 解散寸前のミルクガールズ！)",
+      "INDONESIAN": "(Konflik Tim Jadi Penyebab? Milk Girls Di Ambang Bubar!)",
+      "PORTUGUESE": "(Conflito na Equipe é o Motivo? Milk Girls à Beira da Separação!)",
+      "RUSSIAN": "(Конфликт в команде виноват? Молочные Девушки на грани распада!)",
+      "FRENCH": "(Conflit dans l’équipe ? Milk Girls au bord de la rupture !)",
+      "THAI": "(ความขัดแย้งในทีม? Milk Girls ใกล้แตกแล้ว!)"
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜 이러세요!",
+      "ENGLISH": "Why are you like this!",
+      "CHINESE_SIMPLIFIED": "啊!你这是干什么!",
+      "CHINESE_TRADITIONAL": "啊!你這是幹什麼!",
+      "JAPANESE": "ちょっと、やめてくださいよ！",
+      "INDONESIAN": "Kenapa sih kamu kayak gini!",
+      "PORTUGUESE": "Por que você é assim!",
+      "RUSSIAN": "Почему ты такой странный?!",
+      "FRENCH": "Mais qu’est-ce qu’il a ce type !",
+      "THAI": "เธอเป็นอะไรไปน่ะ!"
+    },
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 26.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Эээ?",
+      "FRENCH": "Euh ?",
+      "THAI": "หือ?"
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.4
+    }
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어머니가 사주신 건데 어때요? ",
+      "ENGLISH": "My mom bought this. What do you think?",
+      "CHINESE_SIMPLIFIED": "这个是阿姨给我买的，怎么样？",
+      "CHINESE_TRADITIONAL": "這個是阿姨給我買的，怎麼樣？",
+      "JAPANESE": "お母さんが買ってくれたんですけど、どうですか？",
+      "INDONESIAN": "Ibuku yang beliin ini. Gimana menurutmu?",
+      "PORTUGUESE": "Minha mãe comprou isso. O que você acha?",
+      "RUSSIAN": "Мама купила это. Как тебе?",
+      "FRENCH": "Ma mère a acheté ça. Qu’est-ce que t’en penses ?",
+      "THAI": "แม่ฉันซื้อให้นะ คิดว่าเป็นไงบ้าง?"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.23
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "색도 너무 예쁘고 맘에 드는데....",
+      "ENGLISH": "The color is really pretty and I like it...",
+      "CHINESE_SIMPLIFIED": "颜色也很好看我很喜欢...",
+      "CHINESE_TRADITIONAL": "顏色也很好看我很喜歡...",
+      "JAPANESE": "色もすごく綺麗で気に入ってるんですけど…",
+      "INDONESIAN": "Warnanya bagus banget, dan aku suka...",
+      "PORTUGUESE": "A cor é muito bonita, e eu gostei...",
+      "RUSSIAN": "Цвет такой красивый, и он мне нравится...",
+      "FRENCH": "La couleur est super jolie, et j’aime bien...",
+      "THAI": "สีสวยมากเลยนะ ฉันชอบมาก..."
+    },
+    "TIME": {
+      "SHOW": 3.23,
+      "HIDE": 6.41
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "울엄마 딸 키웠으면 진짜 큰일 날 뻔했다.",
+      "ENGLISH": "If my mom had raised a daughter, it would’ve been a disaster.",
+      "CHINESE_SIMPLIFIED": "要是让我妈养女儿后果真是不堪设想",
+      "CHINESE_TRADITIONAL": "要是讓我媽養女兒後果真是不堪設想",
+      "JAPANESE": "うちの母さんが娘を育ててたら、大変なことになってただろうな。",
+      "INDONESIAN": "Kalau ibuku punya anak perempuan, pasti bakal berantakan.",
+      "PORTUGUESE": "Se minha mãe tivesse criado uma filha, teria sido um desastre.",
+      "RUSSIAN": "Если бы мама вырастила дочь, это был бы хаос.",
+      "FRENCH": "Si ma mère avait élevé une fille, ça aurait été le chaos.",
+      "THAI": "ถ้าแม่ฉันเลี้ยงลูกสาวคงยุ่งเลยล่ะ"
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 10.15,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아니에요!",
+      "ENGLISH": "Oh, nothing!",
+      "CHINESE_SIMPLIFIED": "没, 没事!",
+      "CHINESE_TRADITIONAL": "沒, 沒事!",
+      "JAPANESE": "あ、これじゃなくて！",
+      "INDONESIAN": "Oh, gak ada apa-apa!",
+      "PORTUGUESE": "Ah, nada!",
+      "RUSSIAN": "О, ничего!",
+      "FRENCH": "Oh, rien !",
+      "THAI": "อ๋อ ไม่มีอะไร!"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이거 입어보면 어때요?",
+      "ENGLISH": "How about trying this on?",
+      "CHINESE_SIMPLIFIED": "要不试一试这件?",
+      "CHINESE_TRADITIONAL": "要不試一試這件?",
+      "JAPANESE": "これ、着てみませんか？",
+      "INDONESIAN": "Gimana kalau coba pakai ini?",
+      "PORTUGUESE": "Que tal experimentar isso?",
+      "RUSSIAN": "А если примеришь это?",
+      "FRENCH": "Et si tu essayais ça ?",
+      "THAI": "ลองใส่อันนี้ดูดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "와...",
+      "ENGLISH": "Wow...",
+      "CHINESE_SIMPLIFIED": "哇…",
+      "CHINESE_TRADITIONAL": "哇…",
+      "JAPANESE": "わあ…",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Uau...",
+      "RUSSIAN": "Вау...",
+      "FRENCH": "Waouh...",
+      "THAI": "ว้าว..."
+    },
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이런 거 많이 안 입어봐서...",
+      "ENGLISH": "I haven't worn something like this much...",
+      "CHINESE_SIMPLIFIED": "我没怎么穿过这种衣服…",
+      "CHINESE_TRADITIONAL": "我沒怎麼穿過這種衣服…",
+      "JAPANESE": "こういうのあまり着たことなくて…",
+      "INDONESIAN": "Aku jarang banget pakai yang kayak begini...",
+      "PORTUGUESE": "Faz tempo que eu não uso algo assim...",
+      "RUSSIAN": "Я такое редко надеваю...",
+      "FRENCH": "Je porte rarement ce genre de choses...",
+      "THAI": "ฉันไม่ค่อยได้ใส่แบบนี้เลย..."
+    },
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 34.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "다른거 입을까요?",
+      "ENGLISH": "Should I try something else?",
+      "CHINESE_SIMPLIFIED": "要不我试试别的?",
+      "CHINESE_TRADITIONAL": "要不我試試別的?",
+      "JAPANESE": "別のにしましょうか？",
+      "INDONESIAN": "Haruskah aku coba yang lain?",
+      "PORTUGUESE": "Devo tentar outra coisa?",
+      "RUSSIAN": "Мне попробовать что-то другое?",
+      "FRENCH": "Je devrais essayer autre chose ?",
+      "THAI": "จะลองอย่างอื่นดีไหม?"
+    },
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 36.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨, 아뇨, 아뇨!",
+      "ENGLISH": "No, no, no!",
+      "CHINESE_SIMPLIFIED": "不, 不, 不用!",
+      "CHINESE_TRADITIONAL": "不, 不, 不用!",
+      "JAPANESE": "いやいや、",
+      "INDONESIAN": "Enggak, enggak, enggak!",
+      "PORTUGUESE": "Não, não, não!",
+      "RUSSIAN": "Нет-нет-нет!",
+      "FRENCH": "Non, non, non !",
+      "THAI": "ไม่ๆๆ!"
+    },
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 36.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "무조건 이거 입고 나가요! 무조건!",
+      "ENGLISH": "Let's wear this out for sure!",
+      "CHINESE_SIMPLIFIED": "就穿这件出去吧!就这件!",
+      "CHINESE_TRADITIONAL": "就穿這件出去吧!就這件!",
+      "JAPANESE": "これにしましょう！",
+      "INDONESIAN": "Kita harus pakai ini keluar!",
+      "PORTUGUESE": "A gente tem que usar isso com certeza!",
+      "RUSSIAN": "Давай обязательно наденем это!",
+      "FRENCH": "Portons ça, c’est sûr !",
+      "THAI": "ใส่อันนี้แหละไปแน่ๆ!"
+    },
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 39.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아...네..!",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "啊…好…",
+      "CHINESE_TRADITIONAL": "啊…好…",
+      "JAPANESE": "あ…はい…！",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tá bom...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "โอเค..."
+    },
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 41.0
+    }
+  }
+]

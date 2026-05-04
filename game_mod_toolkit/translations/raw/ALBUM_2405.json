@@ -1,0 +1,280 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~",
+      "ENGLISH": "Hello~",
+      "CHINESE_SIMPLIFIED": "大家好~",
+      "CHINESE_TRADITIONAL": "大家好~",
+      "JAPANESE": "こんにちは～"
+    },
+    "TIME": {
+      "HIDE": 0.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저는 <하숙생이 전부 미녀입니다만?>에서",
+      "ENGLISH": "I’m Jang Eunbi, playing the role of",
+      "CHINESE_SIMPLIFIED": "我是在游戏中扮演",
+      "CHINESE_TRADITIONAL": "我是在遊戲中扮演“高恩妃”的張恩妃",
+      "JAPANESE": "私は <まさか！下宿生が美女ですって？>で"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "'고은비' 역할을 맡고 있는 장은비 입니다.",
+      "ENGLISH": "Go Eun-bi in Five Hearts Under One Roof.",
+      "CHINESE_SIMPLIFIED": "“高恩妃”的张恩妃",
+      "JAPANESE": "コ・ウンビ役を演じているチャン・ウンビと申します。"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "고은비는 어렸을 때부터 우유만 오빠를 매우 매우 좋아했지만",
+      "ENGLISH": "Eun-bi has had a huge crush on Yuman ever since they were little,",
+      "CHINESE_SIMPLIFIED": "高恩妃从小就很喜欢吴宥万哥哥",
+      "CHINESE_TRADITIONAL": "高恩妃從小就很喜歡吳宥萬哥哥",
+      "JAPANESE": "コ・ウンビは幼い頃からユマンが大好きな女の子なんですが"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "말숙이 언니 그림자에 가려져서",
+      "ENGLISH": " but she always felt overshadowed by Malsook,",
+      "CHINESE_SIMPLIFIED": "但因为被末淑姐姐的光芒所掩盖",
+      "CHINESE_TRADITIONAL": "但因爲被末淑姐姐的光芒所掩蓋",
+      "JAPANESE": "お姉ちゃんのマルスク影に隠れて"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "마음이 닿지 못해 상처를 받았습니다.",
+      "ENGLISH": "and ended up getting hurt.",
+      "CHINESE_SIMPLIFIED": "未能表达心意而内心受伤",
+      "CHINESE_TRADITIONAL": "未能表達心意而內心受傷",
+      "JAPANESE": "その気持ちがずっと届かず、傷ついていました。"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 성인 되고 나서!",
+      "ENGLISH": "Now that she’s an adult, ",
+      "CHINESE_SIMPLIFIED": "所以，成年后的她",
+      "CHINESE_TRADITIONAL": "所以，成年後的她",
+      "JAPANESE": "そして、大人になってからもう一度"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "다시 한번 도전하고자",
+      "ENGLISH": "she’s ready to try again!",
+      "CHINESE_SIMPLIFIED": "决定再次挑战",
+      "CHINESE_TRADITIONAL": "決定再次挑戰",
+      "JAPANESE": "再挑戦しようと決意し"
+    },
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "한국으로 돌아와 유만오빠에게 고백을 하는!",
+      "ENGLISH": "She comes back to Korea and confesses her feelings to Yuman.",
+      "CHINESE_SIMPLIFIED": "回到韩国向宥万哥哥告白",
+      "CHINESE_TRADITIONAL": "回到韓國向宥萬哥哥告白",
+      "JAPANESE": "韓国に戻り、ユマンに告白しようとする"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그런 캐릭터입니다. ",
+      "ENGLISH": "That’s the kind of character she is!",
+      "CHINESE_SIMPLIFIED": "是这样一个角色",
+      "CHINESE_TRADITIONAL": "是這樣一個角色",
+      "JAPANESE": "そんなキャラクターです。"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "\"그러니깐 오빠 불렀지~\"",
+      "ENGLISH": "\"That’s why I called you, oppa~\"",
+      "CHINESE_SIMPLIFIED": "“所以叫哥哥过来了~”",
+      "CHINESE_TRADITIONAL": "“所以叫哥哥過來了~”",
+      "JAPANESE": "「だから、お兄ちゃんを呼んだの～」"
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "\"어. 완전 예뻐. 굴러가면서 봐도 예쁘고. 평생이 리즈야.\"",
+      "ENGLISH": "\"Yeah, you look amazing. I mean, you’d look pretty even rolling on the ground. You’re at your peak, like, forever.\"",
+      "CHINESE_SIMPLIFIED": "“嗯，超级漂亮。什么角度都美，一辈子都美”",
+      "CHINESE_TRADITIONAL": "“嗯，超級漂亮。什麼角度都美，一輩子都美”",
+      "JAPANESE": "「うん、めっちゃ可愛い！転がりながら見ても可愛いし、一生が全盛期だよ。」"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "\"허, 진짜 짜증 나 우유만!\"",
+      "ENGLISH": "\"Ugh, you’re so frustrating, Yuman!\"",
+      "CHINESE_SIMPLIFIED": "“哼，真烦人，吴宥万！”",
+      "CHINESE_TRADITIONAL": "“哼，真煩人，吳宥萬！”",
+      "JAPANESE": "「お兄ちゃん、本当にムカつく！」"
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "\"뭐 이런 걸 우겨?\"",
+      "ENGLISH": "\"What are you even trying to argue about?\"",
+      "CHINESE_SIMPLIFIED": "“非要和我争论这个嘛？”",
+      "CHINESE_TRADITIONAL": "“非要和我爭論這個嘛？”",
+      "JAPANESE": "「何でこんなことで言い張ってるのよ。」"
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "\"알았어. 그만하면 되잖아? 바쁠 텐데 얼른 가봐\"",
+      "ENGLISH": "\"Fine, okay, just stop already. You’re busy, so hurry up and go.\"",
+      "CHINESE_SIMPLIFIED": "“我知道了，差不多就行了吧？你应该很忙，快去吧”",
+      "CHINESE_TRADITIONAL": "“我知道了，差不多就行了吧？你應該很忙，快去吧”",
+      "JAPANESE": "「分かったわ。やめればいいんでしょ？忙しいんだから、早く行きなよ。」"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 33.8
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "\"아니 화, 화이팅 해보라고 친구한테 말해준다는 거지\"",
+      "ENGLISH": "\"No, I was just trying to encourage a friend. G-good luck!\"",
+      "CHINESE_SIMPLIFIED": "“不是，我是跟朋友说你要加油的。”",
+      "CHINESE_TRADITIONAL": "“不是，我是跟朋友說你要加油的。”",
+      "JAPANESE": "「いや、友達に頑張れって言おうと思って。」"
+    },
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 38.6
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "\"오빠~\"",
+      "ENGLISH": "\"Oppa~\"",
+      "CHINESE_SIMPLIFIED": "“哥哥~”",
+      "CHINESE_TRADITIONAL": "“哥哥~”",
+      "JAPANESE": "「お兄ちゃ～ん」"
+    },
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 40.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "\"다 방법이 있지~ 나 공강이라 시간 비는데 우리 학교 구경시켜 줄까?\"",
+      "ENGLISH": "\"There’s always a way! I’m free today, so how about I show you around my school?\"",
+      "CHINESE_SIMPLIFIED": "“总会有办法的~我今天有空，要不要带你逛逛我们学校？”",
+      "CHINESE_TRADITIONAL": "“總會有辦法的~我今天有空，要不要帶你逛逛我們學校？”",
+      "JAPANESE": "「やり方いくらでもあるよ～私、空きコマで時間空いてるから、うちの学校案内してあげようか？」"
+    },
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 44.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "\"나 사실 그날 하루 종일 떨렸어...\"",
+      "ENGLISH": "\"I was actually super nervous that whole day...\"",
+      "CHINESE_SIMPLIFIED": "“其实那天我一整天都很紧张…”",
+      "CHINESE_TRADITIONAL": "“其實那天我一整天都很緊張…”",
+      "JAPANESE": "「実はその日、ずっとドキドキしてたんだ…」"
+    },
+    "TIME": {
+      "SHOW": 45.5,
+      "HIDE": 47.8
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "\"티 하나도 안 났지?\"",
+      "ENGLISH": "\"But you couldn’t tell at all, right?\"",
+      "CHINESE_SIMPLIFIED": "“一点都没看出来吧？”",
+      "CHINESE_TRADITIONAL": "“一點都沒看出來吧？”",
+      "JAPANESE": "「全然、バレなかったでしょ？」"
+    },
+    "TIME": {
+      "SHOW": 47.8,
+      "HIDE": 49.5
+    }
+  }
+]

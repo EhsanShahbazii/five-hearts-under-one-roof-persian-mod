@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아이스티요.",
+      "ENGLISH": "Iced tea!",
+      "CHINESE_SIMPLIFIED": "冰红茶",
+      "CHINESE_TRADITIONAL": "冰紅茶",
+      "JAPANESE": "アイスティーです！",
+      "INDONESIAN": "Es teh!",
+      "PORTUGUESE": "Chá gelado!",
+      "RUSSIAN": "Айс-ти!",
+      "FRENCH": "Un thé glacé !",
+      "THAI": "ชามะนาวเย็นครับ!"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "음 그렇군...",
+      "ENGLISH": "Ah, I see… ",
+      "CHINESE_SIMPLIFIED": "这样啊…",
+      "CHINESE_TRADITIONAL": "這樣啊…",
+      "JAPANESE": "ふむ、なるほど…",
+      "INDONESIAN": "Ah, begitu...",
+      "PORTUGUESE": "Ah, entendi...",
+      "RUSSIAN": "А, понятно...",
+      "FRENCH": "Ah, je vois…",
+      "THAI": "อ๋อ, เข้าใจแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "붙어서 작업을 많이 하더니",
+      "ENGLISH": "Seems like you two have been working closely together lately",
+      "CHINESE_SIMPLIFIED": "你们每天朝夕相处",
+      "CHINESE_TRADITIONAL": "你們每天朝夕相處，",
+      "JAPANESE": "一緒に仕事すること多いから",
+      "INDONESIAN": "Sepertinya kalian berdua belakangan ini sering bekerja sama,",
+      "PORTUGUESE": "Parece que vocês dois têm trabalhado bastante juntos ultimamente,",
+      "RUSSIAN": "Похоже, вы двое в последнее время работаете довольно тесно вместе.",
+      "FRENCH": "On dirait que vous avez travaillé étroitement ensemble ces derniers temps.",
+      "THAI": "ดูเหมือนว่าคุณสองคนทำงานร่วมกันอย่างใกล้ชิดช่วงนี้นะ"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이제 척하면 척이겠구만!",
+      "ENGLISH": "You’ve really gotten to know each other well.",
+      "CHINESE_SIMPLIFIED": "现在想不了解也难喽!",
+      "CHINESE_TRADITIONAL": "現在想不瞭解也難嘍!",
+      "JAPANESE": "息ぴったりなんだな。",
+      "INDONESIAN": "Kalian jadi benar-benar saling mengenal.",
+      "PORTUGUESE": "Vocês realmente passaram a se conhecer bem.",
+      "RUSSIAN": "Вы действительно хорошо узнали друг друга.",
+      "FRENCH": "Vous avez vraiment appris à bien vous connaître.",
+      "THAI": "เหมือนจะรู้จักกันดีขึ้นมากเลย"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "음... 선생님께만 말씀드리는 거지만",
+      "ENGLISH": "Well, to be honest",
+      "CHINESE_SIMPLIFIED": "嗯…这话您可千万别告诉别人",
+      "CHINESE_TRADITIONAL": "嗯…這話您可千萬別告訴別人",
+      "JAPANESE": "あの、ここだけの話なんですけど",
+      "INDONESIAN": "Yah, sejujurnya",
+      "PORTUGUESE": "Bom, para ser honesto",
+      "RUSSIAN": "Ну, если честно,",
+      "FRENCH": "Eh bien, pour être honnête,",
+      "THAI": "พูดตรงๆ นะ"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "안 그래도 같이 지내니까...",
+      "ENGLISH": "Spending all this time together…",
+      "CHINESE_SIMPLIFIED": "其实就是因为朝夕相处…",
+      "CHINESE_TRADITIONAL": "其實就是因爲朝夕相處…",
+      "JAPANESE": "一緒に過ごすうちに",
+      "INDONESIAN": "Menghabiskan begitu banyak waktu bersama...",
+      "PORTUGUESE": "Passando tanto tempo juntos...",
+      "RUSSIAN": "проводя так много времени вместе...",
+      "FRENCH": "après avoir passé tout ce temps ensemble…",
+      "THAI": "ใช้เวลาอยู่ด้วยกันขนาดนี้..."
+    },
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "최근에 저도 모르게 마음이 좀 커진 거 같아요.",
+      "ENGLISH": "I think I’ve started to develop some feelings.",
+      "CHINESE_SIMPLIFIED": "不知不觉我对她的感情越来越深…",
+      "CHINESE_TRADITIONAL": "不知不覺我對她的感情越來越深…",
+      "JAPANESE": "僕、ドン課長のこと好きになっちゃみたいなんですよ。",
+      "INDONESIAN": "Aku rasa aku mulai punya perasaan.",
+      "PORTUGUESE": "Acho que comecei a desenvolver alguns sentimentos.",
+      "RUSSIAN": "Кажется, у меня начали появляться какие-то чувства.",
+      "FRENCH": "Je pense que j’ai commencé à développer des sentiments.",
+      "THAI": "ฉันคิดว่าฉันเริ่มมีความรู้สึกบางอย่างแล้วล่ะ"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "한창 그럴 때지...",
+      "ENGLISH": "Ah, at that age, it’s natural…",
+      "CHINESE_SIMPLIFIED": "你们也正是是容易动情的年纪啊…",
+      "CHINESE_TRADITIONAL": "你們也正是是容易動情的年紀啊…",
+      "JAPANESE": "まあ、そういう時期だな。",
+      "INDONESIAN": "Ah, di usia itu, wajar saja...",
+      "PORTUGUESE": "Ah, nessa idade, é natural...",
+      "RUSSIAN": "Ах, в твоём возрасте это естественно...",
+      "FRENCH": "Ah, à cet âge-là, c’est naturel...",
+      "THAI": "อา, ในวัยนั้น มันก็เป็นเรื่องปกติ..."
+    },
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.8
+    }
+  }
+]

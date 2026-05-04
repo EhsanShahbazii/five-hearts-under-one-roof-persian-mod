@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와!",
+      "ENGLISH": "Wow!",
+      "CHINESE_SIMPLIFIED": "呜哇！",
+      "CHINESE_TRADITIONAL": "嗚哇！",
+      "JAPANESE": "うわぁ！",
+      "INDONESIAN": "Wow!",
+      "PORTUGUESE": "Uau!",
+      "RUSSIAN": "Вау!",
+      "FRENCH": "Waouh !",
+      "THAI": "ว้าว!",
+      "PERSIAN": "عجب!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "대박!",
+      "ENGLISH": "It's lit!",
+      "CHINESE_SIMPLIFIED": "哇塞!",
+      "CHINESE_TRADITIONAL": "哇塞!",
+      "JAPANESE": "やば！",
+      "INDONESIAN": "Keren banget!",
+      "PORTUGUESE": "Isso tá incrível!",
+      "RUSSIAN": "Круто!",
+      "FRENCH": "C’est dingue !",
+      "THAI": "สุดยอดไปเลย!",
+      "PERSIAN": "روشن است!"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "와~ 대박이다..",
+      "ENGLISH": "Wow, this is awesome...",
+      "CHINESE_SIMPLIFIED": "哇~ 大发...",
+      "CHINESE_TRADITIONAL": "哇~ 大發...",
+      "JAPANESE": "わ～、やばい…",
+      "INDONESIAN": "Wow, ini luar biasa...",
+      "PORTUGUESE": "Uau, isso é sensacional...",
+      "RUSSIAN": "Вау, это просто шикарно...",
+      "FRENCH": "Waouh, c’est incroyable...",
+      "THAI": "ว้าว นี่มันเจ๋งมาก...",
+      "PERSIAN": "وای این عالیه..."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.1
+    }
+  }
+]

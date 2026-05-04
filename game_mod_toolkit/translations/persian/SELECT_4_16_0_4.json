@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 오리가 엄청 커요!",
+      "ENGLISH": "Wow, the duck is huge!",
+      "CHINESE_SIMPLIFIED": "哇!鸭子都好大只啊!",
+      "CHINESE_TRADITIONAL": "哇!鴨子都好大隻啊!",
+      "JAPANESE": "アヒルがすごく大きい！",
+      "INDONESIAN": "Wah, bebeknya gede banget!",
+      "PORTUGUESE": "Uau, o pato é enorme!",
+      "RUSSIAN": "Вау, эта утка огромная!",
+      "FRENCH": "Waouh, ce canard est énorme !",
+      "THAI": "ว้าว เป็ดตัวใหญ่มาก!",
+      "PERSIAN": "وای، اردک بزرگ است!"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저거 진짜 오리가 아니에요.",
+      "ENGLISH": "That’s not a real duck.",
+      "CHINESE_SIMPLIFIED": "那个不是真的鸭子",
+      "CHINESE_TRADITIONAL": "那個不是真的鴨子",
+      "JAPANESE": "あれ、本物のアヒルじゃないんですよ。",
+      "INDONESIAN": "Itu bukan bebek asli.",
+      "PORTUGUESE": "Esse não é um pato de verdade.",
+      "RUSSIAN": "Это не настоящая утка.",
+      "FRENCH": "Ce n’est pas un vrai canard.",
+      "THAI": "นั่นไม่ใช่เป็ดจริงๆ หรอก",
+      "PERSIAN": "این یک اردک واقعی نیست."
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 오리가 아니에요?",
+      "ENGLISH": "Not a real duck?",
+      "CHINESE_SIMPLIFIED": "不是真的?",
+      "CHINESE_TRADITIONAL": "不是真的?",
+      "JAPANESE": "本物のアヒルじゃなないんですか？",
+      "INDONESIAN": "Bukan bebek asli?",
+      "PORTUGUESE": "Não é um pato de verdade?",
+      "RUSSIAN": "Не настоящая утка?",
+      "FRENCH": "Pas un vrai canard ?",
+      "THAI": "ไม่ใช่เป็ดจริงๆ เหรอ?",
+      "PERSIAN": "یک اردک واقعی نیست؟"
+    },
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네. 저거는 우리가 타는 배예요.",
+      "ENGLISH": "It’s a boat we can ride.",
+      "CHINESE_SIMPLIFIED": "嗯，那个是我们要乘的船",
+      "CHINESE_TRADITIONAL": "嗯，那個是我們要乘的船",
+      "JAPANESE": "あれは、今から僕たちが乗る船ですよ。",
+      "INDONESIAN": "Itu perahu yang bisa kita naiki.",
+      "PORTUGUESE": "É um barco que a gente pode andar.",
+      "RUSSIAN": "Это лодка, на которой можно кататься.",
+      "FRENCH": "C’est un bateau sur lequel on peut monter.",
+      "THAI": "มันคือลูกเป็ดเรือที่เราสามารถนั่งได้",
+      "PERSIAN": "این قایقی است که می توانیم سوار شویم."
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "배?",
+      "ENGLISH": "A boat?",
+      "CHINESE_SIMPLIFIED": "肚子?（和船发音相同）",
+      "CHINESE_TRADITIONAL": "肚子?（和船發音相同）",
+      "JAPANESE": "船？",
+      "INDONESIAN": "Perahu?",
+      "PORTUGUESE": "Um barco?",
+      "RUSSIAN": "Лодка?",
+      "FRENCH": "Un bateau ?",
+      "THAI": "เรือเหรอ?",
+      "PERSIAN": "یک قایق؟"
+    },
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "우리 같이 한번 타 볼까요?",
+      "ENGLISH": "Shall we ride it together?",
+      "CHINESE_SIMPLIFIED": "一起去乘船吧?",
+      "CHINESE_TRADITIONAL": "一起去乘船吧?",
+      "JAPANESE": "一緒に乗ってみましょうか？",
+      "INDONESIAN": "Kita naik bareng, yuk?",
+      "PORTUGUESE": "Vamos andar juntos?",
+      "RUSSIAN": "Прокатимся вместе?",
+      "FRENCH": "On y va ensemble ?",
+      "THAI": "ไปนั่งด้วยกันไหม?",
+      "PERSIAN": "با هم سوارش کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好!",
+      "CHINESE_TRADITIONAL": "好!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ไป!",
+      "PERSIAN": "بله اومدم!"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.2
+    }
+  }
+]

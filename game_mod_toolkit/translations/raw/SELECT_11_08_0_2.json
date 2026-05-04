@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨!",
+      "ENGLISH": "Seung-yi!",
+      "CHINESE_SIMPLIFIED": "圣依!",
+      "CHINESE_TRADITIONAL": "聖依!",
+      "JAPANESE": "スンイさん！",
+      "INDONESIAN": "Seung-yi!",
+      "PORTUGUESE": "Seung-yi!",
+      "RUSSIAN": "Сын-и!",
+      "FRENCH": "Seung-yi !",
+      "THAI": "ซึงอี!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "지금까지 제가 보여준 세상은",
+      "ENGLISH": "The world I’ve shown you so far ",
+      "CHINESE_SIMPLIFIED": "我带你看的世界只是",
+      "CHINESE_TRADITIONAL": "我帶你看的世界只是",
+      "JAPANESE": "今まで僕が見せてきた世界は",
+      "INDONESIAN": "Dunia yang sudah aku tunjukkan padamu selama ini",
+      "PORTUGUESE": "O mundo que eu te mostrei até agora",
+      "RUSSIAN": "Мир, который я показал(а) тебе до сих пор,",
+      "FRENCH": "Le monde que je t’ai montré jusqu’à présent",
+      "THAI": "โลกที่ฉันเคยแสดงให้คุณเห็น"
+    },
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아주 작아요.",
+      "ENGLISH": "Is really small.",
+      "CHINESE_SIMPLIFIED": "冰山一角",
+      "CHINESE_TRADITIONAL": "冰山一角",
+      "JAPANESE": "まだ、ほんの一部です。",
+      "INDONESIAN": "Sangat kecil.",
+      "PORTUGUESE": "É realmente pequeno.",
+      "RUSSIAN": "очень маленький.",
+      "FRENCH": "est vraiment petit.",
+      "THAI": "มันเล็กมากเลยนะ"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 세상은 그것보다 넓고 더 예쁘다는 걸.",
+      "ENGLISH": "The real world is so much bigger and even more beautiful.",
+      "CHINESE_SIMPLIFIED": "我一定会带你去看",
+      "CHINESE_TRADITIONAL": "我一定會帶你去看",
+      "JAPANESE": "本当の世界はもっと広くて、もっと美しいんです。",
+      "INDONESIAN": "Dunia yang sebenarnya jauh lebih besar dan bahkan lebih indah.",
+      "PORTUGUESE": "O mundo real é muito maior e ainda mais bonito.",
+      "RUSSIAN": "Настоящий мир гораздо больше и ещё красивее.",
+      "FRENCH": "Le vrai monde est tellement plus grand et encore plus beau.",
+      "THAI": "โลกจริงๆ ใหญ่กว่าและสวยงามกว่านี้อีกเยอะ"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "꼭 보여줄게요!",
+      "ENGLISH": "And I’ll make sure you see that!",
+      "CHINESE_SIMPLIFIED": "更大更精彩的世界!",
+      "CHINESE_TRADITIONAL": "更大更精彩的世界!",
+      "JAPANESE": "僕が見せてあげます！",
+      "INDONESIAN": "Dan aku akan memastikan kamu melihatnya!",
+      "PORTUGUESE": "E eu vou garantir que você veja isso!",
+      "RUSSIAN": "И я обязательно покажу его тебе!",
+      "FRENCH": "Et je ferai en sorte que tu le voies !",
+      "THAI": "แล้วฉันจะทำให้แน่ใจว่าคุณจะได้เห็นมัน!"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.0
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "승이야~ 너무 오래 씻는 것도 안 좋아~",
+      "ENGLISH": "Seung-yi, staying in the shower too long isn’t good for you.",
+      "CHINESE_SIMPLIFIED": "圣依啊，洗澡洗太久了也不好~",
+      "CHINESE_TRADITIONAL": "聖依啊，洗澡洗太久了也不好~",
+      "JAPANESE": "スンイ～、長すぎるお風呂はよくないよ～",
+      "INDONESIAN": "Seung-yi, berlama-lama di kamar mandi itu nggak baik untukmu.",
+      "PORTUGUESE": "Seung-yi, ficar muito tempo no chuveiro não faz bem para você.",
+      "RUSSIAN": "Сын-и, оставаться в душе слишком долго вредно.",
+      "FRENCH": "Seung-yi, rester trop longtemps sous la douche, ce n’est pas bon pour toi.",
+      "THAI": "ซึงอี การอาบน้ำนานเกินไปไม่ดีนะ",
+      "PERSIAN": "سئونگ‌یی، ماندن زیاد زیر دوش برای شما خوب نیست."
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "미안. 물이 너무 따뜻해서...",
+      "ENGLISH": "Sorry, the water was just too warm...",
+      "CHINESE_SIMPLIFIED": "抱歉，水温热乎乎的…",
+      "CHINESE_TRADITIONAL": "抱歉，水溫熱乎乎的…",
+      "JAPANESE": "ごめん。お湯があまりに気持ちよくて…",
+      "INDONESIAN": "Maaf, airnya terlalu hangat...",
+      "PORTUGUESE": "Desculpa, a água estava tão quentinha...",
+      "RUSSIAN": "Прости, вода была такой тёплой...",
+      "FRENCH": "Désolée, l’eau était tellement chaude...",
+      "THAI": "ขอโทษค่ะ น้ำมันอุ่นมากเลย...",
+      "PERSIAN": "ببخشید آب خیلی گرم بود..."
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "물기 제대로 안 닦으면~ 감기 걸려!",
+      "ENGLISH": "If you don’t dry off properly, you’ll catch a cold...!",
+      "CHINESE_SIMPLIFIED": "水滴不擦干净的话容易感冒",
+      "CHINESE_TRADITIONAL": "水滴不擦乾淨的話容易感冒",
+      "JAPANESE": "ちゃんと拭かないと、風邪ひいちゃうよ！",
+      "INDONESIAN": "Kalau kamu nggak mengeringkan diri dengan benar, kamu bisa masuk angin...!",
+      "PORTUGUESE": "Se você não se secar direito, vai pegar um resfriado...!",
+      "RUSSIAN": "Если не вытираться как следует, можно простудиться...!",
+      "FRENCH": "Si tu ne te sèches pas correctement, tu vas attraper froid...!",
+      "THAI": "ถ้าคุณไม่เช็ดตัวให้แห้งดีๆ เดี๋ยวจะเป็นหวัดนะ...!",
+      "PERSIAN": "اگه درست خشک نکنی سرما میخوری...!"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 나 머리 말려주라.",
+      "ENGLISH": "Oppa, can you dry my hair for me?",
+      "CHINESE_SIMPLIFIED": "哥哥你帮我吹头发吧!",
+      "CHINESE_TRADITIONAL": "哥哥你幫我吹頭髮吧!",
+      "JAPANESE": "髪の毛乾かしてほしいな～",
+      "INDONESIAN": "Oppa, bisa tolong keringkan rambutku?",
+      "PORTUGUESE": "Oppa, você pode secar meu cabelo pra mim?",
+      "RUSSIAN": "Оппа, можешь высушить мне волосы?",
+      "FRENCH": "Oppa, tu peux me sécher les cheveux ?",
+      "THAI": "โอปป้า ช่วยเป่าผมให้ฉันหน่อยได้ไหม?",
+      "PERSIAN": "یومان می تونی موهامو برام خشک کنی؟"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "나 오빠가 머리 만져주는 거 좋아.",
+      "ENGLISH": "I love it when you do that.",
+      "CHINESE_SIMPLIFIED": "我喜欢你摸我的头发~",
+      "CHINESE_TRADITIONAL": "我喜歡你摸我的頭髮~",
+      "JAPANESE": "ユマンが髪を触ってくれるの、好きなんだ～",
+      "INDONESIAN": "Aku suka saat kamu melakukannya.",
+      "PORTUGUESE": "Eu adoro quando você faz isso.",
+      "RUSSIAN": "Мне так нравится, когда ты это делаешь.",
+      "FRENCH": "J’adore quand tu fais ça.",
+      "THAI": "ฉันชอบเวลาที่คุณทำให้มากเลย",
+      "PERSIAN": "وقتی این کار را می کنی دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 21.1
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Umm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Umm...",
+      "PORTUGUESE": "Umm...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Euh...",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨한테서 내가 보였어요.",
+      "ENGLISH": "Because I saw myself in you.",
+      "CHINESE_SIMPLIFIED": "因为我从圣依你的身上看到了自己",
+      "CHINESE_TRADITIONAL": "因爲我從聖依你的身上看到了自己",
+      "JAPANESE": "スンイさんも見てると、僕を見ているような気がして...",
+      "INDONESIAN": "Karena aku melihat diriku dalam dirimu.",
+      "PORTUGUESE": "Porque eu vi a mim mesmo em você.",
+      "RUSSIAN": "Потому что я увидел(а) в тебе себя.",
+      "FRENCH": "Parce que je me suis vu(e) en toi.",
+      "THAI": "เพราะฉันเห็นตัวเองในคุณ"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "네? 그럴 리가 없는데...",
+      "ENGLISH": "What? That can’t be right...",
+      "CHINESE_SIMPLIFIED": "啊?怎么会呢?",
+      "CHINESE_TRADITIONAL": "啊?怎麼會呢?",
+      "JAPANESE": "えっ？何でですか？",
+      "INDONESIAN": "Apa? Itu nggak mungkin...",
+      "PORTUGUESE": "O quê? Isso não pode ser verdade...",
+      "RUSSIAN": "Что? Не может быть...",
+      "FRENCH": "Quoi ? Ce n’est pas possible...",
+      "THAI": "อะไรนะ? มันไม่ใช่อย่างนั้นหรอก..."
+    },
+    "TIME": {
+      "SHOW": 4.65,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "밖을 나갈 수 있다고 다 대단한 사람은 아니에요.",
+      "ENGLISH": "It’s not a big deal to be able to go outside.",
+      "CHINESE_SIMPLIFIED": "其实，能在外面世界生存的人也并没有多了不起",
+      "CHINESE_TRADITIONAL": "其實，能在外面世界生存的人也並沒有多了不起",
+      "JAPANESE": "外に出られるからって、みんなすごい人ではないですよ。",
+      "INDONESIAN": "Bukan hal besar bisa pergi ke luar.",
+      "PORTUGUESE": "Não é grande coisa poder sair.",
+      "RUSSIAN": "Выходить на улицу — это не такое уж большое дело.",
+      "FRENCH": "Ce n’est pas grand-chose de pouvoir sortir.",
+      "THAI": "การได้ออกไปข้างนอกไม่ใช่เรื่องใหญ่"
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저도 사람 잘 못 사귀고...",
+      "ENGLISH": "I’m not great at making friends either...",
+      "CHINESE_SIMPLIFIED": "像我就不怎么会社交…",
+      "CHINESE_TRADITIONAL": "像我就不怎麼會社交…",
+      "JAPANESE": "僕も、人付き合いが苦手で…",
+      "INDONESIAN": "Aku juga nggak hebat dalam berteman...",
+      "PORTUGUESE": "Também não sou bom em fazer amigos...",
+      "RUSSIAN": "У меня тоже не очень получается заводить друзей...",
+      "FRENCH": "Je ne suis pas très doué(e) pour me faire des amis non plus...",
+      "THAI": "ฉันก็ไม่เก่งเรื่องการหาเพื่อนเหมือนกัน..."
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "외로움도 많고 그래요.",
+      "ENGLISH": "And I get lonely a lot.",
+      "CHINESE_SIMPLIFIED": "也经常会感到孤独",
+      "CHINESE_TRADITIONAL": "也經常會感到孤獨",
+      "JAPANESE": "孤独を感じることも多くて…",
+      "INDONESIAN": "Dan aku sering merasa kesepian.",
+      "PORTUGUESE": "E me sinto sozinho muitas vezes.",
+      "RUSSIAN": "И я часто чувствую себя одиноким(ой).",
+      "FRENCH": "Et je me sens souvent seul(e).",
+      "THAI": "แล้วก็เหงาบ่อยๆ ด้วย"
+    },
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 16.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 이 좁은 방에 있는 승이 씨에게서",
+      "ENGLISH": "So when I saw you in that small room,",
+      "CHINESE_SIMPLIFIED": "所以，当我看到这小房间里的你",
+      "CHINESE_TRADITIONAL": "所以，當我看到這小房間裏的你",
+      "JAPANESE": "だから、この狭い部屋にいるスンイさんを見ていると",
+      "INDONESIAN": "Jadi saat aku melihatmu di kamar kecil itu,",
+      "PORTUGUESE": "Então, quando te vi naquele quarto pequeno,",
+      "RUSSIAN": "Так что, когда я увидел(а) тебя в этой маленькой комнате,",
+      "FRENCH": "Donc quand je t’ai vu(e) dans cette petite pièce,",
+      "THAI": "พอฉันเห็นคุณอยู่ในห้องเล็กๆ นั่น"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "제가 보여서... 그냥 지나칠 수가 없었어요.",
+      "ENGLISH": "I just couldn’t walk away.",
+      "CHINESE_SIMPLIFIED": "就决定不能坐视不理",
+      "CHINESE_TRADITIONAL": "就決定不能坐視不理",
+      "JAPANESE": "自分を見ているような気がして…見過ごせなかったんです。",
+      "INDONESIAN": "Aku nggak bisa begitu saja pergi.",
+      "PORTUGUESE": "Eu simplesmente não consegui ir embora.",
+      "RUSSIAN": "я просто не смог(ла) пройти мимо.",
+      "FRENCH": "je ne pouvais pas simplement partir.",
+      "THAI": "ฉันก็เดินจากไปไม่ได้"
+    },
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "왜, 왜요?",
+      "ENGLISH": "Why? Why?",
+      "CHINESE_SIMPLIFIED": "你怎么了?",
+      "CHINESE_TRADITIONAL": "你怎麼了?",
+      "JAPANESE": "ど、どうしてですか？",
+      "INDONESIAN": "Kenapa? Kenapa?",
+      "PORTUGUESE": "Por quê? Por quê?",
+      "RUSSIAN": "Почему? Почему?",
+      "FRENCH": "Pourquoi ? Pourquoi ?",
+      "THAI": "ทำไมล่ะ? ทำไม?"
+    },
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아니, 갑자기 그렇게 다정한 말을 하시니깐...",
+      "ENGLISH": "When you say something so sweet like that.",
+      "CHINESE_SIMPLIFIED": "您突然说这么让人心动的话",
+      "CHINESE_TRADITIONAL": "您突然說這麼讓人心動的話",
+      "JAPANESE": "いきなりそんな優しいこと言われると…",
+      "INDONESIAN": "Kamu bilang sesuatu yang manis seperti itu.",
+      "PORTUGUESE": "Quando você diz algo tão doce assim.",
+      "RUSSIAN": "Когда ты говоришь что-то такое милое...",
+      "FRENCH": "Quand tu dis quelque chose d’aussi gentil...",
+      "THAI": "เวลาคุณพูดอะไรน่ารักแบบนี้..."
+    },
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 27.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님을 못 보겠어요...",
+      "ENGLISH": "I can’t even look at you!",
+      "CHINESE_SIMPLIFIED": "我都没办法和您对视了!",
+      "CHINESE_TRADITIONAL": "我都沒辦法和您對視了!",
+      "JAPANESE": "ユマンさんの顔、見れません…",
+      "INDONESIAN": "Aku bahkan nggak bisa menatapmu!",
+      "PORTUGUESE": "Eu nem consigo te olhar!",
+      "RUSSIAN": "Я даже не могу смотреть на тебя!",
+      "FRENCH": "Je ne peux même pas te regarder !",
+      "THAI": "ฉันมองหน้าคุณไม่ติดเลย!"
+    },
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아... 제가 너무 부담스러웠나요?",
+      "ENGLISH": "Oh... Was that too much for you?",
+      "CHINESE_SIMPLIFIED": "我…是让你有心理负担了吗?",
+      "CHINESE_TRADITIONAL": "我…是讓你有心理負擔了嗎?",
+      "JAPANESE": "あ…僕、重たかったですか？",
+      "INDONESIAN": "Oh... Apa itu terlalu berlebihan untukmu?",
+      "PORTUGUESE": "Oh... Foi demais para você?",
+      "RUSSIAN": "Ох... Это было слишком для тебя?",
+      "FRENCH": "Oh... C’était trop pour toi ?",
+      "THAI": "โอ้... มันมากไปเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아니에요! 그런 거...",
+      "ENGLISH": "No, not at all! It’s just...",
+      "CHINESE_SIMPLIFIED": "没有没有!",
+      "CHINESE_TRADITIONAL": "沒有沒有!",
+      "JAPANESE": "違います！そんなことないです…！",
+      "INDONESIAN": "Nggak, sama sekali tidak! Hanya saja...",
+      "PORTUGUESE": "Não, de jeito nenhum! É só que...",
+      "RUSSIAN": "Нет, совсем нет! Просто...",
+      "FRENCH": "Non, pas du tout ! C’est juste...",
+      "THAI": "เปล่าเลย ไม่มากเกินไปหรอก! แค่..."
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 33.4
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "그냥... 제가 그런 말을 처음 들어봐서...",
+      "ENGLISH": "I’ve never heard anything like that before...",
+      "CHINESE_SIMPLIFIED": "我第一次听这种话所以…",
+      "CHINESE_TRADITIONAL": "我第一次聽這種話所以…",
+      "JAPANESE": "ただ…こんなこと言われたの、初めてで…",
+      "INDONESIAN": "Aku belum pernah mendengar hal seperti itu sebelumnya...",
+      "PORTUGUESE": "Eu nunca ouvi algo assim antes...",
+      "RUSSIAN": "Я никогда не слышал(а) ничего подобного раньше...",
+      "FRENCH": "Je n’ai jamais entendu quelque chose comme ça avant...",
+      "THAI": "ฉันไม่เคยได้ยินอะไรแบบนี้มาก่อน..."
+    },
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 36.0
+    }
+  }
+]

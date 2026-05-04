@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "라면은 드셔보셨어요?",
+      "ENGLISH": "Have you ever had ramen before?",
+      "CHINESE_SIMPLIFIED": "你吃过泡面吗?",
+      "CHINESE_TRADITIONAL": "你吃過泡麪嗎?",
+      "JAPANESE": "ラーメンは食べたことありますか？",
+      "INDONESIAN": "Kamu pernah makan ramen sebelumnya?",
+      "PORTUGUESE": "Você já comeu ramen antes?",
+      "RUSSIAN": "Ты когда-нибудь пробовала рамэн?",
+      "FRENCH": "Tu as déjà mangé des ramens ?",
+      "THAI": "เคยกินราเม็งมาก่อนไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아니요!",
+      "ENGLISH": "No!",
+      "CHINESE_SIMPLIFIED": "没有!",
+      "CHINESE_TRADITIONAL": "沒有!",
+      "JAPANESE": "ないです！",
+      "INDONESIAN": "Belum!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "ไม่เคย!"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "근데 되게 먹어보고 싶었어요!",
+      "ENGLISH": "But I’ve always wanted to try it!",
+      "CHINESE_SIMPLIFIED": "但是我很想尝尝来着!",
+      "CHINESE_TRADITIONAL": "但是我很想嚐嚐來着!",
+      "JAPANESE": "でも、すごく食べてみたかったです！",
+      "INDONESIAN": "Tapi aku selalu pengen coba!",
+      "PORTUGUESE": "Mas eu sempre quis experimentar!",
+      "RUSSIAN": "Но я всегда хотела попробовать!",
+      "FRENCH": "Mais j’ai toujours voulu essayer !",
+      "THAI": "แต่ฉันอยากลองมานานแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 빨리 같이 먹어요!",
+      "ENGLISH": "Then let’s hurry and eat some! ",
+      "CHINESE_SIMPLIFIED": "那我们赶紧去吃吧!",
+      "CHINESE_TRADITIONAL": "那我們趕緊去吃吧!",
+      "JAPANESE": "じゃあ、早く一緒に食べましょう！",
+      "INDONESIAN": "Kalau gitu, ayo cepet kita makan!",
+      "PORTUGUESE": "Então vamos logo comer!",
+      "RUSSIAN": "Тогда давай скорее поедим!",
+      "FRENCH": "Alors allons en manger vite !",
+      "THAI": "งั้นรีบไปกินกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우리 어디서 먹을까요?",
+      "ENGLISH": "Where should we eat?",
+      "CHINESE_SIMPLIFIED": "在哪吃好呢?",
+      "CHINESE_TRADITIONAL": "在哪吃好呢?",
+      "JAPANESE": "どこで食べましょうか？",
+      "INDONESIAN": "Di mana kita makan?",
+      "PORTUGUESE": "Onde a gente vai comer?",
+      "RUSSIAN": "Где будем есть?",
+      "FRENCH": "Où est-ce qu’on mange ?",
+      "THAI": "เราจะไปกินที่ไหนดี?"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.7
+    }
+  }
+]

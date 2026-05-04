@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어? 내 이력서다!",
+      "ENGLISH": "Huh? That’s my resume!",
+      "CHINESE_SIMPLIFIED": "哦？是我的简历",
+      "CHINESE_TRADITIONAL": "哦？是我的簡歷",
+      "JAPANESE": "あれ？俺の履歴書だ！",
+      "INDONESIAN": "Hah? Itu resume-ku!",
+      "PORTUGUESE": "Hã? Esse é o meu currículo!",
+      "RUSSIAN": "А? Это моё резюме!",
+      "FRENCH": "Hein ? C’est mon CV !",
+      "THAI": "หืม? นี่เรซูเม่ของฉัน!"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮은 것... 같기도...?",
+      "ENGLISH": "Hmm... seems okay...?'",
+      "CHINESE_SIMPLIFIED": "‘好像还不错…?’",
+      "CHINESE_TRADITIONAL": "‘好像還不錯…?’",
+      "JAPANESE": "悪くない…気もするけど…？",
+      "INDONESIAN": "Hmm... kelihatannya oke...?",
+      "PORTUGUESE": "Hmm... parece estar tudo bem...?",
+      "RUSSIAN": "Хм... вроде нормально...?",
+      "FRENCH": "Hmm... ça a l’air correct... ?",
+      "THAI": "อืม... ก็ดูโอเคอยู่นะ...?"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.4
+    }
+  }
+]

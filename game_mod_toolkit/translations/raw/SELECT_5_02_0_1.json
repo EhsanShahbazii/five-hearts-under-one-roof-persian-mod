@@ -1,0 +1,629 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "제가 개는 것만 하면",
+      "ENGLISH": "If I fold them",
+      "CHINESE_SIMPLIFIED": "我叠好的话",
+      "CHINESE_TRADITIONAL": "我疊好的話",
+      "JAPANESE": "僕はたたむだけで",
+      "INDONESIAN": "Kalau aku lipat,",
+      "PORTUGUESE": "Se eu dobrar,",
+      "RUSSIAN": "Если я сложу это,",
+      "FRENCH": "Si je les plie,",
+      "THAI": "ถ้าฉันพับพวกนี้"
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "알아서 찾아가는 거예요?",
+      "ENGLISH": "Will people come to get their own stuff?",
+      "CHINESE_SIMPLIFIED": "你们拿走自己的就行吧",
+      "CHINESE_TRADITIONAL": "你們拿走自己的就行吧",
+      "JAPANESE": "あとは勝手に持って行くんですよね？",
+      "INDONESIAN": "Orang-orang bakal ambil barang mereka sendiri?",
+      "PORTUGUESE": "As pessoas vêm pegar as coisas delas?",
+      "RUSSIAN": "все придут забирать свои вещи сами?",
+      "FRENCH": "les gens viendront récupérer leurs affaires eux-mêmes ?",
+      "THAI": "จะมีคนมารับของตัวเองไหม?"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니지.",
+      "ENGLISH": "No way. ",
+      "CHINESE_SIMPLIFIED": "当然不行",
+      "CHINESE_TRADITIONAL": "當然不行",
+      "JAPANESE": "違うでしょ。",
+      "INDONESIAN": "Gak mungkin.",
+      "PORTUGUESE": "De jeito nenhum.",
+      "RUSSIAN": "Ни за что.",
+      "FRENCH": "Pas question.",
+      "THAI": "ไม่มีทาง"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "가져다 놓는 거까지 해야지!",
+      "ENGLISH": "You’ve gotta put it all away too!",
+      "CHINESE_SIMPLIFIED": "你得给大家都送过去啊!",
+      "CHINESE_TRADITIONAL": "你得給大家都送過去啊!",
+      "JAPANESE": "ちゃんと持って行くところまでやらないとダメでしょ！",
+      "INDONESIAN": "Kamu juga harus beresin semuanya!",
+      "PORTUGUESE": "Você tem que guardar tudo também!",
+      "RUSSIAN": "Ты должна ещё и разложить всё по местам!",
+      "FRENCH": "Il faut aussi que tu les ranges à leur place !",
+      "THAI": "เธอต้องจัดเก็บให้หมดเลยด้วย!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "누가 누구 건지 내가 어떻게 알아...?",
+      "ENGLISH": "How am I supposed to know whose stuff is whose?",
+      "CHINESE_SIMPLIFIED": "我哪知道哪个是谁的啊…?",
+      "CHINESE_TRADITIONAL": "我哪知道哪個是誰的啊…?",
+      "JAPANESE": "誰ものかなんて、俺がどうやって分かるんだよ…？",
+      "INDONESIAN": "Gimana aku tahu ini punya siapa?",
+      "PORTUGUESE": "Como vou saber de quem é o quê?",
+      "RUSSIAN": "Как я должна понять, чьи вещи чьи?",
+      "FRENCH": "Comment suis-je censée savoir à qui appartient quoi ?",
+      "THAI": "แล้วฉันจะรู้ได้ยังไงว่าของใครเป็นของใคร?"
+    },
+    "TIME": {
+      "SHOW": 7.45,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어, 이거 제일 작은 거",
+      "ENGLISH": "Uh, this tiny one,",
+      "CHINESE_SIMPLIFIED": "这个最小的",
+      "CHINESE_TRADITIONAL": "這個最小的",
+      "JAPANESE": "あ、これ一番小さいやつ",
+      "INDONESIAN": "Uh, yang kecil ini,",
+      "PORTUGUESE": "Uh, essa coisinha pequena,",
+      "RUSSIAN": "Эм, вот это маленькое,",
+      "FRENCH": "Euh, celui-ci tout petit,",
+      "THAI": "อืม อันเล็กๆ อันนี้"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이거 네 거지?",
+      "ENGLISH": "This is yours, right?",
+      "CHINESE_SIMPLIFIED": "这个是末淑的吧?",
+      "CHINESE_TRADITIONAL": "這個是末淑的吧?",
+      "JAPANESE": "これお前のだろ？",
+      "INDONESIAN": "Ini punyamu, kan?",
+      "PORTUGUESE": "Essa é sua, né?",
+      "RUSSIAN": "это твоё, верно?",
+      "FRENCH": "c’est le tien, non ?",
+      "THAI": "เป็นของเธอใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "喂!",
+      "CHINESE_TRADITIONAL": "喂!",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 미안 미안.",
+      "ENGLISH": "Oops, sorry, sorry.",
+      "CHINESE_SIMPLIFIED": "啊~不好意思",
+      "CHINESE_TRADITIONAL": "啊~不好意思",
+      "JAPANESE": "あ、ごめん、ごめん。",
+      "INDONESIAN": "Ups, maaf, maaf.",
+      "PORTUGUESE": "Opa, foi mal, foi mal.",
+      "RUSSIAN": "Ой, прости, прости.",
+      "FRENCH": "Oups, désolé, désolé.",
+      "THAI": "อุ๊ย ขอโทษนะ ขอโทษจริงๆ"
+    },
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.08
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오빠가 눈썰미가 좀 있네~",
+      "ENGLISH": "You’ve got a good eye for this, huh?",
+      "CHINESE_SIMPLIFIED": "没想到哥哥你眼力挺好",
+      "CHINESE_TRADITIONAL": "沒想到哥哥你眼力挺好",
+      "JAPANESE": "お兄ちゃん、意外と観察力あるんじゃん～",
+      "INDONESIAN": "Kamu pinter juga soal gini, ya?",
+      "PORTUGUESE": "Você tem um bom olho pra isso, hein?",
+      "RUSSIAN": "У тебя, похоже, глаз наметанный, а?",
+      "FRENCH": "T’as l’œil pour ça, hein ?",
+      "THAI": "สายตาเธอดีเหมือนกันนะเนี่ย?"
+    },
+    "TIME": {
+      "SHOW": 17.08,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 눈썰미가 있어.",
+      "ENGLISH": "What do you mean, good eye? ",
+      "CHINESE_SIMPLIFIED": "什么眼力好呀",
+      "CHINESE_TRADITIONAL": "什麼眼力好呀",
+      "JAPANESE": "何が観察力よ。",
+      "INDONESIAN": "Maksudmu pinter gimana?",
+      "PORTUGUESE": "Bom olho?",
+      "RUSSIAN": "Что значит, «глаз наметанный»?",
+      "FRENCH": "Qu’est-ce que tu veux dire par « t’as l’œil » ?",
+      "THAI": "หมายความว่าไงว่าสายตาดี?"
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "쟤 아무것도 몰라~",
+      "ENGLISH": "He knows nothing!",
+      "CHINESE_SIMPLIFIED": "他懂个p~",
+      "CHINESE_TRADITIONAL": "他懂個p~",
+      "JAPANESE": "こいつ、何も分かってないんだから！",
+      "INDONESIAN": "Dia gak tahu apa-apa!",
+      "PORTUGUESE": "Ele não sabe de nada!",
+      "RUSSIAN": "Он ничего не понимает!",
+      "FRENCH": "Il n’y connaît rien !",
+      "THAI": "เขาไม่รู้อะไรซะหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "근데",
+      "ENGLISH": "Isn't that",
+      "CHINESE_SIMPLIFIED": "不过",
+      "CHINESE_TRADITIONAL": "不過",
+      "JAPANESE": "でもさ、",
+      "INDONESIAN": "Bukannya itu",
+      "PORTUGUESE": "Isso não é",
+      "RUSSIAN": "Разве это не",
+      "FRENCH": "C’est pas",
+      "THAI": "นั่นมัน"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 23.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "저거 언니 거 맞지 않아?",
+      "ENGLISH": "Yours?",
+      "CHINESE_SIMPLIFIED": "那个不就是姐姐的嘛~",
+      "CHINESE_TRADITIONAL": "那個不就是姐姐的嘛~",
+      "JAPANESE": "これ、お姉ちゃんのじゃないの？",
+      "INDONESIAN": "Punyamu?",
+      "PORTUGUESE": "Seu?",
+      "RUSSIAN": "твоё?",
+      "FRENCH": "le tien ?",
+      "THAI": "ของเธอไม่ใช่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "...맞긴 한데!",
+      "ENGLISH": "...That's true",
+      "CHINESE_SIMPLIFIED": "是…我的",
+      "CHINESE_TRADITIONAL": "是…我的",
+      "JAPANESE": "…まあ、そうだけど！",
+      "INDONESIAN": "...Iya, sih.",
+      "PORTUGUESE": "...É, sim.",
+      "RUSSIAN": "...Ну да",
+      "FRENCH": "...C’est vrai",
+      "THAI": "...ใช่"
+    },
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 26.8
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "길고 짧은 건 까봐야 아는 거지!",
+      "ENGLISH": "But you won't know until you try it on!",
+      "CHINESE_SIMPLIFIED": "不过是大是小得亲眼看才能知道啊!",
+      "CHINESE_TRADITIONAL": "不過是大是小得親眼看才能知道啊!",
+      "JAPANESE": "長いか短いかは、実際に比べてみない分からないでしょ！",
+      "INDONESIAN": "Tapi kamu gak bakal tahu sampai dicoba!",
+      "PORTUGUESE": "Mas você não vai saber até experimentar!",
+      "RUSSIAN": "Но пока не примеришь, не узнаешь!",
+      "FRENCH": "Mais tu sauras pas tant que tu l’auras pas essayé !",
+      "THAI": "แต่จะรู้ได้ก็ต่อเมื่อเธอลองใส่นะ!"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 까봤다가 언니 상처받으면 어떡해~",
+      "ENGLISH": "...It is, but how would she feel if she knew?",
+      "CHINESE_SIMPLIFIED": "真比较的话，姐你可能会受伤哦~",
+      "CHINESE_TRADITIONAL": "真比較的話，姐你可能會受傷哦~",
+      "JAPANESE": "比べてたとして、お姉ちゃんが傷ついたらどうするの～？",
+      "INDONESIAN": "...Iya, tapi gimana perasaannya kalau dia tahu?",
+      "PORTUGUESE": "...É, mas como ela se sentiria se soubesse?",
+      "RUSSIAN": "...Правда, но что она подумает, если узнает?",
+      "FRENCH": "...C’est vrai, mais que penserait-elle si elle savait ?",
+      "THAI": "...มันใช่ แต่ถ้าเธอรู้จะรู้สึกยังไงนะ?"
+    },
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 32.1
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "네가 할 말은 아니거든?",
+      "ENGLISH": "Not your place to say!",
+      "CHINESE_SIMPLIFIED": "这话可轮不到你说!",
+      "CHINESE_TRADITIONAL": "這話可輪不到你說!",
+      "JAPANESE": "それ、あんたが言うことじゃないでしょ！",
+      "INDONESIAN": "Bukan urusanmu!",
+      "PORTUGUESE": "Não é da sua conta!",
+      "RUSSIAN": "Не твоё дело!",
+      "FRENCH": "C’est pas à toi de décider !",
+      "THAI": "ไม่ใช่เรื่องของเธอ!"
+    },
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 33.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "이거 뭐 비키니 같은 거 입고 보여줄 수도 없고...",
+      "ENGLISH": "Oh, I can’t exactly show you guys in a bikini or anything.",
+      "CHINESE_SIMPLIFIED": "穿比基尼都没什么看点的人…",
+      "CHINESE_TRADITIONAL": "穿比基尼都沒什麼看點的人…",
+      "JAPANESE": "ビキニみたいなやつ着て、見せるわけにもいかないじゃん…",
+      "INDONESIAN": "Oh, aku gak bisa nunjukin ke kalian pakai bikini atau semacamnya.",
+      "PORTUGUESE": "Ah, eu não posso mostrar pra vocês de biquíni nem nada.",
+      "RUSSIAN": "Ну, я не могу показать вам себя в бикини или что-то в этом роде.",
+      "FRENCH": "Bon, je peux pas vous montrer un bikini ou quoi que ce soit.",
+      "THAI": "เอ่อ ฉันคงไม่ถึงกับใส่บิกินี่มาโชว์หรอก"
+    },
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 36.4
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "비키니...?",
+      "ENGLISH": "Bikini...?",
+      "CHINESE_SIMPLIFIED": "比基尼…?",
+      "CHINESE_TRADITIONAL": "比基尼…?",
+      "JAPANESE": "ビキニ…？",
+      "INDONESIAN": "Bikini...?",
+      "PORTUGUESE": "Biquíni...?",
+      "RUSSIAN": "Бикини...?",
+      "FRENCH": "Un bikini...?",
+      "THAI": "บิกินี่...?"
+    },
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 37.6
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa,",
+      "PORTUGUESE": "Oppa,",
+      "RUSSIAN": "Оппа,",
+      "FRENCH": "Oppa,",
+      "THAI": "พี่"
+    },
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 38.9
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "우리 바다 갈까?",
+      "ENGLISH": "Should we go to the beach?",
+      "CHINESE_SIMPLIFIED": "我们去海边玩吧?",
+      "CHINESE_TRADITIONAL": "我們去海邊玩吧?",
+      "JAPANESE": "海行かない？",
+      "INDONESIAN": "Kita pergi ke pantai, yuk?",
+      "PORTUGUESE": "Vamos pra praia?",
+      "RUSSIAN": "поедем на пляж?",
+      "FRENCH": "on va à la plage ?",
+      "THAI": "เราไปทะเลกันไหม?"
+    },
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 41.0
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "갑자기 바다?",
+      "ENGLISH": "The beach, suddenly?",
+      "CHINESE_SIMPLIFIED": "突然说去海边?",
+      "CHINESE_TRADITIONAL": "突然說去海邊?",
+      "JAPANESE": "急に海？",
+      "INDONESIAN": "Pantai, tiba-tiba?",
+      "PORTUGUESE": "Praia, do nada?",
+      "RUSSIAN": "На пляж, вдруг?",
+      "FRENCH": "La plage, comme ça ?",
+      "THAI": "ทะเล อยู่ๆ ก็ทะเล?"
+    },
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 42.7
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "웅!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!"
+    },
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 43.2
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "날도 너무 덥구...",
+      "ENGLISH": "It's so hot...",
+      "CHINESE_SIMPLIFIED": "天气这么热…",
+      "CHINESE_TRADITIONAL": "天氣這麼熱…",
+      "JAPANESE": "天気も暑いし…",
+      "INDONESIAN": "Panas banget...",
+      "PORTUGUESE": "Tá tão quente...",
+      "RUSSIAN": "Так жарко...",
+      "FRENCH": "Il fait si chaud...",
+      "THAI": "อากาศมันร้อนมาก..."
+    },
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 44.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "나도 보여줄 거 있는데...",
+      "ENGLISH": "I have something to show you too...",
+      "CHINESE_SIMPLIFIED": "而且我有东西想给你看…",
+      "CHINESE_TRADITIONAL": "而且我有東西想給你看…",
+      "JAPANESE": "私も見せたいものがあって…",
+      "INDONESIAN": "Aku juga ada sesuatu yang mau kutunjukin ke kamu...",
+      "PORTUGUESE": "Eu também tenho algo pra te mostrar...",
+      "RUSSIAN": "У меня тоже есть кое-что, что я хочу показать тебе...",
+      "FRENCH": "J’ai quelque chose à te montrer aussi...",
+      "THAI": "ฉันก็มีอะไรจะโชว์เธอเหมือนกัน..."
+    },
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 46.8
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "좋네 가자~",
+      "ENGLISH": "Sounds good, let's go!",
+      "CHINESE_SIMPLIFIED": "好啊 去吧~",
+      "CHINESE_TRADITIONAL": "好啊 去吧~",
+      "JAPANESE": "いいね、行こうよ。",
+      "INDONESIAN": "Boleh juga, yuk pergi!",
+      "PORTUGUESE": "Parece uma boa ideia, vamos!",
+      "RUSSIAN": "Хорошо, поехали!",
+      "FRENCH": "Ça marche, allons-y !",
+      "THAI": "ดีเลย ไปกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 48.6
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "저도..",
+      "ENGLISH": "No...",
+      "CHINESE_SIMPLIFIED": "那我也...",
+      "CHINESE_TRADITIONAL": "那我也...",
+      "JAPANESE": "私も…",
+      "INDONESIAN": "Gak ada...",
+      "PORTUGUESE": "Não tem...",
+      "RUSSIAN": "Нет...",
+      "FRENCH": "Non...",
+      "THAI": "ไม่มี..."
+    },
+    "TIME": {
+      "SHOW": 48.8,
+      "HIDE": 49.5
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "안 갈 이유는 없죠!",
+      "ENGLISH": "Reason not to!",
+      "CHINESE_SIMPLIFIED": "我也没有不去的理由~",
+      "CHINESE_TRADITIONAL": "我也沒有不去的理由~",
+      "JAPANESE": "行かない理由はないでしょ！",
+      "INDONESIAN": "Alasan buat enggak!",
+      "PORTUGUESE": "Razão pra não ir!",
+      "RUSSIAN": "Причин отказываться нет!",
+      "FRENCH": "Pas de raison de dire non !",
+      "THAI": "เหตุผลที่จะไม่ไป!"
+    },
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 50.7
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "바다 좋지~ ",
+      "ENGLISH": "The beach sounds great.",
+      "CHINESE_SIMPLIFIED": "海边不错啊~",
+      "CHINESE_TRADITIONAL": "海邊不錯啊~",
+      "JAPANESE": "海、いいよね～",
+      "INDONESIAN": "Pantai kedengarannya seru.",
+      "PORTUGUESE": "Praia parece ótimo.",
+      "RUSSIAN": "Пляж звучит отлично.",
+      "FRENCH": "La plage, c’est parfait.",
+      "THAI": "ทะเลฟังดูดีเลย"
+    },
+    "TIME": {
+      "SHOW": 51.5,
+      "HIDE": 52.4
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 우리 말 나온 김에",
+      "ENGLISH": "Should we go",
+      "CHINESE_SIMPLIFIED": "话说到这了",
+      "CHINESE_TRADITIONAL": "話說到這了",
+      "JAPANESE": "じゃあ、今ちょうど話してるし",
+      "INDONESIAN": "Kita pergi",
+      "PORTUGUESE": "A gente vai",
+      "RUSSIAN": "Поедем",
+      "FRENCH": "On part",
+      "THAI": "เราไป"
+    },
+    "TIME": {
+      "SHOW": 52.7,
+      "HIDE": 54.1
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "지금 갈까요?",
+      "ENGLISH": "Now?",
+      "CHINESE_SIMPLIFIED": "不如现在就走?",
+      "CHINESE_TRADITIONAL": "不如現在就走?",
+      "JAPANESE": "今からでも行くのは、どうかしら？",
+      "INDONESIAN": "sekarang?",
+      "PORTUGUESE": "agora?",
+      "RUSSIAN": "сейчас?",
+      "FRENCH": "maintenant ?",
+      "THAI": "ตอนนี้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 54.1,
+      "HIDE": 55.3
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "내 건 그냥 가져갈게.",
+      "ENGLISH": "I’ll just bring my stuff.",
+      "CHINESE_SIMPLIFIED": "我把我的拿走了啊",
+      "CHINESE_TRADITIONAL": "我把我的拿走了啊",
+      "JAPANESE": "私のはそのまま持ってくわ。",
+      "INDONESIAN": "Aku ambil barang-barangku dulu.",
+      "PORTUGUESE": "Vou só pegar minhas coisas.",
+      "RUSSIAN": "Я только возьму свои вещи.",
+      "FRENCH": "Je vais juste prendre mes affaires.",
+      "THAI": "ฉันแค่ไปหยิบของแป๊บนะ"
+    },
+    "TIME": {
+      "SHOW": 55.95,
+      "HIDE": 57.9
+    }
+  }
+]

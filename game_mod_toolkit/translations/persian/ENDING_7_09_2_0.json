@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만 이거 몇 번이랬지?",
+      "ENGLISH": "Yuman, what's the number this order?",
+      "CHINESE_SIMPLIFIED": "吴宥万!这个是几号来着?",
+      "CHINESE_TRADITIONAL": "吳宥萬!這個是幾號來着?",
+      "JAPANESE": "ユマン！これ、何番だっけ？",
+      "INDONESIAN": "Yuman, nomor pesanan ini berapa?",
+      "PORTUGUESE": "Yuman, qual é o número desse pedido?",
+      "RUSSIAN": "Юман, какой номер у этого заказа?",
+      "FRENCH": "Yuman, c’est quoi le numéro de cette commande ?",
+      "THAI": "ยูมัน หมายเลขออเดอร์นี้คืออะไร?",
+      "PERSIAN": "یومان، این سفارش چند شماره است؟"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어 그거... ",
+      "ENGLISH": "That one...",
+      "CHINESE_SIMPLIFIED": "那个…",
+      "CHINESE_TRADITIONAL": "那個…",
+      "JAPANESE": "あ、これ？",
+      "INDONESIAN": "Yang itu...",
+      "PORTUGUESE": "Aquele ali...",
+      "RUSSIAN": "Этот...",
+      "FRENCH": "Celui-là...",
+      "THAI": "อันนั้น...",
+      "PERSIAN": "اون یکی..."
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "28번!",
+      "ENGLISH": "28!",
+      "CHINESE_SIMPLIFIED": "28号!",
+      "CHINESE_TRADITIONAL": "28號!",
+      "JAPANESE": "28番！",
+      "INDONESIAN": "28!",
+      "PORTUGUESE": "28!",
+      "RUSSIAN": "28!",
+      "FRENCH": "28 !",
+      "THAI": "28!",
+      "PERSIAN": "28!"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 뜨거!",
+      "ENGLISH": "Ow, hot!",
+      "CHINESE_SIMPLIFIED": "啊好烫!",
+      "CHINESE_TRADITIONAL": "啊好燙!",
+      "JAPANESE": "あっ、あつっ！",
+      "INDONESIAN": "Aduh, panas!",
+      "PORTUGUESE": "Ai, quente!",
+      "RUSSIAN": "Ай, горячо!",
+      "FRENCH": "Aïe, c’est chaud !",
+      "THAI": "โอ๊ย ร้อน!",
+      "PERSIAN": "اوه، داغ!"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야! 왜, 왜 그래!",
+      "ENGLISH": "What’s wrong?",
+      "CHINESE_SIMPLIFIED": "什么？怎么了?",
+      "CHINESE_TRADITIONAL": "什麼？怎麼了?",
+      "JAPANESE": "おい、大丈夫か！？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "O que houve?",
+      "RUSSIAN": "Что случилось?",
+      "FRENCH": "Qu’est-ce qu’il y a ?",
+      "THAI": "เป็นอะไรหรือเปล่า?",
+      "PERSIAN": "چه اشکالی دارد؟"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아... 데인 거 같아..",
+      "ENGLISH": "I think I got burned...",
+      "CHINESE_SIMPLIFIED": "我好像被烫到了…",
+      "CHINESE_TRADITIONAL": "我好像被燙到了…",
+      "JAPANESE": "ああ…ちょっと、やけどしたみたい…",
+      "INDONESIAN": "Kayaknya aku kena luka bakar...",
+      "PORTUGUESE": "Acho que me queimei...",
+      "RUSSIAN": "Кажется, я обжёг(обожгла)сь...",
+      "FRENCH": "Je crois que je me suis brûlé(e)...",
+      "THAI": "ฉันคิดว่าฉันโดนน้ำร้อนลวก...",
+      "PERSIAN": "فکر کنم سوختم..."
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아...!",
+      "ENGLISH": "Ack!",
+      "CHINESE_SIMPLIFIED": "好疼…!",
+      "CHINESE_TRADITIONAL": "好疼…!",
+      "JAPANESE": "ああ…！",
+      "INDONESIAN": "Aduh!",
+      "PORTUGUESE": "Ai!",
+      "RUSSIAN": "Ай!",
+      "FRENCH": "Aïe !",
+      "THAI": "โอ๊ย!",
+      "PERSIAN": "آک!"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아니~ ",
+      "ENGLISH": "See?",
+      "CHINESE_SIMPLIFIED": "不是",
+      "CHINESE_TRADITIONAL": "不是",
+      "JAPANESE": "だから",
+      "INDONESIAN": "Tuh kan!",
+      "PORTUGUESE": "Viu?",
+      "RUSSIAN": "Видишь?",
+      "FRENCH": "Tu vois ?",
+      "THAI": "เห็นไหม?",
+      "PERSIAN": "See?"
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 17.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그니까 알바생을 더 쓰자니까?",
+      "ENGLISH": "See, this is why I keep telling the boss we need more staff! ",
+      "CHINESE_SIMPLIFIED": "都说让你招个兼职生啊",
+      "CHINESE_TRADITIONAL": "都說讓你招個兼職生啊",
+      "JAPANESE": "他のバイト雇えって言っただろ！",
+      "INDONESIAN": "Lihat, ini kenapa aku terus bilang ke bos kalau kita butuh lebih banyak staf!",
+      "PORTUGUESE": "Viu, é por isso que eu vivo dizendo ao chefe que precisamos de mais pessoal!",
+      "RUSSIAN": "Вот почему я всё время говорю начальнику, что нам нужно больше персонала!",
+      "FRENCH": "C’est pour ça que je continue de dire au patron qu’on a besoin de plus de personnel !",
+      "THAI": "นี่แหละที่ฉันคอยบอกหัวหน้าว่าเราต้องการพนักงานเพิ่ม!",
+      "PERSIAN": "ببینید، به همین دلیل است که من مدام به رئیس می گویم که ما به کارکنان بیشتری نیاز داریم!"
+    },
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "바쁘니까 자꾸 다치잖아.",
+      "ENGLISH": "People keep getting hurt because we’re so busy.",
+      "CHINESE_SIMPLIFIED": "你自己忙来忙去当然会受伤啊!",
+      "CHINESE_TRADITIONAL": "你自己忙來忙去當然會受傷啊!",
+      "JAPANESE": "忙しい時に限って、いつも怪我してるじゃないか。",
+      "INDONESIAN": "Orang-orang terus saja terluka karena kita terlalu sibuk.",
+      "PORTUGUESE": "As pessoas continuam se machucando porque estamos ocupados demais.",
+      "RUSSIAN": "Люди продолжают получать травмы, потому что мы так заняты.",
+      "FRENCH": "Les gens continuent de se blesser parce qu’on est débordés.",
+      "THAI": "คนเจ็บกันเพราะเรางานยุ่งมาก",
+      "PERSIAN": "مردم مدام صدمه می بینند چون ما خیلی شلوغ هستیم."
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "머리도 좀 넘기고! ",
+      "ENGLISH": "Fix your hair!",
+      "CHINESE_SIMPLIFIED": "头发也记得放到后面",
+      "CHINESE_TRADITIONAL": "頭髮也記得放到後面",
+      "JAPANESE": "ほら、髪もちゃんとまとめて！",
+      "INDONESIAN": "Rapikan rambutmu!",
+      "PORTUGUESE": "Arruma o cabelo!",
+      "RUSSIAN": "Поправь волосы!",
+      "FRENCH": "Remets tes cheveux en place !",
+      "THAI": "จัดผมให้เรียบร้อยหน่อย!",
+      "PERSIAN": "موهایت را درست کن!"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "이건 내가 갔다 온다?",
+      "ENGLISH": "Look, I’ll handle this, okay?",
+      "CHINESE_SIMPLIFIED": "这个我送过去吧",
+      "CHINESE_TRADITIONAL": "這個我送過去吧",
+      "JAPANESE": "これは俺が行ってくるから！",
+      "INDONESIAN": "Dengar, aku yang urus ini, oke?",
+      "PORTUGUESE": "Olha, eu cuido disso, tá?",
+      "RUSSIAN": "Смотри, я справлюсь с этим, ладно?",
+      "FRENCH": "Regarde, je m’occupe de ça, d’accord ?",
+      "THAI": "เดี๋ยวฉันจัดการเอง โอเคไหม?",
+      "PERSIAN": "ببین، من از عهده این کار بر می آیم، باشه؟"
+    },
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "앗 뜨거.. 앗 뜨거! 앗 뜨거!!",
+      "ENGLISH": "Ow, ow, ow! It's hot!",
+      "CHINESE_SIMPLIFIED": "啊好烫!...好烫好烫",
+      "CHINESE_TRADITIONAL": "啊好燙!...好燙好燙",
+      "JAPANESE": "あつっ、あつっ！！",
+      "INDONESIAN": "Aduh, aduh, aduh! Panas!",
+      "PORTUGUESE": "Ai, ai, ai! Está quente!",
+      "RUSSIAN": "Ай-ай-ай! Горячо!",
+      "FRENCH": "Aïe, aïe, aïe ! C’est chaud !",
+      "THAI": "โอ๊ย โอ๊ย โอ๊ย! ร้อน!",
+      "PERSIAN": "اوه، اوه، اوه! داغ است!"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "쓰읍 아뜨뜨!",
+      "ENGLISH": "Ouch!",
+      "CHINESE_SIMPLIFIED": "嘶...烫烫烫",
+      "CHINESE_TRADITIONAL": "嘶...燙燙燙",
+      "JAPANESE": "ふぅ、あつっ！",
+      "INDONESIAN": "Aduh!",
+      "PORTUGUESE": "Ai!",
+      "RUSSIAN": "Ай!",
+      "FRENCH": "Aïe !",
+      "THAI": "โอ๊ย!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.5
+    }
+  }
+]

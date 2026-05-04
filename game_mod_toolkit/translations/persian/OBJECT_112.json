@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "(킁킁)",
+      "ENGLISH": "(Sniff)",
+      "CHINESE_SIMPLIFIED": "(嗅嗅)",
+      "CHINESE_TRADITIONAL": "(嗅嗅)",
+      "JAPANESE": "（クンクン）",
+      "INDONESIAN": "(Mengendus)",
+      "PORTUGUESE": "(Cheirando)",
+      "RUSSIAN": "(Сопение)",
+      "FRENCH": "(Sniff)",
+      "THAI": "(สูดน้ำมูก)",
+      "PERSIAN": "(بو کشیدن)"
+    },
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "윽...? 악!!!",
+      "ENGLISH": "Ugh...? Ack!!!",
+      "CHINESE_SIMPLIFIED": "呃......？啊！",
+      "CHINESE_TRADITIONAL": "呃......？啊！",
+      "JAPANESE": "うっ…？ うわっ！！！",
+      "INDONESIAN": "Ugh...? Aduh!!!",
+      "PORTUGUESE": "Argh...? Ah!!!",
+      "RUSSIAN": "Ух...? Ах!!!",
+      "FRENCH": "Hein...? Ack!!!",
+      "THAI": "อือ...? อ๊ะ!!!",
+      "PERSIAN": "اوه...؟ آک!!!"
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "컥..!",
+      "ENGLISH": "Kuck...!",
+      "CHINESE_SIMPLIFIED": "咯...!",
+      "CHINESE_TRADITIONAL": "咯...!",
+      "JAPANESE": "ゴホッ…！",
+      "INDONESIAN": "Uhuk..!",
+      "PORTUGUESE": "Cof..!",
+      "RUSSIAN": "Кх...!",
+      "FRENCH": "Kuck...!",
+      "THAI": "คั่ก...!",
+      "PERSIAN": "کک...!"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "컥..!",
+      "ENGLISH": "Kuck...!",
+      "CHINESE_SIMPLIFIED": "咯...!",
+      "CHINESE_TRADITIONAL": "咯...!",
+      "JAPANESE": "ゴホッ…！",
+      "INDONESIAN": "Uhuk..!",
+      "PORTUGUESE": "Cof..!",
+      "RUSSIAN": "Кх...!",
+      "FRENCH": "Kuck...!",
+      "THAI": "คั่ก...!",
+      "PERSIAN": "کک...!"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어우...",
+      "ENGLISH": "Kuck...!",
+      "CHINESE_SIMPLIFIED": "啊.....",
+      "CHINESE_TRADITIONAL": "啊.....",
+      "JAPANESE": "うぅ…",
+      "INDONESIAN": "Aduh...",
+      "PORTUGUESE": "Ai...",
+      "RUSSIAN": "Кх...!",
+      "FRENCH": "Kuck...!",
+      "THAI": "คั่ก...!",
+      "PERSIAN": "کک...!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.4
+    }
+  }
+]

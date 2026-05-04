@@ -1,0 +1,325 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이건 아기들도 타는 거죠?",
+      "ENGLISH": "Is this something kids ride too?",
+      "CHINESE_SIMPLIFIED": "这个小孩子也能坐吗?",
+      "CHINESE_TRADITIONAL": "這個小孩子也能坐嗎?",
+      "JAPANESE": "これ、小さい子でも乗れるんですよね？",
+      "INDONESIAN": "Ini juga dipakai anak-anak ya?",
+      "PORTUGUESE": "Isso também é para crianças?",
+      "RUSSIAN": "На этом тоже катаются дети?",
+      "FRENCH": "Les enfants montent là-dessus aussi ?",
+      "THAI": "เด็กๆ ก็ขี่แบบนี้ด้วยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네, 맞아요. 왜요?",
+      "ENGLISH": "Yes, why?",
+      "CHINESE_SIMPLIFIED": "怎么?",
+      "CHINESE_TRADITIONAL": "怎麼?",
+      "JAPANESE": "そうですよ。それがどうしたんですか？",
+      "INDONESIAN": "Iya, kenapa?",
+      "PORTUGUESE": "Sim, por quê?",
+      "RUSSIAN": "Да, а что?",
+      "FRENCH": "Oui, pourquoi ?",
+      "THAI": "ใช่ ทำไมเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "무서워요?",
+      "ENGLISH": "Are you scared?",
+      "CHINESE_SIMPLIFIED": "你害怕了?",
+      "CHINESE_TRADITIONAL": "你害怕了?",
+      "JAPANESE": "怖いですか？",
+      "INDONESIAN": "Kamu takut?",
+      "PORTUGUESE": "Você tá com medo?",
+      "RUSSIAN": "Ты боишься?",
+      "FRENCH": "Tu as peur ?",
+      "THAI": "เธอกลัวหรือไง?"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아니요. 이렇게 큰 오리배가 어떻게 뜨나 해서요!",
+      "ENGLISH": "No, I was just wondering how such a big duck boat floats!",
+      "CHINESE_SIMPLIFIED": "不是，我是好奇这么大的鸭子船是怎么动起来的!",
+      "CHINESE_TRADITIONAL": "不是，我是好奇這麼大的鴨子船是怎麼動起來的!",
+      "JAPANESE": "あ、こんな大きなアヒルボートがどうやって浮くのかなと思って。",
+      "INDONESIAN": "Enggak, aku cuma penasaran gimana perahu bebek sebesar ini bisa ngambang!",
+      "PORTUGUESE": "Não, eu só estava pensando como um barco de pato tão grande pode flutuar!",
+      "RUSSIAN": "Нет, я просто задумалась, как такая большая лодка-утка не тонет!",
+      "FRENCH": "Non, je me demandais juste comment un aussi gros bateau-canard flotte !",
+      "THAI": "ไม่ ฉันแค่สงสัยว่าเรือเป็ดตัวใหญ่ขนาดนี้ลอยได้ยังไง!"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이거 가라앉으면 어떡해요?",
+      "ENGLISH": "What if it sinks?",
+      "CHINESE_SIMPLIFIED": "如果它沉下去了怎么办?",
+      "CHINESE_TRADITIONAL": "如果它沉下去了怎麼辦?",
+      "JAPANESE": "これ、沈んだらどうしよう。",
+      "INDONESIAN": "Gimana kalau tenggelam?",
+      "PORTUGUESE": "E se ele afundar?",
+      "RUSSIAN": "А что, если она утонет?",
+      "FRENCH": "Et s’il coulait ?",
+      "THAI": "แล้วถ้ามันจมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 그걸 말 안 했구나.",
+      "ENGLISH": "Oh, I forgot to tell you!",
+      "CHINESE_SIMPLIFIED": "啊我没和你说吗?",
+      "CHINESE_TRADITIONAL": "啊我沒和你說嗎?",
+      "JAPANESE": "あ、言い忘れてましたね。",
+      "INDONESIAN": "Oh, aku lupa bilang!",
+      "PORTUGUESE": "Ah, eu esqueci de te contar!",
+      "RUSSIAN": "Ой, забыла сказать!",
+      "FRENCH": "Oh, j’ai oublié de te dire !",
+      "THAI": "อ้อ ลืมบอกไป!"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이거 가라앉으면, 우리 수영해야 해요.",
+      "ENGLISH": "If it sinks, we’ll have to swim.",
+      "CHINESE_SIMPLIFIED": "一会儿沉下去的话我们就得游泳了",
+      "CHINESE_TRADITIONAL": "一會兒沉下去的話我們就得游泳了",
+      "JAPANESE": "これが沈んだら、私たち、自力で泳がなきゃいけないですよ。",
+      "INDONESIAN": "Kalau tenggelam, kita harus berenang.",
+      "PORTUGUESE": "Se afundar, a gente vai ter que nadar.",
+      "RUSSIAN": "Если утонет, нам придётся плыть.",
+      "FRENCH": "S’il coule, il faudra qu’on nage.",
+      "THAI": "ถ้ามันจม เราก็ต้องว่ายน้ำนะ"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 16.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "네? ",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저 수영 못 하는데...",
+      "ENGLISH": "I can’t swim...",
+      "CHINESE_SIMPLIFIED": "可我不会游泳…",
+      "CHINESE_TRADITIONAL": "可我不會游泳…",
+      "JAPANESE": "私泳げないんですけど…",
+      "INDONESIAN": "Aku gak bisa berenang...",
+      "PORTUGUESE": "Eu não sei nadar...",
+      "RUSSIAN": "Я не умею плавать...",
+      "FRENCH": "Je ne sais pas nager...",
+      "THAI": "ฉันว่ายน้ำไม่เป็น..."
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "지금이라도 내릴래요...!",
+      "ENGLISH": "I want to get off now!",
+      "CHINESE_SIMPLIFIED": "我还是现在就下去吧…!",
+      "CHINESE_TRADITIONAL": "我還是現在就下去吧…!",
+      "JAPANESE": "もう降りたいです…！",
+      "INDONESIAN": "Aku mau turun sekarang!",
+      "PORTUGUESE": "Quero sair agora!",
+      "RUSSIAN": "Я хочу выйти сейчас!",
+      "FRENCH": "Je veux descendre maintenant !",
+      "THAI": "ฉันอยากลงตอนนี้เลย!"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "농담이에요, 농담.",
+      "ENGLISH": "I’m just joking...!",
+      "CHINESE_SIMPLIFIED": "我开玩笑的哈哈…",
+      "CHINESE_TRADITIONAL": "我開玩笑的哈哈…",
+      "JAPANESE": "冗談ですよ、冗談。",
+      "INDONESIAN": "Aku cuma bercanda...!",
+      "PORTUGUESE": "Eu só tô brincando...!",
+      "RUSSIAN": "Я же шучу...!",
+      "FRENCH": "Je plaisante...!",
+      "THAI": "ฉันแค่ล้อเล่นน่า...!"
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.9
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐예요!",
+      "ENGLISH": "What’s with you!",
+      "CHINESE_SIMPLIFIED": "啊 真是的!",
+      "CHINESE_TRADITIONAL": "啊 真是的!",
+      "JAPANESE": "何それ！",
+      "INDONESIAN": "Apa-apaan sih kamu!",
+      "PORTUGUESE": "Qual é o seu problema!",
+      "RUSSIAN": "Ну что ты такой!",
+      "FRENCH": "Mais t’es pas possible !",
+      "THAI": "อะไรกันเธอเนี่ย!"
+    },
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "근데 유만 님 왜 이렇게 힘들어하세요?",
+      "ENGLISH": "But why are you struggling so much, Yuman?",
+      "CHINESE_SIMPLIFIED": "不过您看起来很累的样子",
+      "CHINESE_TRADITIONAL": "不過您看起來很累的樣子",
+      "JAPANESE": "でもユマンさん、何でそんなにしんどそうなんですか？",
+      "INDONESIAN": "Tapi kenapa kamu kelihatan kesulitan banget, Yuman?",
+      "PORTUGUESE": "Mas por que você tá se esforçando tanto, Yuman?",
+      "RUSSIAN": "Но почему ты так напрягаешься, Юман?",
+      "FRENCH": "Mais pourquoi tu galères autant, Yuman ?",
+      "THAI": "แล้วทำไมยูมันถึงดูเหนื่อยขนาดนี้?"
+    },
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "이거 제가... 혼자 하고 있어가지고...",
+      "ENGLISH": "This... I’m pedaling by myself...",
+      "CHINESE_SIMPLIFIED": "因为…我一直在自己踩这个…",
+      "CHINESE_TRADITIONAL": "因爲…我一直在自己踩這個…",
+      "JAPANESE": "これ、僕が…一人で漕いでるから…",
+      "INDONESIAN": "Ini... Aku ngayuh sendirian...",
+      "PORTUGUESE": "É que... Eu tô pedalando sozinho...",
+      "RUSSIAN": "Эм... Я педалирую один...",
+      "FRENCH": "Euh... Je pédale tout seul...",
+      "THAI": "คือ... ฉันปั่นอยู่คนเดียว..."
+    },
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 31.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "이거 같이 하는 거였어요?",
+      "ENGLISH": "Were we supposed to pedal together?",
+      "CHINESE_SIMPLIFIED": "啊这个原来要一起踩的吗?",
+      "CHINESE_TRADITIONAL": "啊這個原來要一起踩的嗎?",
+      "JAPANESE": "これ、一緒に漕ぐものだったんですか？",
+      "INDONESIAN": "Kita harusnya ngayuh bareng ya?",
+      "PORTUGUESE": "A gente devia pedalar juntos?",
+      "RUSSIAN": "Нам надо было крутить педали вместе?",
+      "FRENCH": "On était censés pédaler ensemble ?",
+      "THAI": "เราต้องปั่นด้วยกันหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아요....",
+      "ENGLISH": "Never mind...",
+      "CHINESE_SIMPLIFIED": "没事…",
+      "CHINESE_TRADITIONAL": "沒事…",
+      "JAPANESE": "大丈夫ですよ…",
+      "INDONESIAN": "Udahlah...",
+      "PORTUGUESE": "Deixa pra lá...",
+      "RUSSIAN": "Не важно...",
+      "FRENCH": "Laisse tomber...",
+      "THAI": "ช่างเถอะ..."
+    },
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 36.5
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "거의 다 왔어요...",
+      "ENGLISH": "We’re almost there...",
+      "CHINESE_SIMPLIFIED": "反正马上就到了…",
+      "CHINESE_TRADITIONAL": "反正馬上就到了…",
+      "JAPANESE": "もうすぐ着きますから…",
+      "INDONESIAN": "Kita hampir sampai...",
+      "PORTUGUESE": "Estamos quase lá...",
+      "RUSSIAN": "Мы почти приехали...",
+      "FRENCH": "On y est presque...",
+      "THAI": "ใกล้ถึงแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 38.0
+    }
+  }
+]

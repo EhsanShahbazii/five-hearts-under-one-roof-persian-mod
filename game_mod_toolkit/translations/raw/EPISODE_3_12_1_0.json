@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 그럼 우리 같이 목욕한 건 기억나?",
+      "ENGLISH": "Do you remember when we took baths together?",
+      "CHINESE_SIMPLIFIED": "那你还记不记得我们一起洗澡的事?",
+      "CHINESE_TRADITIONAL": "那你還記不記得我們一起洗澡的事?",
+      "JAPANESE": "お兄ちゃん、私たち一緒に温泉に入ったの覚えてる？",
+      "INDONESIAN": "Kamu ingat nggak waktu kita mandi bareng?",
+      "PORTUGUESE": "Você lembra quando a gente tomava banho juntos?",
+      "RUSSIAN": "Помнишь, как мы вместе принимали ванну?",
+      "FRENCH": "Tu te souviens quand on prenait des bains ensemble ?",
+      "THAI": "นายจำได้ไหมว่าเราชอบอาบน้ำด้วยกัน?"
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 막 탕에 들어가가지고",
+      "ENGLISH": "We would float",
+      "CHINESE_SIMPLIFIED": "我们直接跳进去把橡胶鸭子都撞飞了",
+      "CHINESE_TRADITIONAL": "我們直接跳進去把橡膠鴨子都撞飛了",
+      "JAPANESE": "一緒に湯船に入って、",
+      "INDONESIAN": "Kita suka ngapungin",
+      "PORTUGUESE": "A gente colocava",
+      "RUSSIAN": "Мы пускали",
+      "FRENCH": "On faisait flotter",
+      "THAI": "เราจะลอย"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오리도 막 띄우고 거품 내주고 그랬는데...",
+      "ENGLISH": "Rubber ducks and make bubbles...",
+      "CHINESE_SIMPLIFIED": "还弄出了一堆泡沫什么的…",
+      "CHINESE_TRADITIONAL": "還弄出了一堆泡沫什麼的…",
+      "JAPANESE": "アヒルも浮かべて、泡作ったりして遊んだよね…",
+      "INDONESIAN": "Bebek karet dan bikin gelembung...",
+      "PORTUGUESE": "Patinhos de borracha pra boiar e fazia bolhas...",
+      "RUSSIAN": "резиновых утят и делали пузыри...",
+      "FRENCH": "des canards en plastique et des bulles...",
+      "THAI": "เป็ดยางแล้วก็เป่าฟองสบู่..."
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "나 목욕 끝나고 나면 고양이 옷 입겠다 그랬잖아~",
+      "ENGLISH": "And after the bath, I’d wear my cat outfit. ",
+      "CHINESE_SIMPLIFIED": "我洗完澡还穿了猫咪装来着",
+      "CHINESE_TRADITIONAL": "我洗完澡還穿了貓咪裝來着",
+      "JAPANESE": "私、お風呂から上がったら猫の服を着るって言ってたじゃん～",
+      "INDONESIAN": "Dan setelah mandi, aku pakai kostum kucingku.",
+      "PORTUGUESE": "E depois do banho, eu vestia minha roupa de gatinho.",
+      "RUSSIAN": "А после ванны я надевала костюм кошечки.",
+      "FRENCH": "Et après le bain, je mettais mon costume de chat.",
+      "THAI": "แล้วหลังจากอาบน้ำเสร็จ ฉันก็จะใส่ชุดแมว."
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "기억 안 나?",
+      "ENGLISH": "Remember?",
+      "CHINESE_SIMPLIFIED": "你不记得了吗?",
+      "CHINESE_TRADITIONAL": "你不記得了嗎?",
+      "JAPANESE": "覚えてるよね？",
+      "INDONESIAN": "Ingat?",
+      "PORTUGUESE": "Lembra?",
+      "RUSSIAN": "Помнишь?",
+      "FRENCH": "Tu t’en souviens ?",
+      "THAI": "จำได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.5
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜? 뭐가 잘 안 돼?",
+      "ENGLISH": "Having trouble?",
+      "CHINESE_SIMPLIFIED": "你碰到难题啦?",
+      "CHINESE_TRADITIONAL": "你碰到難題啦?",
+      "JAPANESE": "どうした？うまくいってないのか？",
+      "INDONESIAN": "Ada kesulitan?",
+      "PORTUGUESE": "Está com dificuldades?",
+      "RUSSIAN": "Трудности?",
+      "FRENCH": "Tu galères ?",
+      "THAI": "มีปัญหาหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "응..",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim...",
+      "RUSSIAN": "Да...",
+      "FRENCH": "Ouais...",
+      "THAI": "ใช่..."
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 해야 되는 지 모르겠어.",
+      "ENGLISH": "I don't know what to do.",
+      "CHINESE_SIMPLIFIED": "不知道该怎么做",
+      "CHINESE_TRADITIONAL": "不知道該怎麼做",
+      "JAPANESE": "どうやったらいいのかわからなくて。",
+      "INDONESIAN": "Aku nggak tahu harus gimana.",
+      "PORTUGUESE": "Eu não sei o que fazer.",
+      "RUSSIAN": "Я не знаю, что делать.",
+      "FRENCH": "Je ne sais pas quoi faire.",
+      "THAI": "ฉันไม่รู้จะทำยังไงดี"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.45
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이번에 잘 맞아야 되는데...",
+      "ENGLISH": "I really need to get this right...",
+      "CHINESE_SIMPLIFIED": "这次必须得做对才行…",
+      "CHINESE_TRADITIONAL": "這次必須得做對才行…",
+      "JAPANESE": "今回、いい成績取らないといけないのに…",
+      "INDONESIAN": "Aku benar-benar harus melakukan ini dengan benar...",
+      "PORTUGUESE": "Preciso acertar isso de qualquer jeito...",
+      "RUSSIAN": "Мне действительно нужно сделать это правильно...",
+      "FRENCH": "Je dois vraiment bien réussir...",
+      "THAI": "ฉันต้องทำให้ถูกให้ได้..."
+    },
+    "TIME": {
+      "SHOW": 9.93,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "음... ",
+      "ENGLISH": "Hmm... ",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хмм...",
+      "FRENCH": "Hmm...",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 책 한번 줘 볼래?",
+      "ENGLISH": "Wanna show me your book?",
+      "CHINESE_SIMPLIFIED": "我帮你看看吧？",
+      "CHINESE_TRADITIONAL": "我幫你看看吧？",
+      "JAPANESE": "ちょっとその本貸してくれる？",
+      "INDONESIAN": "Mau tunjukin bukumu?",
+      "PORTUGUESE": "Quer me mostrar seu livro?",
+      "RUSSIAN": "Показать мне свою книгу?",
+      "FRENCH": "Tu veux me montrer ton livre ?",
+      "THAI": "อยากให้ฉันดูหนังสือของคุณไหม?"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이번에 왜?",
+      "ENGLISH": "Why this time? ",
+      "CHINESE_SIMPLIFIED": "这次怎么这么用心?",
+      "CHINESE_TRADITIONAL": "這次怎麼這麼用心?",
+      "JAPANESE": "今回は、何でなんだ？",
+      "INDONESIAN": "Kenapa kali ini?",
+      "PORTUGUESE": "Por que dessa vez?",
+      "RUSSIAN": "Почему это так важно в этот раз?",
+      "FRENCH": "Pourquoi c’est si important cette fois ?",
+      "THAI": "ทำไมครั้งนี้ถึงสำคัญจัง?"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "장학금 때문에?",
+      "ENGLISH": "Because of the scholarship?",
+      "CHINESE_SIMPLIFIED": "为了奖学金?",
+      "CHINESE_TRADITIONAL": "爲了獎學金?",
+      "JAPANESE": "奨学金のため？",
+      "INDONESIAN": "Karena beasiswa?",
+      "PORTUGUESE": "Por causa da bolsa de estudos?",
+      "RUSSIAN": "Из-за стипендии?",
+      "FRENCH": "À cause de la bourse ?",
+      "THAI": "เพราะทุนการศึกษาหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 그것도 있고...",
+      "ENGLISH": "That’s part of it...",
+      "CHINESE_SIMPLIFIED": "奖学金是原因之一",
+      "CHINESE_TRADITIONAL": "獎學金是原因之一",
+      "JAPANESE": "あ、それもあるし…",
+      "INDONESIAN": "Itu salah satunya...",
+      "PORTUGUESE": "É parte disso...",
+      "RUSSIAN": "Это часть причины...",
+      "FRENCH": "C’est en partie ça...",
+      "THAI": "ก็ส่วนหนึ่ง..."
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나도 이제 오빠처럼 돈 벌어야지!",
+      "ENGLISH": "But I need to start earning money, just like you!",
+      "CHINESE_SIMPLIFIED": "主要是我想像哥哥一样赶紧赚钱！",
+      "CHINESE_TRADITIONAL": "主要是我想像哥哥一樣趕緊賺錢！",
+      "JAPANESE": "私も、お兄ちゃんみたいにお金稼がないとね！",
+      "INDONESIAN": "Tapi aku harus mulai menghasilkan uang, seperti kamu!",
+      "PORTUGUESE": "Mas eu preciso começar a ganhar dinheiro, assim como você!",
+      "RUSSIAN": "Но мне нужно начать зарабатывать деньги, как ты!",
+      "FRENCH": "Mais je dois commencer à gagner de l’argent, comme toi !",
+      "THAI": "แต่ฉันต้องเริ่มหาเงินเหมือนคุณแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "가고 싶은 회사 있어?",
+      "ENGLISH": "Got a company in mind?",
+      "CHINESE_SIMPLIFIED": "那你有想去的公司吗?",
+      "CHINESE_TRADITIONAL": "那你有想去的公司嗎?",
+      "JAPANESE": "行きたい会社とかあるの？",
+      "INDONESIAN": "Punya perusahaan yang diincar?",
+      "PORTUGUESE": "Tem uma empresa em mente?",
+      "RUSSIAN": "Присмотрела какую-нибудь компанию?",
+      "FRENCH": "Tu as une entreprise en tête ?",
+      "THAI": "มีบริษัทในใจหรือยัง?"
+    },
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 25.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm... ",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хмм...",
+      "FRENCH": "Hmm...",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "비밀!",
+      "ENGLISH": "That’s a secret!",
+      "CHINESE_SIMPLIFIED": "保~密~!",
+      "CHINESE_TRADITIONAL": "保~密~!",
+      "JAPANESE": "秘密！",
+      "INDONESIAN": "Itu rahasia!",
+      "PORTUGUESE": "Isso é segredo!",
+      "RUSSIAN": "Это секрет!",
+      "FRENCH": "C’est un secret !",
+      "THAI": "เป็นความลับ!"
+    },
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.2
+    }
+  }
+]

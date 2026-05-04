@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 진짜...",
+      "ENGLISH": "What the heck... really...",
+      "CHINESE_SIMPLIFIED": "好烦…",
+      "CHINESE_TRADITIONAL": "好煩…",
+      "JAPANESE": "何なんだよ、ほんとに…",
+      "INDONESIAN": "Apa-apaan sih... seriusan...",
+      "PORTUGUESE": "Que diabos... sério mesmo...",
+      "RUSSIAN": "Что за черт... правда, что ли...",
+      "FRENCH": "Qu’est-ce que c’est que ça... sérieux...",
+      "THAI": "อะไรกันเนี่ย... จริงเหรอ...",
+      "PERSIAN": "چه لعنتی...واقعا..."
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.7
+    }
+  }
+]

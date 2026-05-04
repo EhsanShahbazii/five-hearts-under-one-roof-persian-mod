@@ -1,0 +1,21 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "근데 만약에 내가 유명해지면 어떡할 거예요?",
+      "ENGLISH": "But what if I become famous?",
+      "CHINESE_SIMPLIFIED": "那如果我变得很有名了呢?",
+      "CHINESE_TRADITIONAL": "那如果我變得很有名了呢?",
+      "JAPANESE": "でも、もし私が有名になったら、どうしますか？",
+      "INDONESIAN": "Tapi bagaimana kalau aku jadi terkenal?",
+      "PORTUGUESE": "Mas e se eu ficar famosa?",
+      "RUSSIAN": "А что, если я стану знаменитой?",
+      "FRENCH": "Mais et si je deviens célèbre ?",
+      "THAI": "แล้วถ้าฉันกลายเป็นคนดังล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 5.2
+    }
+  }
+]

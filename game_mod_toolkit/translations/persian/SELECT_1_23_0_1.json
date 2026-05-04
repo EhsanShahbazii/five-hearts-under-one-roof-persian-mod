@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아! 고양이잖아...",
+      "ENGLISH": "Oh! It was just a cat...",
+      "CHINESE_SIMPLIFIED": "啊！是只猫啊…",
+      "CHINESE_TRADITIONAL": "啊！是隻貓啊…",
+      "JAPANESE": "あ！猫かよ…",
+      "INDONESIAN": "Oh! Ternyata cuma kucing...",
+      "PORTUGUESE": "Ah! Era só um gato...",
+      "RUSSIAN": "О! Это всего лишь кот...",
+      "FRENCH": "Oh ! C’était juste un chat...",
+      "THAI": "โอ้! ที่แท้ก็แมวเอง...",
+      "PERSIAN": "اوه! فقط یک گربه بود..."
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.0
+    }
+  }
+]

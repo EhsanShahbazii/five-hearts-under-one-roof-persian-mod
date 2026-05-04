@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "하.. 늦겠다!",
+      "ENGLISH": "Man... I'm running late!",
+      "CHINESE_SIMPLIFIED": "啊...要迟到了",
+      "CHINESE_TRADITIONAL": "啊...要遲到了",
+      "JAPANESE": "あ...遅刻しそうだ！",
+      "INDONESIAN": "Aduh... Aku udah telat nih!",
+      "PORTUGUESE": "Caramba... Tô atrasado!",
+      "RUSSIAN": "Чёрт... Я опаздываю!",
+      "FRENCH": "Mince... Je suis en retard !",
+      "THAI": "แย่แล้ว... ฉันจะสายแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이거 붙이고, 빨리 면접보러 가야되는데!",
+      "ENGLISH": "Just gotta stick this on and dash to the interview.",
+      "CHINESE_SIMPLIFIED": "得快贴完这个去面试了",
+      "CHINESE_TRADITIONAL": "得快貼完這個去面試了",
+      "JAPANESE": "このチラシを貼って、早く面接に行かなきゃ。",
+      "INDONESIAN": "Tinggal tempel ini terus langsung lari ke wawancara.",
+      "PORTUGUESE": "Só preciso colar isso e correr pra entrevista.",
+      "RUSSIAN": "Просто приклею это и бегом на собеседование.",
+      "FRENCH": "Faut juste que je colle ça et file à l’entretien.",
+      "THAI": "แค่แปะนี่ไว้ แล้วรีบไปสัมภาษณ์."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어디가 좋지?",
+      "ENGLISH": "Where's the best spot...?",
+      "CHINESE_SIMPLIFIED": "贴在哪好呢?",
+      "CHINESE_TRADITIONAL": "貼在哪好呢?",
+      "JAPANESE": "でも、どこがいいかな？",
+      "INDONESIAN": "Di mana tempat paling pas ya...?",
+      "PORTUGUESE": "Onde é o melhor lugar...?",
+      "RUSSIAN": "Куда бы прикрепить...?",
+      "FRENCH": "Où est le meilleur endroit...?",
+      "THAI": "ติดตรงไหนดี...?"
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아! 여기가 좋겠다!",
+      "ENGLISH": "Ah, here! Perfect",
+      "CHINESE_SIMPLIFIED": "啊!就那儿吧",
+      "CHINESE_TRADITIONAL": "啊!就那兒吧",
+      "JAPANESE": "あ！あそこしよう！",
+      "INDONESIAN": "Ah, di sini! Pas banget.",
+      "PORTUGUESE": "Ah, aqui! Perfeito.",
+      "RUSSIAN": "А, вот сюда! Идеально.",
+      "FRENCH": "Ah, ici ! Parfait.",
+      "THAI": "อ๊ะ ตรงนี้! เพอร์เฟกต์."
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "흠... 이렇게 붙이는 거 맞나?",
+      "ENGLISH": "Hmm... Is this how you put it up?",
+      "CHINESE_SIMPLIFIED": "嗯...这么贴对吗",
+      "CHINESE_TRADITIONAL": "嗯...這麼貼對嗎",
+      "JAPANESE": "うーん…こうやって貼ればいいのか？",
+      "INDONESIAN": "Hmm... Gini cara nempelnya, kan?",
+      "PORTUGUESE": "Hmm... Assim que se coloca, né?",
+      "RUSSIAN": "Хм... Так это так нужно повесить?",
+      "FRENCH": "Hmm... C'est comme ça qu'on le met ?",
+      "THAI": "ฮืม... ต้องติดแบบนี้ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "됐다!",
+      "ENGLISH": "Done!",
+      "CHINESE_SIMPLIFIED": "好啦",
+      "CHINESE_TRADITIONAL": "好啦",
+      "JAPANESE": "よし！",
+      "INDONESIAN": "Selesai!",
+      "PORTUGUESE": "Pronto!",
+      "RUSSIAN": "Готово!",
+      "FRENCH": "Fini !",
+      "THAI": "เสร็จแล้ว!"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아! 씁",
+      "ENGLISH": "Oh! Hey!",
+      "CHINESE_SIMPLIFIED": "啊",
+      "CHINESE_TRADITIONAL": "啊",
+      "JAPANESE": "あっ！うわっ",
+      "INDONESIAN": "Oh! Hei!",
+      "PORTUGUESE": "Oh! Ei!",
+      "RUSSIAN": "Ой! Эй!",
+      "FRENCH": "Oh ! Hé !",
+      "THAI": "โอ้! เฮ้!"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 24.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "할머니...!",
+      "ENGLISH": "Grandma!!",
+      "CHINESE_SIMPLIFIED": "奶奶",
+      "CHINESE_TRADITIONAL": "奶奶",
+      "JAPANESE": "おばさん…！",
+      "INDONESIAN": "Nenek!!",
+      "PORTUGUESE": "Vovó!!",
+      "RUSSIAN": "Бабушка!!",
+      "FRENCH": "Grand-mère !!",
+      "THAI": "คุณย่า!!"
+    },
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "여기다 이런 걸 붙이면 어떡해!",
+      "ENGLISH": "Why are you putting that here?!?!",
+      "CHINESE_SIMPLIFIED": "你怎么能在这贴这种东西呢?",
+      "CHINESE_TRADITIONAL": "你怎麼能在這貼這種東西呢?",
+      "JAPANESE": "ここにこんなの貼ったらダメでしょ！",
+      "INDONESIAN": "Kenapa kamu nempelin itu di sini?!",
+      "PORTUGUESE": "Por que você tá colocando isso aqui?!",
+      "RUSSIAN": "Почему вы это сюда вешаете?!?!",
+      "FRENCH": "Pourquoi tu mets ça ici ?!?!",
+      "THAI": "ทำไมคุณมาติดนี่ไว้ตรงนี้?!?!"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "다들 이렇게 하던데요?",
+      "ENGLISH": "Everyone else does it like this, though?",
+      "CHINESE_SIMPLIFIED": "大家不都贴在这吗?",
+      "CHINESE_TRADITIONAL": "大家不都貼在這嗎?",
+      "JAPANESE": "みんな同じようにしているって聞きましたけど？",
+      "INDONESIAN": "Yang lain juga pasang kayak gini, kok?",
+      "PORTUGUESE": "Todo mundo faz assim, ué!",
+      "RUSSIAN": "Все остальные делают вот так.",
+      "FRENCH": "Tout le monde le fait comme ça pourtant.",
+      "THAI": "แต่คนอื่นเขาติดแบบนี้กันหมดเลยนะ?"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "안 된다니까!",
+      "ENGLISH": "I said no!",
+      "CHINESE_SIMPLIFIED": "我说了不行!",
+      "CHINESE_TRADITIONAL": "我說了不行!",
+      "JAPANESE": "ダメなものはダメよ！",
+      "INDONESIAN": "Aku bilang nggak boleh!",
+      "PORTUGUESE": "Eu disse que não!",
+      "RUSSIAN": "Я сказал – нет!",
+      "FRENCH": "J’ai dit non !",
+      "THAI": "ฉันบอกว่าไม่ได้!"
+    },
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 33.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "But why not?",
+      "CHINESE_SIMPLIFIED": "为什么?",
+      "CHINESE_TRADITIONAL": "爲什麼?",
+      "JAPANESE": "どうしてですか？",
+      "INDONESIAN": "Tapi kenapa nggak boleh?",
+      "PORTUGUESE": "Mas por que não?",
+      "RUSSIAN": "Но почему?",
+      "FRENCH": "Mais pourquoi ?",
+      "THAI": "ทำไมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 34.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어른이 안 된다고 하면 안 되는 줄 알지",
+      "ENGLISH": "When an adult says no, it means no.",
+      "CHINESE_SIMPLIFIED": "长辈说不行就是不行",
+      "CHINESE_TRADITIONAL": "長輩說不行就是不行",
+      "JAPANESE": "大人がダメって言ったら、ダメなものはダメなのよ。",
+      "INDONESIAN": "Kalau orang dewasa bilang nggak, artinya nggak.",
+      "PORTUGUESE": "Quando um adulto diz não, é não.",
+      "RUSSIAN": "Когда взрослый говорит \"нет\", это значит \"нет\".",
+      "FRENCH": "Quand un adulte dit non, c'est non.",
+      "THAI": "ผู้ใหญ่บอกว่าไม่ได้ ก็คือไม่ได้"
+    },
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 37.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 이렇게 말이 많아!",
+      "ENGLISH": "Stop asking so many questions!",
+      "CHINESE_SIMPLIFIED": "哪来那么多为什么!",
+      "CHINESE_TRADITIONAL": "哪來那麼多爲什麼!",
+      "JAPANESE": "何でそんなに口だけは達者なんだい！",
+      "INDONESIAN": "Berhenti banyak tanya!",
+      "PORTUGUESE": "Para de fazer tantas perguntas!",
+      "RUSSIAN": "Перестань задавать столько вопросов!",
+      "FRENCH": "Arrête de poser autant de questions !",
+      "THAI": "หยุดถามเยอะได้แล้ว!"
+    },
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "그러면 딱 이틀만 붙이면 안 될까요...?",
+      "ENGLISH": "Can I at least leave it up for two days...?",
+      "CHINESE_SIMPLIFIED": "我就只贴两天,可以吗?",
+      "CHINESE_TRADITIONAL": "我就只貼兩天,可以嗎?",
+      "JAPANESE": "それじゃあ、二日間だけ貼すのはダメですか…？",
+      "INDONESIAN": "Boleh nggak kalau aku pasang dua hari aja...?",
+      "PORTUGUESE": "Posso deixar aqui por dois dias...?",
+      "RUSSIAN": "Можно хотя бы оставить это на два дня...?",
+      "FRENCH": "Je peux au moins le laisser là deux jours...?",
+      "THAI": "ขอติดไว้แค่สองวันได้ไหม...?"
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 41.8
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "...이틀이야!",
+      "ENGLISH": "... Fine, two days!",
+      "CHINESE_SIMPLIFIED": "就两天啊",
+      "CHINESE_TRADITIONAL": "就兩天啊",
+      "JAPANESE": "…二日だけよ！",
+      "INDONESIAN": "... Baiklah, dua hari!",
+      "PORTUGUESE": "... Tá bom, dois dias!",
+      "RUSSIAN": "... Ладно, два дня!",
+      "FRENCH": "... D'accord, deux jours !",
+      "THAI": "... ก็ได้ แค่สองวัน!"
+    },
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 45.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "두고 볼 거야 내가!",
+      "ENGLISH": "I'll be keeping an eye on it!",
+      "CHINESE_SIMPLIFIED": "我可盯着呢!",
+      "CHINESE_TRADITIONAL": "我可盯着呢!",
+      "JAPANESE": "ちゃんと見てるからね！",
+      "INDONESIAN": "Tapi aku bakal awasi!",
+      "PORTUGUESE": "Mas eu vou ficar de olho!",
+      "RUSSIAN": "Но я буду следить за этим!",
+      "FRENCH": "Je vais le surveiller !",
+      "THAI": "แต่ฉันจะคอยดูไว้นะ!"
+    },
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 48.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야...",
+      "ENGLISH": "Ugh...",
+      "CHINESE_SIMPLIFIED": "什么啊…",
+      "CHINESE_TRADITIONAL": "什麼啊…",
+      "JAPANESE": "えぇ、なんだよ…",
+      "INDONESIAN": "Ugh...",
+      "PORTUGUESE": "Ai...",
+      "RUSSIAN": "Эх...",
+      "FRENCH": "Pff...",
+      "THAI": "อื้อ..."
+    },
+    "TIME": {
+      "SHOW": 50.7,
+      "HIDE": 52.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "아파...",
+      "ENGLISH": "That hurt...",
+      "CHINESE_SIMPLIFIED": "好疼…",
+      "CHINESE_TRADITIONAL": "好疼…",
+      "JAPANESE": "痛いな…",
+      "INDONESIAN": "Sakit...",
+      "PORTUGUESE": "Isso doeu...",
+      "RUSSIAN": "Это больно...",
+      "FRENCH": "Ça fait mal...",
+      "THAI": "เจ็บจัง..."
+    },
+    "TIME": {
+      "HIDE": 53.5
+    }
+  }
+]

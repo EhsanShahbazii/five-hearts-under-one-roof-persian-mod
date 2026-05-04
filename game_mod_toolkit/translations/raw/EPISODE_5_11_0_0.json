@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어우 어깨야...",
+      "ENGLISH": "Oh, my shoulder...",
+      "CHINESE_SIMPLIFIED": "啊~肩膀好酸…",
+      "CHINESE_TRADITIONAL": "啊~肩膀好酸…",
+      "JAPANESE": "ああ、肩が…",
+      "INDONESIAN": "Oh, bahuku...",
+      "PORTUGUESE": "Ah, meu ombro...",
+      "RUSSIAN": "Ох, моё плечо...",
+      "FRENCH": "Oh, mon épaule...",
+      "THAI": "โอ้ ไหล่ของฉัน..."
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "목이 왜 이렇게 아프지?",
+      "ENGLISH": "Why is my neck so stiff?",
+      "CHINESE_SIMPLIFIED": "怎么嗓子这么疼呢?",
+      "CHINESE_TRADITIONAL": "怎麼嗓子這麼疼呢?",
+      "JAPANESE": "首まで痛いの、何でだろう？",
+      "INDONESIAN": "Kenapa leherku kaku banget?",
+      "PORTUGUESE": "Por que meu pescoço tá tão rígido?",
+      "RUSSIAN": "Почему у меня так затекла шея?",
+      "FRENCH": "Pourquoi mon cou est-il si raide ?",
+      "THAI": "ทำไมคอของฉันแข็งแบบนี้นะ?"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "코를 엄청나게 고시던데...",
+      "ENGLISH": "Maybe because you were snoring like crazy!",
+      "CHINESE_SIMPLIFIED": "你一直在打呼噜…",
+      "CHINESE_TRADITIONAL": "你一直在打呼嚕…",
+      "JAPANESE": "めちゃくちゃ、いびきかいてたしたよ…",
+      "INDONESIAN": "Mungkin karena kamu ngorok parah tadi malam!",
+      "PORTUGUESE": "Talvez porque você roncou muito!",
+      "RUSSIAN": "Наверное, потому что ты храпела, как сумасшедшая!",
+      "FRENCH": "Peut-être parce que tu ronflais comme un camion !",
+      "THAI": "อาจเป็นเพราะเธอกรนเสียงดังไง!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐? 내가? 코를 골았다고?",
+      "ENGLISH": "What? Me? Snoring?",
+      "CHINESE_SIMPLIFIED": "打呼噜?我打呼噜?",
+      "CHINESE_TRADITIONAL": "打呼嚕?我打呼嚕?",
+      "JAPANESE": "え？私が？いびき？",
+      "INDONESIAN": "Apa? Aku? Ngorok?",
+      "PORTUGUESE": "O quê? Eu? Roncar?",
+      "RUSSIAN": "Что? Я? Храпела?",
+      "FRENCH": "Quoi ? Moi ? Ronfler ?",
+      "THAI": "อะไรนะ? ฉันน่ะเหรอ? กรน?"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 13.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저 먼저 화장실 좀 쓸게요!",
+      "ENGLISH": "Anyway, I’m gonna use the bathroom first!",
+      "CHINESE_SIMPLIFIED": "我先去洗澡了!",
+      "CHINESE_TRADITIONAL": "我先去洗澡了!",
+      "JAPANESE": "ちょっと、トイレ行ってくる！",
+      "INDONESIAN": "Pokoknya, aku mau ke kamar mandi dulu!",
+      "PORTUGUESE": "Enfim, vou usar o banheiro primeiro!",
+      "RUSSIAN": "Ладно, я первой зайду в ванную!",
+      "FRENCH": "Bon, j’y vais aux toilettes en premier !",
+      "THAI": "เอาล่ะ ฉันจะไปห้องน้ำก่อน!"
+    },
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 어디 보자",
+      "ENGLISH": "Ah~ let’s see…",
+      "CHINESE_SIMPLIFIED": "啊~让我看看",
+      "CHINESE_TRADITIONAL": "啊~讓我看看",
+      "JAPANESE": "さてと～",
+      "INDONESIAN": "Ah~ lihat dulu…",
+      "PORTUGUESE": "Ah~ deixa eu ver...",
+      "RUSSIAN": "Ах~ давай посмотрим…",
+      "FRENCH": "Ah~ voyons…",
+      "THAI": "อ๊า~ มาดูกันสิ…"
+    },
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 25.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "샤워볼이 여깄구나~",
+      "ENGLISH": " Oh, here’s the shower puff—",
+      "CHINESE_SIMPLIFIED": "浴球在这里啊~",
+      "CHINESE_TRADITIONAL": "浴球在這裏啊~",
+      "JAPANESE": "シャワーボールはどこかな～",
+      "INDONESIAN": "Oh, ini shower puffnya~",
+      "PORTUGUESE": "Ah, aqui está a esponja de banho~",
+      "RUSSIAN": "О, вот мочалка—",
+      "FRENCH": "Oh, voici la fleur de douche—",
+      "THAI": "โอ้ นี่ฟองน้ำอาบน้ำ—"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 30.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "꺅!",
+      "ENGLISH": "Eek!",
+      "CHINESE_SIMPLIFIED": "啊!!!!",
+      "CHINESE_TRADITIONAL": "啊!!!!",
+      "JAPANESE": "キャッ！",
+      "INDONESIAN": "Eek!",
+      "PORTUGUESE": "Eek!",
+      "RUSSIAN": "Ааа!",
+      "FRENCH": "Aaaah !",
+      "THAI": "ว้าย!"
+    },
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 34.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 일이야..! / 뭐야 뭐야 왜!",
+      "ENGLISH": "What happened..? / What’s going on?",
+      "CHINESE_SIMPLIFIED": "怎么了怎么了? ",
+      "CHINESE_TRADITIONAL": "怎麼了怎麼了?",
+      "JAPANESE": "何かあった！？ / 何、どうしたの！？",
+      "INDONESIAN": "Apa yang terjadi..? / Ada apa ini?",
+      "PORTUGUESE": "O que aconteceu..? / O que tá acontecendo?",
+      "RUSSIAN": "Что случилось..? / Что там?",
+      "FRENCH": "Qu’est-ce qui s’est passé..? / Qu’est-ce qui se passe ?",
+      "THAI": "เกิดอะไรขึ้น..? / มีอะไรหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 36.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "죽고 싶다...",
+      "ENGLISH": "I wanna disappear… ",
+      "CHINESE_SIMPLIFIED": "好想死…",
+      "CHINESE_TRADITIONAL": "好想死…",
+      "JAPANESE": "もう、恥ずかしすぎて死にたい…",
+      "INDONESIAN": "Aku pengen ngilang...",
+      "PORTUGUESE": "Eu queria desaparecer...",
+      "RUSSIAN": "Хочу провалиться сквозь землю...",
+      "FRENCH": "Je veux disparaître...",
+      "THAI": "อยากหายตัวไปซะจริงๆ..."
+    },
+    "TIME": {
+      "SHOW": 51.5,
+      "HIDE": 52.5
+    }
+  }
+]

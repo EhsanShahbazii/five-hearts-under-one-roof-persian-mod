@@ -1,0 +1,35 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어? 문이 왜 열려있지..?",
+      "ENGLISH": "Huh? Why is the door open..?"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "문을 닫고 나갔는데..?",
+      "ENGLISH": "I remember closing it when I left..?"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐지..?",
+      "ENGLISH": "What's going on..?"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.0
+    }
+  }
+]

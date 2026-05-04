@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "2등입니다.",
+      "ENGLISH": "2nd place!",
+      "CHINESE_SIMPLIFIED": "第二名",
+      "CHINESE_TRADITIONAL": "第二名",
+      "JAPANESE": "2位です。",
+      "INDONESIAN": "Posisi kedua!",
+      "PORTUGUESE": "Segundo lugar!",
+      "RUSSIAN": "Второе место!",
+      "FRENCH": "Deuxième place !",
+      "THAI": "ที่สอง!",
+      "PERSIAN": "مقام دوم!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.0
+    }
+  }
+]

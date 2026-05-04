@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 이렇게 다 서툴러서...",
+      "ENGLISH": "I’m still so clumsy with everything...",
+      "CHINESE_SIMPLIFIED": "这些都还不太熟练",
+      "CHINESE_TRADITIONAL": "這些都還不太熟練",
+      "JAPANESE": "私、不器用なので…",
+      "INDONESIAN": "Aku masih begitu ceroboh dalam segala hal...",
+      "PORTUGUESE": "Eu ainda sou tão desajeitado com tudo...",
+      "RUSSIAN": "Я всё ещё такой(ая) неловкий(ая) во всём...",
+      "FRENCH": "Je suis encore si maladroit(e) avec tout...",
+      "THAI": "ฉันยังคงซุ่มซ่ามกับทุกสิ่ง..."
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어떻게 살아가야 하는 걸 까요?",
+      "ENGLISH": "How am I supposed to live like this?",
+      "CHINESE_SIMPLIFIED": "以后该怎么活下去呢?",
+      "CHINESE_TRADITIONAL": "以後該怎麼活下去呢?",
+      "JAPANESE": "これから、どうやって生きていけばいいんでしょうか？",
+      "INDONESIAN": "Bagaimana aku harus menjalani hidup seperti ini?",
+      "PORTUGUESE": "Como eu devo viver assim?",
+      "RUSSIAN": "Как я вообще должен(а) жить так?",
+      "FRENCH": "Comment suis-je censé(e) vivre comme ça ?",
+      "THAI": "ฉันควรจะใช้ชีวิตยังไงดีแบบนี้?"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.0
+    }
+  }
+]

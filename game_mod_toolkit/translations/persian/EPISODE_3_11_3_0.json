@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "과장님, 외장하드 찾았어요?",
+      "ENGLISH": "Manager, did you find the external hard drive?",
+      "CHINESE_SIMPLIFIED": "科长，您找到U盘了吗?",
+      "CHINESE_TRADITIONAL": "科長，您找到U盤了嗎?",
+      "JAPANESE": "課長、ハードディスク見つかりましたか？",
+      "INDONESIAN": "Manajer, kamu udah nemuin hard drive eksternalnya?",
+      "PORTUGUESE": "Gerente, você achou o HD externo?",
+      "RUSSIAN": "Менеджер, вы нашли внешний жёсткий диск?",
+      "FRENCH": "Manager, vous avez trouvé le disque dur externe ?",
+      "THAI": "ผู้จัดการ เจอฮาร์ดดิสก์พกพาหรือยัง?",
+      "PERSIAN": "مدیر، هارد اکسترنال را پیدا کردید؟"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "지금 나한테 찾으라는 거야?",
+      "ENGLISH": "Are you telling me to find it?",
+      "CHINESE_SIMPLIFIED": "你现在是指使我去找吗?",
+      "CHINESE_TRADITIONAL": "你現在是指使我去找嗎?",
+      "JAPANESE": "今、私に探せって言ってるの？",
+      "INDONESIAN": "Kamu nyuruh aku yang nyari?",
+      "PORTUGUESE": "Você tá me dizendo pra procurar?",
+      "RUSSIAN": "Вы хотите, чтобы я его нашёл?",
+      "FRENCH": "Vous êtes en train de me dire de le chercher ?",
+      "THAI": "คุณจะให้ผมหาเองเหรอ?",
+      "PERSIAN": "میگی پیداش کنم؟"
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "제 마지막 기억이 과장님 책상에 둔 건데... ",
+      "ENGLISH": "My last memory is leaving it on your desk... ",
+      "CHINESE_SIMPLIFIED": "我最后一次看见U盘就是在您的工位上…",
+      "CHINESE_TRADITIONAL": "我最後一次看見U盤就是在您的工位上…",
+      "JAPANESE": "僕の記憶では、課長のデスクに置いたんですけど…",
+      "INDONESIAN": "Terakhir aku ingat, aku tinggalin di meja kamu...",
+      "PORTUGUESE": "Minha última lembrança é de ter deixado ele na sua mesa...",
+      "RUSSIAN": "Последнее, что я помню, — это то, как я оставил его на вашем столе...",
+      "FRENCH": "Mon dernier souvenir, c’est que je l’ai laissé sur votre bureau...",
+      "THAI": "ความทรงจำสุดท้ายของผมคือวางมันไว้บนโต๊ะของคุณ...",
+      "PERSIAN": "آخرین خاطره من گذاشتن اون روی میز شماست..."
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "없어요 진짜?",
+      "ENGLISH": "It’s really not there?",
+      "CHINESE_SIMPLIFIED": "真的没有吗?",
+      "CHINESE_TRADITIONAL": "真的沒有嗎?",
+      "JAPANESE": "本当にないですか？",
+      "INDONESIAN": "Beneran nggak ada di sana?",
+      "PORTUGUESE": "Sério que não tá lá?",
+      "RUSSIAN": "Точно его там нет?",
+      "FRENCH": "Il n’est vraiment pas là ?",
+      "THAI": "แน่ใจนะว่ามันไม่อยู่ตรงนั้น?",
+      "PERSIAN": "واقعا آنجا نیست؟"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "何？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "거기 아니면 저도 모르는데...",
+      "ENGLISH": "If it’s not there, I don’t know where it is...",
+      "CHINESE_SIMPLIFIED": "如果您工位上没有的话，那我也是真不知道在哪…",
+      "CHINESE_TRADITIONAL": "如果您工位上沒有的話，那我也是真不知道在哪…",
+      "JAPANESE": "そこになければ、僕も分からないですけど…",
+      "INDONESIAN": "Kalau nggak ada, aku juga nggak tahu di mana...",
+      "PORTUGUESE": "Se não estiver lá, eu não sei onde está...",
+      "RUSSIAN": "Если его там нет, я без понятия, где он...",
+      "FRENCH": "S’il n’est pas là, je ne sais pas où il est...",
+      "THAI": "ถ้าไม่อยู่ที่นั่น ผมไม่รู้ว่ามันอยู่ที่ไหนแล้ว...",
+      "PERSIAN": "اگه اونجا نباشه نمیدونم کجاست..."
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "그게 얼마나 중요한 건데!",
+      "ENGLISH": "Do you know how important that is!",
+      "CHINESE_SIMPLIFIED": "你知不知道那个有多重要?",
+      "CHINESE_TRADITIONAL": "你知不知道那個有多重要?",
+      "JAPANESE": "あんた、あれがどれだけ大事なものか分かってる？",
+      "INDONESIAN": "Kamu tahu seberapa penting itu!",
+      "PORTUGUESE": "Você tem ideia do quanto isso é importante?",
+      "RUSSIAN": "Вы понимаете, насколько это важно?!",
+      "FRENCH": "Vous savez à quel point c’est important ?!",
+      "THAI": "คุณรู้ไหมว่านี่สำคัญแค่ไหน?!",
+      "PERSIAN": "میدونی چقدر مهمه!"
+    },
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "잘 찾으면 있을 거예요!",
+      "ENGLISH": "I’m sure it’s there if you look properly!",
+      "CHINESE_SIMPLIFIED": "仔细找肯定会找到的!",
+      "CHINESE_TRADITIONAL": "仔細找肯定會找到的!",
+      "JAPANESE": "ちゃんと探せばあると思いますよ！",
+      "INDONESIAN": "Coba cari lebih teliti, pasti ada di sana!",
+      "PORTUGUESE": "Tenho certeza de que está lá, se você procurar direito!",
+      "RUSSIAN": "Если нормально поискать, он точно там!",
+      "FRENCH": "Je suis sûr qu’il est là si vous cherchez bien !",
+      "THAI": "ผมมั่นใจว่ามันต้องอยู่ ถ้าคุณหาดี ๆ !",
+      "PERSIAN": "مطمئنم اگر درست نگاه کنید آنجاست!"
+    },
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "없어졌으면 넌 진짜..!",
+      "ENGLISH": "If it’s lost, you’re really...!",
+      "CHINESE_SIMPLIFIED": "找不到你就完了!",
+      "CHINESE_TRADITIONAL": "找不到你就完了!",
+      "JAPANESE": "なくなってたら、どうするのよ…！",
+      "INDONESIAN": "Kalau sampai hilang, kamu beneran...!",
+      "PORTUGUESE": "Se ele se perder, você tá ferrado...!",
+      "RUSSIAN": "Если он потеряется, вы реально...!",
+      "FRENCH": "S’il est perdu, vous allez vraiment... !",
+      "THAI": "ถ้ามันหายไปล่ะก็ คุณจะเจอปัญหาแน่...!",
+      "PERSIAN": "اگر گم شد، تو واقعا...!"
+    },
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.7
+    }
+  }
+]

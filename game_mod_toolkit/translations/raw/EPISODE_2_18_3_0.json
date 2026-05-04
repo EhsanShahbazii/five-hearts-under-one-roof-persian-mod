@@ -1,0 +1,268 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 음료수 좀 드시면서 하세요!",
+      "ENGLISH": "Here, have a drink while you work!",
+      "CHINESE_SIMPLIFIED": "大家来喝饮料吧!",
+      "CHINESE_TRADITIONAL": "大家來喝飲料吧!",
+      "JAPANESE": "皆さん！飲み物でもどうぞ！",
+      "INDONESIAN": "Ini, minum dulu sambil kerja!",
+      "PORTUGUESE": "Aqui, toma uma bebida enquanto trabalha!",
+      "RUSSIAN": "Вот, выпей что-нибудь, пока работаешь!",
+      "FRENCH": "Tiens, prends un verre pendant que tu bosses !",
+      "THAI": "นี่ เอาเครื่องดื่มไปดื่มระหว่างทำงาน!"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어디 보자~",
+      "ENGLISH": "Let’s see…",
+      "CHINESE_SIMPLIFIED": "来啦~",
+      "CHINESE_TRADITIONAL": "來啦~",
+      "JAPANESE": "さてさて～",
+      "INDONESIAN": "Coba lihat...",
+      "PORTUGUESE": "Vamos ver...",
+      "RUSSIAN": "Посмотрим...",
+      "FRENCH": "Voyons voir...",
+      "THAI": "ลองดูสิ..."
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어 뭐야 잘 마실게요./맛있겠다. 잘 먹겠습니다!",
+      "ENGLISH": "Oh, nice! Thanks, I’ll enjoy this. / Looks good! Thanks!",
+      "CHINESE_SIMPLIFIED": "-居然有饮料? 谢谢啦~  -看起来不错",
+      "CHINESE_TRADITIONAL": "-居然有飲料? 謝謝啦~  -看起來不錯",
+      "JAPANESE": "お、何ですか？いただきますね～ / ありがとうございます～",
+      "INDONESIAN": "Oh, bagus! Makasih, aku akan menikmatinya. / Kelihatannya enak! Makasih!",
+      "PORTUGUESE": "Oh, legal! Obrigado, vou aproveitar. / Parece bom! Obrigado!",
+      "RUSSIAN": "О, круто! Спасибо, я с удовольствием~ / Выглядит отлично, спасибо!",
+      "FRENCH": "Oh, super ! Merci, je vais me faire plaisir~ / Ça a l’air bon, merci !",
+      "THAI": "โอ๊ะ ดีเลย! ขอบคุณนะ จะดื่มให้เต็มที่~ / ดูน่าดื่ม ขอบคุณ!"
+    },
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "저 부장님 영수증 청구는 어떻게...",
+      "ENGLISH": "By the way, how should I submit the receipt for this?",
+      "CHINESE_SIMPLIFIED": "不过经理，报销我该找谁…",
+      "CHINESE_TRADITIONAL": "不過經理，報銷我該找誰…",
+      "JAPANESE": "あの…部長！領収書の請求はどう… / いただきます～",
+      "INDONESIAN": "Ngomong-ngomong, gimana cara ngirim kuitansi ini?",
+      "PORTUGUESE": "A propósito, como eu envio o recibo disso?",
+      "RUSSIAN": "Кстати, а как мне подать чек за это?",
+      "FRENCH": "Au fait, je le déclare comment, ce reçu ?",
+      "THAI": "ว่าแต่ ต้องส่งใบเสร็จยังไง?"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 15.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "캬~ 시원하구먼.",
+      "ENGLISH": "Ahh, refreshing!",
+      "CHINESE_SIMPLIFIED": "哇~好爽",
+      "CHINESE_TRADITIONAL": "哇~好爽",
+      "JAPANESE": "くぅ～、冷たくて美味いな。",
+      "INDONESIAN": "Ahh, segar!",
+      "PORTUGUESE": "Ahh, refrescante!",
+      "RUSSIAN": "Ах, освежает!",
+      "FRENCH": "Ahh, c’est rafraîchissant !",
+      "THAI": "อ่า สดชื่นจัง!"
+    },
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "확실히 요즘 친구들이 센스가 좋아~",
+      "ENGLISH": "You younger folks really have great sense these days!",
+      "CHINESE_SIMPLIFIED": "现在的年轻人就是不一样啊~",
+      "CHINESE_TRADITIONAL": "現在的年輕人就是不一樣啊~",
+      "JAPANESE": "最近の若い子たちはセンスがいいね～",
+      "INDONESIAN": "Anak-anak muda zaman sekarang memang punya selera yang bagus!",
+      "PORTUGUESE": "Vocês jovens realmente têm um ótimo gosto hoje em dia!",
+      "RUSSIAN": "Вы, молодые, правда хорошо разбираетесь!",
+      "FRENCH": "Vous, les jeunes, vous avez vraiment du goût !",
+      "THAI": "เดี๋ยวนี้คนรุ่นใหม่มีเซนส์ดีจริง ๆ!"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "땡큐! 고마워!",
+      "ENGLISH": "Thanks! I'll enjoy this!",
+      "CHINESE_SIMPLIFIED": "3Q! 谢谢啦!",
+      "CHINESE_TRADITIONAL": "3Q! 謝謝啦!",
+      "JAPANESE": "サンキュー！ありがとう！",
+      "INDONESIAN": "Makasih! Aku bakal nikmatin ini!",
+      "PORTUGUESE": "Obrigado! Vou aproveitar!",
+      "RUSSIAN": "Спасибо! Буду наслаждаться!",
+      "FRENCH": "Merci ! Je vais en profiter !",
+      "THAI": "ขอบใจ! จะดื่มให้หมดเลย!"
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "나한테 청구해요.",
+      "ENGLISH": "Just charge it to me.",
+      "CHINESE_SIMPLIFIED": "报销找我",
+      "CHINESE_TRADITIONAL": "報銷找我",
+      "JAPANESE": "お金は私の方に請求して。",
+      "INDONESIAN": "Bebankan pembayarannya ke aku aja.",
+      "PORTUGUESE": "Pode colocar na minha conta.",
+      "RUSSIAN": "Списывай это на меня.",
+      "FRENCH": "Mets ça sur ma note.",
+      "THAI": "เอาไปลงในบัญชีฉันได้เลยนะ"
+    },
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "네! 알겠습니다!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "はい！わかりました！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Certo!",
+      "RUSSIAN": "Окей!",
+      "FRENCH": "D'accord !",
+      "THAI": "โอเค!"
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "과장님 여기요.",
+      "ENGLISH": "Here you go, Manager.",
+      "CHINESE_SIMPLIFIED": "科长，这杯...!",
+      "CHINESE_TRADITIONAL": "科長，這杯...!",
+      "JAPANESE": "課長、こちらになります。",
+      "INDONESIAN": "Ini, Manajer.",
+      "PORTUGUESE": "Aqui está, Gerente.",
+      "RUSSIAN": "Вот, менеджер.",
+      "FRENCH": "Tiens, Manager.",
+      "THAI": "นี่ครับ ผู้จัดการ"
+    },
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 33.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어우 달아!",
+      "ENGLISH": "Wow, this is sweet!",
+      "CHINESE_SIMPLIFIED": "啊! 好甜!",
+      "CHINESE_TRADITIONAL": "啊! 好甜!",
+      "JAPANESE": "うわ、甘すぎ！",
+      "INDONESIAN": "Wah, ini manis!",
+      "PORTUGUESE": "Nossa, isso é doce!",
+      "RUSSIAN": "Ого, какой сладкий!",
+      "FRENCH": "Wow, c’est sucré !",
+      "THAI": "โอ้ หวานจัง!"
+    },
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 39.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 아이스티 별로 안 좋아하세요?",
+      "ENGLISH": "Not a fan of iced tea?",
+      "CHINESE_SIMPLIFIED": "啊，您不太喜欢冰红茶吗?",
+      "CHINESE_TRADITIONAL": "啊，您不太喜歡冰紅茶嗎?",
+      "JAPANESE": "あ、アイスティーあまりお好きじゃないですか？",
+      "INDONESIAN": "Nggak suka es teh?",
+      "PORTUGUESE": "Não é fã de chá gelado?",
+      "RUSSIAN": "Не любишь холодный чай?",
+      "FRENCH": "T’aimes pas le thé glacé ?",
+      "THAI": "ไม่ชอบชาน้ำแข็งเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 39.6,
+      "HIDE": 41.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아이 뭐 쓴 거보단 낫긴 한데...",
+      "ENGLISH": "Eh, it’s better than something bitter, I guess.",
+      "CHINESE_SIMPLIFIED": "嗯...那也总比苦的强…",
+      "CHINESE_TRADITIONAL": "嗯...那也總比苦的強…",
+      "JAPANESE": "いや、まぁ苦いのよりかはマシだけど…",
+      "INDONESIAN": "Eh, lebih baik daripada yang pahit, sih.",
+      "PORTUGUESE": "Eh, é melhor do que algo amargo, acho.",
+      "RUSSIAN": "Эх, ну лучше, чем что-то горькое, наверное.",
+      "FRENCH": "Eh, c’est mieux que quelque chose d’amer, j’imagine.",
+      "THAI": "เออ อย่างน้อยก็ดีกว่าขม ๆ ล่ะนะ"
+    },
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 44.3
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "잘 마실게요.",
+      "ENGLISH": "Thanks, I’ll enjoy it.",
+      "CHINESE_SIMPLIFIED": "辛苦你了",
+      "CHINESE_TRADITIONAL": "辛苦你了",
+      "JAPANESE": "ありがたくいただくわ。",
+      "INDONESIAN": "Makasih, aku akan nikmatin ini.",
+      "PORTUGUESE": "Obrigado, vou aproveitar isso.",
+      "RUSSIAN": "Спасибо, буду наслаждаться.",
+      "FRENCH": "Merci, je vais savourer ça.",
+      "THAI": "ขอบใจนะ เดี๋ยวจะดื่มให้เต็มที่เลย"
+    },
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 45.7
+    }
+  }
+]

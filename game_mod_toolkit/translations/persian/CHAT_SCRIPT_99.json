@@ -1,0 +1,244 @@
+[
+  {
+    "INDEX": 1.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 중고거래는 역시 토마토마켓 -",
+      "ENGLISH": "- Tomato Market the best second-hand\ndeals platform - ",
+      "CHINESE_SIMPLIFIED": "- 二手交易还是番茄好 - ",
+      "CHINESE_TRADITIONAL": "- 二手交易還是番茄好 -",
+      "JAPANESE": "- 中古取引はトマトマーケット -",
+      "INDONESIAN": "Tomato Market platform terbaik untuk barang bekas -",
+      "PORTUGUESE": "Tomato Market a melhor plataforma de negócios de segunda mão -",
+      "RUSSIAN": "Tomato Market — лучшая платформа для сделок с подержанными вещами -",
+      "FRENCH": "Tomato Market — la meilleure plateforme pour les bonnes affaires d’occasion -",
+      "THAI": "Tomato Market แพลตฟอร์มซื้อขายของมือสองที่ดีที่สุด -",
+      "PERSIAN": "- بازار گوجه فرنگی بهترین دست دوم پلت فرم معاملات -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 1주 전 -",
+      "ENGLISH": "- 1 week ago -",
+      "CHINESE_SIMPLIFIED": "- 1周前 -",
+      "CHINESE_TRADITIONAL": "- 1周前 -",
+      "JAPANESE": "- 1週間前 -",
+      "INDONESIAN": "- 1 minggu yang lalu -",
+      "PORTUGUESE": "- 1 semana atrás -",
+      "RUSSIAN": "- Неделю назад -",
+      "FRENCH": "- Il y a une semaine -",
+      "THAI": "- 1 สัปดาห์ที่แล้ว -",
+      "PERSIAN": "- 1 هفته پیش -"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "토마토마켓 글 보고 연락드립니다!",
+      "ENGLISH": "I saw your listing on Tomato Market!",
+      "CHINESE_SIMPLIFIED": "您好，我在番茄二手交易上看到了您的帖子!",
+      "CHINESE_TRADITIONAL": "您好，我在番茄二手交易上看到了您的帖子!",
+      "JAPANESE": "トマトマーケットの投稿を見て連絡しました！",
+      "INDONESIAN": "Aku lihat listing-mu di Tomato Market!",
+      "PORTUGUESE": "Vi seu anúncio no Tomato Market!",
+      "RUSSIAN": "Я видел твоё объявление на Tomato Market!",
+      "FRENCH": "J’ai vu ton annonce sur Tomato Market !",
+      "THAI": "เห็นโพสต์ของนายใน Tomato Market!",
+      "PERSIAN": "من لیست شما را در بازار گوجه فرنگی دیدم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 1집 사인CD 판매 중인가요?",
+      "ENGLISH": "Is that signed Milk Girls album still for sale?",
+      "CHINESE_SIMPLIFIED": "请问您是要转手牛奶女孩1辑的亲签版吗?",
+      "CHINESE_TRADITIONAL": "請問您是要轉手牛奶女孩1輯的親籤版嗎?",
+      "JAPANESE": "ミルクガールズ1stアルバムのサインCDって販売中ですか？",
+      "INDONESIAN": "Apakah album Milk Girls bertanda tangan itu masih dijual?",
+      "PORTUGUESE": "O álbum autografado das Milk Girls ainda está à venda?",
+      "RUSSIAN": "Подписанный альбом Milk Girls ещё продаётся?",
+      "FRENCH": "L’album signé des Milk Girls est toujours à vendre ?",
+      "THAI": "อัลบั้มลายเซ็น Milk Girls ยังขายอยู่ไหม?",
+      "PERSIAN": "اون آلبوم امضا شده Milk Girls هنوز برای فروش است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "친필 사인 CD가 맞나요?",
+      "ENGLISH": "Is it a real signed CD?",
+      "CHINESE_SIMPLIFIED": "请问亲笔签名版的吗?",
+      "CHINESE_TRADITIONAL": "請問親筆簽名版的嗎?",
+      "JAPANESE": "直筆サインCDで合っていますか？",
+      "INDONESIAN": "Itu benar-benar CD bertanda tangan?",
+      "PORTUGUESE": "É realmente um CD autografado?",
+      "RUSSIAN": "Это действительно диск с настоящим автографом?",
+      "FRENCH": "C’est vraiment un CD signé ?",
+      "THAI": "เป็นซีดีลายเซ็นของจริงใช่ไหม?",
+      "PERSIAN": "این یک سی دی امضا شده واقعی است؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 3일 전 -",
+      "ENGLISH": "- 3 days ago -",
+      "CHINESE_SIMPLIFIED": "- 3天前 -",
+      "CHINESE_TRADITIONAL": "- 3天前 -",
+      "JAPANESE": "- 3日前 -",
+      "INDONESIAN": "- 3 hari yang lalu -",
+      "PORTUGUESE": "- 3 dias atrás -",
+      "RUSSIAN": "- 3 дня назад -",
+      "FRENCH": "- Il y a 3 jours -",
+      "THAI": "- 3 วันที่แล้ว -",
+      "PERSIAN": "- 3 روز پیش -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "판매자 님??ㅜㅜ",
+      "ENGLISH": "Hello, seller?? T.T",
+      "CHINESE_SIMPLIFIED": "亲???",
+      "CHINESE_TRADITIONAL": "親???",
+      "JAPANESE": "販売者さん？",
+      "INDONESIAN": "Halo, penjual?? T.T",
+      "PORTUGUESE": "Olá, vendedor?? T.T",
+      "RUSSIAN": "Продавец, вы здесь?? Т.Т",
+      "FRENCH": "Allô, vendeur ?? T.T",
+      "THAI": "เฮ้ คนขาย?? T.T",
+      "PERSIAN": "سلام فروشنده؟؟ T.T"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -",
+      "PERSIAN": "- نشانک گذاری شده برای پیام های خوانده نشده -"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "네 친필 사인 CD 맞습니다",
+      "ENGLISH": "Yes, it’s authentic!",
+      "CHINESE_SIMPLIFIED": "是亲笔签名版的。",
+      "CHINESE_TRADITIONAL": "是親筆簽名版的。",
+      "JAPANESE": "はい、直筆サインCDで合っています。",
+      "INDONESIAN": "Ya, ini asli!",
+      "PORTUGUESE": "Sim, é autêntico!",
+      "RUSSIAN": "Да, это оригинал!",
+      "FRENCH": "Oui, c’est authentique !",
+      "THAI": "ใช่แล้ว ของแท้แน่นอน!",
+      "PERSIAN": "بله، معتبر است!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "판매 가능합니다",
+      "ENGLISH": "It's still available.",
+      "CHINESE_SIMPLIFIED": "现在还有货。",
+      "CHINESE_TRADITIONAL": "現在還有貨。",
+      "JAPANESE": "販売可能です。",
+      "INDONESIAN": "Masih tersedia.",
+      "PORTUGUESE": "Ainda está disponível.",
+      "RUSSIAN": "Всё ещё в наличии.",
+      "FRENCH": "Toujours dispo.",
+      "THAI": "ยังมีขายอยู่",
+      "PERSIAN": "هنوز موجود است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 지금 바로 거래 가능합니다!",
+      "ENGLISH": "I can meet you anytime today!",
+      "CHINESE_SIMPLIFIED": "那我现在马上就下单!",
+      "CHINESE_TRADITIONAL": "那我現在馬上就下單!",
+      "JAPANESE": "今すぐ取引お願いします。",
+      "INDONESIAN": "Aku bisa bertemu kapan saja hari ini!",
+      "PORTUGUESE": "Posso me encontrar com você a qualquer hora hoje!",
+      "RUSSIAN": "Могу встретиться с вами в любое время сегодня!",
+      "FRENCH": "Je peux te voir à n’importe quelle heure aujourd’hui !",
+      "THAI": "วันนี้เจอกันเวลาไหนก็ได้!",
+      "PERSIAN": "من می توانم هر زمانی امروز با شما ملاقات کنم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "강남 제일 공원 쪽에서 오후 5시 토마토 가능할까요?",
+      "ENGLISH": "How about 5 PM near Gangnam Central Park?",
+      "CHINESE_SIMPLIFIED": "我们下午5点钟在江南第一公园那边碰面怎么样?",
+      "CHINESE_TRADITIONAL": "我們下午5點鐘在江南第一公園那邊碰面怎麼樣?",
+      "JAPANESE": "カンナム第一公園付近で午後5時に会うのはどうですか？",
+      "INDONESIAN": "Bagaimana kalau jam 5 sore di dekat Taman Sentral Gangnam?",
+      "PORTUGUESE": "Que tal às 17h perto do Gangnam Central Park?",
+      "RUSSIAN": "Как насчёт в 5 у Центрального парка в Каннаме?",
+      "FRENCH": "Que dirais-tu de 17h près du parc central de Gangnam ?",
+      "THAI": "เจอ 5 โมงแถวสวนสาธารณะกังนัมเป็นไง?",
+      "PERSIAN": "ساعت 5 بعد از ظهر در نزدیکی پارک مرکزی گانگنام چطور؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "EPISODE_INDEX": 11900.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네! 가능합니다!",
+      "ENGLISH": "Deal!",
+      "CHINESE_SIMPLIFIED": "好的!没问题!",
+      "CHINESE_TRADITIONAL": "好的!沒問題!",
+      "JAPANESE": "はい！可能です！",
+      "INDONESIAN": "Deal!",
+      "PORTUGUESE": "Combinado!",
+      "RUSSIAN": "Договорились!",
+      "FRENCH": "Affaire conclue !",
+      "THAI": "ตกลง!",
+      "PERSIAN": "معامله!"
+    }
+  }
+]

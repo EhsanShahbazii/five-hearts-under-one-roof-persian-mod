@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 곧 퇴근인데 기다려.",
+      "ENGLISH": "I'm leaving work soon, so wait for me.",
+      "CHINESE_SIMPLIFIED": "我马上下班了, 等我一下",
+      "CHINESE_TRADITIONAL": "我馬上下班了, 等我一下",
+      "JAPANESE": "もうすぐ退勤だから待ってて。",
+      "INDONESIAN": "Aku mau pulang kerja sebentar lagi, jadi tunggu aku ya.",
+      "PORTUGUESE": "Vou sair do trabalho logo, então me espera.",
+      "RUSSIAN": "Я скоро заканчиваю работу, так что подожди меня.",
+      "FRENCH": "Je termine bientôt, alors attends-moi.",
+      "THAI": "ฉันใกล้จะเลิกงานแล้ว รอฉันหน่อยนะ"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "조금 이따 나랑 같이 퇴근하자.",
+      "ENGLISH": "Let's go home together a little later.",
+      "CHINESE_SIMPLIFIED": "待会儿跟我一起下班吧",
+      "CHINESE_TRADITIONAL": "待會兒跟我一起下班吧",
+      "JAPANESE": "一緒に退勤しよう。",
+      "INDONESIAN": "Ayo pulang bareng nanti.",
+      "PORTUGUESE": "Vamos pra casa juntos daqui a pouco.",
+      "RUSSIAN": "Давай вместе пойдём домой чуть позже.",
+      "FRENCH": "On rentre ensemble un peu plus tard.",
+      "THAI": "เดี๋ยวกลับบ้านพร้อมกันทีหลัง"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그래!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Tá bom!",
+      "RUSSIAN": "Хорошо!",
+      "FRENCH": "D’accord !",
+      "THAI": "โอเค!"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "呃？",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네가 치워줘야 내가 빨리 퇴근하지!",
+      "ENGLISH": "You have to clean it up, so I can get off work quickly!",
+      "CHINESE_SIMPLIFIED": "你帮我收拾, 我才能快点下班啊",
+      "CHINESE_TRADITIONAL": "你幫我收拾, 我才能快點下班啊",
+      "JAPANESE": "あんたが片付けてくれないと、早く退勤できないでしょ！",
+      "INDONESIAN": "Kamu harus beresin dulu, biar aku bisa cepat selesai kerja!",
+      "PORTUGUESE": "Você tem que limpar isso pra eu poder sair rápido!",
+      "RUSSIAN": "Ты должна прибраться, чтобы я быстрее смог уйти с работы!",
+      "FRENCH": "Tu dois ranger pour que je finisse plus vite !",
+      "THAI": "เธอต้องทำความสะอาดนะ ฉันจะได้เลิกงานเร็วๆ!"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아... 맞다!",
+      "ENGLISH": "Oh, that's right!",
+      "CHINESE_SIMPLIFIED": "对啊",
+      "CHINESE_TRADITIONAL": "對啊",
+      "JAPANESE": "あ…そうだね。",
+      "INDONESIAN": "Oh, iya!",
+      "PORTUGUESE": "Ah, é mesmo!",
+      "RUSSIAN": "О, точно!",
+      "FRENCH": "Oh, c’est vrai !",
+      "THAI": "โอ้ จริงด้วย!"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "알았어!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "知道了!",
+      "CHINESE_TRADITIONAL": "知道了!",
+      "JAPANESE": "分かったよ！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Beleza!",
+      "RUSSIAN": "Хорошо!",
+      "FRENCH": "D’accord !",
+      "THAI": "ได้เลย!"
+    },
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.6
+    }
+  }
+]

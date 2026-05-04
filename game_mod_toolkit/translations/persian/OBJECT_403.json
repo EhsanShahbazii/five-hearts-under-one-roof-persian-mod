@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이게 뭐야....",
+      "ENGLISH": "What...",
+      "CHINESE_SIMPLIFIED": "什么...",
+      "CHINESE_TRADITIONAL": "什麼...",
+      "JAPANESE": "これ何だろう…",
+      "INDONESIAN": "Apa...",
+      "PORTUGUESE": "O quê...",
+      "RUSSIAN": "Что за…",
+      "FRENCH": "Quoi...",
+      "THAI": "อะไรนะ...",
+      "PERSIAN": "What..."
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "...애기 옷?",
+      "ENGLISH": "...Baby clothes? ",
+      "CHINESE_SIMPLIFIED": "...小孩的衣服?",
+      "CHINESE_TRADITIONAL": "...小孩的衣服?",
+      "JAPANESE": "…赤ちゃんの服？",
+      "INDONESIAN": "...Baju bayi?",
+      "PORTUGUESE": "...Roupas de bebê?",
+      "RUSSIAN": "...Детская одежда?",
+      "FRENCH": "...Des vêtements pour bébé ?",
+      "THAI": "...เสื้อผ้าเด็ก?",
+      "PERSIAN": "...لباس بچه؟"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 이렇게 더러워?",
+      "ENGLISH": "Why are they so dirty?",
+      "CHINESE_SIMPLIFIED": "怎么这么脏啊?",
+      "CHINESE_TRADITIONAL": "怎麼這麼髒啊?",
+      "JAPANESE": "何でこんなに汚れてるんだろう？",
+      "INDONESIAN": "Kenapa kotor banget?",
+      "PORTUGUESE": "Por que estão tão sujas?",
+      "RUSSIAN": "Почему она такая грязная?",
+      "FRENCH": "Pourquoi sont-ils si sales ?",
+      "THAI": "ทำไมมันสกปรกขนาดนี้?",
+      "PERSIAN": "چرا اونا اینقدر کثیف هستند؟"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.0
+    }
+  }
+]

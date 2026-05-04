@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와~",
+      "ENGLISH": "Wow~",
+      "CHINESE_SIMPLIFIED": "哇~",
+      "CHINESE_TRADITIONAL": "哇~",
+      "JAPANESE": "わぁ～",
+      "INDONESIAN": "Wah~",
+      "PORTUGUESE": "Uau~",
+      "RUSSIAN": "Вау~",
+      "FRENCH": "Waouh~",
+      "THAI": "ว้าว~",
+      "PERSIAN": "عجب ~"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "역시 1집이 명곡이 많지!",
+      "ENGLISH": "The first album really has so many classics!",
+      "CHINESE_SIMPLIFIED": "果然还是第一张专辑最经典！",
+      "CHINESE_TRADITIONAL": "果然還是第一張專輯最經典！",
+      "JAPANESE": "やっぱり、1stアルバムは名曲ばかりだ！",
+      "INDONESIAN": "Album pertama beneran punya banyak lagu klasik!",
+      "PORTUGUESE": "O primeiro álbum tem tantos clássicos!",
+      "RUSSIAN": "В первом альбоме действительно так много хитов!",
+      "FRENCH": "Le premier album a vraiment tellement de classiques !",
+      "THAI": "อัลบั้มแรกมีเพลงฮิตเยอะจริงๆ!",
+      "PERSIAN": "آلبوم اول واقعاً آثار کلاسیک زیادی دارد!"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 6.1
+    }
+  }
+]

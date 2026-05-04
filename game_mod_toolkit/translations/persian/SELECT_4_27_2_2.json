@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "알았어. 그럼 나 갈게.",
+      "ENGLISH": "Alright, I’m leaving then...",
+      "CHINESE_SIMPLIFIED": "那我走了…",
+      "CHINESE_TRADITIONAL": "那我走了…",
+      "JAPANESE": "分かった。じゃ、行くね。",
+      "INDONESIAN": "Oke, aku pergi kalau gitu...",
+      "PORTUGUESE": "Certo, então eu vou embora...",
+      "RUSSIAN": "Ладно, тогда я ухожу...",
+      "FRENCH": "Bon, je m’en vais alors...",
+      "THAI": "โอเค งั้นฉันไปแล้ว...",
+      "PERSIAN": "باشه پس من میرم..."
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "씨... 가다가 확 돌부리에 걸려서 넘어져 버려라!",
+      "ENGLISH": "Ugh, hope you trip over a rock and fall!",
+      "CHINESE_SIMPLIFIED": "哼...希望你走着走着被石头绊倒!",
+      "CHINESE_TRADITIONAL": "哼...希望你走着走着被石頭絆倒!",
+      "JAPANESE": "途中で石につまずいて転んじゃえ！",
+      "INDONESIAN": "Ugh, semoga kamu kesandung batu dan jatuh!",
+      "PORTUGUESE": "Ugh, tomara que você tropece numa pedra e caia!",
+      "RUSSIAN": "Ха, надеюсь, ты споткнёшься об камень и упадёшь!",
+      "FRENCH": "Ah, j’espère que tu vas trébucher sur un caillou et tomber !",
+      "THAI": "ฮึ ขอให้เธอสะดุดก้อนหินแล้วล้มไปเลย!",
+      "PERSIAN": "اوه، امیدوارم که بر روی یک صخره سقوط کنید و سقوط کنید!"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.2
+    }
+  }
+]

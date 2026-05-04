@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "여보세요? ",
+      "ENGLISH": "Hello? ",
+      "CHINESE_SIMPLIFIED": "喂?",
+      "CHINESE_TRADITIONAL": "喂?",
+      "JAPANESE": "もしもし？",
+      "INDONESIAN": "Halo?",
+      "PORTUGUESE": "Alô?",
+      "RUSSIAN": "Алло?",
+      "FRENCH": "Allô ?",
+      "THAI": "ฮัลโหล?"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 나 비행 끝나고 8번 게이트 앞인데. 어디에요?",
+      "ENGLISH": "Oppa, I just landed and I’m at Gate 8. Where are you?",
+      "CHINESE_SIMPLIFIED": "哥哥我下飞机了, 现在在8号出口, 你在哪啊?",
+      "CHINESE_TRADITIONAL": "哥哥我下飛機了, 現在在8號出口, 你在哪啊?",
+      "JAPANESE": "私、フライト終わって8番ゲートにいるんだけど、どこ？",
+      "INDONESIAN": "Oppa, aku baru saja mendarat dan aku di Gerbang 8. Di mana kamu?",
+      "PORTUGUESE": "Oppa, acabei de desembarcar e estou no Portão 8. Onde você está?",
+      "RUSSIAN": "Оппа, я только что приземлилась и стою у Ворота 8. Ты где?",
+      "FRENCH": "Oppa, je viens d’atterrir et je suis à la Porte 8. T’es où ?",
+      "THAI": "โอปป้า ฉันเพิ่งลงเครื่องและอยู่ที่ประตู 8 คุณอยู่ไหน?"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오빠! 오빠! 유만 오빠!",
+      "ENGLISH": "Oppa! Oppa! Yuman oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!哥哥!宥万哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!哥哥!宥萬哥哥!",
+      "JAPANESE": "あ！こっち、こっち～",
+      "INDONESIAN": "Oppa! Oppa! Yuman oppa!",
+      "PORTUGUESE": "Oppa! Oppa! Yuman oppa!",
+      "RUSSIAN": "Оппа! Оппа! Юман оппа!",
+      "FRENCH": "Oppa ! Oppa ! Yuman oppa !",
+      "THAI": "โอปป้า! โอปป้า! ยูมันโอปป้า!"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Mmm~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "嗯~",
+      "JAPANESE": "ふぅ〜",
+      "INDONESIAN": "Mmm~",
+      "PORTUGUESE": "Mmm~",
+      "RUSSIAN": "Ммм~",
+      "FRENCH": "Mmm~",
+      "THAI": "อืมม~"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이제 좀 살 거 같다~",
+      "ENGLISH": "Now I feel alive again~",
+      "CHINESE_SIMPLIFIED": "感觉我又活过来了!",
+      "CHINESE_TRADITIONAL": "感覺我又活過來了!",
+      "JAPANESE": "やっと、落ち着いた〜",
+      "INDONESIAN": "Sekarang aku merasa hidup kembali~",
+      "PORTUGUESE": "Agora me sinto viva de novo~",
+      "RUSSIAN": "Теперь я снова чувствую себя живой~",
+      "FRENCH": "Maintenant, je me sens revivre~",
+      "THAI": "ตอนนี้ฉันรู้สึกสดชื่นขึ้นมาอีกครั้ง~"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 나 없는 동안 일 많았어요?",
+      "ENGLISH": "Oppa, did you have a lot of work while I was gone?",
+      "CHINESE_SIMPLIFIED": "哥哥，我不在的这段时间你很忙吗?",
+      "CHINESE_TRADITIONAL": "哥哥，我不在的這段時間你很忙嗎?",
+      "JAPANESE": "私がいない間、仕事多かった？",
+      "INDONESIAN": "Oppa, kamu banyak kerjaan saat aku pergi?",
+      "PORTUGUESE": "Oppa, você teve muito trabalho enquanto eu estava fora?",
+      "RUSSIAN": "Оппа, у тебя было много работы, пока меня не было?",
+      "FRENCH": "Oppa, tu as eu beaucoup de travail pendant que je n’étais pas là ?",
+      "THAI": "โอปป้า คุณทำงานเยอะมากตอนที่ฉันไม่อยู่เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "얼굴이 좀 상한 거 같은데?",
+      "ENGLISH": "You look a little worn out.",
+      "CHINESE_SIMPLIFIED": "你看起来很憔悴",
+      "CHINESE_TRADITIONAL": "你看起來很憔悴",
+      "JAPANESE": "ちょっと疲れてるみたいだけど。",
+      "INDONESIAN": "Kamu kelihatan agak kelelahan.",
+      "PORTUGUESE": "Você parece um pouco cansado.",
+      "RUSSIAN": "Ты выглядишь немного уставшим.",
+      "FRENCH": "Tu as l’air un peu fatigué.",
+      "THAI": "คุณดูเหนื่อยนิดหน่อยนะ"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "승이 비행 끝나는 날 맞춰서 연차 쓰려고 좀 달렸어.",
+      "ENGLISH": "I’ve been pushing myself to take time off for the day you’d be back.",
+      "CHINESE_SIMPLIFIED": "为了今天能请假来接你，之前加了会班",
+      "CHINESE_TRADITIONAL": "爲了今天能請假來接你，之前加了會班",
+      "JAPANESE": "スンイのフライトが終わる日に合わせて、有休取ろうと思って。",
+      "INDONESIAN": "Aku sudah memaksakan diri untuk mengambil cuti di hari kamu kembali.",
+      "PORTUGUESE": "Tenho me esforçado para tirar um tempo de folga no dia em que você voltasse.",
+      "RUSSIAN": "Я старался освободить день специально к твоему возвращению.",
+      "FRENCH": "J’ai fait de mon mieux pour me libérer spécialement pour le jour de ton retour.",
+      "THAI": "ฉันพยายามอย่างหนักที่จะหาเวลาว่างสำหรับวันที่คุณกลับมา"
+    },
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 34.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "힝... 그럼 건강 나빠지는데.",
+      "ENGLISH": "But that’s not good for your health...",
+      "CHINESE_SIMPLIFIED": "可是这样对身体不好哎…",
+      "CHINESE_TRADITIONAL": "可是這樣對身體不好哎…",
+      "JAPANESE": "ええ…それじゃ体に悪いよ。",
+      "INDONESIAN": "Tapi itu nggak baik untuk kesehatanmu...",
+      "PORTUGUESE": "Mas isso não é bom para sua saúde...",
+      "RUSSIAN": "Но это же плохо для твоего здоровья...",
+      "FRENCH": "Mais ce n’est pas bon pour ta santé...",
+      "THAI": "แต่แบบนั้นมันไม่ดีต่อสุขภาพของคุณเลย..."
+    },
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "일단 얼른 집 가자! 오늘 완전 꼭 붙어 자야지!",
+      "ENGLISH": "Let’s just go home! Tonight, we’re sticking together!",
+      "CHINESE_SIMPLIFIED": "先赶紧回家吧!今天要一整天黏在一起!",
+      "CHINESE_TRADITIONAL": "先趕緊回家吧!今天要一整天黏在一起!",
+      "JAPANESE": "とりあえず、早く家に帰ろ！今日は一緒にくっついて寝るんだから！",
+      "INDONESIAN": "Ayo pulang saja! Malam ini, kita tetap bersama!",
+      "PORTUGUESE": "Vamos para casa! Hoje à noite, vamos ficar juntinhos!",
+      "RUSSIAN": "Давай просто поедем домой! Сегодня вечером мы не будем отходить друг от друга!",
+      "FRENCH": "Allons simplement à la maison ! Ce soir, on reste ensemble !",
+      "THAI": "กลับบ้านกันเถอะ! คืนนี้เราอยู่ด้วยกันทั้งคืน!"
+    },
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 39.6
+    }
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그래도... 그네는 그대로다~",
+      "ENGLISH": "At least the swings are still here~",
+      "CHINESE_SIMPLIFIED": "还好秋千还是老样子~",
+      "CHINESE_TRADITIONAL": "還好鞦韆還是老樣子~",
+      "JAPANESE": "ブランコはそのままだね～",
+      "INDONESIAN": "Setidaknya ayunannya masih ada~",
+      "PORTUGUESE": "Pelo menos os balanços ainda estão aqui~",
+      "RUSSIAN": "По крайней мере, качели всё ещё здесь~",
+      "FRENCH": "Au moins, les balançoires sont toujours là~",
+      "THAI": "อย่างน้อยชิงช้าก็ยังอยู่ที่นี่~"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "타 볼래?",
+      "ENGLISH": "Wanna try?",
+      "CHINESE_SIMPLIFIED": "要荡秋千吗?",
+      "CHINESE_TRADITIONAL": "要盪鞦韆嗎?",
+      "JAPANESE": "乗ってみる？",
+      "INDONESIAN": "Mau coba?",
+      "PORTUGUESE": "Quer tentar?",
+      "RUSSIAN": "Хочешь покататься?",
+      "FRENCH": "Tu veux essayer ?",
+      "THAI": "อยากลองไหม?"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아니 오빠가 앉아 봐.",
+      "ENGLISH": "No, you sit down, Oppa.",
+      "CHINESE_SIMPLIFIED": "不了，哥哥你坐上去吧",
+      "CHINESE_TRADITIONAL": "不了，哥哥你坐上去吧",
+      "JAPANESE": "いや、お兄ちゃんが座ってみて。",
+      "INDONESIAN": "Nggak, kamu duduk aja, Oppa.",
+      "PORTUGUESE": "Não, você senta, Oppa.",
+      "RUSSIAN": "Нет, садись ты, оппа.",
+      "FRENCH": "Non, assieds-toi, oppa.",
+      "THAI": "ไม่ นายต้องนั่งสิ อปป้า."
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "내가?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我?",
+      "CHINESE_TRADITIONAL": "我?",
+      "JAPANESE": "俺が？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Eu?",
+      "RUSSIAN": "Я?",
+      "FRENCH": "Moi ?",
+      "THAI": "ฉันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 내가 밀어줄게?",
+      "ENGLISH": "I’ll push you.",
+      "CHINESE_SIMPLIFIED": "哥哥我来帮你推吧",
+      "CHINESE_TRADITIONAL": "哥哥我來幫你推吧",
+      "JAPANESE": "お兄ちゃん、私が押してあげる！",
+      "INDONESIAN": "Aku dorongin, deh.",
+      "PORTUGUESE": "Vou te empurrar.",
+      "RUSSIAN": "Я тебя покатаю.",
+      "FRENCH": "Je vais te pousser.",
+      "THAI": "ฉันจะไกวให้นาย."
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.66
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "야 고은비.",
+      "ENGLISH": "Go Eun-bi.",
+      "CHINESE_SIMPLIFIED": "呀 高恩妃",
+      "CHINESE_TRADITIONAL": "呀 高恩妃",
+      "JAPANESE": "おい。",
+      "INDONESIAN": "Go Eun-bi.",
+      "PORTUGUESE": "Go Eun-bi.",
+      "RUSSIAN": "Го Ынби.",
+      "FRENCH": "Go Eun-bi.",
+      "THAI": "โก อึนบี."
+    },
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "너 이러려고 한국 왔어?",
+      "ENGLISH": "Did you come back to Korea for this?",
+      "CHINESE_SIMPLIFIED": "你就是为了这个才回韩国的吗?",
+      "CHINESE_TRADITIONAL": "你就是爲了這個纔回韓國的嗎?",
+      "JAPANESE": "お前、このために韓国に来たのか？",
+      "INDONESIAN": "Kamu balik ke Korea buat ini?",
+      "PORTUGUESE": "Você voltou pra Coreia por isso?",
+      "RUSSIAN": "Ты вернулась в Корею ради этого?",
+      "FRENCH": "T’es revenue en Corée pour ça ?",
+      "THAI": "เธอกลับมาเกาหลีเพราะเรื่องนี้เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아~니?",
+      "ENGLISH": "Nope!",
+      "CHINESE_SIMPLIFIED": "不啊?",
+      "CHINESE_TRADITIONAL": "不啊?",
+      "JAPANESE": "違うよ？",
+      "INDONESIAN": "Nggak!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "เปล่า!"
+    },
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 25.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오빠랑 결혼하려고 왔는데?",
+      "ENGLISH": "I came back to marry you!",
+      "CHINESE_SIMPLIFIED": "我是为了和你结婚才回来的",
+      "CHINESE_TRADITIONAL": "我是爲了和你結婚纔回來的",
+      "JAPANESE": "お兄ちゃんと結婚するために帰ってきたんだけど？",
+      "INDONESIAN": "Aku balik buat nikahin kamu!",
+      "PORTUGUESE": "Voltei pra casar com você!",
+      "RUSSIAN": "Я вернулась, чтобы выйти за тебя замуж!",
+      "FRENCH": "Je suis revenue pour t’épouser !",
+      "THAI": "ฉันกลับมาเพื่อแต่งงานกับนาย!"
+    },
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 27.0
+    }
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "何でですか？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "밀크걸스 팬클럽 1기에 빛나는 팬심에 의하면 밍밍 님 MBTI는...",
+      "ENGLISH": "As a proud member of the Milk Girls Fan Club,",
+      "CHINESE_SIMPLIFIED": "作为牛奶少女粉丝俱乐部1期会员，我敢打赌你的MBTI是…",
+      "CHINESE_TRADITIONAL": "作爲牛奶少女粉絲俱樂部1期會員，我敢打賭你的MBTI是…",
+      "JAPANESE": "ミルクガールズファンクラブ1期生として輝くファン心に基づくと、ミンミンさんのMBTIは…",
+      "INDONESIAN": "Sebagai anggota bangga Milk Girls Fan Club,",
+      "PORTUGUESE": "Como um membro orgulhoso do Milk Girls Fan Club,",
+      "RUSSIAN": "Как гордый участник фан-клуба \"Milk Girls\",",
+      "FRENCH": "En tant que fier membre du fan club des Milk Girls,",
+      "THAI": "ในฐานะสมาชิกแฟนคลับ Milk Girls อย่างภูมิใจ,"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "‘CUTE’ 잖아요!",
+      "ENGLISH": "I thought your MBTI was... ‘CUTE’!",
+      "CHINESE_SIMPLIFIED": "CUTE!",
+      "CHINESE_TRADITIONAL": "CUTE!",
+      "JAPANESE": "「CUTE」じゃないですか！",
+      "INDONESIAN": "Aku kira MBTI-mu itu... ‘IMUT’!",
+      "PORTUGUESE": "Achei que seu MBTI era... ‘FOFA’!",
+      "RUSSIAN": "я думал, что твоё MBTI — это... \"Милота\"!",
+      "FRENCH": "je pensais que ton MBTI, c’était... \"MIGNON\" !",
+      "THAI": "ฉันคิดว่า MBTI ของนายคือ... \"คิ้วท์\"!"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.75
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐예요~ 진짜!",
+      "ENGLISH": "Oh, come on~ seriously!",
+      "CHINESE_SIMPLIFIED": "啊~什么呀~真是的!",
+      "CHINESE_TRADITIONAL": "啊~什麼呀~真是的!",
+      "JAPANESE": "あ～何それ、もう！",
+      "INDONESIAN": "Ayolah~ serius!",
+      "PORTUGUESE": "Ah, qual é~ sério!",
+      "RUSSIAN": "Ох, да ладно тебе~ серьёзно!",
+      "FRENCH": "Oh, allez~ sérieusement !",
+      "THAI": "โอ๊ย~ จริงจังหน่อยสิ!"
+    },
+    "TIME": {
+      "SHOW": 8.75,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저 그럼 혹시...",
+      "ENGLISH": "Then, uh... could you maybe tell me...",
+      "CHINESE_SIMPLIFIED": "那…",
+      "CHINESE_TRADITIONAL": "那…",
+      "JAPANESE": "じゃあ、あの…もしかして…",
+      "INDONESIAN": "Jadi, uh... mungkin kamu bisa kasih tahu...",
+      "PORTUGUESE": "Então, uh... você pode me dizer...",
+      "RUSSIAN": "Тогда... ээм... можешь сказать...",
+      "FRENCH": "Alors... euh... tu pourrais peut-être me dire...",
+      "THAI": "งั้น... เอ่อ... นายช่วยบอกได้ไหมว่า..."
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "예전에 열애설 난 거 그거는 진짜예요...? / 네?",
+      "ENGLISH": "Was that dating rumor from before... was it true? / Huh?",
+      "CHINESE_SIMPLIFIED": "你之前的那些恋爱传闻都是真的吗? / 什么?",
+      "CHINESE_TRADITIONAL": "你之前的那些戀愛傳聞都是真的嗎? / 什麼?",
+      "JAPANESE": "昔、熱愛報道が出たあれって本当なんですか…？ / え？",
+      "INDONESIAN": "Rumor kencan yang dulu itu... bener nggak? / Hah?",
+      "PORTUGUESE": "Aquele rumor de namoro... era verdade? / Hã?",
+      "RUSSIAN": "Тот слух о свидании... он правда? / Что?",
+      "FRENCH": "Cette rumeur de relation... c’était vrai ? / Hein ?",
+      "THAI": "ข่าวลือเรื่องเดตเมื่อก่อน... จริงหรือเปล่า? / ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 23.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 불편하시면 말씀 안 해주셔도 돼요.",
+      "ENGLISH": "Oh, if it’s uncomfortable, you don’t have to answer.",
+      "CHINESE_SIMPLIFIED": "啊，如果你觉得不方便的话可以不用回答。",
+      "CHINESE_TRADITIONAL": "啊，如果你覺得不方便的話可以不用回答。",
+      "JAPANESE": "あ、無理に答えなくても大丈夫です。",
+      "INDONESIAN": "Oh, kalau nggak nyaman, kamu nggak perlu jawab.",
+      "PORTUGUESE": "Ah, se for desconfortável, não precisa responder.",
+      "RUSSIAN": "Если тебе неудобно, можешь не отвечать.",
+      "FRENCH": "Si c’est gênant, tu n’as pas à répondre.",
+      "THAI": "ถ้ามันทำให้นายอึดอัด ไม่ต้องตอบก็ได้นะ"
+    },
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 26.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "제 팬클럽 1기시면...",
+      "ENGLISH": "If you’re a 1st-gen fan,",
+      "CHINESE_SIMPLIFIED": "如果是粉丝俱乐部第1期成员的话...",
+      "CHINESE_TRADITIONAL": "如果是粉絲俱樂部第1期成員的話...",
+      "JAPANESE": "ファンクラブ1期生なら…",
+      "INDONESIAN": "Kalau kamu fans generasi pertama,",
+      "PORTUGUESE": "Se você é um fã da primeira geração,",
+      "RUSSIAN": "Если ты фанат первого поколения,",
+      "FRENCH": "Si tu es un fan de la première génération,",
+      "THAI": "ถ้านายเป็นแฟนคลับรุ่นแรก,"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "이상형도 아실 텐데?",
+      "ENGLISH": "you should already know my ideal type, right?",
+      "CHINESE_SIMPLIFIED": "应该知道我的理想型呀~",
+      "CHINESE_TRADITIONAL": "應該知道我的理想型呀~",
+      "JAPANESE": "理想のタイプも知ってるんじゃないですか？",
+      "INDONESIAN": "kamu pasti udah tahu tipe idealku, kan?",
+      "PORTUGUESE": "você já deve saber meu tipo ideal, certo?",
+      "RUSSIAN": "ты уже должен знать, какой у меня идеальный тип, верно?",
+      "FRENCH": "tu devrais déjà connaître mon type idéal, non ?",
+      "THAI": "นายควรรู้แล้วสิว่าฉันชอบคนแบบไหน, ใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.4
+    }
+  }
+]

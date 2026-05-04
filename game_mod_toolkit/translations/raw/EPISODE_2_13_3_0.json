@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어제 그 토마토??",
+      "ENGLISH": "You’re that tomato market guy from yesterday??",
+      "CHINESE_SIMPLIFIED": "昨天二手交易那位?",
+      "CHINESE_TRADITIONAL": "昨天二手交易那位?",
+      "JAPANESE": "あ、昨日のトマト？！",
+      "INDONESIAN": "Kamu yang dari tomato market kemarin??",
+      "PORTUGUESE": "Você é o cara do mercado de tomate de ontem??",
+      "RUSSIAN": "Ты тот парень с рынка помидоров вчера??",
+      "FRENCH": "C’est toi, le gars du marché aux tomates d’hier ??",
+      "THAI": "นายคือคนขายมะเขือเทศเมื่อวานใช่ไหม??"
+    },
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "와 이틀 연속! 실물 영접 대박!",
+      "ENGLISH": "Wow, two days in a row! Amazing to see you in person!",
+      "CHINESE_SIMPLIFIED": "天哪!我居然能连着两天见到你本人!",
+      "CHINESE_TRADITIONAL": "天哪!我居然能連着兩天見到你本人!",
+      "JAPANESE": "わあ、2日連続、実物に会うなんて！やば！",
+      "INDONESIAN": "Wah, dua hari berturut-turut! Keren banget bisa ketemu kamu langsung!",
+      "PORTUGUESE": "Uau, dois dias seguidos! Incrível te ver pessoalmente!",
+      "RUSSIAN": "Вау, два дня подряд! Удивительно увидеть тебя лично!",
+      "FRENCH": "Wow, deux jours de suite ! Incroyable de te voir en vrai !",
+      "THAI": "ว้าว สองวันติด! ดีใจจังที่ได้เจอนายตัวจริง!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍 님! 여기서 일하세요??",
+      "ENGLISH": "Ming-Ming! Do you work here??",
+      "CHINESE_SIMPLIFIED": "敏敏，你在这里上班吗?",
+      "CHINESE_TRADITIONAL": "敏敏，你在這裏上班嗎?",
+      "JAPANESE": "ミンミンさん！ここで働いてるんですか？",
+      "INDONESIAN": "Ming-Ming! Kamu kerja di sini??",
+      "PORTUGUESE": "Ming-Ming! Você trabalha aqui??",
+      "RUSSIAN": "Мин-Мин! Ты здесь работаешь??",
+      "FRENCH": "Ming-Ming ! Tu travailles ici ??",
+      "THAI": "หมิงๆ! นายทำงานที่นี่เหรอ??"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "죄송한데... 조용히 좀 해주시면 안 될까요?",
+      "ENGLISH": "Uh, could you please keep it down?",
+      "CHINESE_SIMPLIFIED": "啊，不好意思，可以请你小声一点吗?",
+      "CHINESE_TRADITIONAL": "啊，不好意思，可以請你小聲一點嗎?",
+      "JAPANESE": "すいませんが…少し静かにしてもらえますか？",
+      "INDONESIAN": "Uh, bisa pelanin suaramu?",
+      "PORTUGUESE": "Ah, pode falar mais baixo?",
+      "RUSSIAN": "Эй, можешь потише?",
+      "FRENCH": "Euh, tu pourrais baisser un peu le ton ?",
+      "THAI": "เอ่อ ช่วยพูดเบาๆ หน่อยได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 10.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요, 제가 너무 놀라가지고...",
+      "ENGLISH": "Sorry, I was just so surprised...",
+      "CHINESE_SIMPLIFIED": "啊，抱歉…我太吃惊了…",
+      "CHINESE_TRADITIONAL": "啊，抱歉…我太吃驚了…",
+      "JAPANESE": "あ、すいません、ちょっとびっくりして…",
+      "INDONESIAN": "Maaf, aku kaget banget tadi...",
+      "PORTUGUESE": "Desculpa, fiquei muito surpreso...",
+      "RUSSIAN": "Извини, я просто так удивился...",
+      "FRENCH": "Désolé, j’étais juste super surpris...",
+      "THAI": "ขอโทษที ฉันแค่ตกใจมาก..."
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "...주문받겠습니다.",
+      "ENGLISH": "...What would you like to order?",
+      "CHINESE_SIMPLIFIED": "…那你要喝什么呢?",
+      "CHINESE_TRADITIONAL": "…那你要喝什麼呢?",
+      "JAPANESE": "…ご注文お伺いします。",
+      "INDONESIAN": "...Mau pesan apa?",
+      "PORTUGUESE": "...O que você gostaria de pedir?",
+      "RUSSIAN": "...Что будешь заказывать?",
+      "FRENCH": "...Qu’est-ce que tu veux commander ?",
+      "THAI": "...นายอยากสั่งอะไร?"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.0
+    }
+  }
+]

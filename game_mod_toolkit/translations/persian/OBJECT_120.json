@@ -1,0 +1,81 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "ENGLISH": "(Restricted area)",
+      "CHINESE_SIMPLIFIED": "(禁止入内)",
+      "CHINESE_TRADITIONAL": "(禁止入內)",
+      "JAPANESE": "（制限区域）",
+      "INDONESIAN": "(Area terlarang)",
+      "PORTUGUESE": "(Área restrita)",
+      "RUSSIAN": "(Запретная зона)",
+      "FRENCH": "(Zone interdite)",
+      "THAI": "(พื้นที่หวงห้าม)",
+      "PERSIAN": "(منطقه محدود)"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저긴 뭐가 있길래",
+      "ENGLISH": "Why have Mom and Dad",
+      "CHINESE_SIMPLIFIED": "上面是有什么奇怪的东西吗？",
+      "CHINESE_TRADITIONAL": "上面是有什麼奇怪的東西嗎？",
+      "JAPANESE": "あそこに何があるんだろう？",
+      "INDONESIAN": "Kenapa Mama dan Papa",
+      "PORTUGUESE": "Por que Mamãe e Papai",
+      "RUSSIAN": "Почему мама и папа",
+      "FRENCH": "Pourquoi maman et papa",
+      "THAI": "ทำไมพ่อกับแม่",
+      "PERSIAN": "چرا مامان و بابا داشتن"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.85
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠가 어릴 때부터 못 들어가게 하는 걸까?",
+      "ENGLISH": "Never let me go in there since I was a kid?",
+      "CHINESE_SIMPLIFIED": "从小爸妈就不让我上去…",
+      "CHINESE_TRADITIONAL": "從小爸媽就不讓我上去…",
+      "JAPANESE": "小さい頃から父さんと母さんに入るなって言われてたけど。",
+      "INDONESIAN": "Nggak pernah ngizinin aku masuk ke sana sejak kecil?",
+      "PORTUGUESE": "Nunca me deixaram entrar lá desde que eu era criança?",
+      "RUSSIAN": "никогда не пускали меня туда с детства?",
+      "FRENCH": "ne m'ont jamais laissé y entrer depuis que je suis petit ?",
+      "THAI": "ไม่เคยให้ฉันเข้าไปตั้งแต่เด็ก?",
+      "PERSIAN": "از بچگی هیچوقت اجازه ندادی برم اونجا؟"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐지?",
+      "ENGLISH": "What's in there?",
+      "CHINESE_SIMPLIFIED": "为什么呢？",
+      "CHINESE_TRADITIONAL": "爲什麼呢？",
+      "JAPANESE": "何なんだろう？",
+      "INDONESIAN": "Apa sih yang ada di dalam?",
+      "PORTUGUESE": "O que tem lá dentro?",
+      "RUSSIAN": "Что там внутри?",
+      "FRENCH": "Qu'y a-t-il là-dedans ?",
+      "THAI": "ข้างในมีอะไรอยู่กันแน่?",
+      "PERSIAN": "چه چیزی در آنجا وجود دارد؟"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.4
+    }
+  }
+]

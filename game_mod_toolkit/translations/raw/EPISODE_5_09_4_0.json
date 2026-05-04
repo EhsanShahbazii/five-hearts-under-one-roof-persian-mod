@@ -1,0 +1,363 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "화보 찍을 때만 입다가",
+      "ENGLISH": "It feels weird wearing this again",
+      "CHINESE_SIMPLIFIED": "我只在拍海报的时候穿过这种衣服",
+      "CHINESE_TRADITIONAL": "我只在拍海報的時候穿過這種衣服",
+      "JAPANESE": "撮影でしか水着着ないから",
+      "INDONESIAN": "Rasanya aneh pakai ini lagi",
+      "PORTUGUESE": "É estranho usar isso de novo",
+      "RUSSIAN": "Немного странно снова надевать это",
+      "FRENCH": "Ça fait bizarre de remettre ça",
+      "THAI": "รู้สึกแปลกๆ ที่ได้ใส่อีกครั้ง"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 간만에 입으니까 어색하다...",
+      "ENGLISH": "After only putting it on for photoshoots...",
+      "CHINESE_SIMPLIFIED": "这么突然一穿还有点尴尬…",
+      "CHINESE_TRADITIONAL": "這麼突然一穿還有點尷尬…",
+      "JAPANESE": "こうやって久しぶりに着ると、ちょっと変な感じ…",
+      "INDONESIAN": "Setelah sebelumnya cuma dipakai buat pemotretan...",
+      "PORTUGUESE": "Depois de só vestir pra sessões de fotos...",
+      "RUSSIAN": "После того, как я носила его только для фотосессий...",
+      "FRENCH": "Après l’avoir porté uniquement pour des shootings...",
+      "THAI": "หลังจากใส่แค่ตอนถ่ายแบบ..."
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그 때 그거 진짜 레전드였는데..!",
+      "ENGLISH": "That shoot was legendary, though!",
+      "CHINESE_SIMPLIFIED": "你那套写真照真的是经典啊…!",
+      "CHINESE_TRADITIONAL": "你那套寫真照真的是經典啊…!",
+      "JAPANESE": "あれは伝説でしたよね！",
+      "INDONESIAN": "Tapi pemotretan itu legendaris, sih!",
+      "PORTUGUESE": "Mas aquela sessão foi lendária!",
+      "RUSSIAN": "Та съёмка была легендарной, правда!",
+      "FRENCH": "Mais cette séance était légendaire !",
+      "THAI": "การถ่ายแบบนั้นเป็นตำนานจริงๆ นะ!"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그거 봤어요?",
+      "ENGLISH": "Oh, you saw that?",
+      "CHINESE_SIMPLIFIED": "你居然看过?",
+      "CHINESE_TRADITIONAL": "你居然看過?",
+      "JAPANESE": "見てくれてたんですか？",
+      "INDONESIAN": "Oh, kamu lihat yang itu?",
+      "PORTUGUESE": "Ah, você viu aquela?",
+      "RUSSIAN": "О, ты это видел?",
+      "FRENCH": "Oh, tu l’as vue ?",
+      "THAI": "อ้าว เธอเห็นแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그거랑 이 수영복 중에",
+      "ENGLISH": "Between that one and this swimsuit,",
+      "CHINESE_SIMPLIFIED": "那你觉得那套",
+      "CHINESE_TRADITIONAL": "那你覺得那套",
+      "JAPANESE": "その時の着ていた水着と、この水着だったら",
+      "INDONESIAN": "Antara yang itu sama baju renang ini,",
+      "PORTUGUESE": "Entre aquela e este maiô,",
+      "RUSSIAN": "Между тем купальником и этим,",
+      "FRENCH": "Entre celui-là et ce maillot,",
+      "THAI": "ระหว่างชุดนั้นกับชุดว่ายน้ำชุดนี้"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭐가 더 예뻐요?",
+      "ENGLISH": "Which do you think looks better?",
+      "CHINESE_SIMPLIFIED": "和这个泳装哪个更好看?",
+      "CHINESE_TRADITIONAL": "和這個泳裝哪個更好看?",
+      "JAPANESE": "どっちが可愛いですか？",
+      "INDONESIAN": "Menurut kamu, yang mana lebih bagus?",
+      "PORTUGUESE": "Qual você acha que ficou melhor?",
+      "RUSSIAN": "какой тебе больше нравится?",
+      "FRENCH": "lequel tu préfères ?",
+      "THAI": "เธอคิดว่าชุดไหนดูดีกว่ากัน?"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "매니저들이 원래 그런 거 정해준다던데.",
+      "ENGLISH": "I heard managers usually decide those things.",
+      "CHINESE_SIMPLIFIED": "这种事本来都是由经纪人来决定的",
+      "CHINESE_TRADITIONAL": "這種事本來都是由經紀人來決定的",
+      "JAPANESE": "そういうのは、いつもマネージャーが決めてくれるんですけど",
+      "INDONESIAN": "Katanya manajer yang biasanya nentuin soal begitu.",
+      "PORTUGUESE": "Ouvi dizer que os gerentes que geralmente decidem essas coisas.",
+      "RUSSIAN": "Слышала, менеджеры обычно решают такие вещи.",
+      "FRENCH": "J’ai entendu dire que ce sont souvent les managers qui décident de ça.",
+      "THAI": "ได้ยินมาว่าผู้จัดการมักจะตัดสินใจเรื่องพวกนี้"
+    },
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 16.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그때나 지금이나 똑같이 예뻐요...",
+      "ENGLISH": "Honestly, you looked just as stunning then as you do now...",
+      "CHINESE_SIMPLIFIED": "那时候和现在都一样好看…",
+      "CHINESE_TRADITIONAL": "那時候和現在都一樣好看…",
+      "JAPANESE": "あの時も今も、どっちも綺麗ですよ…",
+      "INDONESIAN": "Jujur, kamu kelihatan secantik waktu itu seperti sekarang...",
+      "PORTUGUESE": "Sinceramente, você estava tão deslumbrante quanto agora...",
+      "RUSSIAN": "Честно говоря, ты выглядела так же потрясающе тогда, как и сейчас...",
+      "FRENCH": "Franchement, tu étais aussi incroyable alors que maintenant...",
+      "THAI": "พูดตรงๆ นะ ตอนนั้นเธอก็ดูดีพอๆ กับตอนนี้เลย..."
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저 워낙 피부가 약해서... ",
+      "ENGLISH": "My skin’s really sensitive...",
+      "CHINESE_SIMPLIFIED": "我皮肤比较敏感…",
+      "CHINESE_TRADITIONAL": "我皮膚比較敏感…",
+      "JAPANESE": "私、肌が弱いんで…",
+      "INDONESIAN": "Kulitku sensitif banget...",
+      "PORTUGUESE": "Minha pele é bem sensível...",
+      "RUSSIAN": "У меня очень чувствительная кожа...",
+      "FRENCH": "Ma peau est très sensible...",
+      "THAI": "ฉันผิวค่อนข้างบอบบาง..."
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "꼼꼼히 발라줄래요?",
+      "ENGLISH": "Can you make sure to apply it thoroughly?",
+      "CHINESE_SIMPLIFIED": "你涂的时候可以轻一点吗?",
+      "CHINESE_TRADITIONAL": "你塗的時候可以輕一點嗎?",
+      "JAPANESE": "塗ってもらえますか？",
+      "INDONESIAN": "Bisa pastiin kamu olesinnya rata?",
+      "PORTUGUESE": "Pode garantir que aplicou direitinho?",
+      "RUSSIAN": "Ты не мог бы нанести всё как следует?",
+      "FRENCH": "Tu peux bien l’appliquer partout, s’il te plaît ?",
+      "THAI": "เธอช่วยทาให้ทั่วๆ ได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 33.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "네...!",
+      "ENGLISH": "Okay...!",
+      "CHINESE_SIMPLIFIED": "好…!",
+      "CHINESE_TRADITIONAL": "好…!",
+      "JAPANESE": "は、はい！",
+      "INDONESIAN": "Oke...!",
+      "PORTUGUESE": "Tá bom...!",
+      "RUSSIAN": "Хорошо...!",
+      "FRENCH": "D’accord... !",
+      "THAI": "โอเค...!"
+    },
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 34.2
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 간지러워!",
+      "ENGLISH": "Ah, that tickles!",
+      "CHINESE_SIMPLIFIED": "啊~好痒!",
+      "CHINESE_TRADITIONAL": "啊~好癢!",
+      "JAPANESE": "あ、くすぐったい！",
+      "INDONESIAN": "Ah, geli!",
+      "PORTUGUESE": "Ah, isso faz cócegas!",
+      "RUSSIAN": "Ах, щекотно!",
+      "FRENCH": "Ah, ça chatouille !",
+      "THAI": "อ๊า จั๊กจี้จัง!"
+    },
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 43.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "痒吗?",
+      "CHINESE_TRADITIONAL": "癢嗎?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?"
+    },
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 44.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아 워낙 간지럼을 많이 타서...",
+      "ENGLISH": "I’m just really ticklish...",
+      "CHINESE_SIMPLIFIED": "我本来痒痒肉就比较多…",
+      "CHINESE_TRADITIONAL": "我本來癢癢肉就比較多…",
+      "JAPANESE": "私、くすぐったがりなんです…",
+      "INDONESIAN": "Aku emang gampang geli...",
+      "PORTUGUESE": "É que eu sou muito sensível...",
+      "RUSSIAN": "Я просто очень чувствительна к щекотке...",
+      "FRENCH": "Je suis vraiment très chatouilleuse...",
+      "THAI": "ฉันแค่เป็นคนจั๊กจี้ง่ายมาก..."
+    },
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 46.7
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "다시 발라주세요!",
+      "ENGLISH": "Can you reapply it?",
+      "CHINESE_SIMPLIFIED": "重新帮我涂吧!",
+      "CHINESE_TRADITIONAL": "重新幫我塗吧!",
+      "JAPANESE": "もう一回、塗ってください！",
+      "INDONESIAN": "Bisa dioles lagi?",
+      "PORTUGUESE": "Pode passar de novo?",
+      "RUSSIAN": "Можешь ещё раз нанести?",
+      "FRENCH": "Tu peux en remettre un peu ?",
+      "THAI": "ช่วยทาให้หน่อยได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 47.5,
+      "HIDE": 48.9
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Alright...",
+      "CHINESE_SIMPLIFIED": "好…",
+      "CHINESE_TRADITIONAL": "好…",
+      "JAPANESE": "は、はい…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tá...",
+      "RUSSIAN": "Ладно...",
+      "FRENCH": "D’accord...",
+      "THAI": "โอเค..."
+    },
+    "TIME": {
+      "SHOW": 49.7,
+      "HIDE": 50.6
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아 잠깐만!",
+      "ENGLISH": "Wait a sec!",
+      "CHINESE_SIMPLIFIED": "啊等一下!",
+      "CHINESE_TRADITIONAL": "啊等一下!",
+      "JAPANESE": "あ、ちょっと待って！",
+      "INDONESIAN": "Tunggu sebentar!",
+      "PORTUGUESE": "Espera um segundo!",
+      "RUSSIAN": "Подожди секундочку!",
+      "FRENCH": "Attends une seconde !",
+      "THAI": "รอเดี๋ยวนะ!"
+    },
+    "TIME": {
+      "SHOW": 53.1,
+      "HIDE": 54.3
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "그냥...",
+      "ENGLISH": "Just...",
+      "CHINESE_SIMPLIFIED": "你能...",
+      "CHINESE_TRADITIONAL": "你能...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Tapi...",
+      "PORTUGUESE": "Só...",
+      "RUSSIAN": "Просто...",
+      "FRENCH": "Juste...",
+      "THAI": "แค่..."
+    },
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 57.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "손 안 닿는 곳만 발라줄래요?",
+      "ENGLISH": "Could you cover the spots I can’t reach?",
+      "CHINESE_SIMPLIFIED": "涂在我的手碰不到的地方吗？",
+      "CHINESE_TRADITIONAL": "塗在我的手碰不到的地方嗎？",
+      "JAPANESE": "手が届かないところだけ塗ってくれますか？",
+      "INDONESIAN": "Bisa tolong olesin di bagian yang gak bisa aku jangkau?",
+      "PORTUGUESE": "Pode passar nas partes que eu não alcanço?",
+      "RUSSIAN": "не мог бы ты покрыть места, до которых я не могу дотянуться?",
+      "FRENCH": "tu pourrais couvrir les endroits que je ne peux pas atteindre ?",
+      "THAI": "ช่วยทาบริเวณที่ฉันเอื้อมไม่ถึงหน่อยนะ"
+    },
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 60.4
+    }
+  }
+]

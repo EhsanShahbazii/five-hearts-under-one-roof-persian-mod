@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "자자 그럼~",
+      "ENGLISH": "Alright!",
+      "CHINESE_SIMPLIFIED": "那~",
+      "CHINESE_TRADITIONAL": "那~",
+      "JAPANESE": "ではでは～",
+      "INDONESIAN": "Baiklah!",
+      "PORTUGUESE": "Certo!",
+      "RUSSIAN": "Отлично!",
+      "FRENCH": "Parfait !",
+      "THAI": "โอเค!"
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "질문을 드릴게요.",
+      "ENGLISH": "Let’s get to some questions~",
+      "CHINESE_SIMPLIFIED": "我们现在开始提问",
+      "CHINESE_TRADITIONAL": "我們現在開始提問",
+      "JAPANESE": "質問をさせていただきます。",
+      "INDONESIAN": "Kita mulai dengan beberapa pertanyaan~",
+      "PORTUGUESE": "Vamos para algumas perguntas~",
+      "RUSSIAN": "Давайте перейдём к вопросам~",
+      "FRENCH": "Passons aux questions~",
+      "THAI": "มาเริ่มคำถามกันเลย~"
+    },
+    "TIME": {
+      "SHOW": 2.18,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "달리기를 하는 3명이 있습니다.",
+      "ENGLISH": "There are three runners in a race.",
+      "CHINESE_SIMPLIFIED": "有三个人在赛跑",
+      "CHINESE_TRADITIONAL": "有三個人在賽跑",
+      "JAPANESE": "ある3人の走者がいたとします。",
+      "INDONESIAN": "Ada tiga pelari dalam perlombaan.",
+      "PORTUGUESE": "Há três corredores em uma corrida.",
+      "RUSSIAN": "В забеге участвуют три бегуна.",
+      "FRENCH": "Il y a trois coureurs dans une course.",
+      "THAI": "มีนักวิ่งสามคนในสนามแข่ง"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "그때! 결승선 앞에서",
+      "ENGLISH": "If the one in third place...",
+      "CHINESE_SIMPLIFIED": "终点线前",
+      "CHINESE_TRADITIONAL": "終點線前",
+      "JAPANESE": "もし、ゴール直前で、",
+      "INDONESIAN": "Kalau yang di posisi ketiga...",
+      "PORTUGUESE": "Se o que está em terceiro lugar...",
+      "RUSSIAN": "Если тот, кто на третьем месте...",
+      "FRENCH": "Si celui en troisième position...",
+      "THAI": "ถ้าคนที่อยู่อันดับสาม..."
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "3등이 2등을 제쳤다면...",
+      "ENGLISH": "Overtakes the second",
+      "CHINESE_SIMPLIFIED": "第三名超过了第二名",
+      "CHINESE_TRADITIONAL": "第三名超過了第二名",
+      "JAPANESE": "3位の選手が2位の選手を追い抜いたとすると、",
+      "INDONESIAN": "Menyusul yang di posisi kedua,",
+      "PORTUGUESE": "Ultrapassa o segundo,",
+      "RUSSIAN": "Обгоняет второго,",
+      "FRENCH": "Dépasse le deuxième,",
+      "THAI": "แซงคนที่สอง,"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "과연 그 3등은 몇 등을 했을까요?",
+      "ENGLISH": "What place are they in now?",
+      "CHINESE_SIMPLIFIED": "那么第三名最终拿了第几名?",
+      "CHINESE_TRADITIONAL": "那麼第三名最終拿了第幾名?",
+      "JAPANESE": "その3位の選手は何位になったでしょうか？",
+      "INDONESIAN": "Sekarang dia ada di posisi berapa?",
+      "PORTUGUESE": "Em que posição ele está agora?",
+      "RUSSIAN": "На каком месте он теперь?",
+      "FRENCH": "Quelle place occupe-t-il maintenant ?",
+      "THAI": "ตอนนี้เขาอยู่อันดับไหน?"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 18.0
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "다 싼 건가...?",
+      "ENGLISH": "So, you’ve packed everything...",
+      "CHINESE_SIMPLIFIED": "行李都装好了吧",
+      "CHINESE_TRADITIONAL": "行李都裝好了吧",
+      "JAPANESE": "荷物、全部詰め終わったかな...？",
+      "INDONESIAN": "Jadi, kamu sudah mengemas semuanya...",
+      "PORTUGUESE": "Então, você arrumou tudo...",
+      "RUSSIAN": "Значит, ты собрала все вещи...",
+      "FRENCH": "Alors, tu as tout emballé...",
+      "THAI": "ดังนั้น คุณเก็บของทุกอย่างเรียบร้อยแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "ENGLISH": "‘Now it’s time for me to find my own world outside.",
+      "CHINESE_SIMPLIFIED": "是时候出去寻找我自己的世界了",
+      "CHINESE_TRADITIONAL": "是時候出去尋找我自己的世界了",
+      "JAPANESE": "これからは、自分だけの世界を探しに行きます。",
+      "INDONESIAN": "Kini saatnya bagiku untuk menemukan duniaku sendiri di luar sana.",
+      "PORTUGUESE": "Agora é hora de eu encontrar meu próprio mundo lá fora.",
+      "RUSSIAN": "«Теперь настало время найти свой собственный мир за пределами.",
+      "FRENCH": "« Maintenant, il est temps pour moi de trouver mon propre monde dehors.",
+      "THAI": "“ตอนนี้ถึงเวลาที่ฉันต้องหาโลกของตัวเองข้างนอกแล้ว"
+    },
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 26.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "ENGLISH": "Thank you for raising me all this time. -Seung-yi-'",
+      "CHINESE_SIMPLIFIED": "感谢您的养育之恩  -曹圣依",
+      "CHINESE_TRADITIONAL": "感謝您的養育之恩  -曹聖依",
+      "JAPANESE": "今まで育ててくださり、ありがとうございました。チョ・スンイ",
+      "INDONESIAN": "Terima kasih telah merawatku selama ini. -Seung-yi-'",
+      "PORTUGUESE": "Obrigado por cuidar de mim todo esse tempo. -Seung-yi-'",
+      "RUSSIAN": "Спасибо за то, что заботились обо мне всё это время. — Сын-и»",
+      "FRENCH": "Merci de m’avoir élevé(e) tout ce temps. — Seung-yi »",
+      "THAI": "ขอบคุณที่เลี้ยงดูฉันมาตลอดนะ -ซึงอี-”"
+    },
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 28.1
+    }
+  }
+]

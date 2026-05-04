@@ -1,0 +1,678 @@
+[
+  {
+    "INDEX": 1.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 4일 전 -",
+      "ENGLISH": "- 4 days ago -",
+      "CHINESE_SIMPLIFIED": "- 4天前 -",
+      "CHINESE_TRADITIONAL": "- 4天前 -",
+      "JAPANESE": "- 4日前 -",
+      "INDONESIAN": "- 4 hari yang lalu -",
+      "PORTUGUESE": "- 4 dias atrás -",
+      "RUSSIAN": "- 4 дня назад -",
+      "FRENCH": "- Il y a 4 jours -",
+      "THAI": "- 4 วันที่แล้ว -",
+      "PERSIAN": "- 4 روز پیش -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "출근할 때 외장하드 잘 챙겨와",
+      "ENGLISH": "Don’t forget your external hard drive on your way to work.",
+      "CHINESE_SIMPLIFIED": "你上班的时候记得带U盘",
+      "CHINESE_TRADITIONAL": "你上班的時候記得帶U盤",
+      "JAPANESE": "出勤するときに外付けハードディスクをしっかり持ってきてね。",
+      "INDONESIAN": "Jangan lupa bawa hard drive eksternalmu dalam perjalanan ke kantor.",
+      "PORTUGUESE": "Não esqueça seu HD externo no caminho para o trabalho.",
+      "RUSSIAN": "Не забудь внешний жёсткий диск по дороге на работу.",
+      "FRENCH": "N’oublie pas ton disque dur externe en partant au travail.",
+      "THAI": "อย่าลืมฮาร์ดไดรฟ์ของนายตอนออกไปทำงานล่ะ",
+      "PERSIAN": "در راه رفتن به محل کار، هارد اکسترنال خود را فراموش نکنید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "네! 알겠습니다! ",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "好! 收到!",
+      "CHINESE_TRADITIONAL": "好! 收到!",
+      "JAPANESE": "はい！わかりました！",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Entendido!",
+      "RUSSIAN": "Понял!",
+      "FRENCH": "Reçu !",
+      "THAI": "รับทราบ!",
+      "PERSIAN": "Got it!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나노코퍼레이션 미팅 자료는?",
+      "ENGLISH": "What about the Nano Corporation meeting materials?",
+      "CHINESE_SIMPLIFIED": "和纳米集团的会议资料呢?",
+      "CHINESE_TRADITIONAL": "和納米集團的會議資料呢?",
+      "JAPANESE": "ナノコーポレーションのミーティング資料は？",
+      "INDONESIAN": "Bagaimana dengan materi rapat Nano Corporation?",
+      "PORTUGUESE": "E os materiais da reunião da Nano Corporation?",
+      "RUSSIAN": "А как насчёт материалов для встречи с Nano Corporation?",
+      "FRENCH": "Et pour les documents de la réunion avec Nano Corporation ?",
+      "THAI": "แล้วเอกสารประชุมกับ Nano Corporation ล่ะ?",
+      "PERSIAN": "در مورد مواد جلسه شرکت نانو چطور؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 2.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 중으로 전달 드리겠습니다!",
+      "ENGLISH": "I’ll send them over today!",
+      "CHINESE_SIMPLIFIED": "今天之内发给您！",
+      "CHINESE_TRADITIONAL": "今天之內發給您！",
+      "JAPANESE": "今日中にお届けします！",
+      "INDONESIAN": "Aku akan kirim hari ini!",
+      "PORTUGUESE": "Vou enviar hoje!",
+      "RUSSIAN": "Отправлю сегодня!",
+      "FRENCH": "Je les envoie aujourd’hui !",
+      "THAI": "เดี๋ยววันนี้ฉันส่งให้!",
+      "PERSIAN": "من امروز اونا رو می فرستم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 3.0,
+    "DEFAULT": 1.0,
+    "SCRIPT": {
+      "KOREAN": "- 여기까지 읽었습니다 -",
+      "ENGLISH": "- Bookmarked for unread messages -",
+      "CHINESE_SIMPLIFIED": "- 已读消息 -",
+      "CHINESE_TRADITIONAL": "- 已讀消息 -",
+      "JAPANESE": "- ここまで読みました -",
+      "INDONESIAN": "- Pesan yang belum dibaca -",
+      "PORTUGUESE": "- Marcado para mensagens não lidas -",
+      "RUSSIAN": "- Закладка -",
+      "FRENCH": "- Messages non lus -",
+      "THAI": "- คั่นหน้าสำหรับข้อความที่ยังไม่ได้อ่าน -",
+      "PERSIAN": "- نشانک گذاری شده برای پیام های خوانده نشده -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "EPISODE_INDEX": 60000.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이번 달 매출표 보내준 거 프린트해 와. 또 고장이야.",
+      "ENGLISH": "Print out the sales report I sent. The printer’s down again.",
+      "CHINESE_SIMPLIFIED": "把这个月的销售报表打印出来,打印机又坏了",
+      "CHINESE_TRADITIONAL": "把這個月的銷售報表打印出來,打印機又壞了",
+      "JAPANESE": "今月の売上表を印刷して持ってきて。 また、壊れたのよ。",
+      "INDONESIAN": "Cetak laporan penjualan yang aku kirim. Printer rusak lagi.",
+      "PORTUGUESE": "Imprima o relatório de vendas que enviei. A impressora está com defeito de novo.",
+      "RUSSIAN": "Распечатай отчёт по продажам, который я отправил. Принтер опять не работает.",
+      "FRENCH": "Imprime le rapport des ventes que j’ai envoyé. L’imprimante est encore en panne.",
+      "THAI": "ปริ้นท์รายงานการขายที่ฉันส่งให้นะ ปริ้นเตอร์เสียอีกแล้ว",
+      "PERSIAN": "گزارش فروش را که فرستادم پرینت بگیرید. پرینتر دوباره خراب است"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "EPISODE_INDEX": 61100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜 늦었어?",
+      "ENGLISH": "Why are you late?",
+      "CHINESE_SIMPLIFIED": "怎么迟到了?",
+      "CHINESE_TRADITIONAL": "怎麼遲到了?",
+      "JAPANESE": "何で遅れたの？",
+      "INDONESIAN": "Kenapa kamu telat?",
+      "PORTUGUESE": "Por que você está atrasado?",
+      "RUSSIAN": "Почему ты опоздал?",
+      "FRENCH": "Pourquoi tu es en retard ?",
+      "THAI": "ทำไมมาสาย?",
+      "PERSIAN": "چرا دیر اومدی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "EPISODE_INDEX": 61100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요.",
+      "ENGLISH": "Sorry.",
+      "CHINESE_SIMPLIFIED": "对不起！",
+      "CHINESE_TRADITIONAL": "對不起！",
+      "JAPANESE": "すいませんでした。",
+      "INDONESIAN": "Maaf.",
+      "PORTUGUESE": "Desculpa.",
+      "RUSSIAN": "Извини.",
+      "FRENCH": "Désolé.",
+      "THAI": "ขอโทษครับ",
+      "PERSIAN": "متاسفم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "EPISODE_INDEX": 61100.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내가 좋아한다고 이런 거 봐줄 거라고 생각하지 마.",
+      "ENGLISH": "Don’t think I’ll let it slide just because I like you.",
+      "CHINESE_SIMPLIFIED": "别以为我跟你表白了就会对你网开一面",
+      "CHINESE_TRADITIONAL": "別以爲我跟你表白了就會對你網開一面",
+      "JAPANESE": "私が好きだからって、こういうの許すとは思わないでね。",
+      "INDONESIAN": "Jangan kira aku akan membiarkannya hanya karena aku suka padamu.",
+      "PORTUGUESE": "Não ache que vou deixar passar só porque gosto de você.",
+      "RUSSIAN": "Не думай, что я прощу только потому, что ты мне нравишься.",
+      "FRENCH": "Ne crois pas que je vais laisser passer juste parce que tu me plais.",
+      "THAI": "อย่าคิดว่าจะปล่อยผ่านแค่เพราะว่าฉันชอบนายล่ะ",
+      "PERSIAN": "فکر نکنید که فقط به خاطر همین که شما را دوست دارم، اجازه نمی دهم از بین برود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "EPISODE_INDEX": 61100.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네 명심하겠습니다.",
+      "ENGLISH": "Understood!",
+      "CHINESE_SIMPLIFIED": "记住了！",
+      "CHINESE_TRADITIONAL": "記住了！",
+      "JAPANESE": "はい、分かりました。",
+      "INDONESIAN": "Dimengerti!",
+      "PORTUGUESE": "Entendido!",
+      "RUSSIAN": "Понял!",
+      "FRENCH": "Compris !",
+      "THAI": "เข้าใจ!",
+      "PERSIAN": "فهمیده شد!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "EPISODE_INDEX": 61200.0,
+    "TYPE": 1.0,
+    "GROUP_CODE": 60401.0,
+    "SCRIPT": {
+      "KOREAN": "됐고 나 오늘 옷 어때?",
+      "ENGLISH": "How do I look today?",
+      "CHINESE_SIMPLIFIED": "我今天的穿搭怎么样?",
+      "CHINESE_TRADITIONAL": "我今天的穿搭怎麼樣?",
+      "JAPANESE": "今日の服、どうかしら？",
+      "INDONESIAN": "Bagaimana penampilanku hari ini?",
+      "PORTUGUESE": "Como estou hoje?",
+      "RUSSIAN": "Как я выгляжу сегодня?",
+      "FRENCH": "Comment tu me trouves aujourd’hui ?",
+      "THAI": "วันนี้ฉันดูเป็นไงบ้าง?",
+      "PERSIAN": "امروز چطور به نظر می‌رسم؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "EPISODE_INDEX": 61200.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "사이즈가 작아 보여요~",
+      "ENGLISH": "It looks a bit tight.",
+      "CHINESE_SIMPLIFIED": "看起来有点紧",
+      "CHINESE_TRADITIONAL": "看起來有點緊",
+      "JAPANESE": "サイズが少し小さく見えような。",
+      "INDONESIAN": "Kelihatannya agak ketat.",
+      "PORTUGUESE": "Parece um pouco apertado.",
+      "RUSSIAN": "Немного тесновато сидит.",
+      "FRENCH": "Ça te serre un peu.",
+      "THAI": "ดูแน่นๆ ไปหน่อย",
+      "PERSIAN": "کمی تنگ به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "EPISODE_INDEX": 61200.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "여며.",
+      "ENGLISH": "Button it up.",
+      "CHINESE_SIMPLIFIED": "请把扣子系好",
+      "CHINESE_TRADITIONAL": "請把釦子繫好",
+      "JAPANESE": "閉まってる。",
+      "INDONESIAN": "Kancingkan semuanya.",
+      "PORTUGUESE": "Abotoe até o último botão.",
+      "RUSSIAN": "Застегни.",
+      "FRENCH": "Boutonne-toi.",
+      "THAI": "ติดกระดุมซะ",
+      "PERSIAN": "دکمه اونو بالا ببرید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "EPISODE_INDEX": 61200.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "잘 어울려요!",
+      "ENGLISH": "You look great!",
+      "CHINESE_SIMPLIFIED": "非常适合你!",
+      "CHINESE_TRADITIONAL": "非常適合你!",
+      "JAPANESE": "すごく、似合ってますね！",
+      "INDONESIAN": "Kamu terlihat keren!",
+      "PORTUGUESE": "Você está ótimo!",
+      "RUSSIAN": "Отлично выглядишь!",
+      "FRENCH": "Tu es superbe !",
+      "THAI": "ดูดีเลยล่ะ!",
+      "PERSIAN": "شما عالی به نظر می رسید!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "봤어?",
+      "ENGLISH": "Did you notice?",
+      "CHINESE_SIMPLIFIED": "好看吗?",
+      "CHINESE_TRADITIONAL": "好看嗎?",
+      "JAPANESE": "見た？",
+      "INDONESIAN": "Kamu sadar?",
+      "PORTUGUESE": "Você percebeu?",
+      "RUSSIAN": "Ты заметил?",
+      "FRENCH": "Tu as remarqué ?",
+      "THAI": "สังเกตเห็นมั้ย?",
+      "PERSIAN": "متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 1.0,
+    "GROUP_CODE": 60402.0,
+    "SCRIPT": {
+      "KOREAN": "이따 점심 뭐 먹을래?",
+      "ENGLISH": "What do you want for lunch?",
+      "CHINESE_SIMPLIFIED": "一会儿中午吃什么?",
+      "CHINESE_TRADITIONAL": "一會兒中午吃什麼?",
+      "JAPANESE": "この後、ランチ何食べる？",
+      "INDONESIAN": "Mau makan siang apa?",
+      "PORTUGUESE": "O que quer para o almoço?",
+      "RUSSIAN": "Что на обед хочешь?",
+      "FRENCH": "Qu’est-ce qu’on prend pour le déjeuner ?",
+      "THAI": "อยากกินอะไรกลางวัน?",
+      "PERSIAN": "برای ناهار چه می خواهید؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "민트국밥 어때요?",
+      "ENGLISH": "How about mint pork soup?",
+      "CHINESE_SIMPLIFIED": "薄荷汤饭怎么样?",
+      "CHINESE_TRADITIONAL": "薄荷湯飯怎麼樣?",
+      "JAPANESE": "ミントクッパはどうですか？",
+      "INDONESIAN": "Bagaimana kalau sup daging babi mint?",
+      "PORTUGUESE": "Que tal uma sopa de porco com hortelã?",
+      "RUSSIAN": "Как насчёт супа из свинины с мятой?",
+      "FRENCH": "Une soupe au porc et à la menthe, ça te dit ?",
+      "THAI": "ซุปหมูใส่ใบสะระแหน่ดีไหม?",
+      "PERSIAN": "سوپ گوشت خوک نعنا چطور؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "시원하니~",
+      "ENGLISH": "It's perfect for this weather!",
+      "CHINESE_SIMPLIFIED": "一定很爽口~",
+      "CHINESE_TRADITIONAL": "一定很爽口~",
+      "JAPANESE": "さっぱりしてますから～",
+      "INDONESIAN": "Cocok banget untuk cuaca ini!",
+      "PORTUGUESE": "É perfeita para esse clima!",
+      "RUSSIAN": "Самое то для такой погоды!",
+      "FRENCH": "Parfait pour ce temps !",
+      "THAI": "เหมาะกับอากาศแบบนี้เลย!",
+      "PERSIAN": "برای این آب و هوا عالی است!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "민트국밥? 좋은데? 먹고 음료는 내가 살게!",
+      "ENGLISH": "Mint pork soup? Sounds good! Drinks on me after.",
+      "CHINESE_SIMPLIFIED": "薄荷汤饭?不错，吃完我请喝饮料!",
+      "CHINESE_TRADITIONAL": "薄荷湯飯?不錯，吃完我請喝飲料!",
+      "JAPANESE": "ミントクッパ？いいわね！飲み物は私がおごるわ！",
+      "INDONESIAN": "Sup daging babi mint? Kedengarannya enak! Aku yang traktir minum setelahnya.",
+      "PORTUGUESE": "Sopa de porco com hortelã? Parece bom! Eu pago as bebidas depois.",
+      "RUSSIAN": "Суп со свининой и мятой? Звучит неплохо! Выпивка за мой счёт потом.",
+      "FRENCH": "Soupe au porc et à la menthe ? Ça a l’air bon ! La boisson est pour moi après.",
+      "THAI": "ซุปหมูใส่ใบสะระแหน่? ฟังดูดี! เครื่องดื่มฉันเลี้ยงเองนะหลังจากนี้",
+      "PERSIAN": "سوپ گوشت خوک نعناع؟ خوب به نظر می رسد! بعد از من می نوشد."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "김밥 어때요?",
+      "ENGLISH": "How about kimbap?",
+      "CHINESE_SIMPLIFIED": "紫菜包饭怎么样?",
+      "CHINESE_TRADITIONAL": "紫菜包飯怎麼樣?",
+      "JAPANESE": "キンパはどうですか？",
+      "INDONESIAN": "Bagaimana kalau kimbap?",
+      "PORTUGUESE": "E kimbap?",
+      "RUSSIAN": "А как насчёт кимбапа?",
+      "FRENCH": "Et des kimbap ?",
+      "THAI": "งั้นกิมบับเป็นไง?",
+      "PERSIAN": "کیمباپ چطور؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "간단하게 먹기 좋잖아요?",
+      "ENGLISH": "Quick and easy!",
+      "CHINESE_SIMPLIFIED": "简单吃点也挺好的",
+      "CHINESE_TRADITIONAL": "簡單吃點也挺好的",
+      "JAPANESE": "簡単に食べれますし！",
+      "INDONESIAN": "Cepat dan praktis!",
+      "PORTUGUESE": "Rápido e prático!",
+      "RUSSIAN": "Быстро и удобно!",
+      "FRENCH": "Rapide et facile !",
+      "THAI": "สะดวกแล้วก็เร็วด้วย!",
+      "PERSIAN": "سریع و آسان!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "바쁜데 잘 됐네. 난 다이어트 중이니깐 키토김밥으로 해줘.",
+      "ENGLISH": "Perfect, I’m on a diet, so keto kimbap for me.",
+      "CHINESE_SIMPLIFIED": "刚好也挺忙的，我在减肥，给我点低脂的吧",
+      "CHINESE_TRADITIONAL": "剛好也挺忙的，我在減肥，給我點低脂的吧",
+      "JAPANESE": "今日みたいな忙しい日に、もってこいね！私はダイエット中だからキトキンパでお願い。",
+      "INDONESIAN": "Pas banget, aku lagi diet, jadi keto kimbap buatku.",
+      "PORTUGUESE": "Perfeito, estou de dieta, então kimbap keto para mim.",
+      "RUSSIAN": "Идеально, я на диете, так что для меня кето-кимбап.",
+      "FRENCH": "Parfait, je suis au régime, donc pour moi ça sera kimbap version keto.",
+      "THAI": "เหมาะเลย ฉันกำลังไดเอท กิมบับคีโตสำหรับฉันละกัน",
+      "PERSIAN": "عالی است، من رژیم دارم، بنابراین برای من کتو کیمباپ است."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "EPISODE_INDEX": 61400.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너",
+      "ENGLISH": "You",
+      "CHINESE_SIMPLIFIED": "你",
+      "CHINESE_TRADITIONAL": "你",
+      "JAPANESE": "ドン課長",
+      "INDONESIAN": "Kamu...",
+      "PORTUGUESE": "Você...",
+      "RUSSIAN": "Так, ",
+      "FRENCH": "Alors, ",
+      "THAI": "นายไม่มีอะ",
+      "PERSIAN": "شما"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 1.0,
+    "GROUP_CODE": 60403.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 아직 나한테 해줄 말 없어?",
+      "ENGLISH": "So, don’t you have something else to say?",
+      "CHINESE_SIMPLIFIED": "你没什么别的话要和我讲吗?",
+      "CHINESE_TRADITIONAL": "你沒什麼別的話要和我講嗎?",
+      "JAPANESE": "まだ私に言うこと、あるんじゃないの？",
+      "INDONESIAN": "Jadi, nggak ada yang mau kamu bilang lagi?",
+      "PORTUGUESE": "Então, não tem mais nada para dizer?",
+      "RUSSIAN": "а тебе не кажется, что у тебя есть ещё что-то, что нужно сказать?",
+      "FRENCH": "t’as rien d’autre à dire ?",
+      "THAI": "ไรจะพูดอีกเหรอ?",
+      "PERSIAN": "پس چیز دیگری برای گفتن ندارید؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 립스틱 잘 어울리네요",
+      "ENGLISH": "Your lipstick looks good!",
+      "CHINESE_SIMPLIFIED": "今天的口红很适合你!",
+      "CHINESE_TRADITIONAL": "今天的口紅很適合你!",
+      "JAPANESE": "今日のリップスティック、すごく似合ってるね。",
+      "INDONESIAN": "Lipstikmu bagus!",
+      "PORTUGUESE": "Seu batom está bonito!",
+      "RUSSIAN": "Губная помада тебе идёт!",
+      "FRENCH": "Ton rouge à lèvres te va bien !",
+      "THAI": "ลิปสติกนายสวยดีนะ!",
+      "PERSIAN": "رژ لب شما خوب به نظر می رسد!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "동 과장님 겨울웜톤이시죠?",
+      "ENGLISH": "You’re a winter warm tone, right?",
+      "CHINESE_SIMPLIFIED": "你是冬日暖色调吧?",
+      "CHINESE_TRADITIONAL": "你是冬日暖色調吧?",
+      "JAPANESE": "ドン課長、ウォームトーンですよね？",
+      "INDONESIAN": "Kamu tipe warm tone, kan?",
+      "PORTUGUESE": "Você é tom quente de inverno, né?",
+      "RUSSIAN": "Ты, кажется, в тёплом зимнем тоне, да?",
+      "FRENCH": "Tu es dans les tons chauds d’hiver, non ?",
+      "THAI": "นายเป็นโทนอุ่นในฤดูหนาวใช่มั้ย?",
+      "PERSIAN": "شما یک لحن گرم زمستانی هستید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐래",
+      "ENGLISH": "What are you even talking about?",
+      "CHINESE_SIMPLIFIED": "什么乱七八糟的",
+      "CHINESE_TRADITIONAL": "什麼亂七八糟的",
+      "JAPANESE": "はあ？",
+      "INDONESIAN": "Kamu ngomong apa sih?",
+      "PORTUGUESE": "Do que você está falando?",
+      "RUSSIAN": "Ты о чём вообще?",
+      "FRENCH": "Mais de quoi tu parles ?",
+      "THAI": "นายพูดถึงอะไรเนี่ย?",
+      "PERSIAN": "اصلا در مورد چی حرف میزنی؟"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아닌가? 마라톤? 바리톤?",
+      "ENGLISH": "Or was it marathon? Baritone?",
+      "CHINESE_SIMPLIFIED": "不是吗?那是麻辣调?还是五香调?",
+      "CHINESE_TRADITIONAL": "不是嗎?那是麻辣調?還是五香調?",
+      "JAPANESE": "違いました？",
+      "INDONESIAN": "Atau tadi maraton? Bariton?",
+      "PORTUGUESE": "Ou era maratona? Barítono?",
+      "RUSSIAN": "Или это был марафон? Баритон?",
+      "FRENCH": "Ou c’était marathon ? Baryton ?",
+      "THAI": "หรือมันคือมาราธอน? บาริโทน?",
+      "PERSIAN": "یا ماراتن بود؟ باریتون؟"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 1.0,
+    "SCRIPT": {
+      "KOREAN": "닥쳐. 네 얼굴은 술톤.",
+      "ENGLISH": "Shut up. Your face is a drinking tone.",
+      "CHINESE_SIMPLIFIED": "闭嘴！我看你是要疯调",
+      "CHINESE_TRADITIONAL": "閉嘴！我看你是要瘋調",
+      "JAPANESE": "黙れ。あんたの顔は、スルトン（お酒を飲んで赤くなった顔）",
+      "INDONESIAN": "Diam. Wajahmu itu tone minuman.",
+      "PORTUGUESE": "Cala a boca. Seu rosto é tom de bebida.",
+      "RUSSIAN": "Заткнись. Твое лицо — \"пьяный\" тон.",
+      "FRENCH": "Tais-toi. Ton visage est dans les tons alcoolisés.",
+      "THAI": "เงียบไปเลย ใบหน้านายมันโทนเมาน่ะ",
+      "PERSIAN": "خفه شو صورت شما یک لحن نوشیدن است."
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오팬무",
+      "ENGLISH": "What is the color of your underwear today?",
+      "CHINESE_SIMPLIFIED": "今天的内裤是什么颜色啊?",
+      "CHINESE_TRADITIONAL": "今天的內褲是什麼顏色啊?",
+      "JAPANESE": "今日のパンツの色、何色ですか？",
+      "INDONESIAN": "Apa warna pakaian dalammu hari ini?",
+      "PORTUGUESE": "Qual é a cor da sua roupa íntima hoje?",
+      "RUSSIAN": "Какого цвета твое нижнее белье сегодня?",
+      "FRENCH": "De quelle couleur est ton sous-vêtement aujourd’hui ?",
+      "THAI": "วันนี้ใส่ชุดชั้นในสีอะไร?",
+      "PERSIAN": "رنگ لباس زیر امروز شما چیه؟"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 2.0,
+    "SCRIPT": {
+      "KOREAN": "귀엽네, 이런 거 좋아해?",
+      "ENGLISH": "Cute, you like this kinda stuff?",
+      "CHINESE_SIMPLIFIED": "挺可爱的嘛，原来你喜欢这种",
+      "CHINESE_TRADITIONAL": "挺可愛的嘛，原來你喜歡這種",
+      "JAPANESE": "可愛いね、こういうの好きなの？",
+      "INDONESIAN": "Lucu, kamu suka hal-hal begini ya?",
+      "PORTUGUESE": "Fofo, você gosta desse tipo de coisa?",
+      "RUSSIAN": "Мило, тебе такие вещи нравятся?",
+      "FRENCH": "Oh, tu aimes ce genre de trucs ?",
+      "THAI": "น่ารักดีนะ ชอบเรื่องแบบนี้เหรอ?",
+      "PERSIAN": "خوشگله، این چیزا رو دوست داری؟"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 2.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "오팬무",
+      "ENGLISH": "What is the color of your underwear today?",
+      "CHINESE_SIMPLIFIED": "今天的内裤是什么颜色的啊?",
+      "CHINESE_TRADITIONAL": "今天的內褲是什麼顏色的啊?",
+      "JAPANESE": "気になります。",
+      "INDONESIAN": "Apa warna pakaian dalammu hari ini?",
+      "PORTUGUESE": "Qual é a cor da sua roupa íntima hoje?",
+      "RUSSIAN": "Какого цвета твое нижнее белье сегодня?",
+      "FRENCH": "De quelle couleur est ton sous-vêtement aujourd’hui ?",
+      "THAI": "วันนี้ใส่ชุดชั้นในสีอะไร?",
+      "PERSIAN": "رنگ لباس زیر امروز شما چیه؟"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "EPISODE_INDEX": 61600.0,
+    "TYPE": 1.0,
+    "SELECT_NUMBER": 3.0,
+    "SCRIPT": {
+      "KOREAN": "자료실로.",
+      "ENGLISH": "To the file room.",
+      "CHINESE_SIMPLIFIED": "来资料室",
+      "CHINESE_TRADITIONAL": "來資料室",
+      "JAPANESE": "資料室に来て。",
+      "INDONESIAN": "Ke ruang arsip.",
+      "PORTUGUESE": "Para a sala de arquivos.",
+      "RUSSIAN": "В архив.",
+      "FRENCH": "À la salle des archives.",
+      "THAI": "ไปที่ห้องเก็บไฟล์",
+      "PERSIAN": "به اتاق پرونده."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "EPISODE_INDEX": 61710.0,
+    "TYPE": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 퇴근 같이 하실래요?",
+      "ENGLISH": "Wanna leave work together today?",
+      "CHINESE_SIMPLIFIED": "今天要一起下班吗?",
+      "CHINESE_TRADITIONAL": "今天要一起下班嗎?",
+      "JAPANESE": "今日、退勤一緒にしませんか？",
+      "INDONESIAN": "Mau pulang bareng hari ini?",
+      "PORTUGUESE": "Quer sair juntos do trabalho hoje?",
+      "RUSSIAN": "Закончим работу вместе сегодня?",
+      "FRENCH": "On rentre ensemble ce soir ?",
+      "THAI": "กลับบ้านด้วยกันไหมวันนี้?",
+      "PERSIAN": "می خواهید امروز با هم کار را ترک کنید؟"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "EPISODE_INDEX": 61710.0,
+    "TYPE": 1.0,
+    "SCRIPT": {
+      "KOREAN": "나 오늘은 선약이 있어서 미안",
+      "ENGLISH": "Sorry, I’ve got plans tonight.",
+      "CHINESE_SIMPLIFIED": "今天有约，不好意思",
+      "CHINESE_TRADITIONAL": "今天有約，不好意思",
+      "JAPANESE": "今日は先約があるの、ごめんね。",
+      "INDONESIAN": "Maaf, aku ada rencana malam ini.",
+      "PORTUGUESE": "Desculpa, tenho planos para esta noite.",
+      "RUSSIAN": "Извини, у меня планы на вечер.",
+      "FRENCH": "Désolé, j’ai déjà des plans pour ce soir.",
+      "THAI": "ขอโทษที คืนนี้ฉันมีนัดแล้ว",
+      "PERSIAN": "ببخشید امشب برنامه هایی دارم"
+    }
+  }
+]

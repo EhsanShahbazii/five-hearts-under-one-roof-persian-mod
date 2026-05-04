@@ -1,0 +1,95 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아예 없진 않아요.",
+      "ENGLISH": "It’s not that I don’t have any feelings at all.",
+      "CHINESE_SIMPLIFIED": "也不是完全没有",
+      "CHINESE_TRADITIONAL": "也不是完全沒有",
+      "JAPANESE": "ないわけじゃないです。",
+      "INDONESIAN": "Bukan berarti aku nggak punya perasaan sama sekali.",
+      "PORTUGUESE": "Não é que eu não tenha nenhum sentimento.",
+      "RUSSIAN": "Не то чтобы у меня совсем нет чувств.",
+      "FRENCH": "Ce n’est pas que je n’ai aucun sentiment.",
+      "THAI": "ไม่ใช่ว่าฉันไม่มีความรู้สึกเลย"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "다행이다...",
+      "ENGLISH": "That’s a relief...",
+      "CHINESE_SIMPLIFIED": "太好了…",
+      "CHINESE_TRADITIONAL": "太好了…",
+      "JAPANESE": "よかった…",
+      "INDONESIAN": "Syukurlah...",
+      "PORTUGUESE": "Que alívio...",
+      "RUSSIAN": "Фух, какое облегчение...",
+      "FRENCH": "C’est un soulagement...",
+      "THAI": "โล่งใจจัง..."
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "전 유만 님이 아예 없다고 하면 어쩌나 걱정했어요.",
+      "ENGLISH": "I was worried you’d say you never do.",
+      "CHINESE_SIMPLIFIED": "我真的很怕宥万您说一点也没有",
+      "CHINESE_TRADITIONAL": "我真的很怕宥萬您說一點也沒有",
+      "JAPANESE": "もし、ユマンさんに気持ちがまったくなかったらどうしようかとずっと悩んでたんです。",
+      "INDONESIAN": "Aku khawatir kamu akan bilang nggak pernah punya perasaan.",
+      "PORTUGUESE": "Eu estava preocupada que você dissesse que nunca teve.",
+      "RUSSIAN": "Я боялась, что ты скажешь, что их вообще нет.",
+      "FRENCH": "J’avais peur que tu dises que tu n’en as jamais eu.",
+      "THAI": "ฉันกลัวว่าคุณจะบอกว่าไม่มีเลยสักนิด"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 7.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "전 유만 님이랑 바깥에 한 번 더 나가고 싶었거든요..",
+      "ENGLISH": "I’d love to go out with you again sometime.",
+      "CHINESE_SIMPLIFIED": "我还想和您一起再外出一次",
+      "CHINESE_TRADITIONAL": "我還想和您一起再外出一次",
+      "JAPANESE": "私、もう一度ユマンさんと外に出かけたかったんです。",
+      "INDONESIAN": "Aku ingin pergi keluar denganmu lagi kapan-kapan.",
+      "PORTUGUESE": "Eu adoraria sair com você de novo algum dia.",
+      "RUSSIAN": "Я бы с удовольствием снова куда-нибудь пошла с тобой.",
+      "FRENCH": "J’aimerais beaucoup sortir à nouveau avec toi un de ces jours.",
+      "THAI": "ฉันอยากออกไปเที่ยวกับคุณอีกจังสักวันหนึ่ง"
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그때 남산도 진짜 즐거웠는데!",
+      "ENGLISH": "Remember how fun Namsan was?",
+      "JAPANESE": "あの時一緒に行った南山、本当に楽しかったなぁ。",
+      "INDONESIAN": "Ingat betapa serunya waktu di Namsan?",
+      "PORTUGUESE": "Lembra como foi divertido em Namsan?",
+      "RUSSIAN": "Помнишь, как весело было на Намсане?",
+      "FRENCH": "Tu te souviens comme on s’est amusés à Namsan ?",
+      "THAI": "จำได้ไหมว่านัมซานสนุกแค่ไหน?"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.7
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "은비야!",
+      "ENGLISH": "Eun-bi!",
+      "CHINESE_SIMPLIFIED": "恩妃!",
+      "CHINESE_TRADITIONAL": "恩妃!",
+      "JAPANESE": "ウンビ！",
+      "INDONESIAN": "Eun-bi!",
+      "PORTUGUESE": "Eun-bi!",
+      "RUSSIAN": "Ын-би!",
+      "FRENCH": "Eun-bi !",
+      "THAI": "อึนบี!"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠아아~",
+      "ENGLISH": "Oppaaa~",
+      "CHINESE_SIMPLIFIED": "哥哥~",
+      "CHINESE_TRADITIONAL": "哥哥~",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppaaa~",
+      "PORTUGUESE": "Oppaaa~",
+      "RUSSIAN": "Оппааа~",
+      "FRENCH": "Oppaa~",
+      "THAI": "โอปป้าาา~"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어휴 술냄새...!",
+      "ENGLISH": "Ugh, you smell like alcohol!",
+      "CHINESE_SIMPLIFIED": "呃…这股酒味…!",
+      "CHINESE_TRADITIONAL": "呃…這股酒味…!",
+      "JAPANESE": "うわ、酒臭いな…！",
+      "INDONESIAN": "Ugh, kamu bau alkohol!",
+      "PORTUGUESE": "Ugh, você tá cheirando a álcool!",
+      "RUSSIAN": "Фух, от тебя пахнет алкоголем!",
+      "FRENCH": "Ouh, tu sens l’alcool !",
+      "THAI": "อุ๊ย เธอเหม็นเหล้าจัง!"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 이제 와..",
+      "ENGLISH": "Why are you here so late? ",
+      "CHINESE_SIMPLIFIED": "你怎么才来啊…!",
+      "CHINESE_TRADITIONAL": "你怎麼纔來啊…!",
+      "JAPANESE": "来るの、遅いじゃん！",
+      "INDONESIAN": "Kenapa datang selarut ini?",
+      "PORTUGUESE": "Por que chegou tão tarde?",
+      "RUSSIAN": "Почему ты так поздно?",
+      "FRENCH": "Pourquoi tu es là si tard ?",
+      "THAI": "ทำไมมาเอาป่านนี้?"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "수트 뭐야? 멋있다!",
+      "ENGLISH": "What's with the suit? You look great!",
+      "CHINESE_SIMPLIFIED": "不过这身西装好帅啊!",
+      "CHINESE_TRADITIONAL": "不過這身西裝好帥啊!",
+      "JAPANESE": "そのスーツ、何？カッコいいね！",
+      "INDONESIAN": "Kenapa pakai setelan jas? Keren banget!",
+      "PORTUGUESE": "E esse terno? Você tá lindo!",
+      "RUSSIAN": "Что это за костюм? Ты выглядишь потрясающе!",
+      "FRENCH": "C’est quoi ce costume ? Tu es superbe !",
+      "THAI": "ชุดสูทนี่อะไรน่ะ? เธอดูดีจัง!"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "나만 볼 거야. 이거 입지 마!",
+      "ENGLISH": "Don't wear it for anyone else, just me!",
+      "CHINESE_SIMPLIFIED": "以后只有和我单独在一起的时候才能穿这个!",
+      "CHINESE_TRADITIONAL": "以後只有和我單獨在一起的時候才能穿這個!",
+      "JAPANESE": "私がいる時にだけ、着てよね！",
+      "INDONESIAN": "Jangan pakai ini buat orang lain ya, cuma buat aku!",
+      "PORTUGUESE": "Não usa isso pra mais ninguém, só pra mim!",
+      "RUSSIAN": "Не носи его для кого-то ещё, только для меня!",
+      "FRENCH": "Ne le porte pour personne d’autre, juste pour moi !",
+      "THAI": "อย่าใส่ให้ใครดูนะ ใส่ให้ฉันดูคนเดียว!"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "얘들아 내가 말한 내 남친! 어때 완전 귀엽지!",
+      "ENGLISH": "Hey everyone, this is my boyfriend! Isn't he super cute?",
+      "CHINESE_SIMPLIFIED": "小伙伴们，这就是我男朋友!怎么样?超可爱吧?",
+      "CHINESE_TRADITIONAL": "小夥伴們，這就是我男朋友!怎麼樣?超可愛吧?",
+      "JAPANESE": "みんな、紹介するわ。この人が、私の彼氏！めっちゃ可愛くない？",
+      "INDONESIAN": "Hey semua, ini pacarku! Imut banget, kan?",
+      "PORTUGUESE": "Ei, pessoal, esse é meu namorado! Não é a coisa mais fofa?",
+      "RUSSIAN": "Эй, все, это мой парень! Разве он не самый милый?",
+      "FRENCH": "Hé tout le monde, c’est mon copain ! Il est trop mignon, non ?",
+      "THAI": "ทุกคน ดูสิ นี่แฟนฉันนะ! เขาน่ารักสุดๆ ไปเลยใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 21.9
+    }
+  }
+]

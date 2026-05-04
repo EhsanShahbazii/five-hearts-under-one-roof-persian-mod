@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "답은 25입니다.",
+      "ENGLISH": "The answer is 25!",
+      "CHINESE_SIMPLIFIED": "答案是25",
+      "CHINESE_TRADITIONAL": "答案是25",
+      "JAPANESE": "25だと思います！",
+      "INDONESIAN": "Jawabannya 25!",
+      "PORTUGUESE": "A resposta é 25!",
+      "RUSSIAN": "Ответ — 25!",
+      "FRENCH": "La réponse est 25 !",
+      "THAI": "คำตอบคือ 25!",
+      "PERSIAN": "جواب 25 است!"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.0
+    }
+  }
+]

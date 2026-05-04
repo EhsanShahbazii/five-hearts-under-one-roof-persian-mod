@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어? ",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Oh?",
+      "RUSSIAN": "О?",
+      "FRENCH": "Oh ?",
+      "THAI": "อ้าว?",
+      "PERSIAN": "Oh?"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "둘이 또 같이 있네?",
+      "ENGLISH": "You two are together again?",
+      "CHINESE_SIMPLIFIED": "你俩怎么又在一起啊?",
+      "CHINESE_TRADITIONAL": "你倆怎麼又在一起啊?",
+      "JAPANESE": "また、二人一緒だな？",
+      "INDONESIAN": "Kalian berdua bersama lagi?",
+      "PORTUGUESE": "Vocês dois juntos de novo?",
+      "RUSSIAN": "Вы двое снова вместе?",
+      "FRENCH": "Vous êtes encore ensemble, tous les deux ?",
+      "THAI": "พวกเธออยู่ด้วยกันอีกแล้วเหรอ?",
+      "PERSIAN": "شما دوتا دوباره با هم هستید؟"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요.",
+      "ENGLISH": "Hello.",
+      "CHINESE_SIMPLIFIED": "哥你来了?",
+      "CHINESE_TRADITIONAL": "哥你來了?",
+      "JAPANESE": "こんにちは。",
+      "INDONESIAN": "Halo.",
+      "PORTUGUESE": "Oi.",
+      "RUSSIAN": "Привет.",
+      "FRENCH": "Salut.",
+      "THAI": "สวัสดี",
+      "PERSIAN": "Hello."
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 취직한 거 아니었어?",
+      "ENGLISH": "Didn’t you get a job?",
+      "CHINESE_SIMPLIFIED": "你不是开始上班了吗？",
+      "CHINESE_TRADITIONAL": "你不是開始上班了嗎？",
+      "JAPANESE": "お前、就職したんじゃなかったか？",
+      "INDONESIAN": "Kamu belum dapat kerja?",
+      "PORTUGUESE": "Ainda não conseguiu trabalho?",
+      "RUSSIAN": "Ты не устроился на работу?",
+      "FRENCH": "T’as pas trouvé un boulot ?",
+      "THAI": "เธอได้งานทำหรือยัง?",
+      "PERSIAN": "کار پیدا نکردی؟"
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "저 프린트만 하고 가려고요",
+      "ENGLISH": "I’m just stopping by to print something.",
+      "CHINESE_SIMPLIFIED": "我来打印点东西就走了",
+      "CHINESE_TRADITIONAL": "我來打印點東西就走了",
+      "JAPANESE": "プリントしようと思って。",
+      "INDONESIAN": "Aku cuma mampir buat cetak sesuatu.",
+      "PORTUGUESE": "Só estou passando pra imprimir uma coisa.",
+      "RUSSIAN": "Я просто зашла, чтобы что-то распечатать.",
+      "FRENCH": "Je fais juste un saut pour imprimer un truc.",
+      "THAI": "ฉันแค่แวะมาปริ๊นต์เอกสารน่ะ",
+      "PERSIAN": "من فقط می روم تا چیزی چاپ کنم."
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그래?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "是吗",
+      "CHINESE_TRADITIONAL": "是嗎",
+      "JAPANESE": "あ、そう？",
+      "INDONESIAN": "Benarkah?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Vraiment ?",
+      "THAI": "จริงเหรอ?",
+      "PERSIAN": "جدی می‌گی؟"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "먹을래?",
+      "ENGLISH": "Want to grab a bite?",
+      "CHINESE_SIMPLIFIED": "要吃吗?",
+      "CHINESE_TRADITIONAL": "要吃嗎?",
+      "JAPANESE": "食べる？",
+      "INDONESIAN": "Mau makan bareng?",
+      "PORTUGUESE": "Quer sair pra comer?",
+      "RUSSIAN": "Пойдём перекусим?",
+      "FRENCH": "On se prend un truc à manger ?",
+      "THAI": "ไปหาอะไรกินกันไหม?",
+      "PERSIAN": "می خواهید لقمه بگیرید؟"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 18.8
+    }
+  }
+]

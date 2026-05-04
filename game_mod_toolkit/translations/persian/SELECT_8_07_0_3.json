@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그때는 진짜 공개 연애하고 싶어요.",
+      "ENGLISH": "When that time comes, I want to go public with our relationship.",
+      "CHINESE_SIMPLIFIED": "等到那个时候，我想和你公开恋爱",
+      "CHINESE_TRADITIONAL": "等到那個時候，我想和你公開戀愛",
+      "JAPANESE": "そうなったら、公開恋愛がしたいです。",
+      "INDONESIAN": "Saat waktu itu tiba, aku ingin hubungan kita dipublikasikan.",
+      "PORTUGUESE": "Quando esse momento chegar, quero tornar nosso relacionamento público.",
+      "RUSSIAN": "Когда наступит то время, я хочу объявить о наших отношениях публично.",
+      "FRENCH": "Quand ce moment viendra, je veux rendre notre relation publique.",
+      "THAI": "เมื่อถึงเวลานั้น ฉันอยากเปิดเผยความสัมพันธ์ของเรา",
+      "PERSIAN": "وقتی اون زمان فرا رسید، می‌خوام روابطمان را عمومی کنم."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이제 대스타 되면 노리는 남자들이 더 많아질 텐데,",
+      "ENGLISH": "When you become a big star, more guys will chase after you. ",
+      "CHINESE_SIMPLIFIED": "你成了大明星之后，对你虎视眈眈的男人只会越来越多",
+      "CHINESE_TRADITIONAL": "你成了大明星之後，對你虎視眈眈的男人只會越來越多",
+      "JAPANESE": "ミンジョンさんが大スターになれば、狙ってくる男も増えるだろうし",
+      "INDONESIAN": "Ketika kamu jadi bintang besar, pasti akan ada lebih banyak cowok yang mengejarmu.",
+      "PORTUGUESE": "Quando você se tornar uma grande estrela, mais caras vão correr atrás de você.",
+      "RUSSIAN": "Когда ты станешь большой звездой, за тобой будут гоняться другие парни.",
+      "FRENCH": "Quand tu deviendras une grande star, d’autres gars vont te courir après.",
+      "THAI": "เมื่อเธอกลายเป็นดาวดัง ผู้ชายหลายคนจะตามจีบเธอแน่",
+      "PERSIAN": "وقتی به یک ستاره بزرگ تبدیل می شوید، افراد بیشتری دنبال شما خواهند رفت."
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 7.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍이 내 여자다! 어? 공표해야 곁에 묶어둘 수 있지 않을까요?",
+      "ENGLISH": "I need to declare, 'Mingming is my girl!' to keep you close.",
+      "CHINESE_SIMPLIFIED": "只有官宣‘敏敏是我的’，我才能一直在你身边啊",
+      "CHINESE_TRADITIONAL": "只有官宣‘敏敏是我的’，我才能一直在你身邊啊",
+      "JAPANESE": "「ミンジョンは俺の彼女だ！」って宣言して、ちゃんと隣に繋ぎとめておかないと！",
+      "INDONESIAN": "Aku harus menyatakan, 'Mingming adalah milikku!' supaya kamu tetap dekat.",
+      "PORTUGUESE": "Eu preciso declarar, 'Mingming é minha garota!' para manter você por perto.",
+      "RUSSIAN": "Мне нужно будет заявить: «Минмин — моя девушка!», чтобы удержать тебя рядом.",
+      "FRENCH": "Je dois déclarer : « Mingming est ma copine ! » pour te garder près de moi.",
+      "THAI": "ฉันต้องประกาศว่า ‘มิงมิงคือแฟนฉัน!’ เพื่อให้เธออยู่ใกล้ๆ",
+      "PERSIAN": "من باید اعلام کنم، \"Mingming دختر من است!\" برای نزدیک نگه داشتنت"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 12.5
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 테놀?이라고 했던 거 같은데...",
+      "ENGLISH": "What was it again? Panthenol or something?",
+      "CHINESE_SIMPLIFIED": "她好像说要什么泛醇来着，哎不管了,,,",
+      "CHINESE_TRADITIONAL": "她好像說要什麼泛醇來着，哎不管了,,,",
+      "JAPANESE": "「テノール？」って言ってた気がするけど…",
+      "INDONESIAN": "Apa tadi? Panthenol atau apa gitu?",
+      "PORTUGUESE": "O que era mesmo? Panthenol ou algo assim?",
+      "RUSSIAN": "Что там было? Пантенол или что-то такое?",
+      "FRENCH": "C’était quoi déjà ? Panthénol ou un truc comme ça ?",
+      "THAI": "อะไรนะ? แพนธีนอลอะไรสักอย่าง?"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 아무거나 사 가지 뭐.",
+      "ENGLISH": "I’ll just buy whatever.",
+      "CHINESE_SIMPLIFIED": "随便买一个算了",
+      "CHINESE_TRADITIONAL": "隨便買一個算了",
+      "JAPANESE": "まあ、適当に何か買っていくか。",
+      "INDONESIAN": "Beli aja yang mana pun.",
+      "PORTUGUESE": "Vou comprar qualquer um.",
+      "RUSSIAN": "Куплю что придётся.",
+      "FRENCH": "Je vais prendre n’importe quoi.",
+      "THAI": "ซื้ออันไหนก็ได้แล้วกัน."
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.8
+    }
+  }
+]

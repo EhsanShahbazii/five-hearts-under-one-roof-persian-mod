@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어 뭐야? 문이 왜 이러지?",
+      "ENGLISH": "Huh? The door lock seems weird.",
+      "CHINESE_SIMPLIFIED": "哦？这门锁有点奇怪啊？",
+      "CHINESE_TRADITIONAL": "哦？這門鎖有點奇怪啊？",
+      "JAPANESE": "あれ、何でドアがこうなってんの？",
+      "INDONESIAN": "Hah? Kunci pintunya kayaknya aneh.",
+      "PORTUGUESE": "Hã? A fechadura da porta parece estranha.",
+      "RUSSIAN": "А? Замок на двери как-то странно работает.",
+      "FRENCH": "Hein ? La serrure de la porte semble bizarre.",
+      "THAI": "ห๊ะ? กลอนประตูดูแปลก ๆ นะ.",
+      "PERSIAN": "ها؟ قفل درب عجیب به نظر می رسد."
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어디요?",
+      "ENGLISH": "Where?",
+      "CHINESE_SIMPLIFIED": "哪里?",
+      "CHINESE_TRADITIONAL": "哪裏?",
+      "JAPANESE": "どこですか？",
+      "INDONESIAN": "Di mana?",
+      "PORTUGUESE": "Onde?",
+      "RUSSIAN": "Где?",
+      "FRENCH": "Où ça ?",
+      "THAI": "ตรงไหนเหรอ?",
+      "PERSIAN": "کجا؟"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "여기요!",
+      "ENGLISH": "Here!",
+      "CHINESE_SIMPLIFIED": "这里!",
+      "CHINESE_TRADITIONAL": "這裏!",
+      "JAPANESE": "ここです！",
+      "INDONESIAN": "Di sini!",
+      "PORTUGUESE": "Aqui!",
+      "RUSSIAN": "Вот здесь!",
+      "FRENCH": "Ici !",
+      "THAI": "ตรงนี้ไง!",
+      "PERSIAN": "بیا اینم شیر!"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야! 갑자기 왜 이러지?",
+      "ENGLISH": "You’re right. Why is it doing that all of a sudden?",
+      "CHINESE_SIMPLIFIED": "还真是!怎么突然这样了呢?",
+      "CHINESE_TRADITIONAL": "還真是!怎麼突然這樣了呢?",
+      "JAPANESE": "何これ！急に何でだろう？",
+      "INDONESIAN": "Benar juga. Kenapa tiba-tiba kayak gitu?",
+      "PORTUGUESE": "Você tem razão. Por que tá fazendo isso de repente?",
+      "RUSSIAN": "Точно. Почему он вдруг так себя ведёт?",
+      "FRENCH": "Ah oui, pourquoi ça fait ça tout à coup ?",
+      "THAI": "ใช่ ทำไมอยู่ ๆ ถึงเป็นแบบนี้?",
+      "PERSIAN": "حق با شماست چرا یکدفعه این کار را می کند؟"
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그렇죠? 문 원래 안 이랬죠.",
+      "ENGLISH": "Yeah, it wasn’t like this before.",
+      "CHINESE_SIMPLIFIED": "对吧?明明原来不是这样的",
+      "CHINESE_TRADITIONAL": "對吧?明明原來不是這樣的",
+      "JAPANESE": "そうですよね？ドア、元々こんなんじゃなかったですよね。",
+      "INDONESIAN": "Iya, tadi nggak begini.",
+      "PORTUGUESE": "Sim, não tava assim antes.",
+      "RUSSIAN": "Да, раньше такого не было.",
+      "FRENCH": "Ça ne faisait pas ça avant.",
+      "THAI": "ก่อนหน้านี้ไม่เห็นเป็นแบบนี้เลย.",
+      "PERSIAN": "آره قبلا اینجوری نبود"
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "네... 음...",
+      "ENGLISH": "No... umm...",
+      "CHINESE_SIMPLIFIED": "嗯...怎么...",
+      "CHINESE_TRADITIONAL": "嗯...怎麼...",
+      "JAPANESE": "はい…うーん…",
+      "INDONESIAN": "Nggak... emm...",
+      "PORTUGUESE": "Não... hum...",
+      "RUSSIAN": "Нет... эмм...",
+      "FRENCH": "Non... euh...",
+      "THAI": "ไม่... เอ่อ...",
+      "PERSIAN": "نه... امم..."
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이거 수리기사님 좀 불러야겠는데요?",
+      "ENGLISH": "We probably need to get it fixed.",
+      "CHINESE_SIMPLIFIED": "好像得修一下了",
+      "CHINESE_TRADITIONAL": "好像得修一下了",
+      "JAPANESE": "これ、修理業者呼ばないといけないですね。",
+      "INDONESIAN": "Kayaknya kita harus benerin ini.",
+      "PORTUGUESE": "Acho que precisamos consertar isso.",
+      "RUSSIAN": "Похоже, надо починить.",
+      "FRENCH": "On va devoir la faire réparer.",
+      "THAI": "น่าจะต้องซ่อมนะ.",
+      "PERSIAN": "احتمالاً باید اونو برطرف کنیم."
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 씨는 이런 거 할 줄 모를 거 같고.",
+      "ENGLISH": "I doubt Yuman knows how to fix this.",
+      "CHINESE_SIMPLIFIED": "吴宥万好像不会修这个",
+      "CHINESE_TRADITIONAL": "吳宥萬好像不會修這個",
+      "JAPANESE": "ユマンさん、こういうのはできなさそうだし。",
+      "INDONESIAN": "Kurasa Yuman nggak bakal bisa benerin ini.",
+      "PORTUGUESE": "Duvido que o Yuman saiba como arrumar isso.",
+      "RUSSIAN": "Не думаю, что Юман справится с этим.",
+      "FRENCH": "Je doute que Yuman sache comment régler ça.",
+      "THAI": "ฉันว่ายูมันคงซ่อมไม่เป็นหรอก.",
+      "PERSIAN": "من شک دارم که یومان بداند چگونه این مشکل را برطرف کند."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "사람 불러야겠네요.",
+      "ENGLISH": "We should call someone.",
+      "CHINESE_SIMPLIFIED": "得叫人来修才行",
+      "CHINESE_TRADITIONAL": "得叫人來修才行",
+      "JAPANESE": "誰か呼ばないとダメですね。",
+      "INDONESIAN": "Kita harus panggil orang.",
+      "PORTUGUESE": "Temos que chamar alguém.",
+      "RUSSIAN": "Надо вызвать мастера.",
+      "FRENCH": "Il faudrait appeler quelqu’un.",
+      "THAI": "น่าจะต้องเรียกช่างมา.",
+      "PERSIAN": "باید به کسی زنگ بزنیم"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "문에... 뭐 문제 생겼나?",
+      "ENGLISH": "Is there... a problem with the door?",
+      "CHINESE_SIMPLIFIED": "门出...什么问题了吗?",
+      "CHINESE_TRADITIONAL": "門出...什麼問題了嗎?",
+      "JAPANESE": "ドアに…何か問題でも起きたのかな？",
+      "INDONESIAN": "Ada... masalah sama pintunya?",
+      "PORTUGUESE": "Tem... algum problema com a porta?",
+      "RUSSIAN": "Что-то не так с дверью?",
+      "FRENCH": "Il y a un problème avec la porte ?",
+      "THAI": "มีปัญหากับประตูเหรอ?",
+      "PERSIAN": "در ... مشکلی وجود دارد؟"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "야 우유만!",
+      "ENGLISH": "Hey, Yuman! Yuman!",
+      "CHINESE_SIMPLIFIED": "喂!吴宥万!吴宥万!",
+      "CHINESE_TRADITIONAL": "喂!吳宥萬!吳宥萬!",
+      "JAPANESE": "おーい、ユマン！",
+      "INDONESIAN": "Hei, Yuman! Yuman!",
+      "PORTUGUESE": "Ei, Yuman! Yuman!",
+      "RUSSIAN": "Эй, Юман! Юман!",
+      "FRENCH": "Hé, Yuman ! Yuman !",
+      "THAI": "เฮ้ ยูมัน! ยูมัน!",
+      "PERSIAN": "هی، یومان! یومان!"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไร?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 20.8
+    }
+  }
+]

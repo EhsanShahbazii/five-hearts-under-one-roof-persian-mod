@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "哦！",
+      "CHINESE_TRADITIONAL": "哦！",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.17
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "고말숙?",
+      "ENGLISH": "Mal-sook?",
+      "CHINESE_SIMPLIFIED": "高末淑?",
+      "CHINESE_TRADITIONAL": "高末淑?",
+      "JAPANESE": "マルスク？",
+      "INDONESIAN": "Mal-sook?",
+      "PORTUGUESE": "Mal-sook?",
+      "RUSSIAN": "Мал-Сук?",
+      "FRENCH": "Mal-sook ?",
+      "THAI": "มัลซุก?",
+      "PERSIAN": "Mal-sook?"
+    },
+    "TIME": {
+      "SHOW": 7.17,
+      "HIDE": 8.16
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어...? 어제 걔네?",
+      "ENGLISH": "Huh...? That girl from yesterday?",
+      "CHINESE_SIMPLIFIED": "哦?这不是昨天那孩子吗?",
+      "CHINESE_TRADITIONAL": "哦?這不是昨天那孩子嗎?",
+      "JAPANESE": "え…？昨日の子ね？",
+      "INDONESIAN": "Hah...? Cewek yang kemarin itu?",
+      "PORTUGUESE": "Hã...? Aquela garota de ontem?",
+      "RUSSIAN": "Эм...? Та девушка со вчера?",
+      "FRENCH": "Hein...? Cette fille d’hier ?",
+      "THAI": "หืม...? ผู้หญิงคนนั้นเมื่อวานนี้เหรอ?",
+      "PERSIAN": "ها...؟ اون دختر دیروز؟"
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "쟤는 내가 뭘 했다고 숨냐? ",
+      "ENGLISH": "Why is she hiding from me?",
+      "CHINESE_SIMPLIFIED": "我怎么她了, 总躲着我",
+      "CHINESE_TRADITIONAL": "我怎麼她了, 總躲着我",
+      "JAPANESE": "私が何かしたかしら？何で隠れるの？",
+      "INDONESIAN": "Kenapa dia sembunyi dari aku?",
+      "PORTUGUESE": "Por que ela tá se escondendo de mim?",
+      "RUSSIAN": "Почему она прячется от меня?",
+      "FRENCH": "Pourquoi elle se cache de moi ?",
+      "THAI": "ทำไมเธอถึงหลบหน้าฉันล่ะ?",
+      "PERSIAN": "چرا او از من پنهان است؟"
+    },
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "어이없어.",
+      "ENGLISH": "What did I even do? Unbelievable.",
+      "CHINESE_SIMPLIFIED": "真是无语",
+      "CHINESE_TRADITIONAL": "真是無語",
+      "JAPANESE": "呆れるわ。",
+      "INDONESIAN": "Aku salah apa sih? Gak bisa dipercaya.",
+      "PORTUGUESE": "O que foi que eu fiz? Inacreditável.",
+      "RUSSIAN": "Что я вообще сделал? Невероятно.",
+      "FRENCH": "Qu’est-ce que j’ai fait ? Incroyable.",
+      "THAI": "ฉันไปทำอะไรหรือเปล่า? เหลือเชื่อเลยจริงๆ",
+      "PERSIAN": "اصلا من چیکار کردم؟ باور نکردنی"
+    },
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 할 거 없으면 나랑 PC방이나 가자!",
+      "ENGLISH": "Hey, if you’ve got nothing to do, want to go to the PC bang with me?",
+      "CHINESE_SIMPLIFIED": "你没什么事的话和我去网吧吧!",
+      "CHINESE_TRADITIONAL": "你沒什麼事的話和我去網吧吧!",
+      "JAPANESE": "ねえ、やることないなら、私と一緒にネットカフェ行こうよ！",
+      "INDONESIAN": "Hei, kalau kamu gak ada urusan, mau ikut ke warnet sama aku?",
+      "PORTUGUESE": "Ei, se você não tem nada pra fazer, quer ir pra lan house comigo?",
+      "RUSSIAN": "Эй, если нечем заняться, пойдёшь со мной в ПК-бан?",
+      "FRENCH": "Hé, si t’as rien à faire, tu veux venir au PC bang avec moi ?",
+      "THAI": "เฮ้ ถ้าเธอว่างๆ อยากไปพีซีบางกับฉันไหม?",
+      "PERSIAN": "سلام، اگر کاری برای انجام دادن ندارید، می خواهید با من به پی سی بنگ بروید؟"
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "가셔야 하는 거예요...?",
+      "ENGLISH": "Do we have to go...?",
+      "CHINESE_SIMPLIFIED": "您要走了吗…?",
+      "CHINESE_TRADITIONAL": "您要走了嗎…?",
+      "JAPANESE": "もう行くんですか…？",
+      "INDONESIAN": "Harus ya...?",
+      "PORTUGUESE": "A gente tem que ir...?",
+      "RUSSIAN": "Обязательно идти...?",
+      "FRENCH": "Il faut vraiment y aller...?",
+      "THAI": "ต้องไปจริงๆ เหรอ...?",
+      "PERSIAN": "باید بریم...؟"
+    },
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.8
+    }
+  }
+]

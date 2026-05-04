@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 해 오빠.",
+      "ENGLISH": "What are you doing, oppa?",
+      "CHINESE_SIMPLIFIED": "哥哥你在做什么?",
+      "CHINESE_TRADITIONAL": "哥哥你在做什麼?",
+      "JAPANESE": "何してるの？お兄ちゃん。",
+      "INDONESIAN": "Lagi ngapain, oppa?",
+      "PORTUGUESE": "O que você está fazendo, oppa?",
+      "RUSSIAN": "Что ты делаешь, оппа?",
+      "FRENCH": "Qu’est-ce que tu fais, oppa ?",
+      "THAI": "ทำอะไรอยู่เหรอ โอปป้า?"
+    },
+    "TIME": {
+      "SHOW": 15.02,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어? 그냥 있는데.",
+      "ENGLISH": "Oh? just hanging out.",
+      "CHINESE_SIMPLIFIED": "我…我什么都没做啊",
+      "CHINESE_TRADITIONAL": "我…我什麼都沒做啊",
+      "JAPANESE": "え？いや、何でもない。",
+      "INDONESIAN": "Oh? Cuma santai aja.",
+      "PORTUGUESE": "Oh? Só relaxando.",
+      "RUSSIAN": "О? Просто бездельничаю.",
+      "FRENCH": "Oh ? Je traîne juste un peu.",
+      "THAI": "หืม? ก็แค่มาเรื่อยเปื่อย."
+    },
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 왜?",
+      "ENGLISH": "Just hanging out?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "是嗎？",
+      "JAPANESE": "何でもないって何？",
+      "INDONESIAN": "Cuma santai aja?",
+      "PORTUGUESE": "Só relaxando?",
+      "RUSSIAN": "Просто бездельничаешь?",
+      "FRENCH": "Tu traînes juste ?",
+      "THAI": "มาเรื่อยเปื่อย?"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "근데 왜 그렇게 못생겼어?",
+      "ENGLISH": "Then why do you look so tired?",
+      "CHINESE_SIMPLIFIED": "不过你怎么这么丑啊?",
+      "CHINESE_TRADITIONAL": "不過你怎麼這麼醜啊?",
+      "JAPANESE": "てか、何でそんなにブサイクなの？",
+      "INDONESIAN": "Terus kenapa kelihatan capek banget?",
+      "PORTUGUESE": "Então por que parece tão cansado?",
+      "RUSSIAN": "Тогда почему ты выглядишь таким уставшим?",
+      "FRENCH": "Alors pourquoi tu as l’air si fatigué ?",
+      "THAI": "แล้วทำไมดูเหนื่อยจัง?"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까..",
+      "ENGLISH": "Well, you know...",
+      "CHINESE_SIMPLIFIED": "就是说啊…",
+      "CHINESE_TRADITIONAL": "就是說啊…",
+      "JAPANESE": "そうだな…",
+      "INDONESIAN": "Yah, kamu tahu lah...",
+      "PORTUGUESE": "Ah, você sabe...",
+      "RUSSIAN": "Ну, сам понимаешь...",
+      "FRENCH": "Eh bien, tu sais...",
+      "THAI": "เอ่อ ก็..."
+    },
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야",
+      "ENGLISH": "Are you sleep-talking",
+      "CHINESE_SIMPLIFIED": "妈呀",
+      "CHINESE_TRADITIONAL": "媽呀",
+      "JAPANESE": "何だ？",
+      "INDONESIAN": "Lagi ngigau, ya",
+      "PORTUGUESE": "Tá falando dormindo",
+      "RUSSIAN": "Ты что, во сне разговариваешь",
+      "FRENCH": "Tu es en train de parler dans ton sommeil",
+      "THAI": "นี่ละเมอพูดอยู่หรือเปล่า"
+    },
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "잠꼬대야...?",
+      "ENGLISH": "Or something?",
+      "CHINESE_SIMPLIFIED": "她是在说梦话吗?",
+      "CHINESE_TRADITIONAL": "她是在說夢話嗎?",
+      "JAPANESE": "寝言なのか…？",
+      "INDONESIAN": "Atau gimana?",
+      "PORTUGUESE": "Ou o quê?",
+      "RUSSIAN": "или как?",
+      "FRENCH": "ou quoi ?",
+      "THAI": "หรืออะไร?"
+    },
+    "TIME": {
+      "SHOW": 30.55,
+      "HIDE": 32.0
+    }
+  }
+]

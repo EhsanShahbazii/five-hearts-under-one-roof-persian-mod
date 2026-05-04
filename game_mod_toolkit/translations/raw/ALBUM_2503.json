@@ -1,0 +1,1045 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 내 얼굴은 10점 만점에 몇 점?",
+      "ENGLISH": "Q. On a scale of 1 to 10, how would you rate your face?",
+      "CHINESE_SIMPLIFIED": "Q. 给自己外貌打分，10分满分中你打几分？",
+      "CHINESE_TRADITIONAL": "Q. 給自己外貌打分，10分滿分中你打幾分？",
+      "JAPANESE": "Q. 自分の顔は10点中何点？",
+      "INDONESIAN": "Q. Dari skala 1 sampai 10, berapa kamu menilai wajahmu?",
+      "PORTUGUESE": "Q. Em uma escala de 1 a 10, quanto você avalia seu rosto?",
+      "RUSSIAN": "Вопрос: По шкале от 1 до 10, как бы ты оценила своё лицо?",
+      "FRENCH": "Question : Sur une échelle de 1 à 10, comment évaluerais-tu ton visage ?",
+      "THAI": "คำถาม: ในระดับ 1 ถึง 10 เธอให้คะแนนหน้าตาตัวเองเท่าไหร่?"
+    },
+    "TIME": {
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "제 얼굴이요?",
+      "ENGLISH": "My face?",
+      "CHINESE_SIMPLIFIED": "我的外貌吗？",
+      "CHINESE_TRADITIONAL": "我的外貌嗎？",
+      "JAPANESE": "私の顔ですか？",
+      "INDONESIAN": "Wajahku?",
+      "PORTUGUESE": "Meu rosto?",
+      "RUSSIAN": "Моё лицо?",
+      "FRENCH": "Mon visage ?",
+      "THAI": "หน้าตาฉันเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "1.. 1점? (흔들리는 승이의 애착 인형)",
+      "ENGLISH": "Um… maybe like… a 1? (clutches her shaky, beloved stuffed animal)",
+      "CHINESE_SIMPLIFIED": "1... 1分? (摇晃的圣依最喜欢的玩偶)",
+      "CHINESE_TRADITIONAL": "1... 1分? (搖晃的聖依最喜歡的玩偶)",
+      "JAPANESE": "…1点？（揺れるスンイのぬいぐるみ）",
+      "INDONESIAN": "Um… mungkin... 1? (memeluk boneka kesayangannya yang bergetar)",
+      "PORTUGUESE": "Um… talvez... 1? (abraçando seu amado bichinho de pelúcia trêmulo)",
+      "RUSSIAN": "Эм... может, где-то на 1? (крепко держит любимую игрушку с дрожащими руками)",
+      "FRENCH": "Euh… peut-être un 1 ? (serre son doudou préféré en tremblant)",
+      "THAI": "อืม... อาจจะ 1 ล่ะมั้ง? (กอดตุ๊กตาตัวโปรดแน่น)"
+    },
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니 근데!",
+      "ENGLISH": "But wait!",
+      "CHINESE_SIMPLIFIED": "但是！",
+      "CHINESE_TRADITIONAL": "但是！",
+      "JAPANESE": "最初は",
+      "INDONESIAN": "Tapi tunggu!",
+      "PORTUGUESE": "Mas espera!",
+      "RUSSIAN": "Но подожди!",
+      "FRENCH": "Mais attends !",
+      "THAI": "แต่เดี๋ยวก่อน!"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "원래 0점 하려고 하다가...",
+      "ENGLISH": "I was originally going to say 0, but lately…",
+      "CHINESE_SIMPLIFIED": "本来想得0分的...",
+      "CHINESE_TRADITIONAL": "本來想得0分的...",
+      "JAPANESE": "0点にしようと思ったんですけど…",
+      "INDONESIAN": "Awalnya mau bilang 0, tapi belakangan ini...",
+      "PORTUGUESE": "Eu ia dizer 0, mas ultimamente...",
+      "RUSSIAN": "Изначально я хотела сказать 0, но в последнее время...",
+      "FRENCH": "J’allais dire 0 au début, mais dernièrement…",
+      "THAI": "ตอนแรกฉันคิดจะให้ 0 นะ แต่พักหลังมานี้…"
+    },
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 조금 그렇게 (1점까지) 됐어요.",
+      "ENGLISH": "I’ve been feeling like maybe I’m a 1 now.",
+      "CHINESE_SIMPLIFIED": "最近有点...",
+      "CHINESE_TRADITIONAL": "最近有點...",
+      "JAPANESE": "最近、ちょっとだけ（1点まで）自信がついたんです。",
+      "INDONESIAN": "Aku merasa mungkin sekarang aku layak jadi 1.",
+      "PORTUGUESE": "Tenho sentido que agora talvez eu seja um 1.",
+      "RUSSIAN": "мне кажется, что, может, теперь я уже на 1.",
+      "FRENCH": "je commence à penser que peut-être je suis un 1 maintenant.",
+      "THAI": "ฉันเริ่มรู้สึกว่าอาจจะถึง 1 แล้วก็ได้"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "제작진: 자신감이 생겼나요?",
+      "ENGLISH": "Production Team: \"So you’re gaining some confidence?\"",
+      "CHINESE_SIMPLIFIED": "制作组:有自信了吗？",
+      "CHINESE_TRADITIONAL": "製作組:有自信了嗎？",
+      "JAPANESE": "スタッフ: 自信がついたんですか？",
+      "INDONESIAN": "Tim Produksi: \"Jadi kamu mulai lebih percaya diri?\"",
+      "PORTUGUESE": "Equipe de Produção: \"Então você está ganhando confiança?\"",
+      "RUSSIAN": "Продюсерская команда: «То есть ты набралась немного уверенности?»",
+      "FRENCH": "Équipe de production : « Donc tu prends un peu confiance ? »",
+      "THAI": "ทีมงาน: “งั้นคือเธอเริ่มมีความมั่นใจขึ้นสินะ?”"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "맞아요.",
+      "ENGLISH": "Yeah, that’s right!",
+      "CHINESE_SIMPLIFIED": "对。",
+      "CHINESE_TRADITIONAL": "對。",
+      "JAPANESE": "はい。",
+      "INDONESIAN": "Iya, betul!",
+      "PORTUGUESE": "Sim, isso mesmo!",
+      "RUSSIAN": "Да, верно!",
+      "FRENCH": "Oui, c’est ça !",
+      "THAI": "ใช่แล้วล่ะ!"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 본인 외모로 살기vs 10억 받고 얼굴 랜덤 돌리기",
+      "ENGLISH": "Q. Live with your current looks or take $10 million and roll the dice on a random face?",
+      "CHINESE_SIMPLIFIED": "Q. 以自己的外貌生活 VS 获得10亿后随机换脸",
+      "CHINESE_TRADITIONAL": "Q. 以自己的外貌生活 VS 獲得10億後隨機換臉",
+      "JAPANESE": "Q. 自分の顔で生きる vs 10億もらってランダムに顔を変える",
+      "INDONESIAN": "Q. Hidup dengan wajahmu sekarang atau ambil $10 juta dan taruhan dengan wajah acak?",
+      "PORTUGUESE": "Q. Viver com sua aparência atual ou pegar $10 milhões e arriscar um rosto aleatório?",
+      "RUSSIAN": "Вопрос: Оставить свою внешность как есть или взять 10 миллионов и бросить жребий на случайное лицо?",
+      "FRENCH": "Question : Vivre avec ton apparence actuelle ou prendre 10 millions et jouer aux dés pour un visage aléatoire ?",
+      "THAI": "คำถาม: จะอยู่กับหน้าตาปัจจุบัน หรือรับเงิน 10 ล้านแล้วเสี่ยงหมุนวงล้อเพื่อได้หน้าแบบสุ่ม?"
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "저는... (웃음)",
+      "ENGLISH": "I’d… (laughs)",
+      "CHINESE_SIMPLIFIED": "我呢... (笑)",
+      "CHINESE_TRADITIONAL": "我呢... (笑)",
+      "JAPANESE": "私は…（笑）",
+      "INDONESIAN": "Aku... (tertawa)",
+      "PORTUGUESE": "Eu... (risos)",
+      "RUSSIAN": "Я... (смеётся)",
+      "FRENCH": "Je... (rit)",
+      "THAI": "ฉัน... (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그래도 제 얼굴로 살래요.",
+      "ENGLISH": "I’d still stick with my face.",
+      "CHINESE_SIMPLIFIED": "还是用我的脸活下去吧",
+      "CHINESE_TRADITIONAL": "還是用我的臉活下去吧",
+      "JAPANESE": "でも、やっぱり自分の顔で生きたいです。",
+      "INDONESIAN": "Aku tetap pilih wajahku.",
+      "PORTUGUESE": "Eu ainda escolheria meu rosto.",
+      "RUSSIAN": "Я бы всё равно оставила своё лицо.",
+      "FRENCH": "Je garderais quand même mon visage.",
+      "THAI": "ฉันยังคงเลือกที่จะอยู่กับหน้าตาของตัวเอง"
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "1점이라고 생각하고는 있는데",
+      "ENGLISH": "Even though I think I’m a 1,",
+      "CHINESE_SIMPLIFIED": "虽然我给自己打了1分",
+      "CHINESE_TRADITIONAL": "雖然我給自己打了1分",
+      "JAPANESE": "1点だと思っているんですけど",
+      "INDONESIAN": "Walaupun aku merasa cuma 1,",
+      "PORTUGUESE": "Mesmo achando que sou um 1,",
+      "RUSSIAN": "Хотя я думаю, что это только на 1,",
+      "FRENCH": "Même si je pense que c’est un 1,",
+      "THAI": "ถึงแม้ว่าฉันจะคิดว่ามันแค่ 1"
+    },
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 30.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그래도 점점 용기를 얻고 있기 때문에",
+      "ENGLISH": "I’m slowly gaining more courage,",
+      "CHINESE_SIMPLIFIED": "但因为渐渐得到了勇气",
+      "CHINESE_TRADITIONAL": "但因爲漸漸得到了勇氣",
+      "JAPANESE": "それでもだんだん勇気が出てきているので",
+      "INDONESIAN": "aku perlahan mulai lebih berani,",
+      "PORTUGUESE": "estou ganhando coragem aos poucos,",
+      "RUSSIAN": "я постепенно набираюсь смелости,",
+      "FRENCH": "je gagne lentement en courage,",
+      "THAI": "แต่ฉันก็ค่อยๆ มีกำลังใจขึ้นเรื่อยๆ"
+    },
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "저는 제 얼굴로 살고 싶어요.",
+      "ENGLISH": "so I want to keep living with it.",
+      "CHINESE_SIMPLIFIED": "我想用我的脸活下去",
+      "CHINESE_TRADITIONAL": "我想用我的臉活下去",
+      "JAPANESE": "自分の顔で生きたいです。",
+      "INDONESIAN": "jadi aku mau terus hidup dengan ini.",
+      "PORTUGUESE": "então quero continuar com ele.",
+      "RUSSIAN": "поэтому хочу прожить с ним дальше.",
+      "FRENCH": "alors je veux continuer à vivre avec.",
+      "THAI": "เลยอยากจะอยู่กับมันต่อไป"
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 38.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 10억 자산가 우유만 vs 알거지 완벽한 이상형",
+      "ENGLISH": "Q. A billionaire Yuman or a perfect soulmate who's broke?",
+      "CHINESE_SIMPLIFIED": "Q. 10亿资产的吴宥万 VS 完美但贫穷的理想型",
+      "CHINESE_TRADITIONAL": "Q. 10億資產的吳宥萬 VS 完美但貧窮的理想型",
+      "JAPANESE": "Q. 「10億の資産家ウ・ユマン vs 完璧な無一文」",
+      "INDONESIAN": "Q. Yuman si miliarder atau belahan jiwa sempurna tapi bangkrut?",
+      "PORTUGUESE": "Q. Yuman bilionário ou alma gêmea perfeita, mas falido?",
+      "RUSSIAN": "Вопрос: Мультимиллиардер Юман или идеальная родственная душа, но без денег?",
+      "FRENCH": "Question : Un milliardaire Yuman ou une âme sœur parfaite mais fauchée ?",
+      "THAI": "คำถาม: มหาเศรษฐีอย่างยูมัน หรือเนื้อคู่ที่ใช่แต่อยู่แบบถังแตก?"
+    },
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 42.4
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "근데...",
+      "ENGLISH": "Hmm… ",
+      "CHINESE_SIMPLIFIED": "但是...",
+      "CHINESE_TRADITIONAL": "但是...",
+      "JAPANESE": "私は…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хм...",
+      "FRENCH": "Hmm…",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 44.2
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "우유만... (웃음)",
+      "ENGLISH": "Yuman... (laughs)",
+      "CHINESE_SIMPLIFIED": "吴宥万... (笑)",
+      "CHINESE_TRADITIONAL": "吳宥萬... (笑)",
+      "JAPANESE": "ユマンがいいかも…（笑）",
+      "INDONESIAN": "Yuman... (tertawa)",
+      "PORTUGUESE": "Yuman... (risos)",
+      "RUSSIAN": "Юман... (смеётся)",
+      "FRENCH": "Yuman... (rit)",
+      "THAI": "ยูมัน... (หัวเราะ)"
+    },
+    "TIME": {
+      "SHOW": 45.4,
+      "HIDE": 47.1
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "(유만이 더) 좋아요.",
+      "ENGLISH": "I’d pick Yuman.",
+      "CHINESE_SIMPLIFIED": "我更喜欢宥万",
+      "CHINESE_TRADITIONAL": "我更喜歡宥萬",
+      "JAPANESE": "（ユマンの方が）好きです。",
+      "INDONESIAN": "Aku pilih Yuman.",
+      "PORTUGUESE": "Eu escolheria o Yuman.",
+      "RUSSIAN": "Я бы выбрала Юмана.",
+      "FRENCH": "Je choisirais Yuman.",
+      "THAI": "ฉันคงเลือกยูมัน"
+    },
+    "TIME": {
+      "SHOW": 47.9,
+      "HIDE": 49.3
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "왜냐면 10억도 있고",
+      "ENGLISH": "I mean, he’s got $10 million, ",
+      "CHINESE_SIMPLIFIED": "因为至少有10亿 ",
+      "CHINESE_TRADITIONAL": "因爲至少有10億",
+      "JAPANESE": "だって、10億もあるし",
+      "INDONESIAN": "Maksudku, dia punya Rp150 miliar, ",
+      "PORTUGUESE": "Quer dizer, ele tem 9,5 milhões de euros,",
+      "RUSSIAN": "Ну, у него ведь 10 миллионов,",
+      "FRENCH": "Je veux dire, il a 10 millions,",
+      "THAI": "ก็แหม เขามี 10 ล้านนี่นา"
+    },
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 51.0
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "에잉 (웃음)",
+      "ENGLISH": "and... ugh!",
+      "CHINESE_SIMPLIFIED": "（笑）",
+      "CHINESE_TRADITIONAL": "（笑）",
+      "JAPANESE": "ああ（笑）",
+      "INDONESIAN": "dan... ugh!",
+      "PORTUGUESE": "e... ugh!",
+      "RUSSIAN": "и... ух!",
+      "FRENCH": "et... ouf !",
+      "THAI": "และ... โอ๊ย!"
+    },
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 52.3
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "(생각이) 이렇게 가면 안 되는데.",
+      "ENGLISH": "I shouldn’t think like this.",
+      "CHINESE_SIMPLIFIED": "不该这么想的",
+      "CHINESE_TRADITIONAL": "不該這麼想的",
+      "JAPANESE": "こんなふうに考えちゃダメなんだけど",
+      "INDONESIAN": "Aku gak boleh mikir kayak gini.",
+      "PORTUGUESE": "Eu não devia pensar assim.",
+      "RUSSIAN": "Не стоит так думать.",
+      "FRENCH": "Je ne devrais pas penser comme ça.",
+      "THAI": "ฉันไม่ควรคิดแบบนี้"
+    },
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.5
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "우유만은 다정하니깐...",
+      "ENGLISH": "But Yuman is so kind and sweet…",
+      "CHINESE_SIMPLIFIED": "因为宥万很亲切...",
+      "CHINESE_TRADITIONAL": "因爲宥萬很親切...",
+      "JAPANESE": "ユマンは優しいし…",
+      "INDONESIAN": "Tapi Yuman itu baik dan manis banget...",
+      "PORTUGUESE": "Mas o Yuman é tão gentil e doce...",
+      "RUSSIAN": "Но Юман такой добрый и милый...",
+      "FRENCH": "Mais Yuman est si gentil et doux…",
+      "THAI": "แต่ยูมันใจดีและน่ารักมาก..."
+    },
+    "TIME": {
+      "SHOW": 53.5,
+      "HIDE": 54.8
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "알거지는 좀...",
+      "ENGLISH": "I can’t imagine going with someone who’s broke.",
+      "CHINESE_SIMPLIFIED": "穷光蛋有点...",
+      "CHINESE_TRADITIONAL": "窮光蛋有點...",
+      "JAPANESE": "無一文はちょっと…",
+      "INDONESIAN": "Aku gak bisa bayangin sama orang yang bangkrut.",
+      "PORTUGUESE": "Eu não consigo imaginar ficar com alguém falido.",
+      "RUSSIAN": "Не могу представить, что выберу кого-то без денег.",
+      "FRENCH": "Je ne pourrais pas imaginer choisir quelqu’un sans le sou.",
+      "THAI": "ฉันจินตนาการไม่ออกเลยว่าจะไปกับใครที่ไม่มีเงิน"
+    },
+    "TIME": {
+      "SHOW": 54.8,
+      "HIDE": 57.2
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "안돼 안돼",
+      "ENGLISH": "No, no way,",
+      "CHINESE_SIMPLIFIED": "不行 不行 怎么",
+      "CHINESE_TRADITIONAL": "不行 不行 怎麼",
+      "JAPANESE": "ダメダメ",
+      "INDONESIAN": "Enggak, gak bisa!",
+      "PORTUGUESE": "Não, de jeito nenhum!",
+      "RUSSIAN": "Нет, ни за что,",
+      "FRENCH": "Non, impossible,",
+      "THAI": "ไม่มีทาง"
+    },
+    "TIME": {
+      "SHOW": 58.3,
+      "HIDE": 59.8
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "어뜨케",
+      "ENGLISH": "I can’t!",
+      "CHINESE_SIMPLIFIED": "怎办办",
+      "CHINESE_TRADITIONAL": "怎辦辦",
+      "JAPANESE": "どうしよう",
+      "INDONESIAN": "Gak mungkin!",
+      "PORTUGUESE": "Não dá!",
+      "RUSSIAN": "я не могу!",
+      "FRENCH": "je ne pourrais pas !",
+      "THAI": "ฉันทำไม่ได้!"
+    },
+    "TIME": {
+      "SHOW": 61.7,
+      "HIDE": 62.6
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 캐릭터와 본인의 싱크로율은 몇 프로?",
+      "ENGLISH": "Q. How similar are you to your character?",
+      "CHINESE_SIMPLIFIED": "Q.你认为角色和本人的相似度是多少？",
+      "CHINESE_TRADITIONAL": "Q.你認爲角色和本人的相似度是多少？",
+      "JAPANESE": "Q. キャラクターとご自身のシンクロ率は何パーセント？",
+      "INDONESIAN": "Q. Seberapa mirip kamu dengan karaktermu?",
+      "PORTUGUESE": "Q. Quão parecida você é com sua personagem?",
+      "RUSSIAN": "Вопрос: Насколько ты похожа на своего персонажа?",
+      "FRENCH": "Question : À quel point es-tu similaire à ton personnage ?",
+      "THAI": "คำถาม: เธอเหมือนกับตัวละครมากแค่ไหน?"
+    },
+    "TIME": {
+      "SHOW": 62.6,
+      "HIDE": 64.1
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "저는 진짜 사실 근데",
+      "ENGLISH": "Honestly, ",
+      "CHINESE_SIMPLIFIED": "我其实",
+      "CHINESE_TRADITIONAL": "我其實",
+      "JAPANESE": "実は",
+      "INDONESIAN": "Sejujurnya,",
+      "PORTUGUESE": "Honestamente,",
+      "RUSSIAN": "Честно,",
+      "FRENCH": "Honnêtement,",
+      "THAI": "พูดตรงๆ นะ"
+    },
+    "TIME": {
+      "SHOW": 64.1,
+      "HIDE": 66.3
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "조금",
+      "ENGLISH": "I think ",
+      "CHINESE_SIMPLIFIED": "有点",
+      "CHINESE_TRADITIONAL": "有點",
+      "JAPANESE": "ちょっと",
+      "INDONESIAN": "Aku rasa",
+      "PORTUGUESE": "acho que",
+      "RUSSIAN": "я думаю,",
+      "FRENCH": "je pense que",
+      "THAI": "ฉันคิดว่า"
+    },
+    "TIME": {
+      "SHOW": 66.3,
+      "HIDE": 68.3
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "좋았어요!",
+      "ENGLISH": "we’re a little alike! ",
+      "CHINESE_SIMPLIFIED": "还好一点",
+      "CHINESE_TRADITIONAL": "還好一點",
+      "JAPANESE": "良かったです！",
+      "INDONESIAN": "kita agak mirip!",
+      "PORTUGUESE": "somos um pouco parecidas!",
+      "RUSSIAN": "мы немного похожи!",
+      "FRENCH": "nous sommes un peu pareilles !",
+      "THAI": "เราคล้ายกันนิดหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 68.3,
+      "HIDE": 69.5
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 뭔가...",
+      "ENGLISH": "I’m actually,",
+      "CHINESE_SIMPLIFIED": "我是说",
+      "CHINESE_TRADITIONAL": "我是說",
+      "JAPANESE": "何かこう…",
+      "INDONESIAN": "Aku sebenarnya",
+      "PORTUGUESE": "Eu na verdade sou",
+      "RUSSIAN": "На самом деле,",
+      "FRENCH": "En fait,",
+      "THAI": "จริงๆ แล้ว"
+    },
+    "TIME": {
+      "SHOW": 69.5,
+      "HIDE": 70.8
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "제가 사실 엄청 외향형이거든요.",
+      "ENGLISH": "super outgoing and love being around people.",
+      "CHINESE_SIMPLIFIED": "我其实是很外向型的",
+      "CHINESE_TRADITIONAL": "我其實是很外向型的",
+      "JAPANESE": "私、実はすごく外向的な性格なんですよ。",
+      "INDONESIAN": "sangat ramah dan suka berada di sekitar orang-orang.",
+      "PORTUGUESE": "super extrovertida e amo estar entre as pessoas.",
+      "RUSSIAN": "я очень общительная и обожаю быть с людьми.",
+      "FRENCH": "je suis super extravertie et j’adore être entourée.",
+      "THAI": "ฉันเป็นคนร่าเริงมากและชอบอยู่กับคนอื่น"
+    },
+    "TIME": {
+      "SHOW": 70.8,
+      "HIDE": 74.3
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "엄청 외향형(활발하고 사람들과 잘 어울리는)인데. ",
+      "ENGLISH": "But… ",
+      "CHINESE_SIMPLIFIED": "很活泼的那种类型",
+      "CHINESE_TRADITIONAL": "很活潑的那種類型",
+      "JAPANESE": "すごく外向的（活発で人とよく交流する）なのに",
+      "INDONESIAN": "Tapi...",
+      "PORTUGUESE": "Mas...",
+      "RUSSIAN": "Но...",
+      "FRENCH": "Mais…",
+      "THAI": "แต่…"
+    },
+    "TIME": {
+      "SHOW": 74.3,
+      "HIDE": 76.5
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 처음에 낯을 진~짜 많이 가려요.",
+      "ENGLISH": "I’m really shy when I first meet someone.",
+      "CHINESE_SIMPLIFIED": "但是我是第一次见面很认生的类型",
+      "CHINESE_TRADITIONAL": "但是我是第一次見面很認生的類型",
+      "JAPANESE": "人見知りがずごく激しいんです。",
+      "INDONESIAN": "Aku pemalu banget kalau ketemu orang pertama kali.",
+      "PORTUGUESE": "sou bem tímida quando conheço alguém pela primeira vez.",
+      "RUSSIAN": "когда впервые кого-то встречаю, я очень стесняюсь.",
+      "FRENCH": "je suis très timide quand je rencontre quelqu’un pour la première fois.",
+      "THAI": "ฉันขี้อายมากเวลาที่เจอคนครั้งแรก"
+    },
+    "TIME": {
+      "SHOW": 76.5,
+      "HIDE": 79.9
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 저를 처음만 보고",
+      "ENGLISH": "People who only see me for the first time ",
+      "CHINESE_SIMPLIFIED": "所以第一次见到我",
+      "CHINESE_TRADITIONAL": "所以第一次見到我",
+      "JAPANESE": "だから、私を最初に",
+      "INDONESIAN": "Orang yang baru pertama kali ketemu aku",
+      "PORTUGUESE": "As pessoas que me veem pela primeira vez",
+      "RUSSIAN": "Люди, которые видят меня впервые,",
+      "FRENCH": "Les gens qui me voient pour la première fois",
+      "THAI": "คนที่เจอฉันครั้งแรก"
+    },
+    "TIME": {
+      "SHOW": 79.9,
+      "HIDE": 82.2
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "지나가시는 분들은",
+      "ENGLISH": "probably think ",
+      "CHINESE_SIMPLIFIED": "路过的人",
+      "CHINESE_TRADITIONAL": "路過的人",
+      "JAPANESE": "見た人たちは",
+      "INDONESIAN": "mungkin mikir",
+      "PORTUGUESE": "provavelmente acham",
+      "RUSSIAN": "наверное, думают,",
+      "FRENCH": "pensent probablement",
+      "THAI": "คงคิดว่า"
+    },
+    "TIME": {
+      "SHOW": 82.2,
+      "HIDE": 83.8
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "SCRIPT": {
+      "KOREAN": "완전 I(내향형)인 줄 아셔가지고",
+      "ENGLISH": "I’m an introvert.",
+      "CHINESE_SIMPLIFIED": "以为完全是I(内向型)",
+      "CHINESE_TRADITIONAL": "以爲完全是I(內向型)",
+      "JAPANESE": "ほとんどI（内向型）だと思っているらしくて",
+      "INDONESIAN": "aku introvert.",
+      "PORTUGUESE": "que sou introvertida.",
+      "RUSSIAN": "что я интроверт.",
+      "FRENCH": "que je suis introvertie.",
+      "THAI": "ฉันเป็นคนเก็บตัว"
+    },
+    "TIME": {
+      "SHOW": 83.8,
+      "HIDE": 86.8
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "SCRIPT": {
+      "KOREAN": "근데 이제 (저랑) 조금만 얘기 해보시면 아니거든요.",
+      "ENGLISH": "But once you start talking to me, you’ll see I’m totally not!",
+      "CHINESE_SIMPLIFIED": "但是稍微了解我一下就知道我不是了",
+      "CHINESE_TRADITIONAL": "但是稍微瞭解我一下就知道我不是了",
+      "JAPANESE": "でも、実は違うんですよ。",
+      "INDONESIAN": "Tapi begitu mulai ngobrol, bakal kelihatan aku bukan!",
+      "PORTUGUESE": "Mas quando começam a conversar comigo, percebem que não sou nada disso!",
+      "RUSSIAN": "Но как только начинаешь со мной говорить, поймёшь, что это совсем не так!",
+      "FRENCH": "Mais dès qu’on commence à me parler, on voit que c’est pas du tout le cas !",
+      "THAI": "แต่พอได้คุยกันจริงๆ จะเห็นเลยว่าฉันไม่ใช่แบบนั้นเลย!"
+    },
+    "TIME": {
+      "SHOW": 86.8,
+      "HIDE": 89.5
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 사실 지금",
+      "ENGLISH": "Since ",
+      "CHINESE_SIMPLIFIED": "所以其实现在",
+      "CHINESE_TRADITIONAL": "所以其實現在",
+      "JAPANESE": "だから",
+      "INDONESIAN": "Karena",
+      "PORTUGUESE": "Como",
+      "RUSSIAN": "Поскольку",
+      "FRENCH": "Étant",
+      "THAI": "เพราะ"
+    },
+    "TIME": {
+      "SHOW": 89.5,
+      "HIDE": 92.3
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "SCRIPT": {
+      "KOREAN": "이런 연기 경험이",
+      "ENGLISH": "I’m still new to acting,",
+      "CHINESE_SIMPLIFIED": "这种演技经验",
+      "CHINESE_TRADITIONAL": "這種演技經驗",
+      "JAPANESE": "演技の経験が",
+      "INDONESIAN": "aku masih baru di dunia akting,",
+      "PORTUGUESE": "sou nova na atuação,",
+      "RUSSIAN": "я только начала сниматься,",
+      "FRENCH": "encore nouvelle dans le métier,",
+      "THAI": "ฉันเพิ่งเริ่มงานแสดง"
+    },
+    "TIME": {
+      "SHOW": 92.3,
+      "HIDE": 94.3
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "SCRIPT": {
+      "KOREAN": "많지 않아가지고",
+      "ENGLISH": "I’ve been feeling ",
+      "CHINESE_SIMPLIFIED": "因为不是很多",
+      "CHINESE_TRADITIONAL": "因爲不是很多",
+      "JAPANESE": "あまりなくて",
+      "INDONESIAN": "aku jadi merasa",
+      "PORTUGUESE": "tenho me sentido",
+      "RUSSIAN": "я чувствую себя",
+      "FRENCH": "je me sens",
+      "THAI": "ฉันเลยรู้สึก"
+    },
+    "TIME": {
+      "SHOW": 94.3,
+      "HIDE": 96.2
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "SCRIPT": {
+      "KOREAN": "실제로도 지금 쭈글쭈글(소심) 거리고 있는데",
+      "ENGLISH": "a bit shy,",
+      "CHINESE_SIMPLIFIED": "实际上现在也很小心谨慎",
+      "CHINESE_TRADITIONAL": "實際上現在也很小心謹慎",
+      "JAPANESE": "今もちょっと萎縮しているんですけど",
+      "INDONESIAN": "agak malu,",
+      "PORTUGUESE": "um pouco tímida,",
+      "RUSSIAN": "немного застенчивой,",
+      "FRENCH": "un peu timide,",
+      "THAI": "ประหม่าเล็กน้อย"
+    },
+    "TIME": {
+      "SHOW": 96.3,
+      "HIDE": 98.8
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "SCRIPT": {
+      "KOREAN": "이 배역도 쭈글쭈글(소심한 성격)해서",
+      "ENGLISH": "just like Seung-yi.",
+      "CHINESE_SIMPLIFIED": "所以这个角色也是畏畏缩缩的",
+      "CHINESE_TRADITIONAL": "所以這個角色也是畏畏縮縮的",
+      "JAPANESE": "この役も萎縮しているキャラクターなので",
+      "INDONESIAN": "kayak Seung-yi.",
+      "PORTUGUESE": "como a Seung-yi.",
+      "RUSSIAN": "как Сын-и.",
+      "FRENCH": "comme Seung-yi.",
+      "THAI": "เหมือนกับซึงอี"
+    },
+    "TIME": {
+      "SHOW": 98.8,
+      "HIDE": 101.7
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 약간 나름 편안하게 하고 있어요.",
+      "ENGLISH": "So, even though ",
+      "CHINESE_SIMPLIFIED": "但是反倒演起来挺方便的",
+      "CHINESE_TRADITIONAL": "但是反倒演起來挺方便的",
+      "JAPANESE": "ちょっと安心しながら演じています。",
+      "INDONESIAN": "Jadi meskipun",
+      "PORTUGUESE": "Então, mesmo sendo",
+      "RUSSIAN": "Так что, хотя",
+      "FRENCH": "Alors, même si",
+      "THAI": "เพราะงั้น แม้ว่าปกติฉันจะเป็นคนที่ชอบเข้าสังคม"
+    },
+    "TIME": {
+      "SHOW": 101.7,
+      "HIDE": 105.3
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 뭔가 저 자체는",
+      "ENGLISH": "I’m normally super extroverted, ",
+      "CHINESE_SIMPLIFIED": "所以我本身",
+      "CHINESE_TRADITIONAL": "所以我本身",
+      "JAPANESE": "私自身は",
+      "INDONESIAN": "aku biasanya super ekstrovert,",
+      "PORTUGUESE": "super extrovertida normalmente,",
+      "RUSSIAN": "я обычно суперконтактная,",
+      "FRENCH": "je suis normalement très extravertie,"
+    },
+    "TIME": {
+      "SHOW": 105.3,
+      "HIDE": 108.2
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "SCRIPT": {
+      "KOREAN": "엄청 외향형이지만",
+      "ENGLISH": "there’s like 20% of me",
+      "CHINESE_SIMPLIFIED": "虽然是非常E的",
+      "CHINESE_TRADITIONAL": "雖然是非常E的",
+      "JAPANESE": "すごく外向的なんですけど",
+      "INDONESIAN": "ada sekitar 20% di diriku",
+      "PORTUGUESE": "tem uns 20% de mim",
+      "RUSSIAN": "есть примерно 20% интроверта",
+      "FRENCH": "il y a comme 20 % de moi",
+      "THAI": "แต่ก็มีสัก 20% ของฉัน"
+    },
+    "TIME": {
+      "SHOW": 108.2,
+      "HIDE": 109.5
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "SCRIPT": {
+      "KOREAN": "약간 한 20%의 내향형이",
+      "ENGLISH": " that’s introverted, ",
+      "CHINESE_SIMPLIFIED": "大概20%的I",
+      "CHINESE_TRADITIONAL": "大概20%的I",
+      "JAPANESE": "20%くらいの内向的な部分が",
+      "INDONESIAN": "yang introvert,",
+      "PORTUGUESE": "que é introvertido,",
+      "RUSSIAN": "во мне,",
+      "FRENCH": "qui est introvertie,",
+      "THAI": "ที่เป็นคนเก็บตัว"
+    },
+    "TIME": {
+      "SHOW": 109.5,
+      "HIDE": 113.1
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "SCRIPT": {
+      "KOREAN": "그나마 저랑 (게임 속 승이와) 좀 비슷하지 않나",
+      "ENGLISH": "and I think that’s where ",
+      "CHINESE_SIMPLIFIED": "所以大概还算和圣依差不多吧",
+      "CHINESE_TRADITIONAL": "所以大概還算和聖依差不多吧",
+      "JAPANESE": "このキャラクター（スンイ）と似ているんじゃないか",
+      "INDONESIAN": "dan di situlah aku merasa",
+      "PORTUGUESE": "e acho que é aí que",
+      "RUSSIAN": "и, думаю, именно здесь",
+      "FRENCH": "et je pense que c’est là que",
+      "THAI": "และฉันคิดว่านี่แหละที่"
+    },
+    "TIME": {
+      "SHOW": 113.1,
+      "HIDE": 116.5
+    }
+  },
+  {
+    "INDEX": 48.0,
+    "SCRIPT": {
+      "KOREAN": "이런 생각이 듭니다. ",
+      "ENGLISH": "Seung-yi and I match up.",
+      "CHINESE_SIMPLIFIED": "我是这么想的",
+      "CHINESE_TRADITIONAL": "我是這麼想的",
+      "JAPANESE": "そう思います。",
+      "INDONESIAN": "mirip sama Seung-yi.",
+      "PORTUGUESE": "eu e a Seung-yi nos conectamos.",
+      "RUSSIAN": "мы с Сын-и совпадаем.",
+      "FRENCH": "Seung-yi et moi nous ressemblons.",
+      "THAI": "ทำให้ฉันกับซึงอีเหมือนกัน"
+    },
+    "TIME": {
+      "SHOW": 116.5,
+      "HIDE": 117.8
+    }
+  },
+  {
+    "INDEX": 49.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 팬들에게 한마디 한다면?",
+      "ENGLISH": "Q. Any message for your fans?",
+      "CHINESE_SIMPLIFIED": "Q. 对粉丝们有什么想说的话？",
+      "CHINESE_TRADITIONAL": "Q. 對粉絲們有什麼想說的話？",
+      "JAPANESE": "Q. ファンに一言お願いします。",
+      "INDONESIAN": "Q. Ada pesan untuk penggemar?",
+      "PORTUGUESE": "Q. Alguma mensagem para os fãs?",
+      "RUSSIAN": "Вопрос: Твое послание для поклонников?",
+      "FRENCH": "Question : Un message pour tes fans ?",
+      "THAI": "คำถาม: มีอะไรอยากจะบอกแฟนๆ ไหม?"
+    },
+    "TIME": {
+      "SHOW": 117.8,
+      "HIDE": 120.5
+    }
+  },
+  {
+    "INDEX": 50.0,
+    "SCRIPT": {
+      "KOREAN": "되게...",
+      "ENGLISH": "Seung-yi may be shy, ",
+      "CHINESE_SIMPLIFIED": "特别...",
+      "CHINESE_TRADITIONAL": "特別...",
+      "JAPANESE": "すごく…",
+      "INDONESIAN": "Seung-yi mungkin pemalu,",
+      "PORTUGUESE": "A Seung-yi pode ser tímida,",
+      "RUSSIAN": "Сын-и может быть застенчивой,",
+      "FRENCH": "Seung-yi est peut-être timide,",
+      "THAI": "ซึงอีอาจจะขี้อาย"
+    },
+    "TIME": {
+      "SHOW": 120.5,
+      "HIDE": 121.4
+    }
+  },
+  {
+    "INDEX": 51.0,
+    "SCRIPT": {
+      "KOREAN": "소심하지만",
+      "ENGLISH": "but she has a warm heart",
+      "CHINESE_SIMPLIFIED": "性格小心谨慎",
+      "CHINESE_TRADITIONAL": "性格小心謹慎",
+      "JAPANESE": "内気だけど",
+      "INDONESIAN": "tapi dia berhati hangat",
+      "PORTUGUESE": "mas ela tem um coração caloroso",
+      "RUSSIAN": "но у неё тёплое сердце",
+      "FRENCH": "mais elle a un grand cœur",
+      "THAI": "แต่เธอมีจิตใจอบอุ่น"
+    },
+    "TIME": {
+      "SHOW": 122.9,
+      "HIDE": 125.1
+    }
+  },
+  {
+    "INDEX": 52.0,
+    "SCRIPT": {
+      "KOREAN": "마음이 따뜻하고",
+      "ENGLISH": "and genuinely cares for the main character.",
+      "CHINESE_SIMPLIFIED": "但是内心温暖",
+      "CHINESE_TRADITIONAL": "但是內心溫暖",
+      "JAPANESE": "心が温かくて",
+      "INDONESIAN": "dan benar-benar peduli pada karakter utama.",
+      "PORTUGUESE": "e realmente se importa com o protagonista.",
+      "RUSSIAN": "и она искренне заботится о главном герое.",
+      "FRENCH": "et elle tient sincèrement au personnage principal.",
+      "THAI": "และใส่ใจตัวละครหลักมากจริงๆ"
+    },
+    "TIME": {
+      "SHOW": 126.1,
+      "HIDE": 127.6
+    }
+  },
+  {
+    "INDEX": 53.0,
+    "SCRIPT": {
+      "KOREAN": "주인공을 생각하는 마음이 아주 예쁜!",
+      "ENGLISH": "I hope ",
+      "CHINESE_SIMPLIFIED": "为主角着想的心 非常美丽的！",
+      "CHINESE_TRADITIONAL": "爲主角着想的心 非常美麗的！",
+      "JAPANESE": "主人公を思う気持ちがすごく優しい",
+      "INDONESIAN": "Aku harap",
+      "PORTUGUESE": "Espero que",
+      "RUSSIAN": "Надеюсь,",
+      "FRENCH": "J’espère",
+      "THAI": "ฉันหวังว่า"
+    },
+    "TIME": {
+      "SHOW": 128.8,
+      "HIDE": 133.2
+    }
+  },
+  {
+    "INDEX": 54.0,
+    "SCRIPT": {
+      "KOREAN": "승이라는 캐릭터를!",
+      "ENGLISH": "you’ll all come to love this sweet ",
+      "CHINESE_SIMPLIFIED": "我们的圣依",
+      "CHINESE_TRADITIONAL": "我們的聖依",
+      "JAPANESE": "スンイというキャラクターを",
+      "INDONESIAN": "kalian semua akan menyukai",
+      "PORTUGUESE": "todos vocês venham a amar essa personagem doce",
+      "RUSSIAN": "вы все полюбите этот милый",
+      "FRENCH": "que vous aimerez tous ce personnage adorable",
+      "THAI": "พวกคุณทุกคนจะรักตัวละครที่น่ารัก"
+    },
+    "TIME": {
+      "SHOW": 133.2,
+      "HIDE": 135.9
+    }
+  },
+  {
+    "INDEX": 55.0,
+    "SCRIPT": {
+      "KOREAN": "많이 사랑해 주시면 좋을 것 같아요.",
+      "ENGLISH": "and thoughtful character as much as I do!",
+      "CHINESE_SIMPLIFIED": "希望大家多多喜爱",
+      "CHINESE_TRADITIONAL": "希望大家多多喜愛",
+      "JAPANESE": "たくさん可愛がってもらえると嬉しいです。",
+      "INDONESIAN": "karakter yang manis dan perhatian ini sama seperti aku!",
+      "PORTUGUESE": "e atenciosa tanto quanto eu!",
+      "RUSSIAN": "и внимательный персонаж так же, как и я!",
+      "FRENCH": "et attentionné autant que moi !",
+      "THAI": "และมีน้ำใจตัวนี้เหมือนกับฉัน!"
+    },
+    "TIME": {
+      "SHOW": 135.9,
+      "HIDE": 138.3
+    }
+  }
+]

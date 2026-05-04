@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "ISTP가 아니라고요?",
+      "ENGLISH": "No way you're not an ISTP!",
+      "CHINESE_SIMPLIFIED": "你居然不是ISTP？",
+      "CHINESE_TRADITIONAL": "你居然不是ISTP？",
+      "JAPANESE": "ISTPじゃないって？",
+      "INDONESIAN": "Nggak mungkin kamu bukan ISTP!",
+      "PORTUGUESE": "Não tem como você não ser ISTP!",
+      "RUSSIAN": "Да не может быть, чтобы ты не был ISTP!",
+      "FRENCH": "Impossible que tu ne sois pas ISTP !",
+      "THAI": "ไม่มีทางที่นายจะไม่ใช่ ISTP!",
+      "PERSIAN": "به هیچ وجه شما یک ISTP نیستید!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼요!",
+      "ENGLISH": "That’s impossible!",
+      "CHINESE_SIMPLIFIED": "我不信!",
+      "CHINESE_TRADITIONAL": "我不信!",
+      "JAPANESE": "ありえない！",
+      "INDONESIAN": "Itu mustahil!",
+      "PORTUGUESE": "Isso é impossível!",
+      "RUSSIAN": "Это просто невозможно!",
+      "FRENCH": "C’est pas possible !",
+      "THAI": "เป็นไปไม่ได้เด็ดขาด!",
+      "PERSIAN": "این غیر ممکنه!"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.6
+    }
+  }
+]

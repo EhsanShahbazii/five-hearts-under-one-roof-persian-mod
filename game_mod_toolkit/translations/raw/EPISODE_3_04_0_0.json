@@ -1,0 +1,420 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "샴푸도 샀고...",
+      "ENGLISH": "Got the shampoo...",
+      "CHINESE_SIMPLIFIED": "洗发水也买好了",
+      "CHINESE_TRADITIONAL": "洗髮水也買好了",
+      "JAPANESE": "シャンプーも買ったし…",
+      "INDONESIAN": "Dapet shamponya...",
+      "PORTUGUESE": "Peguei o shampoo...",
+      "RUSSIAN": "Шампунь купил...",
+      "FRENCH": "J’ai acheté le shampooing...",
+      "THAI": "ซื้อแชมพูมาแล้ว..."
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "날도 좋은데 여기 좀 쉬었다 가야겠다.",
+      "ENGLISH": "The weather's nice, maybe I'll rest here for a bit.",
+      "CHINESE_SIMPLIFIED": "天气又这么好，歇会再回去吧",
+      "CHINESE_TRADITIONAL": "天氣又這麼好，歇會再回去吧",
+      "JAPANESE": "天気もいいし、ここでちょっと休んでいこう。",
+      "INDONESIAN": "Cuacanya enak, mungkin aku istirahat sebentar di sini.",
+      "PORTUGUESE": "O tempo tá ótimo, talvez eu descanse aqui um pouco.",
+      "RUSSIAN": "Погода хорошая, может, немного отдохну здесь.",
+      "FRENCH": "Il fait beau, peut-être que je vais me poser un peu ici.",
+      "THAI": "อากาศดีจัง นั่งพักตรงนี้หน่อยดีกว่า."
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "우유만!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "吴宥万!",
+      "CHINESE_TRADITIONAL": "吳宥萬!",
+      "JAPANESE": "ウ・ユマン！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "RUSSIAN": "Юман!",
+      "FRENCH": "Yuman !",
+      "THAI": "ยูมัน!"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "어? 누구...",
+      "ENGLISH": "Huh? Who...",
+      "CHINESE_SIMPLIFIED": "嗯?你是…",
+      "CHINESE_TRADITIONAL": "嗯?你是…",
+      "JAPANESE": "え？誰…",
+      "INDONESIAN": "Hah? Siapa...",
+      "PORTUGUESE": "Hã? Quem...",
+      "RUSSIAN": "А? Кто...",
+      "FRENCH": "Hein ? Qui...",
+      "THAI": "ห๊ะ? ใคร..."
+    },
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 나 은비!",
+      "ENGLISH": "Oppa, it’s Eunbi!",
+      "CHINESE_SIMPLIFIED": "哥哥，我是恩妃!",
+      "CHINESE_TRADITIONAL": "哥哥，我是恩妃!",
+      "JAPANESE": "お兄ちゃん、私だよ、ウンビ！",
+      "INDONESIAN": "Oppa, ini Eunbi!",
+      "PORTUGUESE": "Oppa, sou eu, Eunbi!",
+      "RUSSIAN": "Оппа, это Ынби!",
+      "FRENCH": "Oppa, c’est Eunbi !",
+      "THAI": "อปป้า ฉันเอง อึนบี!"
+    },
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "은비?",
+      "ENGLISH": "Eunbi?",
+      "CHINESE_SIMPLIFIED": "恩妃?",
+      "CHINESE_TRADITIONAL": "恩妃?",
+      "JAPANESE": "ウンビ？",
+      "INDONESIAN": "Eunbi?",
+      "PORTUGUESE": "Eunbi?",
+      "RUSSIAN": "Ынби?",
+      "FRENCH": "Eunbi ?",
+      "THAI": "อึนบี?"
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.4
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "...고은비?",
+      "ENGLISH": "...Go Eunbi?",
+      "CHINESE_SIMPLIFIED": "啊…高恩妃?",
+      "CHINESE_TRADITIONAL": "啊…高恩妃?",
+      "JAPANESE": "…コ・ウンビ？",
+      "INDONESIAN": "...Go Eunbi?",
+      "PORTUGUESE": "...Go Eunbi?",
+      "RUSSIAN": "...Го Ынби?",
+      "FRENCH": "...Go Eunbi ?",
+      "THAI": "...โก อึนบี?"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "나 까먹은 줄 알고 완전 놀랐잖아!",
+      "ENGLISH": "I was so scared you forgot about me!",
+      "CHINESE_SIMPLIFIED": "我还以为你把我忘了呢!",
+      "CHINESE_TRADITIONAL": "我還以爲你把我忘了呢!",
+      "JAPANESE": "私のこと忘れたかと思って、びっくりしたんだから！",
+      "INDONESIAN": "Aku takut banget kamu lupa sama aku!",
+      "PORTUGUESE": "Eu tava com tanto medo de você ter me esquecido!",
+      "RUSSIAN": "Я так боялась, что ты меня забыл!",
+      "FRENCH": "J’avais trop peur que tu m’aies oubliée !",
+      "THAI": "ฉันกลัวว่านายจะลืมฉันไปแล้วซะอีก!"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "너 외국 나갔다고 하지 않았어?",
+      "ENGLISH": "Weren’t you abroad?",
+      "CHINESE_SIMPLIFIED": "你不是出国了吗？",
+      "CHINESE_TRADITIONAL": "你不是出國了嗎？",
+      "JAPANESE": "お前、海外に行ったって言ってなかった？",
+      "INDONESIAN": "Bukannya kamu di luar negeri?",
+      "PORTUGUESE": "Você não tava no exterior?",
+      "RUSSIAN": "Ты же была за границей?",
+      "FRENCH": "Tu n’étais pas à l’étranger ?",
+      "THAI": "เธอไม่ไปต่างประเทศเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "是啊!",
+      "CHINESE_TRADITIONAL": "是啊!",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ไปสิ!"
+    },
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "근데 오빠랑 결혼하러 왔어!",
+      "ENGLISH": "But I came back to marry you!",
+      "CHINESE_SIMPLIFIED": "但我是特意回来和你结婚的!",
+      "CHINESE_TRADITIONAL": "但我是特意回來和你結婚的!",
+      "JAPANESE": "でもね、私、お兄ちゃんと結婚するために帰ってきたの！",
+      "INDONESIAN": "Tapi aku balik buat nikahin kamu!",
+      "PORTUGUESE": "Mas eu voltei pra casar com você!",
+      "RUSSIAN": "Но я вернулась, чтобы выйти за тебя замуж!",
+      "FRENCH": "Mais je suis revenue pour t’épouser !",
+      "THAI": "แต่ฉันกลับมาเพื่อนแต่งงานกับนาย!"
+    },
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 25.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "그게 무슨 소리야?",
+      "ENGLISH": "What are you talking about?",
+      "CHINESE_SIMPLIFIED": "什么意思?",
+      "CHINESE_TRADITIONAL": "什麼意思?",
+      "JAPANESE": "どういうことだ？",
+      "INDONESIAN": "Apa maksudmu?",
+      "PORTUGUESE": "O que você tá dizendo?",
+      "RUSSIAN": "Что ты такое говоришь?",
+      "FRENCH": "Qu’est-ce que tu racontes ?",
+      "THAI": "พูดอะไรน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "오빠랑 결혼하러 왔다니까?",
+      "ENGLISH": "I came back to marry you!",
+      "CHINESE_SIMPLIFIED": "就是字面意思啊!",
+      "CHINESE_TRADITIONAL": "就是字面意思啊!",
+      "JAPANESE": "お兄ちゃんと結婚するために帰ってきたって言ってるじゃない！",
+      "INDONESIAN": "Aku balik buat nikahin kamu!",
+      "PORTUGUESE": "Eu voltei pra casar com você!",
+      "RUSSIAN": "Я вернулась, чтобы выйти за тебя замуж!",
+      "FRENCH": "Je suis revenue pour t’épouser !",
+      "THAI": "ฉันกลับมาเพื่อแต่งงานกับนาย!"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.8
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "아 맞다.",
+      "ENGLISH": "Oh, right.",
+      "CHINESE_SIMPLIFIED": "啊，对了！",
+      "CHINESE_TRADITIONAL": "啊，對了！",
+      "JAPANESE": "あ、そうだ。",
+      "INDONESIAN": "Oh, iya.",
+      "PORTUGUESE": "Ah, certo.",
+      "RUSSIAN": "Ах, да...",
+      "FRENCH": "Ah, c’est vrai.",
+      "THAI": "อ๋อ ใช่..."
+    },
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 29.9
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "나 교복 어때?",
+      "ENGLISH": "How do I look in my school uniform?",
+      "CHINESE_SIMPLIFIED": "你看我的校服怎么样?",
+      "CHINESE_TRADITIONAL": "你看我的校服怎麼樣?",
+      "JAPANESE": "私の制服、どう？",
+      "INDONESIAN": "Gimana? Seragam sekolahku kelihatan bagus, kan?",
+      "PORTUGUESE": "Como eu tô com o meu uniforme escolar?",
+      "RUSSIAN": "Как тебе моя школьная форма?",
+      "FRENCH": "Comment je suis en uniforme scolaire ?",
+      "THAI": "นายว่าฉันใส่ชุดนักเรียนเป็นไง?"
+    },
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "귀엽지~",
+      "ENGLISH": "Cute, right?",
+      "CHINESE_SIMPLIFIED": "可爱吧?",
+      "CHINESE_TRADITIONAL": "可愛吧?",
+      "JAPANESE": "可愛いでしょ～",
+      "INDONESIAN": "Imut, ya?",
+      "PORTUGUESE": "Fofa, né?",
+      "RUSSIAN": "Милая, правда?",
+      "FRENCH": "Mignonne, non ?",
+      "THAI": "น่ารักใช่ไหมล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "너 대학 간다고 들었던 거 같은데?",
+      "ENGLISH": "Didn’t you go to college?",
+      "CHINESE_SIMPLIFIED": "我记得你去上大学了啊?",
+      "CHINESE_TRADITIONAL": "我記得你去上大學了啊?",
+      "JAPANESE": "お前、大学行くって聞いてたけど？",
+      "INDONESIAN": "Bukannya kamu kuliah?",
+      "PORTUGUESE": "Você não foi pra faculdade?",
+      "RUSSIAN": "Ты же училась в университете?",
+      "FRENCH": "T’étais pas à l’université ?",
+      "THAI": "เธอไม่เรียนมหา'ลัยเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 36.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Si !",
+      "THAI": "เรียนสิ!"
+    },
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 37.3
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "결혼 전에 교복 데이트하는 게 내 버킷리스트라서.",
+      "ENGLISH": "But dating in a school uniform was on my bucket list before getting married.",
+      "CHINESE_SIMPLIFIED": "但结婚前穿校服约会是我的愿望!",
+      "CHINESE_TRADITIONAL": "但結婚前穿校服約會是我的願望!",
+      "JAPANESE": "結婚する前に、制服デートするのが私のバケットリストなんだから。",
+      "INDONESIAN": "Tapi pacaran pakai seragam sekolah tuh ada di bucket list-ku sebelum menikah.",
+      "PORTUGUESE": "Mas namorar usando uniforme escolar tava na minha lista de desejos antes de casar.",
+      "RUSSIAN": "Но встречаться в школьной форме — это был один из пунктов моего списка дел перед свадьбой.",
+      "FRENCH": "Mais sortir avec quelqu’un en uniforme scolaire était sur ma bucket list avant de me marier.",
+      "THAI": "แต่เดตในชุดนักเรียนเป็นหนึ่งในสิ่งที่อยากทำก่อนแต่งงาน!"
+    },
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 40.2
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "얼른 일어나!",
+      "ENGLISH": "Get up!",
+      "CHINESE_SIMPLIFIED": "快起来!",
+      "CHINESE_TRADITIONAL": "快起來!",
+      "JAPANESE": "さあ、早く立って！",
+      "INDONESIAN": "Ayo bangun!",
+      "PORTUGUESE": "Levanta!",
+      "RUSSIAN": "Вставай!",
+      "FRENCH": "Allez, debout !",
+      "THAI": "ลุกขึ้น!"
+    },
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 41.2
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "가자!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "跟我走吧!",
+      "CHINESE_TRADITIONAL": "跟我走吧!",
+      "JAPANESE": "遊びに行こう！",
+      "INDONESIAN": "Kita pergi sekarang!",
+      "PORTUGUESE": "Vamos!",
+      "RUSSIAN": "Пошли!",
+      "FRENCH": "On y va !",
+      "THAI": "ไปกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 42.0
+    }
+  }
+]

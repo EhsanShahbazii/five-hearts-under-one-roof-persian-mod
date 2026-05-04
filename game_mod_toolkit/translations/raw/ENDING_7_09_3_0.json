@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "お！",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어! 말숙아!",
+      "ENGLISH": "Hey, Mal-sook!",
+      "CHINESE_SIMPLIFIED": "高末淑!",
+      "CHINESE_TRADITIONAL": "高末淑!",
+      "JAPANESE": "マルスク！",
+      "INDONESIAN": "Hei, Mal-sook!",
+      "PORTUGUESE": "Ei, Mal-sook!",
+      "RUSSIAN": "Эй, Мал-сук!",
+      "FRENCH": "Hé, Mal-sook !",
+      "THAI": "เฮ้ มัลซุก!"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "야 너 왜 이렇게 요즘 연락이 안 됐...",
+      "ENGLISH": "Why haven’t you been answering my calls lately...!?",
+      "CHINESE_SIMPLIFIED": "喂!你最近怎么都不接电话..",
+      "CHINESE_TRADITIONAL": "喂!你最近怎麼都不接電話..",
+      "JAPANESE": "何で、最近連絡取れなかったんだよ…",
+      "INDONESIAN": "Kenapa akhir-akhir ini kamu nggak angkat teleponku...!?",
+      "PORTUGUESE": "Por que você não tem atendido minhas ligações ultimamente...!?",
+      "RUSSIAN": "Почему ты не отвечала на мои звонки в последнее время...!?",
+      "FRENCH": "Pourquoi tu n’as pas répondu à mes appels dernièrement...!?",
+      "THAI": "ทำไมเธอไม่รับสายฉันเลยช่วงนี้...!?"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "가자!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "走吧!",
+      "CHINESE_TRADITIONAL": "走吧!",
+      "JAPANESE": "行こう！",
+      "INDONESIAN": "Ayo pergi!",
+      "PORTUGUESE": "Vamos lá!",
+      "RUSSIAN": "Пойдём!",
+      "FRENCH": "Allons-y !",
+      "THAI": "ไปกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "가자. ",
+      "ENGLISH": "Let’s go.",
+      "CHINESE_SIMPLIFIED": "走吧~",
+      "CHINESE_TRADITIONAL": "走吧~",
+      "JAPANESE": "行こう。",
+      "INDONESIAN": "Ayo pergi.",
+      "PORTUGUESE": "Vamos lá.",
+      "RUSSIAN": "Пойдём.",
+      "FRENCH": "Allons-y.",
+      "THAI": "ไปกันเถอะ"
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 먹을까?",
+      "ENGLISH": "What do you want to eat?",
+      "CHINESE_SIMPLIFIED": "我们吃什么好呢?",
+      "CHINESE_TRADITIONAL": "我們吃什麼好呢?",
+      "JAPANESE": "何、食べようか？",
+      "INDONESIAN": "Kamu mau makan apa?",
+      "PORTUGUESE": "O que você quer comer?",
+      "RUSSIAN": "Что хочешь поесть?",
+      "FRENCH": "Qu’est-ce que tu veux manger ?",
+      "THAI": "เธออยากกินอะไร?"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "음... 나는 라면!",
+      "ENGLISH": "Hmm... Ramen!",
+      "CHINESE_SIMPLIFIED": "嗯…我想吃方便面!",
+      "CHINESE_TRADITIONAL": "嗯…我想吃方便麪!",
+      "JAPANESE": "うーん…ラーメンは、どう？",
+      "INDONESIAN": "Hmm... Ramen!",
+      "PORTUGUESE": "Hmm... Lámen!",
+      "RUSSIAN": "Хмм... Рамен!",
+      "FRENCH": "Hmm... Ramen !",
+      "THAI": "อืม... ราเมน!"
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.0
+    }
+  }
+]

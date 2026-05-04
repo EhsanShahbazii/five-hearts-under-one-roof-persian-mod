@@ -1,0 +1,221 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "됐다, 그냥 설거지나 하자.",
+      "ENGLISH": "Alright, let’s just do the dishes.",
+      "CHINESE_SIMPLIFIED": "好了，现在刷碗吧",
+      "CHINESE_TRADITIONAL": "好了，現在刷碗吧",
+      "JAPANESE": "よし、皿洗いでもしようかな。",
+      "INDONESIAN": "Oke, ayo cuci piring aja.",
+      "PORTUGUESE": "Certo, vamos lavar a louça.",
+      "RUSSIAN": "Ладно, давай просто помоем посуду.",
+      "FRENCH": "Bon, faisons juste la vaisselle.",
+      "THAI": "เอาล่ะ ไปทำความสะอาดจานกันเถอะ",
+      "PERSIAN": "خوب، بیا فقط ظرف ها را بشویم."
+    },
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이거 다 한 것 좀 위에 올려놔 주라.",
+      "ENGLISH": "Put these away when you're done.",
+      "CHINESE_SIMPLIFIED": "你把刷好的这些放到上面",
+      "CHINESE_TRADITIONAL": "你把刷好的這些放到上面",
+      "JAPANESE": "洗い終わったやつ、上に置いておいてくれない？",
+      "INDONESIAN": "Simpan ini setelah selesai, ya.",
+      "PORTUGUESE": "Guarde isso quando terminar.",
+      "RUSSIAN": "Поставь это на место, когда закончишь.",
+      "FRENCH": "Range-les quand tu as fini.",
+      "THAI": "จัดเก็บพวกนี้ด้วยนะ",
+      "PERSIAN": "وقتی کارتان تمام شد اینا رو کنار بگذارید."
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이것 좀 올려놔 주라고!",
+      "ENGLISH": "Put this up for me!",
+      "CHINESE_SIMPLIFIED": "刷好的放到上面",
+      "CHINESE_TRADITIONAL": "刷好的放到上面",
+      "JAPANESE": "上に置いておいてって言ってるの！",
+      "INDONESIAN": "Tolong taruh ini buat aku!",
+      "PORTUGUESE": "Guarda isso pra mim!",
+      "RUSSIAN": "Подними это за меня!",
+      "FRENCH": "Tu peux mettre ça en haut pour moi ?",
+      "THAI": "ช่วยยกขึ้นไปหน่อยสิ!",
+      "PERSIAN": "اینو برای من بگذار!"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "야! 이것 좀 올려달라니까?",
+      "ENGLISH": "Hey, put this up!",
+      "CHINESE_SIMPLIFIED": "我说放到上面！",
+      "CHINESE_TRADITIONAL": "我說放到上面！",
+      "JAPANESE": "ちょっと！これ、上に置いてって言ってるじゃない！",
+      "INDONESIAN": "Hei, taruh ini, dong!",
+      "PORTUGUESE": "Ei, guarda isso!",
+      "RUSSIAN": "Эй, подними это!",
+      "FRENCH": "Hé, mets ça en haut !",
+      "THAI": "เฮ้ ยกขึ้นไปเลย!",
+      "PERSIAN": "هی، اینو بگذار!"
+    },
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어? 어...",
+      "ENGLISH": "Okay, okay.",
+      "CHINESE_SIMPLIFIED": "来了来了",
+      "CHINESE_TRADITIONAL": "來了來了",
+      "JAPANESE": "え？え...",
+      "INDONESIAN": "Iya, iya.",
+      "PORTUGUESE": "Tá bom, tá bom.",
+      "RUSSIAN": "Хорошо, хорошо.",
+      "FRENCH": "D’accord, d’accord.",
+      "THAI": "โอเคๆ",
+      "PERSIAN": "Okay, okay."
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "이거?",
+      "ENGLISH": "This?",
+      "CHINESE_SIMPLIFIED": "这些?",
+      "CHINESE_TRADITIONAL": "這些?",
+      "JAPANESE": "これ？",
+      "INDONESIAN": "Ini?",
+      "PORTUGUESE": "Isso?",
+      "RUSSIAN": "Вот это?",
+      "FRENCH": "Ça ?",
+      "THAI": "อันนี้เหรอ?",
+      "PERSIAN": "This?"
+    },
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 18.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 그리고 그 전에 내 머리 좀 넘겨줘.",
+      "ENGLISH": "Oh, and before that, can you push my hair back?",
+      "CHINESE_SIMPLIFIED": "嗯嗯，不过先帮我收一下头发",
+      "CHINESE_TRADITIONAL": "嗯嗯，不過先幫我收一下頭髮",
+      "JAPANESE": "あ、それと、髪の毛後ろに分けてくれる？",
+      "INDONESIAN": "Oh, sebelum itu, bisa tolong rapikan rambutku?",
+      "PORTUGUESE": "Ah, e antes disso, pode dar uma ajeitada no meu cabelo?",
+      "RUSSIAN": "О, и прежде чем это сделать, можешь убрать мне волосы назад?",
+      "FRENCH": "Oh, et avant ça, tu peux repousser mes cheveux ?",
+      "THAI": "โอ้ ก่อนหน้านั้น ช่วยดันผมของฉันกลับไปหน่อยได้ไหม?",
+      "PERSIAN": "اوه، و قبل از اون، می توانید موهای من را عقب ببرید؟"
+    },
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어어.",
+      "ENGLISH": "Okay",
+      "CHINESE_SIMPLIFIED": "哦! 哦哦",
+      "CHINESE_TRADITIONAL": "哦! 哦哦",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Ok.",
+      "RUSSIAN": "Конечно.",
+      "FRENCH": "Bien sûr.",
+      "THAI": "โอเค",
+      "PERSIAN": "باشه"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh, sure.",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Oh, tentu.",
+      "PORTUGUESE": "Claro.",
+      "RUSSIAN": "А, ну ладно.",
+      "FRENCH": "Euh, d’accord.",
+      "THAI": "เอ่อ ก็ได้",
+      "PERSIAN": "اوه، حتما"
+    },
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 23.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜 이러세요!",
+      "ENGLISH": "Why are you like this!",
+      "CHINESE_SIMPLIFIED": "啊!你这是干什么!",
+      "CHINESE_TRADITIONAL": "啊!你這是幹什麼!",
+      "JAPANESE": "ちょっと、やめてくださいよ！",
+      "INDONESIAN": "Kenapa sih kamu kayak gini!",
+      "PORTUGUESE": "Por que você é assim!",
+      "RUSSIAN": "Да что с тобой ",
+      "FRENCH": "Mais qu’est-ce qu’il te",
+      "THAI": "ทำไมเธอถึงเป็นแบบนี้!",
+      "PERSIAN": "چرا اینجوری شدی!"
+    },
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 30.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "такое?!",
+      "FRENCH": "prend ?!",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 30.9
+    }
+  }
+]

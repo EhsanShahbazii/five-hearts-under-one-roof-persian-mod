@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "포부로 이행시 해보겠습니다!",
+      "ENGLISH": "Let me do an acrostic poem with 'Ambition!'",
+      "CHINESE_SIMPLIFIED": "我打算用‘抱负’做首藏头诗!",
+      "CHINESE_TRADITIONAL": "我打算用‘抱負’做首藏頭詩!",
+      "JAPANESE": "抱負の文字で作ります！",
+      "INDONESIAN": "Biar aku buat puisi akrostik dengan kata 'Ambisi!'",
+      "PORTUGUESE": "Deixe-me fazer um poema acróstico com 'Ambição!'",
+      "RUSSIAN": "Позволь мне сделать акростих с \"Амбиция\"!",
+      "FRENCH": "Laisse-moi faire un poème acrostiche avec « Ambition » !",
+      "THAI": "ขอลองแต่งกลอนแปดตัวอักษรคำว่า \"Ambition\" ดูหน่อยนะ!",
+      "PERSIAN": "بگذارید یک شعر آکروستیک با \"جاه طلبی!\""
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "포",
+      "ENGLISH": "A",
+      "CHINESE_SIMPLIFIED": "抱",
+      "CHINESE_TRADITIONAL": "抱",
+      "JAPANESE": "「ほ」",
+      "INDONESIAN": "A",
+      "PORTUGUESE": "A",
+      "RUSSIAN": "А",
+      "FRENCH": "A",
+      "THAI": "A",
+      "PERSIAN": "الف"
+    },
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "포부는",
+      "ENGLISH": "Ambition",
+      "CHINESE_SIMPLIFIED": "抱负是",
+      "CHINESE_TRADITIONAL": "抱負是",
+      "JAPANESE": "「抱負は」",
+      "INDONESIAN": "Ambisi",
+      "PORTUGUESE": "Ambição",
+      "RUSSIAN": "Амбиция",
+      "FRENCH": "Ambition",
+      "THAI": "Ambition",
+      "PERSIAN": "جاه طلبی"
+    },
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "부",
+      "ENGLISH": "B",
+      "CHINESE_SIMPLIFIED": "负",
+      "CHINESE_TRADITIONAL": "負",
+      "JAPANESE": "「ふ」",
+      "INDONESIAN": "M",
+      "PORTUGUESE": "N",
+      "RUSSIAN": "Б",
+      "FRENCH": "B",
+      "THAI": "B",
+      "PERSIAN": "ب"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "부모님께 직접 말씀드리겠습니다.",
+      "ENGLISH": "Before my parents I'll tell them directly.",
+      "CHINESE_SIMPLIFIED": "父母都能祝愿我俩",
+      "CHINESE_TRADITIONAL": "父母都能祝願我倆",
+      "JAPANESE": "「父母に直接伝えます！」",
+      "INDONESIAN": "Menghadap orang tuaku langsung dan bilang.",
+      "PORTUGUESE": "Na frente dos meus pais, vou dizer diretamente.",
+      "RUSSIAN": "Быть честным перед родителями, скажу им напрямую.",
+      "FRENCH": "Bien devant mes parents, je leur dirai directement.",
+      "THAI": "บอกพ่อแม่ของฉันตรงๆ ไปเลย",
+      "PERSIAN": "قبل از والدینم مستقیماً به اونا می گویم."
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "... 그러도록 하게. 젊은이의 사랑을 응원하겠네.",
+      "ENGLISH": "... Go ahead. I'll support young love.",
+      "CHINESE_SIMPLIFIED": "但愿你真能做到吧，加油年轻人!",
+      "CHINESE_TRADITIONAL": "但願你真能做到吧，加油年輕人!",
+      "JAPANESE": "…そうするといい。若者の愛を応援するよ。",
+      "INDONESIAN": "... Lakukan saja. Aku dukung cinta anak muda.",
+      "PORTUGUESE": "... Vá em frente. Eu apoio o amor jovem.",
+      "RUSSIAN": "... Давай. Я поддержу молодую любовь.",
+      "FRENCH": "... Vas-y. Je soutiendrai l’amour des jeunes.",
+      "THAI": "... เอาสิ ผมสนับสนุนความรักของวัยรุ่น!",
+      "PERSIAN": "... برو جلو. من از عشق جوان حمایت خواهم کرد."
+    },
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.0
+    }
+  }
+]

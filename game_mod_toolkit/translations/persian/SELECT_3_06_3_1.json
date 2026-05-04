@@ -1,0 +1,202 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa! ",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!",
+      "PERSIAN": "Oppa!"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이거 오빠 닮았다!",
+      "ENGLISH": "This character looks like you!",
+      "CHINESE_SIMPLIFIED": "这个和你好像!",
+      "CHINESE_TRADITIONAL": "這個和你好像!",
+      "JAPANESE": "これ、お兄ちゃんに似てる！",
+      "INDONESIAN": "Karakter ini mirip kamu!",
+      "PORTUGUESE": "Esse personagem parece com você!",
+      "RUSSIAN": "Этот персонаж похож на тебя!",
+      "FRENCH": "Ce personnage te ressemble !",
+      "THAI": "ตัวละครนี้เหมือนนายเลย!",
+      "PERSIAN": "این شخصیت شبیه شماست!"
+    },
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이거?",
+      "ENGLISH": "This one?",
+      "CHINESE_SIMPLIFIED": "这个?",
+      "CHINESE_TRADITIONAL": "這個?",
+      "JAPANESE": "これ？",
+      "INDONESIAN": "Yang ini?",
+      "PORTUGUESE": "Esse aqui?",
+      "RUSSIAN": "Вот этот?",
+      "FRENCH": "Celui-là ?",
+      "THAI": "ตัวนี้เหรอ?",
+      "PERSIAN": "این یکی؟"
+    },
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "对!",
+      "CHINESE_TRADITIONAL": "對!",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "RUSSIAN": "Да!",
+      "FRENCH": "Oui !",
+      "THAI": "ใช่!",
+      "PERSIAN": "آره!"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이거... 이목구비가 이상한데?",
+      "ENGLISH": "The features are... weird though.",
+      "CHINESE_SIMPLIFIED": "这个脸长得好奇怪!",
+      "CHINESE_TRADITIONAL": "這個臉長得好奇怪!",
+      "JAPANESE": "これ…顔のパーツが変じゃないか？",
+      "INDONESIAN": "Tapi mukanya... aneh sih.",
+      "PORTUGUESE": "Mas os traços dele... são meio estranhos.",
+      "RUSSIAN": "Но у него черты лица какие-то странные.",
+      "FRENCH": "Mais ses traits sont un peu bizarres.",
+      "THAI": "แต่ลักษณะหน้าตามันแปลก ๆ นะ.",
+      "PERSIAN": "ویژگی ها ... عجیب و غریب هستند."
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "응! 그니까!",
+      "ENGLISH": "Exactly!",
+      "CHINESE_SIMPLIFIED": "嗯！所以说啊!",
+      "CHINESE_TRADITIONAL": "嗯！所以說啊!",
+      "JAPANESE": "うん！だからだよ！",
+      "INDONESIAN": "Persis!",
+      "PORTUGUESE": "Exatamente!",
+      "RUSSIAN": "Точно!",
+      "FRENCH": "Exactement !",
+      "THAI": "ใช่เลย!",
+      "PERSIAN": "Exactly!"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아하...",
+      "ENGLISH": "Haha...",
+      "CHINESE_SIMPLIFIED": "啊哈…",
+      "CHINESE_TRADITIONAL": "啊哈…",
+      "JAPANESE": "ああ…",
+      "INDONESIAN": "Haha...",
+      "PORTUGUESE": "Haha...",
+      "RUSSIAN": "Ха-ха...",
+      "FRENCH": "Haha...",
+      "THAI": "ฮ่า ๆ...",
+      "PERSIAN": "هاها..."
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 빨리 돈!",
+      "ENGLISH": "Oppa, hurry and pay!",
+      "CHINESE_SIMPLIFIED": "哥哥! 快！钱！",
+      "CHINESE_TRADITIONAL": "哥哥! 快！錢！",
+      "JAPANESE": "お兄ちゃん、早くお金出して！",
+      "INDONESIAN": "Oppa, cepetan bayar!",
+      "PORTUGUESE": "Oppa, paga logo!",
+      "RUSSIAN": "Оппа, давай быстрее плати!",
+      "FRENCH": "Oppa, dépêche-toi de payer !",
+      "THAI": "อปป้า รีบจ่ายเงินเร็ว!",
+      "PERSIAN": "یومان، عجله کن و پرداخت کن!"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "이얍!",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "嘿咻!",
+      "CHINESE_TRADITIONAL": "嘿咻!",
+      "JAPANESE": "えいっ！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Entendido!",
+      "RUSSIAN": "Понял!",
+      "FRENCH": "C’est bon !",
+      "THAI": "ได้เลย!",
+      "PERSIAN": "Got it!"
+    },
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 33.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "오오!!",
+      "ENGLISH": "Woohoo!!",
+      "CHINESE_SIMPLIFIED": "哦哦!!",
+      "CHINESE_TRADITIONAL": "哦哦!!",
+      "JAPANESE": "おおっ！！",
+      "INDONESIAN": "Wuhuu!!",
+      "PORTUGUESE": "Uhuuu!!",
+      "RUSSIAN": "Ура!!",
+      "FRENCH": "Youhou !!",
+      "THAI": "เย้!!",
+      "PERSIAN": "وای !!"
+    },
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 35.0
+    }
+  }
+]

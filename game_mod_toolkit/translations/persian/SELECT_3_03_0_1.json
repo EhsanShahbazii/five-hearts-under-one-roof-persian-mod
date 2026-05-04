@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우리 동네에서는 이런 사람 본 적이 없는데...",
+      "ENGLISH": "I’ve never seen anyone like this around here...",
+      "CHINESE_SIMPLIFIED": "这好像不是我们小区的人啊…",
+      "CHINESE_TRADITIONAL": "這好像不是我們小區的人啊…",
+      "JAPANESE": "うちの近所で、こんな人見たことないけど…",
+      "INDONESIAN": "Aku belum pernah lihat orang seperti dia di sekitar sini...",
+      "PORTUGUESE": "Nunca vi alguém assim por aqui...",
+      "RUSSIAN": "Никогда раньше не видел кого-то такого здесь...",
+      "FRENCH": "Je n’ai jamais vu quelqu’un comme ça ici...",
+      "THAI": "ไม่เคยเห็นใครแบบนี้แถวนี้มาก่อนเลย...",
+      "PERSIAN": "من تا حالا اینجور کسی رو اینجا ندیده بودم..."
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "我说! ",
+      "CHINESE_TRADITIONAL": "我說!",
+      "JAPANESE": "あの！",
+      "INDONESIAN": "Permisi!",
+      "PORTUGUESE": "Com licença!",
+      "RUSSIAN": "Извините!",
+      "FRENCH": "Excusez-moi !",
+      "THAI": "ขอโทษครับ/ค่ะ!",
+      "PERSIAN": "Excuse me!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어? 저기요! 저기요!",
+      "ENGLISH": "Huh? Excuse me! Excuse me!",
+      "CHINESE_SIMPLIFIED": "喂！嗯? 前面那个人!",
+      "CHINESE_TRADITIONAL": "喂！嗯? 前面那個人!",
+      "JAPANESE": "え？ちょっと！ちょっと！",
+      "INDONESIAN": "Hah? Permisi! Permisi!",
+      "PORTUGUESE": "Hã? Com licença! Com licença!",
+      "RUSSIAN": "А? Извините! Извините!",
+      "FRENCH": "Hein ? Excusez-moi ! Excusez-moi !",
+      "THAI": "ห๊ะ? ขอโทษครับ/ค่ะ! ขอโทษครับ/ค่ะ!",
+      "PERSIAN": "ها؟ ببخشید! ببخشید!"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야... 망치?",
+      "ENGLISH": "What the? A hammer?",
+      "CHINESE_SIMPLIFIED": "什么呀? 锤子?",
+      "CHINESE_TRADITIONAL": "什麼呀? 錘子?",
+      "JAPANESE": "何だよ…ハンマー？",
+      "INDONESIAN": "Apa-apaan? Palu?",
+      "PORTUGUESE": "O quê? Um martelo?",
+      "RUSSIAN": "Что за...? Молоток?",
+      "FRENCH": "Quoi ? Un marteau ?",
+      "THAI": "อะไรนะ? ค้อนเหรอ?",
+      "PERSIAN": "چی؟ چکش؟"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "망치가 왜 여기에...",
+      "ENGLISH": "Why is there a hammer here...?",
+      "CHINESE_SIMPLIFIED": "他包里怎么会有锤子呢…",
+      "CHINESE_TRADITIONAL": "他包裏怎麼會有錘子呢…",
+      "JAPANESE": "何でハンマーがここに…",
+      "INDONESIAN": "Kenapa ada palu di sini...?",
+      "PORTUGUESE": "Por que tem um martelo aqui...?",
+      "RUSSIAN": "Почему здесь лежит молоток...?",
+      "FRENCH": "Pourquoi il y a un marteau ici...?",
+      "THAI": "ทำไมมีค้อนอยู่ที่นี่...?",
+      "PERSIAN": "چرا اینجا چکش هست...؟"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "사람들한테도 조심하라고 말해야겠다.",
+      "ENGLISH": "I should warn the others.",
+      "CHINESE_SIMPLIFIED": "我得告诉大家让大家小心",
+      "CHINESE_TRADITIONAL": "我得告訴大家讓大家小心",
+      "JAPANESE": "他の人にも気をつけるように言わなきゃ。",
+      "INDONESIAN": "Aku harus memperingatkan yang lain.",
+      "PORTUGUESE": "Eu preciso avisar os outros.",
+      "RUSSIAN": "Надо предупредить остальных.",
+      "FRENCH": "Je devrais prévenir les autres.",
+      "THAI": "ฉันต้องไปเตือนคนอื่นแล้ว.",
+      "PERSIAN": "باید به بقیه تذکر بدهم"
+    },
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 28.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "위험한 사람이네...",
+      "ENGLISH": "This person seems dangerous...",
+      "CHINESE_SIMPLIFIED": "这人绝对有问题",
+      "CHINESE_TRADITIONAL": "這人絕對有問題",
+      "JAPANESE": "危ない人だな…",
+      "INDONESIAN": "Orang seperti dia kelihatannya berbahaya...",
+      "PORTUGUESE": "Essa pessoa parece perigosa...",
+      "RUSSIAN": "Этот человек кажется опасным...",
+      "FRENCH": "Cette personne a l’air dangereuse...",
+      "THAI": "คนนี้ดูอันตราย...",
+      "PERSIAN": "این شخص خطرناک به نظر می رسد ..."
+    },
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 30.7
+    }
+  }
+]

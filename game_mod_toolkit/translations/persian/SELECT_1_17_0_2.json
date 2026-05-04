@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "답은 100입니다.",
+      "ENGLISH": "The answer is 100!",
+      "CHINESE_SIMPLIFIED": "答案是100",
+      "CHINESE_TRADITIONAL": "答案是100",
+      "JAPANESE": "100だと思います！",
+      "INDONESIAN": "Jawabannya 100!",
+      "PORTUGUESE": "A resposta é 100!",
+      "RUSSIAN": "Ответ — 100!",
+      "FRENCH": "La réponse est 100 !",
+      "THAI": "คำตอบคือ 100!",
+      "PERSIAN": "جواب 100 است!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    }
+  }
+]

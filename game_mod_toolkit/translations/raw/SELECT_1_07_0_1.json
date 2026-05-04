@@ -1,0 +1,173 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 넌 어차피 뒤질 거 왜 사냐?",
+      "ENGLISH": "Why do you keep living when you’re gonna die anyway?",
+      "CHINESE_SIMPLIFIED": "反正你总要死的还活着干嘛",
+      "CHINESE_TRADITIONAL": "反正你總要死的還活着幹嘛",
+      "JAPANESE": "どうせ破綻目前のくせに",
+      "INDONESIAN": "Kenapa kamu terus hidup kalau ujung-ujungnya bakal mati juga?",
+      "PORTUGUESE": "Por que você continua vivendo se vai morrer de qualquer jeito?",
+      "RUSSIAN": "Почему ты продолжаешь жить, если всё равно умрёшь?",
+      "FRENCH": "Pourquoi tu continues de vivre si tu vas mourir de toute façon ?",
+      "THAI": "ทำไมยังใช้ชีวิตอยู่ ในเมื่อสุดท้ายก็ต้องตายอยู่ดี?"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "— Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "ห้ะ?"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아버지 회사라서 겨우 돈이나 버는 게.",
+      "ENGLISH": "You’re just working at your dad’s company to make a living.",
+      "CHINESE_SIMPLIFIED": "还不是靠老爸的公司才勉强赚点钱",
+      "CHINESE_TRADITIONAL": "還不是靠老爸的公司才勉強賺點錢",
+      "JAPANESE": "親父の会社だから、辛うじて稼げてるだけだろ。",
+      "INDONESIAN": "Kamu cuma kerja di perusahaan ayahmu buat cari nafkah.",
+      "PORTUGUESE": "Você só trabalha na empresa do seu pai pra ganhar a vida.",
+      "RUSSIAN": "Ты просто работаешь в компании своего отца, чтобы заработать на жизнь.",
+      "FRENCH": "Tu bosses juste dans la boîte de ton père pour gagner ta vie.",
+      "THAI": "นายก็แค่ทำงานกับบริษัทพ่อ เพื่อหาเลี้ยงชีพเท่านั้นเอง"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 인마?",
+      "ENGLISH": "What did you say?",
+      "CHINESE_SIMPLIFIED": "臭小子，说什么呢?",
+      "CHINESE_TRADITIONAL": "臭小子，說什麼呢?",
+      "JAPANESE": "何だと…？",
+      "INDONESIAN": "Kamu barusan bilang apa?",
+      "PORTUGUESE": "O que você disse?",
+      "RUSSIAN": "Что ты сказал?",
+      "FRENCH": "T’as dit quoi ?",
+      "THAI": "ว่าไงนะ?"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이 대화 자체가 내 인생의 누수다.",
+      "ENGLISH": "This whole conversation is a waste of my time.",
+      "CHINESE_SIMPLIFIED": "跟你说话都是在浪费我的人生。",
+      "CHINESE_TRADITIONAL": "跟你說話都是在浪費我的人生。",
+      "JAPANESE": "この会話自体、人生の無駄だ。",
+      "INDONESIAN": "Ngobrol begini cuma buang-buang waktu.",
+      "PORTUGUESE": "Essa conversa toda é só perda de tempo.",
+      "RUSSIAN": "Этот разговор пустая трата времени.",
+      "FRENCH": "Cette conversation est une perte de temps.",
+      "THAI": "คุยเรื่องนี้เสียเวลาฉันชะมัด"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "말숙아 나 간다?",
+      "ENGLISH": "See you, Malsook.",
+      "CHINESE_SIMPLIFIED": "末淑我先走了啊。",
+      "CHINESE_TRADITIONAL": "末淑我先走了啊。",
+      "JAPANESE": "マルスク、俺行くわ。",
+      "INDONESIAN": "Sampai jumpa, Mal-sook.",
+      "PORTUGUESE": "Até mais, Mal-sook.",
+      "RUSSIAN": "Увидимся, Мал-сук.",
+      "FRENCH": "À plus, Mal-sook.",
+      "THAI": "เจอกันนะ มัลซุก"
+    },
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어~ 합격하면 나중에 크게 한번 쏴~",
+      "ENGLISH": "Yeah, if you pass, treat us big time later!",
+      "CHINESE_SIMPLIFIED": "嗯~面试合格了的话记得请我吃大餐哦~",
+      "CHINESE_TRADITIONAL": "嗯~面試合格了的話記得請我吃大餐哦~",
+      "JAPANESE": "あ！合格したら絶対奢ってよね！",
+      "INDONESIAN": "Iya, kalau kamu lolos, traktir besar-besaran nanti ya!",
+      "PORTUGUESE": "É, se você passar, paga um banquete pra gente depois!",
+      "RUSSIAN": "Ага, если поступишь, угощай нас по-крупному!",
+      "FRENCH": "Ouais, si tu réussis, tu nous invites grave après !",
+      "THAI": "เออ ถ้าผ่านแล้ว เลี้ยงใหญ่เลยนะเว้ย!"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "응. 이력서 가져간다~",
+      "ENGLISH": "I'm taking my resume~",
+      "CHINESE_SIMPLIFIED": "简历我拿走了啊~",
+      "CHINESE_TRADITIONAL": "簡歷我拿走了啊~",
+      "JAPANESE": "履歴書持っていくよ。",
+      "INDONESIAN": "Aku ambil resume-ku~",
+      "PORTUGUESE": "Vou pegar meu currículo~",
+      "RUSSIAN": "Я забираю своё резюме~",
+      "FRENCH": "Je prends mon CV~",
+      "THAI": "ฉันจะเอาเรซูเม่กลับละ~"
+    },
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "...어우 쫄려;",
+      "ENGLISH": "... Man, I'm nervous.",
+      "CHINESE_SIMPLIFIED": "…啊，紧张死了",
+      "CHINESE_TRADITIONAL": "…啊，緊張死了",
+      "JAPANESE": "…うわ、緊張するな。",
+      "INDONESIAN": "... Duh, deg-degan nih.",
+      "PORTUGUESE": "... Nossa, tô nervoso.",
+      "RUSSIAN": "…Чёрт, я нервничаю.",
+      "FRENCH": "... Bordel, je stresse.",
+      "THAI": "...โห ตื่นเต้นจัง"
+    },
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.5
+    }
+  }
+]

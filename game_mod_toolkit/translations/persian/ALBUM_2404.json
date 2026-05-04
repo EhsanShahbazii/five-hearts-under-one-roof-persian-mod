@@ -1,0 +1,496 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 내 얼굴은 10점 만점에 몇 점?\n아.. 잠시 몰입을 해보자면",
+      "ENGLISH": "Q: How would you rate your face on a scale of 1 to 10?\nHmm… if I’m fully in character right now (laughs).",
+      "CHINESE_SIMPLIFIED": "Q. 外貌打分，10分满分的话给自己打几分？\n 啊... 稍微代入一下的话",
+      "CHINESE_TRADITIONAL": "Q. 外貌打分，10分滿分的話給自己打幾分？\n 啊... 稍微代入一下的話",
+      "JAPANESE": "Q. 自分の顔は10点中何点？\nキャラクタニーのめり込んで言えば",
+      "PERSIAN": "س: به چهره خود در مقیاس 1 تا 10 چه امتیازی می دهید؟ هوم... اگر در حال حاضر کاملاً در شخصیت باشم (می خندد)."
+    },
+    "TIME": {
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "(게임 속에서) 자기애가 강한 캐릭터이기 때문에",
+      "ENGLISH": "Since my character is super confident, ",
+      "CHINESE_SIMPLIFIED": "(在游戏里)是个很自恋的角色",
+      "CHINESE_TRADITIONAL": "(在遊戲裏)是個很自戀的角色",
+      "JAPANESE": "（ゲーム内で）自己愛が強いキャラクターだから",
+      "PERSIAN": "از آنجایی که شخصیت من فوق العاده مطمئن است،"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 5.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "10점!",
+      "ENGLISH": "I’d say 10!",
+      "CHINESE_SIMPLIFIED": "10分！",
+      "CHINESE_TRADITIONAL": "10分！",
+      "JAPANESE": "10点！",
+      "PERSIAN": "من می گویم 10!"
+    },
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 실제 MBTI가 어떻게 되나요?\n실제 MBTI는 ISFJ입니다. ",
+      "ENGLISH": "Q: What’s your real-life MBTI?\nI’m actually an ISFJ.",
+      "CHINESE_SIMPLIFIED": "Q. 实际MBTI是多少？\n 实际MBTI是ISFJ",
+      "CHINESE_TRADITIONAL": "Q. 實際MBTI是多少？\n 實際MBTI是ISFJ",
+      "JAPANESE": "Q. 実際のMBTIは？\n実際のMBTIはISFJです。\n",
+      "PERSIAN": "س: MBTI واقعی شما چیه؟ من در واقع یک ISFJ هستم."
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 캐릭터의 MBTI는?\nENFJ?",
+      "ENGLISH": "Q: And what about your character’s MBTI?\nENFJ?",
+      "CHINESE_SIMPLIFIED": "Q. 角色的MBTI是？\nENFJ?",
+      "CHINESE_TRADITIONAL": "Q. 角色的MBTI是？\nENFJ?",
+      "JAPANESE": "Q. キャラクターのMBTIは？ENFJ？",
+      "PERSIAN": "س: و در مورد MBTI شخصیت شما چطور؟ ENFJ؟"
+    },
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "ENFP!!",
+      "ENGLISH": "ENFP!!",
+      "CHINESE_SIMPLIFIED": "ENFP!!",
+      "CHINESE_TRADITIONAL": "ENFP!!",
+      "JAPANESE": "ENFPだ！",
+      "PERSIAN": "ENFP!!"
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "대책 없이 한국으로 넘어온 거 보면",
+      "ENGLISH": "I mean, just look at how recklessly she came to Korea. ",
+      "CHINESE_SIMPLIFIED": "毫无计划地回到韩国",
+      "CHINESE_TRADITIONAL": "毫無計劃地回到韓國",
+      "JAPANESE": "無計画で韓国に帰国するくらいだから",
+      "PERSIAN": "منظورم این است که ببین چقدر بی پروا به کره آمده است."
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "P가 확실합니다. ",
+      "ENGLISH": "She’s totally a P.",
+      "CHINESE_SIMPLIFIED": "确实是P人",
+      "CHINESE_TRADITIONAL": "確實是P人",
+      "JAPANESE": "確実にPだと思います。",
+      "PERSIAN": "او کاملاً یک P است."
+    },
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 본인 외모로 살기 vs 10억 받고 얼굴 랜덤 돌리기\n안 돌린다. ",
+      "ENGLISH": "Q: Would you rather live with your current appearance or get $10 million but a random new face?\n I’m keeping this face.",
+      "CHINESE_SIMPLIFIED": "Q. 以自己的脸生活 VS 获得10亿后随机换脸\n 我不想换脸",
+      "CHINESE_TRADITIONAL": "Q. 以自己的臉生活 VS 獲得10億後隨機換臉\n 我不想換臉",
+      "JAPANESE": "Q. 自分の顔で生きる vs 10億もらってランダムに顔を変える\n変えません。",
+      "PERSIAN": "س: ترجیح می دهید با ظاهر فعلی خود زندگی کنید یا 10 میلیون دلار اما یک چهره جدید تصادفی بگیرید؟ من این چهره را حفظ می کنم"
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 근데 (인터뷰 중인 제작진) 너무 놀라시는 거 아니에요?",
+      "ENGLISH": "But really, (laughs) you guys seem a little too shocked that I’m not taking the deal.",
+      "CHINESE_SIMPLIFIED": "啊 但是(采访中的制作组) 是不是太惊讶了？",
+      "CHINESE_TRADITIONAL": "啊 但是(採訪中的製作組) 是不是太驚訝了？",
+      "JAPANESE": "（インタビュー中のスタッフ）驚きすぎじゃないですか？",
+      "PERSIAN": "اما واقعاً، (می خندد) به نظر می رسد که شما از اینکه من این معامله را قبول نمی کنم، کمی خیلی شوکه شده اید."
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "(마치) '본인 외모로...?'",
+      "ENGLISH": "What’s with the “Wait, your current face…?”",
+      "CHINESE_SIMPLIFIED": "(好像在说) \"用这张脸吗...？\"",
+      "CHINESE_TRADITIONAL": "(好像在說) \"用這張臉嗎...？\"",
+      "JAPANESE": "（まるで）「まさかその顔で…？」みたいな。（笑）",
+      "PERSIAN": "\"صبر کن، چهره فعلی تو...؟\""
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 나의 장점은 '얼굴 vs 몸매'\n얼굴.",
+      "ENGLISH": "Q: What’s better—your face or your body?\nMy face.",
+      "CHINESE_SIMPLIFIED": "Q.你认为本人的长处是 脸蛋vs身材\n脸蛋",
+      "CHINESE_TRADITIONAL": "Q.你認爲本人的長處是 臉蛋vs身材\n臉蛋",
+      "JAPANESE": "Q. 自分の長所は「顔 vs スタイル」\n顔です。",
+      "PERSIAN": "س: چه چیزی بهتر است - صورت شما یا بدن شما؟ صورت من"
+    },
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.2
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아무래도 몸매는...",
+      "ENGLISH": "I mean, you can kind of fake",
+      "CHINESE_SIMPLIFIED": "不管怎么说身材...",
+      "CHINESE_TRADITIONAL": "不管怎麼說身材...",
+      "JAPANESE": "やっぱり体型は…",
+      "PERSIAN": "منظورم این است که شما می توانید نوعی جعلی باشید"
+    },
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "(보조 제품들로) 사기를 칠 수 있지만",
+      "ENGLISH": "a nice body with the right tricks (laughs)",
+      "CHINESE_SIMPLIFIED": "虽然(用假的)可以骗人",
+      "CHINESE_TRADITIONAL": "雖然(用假的)可以騙人",
+      "JAPANESE": "（何とかして）ごまかせるけど",
+      "PERSIAN": "اندامی زیبا با ترفندهای درست (می خندد)"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "얼굴은 사기를 치기 조금 힘들기 때문에",
+      "ENGLISH": "but it’s harder to cheat with your face. ",
+      "CHINESE_SIMPLIFIED": "但是脸几乎骗不了人",
+      "CHINESE_TRADITIONAL": "但是臉幾乎騙不了人",
+      "JAPANESE": "顔はごまかすのがちょっと難しいので",
+      "PERSIAN": "اما خیانت کردن با چهره سخت تر است."
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 31.2
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "얼굴이 조금 더 낫지 않나...",
+      "ENGLISH": "So yeah, face it is.",
+      "CHINESE_SIMPLIFIED": "感觉好像更脸满意一点...",
+      "CHINESE_TRADITIONAL": "感覺好像更臉滿意一點...",
+      "JAPANESE": "顔の方がちょっとマシかな…",
+      "PERSIAN": "پس بله، اینطوری است."
+    },
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 본인의 이상형은?",
+      "ENGLISH": "Q: Who’s your ideal type?",
+      "CHINESE_SIMPLIFIED": "Q.本人的理想型是？",
+      "CHINESE_TRADITIONAL": "Q.本人的理想型是？",
+      "JAPANESE": "Q. 理想のタイプは？",
+      "PERSIAN": "س: تیپ ایده آل شما کیه؟"
+    },
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "고죠 사토루요. (주술회전 속 인기 캐릭터)",
+      "ENGLISH": "Gojo Satoru from Jujutsu Kaisen.",
+      "CHINESE_SIMPLIFIED": "五条悟（咒术回战中的人气角色）",
+      "CHINESE_TRADITIONAL": "五條悟（咒術回戰中的人氣角色）",
+      "JAPANESE": "五条悟です。（呪術廻戦の人気キャラ）",
+      "PERSIAN": "گوجو ساتورو از جوجوتسو کایسن."
+    },
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "사실 이상형 질문을 정말 많이 받았는데",
+      "ENGLISH": "I get asked this a lot, ",
+      "CHINESE_SIMPLIFIED": "其实收到了很多关于理想型的提问",
+      "CHINESE_TRADITIONAL": "其實收到了很多關於理想型的提問",
+      "JAPANESE": "実は理想のタイプをよく聞かれるんですけど",
+      "PERSIAN": "اینو زیاد از من می پرسند،"
+    },
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 40.1
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "이상형이 딱히 없어서...",
+      "ENGLISH": "but honestly, I don’t really have a specific “ideal type.” ",
+      "CHINESE_SIMPLIFIED": "因为没有特别的理想型...",
+      "CHINESE_TRADITIONAL": "因爲沒有特別的理想型...",
+      "JAPANESE": "特になくて…",
+      "PERSIAN": "اما صادقانه بگویم، من واقعاً یک \"نوع ایده آل\" خاص ندارم."
+    },
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 42.0
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 2D 남친 중의 한 명을 골랐습니다. ",
+      "ENGLISH": "I just picked a 2D boyfriend for fun.",
+      "CHINESE_SIMPLIFIED": "所以在纸片人男友中选了一个",
+      "CHINESE_TRADITIONAL": "所以在紙片人男友中選了一個",
+      "JAPANESE": "2Dの彼氏の中から選びました。",
+      "PERSIAN": "من فقط یک دوست پسر دو بعدی را برای سرگرمی انتخاب کردم."
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 46.1
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 10억 자산가 우유만 vs 고죠 사토루",
+      "ENGLISH": "Q: Who would you choose between a millionaire Yuman and Gojo Satoru?",
+      "CHINESE_SIMPLIFIED": "Q.10亿家产吴宥万vs五条悟，你选哪个",
+      "CHINESE_TRADITIONAL": "Q.10億家產吳宥萬vs五條悟，你選哪個",
+      "JAPANESE": "Q. 10億の資産家ウ・ユマン vs 五条悟",
+      "PERSIAN": "س: بین یومان میلیونر و گوجو ساتورو چه کسی را انتخاب می کنید؟"
+    },
+    "TIME": {
+      "SHOW": 46.1,
+      "HIDE": 46.9
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "제가 유만 오빠를 참 많이 좋아하지만, ",
+      "ENGLISH": "As much as I love Yuman,",
+      "CHINESE_SIMPLIFIED": "虽然我很喜欢宥万哥哥",
+      "CHINESE_TRADITIONAL": "雖然我很喜歡宥萬哥哥",
+      "JAPANESE": "ゲームの中ではユマンさんのこと大好きでしたけど",
+      "PERSIAN": "همانقدر که یومان را دوست دارم،"
+    },
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 49.3
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "찌질하고 못생겼기에 (장난)",
+      "ENGLISH": "he’s kind of a loser and not that attractive (joking).",
+      "CHINESE_SIMPLIFIED": "因为又怂又丑（开玩笑）",
+      "CHINESE_TRADITIONAL": "因爲又慫又醜（開玩笑）",
+      "JAPANESE": "ダサくて不細工だから（冗談）",
+      "PERSIAN": "او به نوعی بازنده است و آنقدرها هم جذاب نیست (شوخی)."
+    },
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 51.2
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "뭐라도 일을 잘할 수 있는",
+      "ENGLISH": "So I’ll go with Gojo.",
+      "CHINESE_SIMPLIFIED": "我要选 不管是什么都能做好的",
+      "CHINESE_TRADITIONAL": "我要選 不管是什麼都能做好的",
+      "JAPANESE": "何かと仕事ができる",
+      "PERSIAN": "پس من با گوجو می روم."
+    },
+    "TIME": {
+      "SHOW": 51.2,
+      "HIDE": 53.7
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "고죠 사토루를 고르겠습니다. (웃음)",
+      "ENGLISH": "At least he gets things done! (laughs)",
+      "CHINESE_SIMPLIFIED": "五条悟（笑）",
+      "CHINESE_TRADITIONAL": "五條悟（笑）",
+      "JAPANESE": "五条悟の方が好きですね。（笑）",
+      "PERSIAN": "حداقل او کارها را انجام می دهد! (می خندد)"
+    },
+    "TIME": {
+      "SHOW": 53.7,
+      "HIDE": 56.0
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 쉴 때는 무엇을 하나요?\n제가 웹툰광이어서",
+      "ENGLISH": "Q: What do you do in your free time?\nI’m a huge webtoon addict. ",
+      "CHINESE_SIMPLIFIED": "Q. 休息的时候一般做什么？\n因为我是网漫迷",
+      "CHINESE_TRADITIONAL": "Q. 休息的時候一般做什麼？\n因爲我是網漫迷",
+      "JAPANESE": "Q. 休日は何をしますか？\n私はウェブ漫画が大好きなので",
+      "PERSIAN": "س: در اوقات فراغت خود چه می کنید؟ من یک معتاد بزرگ به وبتون هستم."
+    },
+    "TIME": {
+      "SHOW": 56.0,
+      "HIDE": 58.3
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "항상 웹툰을 달고 살아요.",
+      "ENGLISH": "I’m always reading them.",
+      "CHINESE_SIMPLIFIED": "几乎每天都看网漫",
+      "CHINESE_TRADITIONAL": "幾乎每天都看網漫",
+      "JAPANESE": "休日はいつもウェブ漫画を読んでます。",
+      "PERSIAN": "من همیشه اونا رو می خوانم."
+    },
+    "TIME": {
+      "SHOW": 58.3,
+      "HIDE": 60.0
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "Q. 마지막으로 팬들에게 한마디!\n저를 보고 여기까지 와주신 팬분들 너무 감사합니다. ",
+      "ENGLISH": "Q: And finally, a message to your fans?\nTo all the fans who’ve come this far to support me, thank you so much!",
+      "CHINESE_SIMPLIFIED": "Q. 最后对粉丝们说一句！\n看到我来到这里的粉丝们非常感谢",
+      "CHINESE_TRADITIONAL": "Q. 最後對粉絲們說一句！\n看到我來到這裏的粉絲們非常感謝",
+      "JAPANESE": "Q. 最後にファンの皆さまに一言\n私を見てここまでプレイしていただいたファンの皆さん、本当にありがとうございます。",
+      "PERSIAN": "س: و در آخر یک پیام برای طرفدارانتان؟ از همه طرفدارانی که تا اینجا آمده اند تا از من حمایت کنند، بسیار دستت درد نکنه!"
+    },
+    "TIME": {
+      "SHOW": 60.0,
+      "HIDE": 63.6
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "남은 촬영도 열심히 임해가지고",
+      "ENGLISH": "I’ll do my best ",
+      "CHINESE_SIMPLIFIED": "剩下的拍摄也会努力进行",
+      "CHINESE_TRADITIONAL": "剩下的拍攝也會努力進行",
+      "JAPANESE": "残りの撮影も一生懸命頑張って",
+      "PERSIAN": "من تمام تلاشم را خواهم کرد"
+    },
+    "TIME": {
+      "SHOW": 63.8,
+      "HIDE": 65.7
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "여러분께 더 좋은",
+      "ENGLISH": "for the rest of the shoot ",
+      "CHINESE_SIMPLIFIED": "努力给大家带来更好的",
+      "CHINESE_TRADITIONAL": "努力給大家帶來更好的",
+      "JAPANESE": "皆さんに",
+      "PERSIAN": "برای بقیه عکسبرداری"
+    },
+    "TIME": {
+      "SHOW": 65.7,
+      "HIDE": 66.9
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "모습을 보여드리도록 하겠습니다!",
+      "ENGLISH": "and make sure to show you my best side.",
+      "CHINESE_SIMPLIFIED": "更完美的作品",
+      "CHINESE_TRADITIONAL": "更完美的作品",
+      "JAPANESE": "もっと良い姿をお見せできるよう頑張ります！",
+      "PERSIAN": "و مطمئن شو که بهترین جنبه ام را به تو نشان خواهم داد."
+    },
+    "TIME": {
+      "SHOW": 66.9,
+      "HIDE": 68.7
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "다음에 새로운 콘텐츠로 만나요♡",
+      "ENGLISH": " See you next time with something new! ♡",
+      "CHINESE_SIMPLIFIED": "下次在新的内容中见面吧♡",
+      "CHINESE_TRADITIONAL": "下次在新的內容中見面吧♡",
+      "JAPANESE": "次回、新しいコンテンツでお会いしましょう♡",
+      "PERSIAN": "دفعه بعد با چیز جدیدی می بینمت! ♡"
+    },
+    "TIME": {
+      "SHOW": 69.2,
+      "HIDE": 71.8
+    }
+  }
+]

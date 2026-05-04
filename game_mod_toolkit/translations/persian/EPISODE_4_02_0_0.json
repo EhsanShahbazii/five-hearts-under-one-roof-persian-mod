@@ -1,0 +1,422 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아니 말이 안 되는데...",
+      "ENGLISH": "This doesn’t make any sense...",
+      "CHINESE_SIMPLIFIED": "不是这不可能啊…",
+      "CHINESE_TRADITIONAL": "不是這不可能啊…",
+      "JAPANESE": "いや、ありえないんだけど…",
+      "INDONESIAN": "Ini gak masuk akal...",
+      "PORTUGUESE": "Isso não faz nenhum sentido...",
+      "RUSSIAN": "Это просто не имеет смысла...",
+      "FRENCH": "Ça n’a aucun sens...",
+      "THAI": "นี่มันไม่สมเหตุสมผลเลย...",
+      "PERSIAN": "این هیچ حسی نداره..."
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이게 왜 다 여기에...",
+      "ENGLISH": "Why is all this here?",
+      "CHINESE_SIMPLIFIED": "这些东西怎么都在这…",
+      "CHINESE_TRADITIONAL": "這些東西怎麼都在這…",
+      "JAPANESE": "何で、全部ここにあるんだよ…",
+      "INDONESIAN": "Kenapa semua ini ada di sini?",
+      "PORTUGUESE": "Por que tudo isso está aqui?",
+      "RUSSIAN": "Почему всё это здесь?",
+      "FRENCH": "Pourquoi tout ça est ici ?",
+      "THAI": "ทำไมของพวกนี้ถึงอยู่ที่นี่?",
+      "PERSIAN": "چرا این همه اینجاست؟"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "누군데 여기 있는 거예요?",
+      "ENGLISH": "Who are you and why are you here?",
+      "CHINESE_SIMPLIFIED": "你是谁?为什么在这?",
+      "CHINESE_TRADITIONAL": "你是誰?爲什麼在這?",
+      "JAPANESE": "あなた、誰ですか？何でここにいるんですか？",
+      "INDONESIAN": "Kamu siapa dan ngapain di sini?",
+      "PORTUGUESE": "Quem é você e o que faz aqui?",
+      "RUSSIAN": "Кто ты и почему ты здесь?",
+      "FRENCH": "Qui es-tu et pourquoi es-tu là ?",
+      "THAI": "คุณเป็นใคร แล้วมาทำอะไรที่นี่?",
+      "PERSIAN": "تو کی هستی و چرا اینجایی؟"
+    },
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님 부모님이",
+      "ENGLISH": "Yuman’s parents ",
+      "CHINESE_SIMPLIFIED": "是宥万您的父母",
+      "CHINESE_TRADITIONAL": "是宥萬您的父母",
+      "JAPANESE": "ユマンさんのご両親が",
+      "INDONESIAN": "Orang tua Yuman",
+      "PORTUGUESE": "Os pais do Yuman",
+      "RUSSIAN": "Родители Юмана...",
+      "FRENCH": "Les parents de Yuman...",
+      "THAI": "พ่อแม่ของยูมัน...",
+      "PERSIAN": "والدین یومان"
+    },
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "방을 내줘서 여기서 산 건데...",
+      "ENGLISH": "Let me stay in this room...",
+      "CHINESE_SIMPLIFIED": "一直让我住在这的…",
+      "CHINESE_TRADITIONAL": "一直讓我住在這的…",
+      "JAPANESE": "部屋を貸してくれたからここに住んでるんですけど…",
+      "INDONESIAN": "Mereka kasih aku tinggal di ruangan ini...",
+      "PORTUGUESE": "Eles deixaram eu ficar nesse quarto...",
+      "RUSSIAN": "Они разрешили тебе остаться в этой комнате...",
+      "FRENCH": "Ils t’ont laissé rester dans cette chambre...",
+      "THAI": "พวกเขาให้คุณอยู่ห้องนี้เหรอ...",
+      "PERSIAN": "بذار تو این اتاق بمونم..."
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "제 이름을 알아요?",
+      "ENGLISH": "You know my name?",
+      "CHINESE_SIMPLIFIED": "你知道我的名字?",
+      "CHINESE_TRADITIONAL": "你知道我的名字?",
+      "JAPANESE": "何で僕の名前を知ってるんですか？",
+      "INDONESIAN": "Kamu tahu namaku?",
+      "PORTUGUESE": "Você sabe meu nome?",
+      "RUSSIAN": "Ты знаешь моё имя?",
+      "FRENCH": "Tu connais mon nom ?",
+      "THAI": "คุณรู้จักชื่อของฉัน?",
+      "PERSIAN": "اسم منو میدونی؟"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "부모님이 방을 내주셨다고요?",
+      "ENGLISH": "My parents let you stay here?",
+      "CHINESE_SIMPLIFIED": "是我爸妈让你住在这的?",
+      "CHINESE_TRADITIONAL": "是我爸媽讓你住在這的?",
+      "JAPANESE": "僕の両親が部屋を貸してくれたですって？",
+      "INDONESIAN": "Orang tuaku yang izinin kamu tinggal di sini?",
+      "PORTUGUESE": "Meus pais deixaram você ficar aqui?",
+      "RUSSIAN": "Мои родители позволили тебе здесь жить?",
+      "FRENCH": "Mes parents t’ont laissé rester ici ?",
+      "THAI": "พ่อแม่ของฉันให้คุณอยู่ที่นี่?",
+      "PERSIAN": "پدر و مادرم اجازه دادند اینجا بمانی؟"
+    },
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼...",
+      "ENGLISH": "This is unbelievable...",
+      "CHINESE_SIMPLIFIED": "难以置信…",
+      "CHINESE_TRADITIONAL": "難以置信…",
+      "JAPANESE": "うそだろ…",
+      "INDONESIAN": "Ini gak masuk akal...",
+      "PORTUGUESE": "Isso é inacreditável...",
+      "RUSSIAN": "Это невероятно...",
+      "FRENCH": "C’est incroyable...",
+      "THAI": "ไม่น่าเชื่อเลย...",
+      "PERSIAN": "این غیر قابل باور است..."
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "지금까지 밤에만 나와서 돌아다녔던 거예요?",
+      "ENGLISH": "Have you only been coming out at night?",
+      "CHINESE_SIMPLIFIED": "那你一直都是晚上出来活动吗?",
+      "CHINESE_TRADITIONAL": "那你一直都是晚上出來活動嗎?",
+      "JAPANESE": "今まで、夜にだけ出てきて歩き回ってたんですか？",
+      "INDONESIAN": "Kamu cuma keluar malam-malam aja?",
+      "PORTUGUESE": "Você só tem saído à noite?",
+      "RUSSIAN": "Ты появляешься только по ночам?",
+      "FRENCH": "Tu ne sortais que la nuit ?",
+      "THAI": "คุณออกมาแค่ตอนกลางคืนเหรอ?",
+      "PERSIAN": "فقط شب بیرون اومدی؟"
+    },
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아까는 왜 나왔어요?",
+      "ENGLISH": "Why did you come out earlier?",
+      "CHINESE_SIMPLIFIED": "刚才你又是为什么出来呢?",
+      "CHINESE_TRADITIONAL": "剛纔你又是爲什麼出來呢?",
+      "JAPANESE": "さっきは何で出てきたんですか？",
+      "INDONESIAN": "Kenapa tiba-tiba keluar?",
+      "PORTUGUESE": "Por que saiu de repente?",
+      "RUSSIAN": "Почему ты вышел раньше?",
+      "FRENCH": "Pourquoi es-tu sorti plus tôt ?",
+      "THAI": "ทำไมออกมาตอนนี้?",
+      "PERSIAN": "چرا زودتر اومدی بیرون؟"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "우유...",
+      "ENGLISH": "Milk...",
+      "CHINESE_SIMPLIFIED": "牛奶（和宥万的名字同音）…",
+      "CHINESE_TRADITIONAL": "牛奶（和宥萬的名字同音）…",
+      "JAPANESE": "ウユ…",
+      "INDONESIAN": "Susu...",
+      "PORTUGUESE": "Leite...",
+      "RUSSIAN": "Молоко...",
+      "FRENCH": "Du lait...",
+      "THAI": "นม...",
+      "PERSIAN": "شیر..."
+    },
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "네? 저요?",
+      "ENGLISH": "Huh? Me?",
+      "CHINESE_SIMPLIFIED": "嗯?叫我吗？",
+      "CHINESE_TRADITIONAL": "嗯?叫我嗎？",
+      "JAPANESE": "え？僕ですか？",
+      "INDONESIAN": "Hah? Aku?",
+      "PORTUGUESE": "Hã? Eu?",
+      "RUSSIAN": "А? Я?",
+      "FRENCH": "Hein ? Moi ?",
+      "THAI": "หืม? ผม?",
+      "PERSIAN": "Huh? Me?"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨!",
+      "ENGLISH": "No!",
+      "CHINESE_SIMPLIFIED": "不是",
+      "CHINESE_TRADITIONAL": "不是",
+      "JAPANESE": "いや！",
+      "INDONESIAN": "Enggak!",
+      "PORTUGUESE": "Não!",
+      "RUSSIAN": "Нет!",
+      "FRENCH": "Non !",
+      "THAI": "ไม่!",
+      "PERSIAN": "No!"
+    },
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우유요! 우유...",
+      "ENGLISH": "Milk! Milk...",
+      "CHINESE_SIMPLIFIED": "是牛奶…牛奶...",
+      "CHINESE_TRADITIONAL": "是牛奶…牛奶...",
+      "JAPANESE": "牛乳ですよ！牛乳…",
+      "INDONESIAN": "Susu! Susu...",
+      "PORTUGUESE": "Leite! Leite...",
+      "RUSSIAN": "Молоко! Молоко...",
+      "FRENCH": "Du lait ! Du lait...",
+      "THAI": "นม! นม...",
+      "PERSIAN": "شیر! شیر..."
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 34.4
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "우유요?",
+      "ENGLISH": "Milk?",
+      "CHINESE_SIMPLIFIED": "牛奶?",
+      "CHINESE_TRADITIONAL": "牛奶?",
+      "JAPANESE": "牛乳ですか？",
+      "INDONESIAN": "Susu?",
+      "PORTUGUESE": "Leite?",
+      "RUSSIAN": "Молоко?",
+      "FRENCH": "Du lait ?",
+      "THAI": "นมเหรอ?",
+      "PERSIAN": "شیر؟"
+    },
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 35.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes...",
+      "CHINESE_SIMPLIFIED": "对...",
+      "CHINESE_TRADITIONAL": "對...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim...",
+      "RUSSIAN": "Да...",
+      "FRENCH": "Oui...",
+      "THAI": "ใช่...",
+      "PERSIAN": "بله..."
+    },
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 37.1
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "그거 가지러 잠깐 나갔던 건데...",
+      "ENGLISH": "I went out to get some...",
+      "CHINESE_SIMPLIFIED": "我出来是为了拿牛奶…",
+      "CHINESE_TRADITIONAL": "我出來是爲了拿牛奶…",
+      "JAPANESE": "牛乳を取りにちょっと外に出てただけなんですけど…",
+      "INDONESIAN": "Aku tadi keluar buat ambil susu...",
+      "PORTUGUESE": "Eu saí para pegar um pouco...",
+      "RUSSIAN": "Я выходил, чтобы его купить...",
+      "FRENCH": "Je suis sorti en chercher...",
+      "THAI": "ผมออกไปซื้อนม...",
+      "PERSIAN": "رفتم بیرون تا چندتا بیارم..."
+    },
+    "TIME": {
+      "SHOW": 37.1,
+      "HIDE": 40.2
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "아 그러면 계속 우유가 없어지는 게...",
+      "ENGLISH": "So you’ve been the one taking the milk...",
+      "CHINESE_SIMPLIFIED": "啊，怪不得牛奶总是没得那么快…",
+      "CHINESE_TRADITIONAL": "啊，怪不得牛奶總是沒得那麼快…",
+      "JAPANESE": "あ、じゃあ今まで牛乳がなくなってたのって…",
+      "INDONESIAN": "Jadi kamu yang selama ini ambil susunya...",
+      "PORTUGUESE": "Então foi você quem andou pegando o leite...",
+      "RUSSIAN": "Так это ты забирал всё молоко...",
+      "FRENCH": "Donc c’est toi qui prenais le lait...",
+      "THAI": "งั้นคุณนี่เองที่เอานมไป...",
+      "PERSIAN": "پس تو بودی که شیر را می‌گرفتی..."
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 43.7
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "I’m sorry...",
+      "CHINESE_SIMPLIFIED": "对不起啊…",
+      "CHINESE_TRADITIONAL": "對不起啊…",
+      "JAPANESE": "すいません…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Прости...",
+      "FRENCH": "Je suis désolé...",
+      "THAI": "ขอโทษด้วย...",
+      "PERSIAN": "واقعاً شرمنده‌ام، عذر می‌خوام..."
+    },
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 45.8
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "...그거 아까 사람들이 먹는다고 꺼내놨는데",
+      "ENGLISH": "...People had taken out some earlier.",
+      "CHINESE_SIMPLIFIED": "刚才大家把牛奶拿出去了",
+      "CHINESE_TRADITIONAL": "剛纔大家把牛奶拿出去了",
+      "JAPANESE": "…さっき飲みなくて出してたんですが",
+      "INDONESIAN": "...Orang-orang tadi sudah ambil beberapa.",
+      "PORTUGUESE": "...As pessoas já tinham levado um pouco antes.",
+      "RUSSIAN": "...Раньше кто-то уже взял немного.",
+      "FRENCH": "...Les gens en avaient déjà pris un peu avant.",
+      "THAI": "...ก่อนหน้านั้นมีคนเอาไปบ้างแล้ว.",
+      "PERSIAN": "...افراد قبلاً تعدادی را بیرون آورده بودند."
+    },
+    "TIME": {
+      "SHOW": 46.6,
+      "HIDE": 49.3
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "제가 가져올게요! 잠깐 있어 봐요!",
+      "ENGLISH": "Let me get it for you! Wait here!",
+      "CHINESE_SIMPLIFIED": "我给你拿过来! 你在这等一下",
+      "CHINESE_TRADITIONAL": "我給你拿過來! 你在這等一下",
+      "JAPANESE": "僕が持ってきますね！ちょっと待っててください！",
+      "INDONESIAN": "Biar aku ambilin buat kamu! Tunggu di sini!",
+      "PORTUGUESE": "Deixa que eu pego para você! Espera aqui!",
+      "RUSSIAN": "Дай я принесу тебе! Подожди здесь!",
+      "FRENCH": "Je vais t’en chercher ! Attends ici !",
+      "THAI": "เดี๋ยวผมเอามาให้! รอตรงนี้นะ!",
+      "PERSIAN": "بذار برات بگیرمش! اینجا صبر کن"
+    },
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 52.0
+    }
+  }
+]

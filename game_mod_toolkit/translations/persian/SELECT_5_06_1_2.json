@@ -1,0 +1,82 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙",
+      "ENGLISH": "Hey, Mal-sook",
+      "CHINESE_SIMPLIFIED": "喂!高末淑",
+      "CHINESE_TRADITIONAL": "喂!高末淑",
+      "JAPANESE": "おい、マルスク！",
+      "INDONESIAN": "Hei, Mal-sook",
+      "PORTUGUESE": "Ei, Mal-sook",
+      "RUSSIAN": "Эй, Мал-Сук",
+      "FRENCH": "Hé, Mal-sook",
+      "THAI": "เฮ้ มัลซุก",
+      "PERSIAN": "هی، مال‌سوک"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 일어나라고!",
+      "ENGLISH": "Get up!",
+      "CHINESE_SIMPLIFIED": "快起来!",
+      "CHINESE_TRADITIONAL": "快起來!",
+      "JAPANESE": "早く起きろって！",
+      "INDONESIAN": "Bangun!",
+      "PORTUGUESE": "Levanta!",
+      "RUSSIAN": "Вставай!",
+      "FRENCH": "Lève-toi !",
+      "THAI": "ตื่นสิ!",
+      "PERSIAN": "برخیز!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 뭐 하냐!!",
+      "ENGLISH": "What are you doing!",
+      "CHINESE_SIMPLIFIED": "你干嘛呢?",
+      "CHINESE_TRADITIONAL": "你幹嘛呢?",
+      "JAPANESE": "何するのよ！！",
+      "INDONESIAN": "Kamu lagi ngapain!",
+      "PORTUGUESE": "O que você tá fazendo!",
+      "RUSSIAN": "Что ты делаешь!",
+      "FRENCH": "Qu’est-ce que tu fais !",
+      "THAI": "ทำอะไรอยู่!",
+      "PERSIAN": "What are you doing!"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 일어나라구",
+      "ENGLISH": "Wake up already!",
+      "CHINESE_SIMPLIFIED": "我让你快起来",
+      "CHINESE_TRADITIONAL": "我讓你快起來",
+      "JAPANESE": "早く起きろよ！",
+      "INDONESIAN": "Cepetan bangun!",
+      "PORTUGUESE": "Acorda logo!",
+      "RUSSIAN": "Просыпайся уже!",
+      "FRENCH": "Réveille-toi déjà !",
+      "THAI": "ตื่นได้แล้ว!",
+      "PERSIAN": "از قبل بیدار شو!"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.7
+    }
+  }
+]

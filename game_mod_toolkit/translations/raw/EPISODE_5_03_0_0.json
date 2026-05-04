@@ -1,0 +1,192 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "유만 님!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万!",
+      "CHINESE_TRADITIONAL": "宥萬!",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "RUSSIAN": "Юман!",
+      "FRENCH": "Yuman !",
+      "THAI": "ยูมัน!"
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "พี่!"
+    },
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "유만 씨 뒷자리에 같이 타요!",
+      "ENGLISH": "Yoo-man, sit with us in the back!",
+      "CHINESE_SIMPLIFIED": "宥万你和我们一起坐后面吧!",
+      "CHINESE_TRADITIONAL": "宥萬你和我們一起坐後面吧!",
+      "JAPANESE": "ユマンさん、後ろの席、一緒に乗りましょうよ！",
+      "INDONESIAN": "Yuman, duduk bareng kami di belakang!",
+      "PORTUGUESE": "Yuman, senta com a gente aqui atrás!",
+      "RUSSIAN": "Юман, садись с нами сзади!",
+      "FRENCH": "Yuman, viens t’asseoir avec nous à l’arrière !",
+      "THAI": "ยูมัน มานั่งกับเราข้างหลังสิ!"
+    },
+    "TIME": {
+      "SHOW": 6.85,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 타~ ",
+      "ENGLISH": "Come on, hurry up! ",
+      "CHINESE_SIMPLIFIED": "喂!快点上车~",
+      "CHINESE_TRADITIONAL": "喂!快點上車~",
+      "JAPANESE": "早く乗って～",
+      "INDONESIAN": "Ayo, cepetan!",
+      "PORTUGUESE": "Vamos, apressa logo!",
+      "RUSSIAN": "Давай, поторопись!",
+      "FRENCH": "Allez, dépêche-toi !",
+      "THAI": "เร็วเข้าหน่อย!"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "무릎 위에라도 앉던가.",
+      "ENGLISH": "Or just sit on my lap.",
+      "CHINESE_SIMPLIFIED": "不然...坐我腿上吧",
+      "CHINESE_TRADITIONAL": "不然...坐我腿上吧",
+      "JAPANESE": "それとも、膝の上にでも座れば？",
+      "INDONESIAN": "Atau duduk aja di pangkuanku.",
+      "PORTUGUESE": "Ou senta no meu colo.",
+      "RUSSIAN": "Или просто садись ко мне на колени.",
+      "FRENCH": "Ou assieds-toi sur mes genoux.",
+      "THAI": "หรือจะมานั่งตักฉันก็ได้"
+    },
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "[우유만 님의 기기가 연결되었습니다]",
+      "ENGLISH": "[Yuman's device is now connected.]",
+      "CHINESE_SIMPLIFIED": "[已连接上吴宥万的蓝牙]",
+      "CHINESE_TRADITIONAL": "[已連接上吳宥萬的藍牙]",
+      "JAPANESE": "[ウ・ユマンさんのデバイスが接続されました]",
+      "INDONESIAN": "[Perangkat Yuman sekarang terhubung.]",
+      "PORTUGUESE": "[Dispositivo de Yuman conectado.]",
+      "RUSSIAN": "[Устройство Юмана теперь подключено.]",
+      "FRENCH": "[L’appareil de Yuman est maintenant connecté.]",
+      "THAI": "[ตอนนี้อุปกรณ์ของยูมันเชื่อมต่อแล้ว]"
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야... 우유만",
+      "ENGLISH": "Wait.. Yuman",
+      "CHINESE_SIMPLIFIED": "什么？吴宥万",
+      "CHINESE_TRADITIONAL": "什麼？吳宥萬",
+      "JAPANESE": "えっ、ユマン…",
+      "INDONESIAN": "Tunggu... Yuman,",
+      "PORTUGUESE": "Espera... Yuman,",
+      "RUSSIAN": "Подожди... Юман,",
+      "FRENCH": "Attends... Yuman,",
+      "THAI": "เดี๋ยว... ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.6
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "너 이 차 탔었어?",
+      "ENGLISH": "Have you been in this car before?",
+      "CHINESE_SIMPLIFIED": "你以前坐过这个车?",
+      "CHINESE_TRADITIONAL": "你以前坐過這個車?",
+      "JAPANESE": "あんた、この車乗ったことあったの？",
+      "INDONESIAN": "Kamu udah pernah naik mobil ini sebelumnya?",
+      "PORTUGUESE": "Você já esteve nesse carro antes?",
+      "RUSSIAN": "ты раньше был в этой машине?",
+      "FRENCH": "tu es déjà monté dans cette voiture ?",
+      "THAI": "เธอเคยขึ้นรถคันนี้มาก่อนหรือเปล่า?"
+    },
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 23.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "우유만.",
+      "ENGLISH": "Yuman",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ユマン",
+      "INDONESIAN": "Yuman,",
+      "PORTUGUESE": "Yuman,",
+      "RUSSIAN": "Юман,",
+      "FRENCH": "Yuman,",
+      "THAI": "ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "이번에도 노래 좀 틀어봐.",
+      "ENGLISH": "Play some music.",
+      "CHINESE_SIMPLIFIED": "这次也放点音乐呗",
+      "CHINESE_TRADITIONAL": "這次也放點音樂唄",
+      "JAPANESE": "曲かけてよ。",
+      "INDONESIAN": "Putar musik, dong.",
+      "PORTUGUESE": "Coloca uma música pra tocar.",
+      "RUSSIAN": "включи музыку.",
+      "FRENCH": "mets de la musique.",
+      "THAI": "เปิดเพลงหน่อยสิ"
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.2
+    }
+  }
+]

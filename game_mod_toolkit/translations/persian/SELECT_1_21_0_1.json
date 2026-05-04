@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와 대박 밍밍이다!",
+      "ENGLISH": "Whoa, it's Ming-Ming!",
+      "CHINESE_SIMPLIFIED": "天啊!你居然是敏敏本人!",
+      "CHINESE_TRADITIONAL": "天啊!你居然是敏敏本人!",
+      "JAPANESE": "わあ、やばい！ミンミンだ！",
+      "INDONESIAN": "Wah, itu Ming-Ming!",
+      "PORTUGUESE": "Uau, é a Ming-Ming!",
+      "RUSSIAN": "Вау, это же Минг-Минг!",
+      "FRENCH": "Wow, c’est Ming-Ming !",
+      "THAI": "โห นั่นมิงมิงนี่นา!",
+      "PERSIAN": "اوه، این مینگ مینگ است!"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.2
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저 진짜 MS 서바이벌 출연하실 때부터 팬이었거든요!",
+      "ENGLISH": "I’ve been a fan since you were on MS Survival!",
+      "CHINESE_SIMPLIFIED": "我从你出演《MS生存游戏》的时候就喜欢你了!",
+      "CHINESE_TRADITIONAL": "我從你出演《MS生存遊戲》的時候就喜歡你了!",
+      "JAPANESE": "僕、「MSサバイバル」に出演されていた頃からファンだったんです！",
+      "INDONESIAN": "Aku udah jadi penggemar sejak kamu di MS Survival!",
+      "PORTUGUESE": "Sou fã desde que você estava no MS Survival!",
+      "RUSSIAN": "Я фанат с тех пор, как ты участвовала в MS Survival!",
+      "FRENCH": "Je suis fan depuis que tu étais dans MS Survival !",
+      "THAI": "ผมเป็นแฟนตั้งแต่คุณอยู่ใน MS Survival เลย!",
+      "PERSIAN": "از زمانی که شما در MS Survival بودید من طرفدار اون بودم!"
+    },
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저 사진 하나만 같이 찍어주시면 안 될까요?",
+      "ENGLISH": "Can I get a photo with you?",
+      "CHINESE_SIMPLIFIED": "请问可以和你合张影吗?",
+      "CHINESE_TRADITIONAL": "請問可以和你合張影嗎?",
+      "JAPANESE": "写真一枚だけ一緒に撮ってもらえませんか？",
+      "INDONESIAN": "Boleh foto bareng nggak?",
+      "PORTUGUESE": "Posso tirar uma foto com você?",
+      "RUSSIAN": "Можно сделать с тобой фото?",
+      "FRENCH": "On peut prendre une photo ensemble ?",
+      "THAI": "ขอถ่ายรูปด้วยได้ไหมครับ?",
+      "PERSIAN": "می توانم با شما عکس بگیرم؟"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아.. 죄송합니다..",
+      "ENGLISH": "Ah... sorry!",
+      "CHINESE_SIMPLIFIED": "啊，抱歉啊，",
+      "CHINESE_TRADITIONAL": "啊，抱歉啊，",
+      "JAPANESE": "あ…ごめんなさい…",
+      "INDONESIAN": "Ah... maaf!",
+      "PORTUGUESE": "Ah... desculpa!",
+      "RUSSIAN": "А... извини!",
+      "FRENCH": "Ah... désolée !",
+      "THAI": "อ่า... ขอโทษนะ!",
+      "PERSIAN": "آه... ببخشید!"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "예? 저 사진 하나만....!",
+      "ENGLISH": "Huh? Just one picture, please!",
+      "CHINESE_SIMPLIFIED": "诶?就拍一张！",
+      "CHINESE_TRADITIONAL": "誒?就拍一張！",
+      "JAPANESE": "え？写真一枚だけ…！",
+      "INDONESIAN": "Hah? Satu foto aja, please!",
+      "PORTUGUESE": "Hã? Só uma foto, por favor!",
+      "RUSSIAN": "Что? Ну, всего одно фото, пожалуйста!",
+      "FRENCH": "Hein ? Juste une photo, s’il te plaît !",
+      "THAI": "ห้ะ? ขอแค่รูปเดียวเถอะครับ!",
+      "PERSIAN": "ها؟ فقط یک عکس لطفا!"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.8
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "죄송해요!",
+      "ENGLISH": "I’m so sorry!",
+      "CHINESE_SIMPLIFIED": "不太方便.",
+      "CHINESE_TRADITIONAL": "不太方便.",
+      "JAPANESE": "ごめんなさい！",
+      "INDONESIAN": "Maaf banget!",
+      "PORTUGUESE": "Me desculpa mesmo!",
+      "RUSSIAN": "Мне очень жаль!",
+      "FRENCH": "Je suis vraiment désolée !",
+      "THAI": "ขอโทษจริงๆ!",
+      "PERSIAN": "خیلی متاسفم!"
+    },
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저 한 장만! 밍밍!",
+      "ENGLISH": "Just one picture, Ming-Ming!",
+      "CHINESE_SIMPLIFIED": "就一张!敏敏!",
+      "CHINESE_TRADITIONAL": "就一張!敏敏!",
+      "JAPANESE": "一枚だけ！ミンミン！",
+      "INDONESIAN": "Satu foto aja, Ming-Ming!",
+      "PORTUGUESE": "Só uma foto, Ming-Ming!",
+      "RUSSIAN": "Одно фото, Минг-Минг, всего одно!",
+      "FRENCH": "Allez, juste une photo, Ming-Ming !",
+      "THAI": "แค่รูปเดียว มิงมิง!",
+      "PERSIAN": "فقط یک عکس، مینگ مینگ!"
+    },
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아! 어딨지~ 도저히 모르겠네~ 와 못 찾겠다~",
+      "ENGLISH": "Oh! Where could it be~ I can’t find it~ I just can’t find it~",
+      "CHINESE_SIMPLIFIED": "啊，她躲去哪了呢~怎么找也找不到~到底在哪呢?",
+      "CHINESE_TRADITIONAL": "啊，她躲去哪了呢~怎麼找也找不到~到底在哪呢?",
+      "JAPANESE": "あ～どこにいるのかな～全然見当たらないな～",
+      "INDONESIAN": "Oh! Di mana ya~ Aku nggak bisa nemu~ Aku nggak bisa nemu~",
+      "PORTUGUESE": "Oh! Onde será que tá~? Não consigo achar~ Não consigo achar~",
+      "RUSSIAN": "Ой! Где же оно~? Не могу найти~ Просто не могу найти~",
+      "FRENCH": "Oh ! Où ça peut bien être~ ? Je ne le trouve pas~ Je n’arrive pas à le trouver~",
+      "THAI": "โอ้! มันอยู่ไหนกันนะ~ หาไม่เจอเลย~ หาไม่เจอจริงๆ~",
+      "PERSIAN": "اوه! کجا می تواند باشد~ من نمی توانم اونو پیدا کنم~ من فقط نمی توانم اونو پیدا کنم~"
+    },
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 27.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "와 어딨지~?",
+      "ENGLISH": "Where could it be~?",
+      "CHINESE_SIMPLIFIED": "在哪呢~?",
+      "CHINESE_TRADITIONAL": "在哪呢~?",
+      "JAPANESE": "どこにいるんだ～？",
+      "INDONESIAN": "Di mana ya~?",
+      "PORTUGUESE": "Onde será que tá~?",
+      "RUSSIAN": "Где же оно~?",
+      "FRENCH": "Où ça peut bien être~ ?",
+      "THAI": "มันอยู่ไหนกันนะ~?",
+      "PERSIAN": "کجا میتونه باشه ~"
+    },
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.8
+    }
+  }
+]

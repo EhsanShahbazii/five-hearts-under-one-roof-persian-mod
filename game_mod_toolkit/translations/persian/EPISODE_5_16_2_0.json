@@ -1,0 +1,701 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "고은비.",
+      "ENGLISH": "Eun-bi.",
+      "CHINESE_SIMPLIFIED": "高恩妃",
+      "CHINESE_TRADITIONAL": "高恩妃",
+      "JAPANESE": "ウンビ。",
+      "INDONESIAN": "Eun-bi.",
+      "PORTUGUESE": "Eun-bi.",
+      "RUSSIAN": "Ын-би.",
+      "FRENCH": "Eun-bi.",
+      "THAI": "อึนบี",
+      "PERSIAN": "یون بی."
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜 이제 와?",
+      "ENGLISH": "Why are you so late?",
+      "CHINESE_SIMPLIFIED": "你怎么才来?",
+      "CHINESE_TRADITIONAL": "你怎麼纔來?",
+      "JAPANESE": "何で、今になって来たの？",
+      "INDONESIAN": "Kenapa kamu lama banget?",
+      "PORTUGUESE": "Por que você demorou tanto?",
+      "RUSSIAN": "Почему ты так поздно?",
+      "FRENCH": "Pourquoi tu es si en retard ?",
+      "THAI": "ทำไมมาสายจัง?",
+      "PERSIAN": "چرا اینقدر دیر اومدی؟"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "抱歉…",
+      "CHINESE_TRADITIONAL": "抱歉…",
+      "JAPANESE": "ごめん…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "Прости...",
+      "FRENCH": "Désolée...",
+      "THAI": "ขอโทษนะ...",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "나 여기 들어오고 나서 오빠 이 방 거의 처음 들어온 거 알아?",
+      "ENGLISH": "Since I got here, do you know how rarely you’ve come into this room?",
+      "CHINESE_SIMPLIFIED": "你知道吗？我搬来这么久你还是第一次来我房间",
+      "CHINESE_TRADITIONAL": "你知道嗎？我搬來這麼久你還是第一次來我房間",
+      "JAPANESE": "私、ここに来てからお兄ちゃんが私の部屋に入ったの、ほぼ初めてだよね？",
+      "INDONESIAN": "Sejak aku sampai sini, kamu tahu kan seberapa jarang kamu masuk ke ruangan ini?",
+      "PORTUGUESE": "Desde que eu cheguei aqui, sabe o quão raramente você veio pra este quarto?",
+      "RUSSIAN": "Ты знаешь, как редко ты заходила в эту комнату с тех пор, как я здесь?",
+      "FRENCH": "Depuis que je suis ici, tu sais combien de fois tu es venue dans cette pièce ?",
+      "THAI": "ตั้งแต่ฉันมา เธอรู้ไหมว่ามาในห้องนี้ไม่กี่ครั้งเอง?",
+      "PERSIAN": "از زمانی که من به اینجا رسیدم، می دانید چقدر به ندرت وارد این اتاق شده اید؟"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 서운해!",
+      "ENGLISH": "I’m really upset!",
+      "CHINESE_SIMPLIFIED": "我不开心!",
+      "CHINESE_TRADITIONAL": "我不開心!",
+      "JAPANESE": "ひどいよ。",
+      "INDONESIAN": "Aku bener-bener kesal!",
+      "PORTUGUESE": "Tô muito chateada!",
+      "RUSSIAN": "Мне очень обидно!",
+      "FRENCH": "Ça me rend vraiment triste !",
+      "THAI": "ฉันน้อยใจจริงๆ นะ!",
+      "PERSIAN": "من واقعا ناراحتم!"
+    },
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "에이 내가 막 들락날락하긴 좀 그렇지 이젠.",
+      "ENGLISH": "Well, it’s kind of awkward for me to come in and out now.",
+      "CHINESE_SIMPLIFIED": "我现在不是不方便随意出入嘛!",
+      "CHINESE_TRADITIONAL": "我現在不是不方便隨意出入嘛!",
+      "JAPANESE": "いや、今さら俺がちょくちょく入るのも、どうかと思ってさ。",
+      "INDONESIAN": "Ya, rasanya agak canggung buat aku bolak-balik masuk sekarang.",
+      "PORTUGUESE": "Bom, agora tá meio estranho pra eu entrar e sair.",
+      "RUSSIAN": "Ну, мне теперь немного неловко заходить сюда и уходить.",
+      "FRENCH": "Eh bien, c’est un peu gênant pour moi d’aller et venir maintenant.",
+      "THAI": "คือ... ฉันรู้สึกแปลกๆ ที่จะเข้าออกในนี้",
+      "PERSIAN": "خب، الان آمدن و بیرون آمدن برای من یک جورهای ناخوشایند است."
+    },
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 15.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么?",
+      "CHINESE_TRADITIONAL": "爲什麼?",
+      "JAPANESE": "何で？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "RUSSIAN": "Почему?",
+      "FRENCH": "Pourquoi ?",
+      "THAI": "ทำไมล่ะ?",
+      "PERSIAN": "Why?"
+    },
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "หืม?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 17.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "왜 좀 그런 건데?",
+      "ENGLISH": "Why? What’s so awkward about it?",
+      "CHINESE_SIMPLIFIED": "怎么就不方便了?",
+      "CHINESE_TRADITIONAL": "怎麼就不方便了?",
+      "JAPANESE": "何でなの？",
+      "INDONESIAN": "Kenapa? Apa yang bikin canggung?",
+      "PORTUGUESE": "Por quê? O que tem de estranho nisso?",
+      "RUSSIAN": "Почему? Что тут такого неловкого?",
+      "FRENCH": "Pourquoi ? Qu’est-ce qu’il y a de gênant là-dedans ?",
+      "THAI": "ทำไม? มันน่าแปลกตรงไหน?",
+      "PERSIAN": "چرا؟ چه چیز اینقدر ناخوشایند است؟"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "그야 여자 방이니까...",
+      "ENGLISH": "Because it’s a girl’s room...",
+      "CHINESE_SIMPLIFIED": "这不是女生的房间吗…",
+      "CHINESE_TRADITIONAL": "這不是女生的房間嗎…",
+      "JAPANESE": "だって、女子部屋だし…",
+      "INDONESIAN": "Karena ini kamar cewek...",
+      "PORTUGUESE": "Porque esse é o quarto de uma garota...",
+      "RUSSIAN": "Потому что это комната девушки...",
+      "FRENCH": "Parce que c’est la chambre d’une fille...",
+      "THAI": "ก็เพราะมันเป็นห้องของผู้หญิงไง...",
+      "PERSIAN": "چون اتاق دختره..."
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "내가 여자로 보이긴 하나 보다?",
+      "ENGLISH": "So, you do see me as a girl, huh?",
+      "CHINESE_SIMPLIFIED": "看来你还把我当女人啊!",
+      "CHINESE_TRADITIONAL": "看來你還把我當女人啊!",
+      "JAPANESE": "じゃあ、私をちゃんと女として見てるんだね？",
+      "INDONESIAN": "Jadi, kamu ngeliat aku sebagai cewek, ya?",
+      "PORTUGUESE": "Então você me vê como uma garota, né?",
+      "RUSSIAN": "Значит, ты всё-таки видишь во мне девушку, да?",
+      "FRENCH": "Donc, tu me vois bien comme une fille, hein ?",
+      "THAI": "งั้นแสดงว่าเธอก็มองฉันเป็นผู้หญิงจริงๆ ใช่ไหม?",
+      "PERSIAN": "خب، تو منو دختر می بینی، نه؟"
+    },
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "너가 남자는 아니잖아.",
+      "ENGLISH": "You’re not a guy, are you?",
+      "CHINESE_SIMPLIFIED": "反正你肯定不是男人",
+      "CHINESE_TRADITIONAL": "反正你肯定不是男人",
+      "JAPANESE": "お前、男じゃないだろ？",
+      "INDONESIAN": "Kamu bukan cowok, kan?",
+      "PORTUGUESE": "Você não é um garoto, é?",
+      "RUSSIAN": "Ты ведь не парень, верно?",
+      "FRENCH": "Tu n’es pas un garçon, quand même ?",
+      "THAI": "เธอไม่ใช่ผู้ชายใช่ไหม?",
+      "PERSIAN": "تو پسر نیستی، نه؟"
+    },
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.9
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아 말장난 하지 말구...!",
+      "ENGLISH": "Stop joking...!",
+      "CHINESE_SIMPLIFIED": "别和我玩文字游戏!",
+      "CHINESE_TRADITIONAL": "別和我玩文字遊戲!",
+      "JAPANESE": "もう、そういう冗談やめてよ…！",
+      "INDONESIAN": "Jangan bercanda...!",
+      "PORTUGUESE": "Para de brincar...!",
+      "RUSSIAN": "Прекрати шутить...!",
+      "FRENCH": "Arrête de plaisanter... !",
+      "THAI": "เลิกเล่นได้แล้ว...!",
+      "PERSIAN": "شوخی نکن...!"
+    },
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.5
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나 여기 오빠 보러 온 거 진심이란 말이야!",
+      "ENGLISH": "I came here seriously to see you, oppa!",
+      "CHINESE_SIMPLIFIED": "我真的是为了哥哥你才来的!",
+      "CHINESE_TRADITIONAL": "我真的是爲了哥哥你纔來的!",
+      "JAPANESE": "私、ここに来たの、本気でお兄ちゃんに会いたかったからなんだよ！",
+      "INDONESIAN": "Aku ke sini serius buat ketemu kamu, oppa!",
+      "PORTUGUESE": "Eu vim aqui de verdade pra te ver, oppa!",
+      "RUSSIAN": "Я пришла сюда серьёзно, чтобы увидеть тебя, оппа!",
+      "FRENCH": "Je suis venue te voir sérieusement, oppa !",
+      "THAI": "ฉันมาหาเธอจริงๆ นะพี่!",
+      "PERSIAN": "من جدی اومدم اینجا تا ببینمت یومان!"
+    },
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 30.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "그래~ 아는데!",
+      "ENGLISH": "I know!",
+      "CHINESE_SIMPLIFIED": "我当然知道~",
+      "CHINESE_TRADITIONAL": "我當然知道~",
+      "JAPANESE": "うん、分かってるって！",
+      "INDONESIAN": "Aku tahu!",
+      "PORTUGUESE": "Eu sei!",
+      "RUSSIAN": "Я знаю!",
+      "FRENCH": "Je sais !",
+      "THAI": "ฉันรู้!",
+      "PERSIAN": "من می دانم!"
+    },
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 32.1
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "말숙이한테도 얘기도 안 하고 온 건 좀 심했지...",
+      "ENGLISH": "But you didn’t even tell Mal-sook you were coming last time, that was a bit much...",
+      "CHINESE_SIMPLIFIED": "但你不和末淑说一声就跑回来是有点…",
+      "CHINESE_TRADITIONAL": "但你不和末淑說一聲就跑回來是有點…",
+      "JAPANESE": "でも、マルスクに内緒で来たのは、さすがにまずいんじゃないか…",
+      "INDONESIAN": "Tapi waktu itu kamu datang tanpa bilang ke Mal-sook, itu keterlaluan...",
+      "PORTUGUESE": "Mas da última vez você nem avisou a Mal-sook que tava vindo, foi um exagero...",
+      "RUSSIAN": "Но в прошлый раз ты даже Мал-Сук не сказала, что собираешься прийти, это было слишком...",
+      "FRENCH": "Mais la dernière fois, tu n’as même pas prévenu Mal-sook que tu venais, c’était un peu trop...",
+      "THAI": "แต่ครั้งที่แล้ว เธอไม่บอกมัลซุกเลยว่าเธอจะมา มันเกินไปหน่อยนะ...",
+      "PERSIAN": "اما تو حتی به مال‌سوک نگفتی که دفعه قبل می آیی، این یک مقدار زیاد بود..."
+    },
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "오빤 언니 얘기 안 하면 나랑 도저히 그렇게 할 얘기가 없어?",
+      "ENGLISH": "Do you have nothing to talk about with me if it’s not about Mal-sook?",
+      "CHINESE_SIMPLIFIED": "是不是不提姐姐你就没话和我说?",
+      "CHINESE_TRADITIONAL": "是不是不提姐姐你就沒話和我說?",
+      "JAPANESE": "お兄ちゃん、お姉ちゃんの話しないと、私とは会話が続かないの？",
+      "INDONESIAN": "Kamu gak punya topik lain buat dibicarakan selain Mal-sook?",
+      "PORTUGUESE": "Você não tem nada pra falar comigo se não for sobre a Mal-sook?",
+      "RUSSIAN": "У тебя нет других тем для разговора со мной, кроме как про Мал-Сук?",
+      "FRENCH": "Tu n’as rien à dire avec moi si ce n’est pas à propos de Mal-sook ?",
+      "THAI": "ถ้าไม่พูดถึงมัลซุก เธอไม่มีเรื่องจะคุยกับฉันแล้วเหรอ?",
+      "PERSIAN": "اگر در مورد مال‌سوک نیست، چیزی برای صحبت با من ندارید؟"
+    },
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 40.2
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "나 미국에서 하루도 빠짐없이 오빠 생각만 했어.",
+      "ENGLISH": "I thought about you every single day in the US.",
+      "CHINESE_SIMPLIFIED": "我在美国的时候每天都在想你!",
+      "CHINESE_TRADITIONAL": "我在美國的時候每天都在想你!",
+      "JAPANESE": "私、アメリカにいても毎日お兄ちゃんのことばかり考えてた。",
+      "INDONESIAN": "Aku kepikiran kamu setiap hari waktu di Amerika.",
+      "PORTUGUESE": "Eu pensei em você todos os dias enquanto tava nos EUA.",
+      "RUSSIAN": "Я думала о тебе каждый день в Америке.",
+      "FRENCH": "J’ai pensé à toi tous les jours aux États-Unis.",
+      "THAI": "ฉันคิดถึงเธอทุกวันตอนอยู่ที่อเมริกา",
+      "PERSIAN": "من هر روز در ایالات متحده به شما فکر می کردم."
+    },
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 43.4
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "오빠한테 누가 생기진 않았을까?",
+      "ENGLISH": "I worried someone might come into your life",
+      "CHINESE_SIMPLIFIED": "我担心你会交女朋友",
+      "CHINESE_TRADITIONAL": "我擔心你會交女朋友",
+      "JAPANESE": "お兄ちゃんに彼女ができたんじゃないかって...",
+      "INDONESIAN": "Aku khawatir ada orang yang bakal masuk ke hidupmu",
+      "PORTUGUESE": "Eu fiquei preocupada que alguém pudesse entrar na sua vida",
+      "RUSSIAN": "Боялась, что кто-то войдёт в твою жизнь,",
+      "FRENCH": "Je m’inquiétais que quelqu’un arrive dans ta vie",
+      "THAI": "ฉันกลัวว่าจะมีใครเข้ามาในชีวิตเธอ",
+      "PERSIAN": "نگران بودم کسی وارد زندگیت بشه"
+    },
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 45.7
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "내가 갈 때까지 아무 일도 없었으면 좋겠다.",
+      "ENGLISH": "That nothing bad would happen before I got back.",
+      "CHINESE_SIMPLIFIED": "还怕我回去之前会有什么意外",
+      "CHINESE_TRADITIONAL": "還怕我回去之前會有什麼意外",
+      "JAPANESE": "私が帰るまでは、いないでほしいってずっと思ってた。",
+      "INDONESIAN": "Atau terjadi sesuatu yang buruk sebelum aku pulang.",
+      "PORTUGUESE": "Ou que algo ruim acontecesse antes de eu voltar.",
+      "RUSSIAN": "что что-то плохое случится до моего возвращения.",
+      "FRENCH": "ou qu’il se passe quelque chose de mal avant que je revienne.",
+      "THAI": "และกลัวว่าจะเกิดอะไรไม่ดีขึ้นก่อนที่ฉันจะกลับมา",
+      "PERSIAN": "اینکه قبل از برگشتنم هیچ اتفاق بدی نمی افتد."
+    },
+    "TIME": {
+      "SHOW": 45.7,
+      "HIDE": 47.9
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "그리고 가자마자 오빠한테 고백하겠다고 다짐했는데",
+      "ENGLISH": "I promised myself I'd confess to you the moment I returned. ",
+      "CHINESE_SIMPLIFIED": "我一回来就下定决心和哥哥表白了",
+      "CHINESE_TRADITIONAL": "我一回來就下定決心和哥哥表白了",
+      "JAPANESE": "だから、帰国したらすぐにお兄ちゃんに告白しようって決めてたの。",
+      "INDONESIAN": "Aku janji sama diri sendiri bakal nyatain perasaanku begitu aku balik.",
+      "PORTUGUESE": "Eu prometi a mim mesma que ia me confessar assim que voltasse.",
+      "RUSSIAN": "Я пообещала себе, что признаюсь тебе, как только вернусь.",
+      "FRENCH": "Je m’étais promis de te faire ma déclaration dès mon retour.",
+      "THAI": "ฉันสัญญากับตัวเองไว้ว่าจะบอกความรู้สึกกับเธอทันทีที่กลับมา",
+      "PERSIAN": "به خودم قول دادم لحظه ای که برگشتم به تو اعتراف کنم."
+    },
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 51.5
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "여기 와서 내가 해볼 수 있는 건",
+      "ENGLISH": "And now, I’ve done everything",
+      "CHINESE_SIMPLIFIED": "自从回来之后",
+      "CHINESE_TRADITIONAL": "自從回來之後",
+      "JAPANESE": "ここに来てから、",
+      "INDONESIAN": "Dan sekarang, aku udah lakuin semuanya",
+      "PORTUGUESE": "E agora, eu já fiz tudo",
+      "RUSSIAN": "И вот, я сделала всё,",
+      "FRENCH": "Et maintenant, j’ai fait tout ce que",
+      "THAI": "และตอนนี้ ฉันทำทุกอย่างที่ทำได้",
+      "PERSIAN": "و اکنون، من همه کارها را انجام داده ام"
+    },
+    "TIME": {
+      "SHOW": 52.35,
+      "HIDE": 53.8
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "다 해본 거 같은데",
+      "ENGLISH": "I can",
+      "CHINESE_SIMPLIFIED": "我能做的都做了",
+      "CHINESE_TRADITIONAL": "我能做的都做了",
+      "JAPANESE": "できることは全部やったと思う。",
+      "INDONESIAN": "Semampuku",
+      "PORTUGUESE": "Que eu podia.",
+      "RUSSIAN": "что могла,",
+      "FRENCH": "je pouvais,",
+      "THAI": "แต่เธอก็เหมือนน้ำ จับไว้ไม่อยู่",
+      "PERSIAN": "من می توانم"
+    },
+    "TIME": {
+      "SHOW": 53.8,
+      "HIDE": 55.2
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "오빠는 진짜 물처럼 잡아도 잡히지가 않아",
+      "ENGLISH": "But you’re like water, I can't hold onto you",
+      "CHINESE_SIMPLIFIED": "但你就像水一样根本抓不住",
+      "CHINESE_TRADITIONAL": "但你就像水一樣根本抓不住",
+      "JAPANESE": "でもお兄ちゃんは、私に全然振り向いてくれない…",
+      "INDONESIAN": "Tapi kamu kayak air, gak bisa aku genggam.",
+      "PORTUGUESE": "Mas você é como água, não consigo te segurar.",
+      "RUSSIAN": "но ты как вода, не могу удержать тебя.",
+      "FRENCH": "mais tu es comme de l’eau, impossible de te retenir.",
+      "PERSIAN": "اما تو مثل آب هستی، من نمی توانم تو را نگه دارم"
+    },
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 58.07
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "잡은 거 같은데도 다 새어 나가 있고...",
+      "ENGLISH": "Even when I think I have you, you slip away...",
+      "CHINESE_SIMPLIFIED": "就算抓住了也都从指缝间溜走了…",
+      "CHINESE_TRADITIONAL": "就算抓住了也都從指縫間溜走了…",
+      "JAPANESE": "捕まえたつもりでも、すぐに逃げていく。",
+      "INDONESIAN": "Pas aku pikir udah pegang, kamu malah lepas lagi...",
+      "PORTUGUESE": "Quando eu acho que consegui, você escapa de novo...",
+      "RUSSIAN": "Даже когда мне кажется, что ты у меня есть, ты ускользаешь...",
+      "FRENCH": "Même quand je pense t’avoir, tu glisses entre mes doigts...",
+      "THAI": "ถึงจะคิดว่าจับได้แล้ว เธอก็ยังลื่นหลุดไป...",
+      "PERSIAN": "حتی وقتی فکر می کنم تو را دارم، از خودت دور می شوی..."
+    },
+    "TIME": {
+      "SHOW": 58.6,
+      "HIDE": 61.0
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "고은비...",
+      "ENGLISH": "Eun-bi...",
+      "CHINESE_SIMPLIFIED": "高恩妃",
+      "CHINESE_TRADITIONAL": "高恩妃",
+      "JAPANESE": "ウンビ…",
+      "INDONESIAN": "Eun-bi...",
+      "PORTUGUESE": "Eun-bi...",
+      "RUSSIAN": "Ын-би...",
+      "FRENCH": "Eun-bi...",
+      "THAI": "อึนบี...",
+      "PERSIAN": "یون بی..."
+    },
+    "TIME": {
+      "SHOW": 61.1,
+      "HIDE": 62.0
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "몰랐던 거 아니잖아!",
+      "ENGLISH": "You’re not clueless, are you?",
+      "CHINESE_SIMPLIFIED": "你明明知道我的心意啊！",
+      "CHINESE_TRADITIONAL": "你明明知道我的心意啊！",
+      "JAPANESE": "知ってたでしょ？",
+      "INDONESIAN": "Kamu gak clueless, kan?",
+      "PORTUGUESE": "Você não é lerdo, é?",
+      "RUSSIAN": "Ты же не настолько не понимаешь, да?",
+      "FRENCH": "Tu n’es pas si aveugle, quand même ?",
+      "THAI": "เธอไม่ใช่คนไม่เข้าใจใช่ไหม?",
+      "PERSIAN": "تو بی خبر نیستی، نه؟"
+    },
+    "TIME": {
+      "SHOW": 62.5,
+      "HIDE": 63.8
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 진짜 바보 아니야?",
+      "ENGLISH": "A young, pretty girl like me says she likes you",
+      "CHINESE_SIMPLIFIED": "哥哥你是笨蛋吗？",
+      "CHINESE_TRADITIONAL": "哥哥你是笨蛋嗎？",
+      "JAPANESE": "お兄ちゃん、ほんとバカじゃないの？",
+      "INDONESIAN": "Seorang cewek muda dan cantik kayak aku bilang suka sama kamu",
+      "PORTUGUESE": "Uma garota jovem e bonita como eu diz que gosta de você",
+      "RUSSIAN": "Такая молодая, красивая девушка, как я, говорит, что нравится тебе,",
+      "FRENCH": "Une fille jeune et jolie comme moi dit qu’elle t’aime",
+      "THAI": "เด็กสาวสวยๆ อย่างฉันบอกว่าเธอชอบเธอ",
+      "PERSIAN": "یک دختر جوان و زیبا مثل من می گوید که تو را دوست دارد"
+    },
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 66.1
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "나처럼 어리고 예쁜 애가 좋다는데",
+      "ENGLISH": "And you don’t get it?",
+      "CHINESE_SIMPLIFIED": "我这么年轻漂亮的女孩喜欢你，你还无动于衷",
+      "CHINESE_TRADITIONAL": "我這麼年輕漂亮的女孩喜歡你，你還無動於衷",
+      "JAPANESE": "こんなに若くて可愛い子が、好きって言ってるのに。",
+      "INDONESIAN": "Dan kamu gak paham?",
+      "PORTUGUESE": "E você não entende?",
+      "RUSSIAN": "а ты ничего не понимаешь?",
+      "FRENCH": "et tu ne comprends pas ?",
+      "THAI": "แล้วเธอไม่เข้าใจเหรอ?",
+      "PERSIAN": "و متوجه نشدی؟"
+    },
+    "TIME": {
+      "SHOW": 66.1,
+      "HIDE": 68.3
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "SCRIPT": {
+      "KOREAN": "솔직히 난 이해가 안 가.",
+      "ENGLISH": "I don’t understand.",
+      "CHINESE_SIMPLIFIED": "我真理解不了一点儿",
+      "CHINESE_TRADITIONAL": "我真理解不了一點兒",
+      "JAPANESE": "正直、私には理解できない。",
+      "INDONESIAN": "Aku gak ngerti.",
+      "PORTUGUESE": "Eu não entendo.",
+      "RUSSIAN": "Я не понимаю.",
+      "FRENCH": "Je ne comprends pas.",
+      "THAI": "ฉันไม่เข้าใจ",
+      "PERSIAN": "من نمی فهمم"
+    },
+    "TIME": {
+      "SHOW": 68.3,
+      "HIDE": 70.0
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "SCRIPT": {
+      "KOREAN": "그러니깐 나는...",
+      "ENGLISH": "Eun-bi, I...",
+      "CHINESE_SIMPLIFIED": "我是因为…",
+      "CHINESE_TRADITIONAL": "我是因爲…",
+      "JAPANESE": "だから、俺は…",
+      "INDONESIAN": "Eun-bi, aku...",
+      "PORTUGUESE": "Eun-bi, eu...",
+      "RUSSIAN": "Ын-би, я...",
+      "FRENCH": "Eun-bi, je...",
+      "THAI": "อึนบี ฉัน...",
+      "PERSIAN": "یون بی، من..."
+    },
+    "TIME": {
+      "SHOW": 70.5,
+      "HIDE": 72.1
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "SCRIPT": {
+      "KOREAN": "됐어 나 잘 거야... ",
+      "ENGLISH": "Forget it, I’m going to sleep.",
+      "CHINESE_SIMPLIFIED": "行了我要睡觉了",
+      "CHINESE_TRADITIONAL": "行了我要睡覺了",
+      "JAPANESE": "もういい、寝る。",
+      "INDONESIAN": "Udahlah, aku mau tidur.",
+      "PORTUGUESE": "Esquece, vou dormir.",
+      "RUSSIAN": "Забудь, я пойду спать.",
+      "FRENCH": "Laisse tomber, je vais dormir.",
+      "THAI": "ช่างมัน ฉันจะไปนอนแล้ว",
+      "PERSIAN": "فراموشش کن من میرم بخوابم"
+    },
+    "TIME": {
+      "SHOW": 72.1,
+      "HIDE": 73.7
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 깊게 생각하고 나중에 대답해줘.",
+      "ENGLISH": "Think deeply and give me your answer later.",
+      "CHINESE_SIMPLIFIED": "你好好想想再给我答复吧",
+      "CHINESE_TRADITIONAL": "你好好想想再給我答覆吧",
+      "JAPANESE": "だから、ちゃんと考えてから、返事して。",
+      "INDONESIAN": "Pikirin baik-baik dan kasih jawabannya nanti.",
+      "PORTUGUESE": "Pensa bem e me dá a resposta depois.",
+      "RUSSIAN": "Подумай как следует и дай мне ответ позже.",
+      "FRENCH": "Réfléchis bien et donne-moi ta réponse plus tard.",
+      "THAI": "คิดให้ดีแล้วค่อยตอบฉันทีหลัง",
+      "PERSIAN": "عمیقا فکر کن و بعدا جوابتو بده."
+    },
+    "TIME": {
+      "SHOW": 76.3,
+      "HIDE": 79.3
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "SCRIPT": {
+      "KOREAN": "알았어",
+      "ENGLISH": "Alright",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "分かった。",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Tá bom.",
+      "RUSSIAN": "Ладно",
+      "FRENCH": "D’accord.",
+      "THAI": "โอเค",
+      "PERSIAN": "باشه"
+    },
+    "TIME": {
+      "SHOW": 82.0,
+      "HIDE": 83.0
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 나간다.",
+      "ENGLISH": "I’ll leave now.",
+      "CHINESE_SIMPLIFIED": "那我先出去了",
+      "CHINESE_TRADITIONAL": "那我先出去了",
+      "JAPANESE": "じゃあな。",
+      "INDONESIAN": "Aku pergi dulu.",
+      "PORTUGUESE": "Vou embora agora.",
+      "RUSSIAN": "Я ухожу.",
+      "FRENCH": "Je m’en vais maintenant.",
+      "THAI": "ฉันจะออกไปแล้ว",
+      "PERSIAN": "الان میرم"
+    },
+    "TIME": {
+      "SHOW": 84.1,
+      "HIDE": 85.2
+    }
+  }
+]

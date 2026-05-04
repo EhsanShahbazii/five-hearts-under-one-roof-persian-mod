@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 재밌게 잘 놀았다!",
+      "ENGLISH": "I had so much fun today!",
+      "CHINESE_SIMPLIFIED": "玩儿得真开心!",
+      "CHINESE_TRADITIONAL": "玩兒得真開心!",
+      "JAPANESE": "本当に楽しかった！",
+      "INDONESIAN": "Aku senang banget hari ini!",
+      "PORTUGUESE": "Eu me diverti muito hoje!",
+      "RUSSIAN": "Сегодня было так весело!",
+      "FRENCH": "Je me suis tellement amusée aujourd’hui !",
+      "THAI": "วันนี้สนุกมากเลย!",
+      "PERSIAN": "امروز خیلی خوش گذشت!"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "역시 한국 오길 잘했어!",
+      "ENGLISH": "Coming back to Korea was the right choice, haha.",
+      "CHINESE_SIMPLIFIED": "果然回韩国是正确的选择!",
+      "CHINESE_TRADITIONAL": "果然回韓國是正確的選擇!",
+      "JAPANESE": "やっぱり韓国に来てよかった！",
+      "INDONESIAN": "Balik ke Korea ternyata pilihan yang tepat, haha.",
+      "PORTUGUESE": "Voltar pra Coreia foi a escolha certa, haha.",
+      "RUSSIAN": "Вернуться в Корею было правильным решением, ха-ха.",
+      "FRENCH": "Revenir en Corée, c’était la bonne décision, haha.",
+      "THAI": "กลับมาเกาหลีเป็นการตัดสินใจที่ถูกต้องจริง ๆ ฮ่า ๆ.",
+      "PERSIAN": "بازگشت به کره انتخاب درستی بود، هاها."
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 진짜 체력 대단하다...",
+      "ENGLISH": "You have a lot of energy...",
+      "CHINESE_SIMPLIFIED": "你体力是真的好!",
+      "CHINESE_TRADITIONAL": "你體力是真的好!",
+      "JAPANESE": "お前、本当に体力すごいな…",
+      "INDONESIAN": "Kamu energik banget ya...",
+      "PORTUGUESE": "Você tem muita energia...",
+      "RUSSIAN": "У тебя столько энергии...",
+      "FRENCH": "T’as vraiment beaucoup d’énergie...",
+      "THAI": "เธอมีพลังเยอะจัง...",
+      "PERSIAN": "انرژی زیادی داری..."
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "살던 데는 그대로네? ",
+      "ENGLISH": "Everything here looks the same.",
+      "CHINESE_SIMPLIFIED": "这里还和以前一模一样",
+      "CHINESE_TRADITIONAL": "這裏還和以前一模一樣",
+      "JAPANESE": "住んでた場所は変わってないんだね？",
+      "INDONESIAN": "Semuanya di sini masih kelihatan sama.",
+      "PORTUGUESE": "Tudo aqui ainda parece igual.",
+      "RUSSIAN": "Здесь всё выглядит так же, как раньше.",
+      "FRENCH": "Tout ici est resté pareil.",
+      "THAI": "ทุกอย่างที่นี่ดูเหมือนเดิมเลย.",
+      "PERSIAN": "همه چیز اینجا به نظر می رسد."
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "지금 어머니 아버지 계셔?",
+      "ENGLISH": "Are your parents still here?",
+      "CHINESE_SIMPLIFIED": "对了，叔叔阿姨都在家吗?",
+      "CHINESE_TRADITIONAL": "對了，叔叔阿姨都在家嗎?",
+      "JAPANESE": "家にお母さんとお父さんいるの？",
+      "INDONESIAN": "Orang tuamu masih di sini?",
+      "PORTUGUESE": "Seus pais ainda estão aqui?",
+      "RUSSIAN": "Твои родители всё ещё здесь?",
+      "FRENCH": "Tes parents sont toujours là ?",
+      "THAI": "พ่อแม่ของนายยังอยู่ที่นี่ไหม?",
+      "PERSIAN": "پدر و مادرت هنوز اینجا هستند؟"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.9
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아, 내가 얘기를 안 했구나...",
+      "ENGLISH": "Oh, didn't I tell you?",
+      "CHINESE_SIMPLIFIED": "我没和你说吗?",
+      "CHINESE_TRADITIONAL": "我沒和你說嗎?",
+      "JAPANESE": "あ、言ってなかったか…",
+      "INDONESIAN": "Oh, aku belum cerita ya?",
+      "PORTUGUESE": "Ah, eu não te contei?",
+      "RUSSIAN": "Ой, я разве не говорил?",
+      "FRENCH": "Oh, je t’ai pas dit ?",
+      "THAI": "อ้าว ฉันยังไม่ได้บอกเหรอ?",
+      "PERSIAN": "اوه، مگه بهت نگفتم؟"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "나 하숙을 시작...",
+      "ENGLISH": "I started a boarding...",
+      "CHINESE_SIMPLIFIED": "我最近在经营合租房…",
+      "CHINESE_TRADITIONAL": "我最近在經營合租房…",
+      "JAPANESE": "俺、下宿を始めて…",
+      "INDONESIAN": "Aku mulai usaha boarding...",
+      "PORTUGUESE": "Comecei um alojamento...",
+      "RUSSIAN": "Я открыл общежитие...",
+      "FRENCH": "J’ai ouvert une pension...",
+      "THAI": "ฉันเปิดบ้านพักนะ...",
+      "PERSIAN": "سوار شدن رو شروع کردم..."
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "샴푸를 만들러 갔다 오나! 왜 이제 와!",
+      "ENGLISH": "Where did you go to make shampoo?! Why are you so late!",
+      "CHINESE_SIMPLIFIED": "你是去造洗发水了吗?怎么才回来?",
+      "CHINESE_TRADITIONAL": "你是去造洗髮水了嗎?怎麼纔回來?",
+      "JAPANESE": "シャンプーでも作りに行ってたの？何で今さら戻ってきたの！",
+      "INDONESIAN": "Kamu pergi ke mana buat bikin sampo?! Kenapa lama banget!",
+      "PORTUGUESE": "Onde você foi fazer xampu?! Por que demorou tanto?",
+      "RUSSIAN": "Куда ты ходил за шампунем?! Почему так долго?!",
+      "FRENCH": "Où t’étais passé pour acheter du shampooing ? Pourquoi t’as mis autant de temps ?!",
+      "THAI": "นายไปซื้อแชมพูที่ไหนมา ทำไมกลับมาช้าจัง?!",
+      "PERSIAN": "کجا رفتی شامپو درست کردی؟! چرا اینقدر دیر کردی!"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 고은비?",
+      "ENGLISH": "What? Go Eun-bi?",
+      "CHINESE_SIMPLIFIED": "什么情况?高恩妃?",
+      "CHINESE_TRADITIONAL": "什麼情況?高恩妃?",
+      "JAPANESE": "お、ウンビ？",
+      "INDONESIAN": "Apa? Go Eun-bi?",
+      "PORTUGUESE": "O quê? Go Eun-bi?",
+      "RUSSIAN": "Что? Го Ынби?",
+      "FRENCH": "Quoi ? Go Eunbi ?",
+      "THAI": "อะไรนะ? โก อึนบี?",
+      "PERSIAN": "چی؟ برو یون بی؟"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "언니?",
+      "ENGLISH": "Unni?",
+      "CHINESE_SIMPLIFIED": "末淑姐?",
+      "CHINESE_TRADITIONAL": "末淑姐?",
+      "JAPANESE": "お姉ちゃん？",
+      "INDONESIAN": "Unni?",
+      "PORTUGUESE": "Unni?",
+      "RUSSIAN": "Унни?",
+      "FRENCH": "Unni ?",
+      "THAI": "ออนนี่?!",
+      "PERSIAN": "Unni؟"
+    },
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "너 한국에 언제 들어왔어?",
+      "ENGLISH": "When did you come back to Korea?",
+      "CHINESE_SIMPLIFIED": "你什么时候回韩国的?",
+      "CHINESE_TRADITIONAL": "你什麼時候回韓國的?",
+      "JAPANESE": "いつ韓国に戻ってきたの？",
+      "INDONESIAN": "Kapan kamu balik ke Korea?",
+      "PORTUGUESE": "Quando você voltou pra Coreia?",
+      "RUSSIAN": "Когда ты вернулась в Корею?",
+      "FRENCH": "Quand est-ce que t’es rentrée en Corée ?",
+      "THAI": "เธอกลับมาเกาหลีเมื่อไหร่?",
+      "PERSIAN": "چه زمانی به کره برگشتید؟"
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야... 아는 거 아니었어?",
+      "ENGLISH": "Wait, you didn’t know?",
+      "CHINESE_SIMPLIFIED": "等等，她回来的事你不知道吗?",
+      "CHINESE_TRADITIONAL": "等等，她回來的事你不知道嗎?",
+      "JAPANESE": "何だよ…知ってたんじゃなかったのかよ。",
+      "INDONESIAN": "Tunggu, kamu nggak tahu?",
+      "PORTUGUESE": "Espera, você não sabia?",
+      "RUSSIAN": "Подожди, ты не знала?",
+      "FRENCH": "Attends, tu savais pas ?",
+      "THAI": "เดี๋ยวนะ เธอไม่รู้เหรอ?",
+      "PERSIAN": "صبر کن نمیدونستی؟"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.7
+    }
+  }
+]

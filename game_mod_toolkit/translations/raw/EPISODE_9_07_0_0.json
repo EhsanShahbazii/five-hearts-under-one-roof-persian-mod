@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "설마 사귈 생각까지 하나?",
+      "ENGLISH": "Are you seriously thinking about dating them?",
+      "CHINESE_SIMPLIFIED": "你不会想和她谈恋爱吧?",
+      "CHINESE_TRADITIONAL": "你不會想和她談戀愛吧?",
+      "JAPANESE": "まさか、付き合うつもりだとか？",
+      "INDDONESIAN": "Kamu serius kepikiran buat pacaran sama mereka?",
+      "PORTUGUESE": "Você está mesmo pensando em namorar com eles?",
+      "RUSSIAN": "Ты серьёзно думаешь о том, чтобы встречаться с ним?",
+      "FRENCH": "Tu penses sérieusement à sortir avec lui ?",
+      "THAI": "จริงๆ แล้ว คุณคิดจะเดตกับเขาเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "저는 진짜 만약에 사귀게 되면...",
+      "ENGLISH": "Honestly, if we ever did date...",
+      "CHINESE_SIMPLIFIED": "说真的，如果我们交往的话…",
+      "CHINESE_TRADITIONAL": "說真的，如果我們交往的話…",
+      "JAPANESE": "もし本当に付き合うことになったら…",
+      "INDDONESIAN": "Jujur saja, kalau kita benar-benar jadian...",
+      "PORTUGUESE": "Sinceramente, se a gente realmente namorasse...",
+      "RUSSIAN": "Честно говоря, если бы мы когда-нибудь начали встречаться...",
+      "FRENCH": "Franchement, si jamais on sortait ensemble...",
+      "THAI": "พูดตามตรง ถ้าเราคบกันจริงๆ..."
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.7
+    }
+  }
+]

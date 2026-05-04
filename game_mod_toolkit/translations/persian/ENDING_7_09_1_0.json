@@ -1,0 +1,382 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우유만! 빨리 나와!",
+      "ENGLISH": "Yuman! Get out here! ",
+      "CHINESE_SIMPLIFIED": "吴宥万!快出来!",
+      "CHINESE_TRADITIONAL": "吳宥萬!快出來!",
+      "JAPANESE": "ユマン、早く！",
+      "INDONESIAN": "Yuman! Keluar sini!",
+      "PORTUGUESE": "Yuman! Sai daí!",
+      "RUSSIAN": "Юман! Выходи!",
+      "FRENCH": "Yuman ! Sors d’ici !",
+      "THAI": "ยูมัน! ออกมาเดี๋ยวนี้!",
+      "PERSIAN": "یومان! برو بیرون!"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 이러다 회사 진짜 짤려!",
+      "ENGLISH": "You're going to get fired!",
+      "CHINESE_SIMPLIFIED": "再不出来要被炒鱿鱼啦!",
+      "CHINESE_TRADITIONAL": "再不出來要被炒魷魚啦!",
+      "JAPANESE": "このままだと本当にクビになるわよ！",
+      "INDONESIAN": "Kamu bakal dipecat!",
+      "PORTUGUESE": "Você vai ser demitido!",
+      "RUSSIAN": "Тебя уволят!",
+      "FRENCH": "Tu vas te faire virer !",
+      "THAI": "เธอกำลังจะโดนไล่ออกนะ!",
+      "PERSIAN": "داری اخراج میشی!"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어어 다 됐어, 다 됐어!!",
+      "ENGLISH": "Okay, okay, I'm almost done!",
+      "CHINESE_SIMPLIFIED": "嗯嗯! 来了来了!",
+      "CHINESE_TRADITIONAL": "嗯嗯! 來了來了!",
+      "JAPANESE": "もうすぐ！もうすぐ終わるって！！",
+      "INDONESIAN": "Oke, oke, aku hampir selesai!",
+      "PORTUGUESE": "Ok, ok, já estou quase terminando!",
+      "RUSSIAN": "Ладно, ладно, я почти закончил(а)!",
+      "FRENCH": "D’accord, d’accord, j’ai presque fini !",
+      "THAI": "โอเคๆ ฉันใกล้เสร็จแล้ว!",
+      "PERSIAN": "باشه، باشه، من تقریبا تموم کردم!"
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.8
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "가방.",
+      "ENGLISH": "Your bag.",
+      "CHINESE_SIMPLIFIED": "包给你",
+      "CHINESE_TRADITIONAL": "包給你",
+      "JAPANESE": "はい、カバン。",
+      "INDONESIAN": "Tasmu.",
+      "PORTUGUESE": "Sua bolsa.",
+      "RUSSIAN": "Твоя сумка.",
+      "FRENCH": "Ton sac.",
+      "THAI": "กระเป๋าของเธอ",
+      "PERSIAN": "کیف شما"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜 너...!",
+      "ENGLISH": "Seriously...",
+      "CHINESE_SIMPLIFIED": "哎呀! 你真是的",
+      "CHINESE_TRADITIONAL": "哎呀! 你真是的",
+      "JAPANESE": "まったく、あんたってほんと…！",
+      "INDONESIAN": "Seriusan...",
+      "PORTUGUESE": "Sério mesmo...",
+      "RUSSIAN": "Серьёзно...",
+      "FRENCH": "Sérieusement...",
+      "THAI": "จริงๆ เลย...",
+      "PERSIAN": "Seriously..."
+    },
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "What? Why?",
+      "CHINESE_SIMPLIFIED": "怎么了?",
+      "CHINESE_TRADITIONAL": "怎麼了?",
+      "JAPANESE": "何か、おかしい？",
+      "INDONESIAN": "Apa? Kenapa?",
+      "PORTUGUESE": "O quê? Por quê?",
+      "RUSSIAN": "Что? Почему?",
+      "FRENCH": "Quoi ? Pourquoi ?",
+      "THAI": "อะไร? ทำไมล่ะ?",
+      "PERSIAN": "What? Why?"
+    },
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "일부러 이러는 거지!",
+      "ENGLISH": "You’re doing this on purpose!",
+      "CHINESE_SIMPLIFIED": "故意的吧?",
+      "CHINESE_TRADITIONAL": "故意的吧?",
+      "JAPANESE": "わざとやってるでしょ！",
+      "INDONESIAN": "Kamu sengaja, ya!",
+      "PORTUGUESE": "Você está fazendo de propósito!",
+      "RUSSIAN": "Ты специально это делаешь!",
+      "FRENCH": "Tu fais exprès, c’est ça !",
+      "THAI": "เธอทำแบบนี้ตั้งใจใช่ไหม!",
+      "PERSIAN": "تو عمدا این کار را می کنی!"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.74
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "너 다른 사람한테",
+      "ENGLISH": "I hate you looking sloppy",
+      "CHINESE_SIMPLIFIED": "明知道我不喜欢",
+      "CHINESE_TRADITIONAL": "明知道我不喜歡",
+      "JAPANESE": "他の人にだらしないところ見せるの",
+      "INDONESIAN": "Aku benci kalau kamu terlihat berantakan",
+      "PORTUGUESE": "Eu odeio quando você parece desleixado",
+      "RUSSIAN": "Я ненавижу, когда ты выглядишь неопрятно",
+      "FRENCH": "Je déteste te voir négligé(e)",
+      "THAI": "ฉันเกลียดเวลาที่เธอดูไม่เรียบร้อย",
+      "PERSIAN": "از شما متنفرم که شلخته به نظر می رسید"
+    },
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "헐렁한 모습 보이는 거 싫다니까?",
+      "ENGLISH": "In front of others, right?",
+      "CHINESE_SIMPLIFIED": "你在别人面前邋里邋遢的",
+      "CHINESE_TRADITIONAL": "你在別人面前邋里邋遢的",
+      "JAPANESE": "嫌って言ってたくせに。",
+      "INDONESIAN": "Di depan orang lain, kan?",
+      "PORTUGUESE": "Na frente dos outros, né?",
+      "RUSSIAN": "перед другими, понятно?",
+      "FRENCH": "devant les autres, tu sais ?",
+      "THAI": "ต่อหน้าคนอื่น เข้าใจไหม?",
+      "PERSIAN": "در مقابل دیگران، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "고마워~",
+      "ENGLISH": "Thanks~",
+      "CHINESE_SIMPLIFIED": "谢谢啦~",
+      "CHINESE_TRADITIONAL": "謝謝啦~",
+      "JAPANESE": "ありがとう。",
+      "INDONESIAN": "Makasih~",
+      "PORTUGUESE": "Obrigada~",
+      "RUSSIAN": "Спасибо~",
+      "FRENCH": "Merci~",
+      "THAI": "ขอบคุณ~",
+      "PERSIAN": "ممنون ~"
+    },
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 22.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "또 잊은 거 없어?",
+      "ENGLISH": "Don’t forget anything.",
+      "CHINESE_SIMPLIFIED": "东西都拿好了吧?",
+      "CHINESE_TRADITIONAL": "東西都拿好了吧?",
+      "JAPANESE": "他に忘れ物ない？",
+      "INDONESIAN": "Jangan sampai ada yang ketinggalan.",
+      "PORTUGUESE": "Não esqueça de nada.",
+      "RUSSIAN": "Не забудь ничего.",
+      "FRENCH": "N’oublie rien.",
+      "THAI": "อย่าลืมอะไรล่ะ",
+      "PERSIAN": "چیزی را فراموش نکن"
+    },
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 25.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "응.",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "嗯嗯",
+      "CHINESE_TRADITIONAL": "嗯嗯",
+      "JAPANESE": "ないよ。",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Ok.",
+      "RUSSIAN": "Окей.",
+      "FRENCH": "D’accord.",
+      "THAI": "โอเค",
+      "PERSIAN": "Okay."
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "나중에 전화해서 또 갖다 달라고 하지 말고!",
+      "ENGLISH": "Don't call me later asking to bring it!",
+      "CHINESE_SIMPLIFIED": "一会儿可别打电话让我给你送!",
+      "CHINESE_TRADITIONAL": "一會兒可別打電話讓我給你送!",
+      "JAPANESE": "後で、持ってきてなんて言わないでよ！",
+      "INDONESIAN": "Jangan telpon aku nanti minta bawain barang, ya!",
+      "PORTUGUESE": "Não me ligue depois pedindo pra levar alguma coisa!",
+      "RUSSIAN": "Не звони мне потом, чтобы я что-то принес(ла)!",
+      "FRENCH": "Ne m’appelle pas plus tard pour que je t’apporte un truc !",
+      "THAI": "อย่ามาโทรหาฉันทีหลังเพื่อให้ฉันเอาของมาให้นะ!",
+      "PERSIAN": "بعداً با من تماس نگیرید که اونو بیاورم!"
+    },
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "나 갈게!",
+      "ENGLISH": "Yeah, I’m going!",
+      "CHINESE_SIMPLIFIED": "我走了啊",
+      "CHINESE_TRADITIONAL": "我走了啊",
+      "JAPANESE": "じゃあ、行ってきます！",
+      "INDONESIAN": "Iya, aku pergi!",
+      "PORTUGUESE": "Sim, estou indo!",
+      "RUSSIAN": "Да, иду!",
+      "FRENCH": "Oui, j’y vais !",
+      "THAI": "ใช่ ฉันไปแล้ว!",
+      "PERSIAN": "آره من میرم!"
+    },
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 30.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "아 맞다.",
+      "ENGLISH": "Oh, wait.",
+      "CHINESE_SIMPLIFIED": "啊, 差点忘了",
+      "CHINESE_TRADITIONAL": "啊, 差點忘了",
+      "JAPANESE": "あ、ちょっと待って！",
+      "INDONESIAN": "Oh, tunggu.",
+      "PORTUGUESE": "Ah, espera.",
+      "RUSSIAN": "О, погоди.",
+      "FRENCH": "Oh, attends.",
+      "THAI": "โอ้ เดี๋ยว",
+      "PERSIAN": "اوه صبر کن"
+    },
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bise",
+      "THAI": "จุ๊บ",
+      "PERSIAN": "*پیک*"
+    },
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 36.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "...나 진짜 간다?",
+      "ENGLISH": "...I'm really leaving now?",
+      "CHINESE_SIMPLIFIED": "那我真走了啊",
+      "CHINESE_TRADITIONAL": "那我真走了啊",
+      "JAPANESE": "…行ってくるね！",
+      "INDONESIAN": "...Aku beneran pergi sekarang?",
+      "PORTUGUESE": "...Estou mesmo indo agora?",
+      "RUSSIAN": "...Теперь я правда ухожу?",
+      "FRENCH": "...Je pars vraiment maintenant ?",
+      "THAI": "...ตอนนี้ฉันไปจริงๆ นะ?",
+      "PERSIAN": "...من واقعا الان دارم میرم؟"
+    },
+    "TIME": {
+      "SHOW": 38.1,
+      "HIDE": 39.8
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "...다녀와~",
+      "ENGLISH": "...Take care!",
+      "CHINESE_SIMPLIFIED": "路上小心~",
+      "CHINESE_TRADITIONAL": "路上小心~",
+      "JAPANESE": "…行ってらっしゃい！",
+      "INDONESIAN": "...Jaga diri ya!",
+      "PORTUGUESE": "...Se cuida!",
+      "RUSSIAN": "...Береги себя!",
+      "FRENCH": "...Prends soin de toi !",
+      "THAI": "...ดูแลตัวเองด้วย!",
+      "PERSIAN": "...مراقب باش!"
+    },
+    "TIME": {
+      "SHOW": 40.96,
+      "HIDE": 42.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "청국장이나 해야지~",
+      "ENGLISH": "Time to make some fermented soybean soup~",
+      "CHINESE_SIMPLIFIED": "该去准备臭酱汤了~",
+      "CHINESE_TRADITIONAL": "該去準備臭醬湯了~",
+      "JAPANESE": "チョングッチャンでも作るろうかな～",
+      "INDONESIAN": "Saatnya bikin sup kedelai fermentasi~",
+      "PORTUGUESE": "Hora de fazer uma sopa de soja fermentada~",
+      "RUSSIAN": "Пора готовить суп из ферментированных соевых бобов~",
+      "FRENCH": "Il est temps de faire de la soupe de soja fermenté~",
+      "THAI": "ได้เวลาทำซุปถั่วเหลืองหมักแล้ว~",
+      "PERSIAN": "زمان درست کردن سوپ سویا تخمیر شده"
+    },
+    "TIME": {
+      "SHOW": 48.1,
+      "HIDE": 49.8
+    }
+  }
+]

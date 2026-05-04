@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "벌써 다 너덜너덜해졌네.",
+      "ENGLISH": "Look at this, it’s already all worn out.",
+      "CHINESE_SIMPLIFIED": "纸都破破烂烂了",
+      "CHINESE_TRADITIONAL": "紙都破破爛爛了",
+      "JAPANESE": "もう、ボロボロだ。",
+      "INDONESIAN": "Lihat nih, ini udah mulai usang.",
+      "PORTUGUESE": "Olha isso, já tá todo desgastado.",
+      "RUSSIAN": "Смотри, оно уже всё износилось.",
+      "FRENCH": "Regarde ça, c’est déjà tout usé.",
+      "THAI": "ดูนี่สิ มันเริ่มสึกหมดแล้ว"
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이거 봐, 이거 봐! 이틀만 붙인다더니 여태 붙어 있네!",
+      "ENGLISH": "See, see! You said you’d take it off in two days, but it’s still there!",
+      "CHINESE_SIMPLIFIED": "看看! 你说只贴两天，结果一直贴到现在!",
+      "CHINESE_TRADITIONAL": "看看! 你說只貼兩天，結果一直貼到現在!",
+      "JAPANESE": "ほら見、やっぱり！2日だけ貼るって言ったくせに、まだ貼ってるじゃないか！",
+      "INDONESIAN": "Lihat, lihat! Kamu bilang bakal lepasin dalam dua hari, tapi ini masih ada!",
+      "PORTUGUESE": "Vê, vê! Você disse que ia tirar em dois dias, mas ainda tá aí!",
+      "RUSSIAN": "Смотри, смотри! Ты говорил, что снимешь это через два дня, но оно всё ещё здесь!",
+      "FRENCH": "Regarde, regarde ! Tu avais dit que tu l’enlèverais en deux jours, mais c’est toujours là !",
+      "THAI": "เห็นไหม เห็นไหม! เธอบอกว่าจะถอดออกในสองวัน แต่ยังอยู่เลย!"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 9.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아이... 지금 떼잖아요...",
+      "ENGLISH": "Ugh, I’m taking it off now...",
+      "CHINESE_SIMPLIFIED": "哎呀…我这不是来撕它了嘛…",
+      "CHINESE_TRADITIONAL": "哎呀…我這不是來撕它了嘛…",
+      "JAPANESE": "あぁ、今剥がしてるところじゃないか…",
+      "INDONESIAN": "Ugh, aku lepas sekarang, deh...",
+      "PORTUGUESE": "Ugh, vou tirar agora...",
+      "RUSSIAN": "Эх, я сейчас сниму...",
+      "FRENCH": "Pff, je vais l’enlever maintenant...",
+      "THAI": "เฮ้อ ฉันจะถอดออกเดี๋ยวนี้แหละ..."
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "으이구, 약속이 얼마나 중요한 건지 몰라?",
+      "ENGLISH": "Seriously, don’t you know how important promises are?",
+      "CHINESE_SIMPLIFIED": "你不知道讲信用的重要性吗?",
+      "CHINESE_TRADITIONAL": "你不知道講信用的重要性嗎?",
+      "JAPANESE": "まったく、約束守らないでどうすんだい！",
+      "INDONESIAN": "Serius, kamu gak tahu ya seberapa pentingnya janji?",
+      "PORTUGUESE": "Sério, você não sabe o quão importante são as promessas?",
+      "RUSSIAN": "Серьёзно, разве ты не понимаешь, как важны обещания?",
+      "FRENCH": "Sérieusement, tu sais à quel point les promesses sont importantes ?",
+      "THAI": "จริงๆ เธอไม่รู้หรือไงว่าสัญญาสำคัญแค่ไหน?"
+    },
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "총각한텐 중요한 게 뭐야?",
+      "ENGLISH": "What’s important to a guy like you?",
+      "CHINESE_SIMPLIFIED": "那对你来说什么最重要呢?",
+      "CHINESE_TRADITIONAL": "那對你來說什麼最重要呢?",
+      "JAPANESE": "あんたの大事なものは何なのさ？",
+      "INDONESIAN": "Apa sih yang penting buat orang kayak kamu?",
+      "PORTUGUESE": "O que é importante pra alguém como você?",
+      "RUSSIAN": "Что важно для такого парня, как ты?",
+      "FRENCH": "Qu’est-ce qui est important pour un gars comme toi ?",
+      "THAI": "อะไรล่ะที่สำคัญสำหรับคนอย่างเธอ?"
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "저는...",
+      "ENGLISH": "Well, for me...",
+      "CHINESE_SIMPLIFIED": "对我来说…",
+      "CHINESE_TRADITIONAL": "對我來說…",
+      "JAPANESE": "僕は…",
+      "INDONESIAN": "Yah, buatku...",
+      "PORTUGUESE": "Bom, pra mim...",
+      "RUSSIAN": "Ну, для меня...",
+      "FRENCH": "Eh bien, pour moi...",
+      "THAI": "สำหรับฉันนะ..."
+    },
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.3
+    }
+  }
+]

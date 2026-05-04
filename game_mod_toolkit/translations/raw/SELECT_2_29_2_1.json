@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 ENFP예요?",
+      "ENGLISH": "You’re really an ENFP?",
+      "CHINESE_SIMPLIFIED": "你居然是ENFP?",
+      "CHINESE_TRADITIONAL": "你居然是ENFP?",
+      "JAPANESE": "本当にENFPなんですか？",
+      "INDONESIAN": "Kamu beneran ENFP?",
+      "PORTUGUESE": "Você é mesmo ENFP?",
+      "RUSSIAN": "Ты и правда ENFP?",
+      "FRENCH": "T’es vraiment ENFP ?",
+      "THAI": "นายเป็น ENFP จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "말도 안 돼요!",
+      "ENGLISH": "No way!",
+      "CHINESE_SIMPLIFIED": "不会吧?",
+      "CHINESE_TRADITIONAL": "不會吧?",
+      "JAPANESE": "ありえないよ！",
+      "INDONESIAN": "Nggak mungkin!",
+      "PORTUGUESE": "Não pode ser!",
+      "RUSSIAN": "Да ладно!",
+      "FRENCH": "Pas possible !",
+      "THAI": "ไม่มีทาง!"
+    },
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.2
+    }
+  }
+]

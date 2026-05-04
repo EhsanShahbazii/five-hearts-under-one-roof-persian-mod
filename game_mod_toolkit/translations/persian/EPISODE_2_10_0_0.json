@@ -1,0 +1,381 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜 이렇게 늦게 일어나!",
+      "ENGLISH": "Why did you wake up so late!",
+      "CHINESE_SIMPLIFIED": "喂，你怎么才醒啊?",
+      "CHINESE_TRADITIONAL": "喂，你怎麼才醒啊?",
+      "JAPANESE": "ちょっと、起きるの遅すぎ！",
+      "INDONESIAN": "Kenapa kamu bangun siang banget!",
+      "PORTUGUESE": "Por que você acordou tão tarde!",
+      "RUSSIAN": "Почему так поздно встал?!",
+      "FRENCH": "Pourquoi t’as dormi si tard ?!",
+      "THAI": "ทำไมตื่นสายขนาดนี้?!",
+      "PERSIAN": "چرا اینقدر دیر بیدار شدی!"
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나, 네 양말 좀 빌린다?",
+      "ENGLISH": "I’m borrowing your socks, okay?",
+      "CHINESE_SIMPLIFIED": "借我双袜子",
+      "CHINESE_TRADITIONAL": "借我雙襪子",
+      "JAPANESE": "靴下、ちょっと借りるな？",
+      "INDONESIAN": "Aku pinjam kaus kakimu, ya?",
+      "PORTUGUESE": "Vou pegar suas meias emprestadas, tá?",
+      "RUSSIAN": "Я возьму твои носки, окей?",
+      "FRENCH": "Je prends tes chaussettes, ça te va ?",
+      "THAI": "ขอยืมถุงเท้านายหน่อยนะ",
+      "PERSIAN": "من جوراباتو قرض میگیرم، باشه؟"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야...",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "那个…",
+      "CHINESE_TRADITIONAL": "那個…",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Чего?",
+      "FRENCH": "Quoi ?",
+      "THAI": "หะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너한테 안 맞을걸...",
+      "ENGLISH": "They won’t fit you...",
+      "CHINESE_SIMPLIFIED": "你穿有点大吧?",
+      "CHINESE_TRADITIONAL": "你穿有點大吧?",
+      "JAPANESE": "サイズ合わないだろ…",
+      "INDONESIAN": "Itu nggak bakal muat buat kamu...",
+      "PORTUGUESE": "Não vai servir em você...",
+      "RUSSIAN": "Они тебе все равно не подойдут...",
+      "FRENCH": "Elles te vont pas, de toute façon...",
+      "THAI": "ยังไงก็ใส่ไม่ได้อยู่แล้ว...",
+      "PERSIAN": "اونا برای شما مناسب نخواهند بود ..."
+    },
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "당연히 안 맞겠지, 근데 괜찮아.",
+      "ENGLISH": "Of course they won’t, but it’s fine.",
+      "CHINESE_SIMPLIFIED": "我穿当然大了，不过没关系",
+      "CHINESE_TRADITIONAL": "我穿當然大了，不過沒關係",
+      "JAPANESE": "そりゃ合わないだろうけど、大丈夫。",
+      "INDONESIAN": "Tentu aja nggak, tapi nggak apa-apa.",
+      "PORTUGUESE": "Claro que não, mas tudo bem.",
+      "RUSSIAN": "Да понятно, но не беда.",
+      "FRENCH": "Évidemment, mais bon, ça ira.",
+      "THAI": "เออ ก็จริง... ช่างเหอะ",
+      "PERSIAN": "البته نمی‌خوان، اما خوب است."
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "나 좀 이따 짐 싸 올게?",
+      "ENGLISH": "I’ll pack my stuff and bring it over later, okay?",
+      "CHINESE_SIMPLIFIED": "我一会儿把行李拿过来",
+      "CHINESE_TRADITIONAL": "我一會兒把行李拿過來",
+      "JAPANESE": "私、ちょっと荷物まとめてくるね。",
+      "INDONESIAN": "Aku bakal kemas barang-barangku dan bawain nanti, ya?",
+      "PORTUGUESE": "Vou arrumar minhas coisas e trazer mais tarde, beleza?",
+      "RUSSIAN": "Соберу вещи и принесу позже, окей?",
+      "FRENCH": "Je ramasse mes affaires et je les amène après, ok ?",
+      "THAI": "เดี๋ยวฉันเก็บของแล้วเอามาให้ทีหลังนะ",
+      "PERSIAN": "وسایلم را بسته‌بندی می‌کنم و بعداً می‌آورم، باشه؟"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아 안 돼...",
+      "ENGLISH": "No way...",
+      "CHINESE_SIMPLIFIED": "不行…",
+      "CHINESE_TRADITIONAL": "不行…",
+      "JAPANESE": "あ、ダメだって…",
+      "INDONESIAN": "Nggak mungkin...",
+      "PORTUGUESE": "Nem pensar...",
+      "RUSSIAN": "Даже не думай...",
+      "FRENCH": "Hors de question...",
+      "THAI": "ไม่เอา...",
+      "PERSIAN": "No way..."
+    },
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "근데 너 뭐 해?",
+      "ENGLISH": "Wait, what are you doing?",
+      "CHINESE_SIMPLIFIED": "你愣着干嘛?",
+      "CHINESE_TRADITIONAL": "你愣着幹嘛?你可要遲到了!",
+      "JAPANESE": "それより、あんた何してるんの？",
+      "INDONESIAN": "Tunggu, kamu ngapain?",
+      "PORTUGUESE": "Espera, o que você tá fazendo?",
+      "RUSSIAN": "Эй, ты что делаешь?",
+      "FRENCH": "Attends, mais qu’est-ce que tu fais ?",
+      "THAI": "เดี๋ยวนะ นายทำอะไร?",
+      "PERSIAN": "صبر کن چیکار میکنی؟"
+    },
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "지금 너 지각이야.",
+      "ENGLISH": "You’re late.",
+      "CHINESE_SIMPLIFIED": "你可要迟到了!",
+      "CHINESE_TRADITIONAL": "你可要遲到了!",
+      "JAPANESE": "もうすでに遅刻してるわよ。",
+      "INDONESIAN": "Kamu udah telat.",
+      "PORTUGUESE": "Você tá atrasado.",
+      "RUSSIAN": "Ты опаздываешь.",
+      "FRENCH": "T’es à la bourre.",
+      "THAI": "นายสายแล้วนะ",
+      "PERSIAN": "دیر اومدی"
+    },
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.5
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 20.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "지각??",
+      "ENGLISH": "I’m late??",
+      "CHINESE_SIMPLIFIED": "迟到?",
+      "CHINESE_TRADITIONAL": "遲到?",
+      "JAPANESE": "遅刻！？",
+      "INDONESIAN": "Aku telat??",
+      "PORTUGUESE": "Tô atrasado??",
+      "RUSSIAN": "Я опаздываю?!",
+      "FRENCH": "Je suis en retard ?!",
+      "THAI": "ฉันสาย?!",
+      "PERSIAN": "دیر اومدم؟؟"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아씨 큰일 났다!",
+      "ENGLISH": "Oh crap!",
+      "CHINESE_SIMPLIFIED": "啊!完了完了!",
+      "CHINESE_TRADITIONAL": "啊!完了完了!",
+      "JAPANESE": "やばっ！",
+      "INDONESIAN": "Aduh!",
+      "PORTUGUESE": "Ah, droga!",
+      "RUSSIAN": "О, черт! ",
+      "FRENCH": "Mince ! ",
+      "THAI": "แย่ละ! ",
+      "PERSIAN": "اوه مزخرف!"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "정장이 어딨지?",
+      "ENGLISH": "Where’s my suit?",
+      "CHINESE_SIMPLIFIED": "正装在哪呢?",
+      "CHINESE_TRADITIONAL": "正裝在哪呢?",
+      "JAPANESE": "スーツどこだっけ？",
+      "INDONESIAN": "Di mana jas ku?",
+      "PORTUGUESE": "Cadê meu terno?",
+      "RUSSIAN": "Где мой костюм?",
+      "FRENCH": "Où est mon costume ?",
+      "THAI": "สูทฉันอยู่ไหน?",
+      "PERSIAN": "کت و شلوار من کجاست؟"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아 고말숙!",
+      "ENGLISH": "Oh, Go Malsook!",
+      "CHINESE_SIMPLIFIED": "高末淑!",
+      "CHINESE_TRADITIONAL": "高末淑!",
+      "JAPANESE": "ああ、マルスクの奴！",
+      "INDONESIAN": "Oh, Go Mal-sook!",
+      "PORTUGUESE": "Oh, Go Mal-sook!",
+      "RUSSIAN": "О, Мал-сук, ",
+      "FRENCH": "Oh, Mal-sook ! ",
+      "THAI": "โอ๊ย มัลซุก! ",
+      "PERSIAN": "اوه، برو ملسوک!"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 30.6
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "이거 또 언제 이렇게 접어놨어!",
+      "ENGLISH": "Why did fold this again!",
+      "CHINESE_SIMPLIFIED": "这些你都是什么时候折的啊?",
+      "CHINESE_TRADITIONAL": "這些你都是什麼時候折的啊?",
+      "JAPANESE": "また、いつこんなことを...",
+      "INDONESIAN": "Kenapa kamu lipat ini lagi!",
+      "PORTUGUESE": "Por que você dobrou isso de novo!",
+      "RUSSIAN": "зачем ты опять все сложил?!",
+      "FRENCH": "Pourquoi t’as encore tout plié ?!",
+      "THAI": "พับทำไมอีกแล้ว?!",
+      "PERSIAN": "چرا دوباره اینو تا کرد!"
+    },
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 32.8
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍한테 쓴 편지 어디 갔지?",
+      "ENGLISH": "Where’s that letter I wrote to Ming-Ming?",
+      "CHINESE_SIMPLIFIED": "哪个是给敏敏的信来着?",
+      "CHINESE_TRADITIONAL": "哪個是給敏敏的信來着?",
+      "JAPANESE": "ミンミンに書いた手紙どこだっけ？",
+      "INDONESIAN": "Mana surat yang aku tulis buat Ming-Ming?",
+      "PORTUGUESE": "Onde tá a carta que eu escrevi pra Ming-Ming?",
+      "RUSSIAN": "Где письмо, которое я писал Мин-Мин?",
+      "FRENCH": "Où est la lettre pour Ming-Ming ?",
+      "THAI": "จดหมายที่เขียนถึงหมิงๆ อยู่ไหน?",
+      "PERSIAN": "اون نامه ای که به مینگ مینگ نوشتم کجاست؟"
+    },
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 36.3
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아 아무거나 챙기자.",
+      "ENGLISH": "I’ll just grab whatever.",
+      "CHINESE_SIMPLIFIED": "唉不管了，随便拿一个吧。",
+      "CHINESE_TRADITIONAL": "唉不管了，隨便拿一個吧。",
+      "JAPANESE": "もう、適当に何でもいいから持って行こう。",
+      "INDONESIAN": "Udah deh, ambil apa aja.",
+      "PORTUGUESE": "Udah deh, pego qualquer coisa.",
+      "RUSSIAN": "Ладно, возьму что под руку попадется.",
+      "FRENCH": "Bon, je vais juste prendre n’importe quoi.",
+      "THAI": "ช่างเถอะ เอาอะไรก็ได้ไปก่อน",
+      "PERSIAN": "من فقط هر چیزی را می گیرم."
+    },
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 38.0
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "ENGLISH": "Manager: Oh, and get six drinks on your way to work~^^",
+      "CHINESE_SIMPLIFIED": "具部长：你来的时候顺便买6杯饮料~",
+      "CHINESE_TRADITIONAL": "具部長：你來的時候順便買6杯飲料~",
+      "JAPANESE": "ク部長： 出勤途中に、飲み物6個お願いね。",
+      "INDONESIAN": "Manajer: Oh, dan beli enam minuman di jalan ke kantor, ya~^^",
+      "PORTUGUESE": "Gerente: Ah, e pega seis bebidas no caminho pro trabalho~^^",
+      "RUSSIAN": "О, и не забудь захватить шесть напитков по дороге на работу~^^",
+      "FRENCH": "Ah, et prends six boissons en passant au boulot~^^",
+      "THAI": "อ้อ อย่าลืมซื้อเครื่องดื่มหกขวดมาด้วยนะ~^^",
+      "PERSIAN": "مدیر: اوه، و شش نوشیدنی در راه خود به سر کار بیاورید~^^"
+    },
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 40.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "어? 음료수를 사 오라고?",
+      "ENGLISH": "What? Get drinks?",
+      "CHINESE_SIMPLIFIED": "嗯? 让我买饮料?",
+      "CHINESE_TRADITIONAL": "嗯? 讓我買飲料?",
+      "JAPANESE": "え？飲み物を買ってこいだって？",
+      "INDONESIAN": "Apa? Beli minuman?",
+      "PORTUGUESE": "O quê? Pegar bebidas?",
+      "RUSSIAN": "Чего? Напитки?!",
+      "FRENCH": "Quoi ? Des boissons ?!",
+      "THAI": "หะ? เครื่องดื่ม?!",
+      "PERSIAN": "چی؟ نوشیدنی بگیرم؟"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 42.5
+    }
+  }
+]

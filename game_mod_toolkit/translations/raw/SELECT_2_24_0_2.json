@@ -1,0 +1,363 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아... 퇴근길에서까지 마주치고 싶지 않아...",
+      "ENGLISH": "Ugh, the last thing I want is to run into him on my way home...",
+      "CHINESE_SIMPLIFIED": "啊，我可不想连下班路上都要面对上司…",
+      "CHINESE_TRADITIONAL": "啊，我可不想連下班路上都要面對上司…",
+      "JAPANESE": "ああ…帰り道まで会いたくないな…",
+      "INDONESIAN": "Ugh, hal terakhir yang aku mau adalah ketemu dia di jalan pulang...",
+      "PORTUGUESE": "Ugh, a última coisa que eu quero é encontrá-lo no caminho de casa...",
+      "RUSSIAN": "Чёрт, меньше всего мне хочется встретить его по дороге домой...",
+      "FRENCH": "Pff, la dernière chose que je veux, c’est tomber sur lui en rentrant...",
+      "THAI": "เฮ้อ... สิ่งสุดท้ายที่ฉันอยากเจอคือหมอนั่นระหว่างทางกลับบ้าน..."
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우유만.",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ユマン。",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "RUSSIAN": "Юман.",
+      "FRENCH": "Yuman.",
+      "THAI": "ยูมัน."
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "어? 형?",
+      "ENGLISH": "Huh? Bro?",
+      "CHINESE_SIMPLIFIED": "哥?",
+      "CHINESE_TRADITIONAL": "哥?",
+      "JAPANESE": "お？兄さん？",
+      "INDONESIAN": "Hah? Bro?",
+      "PORTUGUESE": "Hã? Irmão?",
+      "RUSSIAN": "А? Брат?",
+      "FRENCH": "Hein ? Frérot ?",
+      "THAI": "ห๊ะ? พี่ชาย?"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.7
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "회사 갔다 왔냐?",
+      "ENGLISH": "Just got back from work?",
+      "CHINESE_SIMPLIFIED": "下班了？",
+      "CHINESE_TRADITIONAL": "下班了？",
+      "JAPANESE": "退勤したのか？",
+      "INDONESIAN": "Baru pulang kerja?",
+      "PORTUGUESE": "Acabou de voltar do trabalho?",
+      "RUSSIAN": "Только с работы?",
+      "FRENCH": "Tu rentres du boulot ?",
+      "THAI": "เพิ่งกลับจากทำงานเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "对…",
+      "CHINESE_TRADITIONAL": "對…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim...",
+      "RUSSIAN": "Ага...",
+      "FRENCH": "Ouais...",
+      "THAI": "อืม..."
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "내 옆자리 치워 놨는데...",
+      "ENGLISH": "I saved you a seat next to me...",
+      "CHINESE_SIMPLIFIED": "我本来在公司给你准备了个位置...",
+      "CHINESE_TRADITIONAL": "我本來在公司給你準備了個位置...",
+      "JAPANESE": "俺の隣の席、片付けておいたのに…",
+      "INDONESIAN": "Aku udah simpan tempat duduk buat kamu di sebelahku...",
+      "PORTUGUESE": "Guardei um lugar pra você do meu lado...",
+      "RUSSIAN": "Я приберёг для тебя место рядом со мной...",
+      "FRENCH": "Je t’ai gardé une place à côté de moi...",
+      "THAI": "ฉันจองที่นั่งข้าง ๆ ไว้ให้นายด้วยนะ..."
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아쉽네...",
+      "ENGLISH": "Too bad...",
+      "CHINESE_SIMPLIFIED": "可惜了…",
+      "CHINESE_TRADITIONAL": "可惜了…",
+      "JAPANESE": "残念だな…",
+      "INDONESIAN": "Sayang banget...",
+      "PORTUGUESE": "Que pena...",
+      "RUSSIAN": "Жаль...",
+      "FRENCH": "Dommage...",
+      "THAI": "เสียดาย..."
+    },
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "회사 사람들은 어때?",
+      "ENGLISH": "How’s work?",
+      "CHINESE_SIMPLIFIED": "公司的人怎么样?",
+      "CHINESE_TRADITIONAL": "公司的人怎麼樣?",
+      "JAPANESE": "会社の人たちはどうだ？",
+      "INDONESIAN": "Gimana kerjaan?",
+      "PORTUGUESE": "Como foi o trabalho?",
+      "RUSSIAN": "Как работа?",
+      "FRENCH": "Comment ça se passe au travail ?",
+      "THAI": "งานเป็นยังไงบ้าง?"
+    },
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.6
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "잘생긴 애들...",
+      "ENGLISH": "Got any...",
+      "CHINESE_SIMPLIFIED": "好看的人...",
+      "CHINESE_TRADITIONAL": "好看的人...",
+      "JAPANESE": "イケメンな子たち…",
+      "INDONESIAN": "Ada...",
+      "PORTUGUESE": "Tem...",
+      "RUSSIAN": "Есть... ",
+      "FRENCH": "T’as... ",
+      "THAI": "มี..."
+    },
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "많아?",
+      "ENGLISH": "Hot colleagues?",
+      "CHINESE_SIMPLIFIED": "多吗?",
+      "CHINESE_TRADITIONAL": "多嗎?",
+      "JAPANESE": "多いか？",
+      "INDONESIAN": "Rekan kerja cantik?",
+      "PORTUGUESE": "Colegas bonitinhas?",
+      "RUSSIAN": "симпатичные коллеги?",
+      "FRENCH": "des collègues canons ?",
+      "THAI": "เพื่อนร่วมงานสวย ๆ มั้ย?"
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.6
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그것까진 잘 모르겠는데요...",
+      "ENGLISH": "I don’t really notice...",
+      "CHINESE_SIMPLIFIED": "不太清楚…",
+      "CHINESE_TRADITIONAL": "不太清楚…",
+      "JAPANESE": "それはちょっとよく分からないです...",
+      "INDONESIAN": "Aku nggak terlalu memperhatikan...",
+      "PORTUGUESE": "Eu não reparei muito...",
+      "RUSSIAN": "Я как-то не замечаю...",
+      "FRENCH": "Je fais pas vraiment attention...",
+      "THAI": "ฉันไม่ค่อยสังเกต..."
+    },
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "그래? ",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "是吗?",
+      "CHINESE_TRADITIONAL": "是嗎?",
+      "JAPANESE": "そうか。",
+      "INDONESIAN": "Beneran?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Sérieux ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 31.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "먹을래?",
+      "ENGLISH": "Want some food?",
+      "CHINESE_SIMPLIFIED": "你要吃吗?",
+      "CHINESE_TRADITIONAL": "你要吃嗎?",
+      "JAPANESE": "食べるか？",
+      "INDONESIAN": "Mau makan?",
+      "PORTUGUESE": "Quer comer alguma coisa?",
+      "RUSSIAN": "Хочешь чего-нибудь поесть?",
+      "FRENCH": "Tu veux manger quelque chose ?",
+      "THAI": "อยากกินอะไรมั้ย?"
+    },
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "아뇨...! 괜찮아요...",
+      "ENGLISH": "No...! I’m fine...!",
+      "CHINESE_SIMPLIFIED": "不...! 我先不吃了…",
+      "CHINESE_TRADITIONAL": "不...! 我先不吃了…",
+      "JAPANESE": "いえ…！大丈夫です…",
+      "INDONESIAN": "Nggak...! Aku nggak lapar...!",
+      "PORTUGUESE": "Não...! Eu tô bem...!",
+      "RUSSIAN": "Нет...! Я в порядке...!",
+      "FRENCH": "Non...! Ça va...!",
+      "THAI": "ไม่...! ฉันโอเค...!"
+    },
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 35.9
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "형 들어가세요...!",
+      "ENGLISH": "You should go inside.",
+      "CHINESE_SIMPLIFIED": "哥你回家路上小心...!",
+      "CHINESE_TRADITIONAL": "哥你回家路上小心...!",
+      "JAPANESE": "兄さんもお疲れ様です…！",
+      "INDONESIAN": "Kamu masuk aja.",
+      "PORTUGUESE": "Você devia entrar.",
+      "RUSSIAN": "Тебе бы зайти внутрь.",
+      "FRENCH": "Tu devrais rentrer.",
+      "THAI": "นายควรเข้าไปข้างในได้แล้ว"
+    },
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "야 소시지...!",
+      "ENGLISH": "Hey, I got sausages...!",
+      "CHINESE_SIMPLIFIED": "喂!这个香肠…!",
+      "CHINESE_TRADITIONAL": "喂!這個香腸…!",
+      "JAPANESE": "おい、ソーセージ…！",
+      "INDONESIAN": "Hei, aku punya sosis...!",
+      "PORTUGUESE": "Ei, eu trouxe salsichas...!",
+      "RUSSIAN": "Эй, у меня есть сосиски...!",
+      "FRENCH": "Eh, j’ai pris des saucisses...!",
+      "THAI": "เฮ้ ฉันมีไส้กรอกด้วยนะ!"
+    },
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 40.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "너 주려고 사 왔는데...! ",
+      "ENGLISH": "I bought them for you!",
+      "CHINESE_SIMPLIFIED": "我特意给你买的…!",
+      "CHINESE_TRADITIONAL": "我特意給你買的…!",
+      "JAPANESE": "お前にあげようと思って買ってきたんだ…！",
+      "INDONESIAN": "Aku beli buat kamu!",
+      "PORTUGUESE": "Comprei pra você!",
+      "RUSSIAN": "Я купил их для тебя!",
+      "FRENCH": "Je les ai achetées pour toi !",
+      "THAI": "ซื้อมาให้นายเลย!"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 41.9
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "아씨...",
+      "ENGLISH": "Damn it...",
+      "CHINESE_SIMPLIFIED": "真是的…",
+      "CHINESE_TRADITIONAL": "真是的…",
+      "JAPANESE": "くそっ…",
+      "INDONESIAN": "Sial...",
+      "PORTUGUESE": "Droga...",
+      "RUSSIAN": "Чёрт...",
+      "FRENCH": "Merde...",
+      "THAI": "ให้ตายสิ..."
+    },
+    "TIME": {
+      "SHOW": 43.8,
+      "HIDE": 44.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "喂!",
+      "CHINESE_TRADITIONAL": "喂!",
+      "JAPANESE": "おい！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!"
+    },
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 49.0
+    }
+  }
+]

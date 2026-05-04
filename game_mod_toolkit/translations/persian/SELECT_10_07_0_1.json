@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "야, 고은비!",
+      "ENGLISH": "Eun-bi.",
+      "CHINESE_SIMPLIFIED": "高恩妃",
+      "CHINESE_TRADITIONAL": "高恩妃",
+      "JAPANESE": "おい、ウンビ！",
+      "INDONESIAN": "Eun-bi.",
+      "PORTUGUESE": "Eun-bi.",
+      "RUSSIAN": "Ын-би.",
+      "FRENCH": "Eun-bi.",
+      "THAI": "อึนบี.",
+      "PERSIAN": "یون بی."
+    },
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Iya?",
+      "PORTUGUESE": "Sim?",
+      "RUSSIAN": "Да?",
+      "FRENCH": "Oui ?",
+      "THAI": "หืม?",
+      "PERSIAN": "Yeah?"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜 장난치지 마라?",
+      "ENGLISH": "Seriously, quit messing around.",
+      "CHINESE_SIMPLIFIED": "哎呀，拜托你别再闹了!",
+      "CHINESE_TRADITIONAL": "哎呀，拜託你別再鬧了!",
+      "JAPANESE": "ちょっと、やめてって。",
+      "INDONESIAN": "Serius, berhenti bercanda.",
+      "PORTUGUESE": "Sério, para de brincar.",
+      "RUSSIAN": "Серьёзно, хватит валять дурака.",
+      "FRENCH": "Sérieusement, arrête de faire n’importe quoi.",
+      "THAI": "เลิกเล่นได้แล้วนะ",
+      "PERSIAN": "به طور جدی، دست از آشفتگی بردارید."
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.7
+    }
+  }
+]

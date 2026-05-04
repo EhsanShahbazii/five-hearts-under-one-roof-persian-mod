@@ -1,0 +1,268 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 진짜 네 앨범은 볼 때마다 웃기냐?",
+      "ENGLISH": "Seriously, why is your album always so funny?",
+      "CHINESE_SIMPLIFIED": "我每次看你的相册都想笑!",
+      "CHINESE_TRADITIONAL": "我每次看你的相冊都想笑!",
+      "JAPANESE": "あんたのアルバム、見るたびにウケるんだけど？",
+      "INDONESIAN": "Serius deh, kenapa albummu selalu kocak banget?",
+      "PORTUGUESE": "Sério, por que seu álbum é sempre tão engraçado?",
+      "RUSSIAN": "Серьёзно, почему твой альбом всегда такой смешной?",
+      "FRENCH": "Sérieusement, pourquoi ton album est toujours aussi drôle ?",
+      "THAI": "จริงจังนะ ทำไมอัลบั้มของนายถึงตลกตลอดเลย?"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜... 내가 가장 귀여울 땐데!",
+      "ENGLISH": "Why... that’s when I was the cutest!",
+      "CHINESE_SIMPLIFIED": "笑什么啊…那可是我人生最可爱的时候",
+      "CHINESE_TRADITIONAL": "笑什麼啊…那可是我人生最可愛的時候",
+      "JAPANESE": "何だよ…一番可愛い時期なのに。",
+      "INDONESIAN": "Kenapa... itu pas aku lagi paling imut!",
+      "PORTUGUESE": "Por quê... foi quando eu tava mais fofa!",
+      "RUSSIAN": "Почему... ведь это я был самым милым!",
+      "FRENCH": "Pourquoi... C’était le moment où j’étais le plus mignon !",
+      "THAI": "ทำไมล่ะ... ตอนนั้นฉันน่ารักที่สุดเลยนะ!"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이땐 귀여웠지... ",
+      "ENGLISH": "You were cute then...",
+      "CHINESE_SIMPLIFIED": "那时候确实可爱…",
+      "CHINESE_TRADITIONAL": "那時候確實可愛…",
+      "JAPANESE": "この時は可愛かったけどさ…",
+      "INDONESIAN": "Kamu memang imut waktu itu...",
+      "PORTUGUESE": "Você era fofa naquela época...",
+      "RUSSIAN": "Тогда ты действительно был милым...",
+      "FRENCH": "T’étais mignon à l’époque...",
+      "THAI": "ตอนนั้นนายก็น่ารักจริง ๆ..."
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "근데 지금은 왜 이렇게 됐을까...?",
+      "ENGLISH": "What happened now?",
+      "CHINESE_SIMPLIFIED": "不过现在怎么就成了这样了呢?",
+      "CHINESE_TRADITIONAL": "不過現在怎麼就成了這樣了呢?",
+      "JAPANESE": "でも、今は何でこうなっちゃったのかしら…？",
+      "INDONESIAN": "Sekarang kenapa jadi gini?",
+      "PORTUGUESE": "O que aconteceu agora?",
+      "RUSSIAN": "А что случилось теперь?",
+      "FRENCH": "Qu’est-ce qui s’est passé depuis ?",
+      "THAI": "แล้วตอนนี้ล่ะ เกิดอะไรขึ้น?"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.4
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아 땀 냄새!",
+      "ENGLISH": "Ugh, you smell like sweat!",
+      "CHINESE_SIMPLIFIED": "啊, 汗味!",
+      "CHINESE_TRADITIONAL": "啊, 汗味!",
+      "JAPANESE": "うわっ、汗臭い！",
+      "INDONESIAN": "Ugh, kamu bau keringat!",
+      "PORTUGUESE": "Ugh, você tá cheirando a suor!",
+      "RUSSIAN": "Фу, ты пахнешь потом!",
+      "FRENCH": "Pouah, tu sens la sueur !",
+      "THAI": "อื้อหือ! นายเหม็นเหงื่อ!"
+    },
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오늘 땀 좀 흘리긴 했는데...",
+      "ENGLISH": "Yeah, I did sweat a lot today...",
+      "CHINESE_SIMPLIFIED": "今天确实出了好多汗…",
+      "CHINESE_TRADITIONAL": "今天確實出了好多汗…",
+      "JAPANESE": "今日、ちょっと汗かいたんだから、仕方ないだろ…",
+      "INDONESIAN": "Iya, aku emang banyak keringetan hari ini...",
+      "PORTUGUESE": "Pois é, suei muito hoje...",
+      "RUSSIAN": "Да, я сегодня сильно вспотел...",
+      "FRENCH": "Ouais, j’ai beaucoup transpiré aujourd’hui...",
+      "THAI": "วันนี้ฉันเหงื่อออกเยอะจริง ๆ..."
+    },
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "너 오늘은 꼭 씻고 누워라.",
+      "ENGLISH": "You better shower before you go to bed.",
+      "CHINESE_SIMPLIFIED": "你今天睡觉前必须洗澡",
+      "CHINESE_TRADITIONAL": "你今天睡覺前必須洗澡",
+      "JAPANESE": "今日こそ、ちゃんとシャワー浴びてから、寝な。",
+      "INDONESIAN": "Mending mandi dulu sebelum tidur.",
+      "PORTUGUESE": "Melhor tomar banho antes de dormir.",
+      "RUSSIAN": "Тебе лучше помыться перед сном.",
+      "FRENCH": "Tu ferais mieux de te doucher avant d’aller te coucher.",
+      "THAI": "อาบน้ำก่อนนอนเถอะ."
+    },
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 귀찮은데...",
+      "ENGLISH": "I’m too lazy...",
+      "CHINESE_SIMPLIFIED": "洗澡太麻烦了…",
+      "CHINESE_TRADITIONAL": "洗澡太麻煩了…",
+      "JAPANESE": "ああ、面倒くさいな…",
+      "INDONESIAN": "Males ah...",
+      "PORTUGUESE": "Tô com preguiça...",
+      "RUSSIAN": "Мне лень...",
+      "FRENCH": "J’ai la flemme...",
+      "THAI": "ขี้เกียจอะ..."
+    },
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 26.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "너가 맨날 그렇게 안 씻고 누우니까 방에서 이상한 냄새 나는 거 아니야.",
+      "ENGLISH": "You never shower before bed, that’s why your room smells weird.",
+      "CHINESE_SIMPLIFIED": "你每天澡都不洗就躺下，房间里当然会有味道了!",
+      "CHINESE_TRADITIONAL": "你每天澡都不洗就躺下，房間裏當然會有味道了!",
+      "JAPANESE": "あんたがいつもシャワーも浴びずに寝るから、部屋から変な匂いするんじゃない。",
+      "INDONESIAN": "Kamu nggak pernah mandi sebelum tidur, makanya kamarmu jadi bau aneh.",
+      "PORTUGUESE": "Você nunca toma banho antes de dormir, por isso seu quarto tem um cheiro estranho.",
+      "RUSSIAN": "Ты никогда не моешься перед сном, вот почему в твоей комнате странно пахнет.",
+      "FRENCH": "Tu prends jamais de douche avant de dormir, c’est pour ça que ta chambre sent bizarre.",
+      "THAI": "นายไม่เคยอาบน้ำก่อนนอนเลยใช่ไหมล่ะ ถึงได้มีกลิ่นแปลก ๆ ในห้องนาย."
+    },
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 30.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나중에 빨면 되지...",
+      "ENGLISH": "I’ll wash it later...",
+      "CHINESE_SIMPLIFIED": "以后再洗不就行了…",
+      "CHINESE_TRADITIONAL": "以後再洗不就行了…",
+      "JAPANESE": "後で回せばいいじゃん…",
+      "INDONESIAN": "Nanti aja deh...",
+      "PORTUGUESE": "Eu lavo depois...",
+      "RUSSIAN": "Я помоюсь позже...",
+      "FRENCH": "Je la prendrai plus tard...",
+      "THAI": "เดี๋ยวค่อยอาบทีหลัง..."
+    },
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어. 맞다.",
+      "ENGLISH": "Oh right.",
+      "CHINESE_SIMPLIFIED": "哦对了",
+      "CHINESE_TRADITIONAL": "哦對了",
+      "JAPANESE": "あ、そうだ。",
+      "INDONESIAN": "Oh, iya.",
+      "PORTUGUESE": "Ah, é.",
+      "RUSSIAN": "Ах да, точно.",
+      "FRENCH": "Ah oui, au fait.",
+      "THAI": "อ้อ จริงสิ."
+    },
+    "TIME": {
+      "SHOW": 33.2,
+      "HIDE": 35.0
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "짠~",
+      "ENGLISH": "Ta-da~",
+      "CHINESE_SIMPLIFIED": "看~",
+      "CHINESE_TRADITIONAL": "看~",
+      "JAPANESE": "じゃーん！",
+      "INDONESIAN": "Ta-da~",
+      "PORTUGUESE": "Tcharam~",
+      "RUSSIAN": "Та-да~",
+      "FRENCH": "Ta-da~",
+      "THAI": "ทาด้า~"
+    },
+    "TIME": {
+      "SHOW": 35.8,
+      "HIDE": 36.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어? 그거 떼어간 게 너였어?",
+      "ENGLISH": "Wait, you took that down?",
+      "CHINESE_SIMPLIFIED": "哦? 原来这个是被你给拿走了啊?",
+      "CHINESE_TRADITIONAL": "哦? 原來這個是被你給拿走了啊?",
+      "JAPANESE": "え？それ持ってったの、お前だったのか？",
+      "INDONESIAN": "Tunggu, kamu turunin itu?",
+      "PORTUGUESE": "Espera, você tirou isso?",
+      "RUSSIAN": "Постой, ты это убрал?",
+      "FRENCH": "Attends, t’as enlevé ça ?",
+      "THAI": "เดี๋ยวนะ นายเอามันลงไปแล้วเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "응. 나 이 옆방 엄청 탐냈던 거 알지?",
+      "ENGLISH": "Yep. You know I really wanted this room next to yours.",
+      "CHINESE_SIMPLIFIED": "嗯，你知道我一直都很想要旁边那个房间吧?",
+      "CHINESE_TRADITIONAL": "嗯，你知道我一直都很想要旁邊那個房間吧?",
+      "JAPANESE": "私がこの隣の部屋すごく気に入ってるの知ってるでしょ？",
+      "INDONESIAN": "Iya. Kamu tahu aku beneran pengen kamar ini di sebelah kamarmu.",
+      "PORTUGUESE": "Sim. Sabe que eu realmente queria esse quarto ao lado do seu.",
+      "RUSSIAN": "Ага. Ты же знаешь, как сильно я хотел эту комнату рядом с твоей.",
+      "FRENCH": "Ouais. Tu sais bien que je voulais vraiment cette chambre à côté de la tienne.",
+      "THAI": "ใช่. เธอก็รู้ว่าฉันอยากได้ห้องข้าง ๆ ห้องนายแค่ไหน."
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 42.0
+    }
+  }
+]

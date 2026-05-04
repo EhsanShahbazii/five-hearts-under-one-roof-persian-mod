@@ -1,0 +1,342 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "ã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "우리 왜 숨는 거예요...!",
+      "ENGLISH": "Why are we hiding...!",
+      "CHINESE_SIMPLIFIED": "怎么躲起来了?",
+      "CHINESE_TRADITIONAL": "怎麼躲起來了?",
+      "JAPANESE": "何で隠れてるんですか…！",
+      "INDONESIAN": "Kenapa kita sembunyi...!",
+      "PORTUGUESE": "Por que estamos nos escondendo...!",
+      "RUSSIAN": "Почему мы прячемся...?!",
+      "FRENCH": "Pourquoi on se cache... ?!",
+      "THAI": "ทำไมเราต้องหลบด้วย...?!",
+      "PERSIAN": "چرا پنهان شدیم...!"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 뭔가...",
+      "ENGLISH": "I just felt like...",
+      "CHINESE_SIMPLIFIED": "我就是觉得…",
+      "CHINESE_TRADITIONAL": "我就是覺得…",
+      "JAPANESE": "何となく…",
+      "INDONESIAN": "Aku cuma lagi pengen aja...",
+      "PORTUGUESE": "Ah, deu vontade...",
+      "RUSSIAN": "Просто захотелось...",
+      "FRENCH": "J’en avais juste envie...",
+      "THAI": "ก็แค่อยากทำ...",
+      "PERSIAN": "من فقط احساس کردم ..."
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "꺅!!! / 아악!!",
+      "ENGLISH": "Eek!!! / Ahhh!!",
+      "CHINESE_SIMPLIFIED": "啊啊!!!",
+      "CHINESE_TRADITIONAL": "啊啊!!!",
+      "JAPANESE": "キャーッ！！ / うわあ！！",
+      "INDONESIAN": "Eek!!! / Ahhh!!",
+      "PORTUGUESE": "Eek!!! / Ahhh!!",
+      "RUSSIAN": "Ааа!!! / Ой!!!",
+      "FRENCH": "Aaaah !!! / Ahhh !!",
+      "THAI": "อ๊าก!!! / ว้าย!!!",
+      "PERSIAN": "ایک!!! / آهان!!"
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "젊은 친구들이",
+      "ENGLISH": "Young people",
+      "CHINESE_SIMPLIFIED": "不愧是年轻人",
+      "CHINESE_TRADITIONAL": "不愧是年輕人",
+      "JAPANESE": "若い人たちは",
+      "INDONESIAN": "Anak muda",
+      "PORTUGUESE": "Jovens",
+      "RUSSIAN": "У молодых",
+      "FRENCH": "Les jeunes,",
+      "THAI": "วัยรุ่นสมัยนี้",
+      "PERSIAN": "جوانان"
+    },
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "목청도 좋구만.",
+      "ENGLISH": "Sure have strong voices.",
+      "CHINESE_SIMPLIFIED": "声音都这么洪亮",
+      "CHINESE_TRADITIONAL": "聲音都這麼洪亮",
+      "JAPANESE": "声もいいね。",
+      "INDONESIAN": "Memang suaranya kencang banget.",
+      "PORTUGUESE": "Têm vozes tão fortes.",
+      "RUSSIAN": "голоса, конечно, мощные.",
+      "FRENCH": "ils ont vraiment de la voix.",
+      "THAI": "เสียงดังดีจริง ๆ.",
+      "PERSIAN": "مطمئنا صداهای قوی دارند"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 31.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "큼... 안녕하세요...",
+      "ENGLISH": "Uh, hello...",
+      "CHINESE_SIMPLIFIED": "那个，您好啊…",
+      "CHINESE_TRADITIONAL": "那個，您好啊…",
+      "JAPANESE": "こんばんは…",
+      "INDONESIAN": "Uh, halo...",
+      "PORTUGUESE": "Ah, olá...",
+      "RUSSIAN": "Эм, здравствуйте...",
+      "FRENCH": "Euh, bonjour...",
+      "THAI": "เอ่อ สวัสดีครับ...",
+      "PERSIAN": "اوه سلام..."
+    },
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.4
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "두 분이 주말까지 회사에 나와서",
+      "ENGLISH": "What are you two doing here",
+      "CHINESE_SIMPLIFIED": "你们二位周末来公司",
+      "CHINESE_TRADITIONAL": "你們二位週末來公司",
+      "JAPANESE": "お二人とも週末まで会社に来て",
+      "INDONESIAN": "Kalian ngapain di sini",
+      "PORTUGUESE": "O que vocês estão fazendo aqui",
+      "RUSSIAN": "Что вы двое делаете здесь",
+      "FRENCH": "Que faites-vous ici",
+      "THAI": "พวกคุณมาทำอะไรกันที่นี่",
+      "PERSIAN": "شما دوتا اینجا چیکار میکنید"
+    },
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 35.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 하시는 겁니까?",
+      "ENGLISH": "On a weekend?",
+      "CHINESE_SIMPLIFIED": "做些什么呢?",
+      "CHINESE_TRADITIONAL": "做些什麼呢?",
+      "JAPANESE": "何しているんですか？",
+      "INDONESIAN": "Di akhir pekan?",
+      "PORTUGUESE": "Num fim de semana?",
+      "RUSSIAN": "в выходной?",
+      "FRENCH": "un week-end ?",
+      "THAI": "ในวันหยุด?",
+      "PERSIAN": "در آخر هفته؟"
+    },
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 36.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "자료 찾아 올 게 있어서",
+      "ENGLISH": "We came to pick up some documents",
+      "CHINESE_SIMPLIFIED": "我们过来找些资料",
+      "CHINESE_TRADITIONAL": "我們過來找些資料",
+      "JAPANESE": "資料を取りに来たんですけど、",
+      "INDONESIAN": "Kami datang ambil beberapa dokumen",
+      "PORTUGUESE": "Viemos pegar alguns documentos",
+      "RUSSIAN": "Мы пришли за документами",
+      "FRENCH": "Nous sommes venus chercher des documents",
+      "THAI": "พวกเรามาเอาเอกสาร",
+      "PERSIAN": "اومدیم یه سری مدارک بگیریم"
+    },
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 39.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "왔다가 저희도 모르게...",
+      "ENGLISH": "And we didn’t realize...",
+      "CHINESE_SIMPLIFIED": "不知怎么的就…",
+      "CHINESE_TRADITIONAL": "不知怎麼的就…",
+      "JAPANESE": "僕たちも知らない間に…",
+      "INDONESIAN": "Dan nggak sadar...",
+      "PORTUGUESE": "E nem percebemos...",
+      "RUSSIAN": "и не заметили...",
+      "FRENCH": "et nous n’avons pas réalisé...",
+      "THAI": "แล้วไม่ทันได้สังเกต...",
+      "PERSIAN": "و ما متوجه نشدیم..."
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 40.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "둘이 꼭 같이 와야 할 일이 있었나 보죠",
+      "ENGLISH": "You had to come together, didn’t you",
+      "CHINESE_SIMPLIFIED": "看来二位有一定要一起在公司做的事啊",
+      "CHINESE_TRADITIONAL": "看來二位有一定要一起在公司做的事啊",
+      "JAPANESE": "二人一緒に来なきゃいけない理由でもあったんですか？",
+      "INDONESIAN": "Kalian harus datang bareng, ya",
+      "PORTUGUESE": "Vocês tinham que vir juntos, né",
+      "RUSSIAN": "Вы должны были прийти вместе, да?",
+      "FRENCH": "Il fallait que vous veniez ensemble, hein ?",
+      "THAI": "ต้องมาด้วยกันเหรอ?",
+      "PERSIAN": "باید با هم می آمدی، نه"
+    },
+    "TIME": {
+      "SHOW": 40.8,
+      "HIDE": 43.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "동 과장님?",
+      "ENGLISH": "Manager Dong?",
+      "CHINESE_SIMPLIFIED": "是吧佟科长?",
+      "CHINESE_TRADITIONAL": "是吧佟科長?",
+      "JAPANESE": "ドン課長？",
+      "INDONESIAN": "Manajer Dong?",
+      "PORTUGUESE": "Gerente Dong?",
+      "RUSSIAN": "Менеджер Донг?",
+      "FRENCH": "Manager Dong ?",
+      "THAI": "ผู้จัดการดง?",
+      "PERSIAN": "مدیر دونگ؟"
+    },
+    "TIME": {
+      "SHOW": 43.8,
+      "HIDE": 45.0
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "있을 리 가요.",
+      "ENGLISH": "Of course not.",
+      "CHINESE_SIMPLIFIED": "没有的事",
+      "CHINESE_TRADITIONAL": "沒有的事",
+      "JAPANESE": "あるわけないじゃないですか。",
+      "INDONESIAN": "Tentu saja nggak.",
+      "PORTUGUESE": "Claro que não.",
+      "RUSSIAN": "Конечно, нет.",
+      "FRENCH": "Bien sûr que non.",
+      "THAI": "แน่นอนว่าไม่ใช่.",
+      "PERSIAN": "Of course not."
+    },
+    "TIME": {
+      "SHOW": 46.0,
+      "HIDE": 47.3
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "경비 일이나 열심히 하시죠.",
+      "ENGLISH": "Just focus on your job, security.",
+      "CHINESE_SIMPLIFIED": "您还是做好保安的分内之事吧",
+      "CHINESE_TRADITIONAL": "您還是做好保安的分內之事吧",
+      "JAPANESE": "警備の仕事でもしててください。",
+      "INDONESIAN": "Kerjain tugas kamu aja, Pak satpam.",
+      "PORTUGUESE": "Apenas se concentre no seu trabalho, senhor segurança.",
+      "RUSSIAN": "Займитесь своей работой, охранник.",
+      "FRENCH": "Occupez-vous de votre travail, agent de sécurité.",
+      "THAI": "ทำงานของคุณไปเถอะ คุณยาม.",
+      "PERSIAN": "فقط روی شغل خود، امنیت تمرکز کنید."
+    },
+    "TIME": {
+      "SHOW": 50.17,
+      "HIDE": 52.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "가자 우유만.",
+      "ENGLISH": "Let’s go, Yuman.",
+      "CHINESE_SIMPLIFIED": "走吧 吴宥万",
+      "CHINESE_TRADITIONAL": "走吧 吳宥萬",
+      "JAPANESE": "早く行くわよ、ユマンさん。",
+      "INDONESIAN": "Ayo, Yuman.",
+      "PORTUGUESE": "Vamos, Yuman.",
+      "RUSSIAN": "Пошли, Юман.",
+      "FRENCH": "On y va, Yuman.",
+      "THAI": "ไปกันเถอะ ยูมัน.",
+      "PERSIAN": "بیا بریم یومان"
+    },
+    "TIME": {
+      "SHOW": 52.4,
+      "HIDE": 53.6
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "어르신한테 말을 너무 심하게 하시는 거 아니에요?",
+      "ENGLISH": "You shouldn’t talk like that to the elder.",
+      "CHINESE_SIMPLIFIED": "有这么和长辈说话的吗?",
+      "CHINESE_TRADITIONAL": "有這麼和長輩說話的嗎?",
+      "JAPANESE": "お年寄りにあんな言い方、きつすぎるんじゃないですか？",
+      "INDONESIAN": "Jangan ngomong kayak gitu ke orang yang lebih tua.",
+      "PORTUGUESE": "Você não deveria falar assim com alguém mais velho.",
+      "RUSSIAN": "Так нельзя разговаривать с пожилыми.",
+      "FRENCH": "On ne parle pas comme ça à un aîné.",
+      "THAI": "พูดแบบนี้กับผู้ใหญ่ไม่ได้นะ.",
+      "PERSIAN": "شما نباید با بزرگتر اینطوری صحبت کنید."
+    },
+    "TIME": {
+      "SHOW": 56.8,
+      "HIDE": 59.5
+    }
+  }
+]

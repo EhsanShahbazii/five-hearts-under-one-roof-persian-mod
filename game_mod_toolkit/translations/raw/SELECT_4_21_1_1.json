@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "음... 고름 묶을 줄 모르죠?",
+      "ENGLISH": "Uh... you don’t know how to tie the goreum, do you?",
+      "CHINESE_SIMPLIFIED": "嗯…你是不是不知道怎么系绑带啊?",
+      "CHINESE_TRADITIONAL": "嗯…你是不是不知道怎麼系綁帶啊?",
+      "JAPANESE": "えっと… 衣紐の結び方知ってますか？",
+      "INDONESIAN": "Uh... Kamu gak tahu cara mengikat goreum, ya?",
+      "PORTUGUESE": "Uh... Você não sabe amarrar o goreum, sabe?",
+      "RUSSIAN": "Эм... ты не знаешь, как завязать горым, да?",
+      "FRENCH": "Euh... tu ne sais pas comment nouer le goreum, hein ?",
+      "THAI": "เอ่อ... เธอไม่รู้วิธีผูกโกรึมใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.3
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "고름이요?",
+      "ENGLISH": "Goreum?",
+      "CHINESE_SIMPLIFIED": "绑带?",
+      "CHINESE_TRADITIONAL": "綁帶?",
+      "JAPANESE": "衣紐ですか？",
+      "INDONESIAN": "Goreum?",
+      "PORTUGUESE": "Goreum?",
+      "RUSSIAN": "Горым?",
+      "FRENCH": "Goreum ?",
+      "THAI": "โกรึม?"
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "잠깐만, 내가 이거만 다시 묶어줄게요.",
+      "ENGLISH": "Wait, let me tie it again for you.",
+      "CHINESE_SIMPLIFIED": "等下，我重新给你系",
+      "CHINESE_TRADITIONAL": "等下，我重新給你係",
+      "JAPANESE": "ちょっと待ってくださいね、ここだけ結び直してあげますね。",
+      "INDONESIAN": "Tunggu, biar aku ikat ulang buat kamu.",
+      "PORTUGUESE": "Espera, deixa eu amarrar de novo pra você.",
+      "RUSSIAN": "Подожди, дай-ка я снова завяжу за тебя.",
+      "FRENCH": "Attends, laisse-moi le refaire pour toi.",
+      "THAI": "รอแป๊บ ฉันจะผูกให้ใหม่นะ"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 7.7
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥!",
+      "CHINESE_TRADITIONAL": "哥哥!",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!",
+      "PERSIAN": "Oppa!"
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 0.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "나랑 이거 하자!",
+      "ENGLISH": "Let’s play this!",
+      "CHINESE_SIMPLIFIED": "我们一起玩这个吧!",
+      "CHINESE_TRADITIONAL": "我們一起玩這個吧!",
+      "JAPANESE": "これやろうよ！",
+      "INDONESIAN": "Ayo main ini!",
+      "PORTUGUESE": "Vamos jogar esse aqui!",
+      "RUSSIAN": "Давай сыграем в это!",
+      "FRENCH": "Jouons à ça !",
+      "THAI": "มาเล่นเกมนี้กันเถอะ!",
+      "PERSIAN": "بیایید اینو بازی کنیم!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아이 이거 하면 너 다쳐",
+      "ENGLISH": "You’ll get hurt if we do this.",
+      "CHINESE_SIMPLIFIED": "玩这个你会受伤的!",
+      "CHINESE_TRADITIONAL": "玩這個你會受傷的!",
+      "JAPANESE": "いや、お前これケガするぞ。",
+      "INDONESIAN": "Kamu bakal sakit kalau kita main ini.",
+      "PORTUGUESE": "Você pode se machucar se fizermos isso.",
+      "RUSSIAN": "Ты можешь пораниться, если будем играть.",
+      "FRENCH": "Tu risques de te faire mal si on joue.",
+      "THAI": "ถ้าเล่นเดี๋ยวเธอจะเจ็บตัวนะ.",
+      "PERSIAN": "اگر این کار را انجام دهیم آسیب خواهید دید."
+    },
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아이 뭐 어때~",
+      "ENGLISH": "So what~",
+      "CHINESE_SIMPLIFIED": "啊 没事的~",
+      "CHINESE_TRADITIONAL": "啊 沒事的~",
+      "JAPANESE": "大丈夫だよ～",
+      "INDONESIAN": "Terus kenapa~",
+      "PORTUGUESE": "E daí~",
+      "RUSSIAN": "Ну и что~",
+      "FRENCH": "Et alors~",
+      "THAI": "แล้วไงล่ะ~",
+      "PERSIAN": "پس چی ~"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.1
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "지는 사람이 이따 택시비 내기!",
+      "ENGLISH": "The loser pays for the taxi later!",
+      "CHINESE_SIMPLIFIED": "那输的人一会儿要付打车钱!",
+      "CHINESE_TRADITIONAL": "那輸的人一會兒要付打車錢!",
+      "JAPANESE": "負けた人が後でタクシー代払うってことで！",
+      "INDONESIAN": "Yang kalah bayar taksi nanti!",
+      "PORTUGUESE": "Quem perder paga o táxi depois!",
+      "RUSSIAN": "Проигравший оплачивает такси потом!",
+      "FRENCH": "Le perdant paye le taxi après !",
+      "THAI": "ใครแพ้ต้องจ่ายค่าแท็กซี่ทีหลัง!",
+      "PERSIAN": "بازنده بعداً هزینه تاکسی را می دهد!"
+    },
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "...오케이 콜!",
+      "ENGLISH": "...Okay, deal!",
+      "CHINESE_SIMPLIFIED": "…Ok 成交!",
+      "CHINESE_TRADITIONAL": "…Ok 成交!",
+      "JAPANESE": "…オーケー！",
+      "INDONESIAN": "...Oke, deal!",
+      "PORTUGUESE": "...Fechado!",
+      "RUSSIAN": "...Ладно, договорились!",
+      "FRENCH": "...D’accord, marché conclu !",
+      "THAI": "...ตกลง!",
+      "PERSIAN": "... باشه، معامله!"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "위험하니까 뒤로 가 있어!",
+      "ENGLISH": "It’s dangerous, so stand back!",
+      "CHINESE_SIMPLIFIED": "这个很危险,你站后面一点",
+      "CHINESE_TRADITIONAL": "這個很危險,你站後面一點",
+      "JAPANESE": "危ないから、後ろに下がってろ！",
+      "INDONESIAN": "Ini berbahaya, jadi mundur dikit!",
+      "PORTUGUESE": "É perigoso, então dá um passo pra trás!",
+      "RUSSIAN": "Это опасно, отойди подальше!",
+      "FRENCH": "C’est dangereux, recule un peu !",
+      "THAI": "มันอันตรายนะ ถอยไปหน่อย!",
+      "PERSIAN": "این خطرناک است، پس بایستید!"
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.0
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "웅!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好!",
+      "CHINESE_TRADITIONAL": "好!",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Tá bom!",
+      "RUSSIAN": "Хорошо!",
+      "FRENCH": "OK !",
+      "THAI": "โอเค!",
+      "PERSIAN": "باشه، حله!"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "자 간다!",
+      "ENGLISH": "Here we go!",
+      "CHINESE_SIMPLIFIED": "走你!",
+      "CHINESE_TRADITIONAL": "走你!",
+      "JAPANESE": "じゃあ行くぞ！",
+      "INDONESIAN": "Ayo mulai!",
+      "PORTUGUESE": "Aqui vamos nós!",
+      "RUSSIAN": "Поехали!",
+      "FRENCH": "C’est parti !",
+      "THAI": "ไปลุยกันเลย!",
+      "PERSIAN": "Here we go!"
+    },
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 오빠가 좀 살살 해야 되는데~ ",
+      "ENGLISH": "Take it easy~ ",
+      "CHINESE_SIMPLIFIED": "啊，我应该再轻点打的~",
+      "CHINESE_TRADITIONAL": "啊，我應該再輕點打的~",
+      "JAPANESE": "あ～、ちょっと手加減しないといけなかったかな～",
+      "INDONESIAN": "Santai aja~",
+      "PORTUGUESE": "Vai com calma~",
+      "RUSSIAN": "Полегче~",
+      "FRENCH": "Vas-y doucement~",
+      "THAI": "เบา ๆ หน่อย~",
+      "PERSIAN": "راحت باش~"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 29.5
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "자 이제 은비 차례야!",
+      "ENGLISH": "Now it’s yout turn!",
+      "CHINESE_SIMPLIFIED": "现在轮到你了！",
+      "CHINESE_TRADITIONAL": "現在輪到你了！",
+      "JAPANESE": "さあ、次はウンビの番！",
+      "INDONESIAN": "Sekarang giliran kamu!",
+      "PORTUGUESE": "Agora é sua vez!",
+      "RUSSIAN": "Теперь твоя очередь!",
+      "FRENCH": "À toi maintenant !",
+      "THAI": "ตานายแล้ว!",
+      "PERSIAN": "حالا نوبت شماست!"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 31.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "자 봐봐... 다치니까 주먹을 꽉 쥐고",
+      "ENGLISH": "Watch carefully... clench your fists like this",
+      "CHINESE_SIMPLIFIED": "看仔细了...手可能会受伤所以要握紧拳头打",
+      "CHINESE_TRADITIONAL": "看仔細了...手可能會受傷所以要握緊拳頭打",
+      "JAPANESE": "見てて…ケガするから、拳をしっかり握りしめて",
+      "INDONESIAN": "Lihat baik-baik... kepalkan tangan kayak gini.",
+      "PORTUGUESE": "Olha bem... fecha os punhos assim.",
+      "RUSSIAN": "Смотри внимательно... сожми кулаки вот так.",
+      "FRENCH": "Regarde bien... serre les poings comme ça.",
+      "THAI": "ดูดี ๆ นะ... กำหมัดแบบนี้.",
+      "PERSIAN": "با دقت نگاه کن... اینجوری مشتت رو گره کن"
+    },
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 34.6
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 아무나 하는 게 아닌데",
+      "ENGLISH": "it’s not something just anyone can do.",
+      "CHINESE_SIMPLIFIED": "而不是随便乱打。",
+      "CHINESE_TRADITIONAL": "而不是隨便亂打。",
+      "JAPANESE": "誰でも簡単にできるものじゃないんだけど",
+      "INDONESIAN": "Nggak semua orang bisa, lho.",
+      "PORTUGUESE": "Não é algo que qualquer um consegue fazer.",
+      "RUSSIAN": "Это не то, что кто угодно сможет сделать.",
+      "FRENCH": "Tout le monde ne peut pas faire ça.",
+      "THAI": "ไม่ใช่ทุกคนจะทำได้หรอกนะ.",
+      "PERSIAN": "این کاری نیست که هر کسی بتواند انجام دهد."
+    },
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 35.9
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "호흡을 가다듬고 이제 준비...! 어?",
+      "ENGLISH": "Take a deep breath and get ready...! Huh?",
+      "CHINESE_SIMPLIFIED": "首先深呼吸然后准备…嗯?",
+      "CHINESE_TRADITIONAL": "首先深呼吸然後準備…嗯?",
+      "JAPANESE": "呼吸整えて、さあ準備…！あれ？",
+      "INDONESIAN": "Tarik napas dalam-dalam dan siap-siap...! Hah?",
+      "PORTUGUESE": "Respire fundo e se prepare...! Hein?",
+      "RUSSIAN": "Глубокий вдох и готовься...! А?",
+      "FRENCH": "Prends une grande inspiration et prépare-toi... ! Hein ?",
+      "THAI": "หายใจเข้าลึก ๆ แล้วเตรียมตัว...! หืม?",
+      "PERSIAN": "نفس عمیق بکش و آماده شو...! ها؟"
+    },
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.9
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 뭐라고?",
+      "ENGLISH": "What, Oppa?",
+      "CHINESE_SIMPLIFIED": "哥哥你刚说什么?",
+      "CHINESE_TRADITIONAL": "哥哥你剛說什麼?",
+      "JAPANESE": "お兄ちゃん、何か言った？",
+      "INDONESIAN": "Apa, Oppa?",
+      "PORTUGUESE": "O que foi, Oppa?",
+      "RUSSIAN": "Что, Оппа?",
+      "FRENCH": "Quoi, Oppa ?",
+      "THAI": "อะไรเหรอ, อปป้า?",
+      "PERSIAN": "چی، یومان؟"
+    },
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 46.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "어? 아니야....",
+      "ENGLISH": "Oh? Nothing....",
+      "CHINESE_SIMPLIFIED": "嗯？没什么, 你…",
+      "CHINESE_TRADITIONAL": "嗯？沒什麼, 你…",
+      "JAPANESE": "え？いや、何も…",
+      "INDONESIAN": "Oh? Nggak ada apa-apa...",
+      "PORTUGUESE": "Ah? Nada...",
+      "RUSSIAN": "О? Ничего...",
+      "FRENCH": "Oh ? Rien...",
+      "THAI": "โอ๊ะ? ไม่มีอะไร...",
+      "PERSIAN": "اوه؟ هیچی...."
+    },
+    "TIME": {
+      "SHOW": 46.5,
+      "HIDE": 47.2
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "잘 치네?",
+      "ENGLISH": "You’re pretty good!",
+      "CHINESE_SIMPLIFIED": "打得不错啊？",
+      "CHINESE_TRADITIONAL": "打得不錯啊？",
+      "JAPANESE": "やるじゃん？",
+      "INDONESIAN": "Kamu lumayan juga ya!",
+      "PORTUGUESE": "Você é boa mesmo!",
+      "RUSSIAN": "Ты неплохо справляешься!",
+      "FRENCH": "Tu te débrouilles bien !",
+      "THAI": "เก่งนี่นา!",
+      "PERSIAN": "تو خیلی خوبی!"
+    },
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 50.0
+    }
+  }
+]

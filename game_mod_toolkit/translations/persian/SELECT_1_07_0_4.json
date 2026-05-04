@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "청소 싫으면 뭐 다른 거?",
+      "ENGLISH": "If you hate cleaning, how about something else?",
+      "CHINESE_SIMPLIFIED": "不想扫地的话，给你安排点别的活？",
+      "CHINESE_TRADITIONAL": "不想掃地的話，給你安排點別的活？",
+      "JAPANESE": "掃除が嫌なら、他に何ができるんだ？",
+      "INDONESIAN": "Kalau benci bersih-bersih, gimana coba yang lain?",
+      "PORTUGUESE": "Se odeia limpar, que tal fazer outra coisa?",
+      "RUSSIAN": "Если ненавидишь убираться, может, что-то другое?",
+      "FRENCH": "Si t’aimes pas le ménage, tu veux faire autre chose ?",
+      "THAI": "ถ้าไม่ชอบทำความสะอาด ลองทำอย่างอื่นดูไหม?",
+      "PERSIAN": "اگر از نظافت متنفرید، چیز دیگری چطور؟"
+    },
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "チュッ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo rápido*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bisou",
+      "THAI": "จุ๊บ",
+      "PERSIAN": "*پیک*"
+    },
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "너 지금 뭐 하는...!",
+      "ENGLISH": "What are you doing...!",
+      "CHINESE_SIMPLIFIED": "你在干什么…！",
+      "CHINESE_TRADITIONAL": "你在幹什麼…！",
+      "JAPANESE": "お、お前…！",
+      "INDONESIAN": "Apa yang kamu lakukan...!",
+      "PORTUGUESE": "O que você tá fazendo...?!",
+      "RUSSIAN": "Ты что делаешь...!",
+      "FRENCH": "Mais qu’est-ce que tu fais... !",
+      "THAI": "นายทำอะไร...!",
+      "PERSIAN": "چیکار میکنی...!"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "チュッ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo rápido*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bisou",
+      "THAI": "จุ๊บ",
+      "PERSIAN": "*پیک*"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "이력서 가져갈게.",
+      "ENGLISH": "Taking my resume.",
+      "CHINESE_SIMPLIFIED": "简历我拿走了啊",
+      "CHINESE_TRADITIONAL": "簡歷我拿走了啊",
+      "JAPANESE": "履歴書持って行くよ。",
+      "INDONESIAN": "Aku ambil resume-ku.",
+      "PORTUGUESE": "Vou pegar meu currículo.",
+      "RUSSIAN": "Забираю своё резюме.",
+      "FRENCH": "Je prends mon CV.",
+      "THAI": "เอาเรซูเม่กลับไปสิ.",
+      "PERSIAN": "گرفتن رزومه"
+    },
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.8
+    }
+  }
+]

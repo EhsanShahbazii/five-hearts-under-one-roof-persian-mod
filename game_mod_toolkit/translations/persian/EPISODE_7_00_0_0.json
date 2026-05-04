@@ -1,0 +1,102 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야? 뛰어왔어?",
+      "ENGLISH": "What's up? Did you run here?",
+      "CHINESE_SIMPLIFIED": "怎么了？你跑过来的?",
+      "CHINESE_TRADITIONAL": "怎麼了？你跑過來的?",
+      "JAPANESE": "何？走ってきたの？",
+      "INDONESIAN": "Ada apa? Kamu lari ke sini ya?",
+      "PORTUGUESE": "O que foi? Você correu até aqui?",
+      "RUSSIAN": "Что случилось? Ты сюда бежал(а)?",
+      "FRENCH": "Quoi de neuf ? Tu as couru jusqu’ici ?",
+      "THAI": "มีอะไรเหรอ? เธอวิ่งมาที่นี่เหรอ?",
+      "PERSIAN": "چه خبر؟ اینجا دویدی؟"
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "조금?",
+      "ENGLISH": "Just a little bit.",
+      "CHINESE_SIMPLIFIED": "嗯嗯",
+      "CHINESE_TRADITIONAL": "嗯嗯",
+      "JAPANESE": "ちょっとね。",
+      "INDONESIAN": "Sedikit sih.",
+      "PORTUGUESE": "Um pouco.",
+      "RUSSIAN": "Немного.",
+      "FRENCH": "Un petit peu.",
+      "THAI": "นิดหน่อยนะ",
+      "PERSIAN": "فقط کمی."
+    },
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "끈 풀렸네?",
+      "ENGLISH": "Your shoelaces are untied, by the way.",
+      "CHINESE_SIMPLIFIED": "你鞋带开啦",
+      "CHINESE_TRADITIONAL": "你鞋帶開啦",
+      "JAPANESE": "紐がほどけてるよ。",
+      "INDONESIAN": "Oh iya, tali sepatumu lepas, tuh.",
+      "PORTUGUESE": "Aliás, seus cadarços estão desamarrados.",
+      "RUSSIAN": "Кстати, у тебя шнурки развязались.",
+      "FRENCH": "Au fait, tes lacets sont défaits.",
+      "THAI": "เอ้อ เชือกรองเท้าเธอหลุดนะ",
+      "PERSIAN": "اتفاقاً بند کفش های شما باز شده است."
+    },
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 진짜...",
+      "ENGLISH": "What? Oh, really? …Ugh, seriously.",
+      "CHINESE_SIMPLIFIED": "什么嘛…",
+      "CHINESE_TRADITIONAL": "什麼嘛…",
+      "JAPANESE": "何よ...",
+      "INDONESIAN": "Hah? Oh, beneran? …Ugh, serius deh.",
+      "PORTUGUESE": "O quê? Ah, sério? …Ugh, que saco.",
+      "RUSSIAN": "Что? О, правда? ...Эх, серьёзно.",
+      "FRENCH": "Quoi ? Oh, vraiment ? ...Pff, sérieusement.",
+      "THAI": "อะไรนะ? โอ้ จริงเหรอ? ...เฮ้อ จริงๆ เลย",
+      "PERSIAN": "چی؟ اوه، واقعا؟ ... اوه، جدی."
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "너 왜 왔어?",
+      "ENGLISH": "So, why are you here?",
+      "CHINESE_SIMPLIFIED": "你到底为什么过来?",
+      "CHINESE_TRADITIONAL": "你到底爲什麼過來?",
+      "JAPANESE": "で、何しに来たの？",
+      "INDONESIAN": "Jadi, kenapa kamu di sini?",
+      "PORTUGUESE": "Então, por que você tá aqui?",
+      "RUSSIAN": "Так зачем ты здесь?",
+      "FRENCH": "Alors, pourquoi tu es là ?",
+      "THAI": "แล้วทำไมเธอถึงมาที่นี่ล่ะ?",
+      "PERSIAN": "پس چرا اینجایی؟"
+    },
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.3
+    }
+  }
+]

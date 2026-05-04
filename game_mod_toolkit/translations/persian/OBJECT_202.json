@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요!",
+      "ENGLISH": "Hello!",
+      "CHINESE_SIMPLIFIED": "您好!",
+      "CHINESE_TRADITIONAL": "您好!",
+      "JAPANESE": "こんにちは！",
+      "INDONESIAN": "Halo!",
+      "PORTUGUESE": "Olá!",
+      "RUSSIAN": "Привет!",
+      "FRENCH": "Bonjour !",
+      "THAI": "สวัสดีครับ!",
+      "PERSIAN": "سلام به همگی!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "...",
+      "ENGLISH": "...",
+      "CHINESE_SIMPLIFIED": "…",
+      "CHINESE_TRADITIONAL": "…",
+      "JAPANESE": "...",
+      "INDONESIAN": "...",
+      "PORTUGUESE": "...",
+      "RUSSIAN": "...",
+      "FRENCH": "...",
+      "THAI": "...",
+      "PERSIAN": "..."
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.9
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요, 선배님!",
+      "ENGLISH": "Hello, senior!",
+      "CHINESE_SIMPLIFIED": "您好，前辈!",
+      "CHINESE_TRADITIONAL": "您好，前輩!",
+      "JAPANESE": "こんにちは、先輩！",
+      "INDONESIAN": "Halo, senior!",
+      "PORTUGUESE": "Olá, sênior!",
+      "RUSSIAN": "Привет, старший!",
+      "FRENCH": "Bonjour, chef !",
+      "THAI": "อ้าว สวัสดีครับพี่!",
+      "PERSIAN": "سلام، ارشد!"
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "뭐라고요?",
+      "ENGLISH": "What did you say?",
+      "CHINESE_SIMPLIFIED": "你刚说什么?",
+      "CHINESE_TRADITIONAL": "你剛說什麼?",
+      "JAPANESE": "何ですって？",
+      "INDONESIAN": "Apa tadi kamu bilang?",
+      "PORTUGUESE": "O que você disse?",
+      "RUSSIAN": "Что ты сказал?",
+      "FRENCH": "Tu as dit quoi ?",
+      "THAI": "เมื่อกี้ว่ายังไงนะ?",
+      "PERSIAN": "چی گفتی؟"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.8
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아, 저 오늘부터 첫 출근 하는 우유만이라고 합니다!",
+      "ENGLISH": "Oh, I’m Yuman, starting today!",
+      "CHINESE_SIMPLIFIED": "我是新来的吴宥万!",
+      "CHINESE_TRADITIONAL": "我是新來的吳宥萬!",
+      "JAPANESE": "あ、今日から出勤しましたウ・ユマンと申します！",
+      "INDONESIAN": "Oh, aku Yuman, mulai kerja hari ini!",
+      "PORTUGUESE": "Ah, sou Yuman, começando hoje!",
+      "RUSSIAN": "О, я Юман, с сегодняшнего дня работаю здесь!",
+      "FRENCH": "Oh, je suis Yuman, je commence aujourd’hui !",
+      "THAI": "อ๋อ ผมยูมันครับ เริ่มงานวันแรกวันนี้!",
+      "PERSIAN": "اوه، من یومان هستم، از امروز شروع می کنم!"
+    },
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "아 후임이시구나~ 안녕하세여~",
+      "ENGLISH": "Oh, you’re the new guy~ Hello~",
+      "CHINESE_SIMPLIFIED": "啊，新人啊~你好你好~",
+      "CHINESE_TRADITIONAL": "啊，新人啊~你好你好~",
+      "JAPANESE": "ああ、後輩か～よろしく～",
+      "INDONESIAN": "Oh, jadi kamu anak baru~ Halo~",
+      "PORTUGUESE": "Ah, então você é o novato~ Olá~",
+      "RUSSIAN": "А, так ты новенький~ Привет!",
+      "FRENCH": "Ah, t’es le nouveau ~ Salut !",
+      "THAI": "อ๋อ~ น้องใหม่เหรอ~ สวัสดีจ้า~",
+      "PERSIAN": "اوه، تو پسر جدید هستی~ سلام~"
+    },
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "가르쳐주시면 열심히 배우겠습니다!",
+      "ENGLISH": "I’ll work hard and learn from you!",
+      "CHINESE_SIMPLIFIED": "我会虚心向您学习的!",
+      "CHINESE_TRADITIONAL": "我會虛心向您學習的!",
+      "JAPANESE": "ご指導いただければ、一生懸命勉強させていただきます！",
+      "INDONESIAN": "Aku akan bekerja keras dan belajar dari kamu!",
+      "PORTUGUESE": "Vou trabalhar duro e aprender com você!",
+      "RUSSIAN": "Я буду стараться и учиться у вас!",
+      "FRENCH": "Je vais bosser dur et apprendre de vous !",
+      "THAI": "ผมจะตั้งใจทำงานและเรียนรู้จากพี่นะครับ!",
+      "PERSIAN": "من سخت کار خواهم کرد و از شما یاد خواهم گرفت!"
+    },
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아 근데 여기 학원 아니고 회사잖아여?",
+      "ENGLISH": "But this isn’t a school, it’s a company, right?",
+      "CHINESE_SIMPLIFIED": "这里公司，不是补习班!",
+      "CHINESE_TRADITIONAL": "這裏公司，不是補習班!",
+      "JAPANESE": "あ、でもここ塾じゃなくて会社ですよ？",
+      "INDONESIAN": "Tapi ini bukan sekolah, ini perusahaan, kan?",
+      "PORTUGUESE": "Mas isso aqui não é escola, é uma empresa, né?",
+      "RUSSIAN": "Но это же не школа, а работа, правильно?",
+      "FRENCH": "Mais ici, c’est une entreprise, pas une école, tu sais ?",
+      "THAI": "แต่นี่ไม่ใช่โรงเรียนนะ นี่บริษัท เข้าใจไหม?",
+      "PERSIAN": "اما این یک مدرسه نیست، یک شرکت است، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.9
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "네... 좀 곤란하세요. 저 좀 바빠서... ",
+      "ENGLISH": "Yeah... I’m kind of busy right now.",
+      "CHINESE_SIMPLIFIED": "我不方便教你，现在有点忙…",
+      "CHINESE_TRADITIONAL": "我不方便教你，現在有點忙…",
+      "JAPANESE": "はい…ちょっと困りますね。忙しいので…",
+      "INDONESIAN": "Iya... Aku lagi sibuk sekarang.",
+      "PORTUGUESE": "É... Eu tô meio ocupado agora.",
+      "RUSSIAN": "Да... Знаешь, у меня сейчас много дел.",
+      "FRENCH": "Ouais... Je suis un peu occupé là.",
+      "THAI": "เอ่อ... ครับ พี่คงยุ่งอยู่ตอนนี้สินะ...",
+      "PERSIAN": "آره... الان یه جورایی سرم شلوغه."
+    },
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 22.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아, 아 죄송합니다!",
+      "ENGLISH": "Oh, I’m sorry!",
+      "CHINESE_SIMPLIFIED": "啊，对不起啊!",
+      "CHINESE_TRADITIONAL": "啊，對不起啊!",
+      "JAPANESE": "あ、す、すいません！",
+      "INDONESIAN": "Oh, maaf!",
+      "PORTUGUESE": "Ah, desculpa!",
+      "RUSSIAN": "Ой, простите!",
+      "FRENCH": "Ah, désolé !",
+      "THAI": "ใช่ ยุ่งมากเลย",
+      "PERSIAN": "اوه، متاسفم!"
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 24.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "맞다. ",
+      "ENGLISH": "By the way.",
+      "CHINESE_SIMPLIFIED": "对了。",
+      "CHINESE_TRADITIONAL": "對了。",
+      "JAPANESE": "そうだ。",
+      "INDONESIAN": "Ngomong-ngomong.",
+      "PORTUGUESE": "A propósito.",
+      "RUSSIAN": "Кстати.",
+      "FRENCH": "D’ailleurs.",
+      "THAI": "อ๊ะ ขอโทษครับ!",
+      "PERSIAN": "به هر حال."
+    },
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 24.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "앞으로 할 말은 톡으로 주세요.",
+      "ENGLISH": "From now on, send messages through the company chat.",
+      "CHINESE_SIMPLIFIED": "以后有事发消息。",
+      "CHINESE_TRADITIONAL": "以後有事發消息。",
+      "JAPANESE": "これからは、話すことがあれば全部チャットで送ってください。",
+      "INDONESIAN": "Mulai sekarang, kirim pesan lewat chat perusahaan.",
+      "PORTUGUESE": "Daqui pra frente, mande mensagens pelo chat da empresa.",
+      "RUSSIAN": "Отныне все сообщения отправляй в рабочий чат.",
+      "FRENCH": "À partir de maintenant, envoie les messages sur le chat interne.",
+      "THAI": "อีกอย่างนะ",
+      "PERSIAN": "از این پس از طریق چت شرکت پیام ارسال کنید."
+    },
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "말로 하지 말고.",
+      "ENGLISH": "Don’t speak out loud.",
+      "CHINESE_SIMPLIFIED": "别口头说。",
+      "CHINESE_TRADITIONAL": "別口頭說。",
+      "JAPANESE": "お互い話さずにね。",
+      "INDONESIAN": "Jangan ngomong langsung.",
+      "PORTUGUESE": "Não fale em voz alta.",
+      "RUSSIAN": "Не говори вслух.",
+      "FRENCH": "Ne parle pas à voix haute.",
+      "THAI": "ต่อไปนี้ ถ้ามีอะไร ส่งมาทางแชทบริษัทพอ ไม่ต้องมาพูดออกเสียงดังๆ",
+      "PERSIAN": "با صدای بلند صحبت نکن"
+    },
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.6
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes...",
+      "CHINESE_SIMPLIFIED": "好的…",
+      "CHINESE_TRADITIONAL": "好的…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim...",
+      "RUSSIAN": "Да...",
+      "FRENCH": "D’accord...",
+      "THAI": "อ่า... เข้าใจครับ...",
+      "PERSIAN": "بله..."
+    },
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 29.5
+    }
+  }
+]

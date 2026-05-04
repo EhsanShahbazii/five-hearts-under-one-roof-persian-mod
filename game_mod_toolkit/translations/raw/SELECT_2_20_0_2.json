@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이따 발표 있으니까 각자 자료 잘 챙겨서 넘겨주세요.",
+      "ENGLISH": "We'll have presentation later, so please prepare your material.",
+      "CHINESE_SIMPLIFIED": "一会儿要开会，都各自带好资料。",
+      "CHINESE_TRADITIONAL": "一會兒要開會，都各自帶好資料。",
+      "JAPANESE": "後で発表があるので、各自資料しっかり準備して提出してください。",
+      "INDONESIAN": "Kita ada presentasi nanti, jadi tolong siapkan materimu.",
+      "PORTUGUESE": "Teremos uma apresentação mais tarde, então prepare seu material.",
+      "RUSSIAN": "У нас позже будет презентация, так что подготовь материалы.",
+      "FRENCH": "On a une présentation tout à l’heure, alors prépare ton matériel.",
+      "THAI": "เดี๋ยวเรามีพรีเซนต์งานนะ เตรียมเอกสารให้พร้อมด้วยล่ะ"
+    },
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 10.4
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "발표?",
+      "ENGLISH": "Presentation?",
+      "CHINESE_SIMPLIFIED": "开会？",
+      "CHINESE_TRADITIONAL": "開會？",
+      "JAPANESE": "発表？",
+      "INDONESIAN": "Presentasi?",
+      "PORTUGUESE": "Apresentação?",
+      "RUSSIAN": "Презентация?",
+      "FRENCH": "Présentation ?",
+      "THAI": "พรีเซนต์งาน?"
+    },
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "스타킹 말씀드릴 걸 그랬나...",
+      "ENGLISH": "Should I tell about the stocking...",
+      "CHINESE_SIMPLIFIED": "刚刚应该告诉她丝袜的事来着…",
+      "CHINESE_TRADITIONAL": "剛剛應該告訴她絲襪的事來着…",
+      "JAPANESE": "ストッキングのこと言っとくべきだったかな…",
+      "INDONESIAN": "Haruskah aku ceritakan soal stoking itu...",
+      "PORTUGUESE": "Será que devo falar sobre a meia-calça...",
+      "RUSSIAN": "Мне что, рассказать про чулки...?",
+      "FRENCH": "Je parle des bas, ou quoi...?",
+      "THAI": "จะให้พูดเรื่องถุงน่องด้วยมั้ย...?"
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.3
+    }
+  }
+]

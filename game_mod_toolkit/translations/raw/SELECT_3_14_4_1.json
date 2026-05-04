@@ -1,0 +1,420 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "왜 숨으세요!",
+      "ENGLISH": "Why are you hiding!",
+      "CHINESE_SIMPLIFIED": "您怎么躲起来了？",
+      "CHINESE_TRADITIONAL": "您怎麼躲起來了？",
+      "JAPANESE": "何で隠れるんですか！",
+      "INDONESIAN": "Kenapa kamu sembunyi!",
+      "PORTUGUESE": "Por que você tá se escondendo!",
+      "RUSSIAN": "Почему ты прячешься?!",
+      "FRENCH": "Pourquoi tu te caches ?!",
+      "THAI": "ทำไมนายต้องหลบด้วย?!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "조용히 해!",
+      "ENGLISH": "Keep quiet!",
+      "CHINESE_SIMPLIFIED": "你别出声!",
+      "CHINESE_TRADITIONAL": "你別出聲!",
+      "JAPANESE": "静かにして！",
+      "INDONESIAN": "Diam, jangan berisik!",
+      "PORTUGUESE": "Fica quieto!",
+      "RUSSIAN": "Тихо!",
+      "FRENCH": "Tais-toi !",
+      "THAI": "เงียบไว้!"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요!",
+      "ENGLISH": "Hello!",
+      "CHINESE_SIMPLIFIED": "您好!",
+      "CHINESE_TRADITIONAL": "您好!",
+      "JAPANESE": "こんばんは！",
+      "INDONESIAN": "Halo!",
+      "PORTUGUESE": "Olá!",
+      "RUSSIAN": "Здравствуйте!",
+      "FRENCH": "Bonjour !",
+      "THAI": "สวัสดีครับ!"
+    },
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "오~ 최근에 입사한",
+      "ENGLISH": "Oh, aren’t you Mr. Yuman",
+      "CHINESE_SIMPLIFIED": "哦，这不是最近入职的",
+      "CHINESE_TRADITIONAL": "哦，這不是最近入職的",
+      "JAPANESE": "お～最近入社した",
+      "INDONESIAN": "Oh, bukankah kamu Tuan Yuman",
+      "PORTUGUESE": "Ah, você é o Sr. Yuman",
+      "RUSSIAN": "О, вы ведь господин Юман,",
+      "FRENCH": "Oh, vous êtes bien Monsieur Yuman,",
+      "THAI": "อ้อ คุณคือนายยูมัน"
+    },
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "우유만 선생님 아니신가?",
+      "ENGLISH": "Who joined recently?",
+      "CHINESE_SIMPLIFIED": "新职员吴宥万吗?",
+      "CHINESE_TRADITIONAL": "新職員吳宥萬嗎?",
+      "JAPANESE": "ユマンさんじゃないですか？",
+      "INDONESIAN": "Yang baru bergabung?",
+      "PORTUGUESE": "Que entrou recentemente?",
+      "RUSSIAN": "который недавно присоединился?",
+      "FRENCH": "qui a rejoint récemment ?",
+      "THAI": "ที่เพิ่งเข้ามาใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네 맞아요!",
+      "ENGLISH": "Yes, that’s me!",
+      "CHINESE_SIMPLIFIED": "是的!",
+      "CHINESE_TRADITIONAL": "是的!",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya, itu aku!",
+      "PORTUGUESE": "Sim, sou eu!",
+      "RUSSIAN": "Да, это я!",
+      "FRENCH": "Oui, c’est moi !",
+      "THAI": "ใช่ครับ นั่นผมเอง!"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 도난 사건이 많아서",
+      "ENGLISH": "There have been a lot of thefts lately",
+      "CHINESE_SIMPLIFIED": "最近发生了很多偷窃事件",
+      "CHINESE_TRADITIONAL": "最近發生了很多偷竊事件",
+      "JAPANESE": "最近、盗難事件が多いから、",
+      "INDONESIAN": "Belakangan ini ada banyak pencurian,",
+      "PORTUGUESE": "Tem havido muitos furtos ultimamente,",
+      "RUSSIAN": "В последнее время было много краж,",
+      "FRENCH": "Il y a eu beaucoup de vols récemment,",
+      "THAI": "ช่วงนี้มีขโมยเยอะนะ"
+    },
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "함부로 막 들어오고 그러면 안 돼요.",
+      "ENGLISH": "So you can’t just come in here without permission.",
+      "CHINESE_SIMPLIFIED": "你这样平白无故来办公室可不太好",
+      "CHINESE_TRADITIONAL": "你這樣平白無故來辦公室可不太好",
+      "JAPANESE": "勝手に入ってきちゃダメですよ。",
+      "INDONESIAN": "Jadi kamu nggak bisa sembarangan masuk tanpa izin.",
+      "PORTUGUESE": "Então não pode entrar sem autorização.",
+      "RUSSIAN": "поэтому сюда нельзя заходить без разрешения.",
+      "FRENCH": "alors vous ne pouvez pas entrer ici sans autorisation.",
+      "THAI": "คุณเข้ามาที่นี่โดยไม่มีอนุญาตไม่ได้นะ."
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아 정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗?",
+      "CHINESE_TRADITIONAL": "真的嗎?",
+      "JAPANESE": "あ、本当ですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "RUSSIAN": "Правда?",
+      "FRENCH": "Ah bon ?",
+      "THAI": "จริงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "근데...",
+      "ENGLISH": "But...",
+      "CHINESE_SIMPLIFIED": "当然...",
+      "CHINESE_TRADITIONAL": "當然...",
+      "JAPANESE": "でも…",
+      "INDONESIAN": "Tapi...",
+      "PORTUGUESE": "Mas...",
+      "RUSSIAN": "Но...",
+      "FRENCH": "Mais...",
+      "THAI": "แต่ว่า..."
+    },
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 22.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "혼자 온 건가?",
+      "ENGLISH": "Are you here alone?",
+      "CHINESE_SIMPLIFIED": "你是自己来的吗?",
+      "CHINESE_TRADITIONAL": "你是自己來的嗎?",
+      "JAPANESE": "一人で来たんですか？",
+      "INDONESIAN": "Kamu di sini sendirian?",
+      "PORTUGUESE": "Você tá aqui sozinho?",
+      "RUSSIAN": "Вы здесь один?",
+      "FRENCH": "Vous êtes seul ?",
+      "THAI": "คุณมาคนเดียวเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.0
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "아니요, 저희 과장님이랑 왔는데요..",
+      "ENGLISH": "No, I’m with my manager...",
+      "CHINESE_SIMPLIFIED": "没有，我是和科长一起来的…",
+      "CHINESE_TRADITIONAL": "沒有，我是和科長一起來的…",
+      "JAPANESE": "いえ、課長と一緒に来たんですけど…",
+      "INDONESIAN": "Nggak, aku sama manajerku...",
+      "PORTUGUESE": "Não, eu tô com meu gerente...",
+      "RUSSIAN": "Нет, я с моим менеджером...",
+      "FRENCH": "Non, je suis avec mon manager...",
+      "THAI": "ไม่ครับ ผมมาพร้อมกับผู้จัดการ..."
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 26.7
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "과장이라면",
+      "ENGLISH": "Manager? ",
+      "CHINESE_SIMPLIFIED": "科长?",
+      "CHINESE_TRADITIONAL": "科長?",
+      "JAPANESE": "課長って、",
+      "INDONESIAN": "Manajer?",
+      "PORTUGUESE": "Gerente?",
+      "RUSSIAN": "Менеджером?",
+      "FRENCH": "Manager ?",
+      "THAI": "ผู้จัดการ?"
+    },
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "설마 동 과장...?",
+      "ENGLISH": "You don’t mean Manager Dong, do you?",
+      "CHINESE_SIMPLIFIED": "该不会是佟科长吧?",
+      "CHINESE_TRADITIONAL": "該不會是佟科長吧?",
+      "JAPANESE": "まさかドン課長…？",
+      "INDONESIAN": "Maksudmu Manajer Dong?",
+      "PORTUGUESE": "Você não tá falando do Gerente Dong, né?",
+      "RUSSIAN": "Вы не про Менеджера Донга, случайно?",
+      "FRENCH": "Vous voulez dire Manager Dong ?",
+      "THAI": "หมายถึงผู้จัดการดงเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "이씨...",
+      "ENGLISH": "Damn it...",
+      "CHINESE_SIMPLIFIED": "真是的…",
+      "CHINESE_TRADITIONAL": "真是的…",
+      "JAPANESE": "ちっ…",
+      "INDONESIAN": "Sial...",
+      "PORTUGUESE": "Droga...",
+      "RUSSIAN": "Чёрт...",
+      "FRENCH": "Merde...",
+      "THAI": "บ้าเอ้ย..."
+    },
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 34.1
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yes.",
+      "CHINESE_SIMPLIFIED": "对",
+      "CHINESE_TRADITIONAL": "對",
+      "JAPANESE": "そうです。",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "RUSSIAN": "Да.",
+      "FRENCH": "Oui.",
+      "THAI": "ใช่ครับ."
+    },
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 38.5
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "자료 두고 온 게 있어서",
+      "ENGLISH": "I left some important documents",
+      "CHINESE_SIMPLIFIED": "我把资料落在办公室了",
+      "CHINESE_TRADITIONAL": "我把資料落在辦公室了",
+      "JAPANESE": "資料を置いてきたので、",
+      "INDONESIAN": "Aku tinggalin dokumen penting,",
+      "PORTUGUESE": "Deixei documentos importantes,",
+      "RUSSIAN": "Я оставил важные документы,",
+      "FRENCH": "J’ai laissé des documents importants,",
+      "THAI": "ผมลืมเอกสารสำคัญไว้,"
+    },
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 39.5
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "신입 데리고 왔어요.",
+      "ENGLISH": "So I brought the new guy to get them.",
+      "CHINESE_SIMPLIFIED": "所以带新职员过来取一下",
+      "CHINESE_TRADITIONAL": "所以帶新職員過來取一下",
+      "JAPANESE": "新人と一緒に来ました。",
+      "INDONESIAN": "Jadi aku ajak anak baru buat ambil.",
+      "PORTUGUESE": "Então trouxe o novato pra pegá-los.",
+      "RUSSIAN": "поэтому взял новичка, чтобы их забрать.",
+      "FRENCH": "alors j’ai amené le nouveau pour les récupérer.",
+      "THAI": "เลยพาเด็กใหม่มาด้วยเพื่อเอาคืน."
+    },
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 41.0
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "젊은 친구들이 주말에 일만 하고...",
+      "ENGLISH": "Young people working even on weekends...",
+      "CHINESE_SIMPLIFIED": "现在的年轻人周末还在工作啊…",
+      "CHINESE_TRADITIONAL": "現在的年輕人週末還在工作啊…",
+      "JAPANESE": "若い人たちは、週末に仕事ばかりして…",
+      "INDONESIAN": "Anak muda kerja bahkan di akhir pekan...",
+      "PORTUGUESE": "Jovens trabalhando até nos fins de semana...",
+      "RUSSIAN": "Молодёжь даже по выходным работает...",
+      "FRENCH": "Les jeunes, toujours au travail même le week-end...",
+      "THAI": "วัยรุ่นสมัยนี้ทำงานแม้แต่วันหยุด..."
+    },
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 45.4
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "거 나갈 때 불 끄고",
+      "ENGLISH": "Just make sure to turn off the lights",
+      "CHINESE_SIMPLIFIED": "那走的时候记得关灯",
+      "CHINESE_TRADITIONAL": "那走的時候記得關燈",
+      "JAPANESE": "帰る時、ちゃんと電気消して",
+      "INDONESIAN": "Pastikan kamu matikan lampu",
+      "PORTUGUESE": "Certifiquem-se de apagar as luzes",
+      "RUSSIAN": "Убедитесь, что вы выключите свет",
+      "FRENCH": "Assurez-vous juste d’éteindre les lumières",
+      "THAI": "อย่าลืมปิดไฟ"
+    },
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 48.3
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "문단속 부탁해요.",
+      "ENGLISH": "And lock up when you leave.",
+      "CHINESE_SIMPLIFIED": "记得把门锁好啊",
+      "CHINESE_TRADITIONAL": "記得把門鎖好啊",
+      "JAPANESE": "施錠も頼みますよ。",
+      "INDONESIAN": "Dan kunci pintu waktu pergi.",
+      "PORTUGUESE": "E trancar tudo antes de sair.",
+      "RUSSIAN": "и закроете всё на замок, когда уйдёте.",
+      "FRENCH": "et de bien fermer en partant.",
+      "THAI": "และล็อกประตูให้เรียบร้อยก่อนออกนะ."
+    },
+    "TIME": {
+      "SHOW": 48.3,
+      "HIDE": 49.8
+    }
+  }
+]

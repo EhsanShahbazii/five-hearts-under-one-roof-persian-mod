@@ -1,0 +1,262 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠",
+      "ENGLISH": "Oppa",
+      "CHINESE_SIMPLIFIED": "哥哥",
+      "CHINESE_TRADITIONAL": "哥哥",
+      "JAPANESE": "お兄ちゃん",
+      "INDONESIAN": "Oppa",
+      "PORTUGUESE": "Oppa",
+      "RUSSIAN": "Оппа,",
+      "FRENCH": "Oppa,",
+      "THAI": "อปป้า,",
+      "PERSIAN": "یومان"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 0.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "여기 미신 있는 거 알아?",
+      "ENGLISH": "Do you know there’s a superstition about this place?",
+      "CHINESE_SIMPLIFIED": "你知道这里有个说法吗?",
+      "CHINESE_TRADITIONAL": "你知道這裏有個說法嗎?",
+      "JAPANESE": "ここ、迷信があるの知ってる？",
+      "INDONESIAN": "Kamu tahu nggak kalau ada mitos tentang tempat ini?",
+      "PORTUGUESE": "Você sabia que tem uma superstição sobre esse lugar?",
+      "RUSSIAN": "ты знаешь, что с этим местом связана одна примета?",
+      "FRENCH": "tu sais qu’il y a une superstition à propos de cet endroit ?",
+      "THAI": "รู้ไหมว่าที่นี่มีความเชื่ออยู่นะ?",
+      "PERSIAN": "می دانید خرافاتی در مورد این مکان وجود دارد؟"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미신?",
+      "ENGLISH": "A superstition?",
+      "CHINESE_SIMPLIFIED": "什么说法?",
+      "CHINESE_TRADITIONAL": "什麼說法?",
+      "JAPANESE": "迷信？",
+      "INDONESIAN": "Mitos?",
+      "PORTUGUESE": "Superstição?",
+      "RUSSIAN": "Примета?",
+      "FRENCH": "Une superstition ?",
+      "THAI": "ความเชื่อเหรอ?",
+      "PERSIAN": "یک خرافات؟"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "응",
+      "ENGLISH": "Yeah",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Iya",
+      "PORTUGUESE": "Sim",
+      "RUSSIAN": "Да.",
+      "FRENCH": "Ouais.",
+      "THAI": "ใช่.",
+      "PERSIAN": "آره"
+    },
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "뽀뽀하면 결혼한다. 그런 거 있어.",
+      "ENGLISH": "If you kiss here, you’ll get married.",
+      "CHINESE_SIMPLIFIED": "据说在这里亲亲的话就能结婚",
+      "CHINESE_TRADITIONAL": "據說在這裏親親的話就能結婚",
+      "JAPANESE": "キスしたら結婚できるっていう迷信があるんだよ。",
+      "INDONESIAN": "Kalau ciuman di sini, bakal nikah.",
+      "PORTUGUESE": "Se você beijar aqui, vai se casar.",
+      "RUSSIAN": "Если поцелуешься здесь, то поженишься.",
+      "FRENCH": "Si tu embrasses ici, tu te marieras.",
+      "THAI": "ถ้าจูบกันตรงนี้ จะได้แต่งงานกัน.",
+      "PERSIAN": "اگر اینجا را ببوسید، ازدواج خواهید کرد."
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그런 게 있어?",
+      "ENGLISH": "Is that really a thing?",
+      "CHINESE_SIMPLIFIED": "还有这种说法?",
+      "CHINESE_TRADITIONAL": "還有這種說法?",
+      "JAPANESE": "そんなのあるの？",
+      "INDONESIAN": "Beneran ada mitos kayak gitu?",
+      "PORTUGUESE": "Sério que isso existe?",
+      "RUSSIAN": "Это правда?",
+      "FRENCH": "C’est vrai ?",
+      "THAI": "จริงเหรอ?",
+      "PERSIAN": "این واقعاً یک چیز است؟"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "응. 내가 방금 만들었거든.",
+      "ENGLISH": "Yeah, I just made it up.",
+      "CHINESE_SIMPLIFIED": "当然有，因为是我现编的",
+      "CHINESE_TRADITIONAL": "當然有，因爲是我現編的",
+      "JAPANESE": "うん。今私が作ったんだけどね。",
+      "INDONESIAN": "Iya, baru aja aku bikin.",
+      "PORTUGUESE": "Sim, acabei de inventar.",
+      "RUSSIAN": "Да, я только что придумала.",
+      "FRENCH": "Oui, je viens juste de l’inventer.",
+      "THAI": "ใช่ ฉันเพิ่งคิดขึ้นมาเอง.",
+      "PERSIAN": "آره تازه درستش کردم"
+    },
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.45
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "아, 뭐야~",
+      "ENGLISH": "Why are you like this~",
+      "CHINESE_SIMPLIFIED": "什么嘛",
+      "CHINESE_TRADITIONAL": "什麼嘛",
+      "JAPANESE": "あ、何だよ～",
+      "INDONESIAN": "Kenapa sih kamu gini terus~",
+      "PORTUGUESE": "Por que você é assim~",
+      "RUSSIAN": "Почему ты такая?~",
+      "FRENCH": "Pourquoi t’es comme ça~",
+      "THAI": "ทำไมนายเป็นแบบนี้ล่ะ~",
+      "PERSIAN": "چرا اینجوری شدی~"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 지금이야 지금! ",
+      "ENGLISH": "Oppa, now’s the perfect time!",
+      "CHINESE_SIMPLIFIED": "哥哥快点!趁现在！",
+      "CHINESE_TRADITIONAL": "哥哥快點!趁現在！",
+      "JAPANESE": "お兄ちゃん、今だよ今！",
+      "INDONESIAN": "Oppa, sekarang waktunya pas banget!",
+      "PORTUGUESE": "Oppa, agora é o momento perfeito!",
+      "RUSSIAN": "Оппа, сейчас самый подходящий момент!",
+      "FRENCH": "Oppa, c’est le moment parfait !",
+      "THAI": "อปป้า ตอนนี้แหละช่วงเวลาที่ดีที่สุด!",
+      "PERSIAN": "یومان، اکنون زمان مناسبی است!"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "사람들 없을 때 빨리!",
+      "ENGLISH": "No one’s around! Hurry! Mwah~",
+      "CHINESE_SIMPLIFIED": "趁现在没人!快!",
+      "CHINESE_TRADITIONAL": "趁現在沒人!快!",
+      "JAPANESE": "人がいないうちに早く！",
+      "INDONESIAN": "Nggak ada orang! Cepetan! Mwah~",
+      "PORTUGUESE": "Não tem ninguém! Rápido! Mwah~",
+      "RUSSIAN": "Никого нет! Давай скорее! Чмок~",
+      "FRENCH": "Y’a personne ! Vite ! Bisou~",
+      "THAI": "ไม่มีใครอยู่เลย! เร็วเข้า! มว๊วะ~",
+      "PERSIAN": "هیچ کس در اطراف نیست! عجله کن مواه~"
+    },
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아이 왜그래~",
+      "ENGLISH": "Oh come on...",
+      "CHINESE_SIMPLIFIED": "诶~干嘛呀~",
+      "CHINESE_TRADITIONAL": "誒~幹嘛呀~",
+      "JAPANESE": "おい、何するんだよ～",
+      "INDONESIAN": "Aduh, ya ampun...",
+      "PORTUGUESE": "Ah, fala sério...",
+      "RUSSIAN": "Ох, ну хватит уже...",
+      "FRENCH": "Allez, arrête...",
+      "THAI": "โอ๊ย พอเถอะ...",
+      "PERSIAN": "اوه بیا..."
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "哎呀!",
+      "CHINESE_TRADITIONAL": "哎呀!",
+      "JAPANESE": "あ、ちょっと！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "RUSSIAN": "Эй!",
+      "FRENCH": "Hé !",
+      "THAI": "เฮ้!",
+      "PERSIAN": "Hey!"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "어디가~",
+      "ENGLISH": "Where are you going!",
+      "CHINESE_SIMPLIFIED": "你要去哪呀~",
+      "CHINESE_TRADITIONAL": "你要去哪呀~",
+      "JAPANESE": "どこ行くの～？",
+      "INDONESIAN": "Mau ke mana kamu!",
+      "PORTUGUESE": "Pra onde você tá indo!",
+      "RUSSIAN": "Куда это ты пошёл?!",
+      "FRENCH": "Tu vas où !?",
+      "THAI": "นายจะไปไหนน่ะ?!",
+      "PERSIAN": "کجا میری!"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.0
+    }
+  }
+]

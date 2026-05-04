@@ -1,0 +1,582 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "왜 여기 나와 있어?",
+      "ENGLISH": "Why are you out here?",
+      "CHINESE_SIMPLIFIED": "你怎么在这啊?",
+      "CHINESE_TRADITIONAL": "你怎麼在這啊?",
+      "JAPANESE": "何でここにいるんだ？",
+      "INDONESIAN": "Kenapa kamu di sini?",
+      "PORTUGUESE": "Por que você tá aqui fora?",
+      "RUSSIAN": "Почему ты здесь?",
+      "FRENCH": "Pourquoi tu es ici ?",
+      "THAI": "ทำไมเธอถึงมาอยู่ตรงนี้?",
+      "PERSIAN": "چرا اینجا هستید؟"
+    },
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "답답하니까.",
+      "ENGLISH": "It's frustrating.",
+      "CHINESE_SIMPLIFIED": "因为心里烦闷",
+      "CHINESE_TRADITIONAL": "因爲心裏煩悶",
+      "JAPANESE": "何か、息苦しくて。",
+      "INDONESIAN": "Bikin frustrasi.",
+      "PORTUGUESE": "Isso é frustrante.",
+      "RUSSIAN": "Тебе тяжело?",
+      "FRENCH": "C’est frustrant ?",
+      "THAI": "มันอึดอัดเหรอ?",
+      "PERSIAN": "ناامید کننده است."
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그래서 그렇구나?",
+      "ENGLISH": "Is that so?",
+      "CHINESE_SIMPLIFIED": "这样啊…",
+      "CHINESE_TRADITIONAL": "這樣啊…",
+      "JAPANESE": "あ、それで...",
+      "INDONESIAN": "Gitu ya?",
+      "PORTUGUESE": "É mesmo?",
+      "RUSSIAN": "Да?",
+      "FRENCH": "C’est ça ?",
+      "THAI": "ใช่ไหม?",
+      "PERSIAN": "اینطوری است؟"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너 옛날부터 여기 오는 거 좋아했잖아.",
+      "ENGLISH": "You’ve always liked coming here.",
+      "CHINESE_SIMPLIFIED": "你以前就很喜欢待在这里",
+      "CHINESE_TRADITIONAL": "你以前就很喜歡待在這裏",
+      "JAPANESE": "お前、昔からここに来るの好きだったよな。",
+      "INDONESIAN": "Kamu selalu suka datang ke sini.",
+      "PORTUGUESE": "Você sempre gostou de vir aqui.",
+      "RUSSIAN": "Ты всегда любил приходить сюда.",
+      "FRENCH": "Tu as toujours aimé venir ici.",
+      "THAI": "เธอชอบมาที่นี่เสมอ",
+      "PERSIAN": "همیشه دوست داشتی اینجا بیایی"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "여기 오면 숨 좀 쉬는 거 같다고.",
+      "ENGLISH": "You said it helps you breathe.",
+      "CHINESE_SIMPLIFIED": "你说来这里能舒缓心情",
+      "CHINESE_TRADITIONAL": "你說來這裏能舒緩心情",
+      "JAPANESE": "ここに来ると、ちょっと楽になる気がして。",
+      "INDONESIAN": "Kamu bilang tempat ini bikin kamu bisa bernapas lega.",
+      "PORTUGUESE": "Você disse que isso te ajuda a respirar.",
+      "RUSSIAN": "Ты говорил, что это помогает тебе дышать.",
+      "FRENCH": "Tu disais que ça t’aidait à respirer.",
+      "THAI": "เธอเคยบอกว่ามันช่วยให้เธอหายใจโล่ง",
+      "PERSIAN": "گفتی به نفس کشیدنت کمک میکنه"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "손 줘 봐.",
+      "ENGLISH": "Give me your hand.",
+      "CHINESE_SIMPLIFIED": "把手给我",
+      "CHINESE_TRADITIONAL": "把手給我",
+      "JAPANESE": "手、出してみて。",
+      "INDONESIAN": "Kasih aku tanganmu.",
+      "PORTUGUESE": "Me dá sua mão.",
+      "RUSSIAN": "Дай мне руку.",
+      "FRENCH": "Donne-moi ta main.",
+      "THAI": "ขอมือหน่อย",
+      "PERSIAN": "دستت را به من بده"
+    },
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.1
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "손?",
+      "ENGLISH": "My hand?",
+      "CHINESE_SIMPLIFIED": "手?",
+      "CHINESE_TRADITIONAL": "手?",
+      "JAPANESE": "手？",
+      "INDONESIAN": "Tangan aku?",
+      "PORTUGUESE": "Minha mão?",
+      "RUSSIAN": "Мою руку?",
+      "FRENCH": "Ma main ?",
+      "THAI": "มือฉันเหรอ?",
+      "PERSIAN": "دست من؟"
+    },
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 손 줘 봐.",
+      "ENGLISH": "Come on, give me your hand.",
+      "CHINESE_SIMPLIFIED": "快给我手!",
+      "CHINESE_TRADITIONAL": "快給我手!",
+      "JAPANESE": "早く、手を出してって。",
+      "INDONESIAN": "Ayo, kasih tanganmu.",
+      "PORTUGUESE": "Anda, me dá sua mão.",
+      "RUSSIAN": "Ну же, дай руку.",
+      "FRENCH": "Allez, donne-moi ta main.",
+      "THAI": "เอาน่า ยื่นมือมา",
+      "PERSIAN": "بیا دستت را به من بده"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "맞네.",
+      "ENGLISH": "Rght.",
+      "CHINESE_SIMPLIFIED": "是真的",
+      "CHINESE_TRADITIONAL": "是真的",
+      "JAPANESE": "やっぱりね。",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Certo.",
+      "RUSSIAN": "Хорошо.",
+      "FRENCH": "D’accord.",
+      "THAI": "โอเค",
+      "PERSIAN": "راست"
+    },
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 22.9
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나...",
+      "ENGLISH": "I think",
+      "CHINESE_SIMPLIFIED": "我...",
+      "CHINESE_TRADITIONAL": "我...",
+      "JAPANESE": "私…",
+      "INDONESIAN": "Aku rasa",
+      "PORTUGUESE": "Eu acho",
+      "RUSSIAN": "Я думаю,",
+      "FRENCH": "Je crois que",
+      "THAI": "ฉันคิดว่า",
+      "PERSIAN": "من فکر می کنم"
+    },
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 24.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "너 좋아하는 거 맞는 거 같아.",
+      "ENGLISH": "I really like you.",
+      "CHINESE_SIMPLIFIED": "我好像确实喜欢你",
+      "CHINESE_TRADITIONAL": "我好像確實喜歡你",
+      "JAPANESE": "あんたのこと、好きみたい。",
+      "INDONESIAN": "Aku beneran suka sama kamu.",
+      "PORTUGUESE": "Que eu gosto muito de você.",
+      "RUSSIAN": "что действительно тебя люблю.",
+      "FRENCH": "je t’aime vraiment.",
+      "THAI": "ฉันชอบเธอจริงๆ",
+      "PERSIAN": "من واقعا شما را دوست دارم."
+    },
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么?",
+      "CHINESE_TRADITIONAL": "什麼?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 27.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "나 방금 이렇게 안 했으면",
+      "ENGLISH": "If I hadn’t done this",
+      "CHINESE_SIMPLIFIED": "如果我不这样做",
+      "CHINESE_TRADITIONAL": "如果我不這樣做",
+      "JAPANESE": "こうでもしないと",
+      "INDONESIAN": "Kalau aku gak ngelakuin ini",
+      "PORTUGUESE": "Se eu não tivesse feito isso",
+      "RUSSIAN": "Если бы я не сделала этого,",
+      "FRENCH": "Si je n’avais pas fait ça,",
+      "THAI": "ถ้าฉันไม่ทำแบบนี้",
+      "PERSIAN": "اگر این کار را نکرده بودم"
+    },
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 31.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "우리 평생 친구로만 지냈겠지?",
+      "ENGLISH": "We would have stayed friends forever.",
+      "CHINESE_SIMPLIFIED": "我们也许一辈子就只是朋友关系了",
+      "CHINESE_TRADITIONAL": "我們也許一輩子就只是朋友關係了",
+      "JAPANESE": "私たち、ずっと友達のままだったんだろうな。",
+      "INDONESIAN": "Kita bakal tetap jadi teman selamanya.",
+      "PORTUGUESE": "A gente teria ficado só amigos para sempre.",
+      "RUSSIAN": "мы бы так и остались друзьями навсегда.",
+      "FRENCH": "on serait restés amis pour toujours.",
+      "THAI": "เราคงเป็นแค่เพื่อนกันตลอดไป",
+      "PERSIAN": "ما برای همیشه دوست می ماندیم."
+    },
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 33.0
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "난 가끔 너네 집에 놀러 가고",
+      "ENGLISH": "I’d visit your house sometimes",
+      "CHINESE_SIMPLIFIED": "我偶尔会去你家里玩儿",
+      "CHINESE_TRADITIONAL": "我偶爾會去你家裏玩兒",
+      "JAPANESE": "私はたまにあんたの家に行って、",
+      "INDONESIAN": "Kadang-kadang, aku datang ke rumahmu",
+      "PORTUGUESE": "Às vezes, eu vou na sua casa",
+      "RUSSIAN": "Я бы иногда заходила к тебе домой,",
+      "FRENCH": "Je passerais chez toi de temps en temps,",
+      "THAI": "ฉันคงไปบ้านเธอบ้างบางครั้ง",
+      "PERSIAN": "گاهی به خونه شما سر می زدم"
+    },
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 35.7
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "넌 가끔씩 PC방에 놀러 오고.",
+      "ENGLISH": "And you’d come to the PC room now and then.",
+      "CHINESE_SIMPLIFIED": "你偶尔也会来网吧找我",
+      "CHINESE_TRADITIONAL": "你偶爾也會來網吧找我",
+      "JAPANESE": "あんたはたまに私のネットカフェに遊びに来るだけの関係。",
+      "INDONESIAN": "Dan kamu sesekali datang ke warnet.",
+      "PORTUGUESE": "E você vai na lan house de vez em quando.",
+      "RUSSIAN": "а ты бы приходил в компьютерный клуб время от времени.",
+      "FRENCH": "et tu viendrais au cybercafé parfois.",
+      "THAI": "และเธอก็คงมาที่ร้านเกมเป็นบางที",
+      "PERSIAN": "و هرازگاهی به اتاق کامپیوتر می آمدی."
+    },
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 38.0
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "근데 이렇게 손잡을 때 숨통 트이고",
+      "ENGLISH": "But holding your hand like this",
+      "CHINESE_SIMPLIFIED": "但刚才我抓着你的手的时候",
+      "CHINESE_TRADITIONAL": "但剛纔我抓着你的手的時候",
+      "JAPANESE": "でも、こうして手を握るとホッとして",
+      "INDONESIAN": "Tapi pegang tanganmu kayak gini",
+      "PORTUGUESE": "Mas segurar sua mão assim",
+      "RUSSIAN": "Но держать твою руку вот так,",
+      "FRENCH": "Mais tenir ta main comme ça,",
+      "THAI": "แต่การจับมือเธอแบบนี้",
+      "PERSIAN": "اما اینجوری دستتو بگیر"
+    },
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 41.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "두근거리는 거.",
+      "ENGLISH": "feeling my heart race...",
+      "CHINESE_SIMPLIFIED": "心跳加速的感觉",
+      "CHINESE_TRADITIONAL": "心跳加速的感覺",
+      "JAPANESE": "でも、ドキドキする。",
+      "INDONESIAN": "Sambil ngerasa deg-degan...",
+      "PORTUGUESE": "e sentir meu coração disparar...",
+      "RUSSIAN": "чувствовать, как сердце бьётся...",
+      "FRENCH": "sentir mon cœur battre...",
+      "THAI": "รู้สึกหัวใจเต้นแรง...",
+      "PERSIAN": "احساس تپش قلبم..."
+    },
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 42.7
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "이거 친구 아니잖아. 맞지.",
+      "ENGLISH": "That’s not what friends feel. Right?",
+      "CHINESE_SIMPLIFIED": "不只是朋友的感觉，对吧",
+      "CHINESE_TRADITIONAL": "不只是朋友的感覺，對吧",
+      "JAPANESE": "これ、友達じゃないじゃん、そうでしょ？",
+      "INDONESIAN": "Itu bukan perasaan teman, kan?",
+      "PORTUGUESE": "Isso não é o que amigos sentem, certo?",
+      "RUSSIAN": "Так друзья себя не чувствуют. Верно?",
+      "FRENCH": "Ce n’est pas ce que ressentent les amis, n’est-ce pas ?",
+      "THAI": "มันไม่ใช่ความรู้สึกของเพื่อน ใช่ไหม?",
+      "PERSIAN": "این چیزی نیست که دوستان احساس می کنند. درسته؟"
+    },
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 45.2
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙...",
+      "ENGLISH": "Hey, Go Mal-sook...",
+      "CHINESE_SIMPLIFIED": "喂，高末淑…",
+      "CHINESE_TRADITIONAL": "喂，高末淑…",
+      "JAPANESE": "おい、マルスク…",
+      "INDONESIAN": "Hei, Go Mal-sook...",
+      "PORTUGUESE": "Ei, Go Mal-sook...",
+      "RUSSIAN": "Эй, Го Мал-Сук...",
+      "FRENCH": "Hé, Go Mal-sook...",
+      "THAI": "เฮ้ โก มัลซุก...",
+      "PERSIAN": "هی برو مال‌سوک..."
+    },
+    "TIME": {
+      "SHOW": 45.6,
+      "HIDE": 47.1
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "아 몰라!",
+      "ENGLISH": "I don’t know!",
+      "CHINESE_SIMPLIFIED": "不管了!",
+      "CHINESE_TRADITIONAL": "不管了!",
+      "JAPANESE": "ああ、もう！",
+      "INDONESIAN": "Aku gak tahu!",
+      "PORTUGUESE": "Eu não sei!",
+      "RUSSIAN": "Я не знаю!",
+      "FRENCH": "Je ne sais pas !",
+      "THAI": "ฉันไม่รู้!",
+      "PERSIAN": "من نمی دانم!"
+    },
+    "TIME": {
+      "SHOW": 47.8,
+      "HIDE": 48.8
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "SCRIPT": {
+      "KOREAN": "난 더 이상 너랑 친구 하기 싫어!",
+      "ENGLISH": "I don’t want to be just friends with you anymore!",
+      "CHINESE_SIMPLIFIED": "反正我不想和你只做朋友了!",
+      "CHINESE_TRADITIONAL": "反正我不想和你只做朋友了!",
+      "JAPANESE": "私はもうあんたと友達でいたくないのよ！",
+      "INDONESIAN": "Aku gak mau cuma jadi teman sama kamu lagi!",
+      "PORTUGUESE": "Eu não quero mais ser só seu amigo!",
+      "RUSSIAN": "Я больше не хочу быть просто другом для тебя!",
+      "FRENCH": "Je ne veux plus être juste ton amie !",
+      "THAI": "ฉันไม่อยากเป็นแค่เพื่อนกับเธออีกแล้ว!",
+      "PERSIAN": "من دیگر نمی خواهم فقط با شما دوست باشم!"
+    },
+    "TIME": {
+      "SHOW": 49.2,
+      "HIDE": 51.0
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "SCRIPT": {
+      "KOREAN": "야... 나 친구라곤 너 하나뿐인데...!",
+      "ENGLISH": "Hey, you’re my only friend...!",
+      "CHINESE_SIMPLIFIED": "喂!我只有你一个朋友啊…!",
+      "CHINESE_TRADITIONAL": "喂!我只有你一個朋友啊…!",
+      "JAPANESE": "おい…俺、友達ってお前しかいないんだけど…！",
+      "INDONESIAN": "Hei, kamu kan satu-satunya temanku...!",
+      "PORTUGUESE": "Ei, você é meu único amigo...!",
+      "RUSSIAN": "Эй, ты ведь мой единственный друг...!",
+      "FRENCH": "Hé, tu es ma seule amie... !",
+      "THAI": "เฮ้ เธอเป็นเพื่อนคนเดียวของฉันนะ...!",
+      "PERSIAN": "هی تو تنها دوست منی...!"
+    },
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 54.2
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐든. 지금 대답하지 마.",
+      "ENGLISH": "Don’t answer anything right now.",
+      "CHINESE_SIMPLIFIED": "不! 你现在什么都别说!",
+      "CHINESE_TRADITIONAL": "不!你現在什麼都別說!",
+      "JAPANESE": "関係ないわ、今は答えなくていい。",
+      "INDONESIAN": "Jangan jawab apa-apa dulu.",
+      "PORTUGUESE": "Não responde nada agora.",
+      "RUSSIAN": "Не отвечай сейчас.",
+      "FRENCH": "Ne dis rien maintenant.",
+      "THAI": "อย่าเพิ่งตอบอะไรตอนนี้",
+      "PERSIAN": "فعلا هیچی جواب نده"
+    },
+    "TIME": {
+      "SHOW": 54.6,
+      "HIDE": 56.5
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "SCRIPT": {
+      "KOREAN": "그리고...",
+      "ENGLISH": "And...",
+      "CHINESE_SIMPLIFIED": "还有...",
+      "CHINESE_TRADITIONAL": "還有...",
+      "JAPANESE": "それと…",
+      "INDONESIAN": "Dan...",
+      "PORTUGUESE": "E...",
+      "RUSSIAN": "И...",
+      "FRENCH": "Et...",
+      "THAI": "และ...",
+      "PERSIAN": "و..."
+    },
+    "TIME": {
+      "SHOW": 57.8,
+      "HIDE": 58.5
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "SCRIPT": {
+      "KOREAN": "너 코에 코딱지 묻었거든?",
+      "ENGLISH": "You have booger on your nose.",
+      "CHINESE_SIMPLIFIED": "你鼻子上挂着鼻屎!",
+      "CHINESE_TRADITIONAL": "你鼻子上掛着鼻屎!",
+      "JAPANESE": "あんた、鼻に鼻クソついてるよ。",
+      "INDONESIAN": "Ada upil di hidungmu.",
+      "PORTUGUESE": "Tem uma meleca no seu nariz.",
+      "RUSSIAN": "У тебя сопля на носу.",
+      "FRENCH": "Tu as une crotte de nez.",
+      "THAI": "เธอมีขี้มูกติดจมูกอยู่",
+      "PERSIAN": "تو دماغت بوگر داری"
+    },
+    "TIME": {
+      "SHOW": 58.5,
+      "HIDE": 61.0
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "SCRIPT": {
+      "KOREAN": "코딱지?",
+      "ENGLISH": "A booger?",
+      "CHINESE_SIMPLIFIED": "鼻屎?",
+      "CHINESE_TRADITIONAL": "鼻屎?",
+      "JAPANESE": "鼻クソ？",
+      "INDONESIAN": "Upil?",
+      "PORTUGUESE": "Uma meleca?",
+      "RUSSIAN": "Сопля?",
+      "FRENCH": "Une crotte de nez ?",
+      "THAI": "ขี้มูก?",
+      "PERSIAN": "بوگر؟"
+    },
+    "TIME": {
+      "SHOW": 62.8,
+      "HIDE": 63.8
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "SCRIPT": {
+      "KOREAN": "아잇! 진짜네?",
+      "ENGLISH": "Really? Oh my god...",
+      "CHINESE_SIMPLIFIED": "还真有",
+      "CHINESE_TRADITIONAL": "還真有",
+      "JAPANESE": "うわっ、本当だ！",
+      "INDONESIAN": "Beneran? Ya ampun...",
+      "PORTUGUESE": "Sério? Meu Deus...",
+      "RUSSIAN": "Правда? О боже...",
+      "FRENCH": "Vraiment ? Oh mon dieu...",
+      "THAI": "จริงเหรอ? โอ้พระเจ้า...",
+      "PERSIAN": "واقعا؟ وای خدای من..."
+    },
+    "TIME": {
+      "SHOW": 67.0,
+      "HIDE": 68.5
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "SCRIPT": {
+      "KOREAN": "고말숙 뭐야... 진짜",
+      "ENGLISH": "Mal-sook what the...",
+      "CHINESE_SIMPLIFIED": "高末淑搞什么鬼...真是的",
+      "CHINESE_TRADITIONAL": "高末淑搞什麼鬼...真是的",
+      "JAPANESE": "マルスク、何だよ…ほんと。",
+      "INDONESIAN": "Mal-sook, apaan sih...",
+      "PORTUGUESE": "Mal-sook, que diabos...",
+      "RUSSIAN": "Мал-Сук, ну что за...",
+      "FRENCH": "Mal-sook, mais qu’est-ce que...",
+      "THAI": "มัลซุก นี่มันอะไรกัน...",
+      "PERSIAN": "مال‌سوک چه ..."
+    },
+    "TIME": {
+      "SHOW": 68.5,
+      "HIDE": 70.4
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "내가 여기 아니면 갈 PC방이 없는 줄 알아?",
+      "ENGLISH": "You think I don't have other internet cafes to go to?",
+      "CHINESE_SIMPLIFIED": "你以为我除了这儿,就没别的网吧可去了吗?",
+      "CHINESE_TRADITIONAL": "你以爲我除了這兒,就沒別的網吧可去了嗎?",
+      "JAPANESE": "俺が行くネットカフェがここしかないと思っているのか？",
+      "INDONESIAN": "Kamu pikir aku nggak punya warnet lain buat didatengin?",
+      "PORTUGUESE": "Acha que eu não tenho outros cybercafés pra ir?",
+      "RUSSIAN": "Ты думаешь, у меня нет других интернет-кафе?",
+      "FRENCH": "Tu crois que j'ai pas d'autres cybercafés où aller ?",
+      "THAI": "คิดว่าฉันไม่มีร้านอินเทอร์เน็ตคาเฟ่อื่นจะไปเหรอ?",
+      "PERSIAN": "شما فکر می کنید من کافی نت های دیگری برای رفتن ندارم؟"
+    },
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 4.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 미쳤어?",
+      "ENGLISH": "Are you nuts?!?!",
+      "CHINESE_SIMPLIFIED": "你疯啦？",
+      "CHINESE_TRADITIONAL": "你瘋啦？",
+      "JAPANESE": "あんた、頭おかしいんじゃないの？",
+      "INDONESIAN": "Kamu gila?!?!",
+      "PORTUGUESE": "Tá maluco?!?!",
+      "RUSSIAN": "Ты с ума сошёл?!?!",
+      "FRENCH": "T'es cinglé ?!",
+      "THAI": "บ้าไปแล้วหรือไง?!?!",
+      "PERSIAN": "دیوونه شدی؟!؟!"
+    },
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.7
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "손에 물 한 방울 안 묻히게 하겠습니다!",
+      "ENGLISH": "I’ll make sure you never have to lift a finger again!",
+      "CHINESE_SIMPLIFIED": "我会保证会让佟科长十指不沾阳春水的!",
+      "CHINESE_TRADITIONAL": "我會保證會讓佟科長十指不沾陽春水的!",
+      "JAPANESE": "手に一滴も水をつけさせないつもりです！",
+      "INDONESIAN": "Aku akan memastikan kamu nggak perlu bekerja atau repot sedikit pun!",
+      "PORTUGUESE": "Vou garantir que você não precise trabalhar ou se esforçar nem um pouco!",
+      "RUSSIAN": "Я сделаю всё, чтобы ты никогда не поднимал(а) и пальца!",
+      "FRENCH": "Je ferai en sorte que tu ne doives plus jamais lever le petit doigt !",
+      "THAI": "ผมจะทำให้คุณไม่ต้องลงแรงเองอีกเลย!"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아직도 그런 식상한 멘트를 쓰나?",
+      "ENGLISH": "Really? People still use lines that old?",
+      "CHINESE_SIMPLIFIED": "你这台词也太老套了吧?",
+      "CHINESE_TRADITIONAL": "你這臺詞也太老套了吧?",
+      "JAPANESE": "若い子がまだそんな古臭い言葉使ってるのか？",
+      "INDONESIAN": "Serius? Masih ada orang yang pakai rayuan setua itu?",
+      "PORTUGUESE": "Sério? Ainda tem gente que usa essas cantadas antigas?",
+      "RUSSIAN": "Серьёзно? Люди всё ещё используют такие старомодные фразы?",
+      "FRENCH": "Sérieusement ? Les gens utilisent encore des phrases aussi dépassées ?",
+      "THAI": "จริงเหรอ? ทุกวันนี้ยังมีคนใช้มุกแบบนี้อยู่อีกเหรอ?"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.5
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와... 실제로 보니까 너무 예뻐요!",
+      "ENGLISH": "Wow... Seeing it in person, it’s so beautiful!",
+      "CHINESE_SIMPLIFIED": "哇…亲眼见到真的好漂亮啊!",
+      "CHINESE_TRADITIONAL": "哇…親眼見到真的好漂亮啊!",
+      "JAPANESE": "わあ…実際に見ると本当に綺麗ですね！",
+      "INDONESIAN": "Wah... Lihat langsung, indah banget!",
+      "PORTUGUESE": "Uau... Vendo pessoalmente, é tão lindo!",
+      "RUSSIAN": "Вау... Увидеть это вживую — так красиво!",
+      "FRENCH": "Waouh... En vrai, c’est tellement beau !",
+      "THAI": "ว้าว... พอได้เห็นกับตาจริงๆ แล้วมันสวยมาก!",
+      "PERSIAN": "وای... با دیدن حضوری، خیلی زیباست!"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "입어볼래요?",
+      "ENGLISH": "Do you want to try it on?",
+      "CHINESE_SIMPLIFIED": "你想穿韩服吗?",
+      "CHINESE_TRADITIONAL": "你想穿韓服嗎?",
+      "JAPANESE": "着てみますか？",
+      "INDONESIAN": "Kamu mau coba pakai?",
+      "PORTUGUESE": "Você quer experimentar?",
+      "RUSSIAN": "Хочешь примерить?",
+      "FRENCH": "Tu veux l’essayer ?",
+      "THAI": "อยากลองใส่ดูไหม?",
+      "PERSIAN": "می خواهید اونو امتحان کنید؟"
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이거 빌려주는 데가 있어요!",
+      "ENGLISH": "There's a place where you can rent it!",
+      "CHINESE_SIMPLIFIED": "这里可以租的!",
+      "CHINESE_TRADITIONAL": "這裏可以租的!",
+      "JAPANESE": "ここで貸してくれるところがあるんです！",
+      "INDONESIAN": "Ada tempat yang bisa sewain, lho!",
+      "PORTUGUESE": "Tem um lugar onde você pode alugar!",
+      "RUSSIAN": "Там есть место, где можно взять напрокат!",
+      "FRENCH": "Il y a un endroit où tu peux le louer !",
+      "THAI": "มีที่ให้เช่าชุดอยู่แถวนี้นะ!",
+      "PERSIAN": "جایی هست که می توانید اونو اجاره کنید!"
+    },
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "입어볼 수 있다고요?",
+      "ENGLISH": "Try it on?",
+      "CHINESE_SIMPLIFIED": "可以穿韩服吗？",
+      "CHINESE_TRADITIONAL": "可以穿韓服嗎？",
+      "JAPANESE": "着れるんですか？",
+      "INDONESIAN": "Coba pakai?",
+      "PORTUGUESE": "Experimentar?",
+      "RUSSIAN": "Примерить?",
+      "FRENCH": "Essayer ?",
+      "THAI": "ลองใส่ดู?",
+      "PERSIAN": "اونو امتحان کنید؟"
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.95
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "공짜로요?",
+      "ENGLISH": "For free?",
+      "CHINESE_SIMPLIFIED": "免费?",
+      "CHINESE_TRADITIONAL": "免費?",
+      "JAPANESE": "無料で？",
+      "INDONESIAN": "Gratis?",
+      "PORTUGUESE": "De graça?",
+      "RUSSIAN": "Бесплатно?",
+      "FRENCH": "Gratuitement ?",
+      "THAI": "ฟรีเหรอ?",
+      "PERSIAN": "به صورت رایگان؟"
+    },
+    "TIME": {
+      "SHOW": 12.95,
+      "HIDE": 14.64
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "한복 입고 춤추면",
+      "ENGLISH": "If you wear a hanbok and dance",
+      "CHINESE_SIMPLIFIED": "穿韩服跳舞的话",
+      "CHINESE_TRADITIONAL": "穿韓服跳舞的話",
+      "JAPANESE": "韓服を着てダンスすると",
+      "INDONESIAN": "Kalau kamu pakai hanbok dan menari,",
+      "PORTUGUESE": "Se você usar um hanbok e dançar,",
+      "RUSSIAN": "Если наденешь ханбок и станцуешь,",
+      "FRENCH": "Si tu portes un hanbok et que tu danses,",
+      "THAI": "ถ้าเธอใส่ฮันบกแล้วเต้น",
+      "PERSIAN": "اگر هانبوک بپوشید و برقصید"
+    },
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.14
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "공짜로 빌려줘요.",
+      "ENGLISH": "They'll lend it to you for free.",
+      "CHINESE_SIMPLIFIED": "就可以免费租给你",
+      "CHINESE_TRADITIONAL": "就可以免費租給你",
+      "JAPANESE": "無料で貸してくれるらしいですよ。",
+      "INDONESIAN": "Mereka bakal kasih pinjam gratis.",
+      "PORTUGUESE": "Eles emprestam de graça.",
+      "RUSSIAN": "они дадут тебе его бесплатно.",
+      "FRENCH": "ils te le prêtent gratuitement.",
+      "THAI": "เขาจะให้ยืมฟรีเลยนะ",
+      "PERSIAN": "اونا اونو به صورت رایگان به شما قرض می دهند."
+    },
+    "TIME": {
+      "SHOW": 16.14,
+      "HIDE": 17.34
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "춤이요?",
+      "ENGLISH": "Dance?",
+      "CHINESE_SIMPLIFIED": "跳舞?",
+      "CHINESE_TRADITIONAL": "跳舞?",
+      "JAPANESE": "ダンスって？",
+      "INDONESIAN": "Menari?",
+      "PORTUGUESE": "Dançar?",
+      "RUSSIAN": "Танцевать?",
+      "FRENCH": "Danser ?",
+      "THAI": "เต้นเหรอ?",
+      "PERSIAN": "رقص؟"
+    },
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "저 춤 출 줄 모르는데...?",
+      "ENGLISH": "I don’t know how to dance...?",
+      "CHINESE_SIMPLIFIED": "可我不怎么会跳舞…",
+      "CHINESE_TRADITIONAL": "可我不怎麼會跳舞…",
+      "JAPANESE": "私、ダンスできないですよ…？",
+      "INDONESIAN": "Aku gak bisa nari...",
+      "PORTUGUESE": "Eu não sei dançar...",
+      "RUSSIAN": "Я не умею танцевать...?",
+      "FRENCH": "Je ne sais pas danser...?",
+      "THAI": "ฉันเต้นไม่เป็นนะ...?",
+      "PERSIAN": "من بلد نیستم برقصم...؟"
+    },
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.97
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "일단 갈아입으러 갈까요?",
+      "ENGLISH": "Let’s go change first!",
+      "CHINESE_SIMPLIFIED": "你先换上吧!",
+      "CHINESE_TRADITIONAL": "你先換上吧!",
+      "JAPANESE": "とりあえず着替えに行きましょうか？",
+      "INDONESIAN": "Yuk, ganti baju dulu!",
+      "PORTUGUESE": "Vamos trocar de roupa primeiro!",
+      "RUSSIAN": "Давай сначала переоденемся!",
+      "FRENCH": "Allons d’abord nous changer !",
+      "THAI": "ไปเปลี่ยนชุดกันก่อนเถอะ!",
+      "PERSIAN": "اول بریم عوض کنیم!"
+    },
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.56
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "저 어때요?",
+      "ENGLISH": "How do I look?",
+      "CHINESE_SIMPLIFIED": "我好看吗?",
+      "CHINESE_TRADITIONAL": "我好看嗎?",
+      "JAPANESE": "どうですか、私？",
+      "INDONESIAN": "Gimana penampilanku?",
+      "PORTUGUESE": "Como eu fiquei?",
+      "RUSSIAN": "Как я выгляжу?",
+      "FRENCH": "Comment je suis ?",
+      "THAI": "ฉันดูเป็นไงบ้าง?",
+      "PERSIAN": "How do I look?"
+    },
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.3
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "승이 씨, 춤!",
+      "ENGLISH": "Seung-yi, you have to dance!",
+      "CHINESE_SIMPLIFIED": "圣依,快! 跳舞",
+      "CHINESE_TRADITIONAL": "聖依,快! 跳舞",
+      "JAPANESE": "スンイさん、ダンスするの忘れてますよ！",
+      "INDONESIAN": "Seung-yi, kamu harus nari!",
+      "PORTUGUESE": "Seung-yi, você tem que dançar!",
+      "RUSSIAN": "Сын-и, тебе нужно танцевать!",
+      "FRENCH": "Seung-yi, tu dois danser !",
+      "THAI": "ซึงอี เธอต้องเต้นนะ!",
+      "PERSIAN": "سونگ یی، باید برقصی!"
+    },
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.3
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "춤 안 추면 반납해야 해요!",
+      "ENGLISH": "If you don't dance, you have to return it!",
+      "CHINESE_SIMPLIFIED": "不跳的话就得把韩服还回去了!",
+      "CHINESE_TRADITIONAL": "不跳的話就得把韓服還回去了!",
+      "JAPANESE": "早く踊らないと返却しなきゃいけませんよ！",
+      "INDONESIAN": "Kalau gak nari, kamu harus balikin!",
+      "PORTUGUESE": "Se não dançar, tem que devolver!",
+      "RUSSIAN": "Если не станцуешь, придётся вернуть!",
+      "FRENCH": "Si tu ne danses pas, tu devras le rendre !",
+      "THAI": "ถ้าไม่เต้น ต้องคืนชุดนะ!",
+      "PERSIAN": "اگر نمی رقصی، باید اونو برگردانی!"
+    },
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "啊!",
+      "CHINESE_TRADITIONAL": "啊!",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "왜 웃어요?",
+      "ENGLISH": "Why are you laughing?",
+      "CHINESE_SIMPLIFIED": "您为什么笑?",
+      "CHINESE_TRADITIONAL": "您爲什麼笑?",
+      "JAPANESE": "何で笑ってるんですか？",
+      "INDONESIAN": "Kenapa kamu ketawa?",
+      "PORTUGUESE": "Por que você tá rindo?",
+      "RUSSIAN": "Почему ты смеёшься?",
+      "FRENCH": "Pourquoi tu ris ?",
+      "THAI": "ทำไมถึงหัวเราะล่ะ?",
+      "PERSIAN": "Why are you laughing?"
+    },
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 40.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "미안해요. 진짜로 믿을 줄 몰랐어요.",
+      "ENGLISH": "Sorry, I didn't think you'd actually believe me.",
+      "CHINESE_SIMPLIFIED": "对不起，我没想到你真信了",
+      "CHINESE_TRADITIONAL": "對不起，我沒想到你真信了",
+      "JAPANESE": "すいません、本当に信じるとは思わなくて。",
+      "INDONESIAN": "Maaf, aku gak nyangka kamu beneran percaya.",
+      "PORTUGUESE": "Desculpa, eu não achei que você ia acreditar de verdade.",
+      "RUSSIAN": "Извини, я не думал, что ты поверишь.",
+      "FRENCH": "Désolé, je pensais pas que tu allais vraiment me croire.",
+      "THAI": "ขอโทษที ฉันไม่คิดว่าเธอจะเชื่อจริงๆ",
+      "PERSIAN": "متاسفم، فکر نمی کردم واقعاً مرا باور کنید."
+    },
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 43.4
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "거짓말이었어요??",
+      "ENGLISH": "It was a joke??",
+      "CHINESE_SIMPLIFIED": "是逗我玩的吗?？",
+      "CHINESE_TRADITIONAL": "是逗我玩的嗎?？",
+      "JAPANESE": "嘘だったんですか？？",
+      "INDONESIAN": "Ini cuma bercanda??",
+      "PORTUGUESE": "Era uma piada??",
+      "RUSSIAN": "Это была шутка??",
+      "FRENCH": "C’était une blague ??",
+      "THAI": "เป็นแค่เรื่องล้อเล่นเหรอ??",
+      "PERSIAN": "شوخی بود؟؟"
+    },
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 44.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "어? 고름 풀렸다...",
+      "ENGLISH": "Oh... looks like the pus drained.",
+      "CHINESE_SIMPLIFIED": "哦，上衣带子开了",
+      "CHINESE_TRADITIONAL": "哦，上衣帶子開了",
+      "JAPANESE": "あ、衣紐がほどけちゃった…",
+      "INDONESIAN": "Oh... kayaknya nanahnya udah keluar.",
+      "PORTUGUESE": "Ah... parece que o pus saiu.",
+      "RUSSIAN": "О... кажется, гной вышел.",
+      "FRENCH": "Oh... on dirait que le pus est parti.",
+      "THAI": "โอ้... ดูเหมือนว่าหนองจะไหลออกแล้ว",
+      "PERSIAN": "اوه ... به نظر می رسد چرک تخلیه شده است."
+    },
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 45.9
+    }
+  }
+]

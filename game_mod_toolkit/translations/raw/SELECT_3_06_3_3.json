@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 농구 잘하는 거 알지?",
+      "ENGLISH": "Oppa, you know you’re good at basketball, right?",
+      "CHINESE_SIMPLIFIED": "你知道我篮球打的很好吧?",
+      "CHINESE_TRADITIONAL": "你知道我籃球打的很好吧?",
+      "JAPANESE": "お兄ちゃんがバスケ得意なの知ってるでしょ？",
+      "INDONESIAN": "Oppa, kamu tahu kan kalau kamu jago main basket?",
+      "PORTUGUESE": "Oppa, você sabe que é bom no basquete, né?",
+      "RUSSIAN": "Оппа, ты ведь знаешь, что ты хорош в баскетболе, да?",
+      "FRENCH": "Oppa, tu sais que t’es bon au basket, hein ?",
+      "THAI": "อปป้า นายก็รู้นะว่านายเล่นบาสเก่งใช่ไหม?"
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "준비 시작!",
+      "ENGLISH": "Ready, go!",
+      "CHINESE_SIMPLIFIED": "准备，开始!",
+      "CHINESE_TRADITIONAL": "準備，開始!",
+      "JAPANESE": "準備、スタート！",
+      "INDONESIAN": "Siap, mulai!",
+      "PORTUGUESE": "Pronto, vai!",
+      "RUSSIAN": "Готов? Поехали!",
+      "FRENCH": "Prêt ? C’est parti !",
+      "THAI": "พร้อม? ไปเลย!"
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "이거 내 거.",
+      "ENGLISH": "This is mine.",
+      "CHINESE_SIMPLIFIED": "这是我的!",
+      "CHINESE_TRADITIONAL": "這是我的!",
+      "JAPANESE": "これ、私の！",
+      "INDONESIAN": "Ini punyaku.",
+      "PORTUGUESE": "Esse é meu.",
+      "RUSSIAN": "Этот мой.",
+      "FRENCH": "Celui-là est à moi.",
+      "THAI": "ลูกนี้ของฉัน."
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이것도 내 거.",
+      "ENGLISH": "And this one too.",
+      "CHINESE_SIMPLIFIED": "这个也是我的!",
+      "CHINESE_TRADITIONAL": "這個也是我的!",
+      "JAPANESE": "これも私の！",
+      "INDONESIAN": "Dan ini juga.",
+      "PORTUGUESE": "E esse também.",
+      "RUSSIAN": "И этот тоже.",
+      "FRENCH": "Et celui-là aussi.",
+      "THAI": "แล้วลูกนี้ก็ของฉันด้วย."
+    },
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.7
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아~ 은비야~ 반칙이잖아~",
+      "ENGLISH": "Hey~ Eun-bi~ that’s cheating~",
+      "CHINESE_SIMPLIFIED": "恩妃啊~你这不是犯规吗~",
+      "CHINESE_TRADITIONAL": "恩妃啊~你這不是犯規嗎~",
+      "JAPANESE": "あ～ウンビ、それ反則だって～",
+      "INDONESIAN": "Hei~ Eun-bi~ curang tuh~",
+      "PORTUGUESE": "Ei~ Eun-bi~ isso é trapaça~",
+      "RUSSIAN": "Эй~ Ынби~ так нечестно!",
+      "FRENCH": "Hé~ Eun-bi~ c’est de la triche !",
+      "THAI": "เฮ้~ อึนบี~ แบบนี้โกงนี่นา!"
+    },
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 30.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "우유만도 내 거! / 아싸 야호!",
+      "ENGLISH": "Yuman is mine too! / Oooh~ Yeah~",
+      "CHINESE_SIMPLIFIED": "-吴宥万也是我的! -好耶！",
+      "CHINESE_TRADITIONAL": "-吳宥萬也是我的! -好耶！",
+      "JAPANESE": "お兄ちゃんも私のもの！ / やったー！イエーイ！",
+      "INDONESIAN": "Yuman juga punyaku! / Oooh~ Yess~",
+      "PORTUGUESE": "Yuman também é meu! / Oooh~ Isso aí~",
+      "RUSSIAN": "Юман тоже мой! / Ооо~ Да~",
+      "FRENCH": "Yuman est à moi aussi ! / Ooooh~ Ouais~",
+      "THAI": "ยูมันก็เป็นของฉันเหมือนกัน! / โอ้~ ใช่~"
+    },
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 33.0
+    }
+  }
+]

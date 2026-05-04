@@ -1,0 +1,342 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "어! 짜장 라면 주문 들어왔다.",
+      "ENGLISH": "Oh! We got an order for black bean ramen.",
+      "CHINESE_SIMPLIFIED": "有人点了炸酱泡面",
+      "CHINESE_TRADITIONAL": "有人點了炸醬泡麪",
+      "JAPANESE": "お！ジャージャン麺の注文が来たわ！",
+      "INDONESIAN": "Oh! Kita dapat pesanan ramen saus kacang hitam.",
+      "PORTUGUESE": "Oh! Recebemos um pedido de ramen com molho de feijão preto.",
+      "RUSSIAN": "О! У нас заказ на рамэн с чёрной фасолью.",
+      "FRENCH": "Oh ! On a une commande pour un ramen aux haricots noirs.",
+      "THAI": "โอ้! มีออร์เดอร์ราเม็งเต้าหู้ดำเข้ามา",
+      "PERSIAN": "اوه! سفارش رامن لوبیا سیاه گرفتیم."
+    },
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 할 줄 알지?",
+      "ENGLISH": "You know how to make it, right?",
+      "CHINESE_SIMPLIFIED": "你会做吧?",
+      "CHINESE_TRADITIONAL": "你會做吧?",
+      "JAPANESE": "あんた、作れるよね？",
+      "INDONESIAN": "Kamu tahu cara bikinnya, kan?",
+      "PORTUGUESE": "Você sabe fazer, né?",
+      "RUSSIAN": "Ты знаешь, как его готовить, да?",
+      "FRENCH": "Tu sais comment le faire, hein ?",
+      "THAI": "เธอรู้วิธีทำใช่ไหม?",
+      "PERSIAN": "شما می دانید چگونه اونو درست کنید، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.7
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "넌 뭐 하는데?",
+      "ENGLISH": "What are you doing?",
+      "CHINESE_SIMPLIFIED": "那你呢?",
+      "CHINESE_TRADITIONAL": "那你呢?",
+      "JAPANESE": "お前は何するんだよ。",
+      "INDONESIAN": "Lagi ngapain sih?",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "RUSSIAN": "Что ты делаешь?",
+      "FRENCH": "Qu’est-ce que tu fais ?",
+      "THAI": "ทำอะไรอยู่น่ะ?",
+      "PERSIAN": "What are you doing?"
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.3
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아 나도 바빠!",
+      "ENGLISH": "I’m busy too!",
+      "CHINESE_SIMPLIFIED": "哎呀我忙着呢!",
+      "CHINESE_TRADITIONAL": "哎呀我忙着呢!",
+      "JAPANESE": "私も忙しいの！",
+      "INDONESIAN": "Aku juga sibuk, tahu!",
+      "PORTUGUESE": "Eu também tô ocupado, sabia!",
+      "RUSSIAN": "Я тоже занята!",
+      "FRENCH": "Je suis occupée aussi !",
+      "THAI": "ฉันก็ยุ่งเหมือนกันนะ!",
+      "PERSIAN": "من هم سرم شلوغه!"
+    },
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "키만 큰 게..",
+      "ENGLISH": "Tall for nothing...",
+      "CHINESE_SIMPLIFIED": "光长个子了...",
+      "CHINESE_TRADITIONAL": "光長個子了...",
+      "JAPANESE": "背だけ高いやつが…",
+      "INDONESIAN": "Tinggi tapi gak ada gunanya...",
+      "PORTUGUESE": "Alto à toa...",
+      "RUSSIAN": "Высокий, а толку-то...",
+      "FRENCH": "Grand pour rien...",
+      "THAI": "สูงแต่ไร้ประโยชน์...",
+      "PERSIAN": "قد بلند برای هیچ..."
+    },
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "너 지금 나 욕했지!",
+      "ENGLISH": "Did you just insult me?",
+      "CHINESE_SIMPLIFIED": "你这是在损我吧?",
+      "CHINESE_TRADITIONAL": "你這是在損我吧?",
+      "JAPANESE": "今、私の悪口言ったよね？",
+      "INDONESIAN": "Kamu baru aja ngatain aku?",
+      "PORTUGUESE": "Você acabou de me insultar?",
+      "RUSSIAN": "Ты только что меня оскорбила?",
+      "FRENCH": "Tu viens de m’insulter ?",
+      "THAI": "เธอด่าฉันหรือเปล่า?",
+      "PERSIAN": "فقط توهین کردی؟"
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아니야...",
+      "ENGLISH": "No...",
+      "CHINESE_SIMPLIFIED": "没有没有…",
+      "CHINESE_TRADITIONAL": "沒有沒有…",
+      "JAPANESE": "いいや…？",
+      "INDONESIAN": "Enggak...",
+      "PORTUGUESE": "Não...",
+      "RUSSIAN": "Нет...",
+      "FRENCH": "Non...",
+      "THAI": "เปล่านะ...",
+      "PERSIAN": "نه..."
+    },
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "앗 뜨거...!",
+      "ENGLISH": "Ouch, hot...!",
+      "CHINESE_SIMPLIFIED": "啊!好烫…!!",
+      "CHINESE_TRADITIONAL": "啊!好燙…!!",
+      "JAPANESE": "あ、熱っ…！",
+      "INDONESIAN": "Aduh, panas...!",
+      "PORTUGUESE": "Ai, quente...!",
+      "RUSSIAN": "Ай, горячо...!",
+      "FRENCH": "Aïe, c’est chaud... !",
+      "THAI": "โอ๊ย ร้อน...!",
+      "PERSIAN": "اوه گرم...!"
+    },
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 21.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "괜찮아? ",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你还好吗?",
+      "CHINESE_TRADITIONAL": "你還好嗎?",
+      "JAPANESE": "大丈夫？",
+      "INDONESIAN": "Kamu gak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "RUSSIAN": "Ты в порядке?",
+      "FRENCH": "Ça va ?",
+      "THAI": "เธอโอเคไหม?",
+      "PERSIAN": "حالت خوبه؟"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.1
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "봐봐.",
+      "ENGLISH": "Let me see.",
+      "CHINESE_SIMPLIFIED": "我看看",
+      "CHINESE_TRADITIONAL": "我看看",
+      "JAPANESE": "ほら、見せて。",
+      "INDONESIAN": "Coba aku lihat.",
+      "PORTUGUESE": "Deixa eu ver.",
+      "RUSSIAN": "Дай посмотрю.",
+      "FRENCH": "Laisse-moi voir.",
+      "THAI": "ขอดูหน่อย",
+      "PERSIAN": "بذار ببینم"
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "О...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้...",
+      "PERSIAN": "Oh..."
+    },
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 26.6
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아 엄마가 어렸을 때 이렇게 해줘서",
+      "ENGLISH": "My mom used to do this when I was a kid.",
+      "CHINESE_SIMPLIFIED": "小时候我妈就这么做",
+      "CHINESE_TRADITIONAL": "小時候我媽就這麼做",
+      "JAPANESE": "私が子供の頃、お母さんがいつもこうしてくれたから",
+      "INDONESIAN": "Dulu ibuku sering kayak gini waktu aku kecil.",
+      "PORTUGUESE": "Minha mãe fazia isso quando eu era pequeno.",
+      "RUSSIAN": "Моя мама так делала, когда я была маленькой.",
+      "FRENCH": "Ma mère faisait ça quand j’étais enfant.",
+      "THAI": "แม่ฉันทำแบบนี้ให้ตอนฉันเป็นเด็ก",
+      "PERSIAN": "مامانم وقتی بچه بودم این کارو میکرد."
+    },
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "나도 그런 거거든?",
+      "ENGLISH": "So I’m doing it too.",
+      "CHINESE_SIMPLIFIED": "所以我才这么做的",
+      "CHINESE_TRADITIONAL": "所以我才這麼做的",
+      "JAPANESE": "私も自然と...",
+      "INDONESIAN": "Jadi aku juga ngelakuin hal yang sama.",
+      "PORTUGUESE": "Então, tô fazendo também.",
+      "RUSSIAN": "Так что я тоже так делаю.",
+      "FRENCH": "Alors je le fais aussi.",
+      "THAI": "ฉันเลยทำบ้าง",
+      "PERSIAN": "پس من هم دارم انجامش میدم"
+    },
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.7
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "손가락 겁나 짜네 진짜.",
+      "ENGLISH": "Your fingers are so grossly wet.",
+      "CHINESE_SIMPLIFIED": "啊，你的手指头也是够咸的",
+      "CHINESE_TRADITIONAL": "啊，你的手指頭也是夠鹹的",
+      "JAPANESE": "指が細すぎなのよ。",
+      "INDONESIAN": "Jari kamu basah banget, ih.",
+      "PORTUGUESE": "Seus dedos estão molhados e nojentos.",
+      "RUSSIAN": "Твои пальцы такие мокрые, фу.",
+      "FRENCH": "Tes doigts sont tellement humides, berk.",
+      "THAI": "มือเธอชื้นจัง แหวะ",
+      "PERSIAN": "انگشتات خیلی خیس شده"
+    },
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 33.5
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야 고말숙...",
+      "ENGLISH": "What’s with you, Mal-sook... ",
+      "CHINESE_SIMPLIFIED": "什么呀...高末淑…",
+      "CHINESE_TRADITIONAL": "什麼呀...高末淑…",
+      "JAPANESE": "何だよ…",
+      "INDONESIAN": "Apa-apaan sih, Mal-sook...",
+      "PORTUGUESE": "Qual é o seu problema, Mal-sook...",
+      "RUSSIAN": "Да что с тобой, Мал-Сук...",
+      "FRENCH": "Mais qu’est-ce qu’il te prend, Mal-sook...",
+      "THAI": "มัลซุก ทำไมเธอเป็นแบบนี้!",
+      "PERSIAN": "چه ربطی به تو داره، مال‌سوک..."
+    },
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 40.0
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜 이러세요!",
+      "ENGLISH": "Why are you like this!",
+      "CHINESE_SIMPLIFIED": "啊!你这是干什么!",
+      "CHINESE_TRADITIONAL": "啊!你這是幹什麼!",
+      "JAPANESE": "ちょっと、やめてくださいよ！",
+      "INDONESIAN": "Kenapa sih kamu kayak gini!",
+      "PORTUGUESE": "Por que você é assim!",
+      "RUSSIAN": "Почему ты такая?!",
+      "FRENCH": "Pourquoi tu es comme ",
+      "THAI": "อะไรกันล่ะ",
+      "PERSIAN": "چرا اینجوری شدی!"
+    },
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 42.1
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "Эээ?",
+      "FRENCH": "ça ?!",
+      "THAI": "เนี่ย!",
+      "PERSIAN": "Uh?"
+    },
+    "TIME": {
+      "SHOW": 42.3,
+      "HIDE": "..."
+    }
+  }
+]

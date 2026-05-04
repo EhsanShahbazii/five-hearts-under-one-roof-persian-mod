@@ -1,0 +1,242 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우리 인형뽑기 했잖아.",
+      "ENGLISH": "We did the claw machine!",
+      "CHINESE_SIMPLIFIED": "我们不是玩了抓娃娃嘛",
+      "CHINESE_TRADITIONAL": "我們不是玩了抓娃娃嘛",
+      "JAPANESE": "俺たち、UFOキャッチャーしたじゃん。",
+      "INDONESIAN": "Kita main capit boneka!",
+      "PORTUGUESE": "Nós jogamos na máquina de bichinhos de pelúcia!",
+      "RUSSIAN": "Мы играли в автомат с игрушками!",
+      "FRENCH": "On avait fait la machine attrape-peluches !",
+      "THAI": "เราเล่นเกมตู้คีบตุ๊กตา!",
+      "PERSIAN": "ما ماشین پنجه را انجام دادیم!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "오~",
+      "ENGLISH": "Oh wow",
+      "CHINESE_SIMPLIFIED": "哦~",
+      "CHINESE_TRADITIONAL": "哦~",
+      "JAPANESE": "お〜",
+      "INDONESIAN": "Wah, keren banget",
+      "PORTUGUESE": "Uau",
+      "RUSSIAN": "Ого,",
+      "FRENCH": "Oh, wow,",
+      "THAI": "ว้าว,",
+      "PERSIAN": "اوه وای"
+    },
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 2.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "기억력~",
+      "ENGLISH": "You have a good memory!",
+      "CHINESE_SIMPLIFIED": "记忆力绝了~",
+      "CHINESE_TRADITIONAL": "記憶力絕了~",
+      "JAPANESE": "記憶力すごいね。",
+      "INDONESIAN": "Kamu punya ingatan yang bagus!",
+      "PORTUGUESE": "Você tem uma boa memória!",
+      "RUSSIAN": "у тебя хорошая память!",
+      "FRENCH": "tu as une bonne mémoire !",
+      "THAI": "ความจำคุณดีจังเลยนะ!",
+      "PERSIAN": "شما حافظه خوبی دارید!"
+    },
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "너 그때 인형뽑기 엄청 못해가지고",
+      "ENGLISH": "You were pretty bummed out",
+      "CHINESE_SIMPLIFIED": "那时候你一直抓不上来",
+      "CHINESE_TRADITIONAL": "那時候你一直抓不上來",
+      "JAPANESE": "あの時、お前めっちゃ下手で",
+      "INDONESIAN": "Kamu sempat kecewa banget",
+      "PORTUGUESE": "Você ficou bem chateado",
+      "RUSSIAN": "Ты был так расстроен,",
+      "FRENCH": "Tu étais tellement déçu",
+      "THAI": "คุณดูหงอยไปเลย",
+      "PERSIAN": "تو خیلی ناراحت بودی"
+    },
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "막 시무룩해지고 그랬잖아!",
+      "ENGLISH": "When you couldn’t get that plushie!",
+      "CHINESE_SIMPLIFIED": "不是还不开心来着嘛",
+      "CHINESE_TRADITIONAL": "不是還不開心來着嘛",
+      "JAPANESE": "ちょっとしょんぼりしてたよね！",
+      "INDONESIAN": "Waktu nggak bisa dapat boneka itu!",
+      "PORTUGUESE": "quando não conseguiu pegar aquele bichinho de pelúcia!",
+      "RUSSIAN": "когда не смог достать ту мягкую игрушку!",
+      "FRENCH": "de ne pas avoir réussi à attraper cette peluche !",
+      "THAI": "ตอนที่ไม่ได้ตุ๊กตาตัวนั้น!",
+      "PERSIAN": "زمانی که نمی‌توانستید اون پماد را دریافت کنید!"
+    },
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "맞아!",
+      "ENGLISH": "Right!",
+      "CHINESE_SIMPLIFIED": "对啊!",
+      "CHINESE_TRADITIONAL": "對啊!",
+      "JAPANESE": "そうそう！",
+      "INDONESIAN": "Benar!",
+      "PORTUGUESE": "Certo!",
+      "RUSSIAN": "Да, точно!",
+      "FRENCH": "Exactement !",
+      "THAI": "ใช่เลย!",
+      "PERSIAN": "Right!"
+    },
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 9.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 잘 기억하네?",
+      "ENGLISH": "You really remember everything, huh?",
+      "CHINESE_SIMPLIFIED": "你真的记得很清楚~",
+      "CHINESE_TRADITIONAL": "你真的記得很清楚~",
+      "JAPANESE": "本当に覚えてるね？",
+      "INDONESIAN": "Kamu benar-benar ingat semuanya, ya?",
+      "PORTUGUESE": "Você realmente se lembra de tudo, hein?",
+      "RUSSIAN": "Ты реально всё помнишь, да?",
+      "FRENCH": "Tu te souviens vraiment de tout, hein ?",
+      "THAI": "คุณจำได้ทุกอย่างจริงๆ นะ",
+      "PERSIAN": "شما واقعا همه چیز را به یاد دارید، ها؟"
+    },
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 오빠",
+      "ENGLISH": "So,",
+      "CHINESE_SIMPLIFIED": "那哥哥",
+      "CHINESE_TRADITIONAL": "那哥哥",
+      "JAPANESE": "じゃあ、お兄ちゃん。",
+      "INDONESIAN": "Jadi,",
+      "PORTUGUESE": "Então,",
+      "RUSSIAN": "Так,",
+      "FRENCH": "Alors,",
+      "THAI": "งั้น,",
+      "PERSIAN": "بنابراین،"
+    },
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "그날 나한테 고백했던 것도",
+      "ENGLISH": "do you also remember ",
+      "CHINESE_SIMPLIFIED": "那天你和我表白的事",
+      "CHINESE_TRADITIONAL": "那天你和我表白的事",
+      "JAPANESE": "その日、お兄ちゃんが私に告白したのも",
+      "INDONESIAN": "kamu juga ingat",
+      "PORTUGUESE": "você também se lembra",
+      "RUSSIAN": "значит, ты тоже помнишь,",
+      "FRENCH": "tu te souviens aussi",
+      "THAI": "คุณจำได้ไหมว่า",
+      "PERSIAN": "تو هم یادت هست"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "기억나지?",
+      "ENGLISH": "confessing to me that day?",
+      "CHINESE_SIMPLIFIED": "你还记得吧？",
+      "CHINESE_TRADITIONAL": "你還記得吧？",
+      "JAPANESE": "覚えてるよね？",
+      "INDONESIAN": "mengaku perasaanmu padaku hari itu?",
+      "PORTUGUESE": "de ter confessado pra mim naquele dia?",
+      "RUSSIAN": "что признался мне в тот день?",
+      "FRENCH": "de m’avoir fait une déclaration ce jour-là ?",
+      "THAI": "คุณสารภาพรักกับฉันวันนั้น?",
+      "PERSIAN": "اون روز به من اعتراف کرد؟"
+    },
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.0
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "내가 언제?",
+      "ENGLISH": "Wait, what? I did?",
+      "CHINESE_SIMPLIFIED": "我哪有",
+      "CHINESE_TRADITIONAL": "我哪有",
+      "JAPANESE": "え、いつ俺が？",
+      "INDONESIAN": "Tunggu, apa? Aku bilang begitu?",
+      "PORTUGUESE": "Espera, o quê? Eu fiz isso?",
+      "RUSSIAN": "Что? Я признался?",
+      "FRENCH": "Attends, quoi ? J’ai fait ça ?",
+      "THAI": "เดี๋ยวนะ, อะไรนะ? ฉันทำแบบนั้นเหรอ?",
+      "PERSIAN": "صبر کن چی؟ انجام دادم؟"
+    },
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.1
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "...진짜 기억력 좋네?",
+      "ENGLISH": "See, your memory’s not that great after all.",
+      "CHINESE_SIMPLIFIED": "切, 记性可真好...",
+      "CHINESE_TRADITIONAL": "切, 記性可真好...",
+      "JAPANESE": "…やっぱ記憶力いいなぁ。",
+      "INDONESIAN": "Lihat, ingatanmu nggak sehebat itu ternyata.",
+      "PORTUGUESE": "Viu, sua memória não é tão boa assim afinal.",
+      "RUSSIAN": "Вот видишь, память у тебя не такая уж и хорошая.",
+      "FRENCH": "Tu vois, ta mémoire n’est pas si parfaite après tout.",
+      "THAI": "เห็นไหมล่ะ ความจำคุณไม่ได้ดีขนาดนั้นหรอก!",
+      "PERSIAN": "ببینید، بالاخره حافظه شما آنقدرها هم عالی نیست."
+    },
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.6
+    }
+  }
+]

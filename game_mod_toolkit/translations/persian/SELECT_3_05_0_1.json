@@ -1,0 +1,222 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "우와 노래방!",
+      "ENGLISH": "Wow, a karaoke room!",
+      "CHINESE_SIMPLIFIED": "哇! ktv!",
+      "CHINESE_TRADITIONAL": "哇! ktv!",
+      "JAPANESE": "わあ、カラオケだ！",
+      "INDONESIAN": "Wow, ruang karaoke!",
+      "PORTUGUESE": "Uau, uma sala de karaokê!",
+      "RUSSIAN": "Вау, караоке-комната!",
+      "FRENCH": "Wow, une salle de karaoké !",
+      "THAI": "ว้าว ห้องคาราโอเกะ!",
+      "PERSIAN": "عجب اتاق کارائوکه!"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "요즘 이렇게 작은 게 많이 생겼네!",
+      "ENGLISH": "They’re so small now!",
+      "CHINESE_SIMPLIFIED": "最近还有这种迷你ktv呢!",
+      "CHINESE_TRADITIONAL": "最近還有這種迷你ktv呢!",
+      "JAPANESE": "最近、こういう小さいのがたくさんできたんだね！",
+      "INDONESIAN": "Sekarang ruangannya kecil banget!",
+      "PORTUGUESE": "Agora elas estão bem pequenas!",
+      "RUSSIAN": "Теперь они такие маленькие!",
+      "FRENCH": "Elles sont tellement petites maintenant !",
+      "THAI": "ห้องเล็กลงเยอะเลย!",
+      "PERSIAN": "الان خیلی کوچک هستند!"
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까. 나도 오랜만이네.",
+      "ENGLISH": "Yeah, it’s been a while for me too.",
+      "CHINESE_SIMPLIFIED": "我也好长时间没来了",
+      "CHINESE_TRADITIONAL": "我也好長時間沒來了",
+      "JAPANESE": "そうだね。俺も久しぶりだな。",
+      "INDONESIAN": "Iya, udah lama juga buatku.",
+      "PORTUGUESE": "Sim, faz tempo pra mim também.",
+      "RUSSIAN": "Да, я тоже давно не был.",
+      "FRENCH": "Oui, ça fait un moment pour moi aussi.",
+      "THAI": "ใช่ ฉันก็ไม่ได้มานานแล้ว.",
+      "PERSIAN": "بله، برای من هم مدتی است."
+    },
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 7.0
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "좁은 게...",
+      "ENGLISH": "It’s cozy...",
+      "CHINESE_SIMPLIFIED": "这个房间好小呀...",
+      "CHINESE_TRADITIONAL": "這個房間好小呀...",
+      "JAPANESE": "狭いけど…",
+      "INDONESIAN": "Tempatnya nyaman...",
+      "PORTUGUESE": "É aconchegante...",
+      "RUSSIAN": "Но она такая уютная...",
+      "FRENCH": "C’est si cosy...",
+      "THAI": "มันอบอุ่นดีนะ...",
+      "PERSIAN": "دنج است..."
+    },
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "딱 둘이 붙어 있기 좋잖아!",
+      "ENGLISH": "perfect for us to be close together!",
+      "CHINESE_SIMPLIFIED": "咱们俩贴在一起刚好~",
+      "CHINESE_TRADITIONAL": "咱們倆貼在一起剛好~",
+      "JAPANESE": "二人でくっつくのにちょうどいいじゃん！",
+      "INDONESIAN": "Cocok banget buat kita lebih dekat!",
+      "PORTUGUESE": "Perfeito pra gente ficar bem juntinhos!",
+      "RUSSIAN": "идеально, чтобы быть поближе друг к другу!",
+      "FRENCH": "parfait pour qu’on soit bien proches !",
+      "THAI": "เหมาะที่จะอยู่ใกล้ ๆ กันเลย!",
+      "PERSIAN": "برای نزدیک بودن به هم مناسب است!"
+    },
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.0
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥！",
+      "CHINESE_TRADITIONAL": "哥哥！",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "RUSSIAN": "Оппа!",
+      "FRENCH": "Oppa !",
+      "THAI": "อปป้า!",
+      "PERSIAN": "Oppa!"
+    },
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.2
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "노래 불러줘!",
+      "ENGLISH": "Sing a song for me!",
+      "CHINESE_SIMPLIFIED": "给我唱首歌吧！",
+      "CHINESE_TRADITIONAL": "給我唱首歌吧！",
+      "JAPANESE": "歌ってよ！",
+      "INDONESIAN": "Nyanyiin lagu buat aku!",
+      "PORTUGUESE": "Canta uma música pra mim!",
+      "RUSSIAN": "Спой для меня!",
+      "FRENCH": "Chante-moi une chanson !",
+      "THAI": "ร้องเพลงให้ฉันฟังหน่อย!",
+      "PERSIAN": "برای من آهنگ بخوان!"
+    },
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "나 노래 못 불러! 너 불러.",
+      "ENGLISH": "I can't sing! You sing.",
+      "CHINESE_SIMPLIFIED": "我不会唱歌！ 你唱吧",
+      "CHINESE_TRADITIONAL": "我不會唱歌！ 你唱吧",
+      "JAPANESE": "俺、歌えないよ！お前が歌えよ。",
+      "INDONESIAN": "Aku nggak bisa nyanyi! Kamu aja yang nyanyi.",
+      "PORTUGUESE": "Eu não sei cantar! Canta você.",
+      "RUSSIAN": "Я не умею петь! Ты пой.",
+      "FRENCH": "Je sais pas chanter ! Chante-toi.",
+      "THAI": "ฉันร้องเพลงไม่เป็น! เธอร้องสิ.",
+      "PERSIAN": "من نمی توانم آواز بخوانم! شما آواز بخوانید."
+    },
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아 왜~",
+      "ENGLISH": "Come on~",
+      "CHINESE_SIMPLIFIED": "啊求你了~",
+      "CHINESE_TRADITIONAL": "啊求你了~",
+      "JAPANESE": "何でよ～",
+      "INDONESIAN": "Ayolah~",
+      "PORTUGUESE": "Vamos~",
+      "RUSSIAN": "Ну давай~",
+      "FRENCH": "Allez~",
+      "THAI": "นะ~",
+      "PERSIAN": "Come on~"
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "나 어렸을 때는 막 동요도 불러주고 그랬잖아!",
+      "ENGLISH": "You used to sing nursery rhymes for me when I was little!",
+      "CHINESE_SIMPLIFIED": "小时候你不是经常给我唱童谣嘛！",
+      "CHINESE_TRADITIONAL": "小時候你不是經常給我唱童謠嘛！",
+      "JAPANESE": "お兄ちゃん、昔は童謡とか歌ってくれたじゃん！",
+      "INDONESIAN": "Dulu kamu sering nyanyiin lagu anak-anak buatku waktu aku kecil!",
+      "PORTUGUESE": "Você costumava cantar músicas infantis pra mim quando eu era pequena!",
+      "RUSSIAN": "Ты ведь пел мне колыбельные, когда я была маленькой!",
+      "FRENCH": "Tu me chantais des comptines quand j’étais petite !",
+      "THAI": "เมื่อก่อนนายเคยร้องเพลงกล่อมให้ฉันฟังตอนเด็ก ๆ เลยนะ!",
+      "PERSIAN": "وقتی کوچیک بودم برای من قافیه مهد می خوندی!"
+    },
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "응? 노래 불러주면 안 돼?",
+      "ENGLISH": "Please? Will you sing for me?",
+      "CHINESE_SIMPLIFIED": "嗯？ 求求哥哥给我唱首歌吧",
+      "CHINESE_TRADITIONAL": "嗯？ 求求哥哥給我唱首歌吧",
+      "JAPANESE": "うん？歌ってくれないの？",
+      "INDONESIAN": "Tolong? Nyanyiin lagu buat aku?",
+      "PORTUGUESE": "Por favor? Canta pra mim?",
+      "RUSSIAN": "Пожалуйста? Споёшь для меня?",
+      "FRENCH": "S’il te plaît ? Tu veux bien chanter pour moi ?",
+      "THAI": "ได้ไหม? ร้องให้ฉันฟังหน่อยนะ?",
+      "PERSIAN": "لطفا؟ برای من می خوانی؟"
+    },
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.43
+    }
+  }
+]

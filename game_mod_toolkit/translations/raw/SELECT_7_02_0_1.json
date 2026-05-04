@@ -1,0 +1,59 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "응, 너 일이라면 내가 평생 도와줄게.",
+      "ENGLISH": "Yep, I'll help you with anything.",
+      "CHINESE_SIMPLIFIED": "嗯，你的事就是我的事",
+      "CHINESE_TRADITIONAL": "嗯，你的事就是我的事",
+      "JAPANESE": "うん、お前のことなら一生手伝ってやるよ。",
+      "INDONESIAN": "Iya, aku akan membantumu dengan apa saja.",
+      "PORTUGUESE": "Sim, eu te ajudo com qualquer coisa.",
+      "RUSSIAN": "Да, я помогу тебе с чем угодно.",
+      "FRENCH": "Oui, je t’aiderai avec tout.",
+      "THAI": "ใช่ ฉันจะช่วยเธอทำอะไรก็ได้"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "너 나 없으면 다치기만 하다 끝날걸?",
+      "ENGLISH": "Without me, you'd probably hurt yourself.",
+      "CHINESE_SIMPLIFIED": "要是没有我的话说不定你又会受伤?",
+      "CHINESE_TRADITIONAL": "要是沒有我的話說不定你又會受傷?",
+      "JAPANESE": "俺がいなかったら、怪我ばっかりするからな。",
+      "INDONESIAN": "Tanpa aku, mungkin kamu bakal melukai diri sendiri.",
+      "PORTUGUESE": "Sem mim, você provavelmente se machucaria.",
+      "RUSSIAN": "Без меня ты, наверное, сам(а) бы себе навредил(а).",
+      "FRENCH": "Sans moi, tu te blesserais sûrement.",
+      "THAI": "ถ้าไม่มีฉัน เธอคงเจ็บตัวแน่"
+    },
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "내가 다치면 얼마나 다친다고...",
+      "ENGLISH": "And if I do get hurt, how bad could it be?",
+      "CHINESE_SIMPLIFIED": "我还能受多严重的伤啊…",
+      "CHINESE_TRADITIONAL": "我還能受多嚴重的傷啊…",
+      "JAPANESE": "あんた、私のこと心配しすぎだって。",
+      "INDONESIAN": "Dan kalaupun aku terluka, seburuk apa sih jadinya?",
+      "PORTUGUESE": "E se eu me machucar, quão ruim pode ser?",
+      "RUSSIAN": "А если и правда поранюсь, что страшного может случиться?",
+      "FRENCH": "Et si je me fais vraiment mal, ce serait si grave que ça ?",
+      "THAI": "แล้วถ้าฉันเจ็บตัวขึ้นมาจริงๆ จะร้ายแรงแค่ไหนกัน?"
+    },
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.7
+    }
+  }
+]

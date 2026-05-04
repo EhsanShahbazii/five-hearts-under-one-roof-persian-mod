@@ -1,0 +1,282 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 말하게 될 줄은 몰랐는데.",
+      "ENGLISH": "I didn’t expect it to come to this.",
+      "CHINESE_SIMPLIFIED": "我没想到会在这种情况下和你说这件事",
+      "CHINESE_TRADITIONAL": "我沒想到會在這種情況下和你說這件事",
+      "JAPANESE": "まさか、こんなところで言うことになるとは...",
+      "INDONESIAN": "Aku gak nyangka bakal jadi begini.",
+      "PORTUGUESE": "Eu não esperava que chegasse a esse ponto.",
+      "RUSSIAN": "Я не ожидал, что до этого дойдёт.",
+      "FRENCH": "Je ne m’attendais pas à ce que ça arrive.",
+      "THAI": "ฉันไม่คิดว่ามันจะมาถึงขนาดนี้",
+      "PERSIAN": "انتظار نداشتم به این حد برسد."
+    },
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么事?",
+      "CHINESE_TRADITIONAL": "什麼事?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "인사해",
+      "ENGLISH": "Introduce yourself",
+      "CHINESE_SIMPLIFIED": "打个招呼吧",
+      "CHINESE_TRADITIONAL": "打個招呼吧",
+      "JAPANESE": "紹介するよ。",
+      "INDONESIAN": "Kenalin diri kamu.",
+      "PORTUGUESE": "Se apresente.",
+      "RUSSIAN": "Представься.",
+      "FRENCH": "Présente-toi.",
+      "THAI": "แนะนำตัวสิ",
+      "PERSIAN": "خودتان را معرفی کنید"
+    },
+    "TIME": {
+      "SHOW": 3.65,
+      "HIDE": 4.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "여긴 내 여자친구야.",
+      "ENGLISH": "This is my girlfriend.",
+      "CHINESE_SIMPLIFIED": "这是我女朋友",
+      "CHINESE_TRADITIONAL": "這是我女朋友",
+      "JAPANESE": "俺の彼女だ。",
+      "INDONESIAN": "Ini pacarku.",
+      "PORTUGUESE": "Essa é minha namorada.",
+      "RUSSIAN": "Это моя девушка.",
+      "FRENCH": "C’est ma copine.",
+      "THAI": "นี่แฟนฉันเอง",
+      "PERSIAN": "This is my girlfriend."
+    },
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "무슨 소리야? 갑자기 여자친구라니!",
+      "ENGLISH": "What are you talking about? Suddenly a girlfriend!",
+      "CHINESE_SIMPLIFIED": "你说什么呢?怎么就突然有女朋友了?",
+      "CHINESE_TRADITIONAL": "你說什麼呢?怎麼就突然有女朋友了?",
+      "JAPANESE": "何言ってんの？いきなり彼女って！",
+      "INDONESIAN": "Ngomong apa sih? Tiba-tiba pacar!",
+      "PORTUGUESE": "Do que você está falando? Do nada uma namorada!",
+      "RUSSIAN": "Ты о чём? С чего вдруг девушка!",
+      "FRENCH": "Tu dis quoi, là ? Tout à coup une copine !",
+      "THAI": "พูดอะไรน่ะ? อยู่ๆ ก็บอกว่ามีแฟน!",
+      "PERSIAN": "در مورد چی حرف میزنی؟ ناگهان یک دوست دختر!"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.4
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "그렇게 됐어.",
+      "ENGLISH": "It just happened.",
+      "CHINESE_SIMPLIFIED": "说来话长",
+      "CHINESE_TRADITIONAL": "說來話長",
+      "JAPANESE": "そうなんだって。",
+      "INDONESIAN": "Ya gitu deh.",
+      "PORTUGUESE": "Aconteceu assim.",
+      "RUSSIAN": "Так получилось.",
+      "FRENCH": "C’est arrivé comme ça.",
+      "THAI": "มันเพิ่งเกิดขึ้นเองน่ะ",
+      "PERSIAN": "این اتفاق افتاده است."
+    },
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.7
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "오빠한테는 소중한 사람이니까",
+      "ENGLISH": "She's important to me",
+      "CHINESE_SIMPLIFIED": "总之她对我来说很重要",
+      "CHINESE_TRADITIONAL": "總之她對我來說很重要",
+      "JAPANESE": "俺にとって大切な人だから、",
+      "INDONESIAN": "Dia penting buatku.",
+      "PORTUGUESE": "Ela é importante pra mim.",
+      "RUSSIAN": "Она для меня важна.",
+      "FRENCH": "Elle est importante pour moi.",
+      "THAI": "เธอสำคัญกับฉัน",
+      "PERSIAN": "اون برام مهمه"
+    },
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "지금은 그냥 모른 척해 줘.",
+      "ENGLISH": "So just pretend you don’t know for now.",
+      "CHINESE_SIMPLIFIED": "你就先装不知道吧",
+      "CHINESE_TRADITIONAL": "你就先裝不知道吧",
+      "JAPANESE": "今は知らないふりしてくれ。",
+      "INDONESIAN": "Jadi untuk sementara, pura-pura gak tahu aja, ya.",
+      "PORTUGUESE": "Então, por enquanto, finge que não sabe de nada.",
+      "RUSSIAN": "Так что пока просто делай вид, что не знаешь.",
+      "FRENCH": "Alors pour l’instant, fais comme si tu savais pas.",
+      "THAI": "ดังนั้นตอนนี้ทำเหมือนว่าไม่รู้เรื่องได้ไหม",
+      "PERSIAN": "پس فقط وانمود کنید که فعلا نمی دانید."
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "아니 오빠한테 무슨 여자친구야.",
+      "ENGLISH": "No way, who is this person? ",
+      "CHINESE_SIMPLIFIED": "不是哥哥你哪有女朋友啊?",
+      "CHINESE_TRADITIONAL": "不是哥哥你哪有女朋友啊?",
+      "JAPANESE": "いやいや、お兄ちゃんに彼女なんているわけないでしょ。",
+      "INDONESIAN": "Gak mungkin, siapa dia?",
+      "PORTUGUESE": "De jeito nenhum, quem é essa pessoa?",
+      "RUSSIAN": "Да ладно, кто это?",
+      "FRENCH": "Mais qui c’est, cette fille ?",
+      "THAI": "ไม่มีทาง คนนี้ใครกัน?",
+      "PERSIAN": "به هیچ وجه، این شخص کیه؟"
+    },
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "이 사람 누군데.",
+      "ENGLISH": "Why didn’t you say anything before?",
+      "CHINESE_SIMPLIFIED": "她到底是谁？",
+      "CHINESE_TRADITIONAL": "她到底是誰？",
+      "JAPANESE": "この人、誰なの？",
+      "INDONESIAN": "Kenapa gak bilang dari tadi?",
+      "PORTUGUESE": "Por que você não falou nada antes?",
+      "RUSSIAN": "Почему ты раньше ничего не сказал?",
+      "FRENCH": "Pourquoi tu m’as rien dit avant ?",
+      "THAI": "ทำไมพี่ไม่บอกอะไรฉันก่อนเลย?",
+      "PERSIAN": "چرا قبلا چیزی نگفتی؟"
+    },
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 17.8
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그런 건 차차 알아가면 되는 거지 뭐.",
+      "ENGLISH": "We'll get to know each other over time.",
+      "CHINESE_SIMPLIFIED": "这个我慢慢讲给你听",
+      "CHINESE_TRADITIONAL": "這個我慢慢講給你聽",
+      "JAPANESE": "そういうのはこれからゆっくり知っていけばいいさ。",
+      "INDONESIAN": "Kita bisa saling kenal seiring waktu.",
+      "PORTUGUESE": "Vamos nos conhecer melhor com o tempo.",
+      "RUSSIAN": "Мы ещё успеем познакомиться.",
+      "FRENCH": "On fera connaissance avec le temps.",
+      "THAI": "เดี๋ยวเราก็ได้รู้จักกันมากขึ้น",
+      "PERSIAN": "به مرور زمان با هم آشنا می شویم."
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "음... 맞네...",
+      "ENGLISH": "Umm, right...",
+      "CHINESE_SIMPLIFIED": "啊对了…",
+      "CHINESE_TRADITIONAL": "啊對了…",
+      "JAPANESE": "うーん…そうだね…",
+      "INDONESIAN": "Umm, iya...",
+      "PORTUGUESE": "Umm, certo...",
+      "RUSSIAN": "Ну, да...",
+      "FRENCH": "Oui, d’accord...",
+      "THAI": "อืม โอเค...",
+      "PERSIAN": "اوم، درسته..."
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "... 언니!!!!",
+      "ENGLISH": "... Sister!!!!",
+      "CHINESE_SIMPLIFIED": "…姐!!!",
+      "CHINESE_TRADITIONAL": "…姐!!!",
+      "JAPANESE": "…お姉ちゃーん！！！",
+      "INDONESIAN": "...Kakak!!!!",
+      "PORTUGUESE": "...Irmã!!!!",
+      "RUSSIAN": "... Сестра!!!!",
+      "FRENCH": "... Grande sœur !",
+      "THAI": "... พี่สาว!!!!",
+      "PERSIAN": "... خواهر!!!!"
+    },
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 24.8
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "야야 은비야, 은비야..!!!",
+      "ENGLISH": "Eun-bi, calm down!",
+      "CHINESE_SIMPLIFIED": "我说恩妃啊…!!",
+      "CHINESE_TRADITIONAL": "我說恩妃啊…!!",
+      "JAPANESE": "ちょっと、ウンビ！待てよ！",
+      "INDONESIAN": "Eun-bi, tenang dulu!",
+      "PORTUGUESE": "Eun-bi, calma!",
+      "RUSSIAN": "Ын-би, успокойся!",
+      "FRENCH": "Eun-bi, calme-toi !",
+      "THAI": "อึนบี ใจเย็นก่อน!",
+      "PERSIAN": "یون بی، آرام باش!"
+    },
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.1
+    }
+  }
+]

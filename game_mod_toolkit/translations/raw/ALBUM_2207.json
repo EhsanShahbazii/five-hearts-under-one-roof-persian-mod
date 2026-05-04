@@ -1,0 +1,400 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~ 여러분!",
+      "ENGLISH": "Hello, everyone!",
+      "CHINESE_SIMPLIFIED": "大家好~",
+      "CHINESE_TRADITIONAL": "大家好~",
+      "JAPANESE": "みなさん、こんにちは！",
+      "INDONESIAN": "Halo, semuanya!",
+      "PORTUGUESE": "Olá, pessoal!",
+      "RUSSIAN": "Привет, всем!",
+      "FRENCH": "Bonjour tout le monde !",
+      "THAI": "สวัสดีทุกคน!"
+    },
+    "TIME": {
+      "HIDE": 1.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "<하숙생이 전부 미녀입니다만?>에서",
+      "ENGLISH": "I’m Park Min-jung, playing the role of Mingming",
+      "CHINESE_SIMPLIFIED": "我是在《阿西,美女室友竟然...》中",
+      "CHINESE_TRADITIONAL": "我是在《阿西,美女室友竟然...》中",
+      "JAPANESE": "<まさか！下宿生が美女ですって？>で",
+      "INDONESIAN": "Aku Park Min-jung, memerankan karakter Mingming",
+      "PORTUGUESE": "Eu sou Park Min-jung, interpretando a Mingming",
+      "RUSSIAN": "Я Пак Мин-Джун, и я играю роль Минг-Минг",
+      "FRENCH": "Je suis Park Min-jung, et je joue le rôle de Mingming",
+      "THAI": "ฉันคือพัค มินจอง รับบทเป็นหมิงหมิง"
+    },
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "'밍밍(민정)' 역할을 맡은 박민정입니다!",
+      "ENGLISH": "in Five Hearts Under One Roof!",
+      "CHINESE_SIMPLIFIED": "“敏敏”的扮演者朴敏静",
+      "CHINESE_TRADITIONAL": "“敏敏”的扮演者樸敏靜",
+      "JAPANESE": "ミンミン（ミンジョン）役を演じたパク・ミンジョンです！",
+      "INDONESIAN": "di Five Hearts Under One Roof!",
+      "PORTUGUESE": "em Five Hearts Under One Roof!",
+      "RUSSIAN": "в игре \"Пять сердец под одной крышей\"!",
+      "FRENCH": "dans \"Cinq Cœurs Sous Un Même Toit\"!",
+      "THAI": "ในเกม “ห้าดวงใจใต้หลังคาเดียว”!"
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "이제 밍밍 역할은 좀... ",
+      "ENGLISH": "Mingming is...",
+      "CHINESE_SIMPLIFIED": "敏敏这个角色是一个",
+      "CHINESE_TRADITIONAL": "敏敏這個角色是一個",
+      "JAPANESE": "ミンミン役はですね…",
+      "INDONESIAN": "Mingming adalah...",
+      "PORTUGUESE": "A Mingming é...",
+      "RUSSIAN": "Минг-Минг — это...",
+      "FRENCH": "Mingming est...",
+      "THAI": "หมิงหมิง..."
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "아이돌인데 망돌(망한 아이돌)이에요.",
+      "ENGLISH": "well, an idol—but from a failed group.",
+      "CHINESE_SIMPLIFIED": "过气的女团爱豆",
+      "CHINESE_TRADITIONAL": "過氣的女團愛豆",
+      "JAPANESE": "アイドルなんですが、いわゆる、人気のないアイドルです。",
+      "INDONESIAN": "yah, seorang idol tapi dari grup yang gagal.",
+      "PORTUGUESE": "bem, uma idol mas de um grupo que fracassou.",
+      "RUSSIAN": "ну, айдол, но из неудачной группы.",
+      "FRENCH": "eh bien, une idole—mais d’un groupe qui a échoué.",
+      "THAI": "เป็นไอดอล แต่จากวงที่ไม่ประสบความสำเร็จ."
+    },
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "근데 거기서 센터를 맡고 있던 친구인데",
+      "ENGLISH": "She was the center of her group, ",
+      "CHINESE_SIMPLIFIED": "在团队中虽然是c位",
+      "CHINESE_TRADITIONAL": "在團隊中雖然是c位",
+      "JAPANESE": "その中でセンターを務めていたのがミンミンなんですけど",
+      "INDONESIAN": "Dia adalah center grupnya,",
+      "PORTUGUESE": "Ela era o centro do grupo,",
+      "RUSSIAN": "Она была центром своей группы,",
+      "FRENCH": "Elle était le centre de son groupe,",
+      "THAI": "เธอเคยเป็นเซ็นเตอร์ของวง,"
+    },
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 13.3
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "아무래도 아이돌 생활이 힘들어지면서",
+      "ENGLISH": "but after the idol life got tough, ",
+      "CHINESE_SIMPLIFIED": "但随着偶像生活越来越艰难",
+      "CHINESE_TRADITIONAL": "但隨着偶像生活越來越艱難",
+      "JAPANESE": "アイドル生活が厳しくなってきて",
+      "INDONESIAN": "tapi setelah kehidupan idol makin berat,",
+      "PORTUGUESE": "mas depois que a vida de idol ficou difícil,",
+      "RUSSIAN": "но после того, как жизнь айдола стала сложной,",
+      "FRENCH": "mais après que la vie d’idole est devenue difficile,",
+      "THAI": "แต่ชีวิตไอดอลไม่ง่าย"
+    },
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "생활고도 겪고, 상처도 많이 받는 친구예요.",
+      "ENGLISH": "she struggled with financial problems and emotional scars.",
+      "CHINESE_SIMPLIFIED": "她不仅经历了生活上的困窘，还受了很多伤害",
+      "CHINESE_TRADITIONAL": "她不僅經歷了生活上的困窘，還受了很多傷害",
+      "JAPANESE": "生活苦を経験し、傷つくことも多い子なんです。",
+      "INDONESIAN": "dia menghadapi masalah finansial dan luka emosional.",
+      "PORTUGUESE": "ela enfrentou problemas financeiros e cicatrizes emocionais.",
+      "RUSSIAN": "она столкнулась с финансовыми трудностями и эмоциональными ранами.",
+      "FRENCH": "elle a eu des problèmes financiers et des blessures émotionnelles.",
+      "THAI": "ทำให้เธอต้องเจอกับปัญหาการเงินและบาดแผลทางใจ."
+    },
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 19.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "이제 그러다가... 하숙집에 들어가면서!",
+      "ENGLISH": "But after moving into a boarding house, ",
+      "CHINESE_SIMPLIFIED": "后来她来到合租房",
+      "CHINESE_TRADITIONAL": "後來她來到合租房",
+      "JAPANESE": "そんな中で…下宿に入って",
+      "INDONESIAN": "Tapi setelah pindah ke rumah kos,",
+      "PORTUGUESE": "Mas depois de se mudar para uma casa compartilhada,",
+      "RUSSIAN": "Но, переехав в общежитие,",
+      "FRENCH": "Mais en emménageant dans une pension,",
+      "THAI": "แต่พอเธอย้ายเข้ามาอยู่ในบ้านพักนี้,"
+    },
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "유만이한테 위로를 받고",
+      "ENGLISH": "She finds comfort in Yuman",
+      "CHINESE_SIMPLIFIED": "在这里得到了宥万的安慰",
+      "CHINESE_TRADITIONAL": "在這裏得到了宥萬的安慰",
+      "JAPANESE": "ユマンに癒されて",
+      "INDONESIAN": "dia menemukan kenyamanan bersama Yuman",
+      "PORTUGUESE": "ela encontra conforto com Yuman",
+      "RUSSIAN": "она находит утешение в Юмане",
+      "FRENCH": "elle trouve du réconfort avec Yuman",
+      "THAI": "เธอพบความสบายใจจากยูมัน"
+    },
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "같이 있는 친구들한테도 위로를 받으면서",
+      "ENGLISH": "And the other friends there. ",
+      "CHINESE_SIMPLIFIED": "也从其他朋友那里得到了鼓励",
+      "CHINESE_TRADITIONAL": "也從其他朋友那裏得到了鼓勵",
+      "JAPANESE": "一緒にいる友達たちからも慰めを受けながら",
+      "INDONESIAN": "dan teman-teman lainnya di sana.",
+      "PORTUGUESE": "e os outros amigos de lá.",
+      "RUSSIAN": "и в новых друзьях.",
+      "FRENCH": "et les autres amis là-bas.",
+      "THAI": "และเพื่อนใหม่ที่นี่."
+    },
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 26.7
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "이렇게 성장하는 캐릭터인데요.",
+      "ENGLISH": "And her character really starts to grow.",
+      "CHINESE_SIMPLIFIED": "逐渐成长为更坚强的角色",
+      "CHINESE_TRADITIONAL": "逐漸成長爲更堅強的角色",
+      "JAPANESE": "成長していくキャラクターなんですよ。",
+      "INDONESIAN": "Dan karakternya mulai berkembang pesat.",
+      "PORTUGUESE": "E sua personagem começa a se desenvolver bastante.",
+      "RUSSIAN": "И её персонаж начинает меняться.",
+      "FRENCH": "Et son personnage commence vraiment à évoluer.",
+      "THAI": "แล้วเธอก็เริ่มเปลี่ยนแปลงตัวเอง."
+    },
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 28.7
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "밍밍이 많이 응원해 주셨으면 좋겠고",
+      "ENGLISH": "I hope you’ll all support Mingming ",
+      "CHINESE_SIMPLIFIED": "希望大家多多支持敏敏",
+      "CHINESE_TRADITIONAL": "希望大家多多支持敏敏",
+      "JAPANESE": "ミンミンをたくさん応援していただけると嬉しいですし",
+      "INDONESIAN": "Aku harap kalian semua mendukung Mingming",
+      "PORTUGUESE": "Espero que todos vocês apoiem a Mingming",
+      "RUSSIAN": "Надеюсь, что вы будете поддерживать Минг-Минг",
+      "FRENCH": "J’espère que vous soutiendrez Mingming",
+      "THAI": "หวังว่าทุกคนจะสนับสนุนหมิงหมิง"
+    },
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 31.2
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "재미있게 플레이해 주시면 좋겠습니다. 감사합니다 ♡",
+      "ENGLISH": "and enjoy playing the game. Thank you! ♡",
+      "CHINESE_SIMPLIFIED": "也希望大家玩得开心，谢谢 ♡",
+      "CHINESE_TRADITIONAL": "也希望大家玩得開心，謝謝 ♡",
+      "JAPANESE": "ぜひ、プレイしていただけたらと思います。ありがとうございました♡",
+      "INDONESIAN": "dan menikmati permainannya. Terima kasih! ♡",
+      "PORTUGUESE": "e se divirtam jogando. Obrigada! ♡",
+      "RUSSIAN": "и получите удовольствие от игры. Спасибо! ♡",
+      "FRENCH": "et que vous prendrez plaisir à jouer au jeu. Merci ! ♡",
+      "THAI": "และสนุกกับการเล่นเกมนี้นะคะ. ขอบคุณค่ะ! ♡"
+    },
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 35.2
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "\"대신 음료 드시러 오신 거 같은데, 제가 서비스로 해드릴게요!\"",
+      "ENGLISH": "Looks like you just came in for a drink—let me get that for you, on the house!",
+      "CHINESE_SIMPLIFIED": "“你是来喝饮料的吗？这杯我请你吧！”",
+      "CHINESE_TRADITIONAL": "“你是來喝飲料的嗎？這杯我請你吧！”",
+      "JAPANESE": "「飲み物を買いに来たみたいなので、私がサービスしますよ！」",
+      "INDONESIAN": "Kelihatannya kamu cuma datang buat minum. Biar aku ambilkan untukmu, gratis!",
+      "PORTUGUESE": "Parece que você veio só para beber. Deixa que eu pego pra você, por conta da casa!",
+      "RUSSIAN": "Кажется, вы просто зашли выпить—позвольте, я угощу!",
+      "FRENCH": "On dirait que vous êtes juste venu pour boire quelque chose—je vous l’offre !",
+      "THAI": "ดูเหมือนว่าคุณจะเข้ามาดื่มสินะ—เดี๋ยวฉันเลี้ยงเอง!"
+    },
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 40.3
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "\"아... 땀 흘리시는 것 좀 봐...\"",
+      "ENGLISH": "Oh, look at you sweating...",
+      "CHINESE_SIMPLIFIED": "“啊... 看你满头大汗的样子...”",
+      "CHINESE_TRADITIONAL": "“啊... 看你滿頭大汗的樣子...”",
+      "JAPANESE": "「汗かいてるの、見てくださいよ…」",
+      "INDONESIAN": "Oh, kamu keringetan banget...",
+      "PORTUGUESE": "Nossa, você tá suando...",
+      "RUSSIAN": "О, вы весь в поту...",
+      "FRENCH": "Oh, vous transpirez...",
+      "THAI": "โอ๊ะ คุณเหงื่อออกเยอะเลย..."
+    },
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 42.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "\"감사합니다...\"",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "“谢谢...”",
+      "CHINESE_TRADITIONAL": "“謝謝...”",
+      "JAPANESE": "「ありがとうございます…」",
+      "INDONESIAN": "Terima kasih...",
+      "PORTUGUESE": "Obrigada...",
+      "RUSSIAN": "Спасибо...",
+      "FRENCH": "Merci...",
+      "THAI": "ขอบคุณนะ..."
+    },
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 44.4
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "\"어제 그... 토마토?!\"",
+      "ENGLISH": "Yesterday, that... tomato?!",
+      "CHINESE_SIMPLIFIED": "“你是昨天的那个... ？！”",
+      "CHINESE_TRADITIONAL": "“你是昨天的那個... ？！”",
+      "JAPANESE": "「昨日のあの…トマト？！」",
+      "INDONESIAN": "Kemarin itu... tomato?!",
+      "PORTUGUESE": "Ontem, aquele... tomate?!",
+      "RUSSIAN": "Вчера... это был... помидор?!",
+      "FRENCH": "Hier... une... tomate ?!",
+      "THAI": "เมื่อวาน... นั่นมัน... มะเขือเทศ?!"
+    },
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 45.8
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "\"어제 절 알아보신 거였구나...\"",
+      "ENGLISH": "Ah, so you recognized me yesterday, huh...",
+      "CHINESE_SIMPLIFIED": "“原来你昨天认出我了啊...”",
+      "CHINESE_TRADITIONAL": "“原來你昨天認出我了啊...”",
+      "JAPANESE": "「昨日から私のこと気づいてたんですね…」",
+      "INDONESIAN": "Ah, jadi kamu mengenaliku kemarin, ya...",
+      "PORTUGUESE": "Ah, então você me reconheceu ontem, né...",
+      "RUSSIAN": "А, значит, вчера вы меня узнали, да...",
+      "FRENCH": "Ah, donc vous m’avez reconnue hier, hein...",
+      "THAI": "อ๋อ เมื่อวานคุณจำฉันได้เหรอ..."
+    },
+    "TIME": {
+      "SHOW": 45.8,
+      "HIDE": 48.1
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "\"주문하시겠어요?\"",
+      "ENGLISH": "Would you like to place an order?",
+      "CHINESE_SIMPLIFIED": "“要点单吗？”",
+      "CHINESE_TRADITIONAL": "“要點單嗎？”",
+      "JAPANESE": "「ご注文はどうされますか？」",
+      "INDONESIAN": "Mau pesan sesuatu?",
+      "PORTUGUESE": "Quer fazer um pedido?",
+      "RUSSIAN": "Хотите сделать заказ?",
+      "FRENCH": "Voulez-vous passer une commande ?",
+      "THAI": "จะสั่งอะไรดีไหมคะ?"
+    },
+    "TIME": {
+      "SHOW": 48.1,
+      "HIDE": 49.8
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "SCRIPT": {
+      "KOREAN": "\"죄송한데... 조용히 좀 해주시면 안 될까요...?\"",
+      "ENGLISH": "Sorry, but... could you please keep it down a little?",
+      "CHINESE_SIMPLIFIED": "“对不起... 你能安静点吗？”",
+      "CHINESE_TRADITIONAL": "“對不起... 你能安靜點嗎？”",
+      "JAPANESE": "「すいませんが…少し静かにしてもらえますか…？」",
+      "INDONESIAN": "Maaf, bisa tolong pelan-pelan sedikit?",
+      "PORTUGUESE": "Desculpa, mas... pode falar um pouco mais baixo?",
+      "RUSSIAN": "Извините, но... могли бы вы говорить чуть тише?",
+      "FRENCH": "Désolé, mais... pourriez-vous parler un peu plus doucement ?",
+      "THAI": "ขอโทษค่ะ... ช่วยลดเสียงหน่อยได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 49.8,
+      "HIDE": 53.9
+    }
+  }
+]

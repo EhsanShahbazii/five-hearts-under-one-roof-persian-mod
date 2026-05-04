@@ -1,0 +1,262 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "오빠, 내가 무슨 만화 얘기하는지 알지?",
+      "ENGLISH": "Oppa, you know which comic I’m talking about, right?",
+      "CHINESE_SIMPLIFIED": "哥哥，你知道我在说哪本漫画书吧？",
+      "CHINESE_TRADITIONAL": "哥哥，你知道我在說哪本漫畫書吧？",
+      "JAPANESE": "お兄ちゃん、私がどの漫画の話をしてるか分かるよね？",
+      "INDONESIAN": "Oppa, kamu tahu komik yang aku maksud, kan?",
+      "PORTUGUESE": "Oppa, você sabe de qual quadrinho eu tô falando, né?",
+      "RUSSIAN": "Оппа, ты знаешь, о каком комиксе я говорю, да?",
+      "FRENCH": "Oppa, tu sais de quel manga je parle, hein ?",
+      "THAI": "อปป้า นายรู้ใช่ไหมว่าฉันพูดถึงการ์ตูนเรื่องไหน?",
+      "PERSIAN": "یومان، می دانید در مورد کدام کمیک صحبت می کنم، درست است؟"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "아 이름은 기억이 바로 안 나고...",
+      "ENGLISH": "I can’t remember the name...",
+      "CHINESE_SIMPLIFIED": "我想不起来是什么名字了…",
+      "CHINESE_TRADITIONAL": "我想不起來是什麼名字了…",
+      "JAPANESE": "あ、名前はすぐに思い出せないけど…",
+      "INDONESIAN": "Aku lupa namanya...",
+      "PORTUGUESE": "Não lembro o nome...",
+      "RUSSIAN": "Не могу вспомнить название...",
+      "FRENCH": "Je me souviens plus du titre...",
+      "THAI": "ฉันจำชื่อไม่ได้...",
+      "PERSIAN": "اسمشو یادم نمیاد..."
+    },
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.6
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "아 저건가?",
+      "ENGLISH": "Oh, is it that one?",
+      "CHINESE_SIMPLIFIED": "啊!好像是那本?",
+      "CHINESE_TRADITIONAL": "啊!好像是那本?",
+      "JAPANESE": "あれかな？",
+      "INDONESIAN": "Oh, yang itu, ya?",
+      "PORTUGUESE": "Ah, é aquele?",
+      "RUSSIAN": "О, это тот?",
+      "FRENCH": "Oh, c’est celui-là ?",
+      "THAI": "โอ๊ะ ใช่เรื่องนั้นหรือเปล่า?",
+      "PERSIAN": "اوه، این یکی است؟"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.9
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "맞아?",
+      "ENGLISH": "Is it?",
+      "CHINESE_SIMPLIFIED": "是吗?",
+      "CHINESE_TRADITIONAL": "是嗎?",
+      "JAPANESE": "合ってる？",
+      "INDONESIAN": "Yang itu?",
+      "PORTUGUESE": "É?",
+      "RUSSIAN": "Это он?",
+      "FRENCH": "C’est bien ça ?",
+      "THAI": "ใช่ไหม?",
+      "PERSIAN": "این است؟"
+    },
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.6
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "어 맞는 거 같은데?",
+      "ENGLISH": "I think so.",
+      "CHINESE_SIMPLIFIED": "好像就是那本",
+      "CHINESE_TRADITIONAL": "好像就是那本",
+      "JAPANESE": "うん、合ってる気がする！",
+      "INDONESIAN": "Kayaknya sih.",
+      "PORTUGUESE": "Acho que sim.",
+      "RUSSIAN": "Вроде да.",
+      "FRENCH": "Je crois bien.",
+      "THAI": "น่าจะใช่นะ.",
+      "PERSIAN": "من اینطوری فکر می کنم."
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "오빠 꺼내줘!",
+      "ENGLISH": "Oppa, get it for me!",
+      "CHINESE_SIMPLIFIED": "哥哥 帮我拿!",
+      "CHINESE_TRADITIONAL": "哥哥 幫我拿!",
+      "JAPANESE": "お兄ちゃん、取ってよ！",
+      "INDONESIAN": "Oppa, ambilin dong!",
+      "PORTUGUESE": "Oppa, pega pra mim!",
+      "RUSSIAN": "Оппа, достань его для меня!",
+      "FRENCH": "Oppa, prends-le pour moi !",
+      "THAI": "อปป้า หยิบให้ฉันหน่อย!",
+      "PERSIAN": "یومان، اونو برای من بگیر!"
+    },
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어.. 오빠 거도 좀 찾아봐야 하는데.",
+      "ENGLISH": "Uh... I need to find mine too.",
+      "CHINESE_SIMPLIFIED": "嗯…我也得去找我想看的...",
+      "CHINESE_TRADITIONAL": "嗯…我也得去找我想看的...",
+      "JAPANESE": "あ…お兄ちゃんのも探さなきゃいけないんだけど。",
+      "INDONESIAN": "Uh... Aku juga perlu cari punyaku.",
+      "PORTUGUESE": "Uh... Eu também preciso achar o meu.",
+      "RUSSIAN": "Эм... мне тоже нужно найти свой.",
+      "FRENCH": "Euh... je dois aussi trouver le mien.",
+      "THAI": "เอ่อ... ฉันต้องหาของตัวเองด้วย.",
+      "PERSIAN": "اوه... من هم باید مال خودم را پیدا کنم."
+    },
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.2
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이거...",
+      "ENGLISH": "Umm...",
+      "CHINESE_SIMPLIFIED": "这个",
+      "CHINESE_TRADITIONAL": "這個",
+      "JAPANESE": "これ…",
+      "INDONESIAN": "Umm...",
+      "PORTUGUESE": "Humm...",
+      "RUSSIAN": "Эм...",
+      "FRENCH": "Hum...",
+      "THAI": "อืม...",
+      "PERSIAN": "امم..."
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.0
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "의자 밟고 올라가면 되겠다.",
+      "ENGLISH": "You’ll use the chair to reach it.",
+      "CHINESE_SIMPLIFIED": "你踩这个凳子上去就行了",
+      "CHINESE_TRADITIONAL": "你踩這個凳子上去就行了",
+      "JAPANESE": "椅子に乗って取れば。",
+      "INDONESIAN": "Kamu bisa pake kursi buat ambilnya.",
+      "PORTUGUESE": "Você pode usar a cadeira pra pegar.",
+      "RUSSIAN": "Ты воспользуешься стулом, чтобы достать.",
+      "FRENCH": "Tu vas utiliser la chaise pour l’attraper.",
+      "THAI": "นายจะใช้เก้าอี้ปีนขึ้นไปหยิบใช่ไหม?",
+      "PERSIAN": "برای رسیدن به اون از صندلی استفاده خواهید کرد."
+    },
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.7
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "저 눈치 없는 걸 좋아해, 말아?",
+      "ENGLISH": "Do you like someone who’s clueless?",
+      "CHINESE_SIMPLIFIED": "我怎么喜欢上这个钢铁直男了",
+      "CHINESE_TRADITIONAL": "我怎麼喜歡上這個鋼鐵直男了",
+      "JAPANESE": "あんな鈍感なやつ、好きになるな？",
+      "INDONESIAN": "Kamu suka sama orang yang nggak peka?",
+      "PORTUGUESE": "Você gosta de gente lerda?",
+      "RUSSIAN": "Тебе нравятся люди, которые ничего не понимают?",
+      "FRENCH": "T’aimes bien les gens un peu perdus ?",
+      "THAI": "นายชอบคนที่ดูไม่ค่อยรู้เรื่องเหรอ?",
+      "PERSIAN": "کسی را دوست دارید که بی خبر باشد؟"
+    },
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.2
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "Что?",
+      "FRENCH": "Quoi ?",
+      "THAI": "อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 27.8
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "아니야~ 오빠 책 찾아~",
+      "ENGLISH": "Never mind~ Just get the comic, Oppa.",
+      "CHINESE_SIMPLIFIED": "没事~哥哥你去找漫画书吧",
+      "CHINESE_TRADITIONAL": "沒事~哥哥你去找漫畫書吧",
+      "JAPANESE": "いや、何でもないよ。お兄ちゃん、本探して来て～",
+      "INDONESIAN": "Nggak jadi deh~ Ambil komiknya aja, Oppa.",
+      "PORTUGUESE": "Deixa pra lá~ Só pega o quadrinho, Oppa.",
+      "RUSSIAN": "Да ладно~ Просто достань комикс, Оппа.",
+      "FRENCH": "Laisse tomber~ Prends juste le manga, Oppa.",
+      "THAI": "ช่างเถอะ~ หยิบการ์ตูนให้ฉันหน่อย อปป้า.",
+      "PERSIAN": "مهم نیست ~ فقط کمیک را دریافت کن، یومان."
+    },
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 30.1
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "알겠어!",
+      "ENGLISH": "Alright!",
+      "CHINESE_SIMPLIFIED": "嗯嗯!",
+      "CHINESE_TRADITIONAL": "嗯嗯!",
+      "JAPANESE": "分かった！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Beleza!",
+      "RUSSIAN": "Ладно!",
+      "FRENCH": "D’accord !",
+      "THAI": "โอเค!",
+      "PERSIAN": "باشه عزیزم!"
+    },
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 31.1
+    }
+  }
+]

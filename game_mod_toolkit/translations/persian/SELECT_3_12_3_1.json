@@ -1,0 +1,221 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "과장님!",
+      "ENGLISH": "Manager!",
+      "CHINESE_SIMPLIFIED": "科长",
+      "CHINESE_TRADITIONAL": "科長",
+      "JAPANESE": "課長！",
+      "INDONESIAN": "Manajer!",
+      "PORTUGUESE": "Gerente!",
+      "RUSSIAN": "Менеджер!",
+      "FRENCH": "Manager !",
+      "THAI": "ผู้จัดการ!",
+      "PERSIAN": "Manager!"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그 건너편도 찾아볼까요?",
+      "ENGLISH": "Should we check the other side as well?",
+      "CHINESE_SIMPLIFIED": "您要不要翻一下对面看看?",
+      "CHINESE_TRADITIONAL": "您要不要翻一下對面看看?",
+      "JAPANESE": "向かい側も探してみましょうか？",
+      "INDONESIAN": "Haruskah kita cek sisi yang lain juga?",
+      "PORTUGUESE": "Devemos verificar o outro lado também?",
+      "RUSSIAN": "Может, проверим с другой стороны тоже?",
+      "FRENCH": "On devrait vérifier de l’autre côté aussi ?",
+      "THAI": "เราควรเช็กอีกฝั่งด้วยไหม?",
+      "PERSIAN": "باید طرف مقابل را هم بررسی کنیم؟"
+    },
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그게 왜 거기 있어!",
+      "ENGLISH": "Why would it be over there?",
+      "CHINESE_SIMPLIFIED": "怎么可能会在对面?",
+      "CHINESE_TRADITIONAL": "怎麼可能會在對面?",
+      "JAPANESE": "あんなところのあるはずないでしょ！",
+      "INDONESIAN": "Kenapa harus ada di sana?",
+      "PORTUGUESE": "Por que estaria lá?",
+      "RUSSIAN": "Почему бы ему быть там?",
+      "FRENCH": "Pourquoi il serait là-bas ?",
+      "THAI": "มันจะไปอยู่ตรงนั้นได้ไงล่ะ?",
+      "PERSIAN": "چرا باید آنجا باشد؟"
+    },
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "아니... 혹시 청소하시는 분 때문에",
+      "ENGLISH": "It might have been pushed over",
+      "CHINESE_SIMPLIFIED": "清洁工打扫的时候",
+      "CHINESE_TRADITIONAL": "清潔工打掃的時候",
+      "JAPANESE": "いや…もしかして清掃の方が",
+      "INDONESIAN": "Mungkin kegeser",
+      "PORTUGUESE": "Pode ter sido empurrado",
+      "RUSSIAN": "Может, ",
+      "FRENCH": "Peut-être ",
+      "THAI": "บางทีแม่บ้านอาจจะเผลอผลักไป...",
+      "PERSIAN": "ممکن بود فشار داده شده باشد"
+    },
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.0
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "밀려서 넘어갔을 수도 있으니까...",
+      "ENGLISH": "By the cleaning staff...",
+      "CHINESE_SIMPLIFIED": "有可能会不小心弄过去…",
+      "CHINESE_TRADITIONAL": "有可能會不小心弄過去…",
+      "JAPANESE": "間違って移動させたかもしれないので…",
+      "INDONESIAN": "Sama staf kebersihan...",
+      "PORTUGUESE": "Pelo pessoal da limpeza...",
+      "RUSSIAN": "уборщики случайно его сдвинули...",
+      "FRENCH": "que le personnel de ménage l’a déplacé...",
+      "PERSIAN": "توسط کارکنان نظافت ..."
+    },
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "기다려 봐.",
+      "ENGLISH": "Wait a sec.",
+      "CHINESE_SIMPLIFIED": "我看看",
+      "CHINESE_TRADITIONAL": "我看看",
+      "JAPANESE": "ちょっと、待ってて。",
+      "INDONESIAN": "Tunggu sebentar.",
+      "PORTUGUESE": "Espera um segundo.",
+      "RUSSIAN": "Секунду.",
+      "FRENCH": "Attends une seconde.",
+      "THAI": "เดี๋ยวก่อน.",
+      "PERSIAN": "یک ثانیه صبر کنید"
+    },
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Oh!",
+      "CHINESE_SIMPLIFIED": "哦!",
+      "CHINESE_TRADITIONAL": "哦!",
+      "JAPANESE": "おっ！",
+      "INDONESIAN": "Oh!",
+      "PORTUGUESE": "Oh!",
+      "RUSSIAN": "О!",
+      "FRENCH": "Oh !",
+      "THAI": "โอ้!",
+      "PERSIAN": "اوه!"
+    },
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.1
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야!",
+      "ENGLISH": "What the...!",
+      "CHINESE_SIMPLIFIED": "找到了!",
+      "CHINESE_TRADITIONAL": "找到了!",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Apa-apaan ini?!",
+      "PORTUGUESE": "O quê?!",
+      "RUSSIAN": "Что за...!",
+      "FRENCH": "Quoi...!",
+      "THAI": "อะไรกันเนี่ย...!",
+      "PERSIAN": "چه...!"
+    },
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.2
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 여기 있네?",
+      "ENGLISH": "It’s really here?",
+      "CHINESE_SIMPLIFIED": "居然真的在这!",
+      "CHINESE_TRADITIONAL": "居然真的在這!",
+      "JAPANESE": "本当にここにあったのね。",
+      "INDONESIAN": "Beneran di sini?",
+      "PORTUGUESE": "Tá mesmo aqui?",
+      "RUSSIAN": "Он правда здесь?!",
+      "FRENCH": "Il est vraiment là ?!",
+      "THAI": "มันอยู่ตรงนี้จริง ๆ เหรอ?!",
+      "PERSIAN": "واقعا اینجاست؟"
+    },
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.3
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "거봐요! 내 말 맞죠?",
+      "ENGLISH": "See! I told you so!",
+      "CHINESE_SIMPLIFIED": "您看，我就说嘛~",
+      "CHINESE_TRADITIONAL": "您看，我就說嘛~",
+      "JAPANESE": "ほら！僕の言った通りでしょ？",
+      "INDONESIAN": "Tuh kan! Aku udah bilang!",
+      "PORTUGUESE": "Viu! Eu te falei!",
+      "RUSSIAN": "Видишь! Я же говорил!",
+      "FRENCH": "Tu vois ! Je te l’avais dit !",
+      "THAI": "เห็นไหม! บอกแล้ว!",
+      "PERSIAN": "ببینید! من به شما گفتم!"
+    },
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 27.1
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯?",
+      "CHINESE_TRADITIONAL": "嗯?",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Hein ?",
+      "THAI": "ห๊ะ?",
+      "PERSIAN": "چی؟"
+    },
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 29.6
+    }
+  }
+]

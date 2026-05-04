@@ -1,0 +1,40 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "쪽",
+      "ENGLISH": "*peck*",
+      "CHINESE_SIMPLIFIED": "啾",
+      "CHINESE_TRADITIONAL": "啾",
+      "JAPANESE": "ちゅっ",
+      "INDONESIAN": "*cium cepat*",
+      "PORTUGUESE": "*beijo*",
+      "RUSSIAN": "чмок",
+      "FRENCH": "bise",
+      "THAI": "จุ๊บ"
+    },
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 해..",
+      "ENGLISH": "What are you doing...",
+      "CHINESE_SIMPLIFIED": "你这是 干什么…",
+      "CHINESE_TRADITIONAL": "你這是 幹什麼…",
+      "JAPANESE": "何してんの…",
+      "INDONESIAN": "Apa yang kamu lakukan...",
+      "PORTUGUESE": "O que você está fazendo...",
+      "RUSSIAN": "Что ты делаешь...",
+      "FRENCH": "Qu’est-ce que tu fais...",
+      "THAI": "ทำอะไรของเธอ..."
+    },
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 4.8
+    }
+  }
+]

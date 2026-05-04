@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "와~",
+      "ENGLISH": "Wow~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "わぁ～",
+      "INDONESIAN": "Wah~",
+      "PORTUGUESE": "Uau~",
+      "RUSSIAN": "Вау~",
+      "FRENCH": "Waouh~",
+      "THAI": "ว้าว~"
+    },
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "바다다...",
+      "ENGLISH": "The beach...",
+      "CHINESE_SIMPLIFIED": "大海真美…",
+      "CHINESE_TRADITIONAL": "大海真美…",
+      "JAPANESE": "海だ…",
+      "INDONESIAN": "Pantai...",
+      "PORTUGUESE": "A praia...",
+      "RUSSIAN": "Пляж...",
+      "FRENCH": "La plage...",
+      "THAI": "ทะเล..."
+    },
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "유만 오빠!",
+      "ENGLISH": "Yuman oppa!",
+      "CHINESE_SIMPLIFIED": "宥万哥哥!",
+      "CHINESE_TRADITIONAL": "宥萬哥哥!",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman oppa!",
+      "PORTUGUESE": "Yuman oppa!",
+      "RUSSIAN": "Юман-оппа!",
+      "FRENCH": "Yuman oppa !",
+      "THAI": "ยูมันโอปป้า!"
+    },
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.4
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Iya?",
+      "PORTUGUESE": "Sim?",
+      "RUSSIAN": "А?",
+      "FRENCH": "Oui ?",
+      "THAI": "หืม?"
+    },
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "우와...",
+      "ENGLISH": "Whoa...",
+      "CHINESE_SIMPLIFIED": "哇哦…",
+      "CHINESE_TRADITIONAL": "哇哦…",
+      "JAPANESE": "うわ～",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Uau...",
+      "RUSSIAN": "Ого...",
+      "FRENCH": "Oh...",
+      "THAI": "โอ้..."
+    },
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "뭐야~ 관심 없는 척하더니 엄청 보네...",
+      "ENGLISH": "Look at you, pretending not to care but checking me out!",
+      "CHINESE_SIMPLIFIED": "以为你不感兴趣，没想到看得挺起劲的嘛…",
+      "CHINESE_TRADITIONAL": "以爲你不感興趣，沒想到看得挺起勁的嘛…",
+      "JAPANESE": "何よ～、興味ないフリしてめっちゃ見てんじゃん…",
+      "INDONESIAN": "Lihat deh, pura-pura cuek tapi diam-diam ngeliatin aku!",
+      "PORTUGUESE": "Olha só você, fingindo que não liga, mas me olhando!",
+      "RUSSIAN": "Смотри-ка, делаешь вид, что тебе всё равно, но глаз не сводишь!",
+      "FRENCH": "Regarde-toi, tu fais semblant de ne pas faire attention, mais tu me regardes !",
+      "THAI": "ดูสิ ทำเป็นไม่สนใจ แต่แอบมองฉันอยู่ล่ะสิ!"
+    },
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 14.9
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "어떤 수영복이 네 스타일인데?",
+      "ENGLISH": "So, what kind of swimsuit is your type?",
+      "CHINESE_SIMPLIFIED": "你最喜欢哪种泳衣?",
+      "CHINESE_TRADITIONAL": "你最喜歡哪種泳衣?",
+      "JAPANESE": "どの水着が好きなの？",
+      "INDONESIAN": "Jadi, tipe baju renang favoritmu kayak gimana?",
+      "PORTUGUESE": "Então, qual é o tipo de maiô que você gosta?",
+      "RUSSIAN": "Так какой тип купальника тебе нравится?",
+      "FRENCH": "Alors, quel genre de maillot de bain est ton préféré ?",
+      "THAI": "ว่าแต่ ชุดว่ายน้ำแบบไหนที่เป็นสเปคเธอ?"
+    },
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 17.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "어... 나는...",
+      "ENGLISH": "Uh... I... well...",
+      "CHINESE_SIMPLIFIED": "嗯...我喜欢...",
+      "CHINESE_TRADITIONAL": "嗯...我喜歡...",
+      "JAPANESE": "えっと…俺は…",
+      "INDONESIAN": "Uh... aku... emm...",
+      "PORTUGUESE": "Ah... eu... bem...",
+      "RUSSIAN": "Эм... ну... я...",
+      "FRENCH": "Euh... je... enfin...",
+      "THAI": "เอ่อ... ฉัน... คือ..."
+    },
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 20.0
+    }
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "흠... ",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "那...",
+      "CHINESE_TRADITIONAL": "那...",
+      "JAPANESE": "うーん...",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "RUSSIAN": "Хм...",
+      "FRENCH": "Hmm...",
+      "THAI": "ฮืม...",
+      "PERSIAN": "هوم..."
+    },
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.1
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 오늘 면접은 여기까지 할게요.",
+      "ENGLISH": "That’s it for today’s interview.",
+      "CHINESE_SIMPLIFIED": "今天的面试就到这里。",
+      "CHINESE_TRADITIONAL": "今天的面試就到這裏。",
+      "JAPANESE": "では、今日の面接はここまでです。",
+      "INDONESIAN": "Itu saja untuk wawancara hari ini.",
+      "PORTUGUESE": "Isso é tudo para a entrevista de hoje.",
+      "RUSSIAN": "— На этом всё на сегодня. ",
+      "FRENCH": "— C’est tout pour aujourd’hui. ",
+      "THAI": "— วันนี้จบแค่นี้ ขอบคุณทุกคนครับ",
+      "PERSIAN": "این برای مصاحبه امروز است."
+    },
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 4.1
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "수고했어요 다들.",
+      "ENGLISH": "Thanks, everyone.",
+      "CHINESE_SIMPLIFIED": "大家辛苦了",
+      "CHINESE_TRADITIONAL": "大家辛苦了",
+      "JAPANESE": "お疲れ様でした、皆さん。",
+      "INDONESIAN": "Terima kasih, semuanya.",
+      "PORTUGUESE": "Obrigado a todos.",
+      "RUSSIAN": "Спасибо всем.",
+      "FRENCH": "Merci à tous.",
+      "PERSIAN": "Thanks, everyone."
+    },
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "네에~",
+      "ENGLISH": "Yeah, thank you.",
+      "CHINESE_SIMPLIFIED": "辛苦辛苦~",
+      "CHINESE_TRADITIONAL": "辛苦辛苦~",
+      "JAPANESE": "お疲れ様でした〜",
+      "INDONESIAN": "Iya, terima kasih.",
+      "PORTUGUESE": "Sim, obrigado.",
+      "RUSSIAN": "— Да, спасибо.",
+      "FRENCH": "— Ouais, merci.",
+      "THAI": "— ครับ ขอบคุณครับ",
+      "PERSIAN": "آره ممنون"
+    },
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.3
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "수고했습니다~",
+      "ENGLISH": "Thanks.",
+      "CHINESE_SIMPLIFIED": "辛苦了",
+      "CHINESE_TRADITIONAL": "辛苦了",
+      "JAPANESE": "お疲れ様でした～",
+      "INDONESIAN": "Terima kasih.",
+      "PORTUGUESE": "Obrigado.",
+      "RUSSIAN": "— Спасибо.",
+      "FRENCH": "— Merci.",
+      "THAI": "— ขอบคุณ",
+      "PERSIAN": "ممنونم ازتون."
+    },
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "엉망이네...",
+      "ENGLISH": "That was a mess...",
+      "CHINESE_SIMPLIFIED": "真是一团糟…",
+      "CHINESE_TRADITIONAL": "真是一團糟…",
+      "JAPANESE": "はぁ、めちゃくちゃだったわね…",
+      "INDONESIAN": "Itu berantakan banget...",
+      "PORTUGUESE": "Que bagunça...",
+      "RUSSIAN": "— Что за бардак...",
+      "FRENCH": "— C’était vraiment le bazar...",
+      "THAI": "— โกลาหลไปหมดเลย...",
+      "PERSIAN": "این افتضاح بود..."
+    },
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.6
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊?",
+      "CHINESE_TRADITIONAL": "啊?",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "RUSSIAN": "— Что?",
+      "FRENCH": "— Quoi ?",
+      "THAI": "— อะไรนะ?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    },
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 13.7
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "이딴 스펙으로 잘도 들어올 생각을 했네요?",
+      "ENGLISH": "Did you really think you could get in with this resume?",
+      "CHINESE_SIMPLIFIED": "你是指望用这种水平进我们公司吗?",
+      "CHINESE_TRADITIONAL": "你是指望用這種水平進我們公司嗎?",
+      "JAPANESE": "よくもまあ、こんなスペックでよくも受けようと思ったわね。",
+      "INDONESIAN": "Kamu beneran pikir bisa diterima dengan resume kayak gini?",
+      "PORTUGUESE": "Você realmente achou que conseguiria entrar com esse currículo?",
+      "RUSSIAN": "— Ты правда думал, что сможешь попасть сюда с таким резюме?",
+      "FRENCH": "— Tu pensais vraiment pouvoir décrocher le poste avec ce CV ?",
+      "THAI": "— นายคิดจริงๆ เหรอว่าจะเข้ามาทำงานได้ด้วยเรซูเม่นี่?",
+      "PERSIAN": "واقعا فکر می کردید که می توانید با این رزومه وارد شوید؟"
+    },
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 17.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "면접자 제대로 안 거를 거예요?",
+      "ENGLISH": "Did you not screen the applicants properly?",
+      "CHINESE_SIMPLIFIED": "你是怎么选人的?",
+      "CHINESE_TRADITIONAL": "你是怎麼選人的?",
+      "JAPANESE": "面接者、適切に選んだんですよね？",
+      "INDONESIAN": "Kalian nggak cek pelamar dengan benar?",
+      "PORTUGUESE": "Vocês não selecionaram os candidatos direito?",
+      "RUSSIAN": "— Вы вообще проверяли кандидатов как следует?",
+      "FRENCH": "— Vous avez bien filtré les candidats ?",
+      "THAI": "— ตรวจสอบผู้สมัครดีแล้วเหรอ?",
+      "PERSIAN": "متقاضیان را به درستی غربالگری نکردید؟"
+    },
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "죄송합니다...",
+      "ENGLISH": "Sorry...",
+      "CHINESE_SIMPLIFIED": "对不起…",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "すいません…",
+      "INDONESIAN": "Maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "RUSSIAN": "— Извините...",
+      "FRENCH": "— Désolé...",
+      "THAI": "— ขอโทษครับ...",
+      "PERSIAN": "متاسفم..."
+    },
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.3
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "됐고.",
+      "ENGLISH": "Whatever",
+      "CHINESE_SIMPLIFIED": "算了",
+      "CHINESE_TRADITIONAL": "算了",
+      "JAPANESE": "もういいわ。",
+      "INDONESIAN": "Terserah",
+      "PORTUGUESE": "Tanto faz",
+      "RUSSIAN": "— Ладно,",
+      "FRENCH": "— Как-нибудь.",
+      "THAI": "— ช่างเถอะ",
+      "PERSIAN": "هر چه باشد"
+    },
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 24.3
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "SCRIPT": {
+      "KOREAN": "그냥 이 사람으로 뽑고",
+      "ENGLISH": "Just hire this person",
+      "CHINESE_SIMPLIFIED": "就他吧。",
+      "CHINESE_TRADITIONAL": "就他吧。",
+      "JAPANESE": "この人で決めて、",
+      "INDONESIAN": "Terima aja orang ini",
+      "PORTUGUESE": "Contrata logo essa pessoa",
+      "RUSSIAN": "— Просто наймите этого человека",
+      "FRENCH": "— Embauchez cette personne",
+      "THAI": "— รับคนนี้เข้าทำงาน",
+      "PERSIAN": "فقط این شخص را استخدام کنید"
+    },
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.3
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "SCRIPT": {
+      "KOREAN": "자리 마련해 주세요.",
+      "ENGLISH": "And set up their position.",
+      "CHINESE_SIMPLIFIED": "给他安排个位置吧",
+      "CHINESE_TRADITIONAL": "給他安排個位置吧",
+      "JAPANESE": "ちゃんと席準備しておいてください。",
+      "INDONESIAN": "Dan atur posisinya.",
+      "PORTUGUESE": "E define a posição dela.",
+      "RUSSIAN": "— И подготовьте ему должность.",
+      "FRENCH": "— Et préparez son poste.",
+      "THAI": "— แล้วจัดเตรียมตำแหน่งให้เขา",
+      "PERSIAN": "و موقعیت خود را تعیین کنند."
+    },
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.9
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "ENGLISH": "(Interview stage for a new hire at Milk Corporation)",
+      "CHINESE_SIMPLIFIED": "(优乳科技新职员面试现场)",
+      "CHINESE_TRADITIONAL": "(優乳科技新職員面試現場)",
+      "JAPANESE": "(ミルクコーポレーション新卒採用）",
+      "INDONESIAN": "(Panggung wawancara untuk karyawan baru di Milk Corporation)",
+      "PORTUGUESE": "(Etapa de entrevista para um novo funcionário na Milk Corporation)",
+      "RUSSIAN": "(Сцена собеседования для нового сотрудника в Milk Corporation)",
+      "FRENCH": "(Scène d’entretien pour une nouvelle recrue chez Milk Corporation)",
+      "THAI": "(เวทีสัมภาษณ์พนักงานใหม่ของ Milk Corporation)",
+      "PERSIAN": "(مرحله مصاحبه برای استخدام جدید در شرکت Milk)"
+    },
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 35.1
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "SCRIPT": {
+      "KOREAN": "저... ",
+      "ENGLISH": "Wait...",
+      "CHINESE_SIMPLIFIED": "请问…",
+      "CHINESE_TRADITIONAL": "請問…",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Tunggu...",
+      "PORTUGUESE": "Espera...",
+      "RUSSIAN": "— Подождите...",
+      "FRENCH": "— Attendez...",
+      "THAI": "— เดี๋ยวนะ...",
+      "PERSIAN": "Wait..."
+    },
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 36.6
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "SCRIPT": {
+      "KOREAN": "된 건가요?",
+      "ENGLISH": "I got the job?",
+      "CHINESE_SIMPLIFIED": "我是合格了吗?",
+      "CHINESE_TRADITIONAL": "我是合格了嗎?",
+      "JAPANESE": "合格したんですか？",
+      "INDONESIAN": "Aku keterima?",
+      "PORTUGUESE": "Eu consegui o emprego?",
+      "RUSSIAN": "— Я получил работу?",
+      "FRENCH": "— J’ai eu le job ?",
+      "THAI": "— ฉันได้งานแล้วเหรอ?",
+      "PERSIAN": "من کار را گرفتم؟"
+    },
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 37.7
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Ah...",
+      "RUSSIAN": "— Эм... ",
+      "FRENCH": "— Euh... ",
+      "THAI": "— เอ่อ... ",
+      "PERSIAN": "Uh..."
+    },
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 39.9
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "SCRIPT": {
+      "KOREAN": "네! 내일부터 출근하세요.",
+      "ENGLISH": "Yes, start from tomorrow.",
+      "CHINESE_SIMPLIFIED": "对，明天过来上班吧",
+      "CHINESE_TRADITIONAL": "對，明天過來上班吧",
+      "JAPANESE": "はい！明日から出社してください。",
+      "INDONESIAN": "Iya, mulai besok.",
+      "PORTUGUESE": "Sim, começa amanhã.",
+      "RUSSIAN": "да, выходите завтра.",
+      "FRENCH": "oui, commencez demain.",
+      "THAI": "ใช่ เริ่มพรุ่งนี้เลย",
+      "PERSIAN": "بله از فردا شروع کنید"
+    },
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 42.0
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "SCRIPT": {
+      "KOREAN": "그래도... 합격이니까...",
+      "ENGLISH": "I guess I should be happy",
+      "CHINESE_SIMPLIFIED": "不管怎么说",
+      "CHINESE_TRADITIONAL": "不管怎麼說",
+      "JAPANESE": "でも…合格だから…",
+      "INDONESIAN": "Harusnya aku senang,",
+      "PORTUGUESE": "Acho que devo ficar feliz,",
+      "RUSSIAN": "— Наверное, мне стоит радоваться,",
+      "FRENCH": "— Je suppose que je devrais être content,",
+      "THAI": "— ฉันน่าจะดีใจสินะ",
+      "PERSIAN": "حدس میزنم باید خوشحال باشم"
+    },
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 49.2
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "SCRIPT": {
+      "KOREAN": "잘 된 거 맞겠지?",
+      "ENGLISH": "Since I got the job...?",
+      "CHINESE_SIMPLIFIED": "合格总归是好事吧?",
+      "CHINESE_TRADITIONAL": "合格總歸是好事吧?",
+      "JAPANESE": "うまくいったってことだよな？",
+      "INDONESIAN": "Soalnya aku keterima...?",
+      "PORTUGUESE": "Já que consegui o emprego...?",
+      "RUSSIAN": "— Раз меня всё-таки взяли...?",
+      "FRENCH": "— Puisque j’ai eu le job...?",
+      "THAI": "— ในเมื่อได้งานแล้ว...?",
+      "PERSIAN": "از وقتی که کار را پیدا کردم...؟"
+    },
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 52.0
+    }
+  }
+]

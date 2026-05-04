@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "저 이거...",
+      "ENGLISH": "I have this for you...",
+      "CHINESE_SIMPLIFIED": "这些…",
+      "CHINESE_TRADITIONAL": "這些…",
+      "JAPANESE": "これ、私の…",
+      "INDONESIAN": "Aku punya ini untukmu…",
+      "PORTUGUESE": "Eu trouxe isso pra você…",
+      "RUSSIAN": "Это для тебя...",
+      "FRENCH": "J’ai ça pour toi...",
+      "THAI": "นี่ ฉันมีให้เธอ..."
+    },
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.7
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "이게 다 뭐예요?",
+      "ENGLISH": "What is all this?",
+      "CHINESE_SIMPLIFIED": "这都是什么啊?",
+      "CHINESE_TRADITIONAL": "這都是什麼啊?",
+      "JAPANESE": "これ、何ですか？",
+      "INDONESIAN": "Apa semua ini?",
+      "PORTUGUESE": "O que é tudo isso?",
+      "RUSSIAN": "Что это всё?",
+      "FRENCH": "C’est quoi tout ça ?",
+      "THAI": "นี่มันอะไรทั้งหมดน่ะ?"
+    },
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "저 여기 앞에서 편의점 알바 시작 했거든요.",
+      "ENGLISH": "I worked part-time at the convenience store down the street.",
+      "CHINESE_SIMPLIFIED": "我开始在家门口的便利店打工了",
+      "CHINESE_TRADITIONAL": "我開始在家門口的便利店打工了",
+      "JAPANESE": "私、ここの近くでコンビニのバイト始めたんです。",
+      "INDONESIAN": "Aku kerja paruh waktu di minimarket dekat sini.",
+      "PORTUGUESE": "Eu trabalhei meio período na loja de conveniência aqui na esquina.",
+      "RUSSIAN": "Я подрабатывала в магазине на углу.",
+      "FRENCH": "J’ai travaillé à temps partiel dans l’épicerie du coin.",
+      "THAI": "ฉันไปทำงานพาร์ทไทม์ที่ร้านสะดวกซื้อแถวนี้มา"
+    },
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 14.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "알바를 한다고요?",
+      "ENGLISH": "You had a part-time job?",
+      "CHINESE_SIMPLIFIED": "你开始打工了?",
+      "CHINESE_TRADITIONAL": "你開始打工了?",
+      "JAPANESE": "バイトを…？",
+      "INDONESIAN": "Kamu kerja paruh waktu?",
+      "PORTUGUESE": "Você teve um emprego de meio período?",
+      "RUSSIAN": "У тебя была подработка?",
+      "FRENCH": "Tu avais un job à temps partiel ?",
+      "THAI": "เธอทำงานพาร์ทไทม์เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 15.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "네! 그래서 유만 님 오시면",
+      "ENGLISH": "Yes! And I really wanted",
+      "CHINESE_SIMPLIFIED": "嗯，我想等您一回来",
+      "CHINESE_TRADITIONAL": "嗯，我想等您一回來",
+      "JAPANESE": "はい！それで、ユマンさんが来たら",
+      "INDONESIAN": "Iya! Dan aku benar-benar pengin",
+      "PORTUGUESE": "Sim! E eu queria muito",
+      "RUSSIAN": "Да! И я очень хотела",
+      "FRENCH": "Oui ! Et je voulais vraiment",
+      "THAI": "ใช่! และฉันอยากจะ"
+    },
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.2
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "꼭 말씀드리고 싶었어요.",
+      "ENGLISH": "To tell you, Yuman.",
+      "CHINESE_SIMPLIFIED": "就告诉您",
+      "CHINESE_TRADITIONAL": "就告訴您",
+      "JAPANESE": "言おうと思って！",
+      "INDONESIAN": "Ngasih tahu kamu, Yuman.",
+      "PORTUGUESE": "Te contar, Yuman.",
+      "RUSSIAN": "рассказать тебе, Юман.",
+      "FRENCH": "te le dire, Yuman.",
+      "THAI": "บอกเธอจริงๆ ยูมัน"
+    },
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.0
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이거 다 유만 님 하세요.",
+      "ENGLISH": "This is all for you.",
+      "CHINESE_SIMPLIFIED": "这些都给您~",
+      "CHINESE_TRADITIONAL": "這些都給您~",
+      "JAPANESE": "これ全部、ユマンさんにあげます！",
+      "INDONESIAN": "Ini semua buat kamu.",
+      "PORTUGUESE": "Isso tudo é pra você.",
+      "RUSSIAN": "Это всё для тебя.",
+      "FRENCH": "Tout ça, c’est pour toi.",
+      "THAI": "ทั้งหมดนี่เพื่อเธอ"
+    },
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.8
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "네? 이걸 다요?",
+      "ENGLISH": "For me? All of this?",
+      "CHINESE_SIMPLIFIED": "啊?全都给我吗?",
+      "CHINESE_TRADITIONAL": "啊?全都給我嗎?",
+      "JAPANESE": "え？これ全部ですか？",
+      "INDONESIAN": "Untukku? Semua ini?",
+      "PORTUGUESE": "Pra mim? Tudo isso?",
+      "RUSSIAN": "Для меня? Всё это?",
+      "FRENCH": "Pour moi ? Tout ça ?",
+      "THAI": "เพื่อฉันเหรอ? ทั้งหมดนี้เลย?"
+    },
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 25.1
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "사장님이 알바 끝나고 이것저것 챙겨주셨어요!",
+      "ENGLISH": "The boss gave me some stuff after my shift ended.",
+      "CHINESE_SIMPLIFIED": "下班后老板把这些都送给我了!",
+      "CHINESE_TRADITIONAL": "下班後老闆把這些都送給我了!",
+      "JAPANESE": "バイトが終わった後、店長さんが色々くれたんです！",
+      "INDONESIAN": "Bosnya ngasih aku beberapa barang setelah shift-ku selesai.",
+      "PORTUGUESE": "O chefe me deu algumas coisas depois do meu turno.",
+      "RUSSIAN": "Босс дал мне кое-что после смены.",
+      "FRENCH": "Le patron m’a donné des trucs après ma journée de travail.",
+      "THAI": "เจ้าของร้านให้ของมาหลังจากฉันเลิกงาน"
+    },
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 28.8
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "세상에 좋은 사람은 진짜 많은 거 같아요",
+      "ENGLISH": "There really are a lot of good people in the world.",
+      "CHINESE_SIMPLIFIED": "感觉这世界上还是好人多呀",
+      "CHINESE_TRADITIONAL": "感覺這世界上還是好人多呀",
+      "JAPANESE": "世の中には本当にいい人がたくさんいますね。",
+      "INDONESIAN": "Ternyata masih banyak orang baik di dunia ini.",
+      "PORTUGUESE": "Ainda existem muitas pessoas boas no mundo.",
+      "RUSSIAN": "В мире действительно много хороших людей.",
+      "FRENCH": "Il y a vraiment beaucoup de gens bien dans ce monde.",
+      "THAI": "บนโลกนี้มีคนดีๆ มากมายจริงๆ"
+    },
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 31.6
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "폐기... 준 거 같은데...",
+      "ENGLISH": "Looks like... it's just leftover stuff...",
+      "CHINESE_SIMPLIFIED": "给的...好像都是要丢掉的啊…",
+      "CHINESE_TRADITIONAL": "給的...好像都是要丟掉的啊…",
+      "JAPANESE": "廃棄品…もらったんじゃないですか",
+      "INDONESIAN": "Kayaknya… ini cuma barang sisa aja…",
+      "PORTUGUESE": "Parece que… são só coisas que sobraram...",
+      "RUSSIAN": "Похоже... это просто оставшиеся вещи...",
+      "FRENCH": "On dirait... que ce sont juste des restes...",
+      "THAI": "ดูเหมือน... จะเป็นของเหลือซะมากกว่า..."
+    },
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 35.3
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아 뭐야 고은비~ ",
+      "ENGLISH": "Eun-bi",
+      "CHINESE_SIMPLIFIED": "什么呀~高恩妃",
+      "CHINESE_TRADITIONAL": "什麼呀~高恩妃",
+      "JAPANESE": "おい、ウンビ！",
+      "INDONESIAN": "Eun-bi",
+      "PORTUGUESE": "Eun-bi",
+      "RUSSIAN": "Ын-би,",
+      "FRENCH": "Eun-bi,",
+      "THAI": "อึนบี,"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "갑자기 왜 도서관이야.",
+      "ENGLISH": "Why the sudden trip to the library?",
+      "CHINESE_SIMPLIFIED": "怎么突然来图书馆了",
+      "CHINESE_TRADITIONAL": "怎麼突然來圖書館了",
+      "JAPANESE": "何で、いきなり図書館なんだよ。",
+      "INDONESIAN": "Kenapa tiba-tiba pergi ke perpustakaan?",
+      "PORTUGUESE": "Por que a ida repentina à biblioteca?",
+      "RUSSIAN": "Почему вдруг решили заглянуть в библиотеку?",
+      "FRENCH": "Pourquoi ce détour soudain à la bibliothèque ?",
+      "THAI": "ทำไมจู่ๆ ถึงมาที่ห้องสมุดล่ะ?"
+    },
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.5
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "미안!",
+      "ENGLISH": "Sorry",
+      "CHINESE_SIMPLIFIED": "抱歉",
+      "CHINESE_TRADITIONAL": "抱歉",
+      "JAPANESE": "ごめん！",
+      "INDONESIAN": "Maaf",
+      "PORTUGUESE": "Desculpa",
+      "RUSSIAN": "Извини,",
+      "FRENCH": "Désolée,",
+      "THAI": "ขอโทษนะ"
+    },
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.2
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "과제 완전 까먹고 있었어...",
+      "ENGLISH": "Totally forgot about this assignment…",
+      "CHINESE_SIMPLIFIED": "我忘了做作业…",
+      "CHINESE_TRADITIONAL": "我忘了做作業…",
+      "JAPANESE": "課題すっかり忘れてた…",
+      "INDONESIAN": "Aku benar-benar lupa tugas ini...",
+      "PORTUGUESE": "Esqueci completamente dessa tarefa...",
+      "RUSSIAN": "совсем забыла про это задание...",
+      "FRENCH": "j’avais complètement oublié ce devoir...",
+      "THAI": "ฉันลืมเรื่องงานนี้ไปเลย…"
+    },
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.5
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "진짜 빨리 끝낼게.",
+      "ENGLISH": "I'll finish it up quickly, promise.",
+      "CHINESE_SIMPLIFIED": "我马上就做完!",
+      "CHINESE_TRADITIONAL": "我馬上就做完!",
+      "JAPANESE": "すぐ終わらせるから、ちょっと待ってね。",
+      "INDONESIAN": "Aku akan cepat menyelesaikannya, janji.",
+      "PORTUGUESE": "Vou terminar rapidinho, prometo.",
+      "RUSSIAN": "Я быстро всё сделаю, обещаю.",
+      "FRENCH": "Je vais le finir vite, promis.",
+      "THAI": "ฉันจะทำให้เสร็จเร็วๆ สัญญา!"
+    },
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.0
+    }
+  }
+]

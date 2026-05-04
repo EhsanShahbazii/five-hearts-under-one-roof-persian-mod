@@ -1,0 +1,42 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "난 기다릴 수 있어요.",
+      "ENGLISH": "I can wait for you.",
+      "CHINESE_SIMPLIFIED": "我可以等你！",
+      "CHINESE_TRADITIONAL": "我可以等你！",
+      "JAPANESE": "僕は待てますよ。",
+      "INDONESIAN": "Aku bisa menunggumu.",
+      "PORTUGUESE": "Posso esperar por você.",
+      "RUSSIAN": "Я могу тебя ждать.",
+      "FRENCH": "Je peux t’attendre.",
+      "THAI": "ฉันรอเธอได้นะ",
+      "PERSIAN": "من میتونم منتظرت باشم"
+    },
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "평생 못 만날 거라 생각했는데, 그 정도야!",
+      "ENGLISH": " I mean, I’ve already gotten through times when I thought I’d never meet you, so this is nothing!",
+      "CHINESE_SIMPLIFIED": "本来以为这辈子都没机会见到你了，等你 多久都可以",
+      "CHINESE_TRADITIONAL": "本來以爲這輩子都沒機會見到你了，等你 多久都可以",
+      "JAPANESE": "一生会えないかもしれないって思ってたんだから、それくらいどうってことないですよ！",
+      "INDONESIAN": "Maksudku, aku sudah melewati masa-masa di mana kupikir aku takkan pernah bertemu denganmu, jadi ini bukan apa-apa!",
+      "PORTUGUESE": "Quer dizer, já passei por momentos em que achei que nunca te encontraria, então isso não é nada!",
+      "RUSSIAN": "То есть, я уже пережил(а) моменты, когда думал(а), что никогда тебя не встречу, так что это пустяк!",
+      "FRENCH": "Je veux dire, j’ai déjà surmonté des moments où je pensais ne jamais te rencontrer, alors ça, c’est rien !",
+      "THAI": "หมายถึง ฉันผ่านช่วงเวลาที่คิดว่าจะไม่ได้เจอเธอมาแล้ว นี่เลยไม่ใช่เรื่องยากอะไรเลย!",
+      "PERSIAN": "منظورم این است که من قبلاً اوقاتی را پشت سر گذاشته ام که فکر می کردم هرگز شما را ملاقات نخواهم کرد، بنابراین این چیزی نیست!"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 6.6
+    }
+  }
+]

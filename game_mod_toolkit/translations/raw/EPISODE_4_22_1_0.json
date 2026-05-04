@@ -1,0 +1,116 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "여기가 서울의 중심이에요.",
+      "ENGLISH": "This is the center of Seoul.",
+      "CHINESE_SIMPLIFIED": "这就是首尔的市中心",
+      "CHINESE_TRADITIONAL": "這就是首爾的市中心",
+      "JAPANESE": "ここがソウルの中心地ですよ。",
+      "INDONESIAN": "Ini pusat Seoul.",
+      "PORTUGUESE": "Este é o centro de Seul.",
+      "RUSSIAN": "Это центр Сеула.",
+      "FRENCH": "C’est le centre de Séoul.",
+      "THAI": "นี่คือใจกลางกรุงโซลนะ"
+    },
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.6
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "올라가면 서울이 다 보여요.",
+      "ENGLISH": "When you go up, you can see all of Seoul.",
+      "CHINESE_SIMPLIFIED": "从这上去的话可以看到整个首尔",
+      "CHINESE_TRADITIONAL": "從這上去的話可以看到整個首爾",
+      "JAPANESE": "上に登ると、ソウルが一望できますよ。",
+      "INDONESIAN": "Kalau kamu naik ke atas, kamu bisa lihat seluruh Seoul.",
+      "PORTUGUESE": "Quando você sobe, dá para ver toda Seul.",
+      "RUSSIAN": "Когда поднимешься, сможешь увидеть весь Сеул.",
+      "FRENCH": "Quand tu montes, tu peux voir tout Séoul.",
+      "THAI": "พอเธอขึ้นไป จะมองเห็นทั่วทั้งโซลเลย"
+    },
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.8
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "그럼 올라가면 유만 님 집도 다 보여요?",
+      "ENGLISH": "Can you see your house from up there too?",
+      "CHINESE_SIMPLIFIED": "那也能看到宥万您的家吗?",
+      "CHINESE_TRADITIONAL": "那也能看到宥萬您的家嗎?",
+      "JAPANESE": "じゃあ、上に登ったらユマンさんの家も見えるんですか？",
+      "INDONESIAN": "Kamu bisa lihat rumahmu dari atas juga?",
+      "PORTUGUESE": "Consegue ver sua casa lá de cima também?",
+      "RUSSIAN": "Свой дом тоже можно увидеть отсюда?",
+      "FRENCH": "Tu peux voir ta maison d’ici aussi ?",
+      "THAI": "เห็นบ้านเธอจากตรงนั้นด้วยได้ไหม?"
+    },
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 8.1
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "당연하죠!",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然可以!",
+      "CHINESE_TRADITIONAL": "當然可以!",
+      "JAPANESE": "もちろんです！",
+      "INDONESIAN": "Tentu saja!",
+      "PORTUGUESE": "Claro!",
+      "RUSSIAN": "Конечно!",
+      "FRENCH": "Bien sûr !",
+      "THAI": "แน่นอน!"
+    },
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.2
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "빨리 올라가요!",
+      "ENGLISH": "Let's go up quickly!",
+      "CHINESE_SIMPLIFIED": "那我们快上去吧!",
+      "CHINESE_TRADITIONAL": "那我們快上去吧!",
+      "JAPANESE": "早く登りましょう！",
+      "INDONESIAN": "Ayo cepat naik!",
+      "PORTUGUESE": "Vamos subir rápido!",
+      "RUSSIAN": "Пойдём скорее наверх!",
+      "FRENCH": "Montons vite !",
+      "THAI": "รีบไปกันเถอะ!"
+    },
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.3
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "빨리!",
+      "ENGLISH": "Hurry!",
+      "CHINESE_SIMPLIFIED": "快!",
+      "CHINESE_TRADITIONAL": "快!",
+      "JAPANESE": "早く！",
+      "INDONESIAN": "Cepetan!",
+      "PORTUGUESE": "Depressa!",
+      "RUSSIAN": "Быстрее!",
+      "FRENCH": "Dépêche !",
+      "THAI": "เร็วๆ เลย!"
+    },
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 115.0
+    }
+  }
+]

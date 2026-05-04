@@ -1,0 +1,22 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "전 불이요!",
+      "ENGLISH": "It's fire!",
+      "CHINESE_SIMPLIFIED": "我觉得火最重要!",
+      "CHINESE_TRADITIONAL": "我覺得火最重要!",
+      "JAPANESE": "私は火です！",
+      "INDONESIAN": "Aku pilih api!",
+      "PORTUGUESE": "Eu escolho o fogo!",
+      "RUSSIAN": "Это огонь!",
+      "FRENCH": "C’est du feu !",
+      "THAI": "นี่คือไฟ!",
+      "PERSIAN": "این آتش است!"
+    },
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.8
+    }
+  }
+]

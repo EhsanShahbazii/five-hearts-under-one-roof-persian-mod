@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "거기 누구 있습니까?",
+      "ENGLISH": "Is someone there?",
+      "CHINESE_SIMPLIFIED": "有人在吗?",
+      "CHINESE_TRADITIONAL": "有人在嗎?",
+      "JAPANESE": "誰かいますか？",
+      "INDONESIAN": "Apakah ada orang di sana?",
+      "PORTUGUESE": "Tem alguém aí?",
+      "RUSSIAN": "Кто-нибудь там есть?",
+      "FRENCH": "Il y a quelqu’un ?",
+      "THAI": "มีใครอยู่ไหม?",
+      "PERSIAN": "کسی اونجا هست؟"
+    },
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.8
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "어, 경비 아저씬가보다",
+      "ENGLISH": "Oh, it must be the security guard.",
+      "CHINESE_SIMPLIFIED": "啊，是保安大叔",
+      "CHINESE_TRADITIONAL": "啊，是保安大叔",
+      "JAPANESE": "あっ、警備員のおじさんかな？",
+      "INDONESIAN": "Oh, pasti satpam.",
+      "PORTUGUESE": "Ah, deve ser o segurança.",
+      "RUSSIAN": "А, это, наверное, охранник.",
+      "FRENCH": "Ah, ça doit être le gardien.",
+      "THAI": "อ๋อ คงเป็นยาม.",
+      "PERSIAN": "اوه، باید نگهبان باشد."
+    },
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.2
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "경비?",
+      "ENGLISH": "Security?",
+      "CHINESE_SIMPLIFIED": "保安?",
+      "CHINESE_TRADITIONAL": "保安?",
+      "JAPANESE": "警備員？",
+      "INDONESIAN": "Satpam?",
+      "PORTUGUESE": "Segurança?",
+      "RUSSIAN": "Охранник?",
+      "FRENCH": "Le gardien ?",
+      "THAI": "ยามเหรอ?",
+      "PERSIAN": "امنیت؟"
+    },
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.2
+    }
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "INDEX": 1.0,
+    "SCRIPT": {
+      "KOREAN": "아저씨! 당장 동전 주우세요.",
+      "ENGLISH": "Mister! Pick up those coins right now.",
+      "CHINESE_SIMPLIFIED": "大叔!赶紧把钱付了!",
+      "CHINESE_TRADITIONAL": "大叔!趕緊把錢付了!",
+      "JAPANESE": "おじさん！お金拾ってください。",
+      "INDONESIAN": "Pak! Ambil koinnya sekarang juga.",
+      "PORTUGUESE": "Senhor! Pegue essas moedas agora.",
+      "RUSSIAN": "Эй, мужчина! Поднимите эти монеты сейчас же.",
+      "FRENCH": "Monsieur ! Ramassez ces pièces tout de suite.",
+      "THAI": "คุณ! เก็บเงินพวกนั้นขึ้นมาตอนนี้เลย"
+    },
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.5
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "SCRIPT": {
+      "KOREAN": "싫은데?",
+      "ENGLISH": "No thanks.",
+      "CHINESE_SIMPLIFIED": "就不付？",
+      "CHINESE_TRADITIONAL": "就不付？",
+      "JAPANESE": "無理なんだけど？",
+      "INDONESIAN": "Enggak, terima kasih.",
+      "PORTUGUESE": "Não, obrigado.",
+      "RUSSIAN": "Нет уж, спасибо.",
+      "FRENCH": "Non merci.",
+      "THAI": "ไม่ดีกว่า"
+    },
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.4
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "SCRIPT": {
+      "KOREAN": "내가 왜?",
+      "ENGLISH": "Why should I?",
+      "CHINESE_SIMPLIFIED": "那咋了？",
+      "CHINESE_TRADITIONAL": "那咋了？",
+      "JAPANESE": "俺が何で？",
+      "INDONESIAN": "Kenapa harus?",
+      "PORTUGUESE": "Por que eu deveria?",
+      "RUSSIAN": "Почему я должен?",
+      "FRENCH": "Pourquoi devrais-je ?",
+      "THAI": "ทำไมผมต้องทำด้วย?"
+    },
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.6
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "SCRIPT": {
+      "KOREAN": "주으시라고요!",
+      "ENGLISH": "I said, pick them up!",
+      "CHINESE_SIMPLIFIED": "我让你赶紧付钱!",
+      "CHINESE_TRADITIONAL": "我讓你趕緊付錢!",
+      "JAPANESE": "拾えって言ってるだろ！",
+      "INDONESIAN": "Aku bilang, ambil koinnya!",
+      "PORTUGUESE": "Eu disse, pegue as moedas!",
+      "RUSSIAN": "Я сказал, поднимите их!",
+      "FRENCH": "J’ai dit, ramassez-les !",
+      "THAI": "ฉันบอกว่า เก็บมันขึ้นมา!"
+    },
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.9
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "SCRIPT": {
+      "KOREAN": "(말숙의 한숨)",
+      "ENGLISH": "(Mal-sook sighs)",
+      "CHINESE_SIMPLIFIED": "唉",
+      "CHINESE_TRADITIONAL": "唉",
+      "JAPANESE": "（マルスクのため息）",
+      "INDONESIAN": "(Mal-sook menghela napas)",
+      "PORTUGUESE": "(Mal-sook suspira)",
+      "RUSSIAN": "(Вздох Мал-Сук)",
+      "FRENCH": "(Soupir de Mal-sook)",
+      "THAI": "(มัลซุกถอนหายใจ)"
+    },
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 7.6
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "SCRIPT": {
+      "KOREAN": "야 고말숙! 너 빨리 안 일어나?",
+      "ENGLISH": "Hey, Mal-sook! Are you going to get up or what?",
+      "CHINESE_SIMPLIFIED": "高末淑!你还不快起来!",
+      "CHINESE_TRADITIONAL": "高末淑!你還不快起來!",
+      "JAPANESE": "おい、マルスク！何してるんだよ。",
+      "INDONESIAN": "Hei, Mal-sook! Kamu mau bangun atau enggak?",
+      "PORTUGUESE": "Ei, Mal-sook! Vai levantar ou não?",
+      "RUSSIAN": "Эй, Мал-Сук! Ты встанешь или как?",
+      "FRENCH": "Hé, Mal-sook ! Tu te lèves ou quoi ?",
+      "THAI": "เฮ้ มัลซุก! เธอจะลุกขึ้นมามั้ย?"
+    },
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.5
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "SCRIPT": {
+      "KOREAN": "이거 돈 빵꾸 나면, 내가 채워야 되거든?",
+      "ENGLISH": "If the money’s short, I have to cover it!",
+      "CHINESE_SIMPLIFIED": "钱要是对不上的话，就得我来垫",
+      "CHINESE_TRADITIONAL": "錢要是對不上的話，就得我來墊",
+      "JAPANESE": "金が足りなくなったら、私が補填しなきゃいけないんだよ？",
+      "INDONESIAN": "Kalau uangnya kurang, aku yang harus nutupin!",
+      "PORTUGUESE": "Se o dinheiro faltar, eu que tenho que cobrir!",
+      "RUSSIAN": "Если денег не хватает, мне придётся покрыть разницу!",
+      "FRENCH": "Si l’argent manque, je vais devoir couvrir la différence !",
+      "THAI": "ถ้าเงินไม่พอ ฉันต้องออกให้เอง!"
+    },
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.5
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "SCRIPT": {
+      "KOREAN": "야 그게 문제야?",
+      "ENGLISH": "Is that really the issue here?",
+      "CHINESE_SIMPLIFIED": "现在这是重点吗?",
+      "CHINESE_TRADITIONAL": "現在這是重點嗎?",
+      "JAPANESE": "お前、今それが問題じゃないだろ。",
+      "INDONESIAN": "Itu benar-benar masalah di sini?",
+      "PORTUGUESE": "Isso é realmente o problema aqui?",
+      "RUSSIAN": "Это реально проблема?",
+      "FRENCH": "C’est vraiment ça le problème ici ?",
+      "THAI": "มันใช่ประเด็นตอนนี้จริงๆ เหรอ?"
+    },
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "KOREAN": "어.",
+      "ENGLISH": "Yeah",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん。",
+      "INDONESIAN": "Iya,",
+      "PORTUGUESE": "Sim,",
+      "RUSSIAN": "Да,",
+      "FRENCH": "Ouais,",
+      "THAI": "ใช่"
+    },
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.4
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "SCRIPT": {
+      "KOREAN": "난 문제야 이게.",
+      "ENGLISH": "It’s an issue for me.",
+      "CHINESE_SIMPLIFIED": "对我来说是",
+      "CHINESE_TRADITIONAL": "對我來說是",
+      "JAPANESE": "問題だって言ってるでしょ。",
+      "INDONESIAN": "Ini masalah buatku.",
+      "PORTUGUESE": "É um problema pra mim.",
+      "RUSSIAN": "для меня это проблема.",
+      "FRENCH": "c’est un problème pour moi.",
+      "THAI": "สำหรับฉันมันคือปัญหา"
+    },
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.9
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "SCRIPT": {
+      "KOREAN": "그러니까 좀 냅둬.",
+      "ENGLISH": "So just let me handle it.",
+      "CHINESE_SIMPLIFIED": "你别管了!",
+      "CHINESE_TRADITIONAL": "你別管了!",
+      "JAPANESE": "だから、そっとしておいて。",
+      "INDONESIAN": "Jadi biar aku aja yang urus.",
+      "PORTUGUESE": "Então deixa que eu resolvo.",
+      "RUSSIAN": "Так что просто позволь мне разобраться.",
+      "FRENCH": "Alors laisse-moi m’en occuper.",
+      "THAI": "เพราะงั้นปล่อยให้ฉันจัดการเถอะ"
+    },
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.7
+    }
+  }
+]
