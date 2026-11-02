@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/cover.png" alt="Five Hearts Under One Roof 1 Cover" width="600" />
+<img src="assets/cover1.png" alt="Five Hearts Under One Roof 1 Cover" width="900" />
 
 ### پچ زیرنویس فارسی کامل، محاوره‌ای و اختصاصی بازی «Five Hearts Under One Roof 1» برای سیستم‌عامل macOS
 
