@@ -23,7 +23,12 @@ from rtl_formatter import shape_persian
 from sdf_font_baker import collect_persian_unicodes, bake_persian_font_into_env
 
 TOOLKIT_DIR = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_GAME_PATH = "/Users/ehsan/Applications/MilkGame.app"
+CANDIDATE_GAME_PATHS = [
+    "/Users/ehsan/Desktop/MilkGame.app",
+    "/Applications/MilkGame.app",
+    "/Users/ehsan/Applications/MilkGame.app"
+]
+DEFAULT_GAME_PATH = next((p for p in CANDIDATE_GAME_PATHS if os.path.exists(p)), CANDIDATE_GAME_PATHS[0])
 BACKUP_DIR = os.path.join(TOOLKIT_DIR, "backup")
 PERSIAN_DIR = os.path.join(TOOLKIT_DIR, "translations", "persian")
 FONTS_DIR = os.path.join(TOOLKIT_DIR, "fonts")
@@ -127,8 +132,10 @@ def apply_patch(game_app_path: str = DEFAULT_GAME_PATH, font_choice: str = "lahz
                         if idx in trans_map:
                             raw_fa = trans_map[idx]
                             shaped = shape_persian(raw_fa)
-                            # Inject Persian into KOREAN slot; ENGLISH remains 100% untouched factory English!
+                            # Inject Persian into KOREAN slot; for STRING (cutscene buttons & UI) also inject into ENGLISH
                             it["SCRIPT"]["KOREAN"] = shaped
+                            if name == "STRING":
+                                it["SCRIPT"]["ENGLISH"] = shaped
                             modified = True
                             patched_lines += 1
 

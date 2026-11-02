@@ -18,10 +18,18 @@ import UnityPy
 
 from rtl_formatter import shape_persian
 
-TYPETREE_BUNDLE_PATH = "/Applications/Five Hearts Under One Roof 2.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/prefabs__696255eeff874f5e4aa086c2c2f7892f.bundle"
+TYPETREE_BUNDLE_PATHS = [
+    "/Users/ehsan/Desktop/Five Hearts Under One Roof 2.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/prefabs__696255eeff874f5e4aa086c2c2f7892f.bundle",
+    "/Applications/Five Hearts Under One Roof 2.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/prefabs__696255eeff874f5e4aa086c2c2f7892f.bundle"
+]
 
-def get_font_typetree_node(bundle_path: str = TYPETREE_BUNDLE_PATH):
-    if not os.path.exists(bundle_path):
+def get_font_typetree_node(bundle_path: str = None):
+    if not bundle_path or not os.path.exists(bundle_path):
+        for candidate in TYPETREE_BUNDLE_PATHS:
+            if os.path.exists(candidate):
+                bundle_path = candidate
+                break
+    if not bundle_path or not os.path.exists(bundle_path):
         raise FileNotFoundError(f"Typetree bundle not found at: {bundle_path}")
     env_bundle = UnityPy.load(bundle_path)
     sf_bundle = list(env_bundle.file.files.values())[0]
